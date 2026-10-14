@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-14T23:48:15+08:00",
-  "lastRunLocal": "2026-10-14 23:48",
+  "lastRun": "2026-10-15T00:00:00+08:00",
+  "lastRunLocal": "2026-10-15 00:00",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "本次未發現新動態"
+  "lastRunNote": "新增 Opinio Juris 學術評論 14 則（2026 年 9 月起，限傳統國際法議題）。"
  },
  "items": [
   {
@@ -230,7 +230,8 @@
    ],
    "addedAt": "2026-10-14T12:30:00+08:00",
    "related": [
-    "2026-10-12-ejil-argentina-unclos"
+    "2026-10-12-ejil-argentina-unclos",
+    "2026-10-12-oj-sea-lion-hamburg"
    ]
   },
   {
@@ -374,7 +375,10 @@
      "official": true
     }
    ],
-   "addedAt": "2026-10-14T12:30:00+08:00"
+   "addedAt": "2026-10-14T12:30:00+08:00",
+   "related": [
+    "2026-10-02-oj-nicaragua-germany-symposium"
+   ]
   },
   {
    "id": "2026-09-01-icj-vanuatu-france",
@@ -923,7 +927,9 @@
     "第一附加議定書第36條",
     "條約談判"
    ],
-   "related": [],
+   "related": [
+    "2026-10-09-oj-ccw-gge-laws-symposium"
+   ],
    "sources": [
     {
      "label": "EJIL:Talk! 原文",
@@ -970,7 +976,8 @@
     "福克蘭/馬爾維納斯"
    ],
    "related": [
-    "2026-10-13-itlos-argentina-uk"
+    "2026-10-13-itlos-argentina-uk",
+    "2026-10-12-oj-sea-lion-hamburg"
    ],
    "sources": [
     {
@@ -1159,7 +1166,9 @@
     "國家責任",
     "月球"
    ],
-   "related": [],
+   "related": [
+    "2026-09-25-oj-space-resources-copuos"
+   ],
    "sources": [
     {
      "label": "EJIL:Talk! 原文",
@@ -1297,6 +1306,747 @@
     }
    ],
    "addedAt": "2026-10-14T23:45:00+08:00"
+  },
+  {
+   "id": "2026-10-12-oj-sea-lion-hamburg",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-10-12",
+   "importance": 2,
+   "author": "Lesther Antonio Ortega Lemus（LexOceana，海牙）",
+   "title": "福克蘭油田爭議：主權未定，阿根廷仍可能向 ITLOS 取得臨時措施",
+   "titleOriginal": "Sea Lion Goes to Hamburg? Provisional Measures Pending the Constitution of an Annex VII Tribunal",
+   "caseRef": "",
+   "tldr": "作者認為，群島主權有爭議，不必然阻止國際海洋法法庭依《聯合國海洋法公約》第 290 條第 5 項給予臨時措施。關鍵在於阿根廷如何把請求寫成「不需先決定主權」的海洋法權利，並證明開鑽會在仲裁庭組成前造成無法回復的損害。",
+   "context": "阿根廷於 9 月 28 日宣布依公約附件七對英國提起仲裁，針對福克蘭（馬爾維納斯）群島北方的 Sea Lion 海上油氣計畫，並給英國兩週期限，否則將向 ITLOS 請求臨時措施（後於 10 月 13 日提出，見「相關動態」）。本文發表於請求提出前一天。",
+   "facts": [
+    "英國回應稱其遵守國際法，尤其是海洋法公約，但並未否認爭端存在，也未否認未來仲裁庭的管轄權。",
+    "阿根廷 10 月 1 日表示已將案件交付「獨立仲裁人」，並主張在爭議區域單方探勘、開採不可再生資源，違反聯大第 31/49 號決議；其請求書內容未公開。",
+    "兩國依第 287 條選擇的程序不同，預設為附件七仲裁。"
+   ],
+   "issues": [
+    "第 290 條第 5 項的程序門檻：兩週期限是否已滿足，以及第 283 條交換意見義務。",
+    "附件七仲裁庭是否具有初步管轄權；陸地主權爭議（混合爭端）是否阻卻海洋法請求。",
+    "英國 2020 年依第 298 條第 1 項第 a 款所作排除聲明的影響。",
+    "權利的可信性、與所請求措施的關聯，以及緊急性與不可回復的損害。"
+   ],
+   "holding": "・查哥斯海洋保護區案、南海仲裁案、沿海國權利（烏克蘭訴俄羅斯）案顯示，主權爭議不會自動排除海洋法請求，判斷要逐項看請求本身；阿根廷可以把請求寫成不需先決定主權歸屬。\n・但「不依賴主權」還不夠，每項請求仍須落在第 288 條之內、第 297 條與第 298 條之外；英國的排除聲明是否相關，取決於請求如何定性。在臨時措施階段，ITLOS 只需判斷初步是否有管轄依據。\n・作者區分「對資源的權利」與「爭端解決前開發資源應遵守的規則」；阿根廷可以只請求保護後者。第三次海洋法會議最終文件附件的「決議三」以及第 83 條第 3 項，都支持主權有爭議時應協商、作臨時安排並保持克制。\n・急迫性方面，鑽探等離岸工程在正式生產前就會進行；海床與底土的物理改變可能無法以金錢彌補，不同於可賠償的財務損失（引迦納／象牙海岸案）。第 290 條第 1 項還允許為防止海洋環境嚴重損害而下令，這是國際法院規約第 41 條所沒有的；MOX 工廠案中 ITLOS 是命令合作與資訊交換，而非停工。",
+   "significance": "作者結論：主權爭議不必然排除對獨立海洋法權利的暫時保護；能否得到臨時措施，取決於所主張的權利、預期的活動與所請求的救濟三者之間的連結。這與 EJIL:Talk! 上另一篇評論（認為 ITLOS 很可能欠缺初步管轄權）立場不同，可對照閱讀。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。",
+   "tags": [
+    "海洋法",
+    "UNCLOS第290條第5項",
+    "附件七仲裁",
+    "混合爭端",
+    "臨時措施",
+    "福克蘭/馬爾維納斯"
+   ],
+   "related": [
+    "2026-10-13-itlos-argentina-uk",
+    "2026-10-12-ejil-argentina-unclos"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/10/12/sea-lion-goes-to-hamburg-provisional-measures-pending-the-constitution-of-an-annex-vii-tribunal/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
+  },
+  {
+   "id": "2026-10-12-oj-bangladesh-maritime-liability",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-10-12",
+   "importance": 1,
+   "author": "Miraj Hosen（孟加拉國際法學會）",
+   "title": "孟加拉加入三項 IMO 海事責任公約：加入不等於受害者拿得到賠償",
+   "titleOriginal": "Consent is not Compensation: Bangladesh's Maritime Liability Test",
+   "caseRef": "",
+   "tldr": "孟加拉今年 7 月加入三項國際海事組織的責任公約。作者提醒，交存加入書只是同意受拘束；要讓污染或沉船的受害者真的拿到賠償，還要等公約生效、加入第二層的國際基金，並且制定國內施行法。",
+   "context": "國際海事組織（IMO）的海事責任公約，要求船東對油污、燃油污染、沉船移除等損害負責並投保；油輪油污另有國際油污賠償基金（IOPC）作為第二層賠償。《聯合國海洋法公約》第 192、194、235 條要求各國防止污染並確保有求償途徑，但未規定必須加入哪些責任公約。",
+   "facts": [
+    "2026 年 7 月 6 日，孟加拉交存加入 1992 年《民事責任公約議定書》（CLC）、2001 年《燃油公約》、2007 年《奈洛比沉船移除公約》的文件。",
+    "《燃油公約》與《奈洛比公約》於 2026 年 10 月 6 日對孟加拉生效；1992 年 CLC 議定書於 2027 年 7 月 6 日生效。",
+    "孟加拉未加入 1992 年《基金公約》，也不是 1976 年《海事求償責任限制公約》（LLMC）及其 1996 年議定書的締約國；國內仍以 1983 年《商船條例》以塔卡計算責任限額。",
+    "孟加拉在加入《奈洛比公約》時聲明將其適用範圍擴及領海。"
+   ],
+   "issues": [
+    "加入條約、條約生效與國內施行三者的關係。",
+    "未加入基金公約對 CLC 第二層賠償的影響。",
+    "國內法是否足以處理證書核發、直接訴訟、責任限制與求償程序。"
+   ],
+   "holding": "・交存加入書是同意受拘束，不是已經有保障；公眾常把加入、生效與施行混為一談。\n・有效的賠償需要三個條件：公約對該國生效、參加分層的賠償制度、以及國內法提供證書、訴因、責任限制程序、法院與求償機制。\n・未加入基金公約，孟加拉的求償人在符合 CLC 的油污事件中，將無法取得業界出資的第二層賠償；鄰國印度、斯里蘭卡、馬爾地夫都已加入。\n・Sundarbans 的 Southern Star 事故發生在內河，官方紀錄無法證明具有 CLC 所需的海上要素，無法用來說明公約如何適用。\n・國內的 1983 年條例與 2000 年《海事法院法》早於這次加入，無法自行補足直接訴訟、保險人抗辯、責任限制基金等規則；《奈洛比公約》擴及領海的聲明則值得肯定。",
+   "significance": "作者建議孟加拉制定各公約的施行法、評估加入基金公約、釐清責任限制制度，並為受影響社區建立求償流程；衡量海事責任制度，應看求償人能否實際拿到賠償，而不是看何時加入。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。",
+   "tags": [
+    "海洋法",
+    "IMO",
+    "條約加入",
+    "國內施行",
+    "油污責任",
+    "孟加拉"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/10/12/consent-is-not-compensation-bangladeshs-maritime-liability-test/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
+  },
+  {
+   "id": "2026-10-11-oj-mv-smyrtos-stateless-vessel",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-10-11",
+   "importance": 2,
+   "author": "Thea Coventry（萊頓大學）",
+   "title": "英國扣押「無國籍」油輪 MV Smyrtos：可以登臨，但能否起訴船長？",
+   "titleOriginal": "The MV Smyrtos Interdiction: Can Stateless Vessels on the High Seas be Seized and the Crew Prosecuted?",
+   "caseRef": "",
+   "tldr": "英國今年 6 月在英吉利海峽登臨一艘涉嫌假掛喀麥隆國旗、運載俄羅斯制裁原油的油輪，並以違反制裁起訴印度籍船長。作者指出，《聯合國海洋法公約》允許登臨檢查無國籍船舶，但沒有明確授權扣押與起訴；若登臨地點在公海，英國可能欠缺起訴外籍船員的管轄依據。",
+   "context": "近年規避對俄制裁的「影子船隊」大量使用無國籍或假掛國旗的船舶。2025 年 6 月，北歐－波羅的海 8++ 國家發表聯合聲明，主張未有效掛旗的船舶不享有公約上的權利（包括航行自由），並表示將在國際法範圍內採取行動。",
+   "facts": [
+    "2026 年 6 月 14 日，英國首度單獨攔截受制裁油輪 MV Smyrtos；該船涉嫌假掛喀麥隆國旗，喀麥隆已於 5 月將其從船舶登記中除名。",
+    "英國皇家海軍陸戰隊與執法人員在英吉利海峽登臨，船上載有逾 10 萬噸俄羅斯原油。",
+    "印度籍船長被捕，被控控制一艘向第三國運送受禁俄國石油的船舶。",
+    "英國援引公約第 110 條與國內法；政府最初稱登臨發生在公海，之後的說法改為該船自願進入英國水域，檢方則稱其無合法船旗而駛入英國領海。"
+   ],
+   "issues": [
+    "如何認定船舶的國籍與無國籍（公約第 91、92 條第 2 項、第 94 條）。",
+    "第 110 條只授權登臨，還是也授權扣押與逮捕。",
+    "無國籍的法律效果：是否喪失航行自由、可否比照海盜。",
+    "英國依國內制裁法與國際法，是否有立法管轄權起訴外籍船長。"
+   ],
+   "holding": "・第 110 條允許對涉嫌無國籍的船舶登臨檢查，假掛國旗可以構成這種懷疑；但公約並未明文授權扣押、逮捕或起訴。\n・公約沒有定義「無國籍船舶」，國籍要件交由各國國內法決定；僅未登記不當然等於無國籍。\n・無國籍的效果並無定論：北歐－波羅的海國家主張無國籍船喪失公約權利；另一說認為沒有船旗國保護，他國可適用其國內法，甚至比照海盜，但此說有爭議。無國籍航行本身不是國際罪行。\n・英國制裁規則（Regulation 46Z9B）只涵蓋英國領土、領海內的行為，以及英國人在境外的行為；若在領海外登臨，該規則無法適用於外籍人士在無國籍船上的行為。\n・依主流見解，若船不在英國水域，只剩普遍管轄可用，而規避制裁不在普遍管轄的公認範圍內，起訴印度籍船長推定違法；另一種看法認為普遍管轄的罪名清單只是例示，無國籍船舶上的行為可自成一類。",
+   "significance": "作者結論：Article 110 是登臨的明確依據，但不是進一步執法與立法管轄的依據；本案起訴是否合法，取決於登臨時船的實際位置。各國的攔截實踐與其他國家的默認或抗議，可能逐漸形成允許對無國籍船舶行使更廣刑事管轄的習慣法；作者呼籲各國制定更清楚的規則並保障船員權利。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。",
+   "tags": [
+    "海洋法",
+    "UNCLOS第110條",
+    "無國籍船舶",
+    "公海",
+    "管轄權",
+    "制裁",
+    "影子船隊"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/10/11/the-mv-smyrtos-interdiction-can-stateless-vessels-on-the-high-seas-be-seized-and-the-crew-prosecuted/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
+  },
+  {
+   "id": "2026-10-09-oj-indus-waters-abeyance",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-10-09",
+   "importance": 2,
+   "author": "Sanmay Moitra（金德爾全球法學院）",
+   "title": "印度把《印度河水條約》「擱置」是什麼意思？作者批評仲裁庭不肯下定論",
+   "titleOriginal": "The Interpretation of 'Abeyance' in Pakistan v. India: An Inconclusive Finding Unsound in Doctrine and Policy",
+   "caseRef": "",
+   "tldr": "印度宣布把《印度河水條約》「擱置」（abeyance），巴基斯坦提起的仲裁案中，仲裁庭認為這個詞可能是「停止施行」也可能是「終止」，不作結論，因為兩者效果相同：印度都沒有合法依據。作者認為仲裁庭應該明確解釋為「停止施行」。",
+   "context": "本案是巴基斯坦對印度提起、由常設仲裁法院管理的「印度河西部河流仲裁」。印度在其所控制的查謨與喀什米爾發生恐怖攻擊後，宣布將條約「擱置」，並主張仲裁庭無管轄權，自程序開始即未參與。國際法上關於條約義務停止的用語，基本上只有《維也納條約法公約》的「停止施行」與「終止」兩種。",
+   "facts": [
+    "仲裁庭於 2026 年 8 月 31 日作成最新一份仲裁判斷。",
+    "仲裁庭從三方面檢視「abeyance」：印度的聲明（有的描述暫停，有的描述條約已失效）、國際用法（少見，少數用例偏向暫時停止）、印度國內法（多與暫時停止同義）。",
+    "仲裁庭以印度未提出正式法律分析為由，不作確定解釋（第 220 段），並認定無論哪種解釋，效果都相同，因為印度沒有停止施行或終止條約的依據（第 326 段）。"
+   ],
+   "issues": [
+    "國家單方使用條約法上沒有的用語時，仲裁庭應如何定性其法律效果。",
+    "不出庭國家欠缺法律論證，能否成為仲裁庭不作解釋的理由。"
+   ],
+   "holding": "・整體來看，印度的聲明更明確指向「停止施行」；僅有寫給世界銀行與中立專家的兩份函件暗示終止，而依《維也納條約法公約》第 72 條第 1 項第 a 款，停止施行同樣可免除履行義務，所以歧義被誇大了。\n・仲裁庭自己的第二、三步分析都指向停止施行，拒絕下結論與其方法不一致。\n・依「法官知法」原則，仲裁庭不受當事方法律定性的拘束（引尼加拉瓜案等），印度未提出法律分析並不相關。\n・東卡累利亞案可以區別：該案的問題是常設國際法院欠缺諮詢管轄的同意，而非無法解釋；本案管轄權已確立，且先前裁決已認定印度不出庭不影響管轄。\n・政策上，順從不合作國家的自我定性，會鼓勵不出庭，也讓國際法無法規範國家創造的新用語。",
+   "significance": "作者結論：結果雖不受影響，但仲裁庭錯失釐清國家「發明用語」法律效果的機會，應將「abeyance」解釋為停止施行。本案也涉及國家以不出庭對抗國際仲裁的問題。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。",
+   "tags": [
+    "條約法",
+    "維也納條約法公約",
+    "條約停止施行",
+    "常設仲裁法院",
+    "不出庭",
+    "印度河水條約"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/10/09/the-interpretation-of-abeyance-in-pakistan-v-india-an-inconclusive-finding-unsound-in-doctrine-and-policy/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
+  },
+  {
+   "id": "2026-10-09-oj-ccw-gge-laws-symposium",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-10-09",
+   "importance": 2,
+   "author": "Jessica Dorsey、Rain Liivoja、Netta Goussac、Sally Longworth、Anna Andersson、Jeroen van den Boogaard",
+   "title": "研討會：自主致命武器專家小組報告，從共識到下一步談判",
+   "titleOriginal": "Symposium on the CCW GGE LAWS (5–9 October 2026)",
+   "caseRef": "",
+   "tldr": "Opinio Juris 以七篇文章檢討《特定常規武器公約》政府專家小組 9 月通過的自主致命武器報告。作者群肯定在高度對立下取得共識，但指出許多條文被削弱，例如「禁止」改成「不得」、刪除效果無法預見之攻擊的禁止，問責部分也著墨不足。",
+   "context": "政府專家小組（GGE LAWS）在《特定常規武器公約》（CCW）架構下運作。2026 年 9 月 5 日，小組以共識通過完成 2024 至 2026 年任務的報告，第 25 至 44 段列出「一份文書的要素，不預設其性質」。主席為荷蘭大使 Robert in den Bosch。CCW 有 128 個締約國，至少 70 國準備進入具拘束力文書的談判。報告將提交 2026 年 11 月 16 至 20 日的 CCW 第七次檢討會議。",
+   "facts": [
+    "最後階段談判緊繃，曾出現弱化文本的提案；許多工作在沒有口譯的英語非正式會議中進行，加重各代表團負擔。",
+    "共識在 9 月 5 日凌晨達成；「特徵描述」的爭論一直到最後才解決，靠新增第 25a、25b 段說明。",
+    "第 31 至 33 段的措辭由「禁止」改為「不得」，起因是俄羅斯在 9 月 3 日的宣讀中反對使用「禁止」，理由是小組沒有締約授權。",
+    "「效果無法預見與限制的攻擊」一段，在以色列、美國、俄羅斯反對下於最後時刻刪除；奧地利與巴拿馬主張這是現行法。",
+    "「有意義的人類控制」改為「依情境適當的人類判斷與控制」。"
+   ],
+   "issues": [
+    "報告中的「框架」與「禁止」條款，是否忠實重述現行國際人道法。",
+    "在不締造新法的前提下，締約國共識能否影響條約解釋與習慣法的發展。",
+    "人機分工、生命週期措施、責任與問責如何規範。"
+   ],
+   "holding": "・Longworth：第 26、30 段（作戰方法與手段的限制、馬頓斯條款）是最穩固的錨點；第 28 段確認國際人道法課予國家、衝突各方與個人義務，而不是機器。依國際法委員會關於嗣後協定與習慣法的研究，即使不是在締約，締約國共識也可能影響法律理解。「不得」一詞讓意義是否改變、義務對象是誰變得不明確；刪除對無法預見效果之攻擊的禁止，留下缺口。\n・van den Boogaard（曾協助主席）：以「滾動文本」分盒處理、主席把全文當作一攬子方案，是達成共識的關鍵；但「其他措施」與「責任與問責」兩部分討論時間不足，一些實務措施（例如限制自主攻擊）未能保留。\n・研討會導論：報告既記錄已同意的事項，也暴露未同意的部分，在控制與人類判斷等議題上的共識很窄，預示未來談判將很艱難。",
+   "significance": "11 月的 CCW 第七次檢討會議將決定是否展開具拘束力文書的談判。可與 EJIL:Talk! 上 Aurel Sari 對同一報告定義條款的分析對照閱讀（見「相關動態」）。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：本則依研討會導論，以及 Longworth、van den Boogaard 兩篇文章撰寫；Liivoja（特徵描述）、Andersson（人類要素）、Goussac（生命週期措施）、Dorsey（責任與問責）四篇的內容未逐篇摘要，請見下方原文連結。",
+   "tags": [
+    "國際人道法",
+    "武器法",
+    "CCW",
+    "自主武器",
+    "條約談判",
+    "人類控制"
+   ],
+   "related": [
+    "2026-10-13-ejil-laws-characterization"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/10/05/symposium-on-the-ccw-gge-laws-the-end-of-the-beginning-an-introduction/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Longworth, What's in a Prohibition?",
+     "url": "https://opiniojuris.org/2026/10/06/symposium-on-the-ccw-gge-laws-whats-in-a-prohibition-the-framing-of-the-final-set-of-elements-within-existing-ihl/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：van den Boogaard, Obstacles Avoided?",
+     "url": "https://opiniojuris.org/2026/10/09/symposium-on-the-ccw-gge-laws-obstacles-avoided-rolling-towards-consensus-for-the-2026-gge-laws-report/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Liivoja, Words (Don't Come Easy)",
+     "url": "https://opiniojuris.org/2026/10/05/symposium-on-the-ccw-gge-laws-words-dont-come-easy-characterisation-of-lethal-autonomous-weapon-systems/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Andersson, The Human Element",
+     "url": "https://opiniojuris.org/2026/10/07/symposium-on-the-ccw-gge-laws-the-human-element-in-the-gge-laws-2024-2026-report/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Goussac, Once in a Lifecycle",
+     "url": "https://opiniojuris.org/2026/10/08/symposium-on-the-ccw-gge-laws-once-in-a-lifecycle-same-as-it-ever-was-in-the-gges-elements/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Dorsey, You Can't Always Get What You Want",
+     "url": "https://opiniojuris.org/2026/10/09/symposium-on-the-ccw-gge-laws-from-obligations-to-encouragement-responsibility-retained-accountability-diluted-in-the-gge-laws-final-report/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
+  },
+  {
+   "id": "2026-10-02-oj-iran-strikes-kurdish-parties",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-10-02",
+   "importance": 1,
+   "author": "Arez Rizgari（化名）",
+   "title": "伊朗空襲伊拉克境內庫德政黨：新兵算不算可攻擊的戰鬥人員？",
+   "titleOriginal": "Iran's Strikes on Kurdish Parties: CCF's Unenforceability as a Sign of Structural Inequality in IHL",
+   "caseRef": "",
+   "tldr": "伊朗革命衛隊多次以飛彈和無人機攻擊設在伊拉克庫德自治區的伊朗庫德政黨。作者以國際人道法「持續作戰職能」的標準檢視 7 月 17 日的空襲，認為死者多半還在入黨程序中，不能證明是戰鬥人員，應推定為平民；而國際人道法缺乏執行機制，讓這類違法難以追究。",
+   "context": "「持續作戰職能」（Continuous Combat Function, CCF）出自紅十字國際委員會 2009 年《直接參與敵對行為解釋性指南》，用來判斷有組織武裝團體中哪些成員隨時可被攻擊；只適用於團體的武裝部門，不及於政治或人道部門。各國對此標準的採用不一，以色列等國傾向更寬的「成員身分即可攻擊」。作者因擔心遭報復而使用化名。",
+   "facts": [
+    "自 1979 年起，伊朗即與其境內庫德（Rojhilat）政黨對峙；2026 年 2 月 28 日伊朗與美以聯軍衝突開始後，攻擊轉趨頻繁。",
+    "2026 年 7 月 17 日，革命衛隊空襲 Komala 總部的接待區，至少 10 名自由鬥士（Peshmerga）死亡。Komala 稱死者是準備加入部隊的新兵；人權團體報告顯示多人仍在入黨程序中，沒有經查證的持續作戰職能或直接參與敵對行為。",
+    "作者另引 2018 年 9 月 8 日對 PDKI 領導會議的空襲（11 至 16 人死亡），以及 2026 年 5 月對安置家屬與難民營地的無人機攻擊。"
+   ],
+   "issues": [
+    "伊朗與庫德政黨之間是否構成跨境的非國際性武裝衝突。",
+    "仍在招募或入黨程序中的人，是否已具持續作戰職能而可被攻擊。",
+    "有疑義時的平民推定與舉證責任；區分原則與預防措施是否被遵守。"
+   ],
+   "holding": "・作者暫不處理武力使用（jus ad bellum）的合法性，僅就國際人道法分析。\n・依 Tadić 案的組織性與強度標準，作者認定構成跨境非國際性武裝衝突；《第一附加議定書》第 50 條第 1 項（平民推定）作為習慣法適用。\n・持續作戰職能需要長期融入武裝部隊並具持續職能；招募本身不足以構成。現有資料無法證明這些人已同時完成招募、訓練與配備，也沒有制服、武器或敵對行為的報告；訓練若未連結到特定敵對行為，也不構成直接參與。\n・有疑義時推定為平民，舉證責任在伊朗；在公開資訊下，無法或不願區分，強烈顯示構成不分皂白的攻擊，違反區分與預防原則。\n・國際法院管轄須國家同意，國際人道事實調查委員會也須同意，國際刑事法院有賴國家合作；不對稱衝突中互惠誘因薄弱，形成結構性的執行不平等。",
+   "significance": "作者主張設立不以國家同意為前提的國際調查機制，先記錄違法事實，作為日後問責的基礎；並指出各國偏離持續作戰職能標準時，都是朝更寬鬆的攻擊授權方向。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：作者自承資料有限，無法確認每位死者所處的入黨或訓練階段，也無法查證「接待區」的結構。",
+   "tags": [
+    "國際人道法",
+    "區分原則",
+    "持續作戰職能",
+    "非國際性武裝衝突",
+    "伊朗",
+    "伊拉克庫德區"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/10/02/irans-strikes-on-kurdish-parties-ccfs-unenforceability-as-a-sign-of-structural-inequality-in-ihl/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
+  },
+  {
+   "id": "2026-10-02-oj-nicaragua-germany-symposium",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-10-02",
+   "importance": 2,
+   "author": "Jinan Bastaki 等（與 Law for Palestine 合辦）",
+   "title": "研討會：尼加拉瓜訴德國案的管轄、責任與時間問題",
+   "titleOriginal": "Symposium on Jurisdiction, Responsibility, and Temporality: Nicaragua v. Germany Before the ICJ (28 September – 2 October 2026)",
+   "caseRef": "",
+   "tldr": "Opinio Juris 以九篇文章討論國際法院「尼加拉瓜訴德國」案的先決性抗辯。多位作者認為，防止種族滅絕的義務因「嚴重風險」而觸發，不必先認定以色列的責任，所以 Monetary Gold 原則不應阻擋本案；德國 2008 年以後才接受管轄的時間限制，也擋不住 2023 年 10 月以後的軍售決定。",
+   "context": "尼加拉瓜主張德國對以色列的軍事支持等違反《防止及懲治種族滅絕罪公約》與國際人道法。德國提出先決性抗辯，國際法院已於 2026 年 9 月 7 日至 10 日進行言詞辯論，尚待宣判（見「相關動態」）。德國的主要抗辯包括 Monetary Gold 原則（不能在未到庭的以色列缺席下判斷其責任），以及德國 2008 年 4 月 30 日任擇條款聲明的時間限制。",
+   "facts": [
+    "研討會由 Jinan Bastaki 主編，收錄 Longobardo、Haque、Samour、Adel、Bastaki 與 Kattan、Hammouri、Goldmann、González Hauck 等人的文章。",
+    "德國主張，防止種族滅絕的義務以種族滅絕已確定發生為前提，援引 2007 年波士尼亞訴塞爾維亞案與《國家責任條款》第 14 條第 3 項，並把同樣推理延伸到確保尊重國際人道法的義務。",
+    "德國主張其任擇條款聲明只涵蓋 2008 年 4 月 30 日以後發生的情勢或事實，而尼加拉瓜的請求源自更早的情勢。",
+    "德國主張諮詢意見不具拘束力，不能藉此繞過訴訟管轄所需的國家同意。"
+   ],
+   "issues": [
+    "Monetary Gold 原則：判斷德國的責任，是否必須先判斷未到庭的以色列的責任。",
+    "防止種族滅絕與確保尊重國際人道法的義務，何時被觸發。",
+    "任擇條款聲明的時間限制如何適用於持續性情勢中的新行為。",
+    "國際法院諮詢意見在訴訟案件中的法律意義。"
+   ],
+   "holding": "・Longobardo：這兩項義務因「嚴重風險」而觸發（波士尼亞訴塞爾維亞案第 431 段），德國的行為可依風險的事實認定評估，不必先在法律上確立以色列的責任；Monetary Gold 只禁止對非當事國作法律認定，不禁止判決對其產生負面影響。作者也認為《國家責任條款》第 14 條第 3 項缺乏國家實踐支持，國際法院應放棄將其適用於防止種族滅絕義務。\n・Haque：種族滅絕是由個人實施的，公約要求國家運用其影響力防止任何人實施，包括他國官員；因此法院可認定德國未盡防止義務或構成共犯，而無須先把行為歸屬於以色列。這個論點出現在尼加拉瓜書狀中，但篇幅很少，可能被法院忽略。\n・Samour：時間限制不應成為擋箭牌；2023 年 10 月至 12 月德國在各方警告下大幅增加軍售許可，屬於 2008 年後新的作為與不作為，不在聲明排除範圍內。\n・Hammouri：諮詢意見不具拘束力，但不等於法律上無關；它是聯合國主要司法機關對法律與事實的權威陳述，問題在於後案如何使用，而非是否繞過同意。",
+   "significance": "國際法院對先決性抗辯的判決將決定本案能否進入實體，並影響第三國對武器出口、防止種族滅絕義務的責任界線。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：本則依研討會導論，以及 Longobardo、Haque、Samour、Hammouri 四篇文章撰寫；Adel（長期佔領與時間性）、Bastaki 與 Kattan（CERD 與習慣法下的種族隔離）、Goldmann（德國對國際法的承諾）、González Hauck（德國武器出口許可框架）四篇未逐篇摘要，請見下方原文連結。",
+   "tags": [
+    "國際法院",
+    "先決性抗辯",
+    "Monetary Gold",
+    "任擇條款",
+    "時間管轄",
+    "諮詢意見",
+    "種族滅絕公約",
+    "武器出口"
+   ],
+   "related": [
+    "2026-09-10-icj-nicaragua-germany"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/09/28/introduction-to-the-symposium-on-jurisdiction-responsibility-and-temporality-nicaragua-v-germany-before-the-icj/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Longobardo, The Monetary Gold Principle and Preliminary Objections",
+     "url": "https://opiniojuris.org/2026/09/28/the-monetary-gold-principle-and-preliminary-objections-in-the-nicaragua-v-germany-case/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Haque, Nicaragua's Monetary Gold Problem (and its Solution)",
+     "url": "https://opiniojuris.org/2026/09/29/nicaraguas-monetary-gold-problem-and-its-solution/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Samour, Germany's Arms Transfers and the Temporal Scope of ICJ Jurisdiction",
+     "url": "https://opiniojuris.org/2026/09/30/from-historical-context-to-succeeding-conduct-germanys-arms-transfers-and-the-temporal-scope-of-icj-jurisdiction/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Hammouri, Germany's Position on the Relevance of Advisory Opinions",
+     "url": "https://opiniojuris.org/2026/10/01/insulating-legal-reality-assessing-germanys-position-on-the-relevance-of-advisory-opinions/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Adel, Temporality and Third-State Responsibility in Prolonged Occupations",
+     "url": "https://opiniojuris.org/2026/09/29/temporality-and-third-state-responsibility-in-prolonged-occupations/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Bastaki & Kattan, Apartheid Under CERD and Customary International Law",
+     "url": "https://opiniojuris.org/2026/09/30/competing-jurisdictions-apartheid-under-cerd-and-customary-international-law/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Goldmann, Empty Promises",
+     "url": "https://opiniojuris.org/2026/10/01/empty-promises-germanys-questionable-commitment-to-international-law/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：González Hauck, Germany's 'Robust Legal Framework' on Weapons Export Licences",
+     "url": "https://opiniojuris.org/2026/10/02/setting-the-record-straight-germanys-robust-legal-framework-on-weapons-export-licences/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
+  },
+  {
+   "id": "2026-09-25-oj-space-resources-copuos",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-09-25",
+   "importance": 1,
+   "author": "Güneş Ünüvar（艾希特大學）",
+   "title": "太空資源開採原則草案：合法開採不等於據為己有",
+   "titleOriginal": "Space Resources and the Anatomy of Consensus at COPUOS",
+   "caseRef": "",
+   "tldr": "聯合國外太空委員會（COPUOS）的工作小組 9 月公布太空資源活動原則的整合草案。作者認為篇幅縮短不代表內容變弱：草案的核心前提是，符合《外太空條約》的資源開採本身不構成「據為己有」，但開採物的所有權等問題仍未解決。",
+   "context": "《外太空條約》第 2 條禁止各國以主權主張、使用、佔領或其他方式將外太空據為己有。COPUOS 法律小組委員會下的「太空資源活動法律問題工作小組」自 2025 年 3 月起起草不具拘束力的原則，若通過，將是 COPUOS 第一份專門針對太空資源的共識文件。作者為月球村協會（COPUOS 常駐觀察員）的理事兼法律顧問，以個人身分撰文。",
+   "facts": [
+    "工作小組（主席為 Steven Freeland 名譽教授）於 9 月公布《太空資源活動初步建議原則》整合草案，接續 2026 年 4 月的多份草案；這是 2027 年 4 月法律小組委員會會議前六份會期間成果中的第一份。",
+    "新草案刪除了括號中的替代條文與互相競爭的條款，因此篇幅較短。",
+    "序言提及「原處的資源」（resources in place），係應俄羅斯要求加入。"
+   ],
+   "issues": [
+    "資源開採是否構成《外太空條約》第 2 條所禁止的國家據為己有；原處的資源是否仍屬外太空的一部分。",
+    "不具拘束力的原則如何重述條約中「應」（shall）的義務，而不顯得弱化條約。",
+    "以共識決為基礎的機構如何調和利益分歧的國家。"
+   ],
+   "holding": "・序言以引號重述條約的「應」字，避免改成「宜」（should）而前後不一，同時表明拘束力來自條約本身。\n・原則一（B）把太空資源活動納入「太空活動」，等於將其置於既有法律架構內。\n・「原處的資源」的提法，抵制提早主張所有權；商業價值不會使資源脫離外太空。\n・原則二：符合條約的開採本身不構成國家據為己有；合法性的檢驗直接回到條約，而不是寫在原則中，是相對於早期草案的重要轉變。\n・原則三至八借用既有的安全、永續與通報規則；「合理」「可行」等用語的內容將透過實踐形成。刪除科學任務的優先地位，避免科學與商業的僵化排序；惠益分享只保留為自願、「視情況」的考量。\n・回應「過於模糊」的批評：COPUOS 有 110 個會員國並以共識決，必須保持一般性，過早細化並不實際。",
+   "significance": "作者認為草案可望獲得廣泛支持；但開採物的所有權、各國國內法的國際效力等問題仍未解決，未來將透過實踐與逐步修訂發展。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。",
+   "tags": [
+    "太空法",
+    "外太空條約",
+    "不得據為己有",
+    "COPUOS",
+    "軟法",
+    "共識決"
+   ],
+   "related": [
+    "2026-09-02-ejil-lunar-nuclear-liability"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/09/25/space-resources-and-the-anatomy-of-consensus-at-copuos/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
+  },
+  {
+   "id": "2026-09-19-oj-iran-ffm-us-strikes",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-09-19",
+   "importance": 2,
+   "author": "Kevin Jon Heller（哥本哈根大學）、Jessica Dorsey（烏特勒支大學）、Neil Cameron（康乃爾大學）",
+   "title": "聯合國伊朗事實調查團認定美軍空襲學校構成戰爭罪：三篇評論的分歧",
+   "titleOriginal": "Commentaries on the UN Fact-Finding Mission on Iran and the Minab, Lamerd and Kuhestak strikes",
+   "caseRef": "",
+   "tldr": "聯合國人權理事會設立的伊朗事實調查團 9 月報告，認定美軍 2026 年 2 月 28 日空襲米納布一所小學與拉梅爾德一處體育中心構成戰爭罪。Opinio Juris 三篇評論都同意空襲違反國際人道法，但對是否構成「戰爭罪」、以及預防措施的審查方式看法不同。",
+   "context": "伊朗事實調查團（IIFFM／FFMI）由聯合國人權理事會設立。作者描述的背景是 2026 年 2 月 28 日開始的伊朗與美國、以色列之間的國際性武裝衝突。米納布小學空襲據美方初步調查，起因是依據有關附近革命衛隊海軍設施的過時情資設定座標。",
+   "facts": [
+    "調查團 2026 年 9 月 17 日提交人權理事會的報告認定：米納布 Shajareh Tayyebeh 小學空襲造成至少 157 人死亡（多數為兒童），構成以民用物體為攻擊對象的戰爭罪（第 126 段）；拉梅爾德體育中心空襲使用會散射大量鎢珠的精確打擊飛彈，構成不分皂白攻擊的戰爭罪（第 128 段）。",
+    "報告要求美國公開其內部調查結果；美國未回應調查團的資訊請求。",
+    "另一起事件：2026 年 9 月 1 日，美軍滑翔炸彈擊中荷莫茲海峽小鎮庫赫斯塔克一處舉行婚禮的民宅，5 人死亡、逾 60 人受傷；美方稱目標是約 100 公尺外的通訊塔。"
+   ],
+   "issues": [
+    "米納布空襲應定性為不分皂白攻擊，還是以民用物體為攻擊對象。",
+    "戰爭罪的主觀要件：習慣法下的輕率（dolus eventualis）與《羅馬規約》第 30 條的「明知」。",
+    "《第一附加議定書》第 57 條：預防措施是否必須先於比例原則的權衡；AI 輔助、高節奏作戰下的「可行」預防措施。"
+   ],
+   "holding": "・Heller（9 月 19 日）：同意米納布空襲違反國際人道法、拉梅爾德的認定有初步依據，也認為美以對伊朗的攻擊構成侵略；但認為報告未能證明米納布空襲構成戰爭罪。過時情資、未查證、輕忽平民傷害，較像過失而非輕率；報告也沒有指出是哪些人員具備主觀要件，不足以支撐個人刑事責任。\n・Dorsey（9 月 18 日）：預防措施優先於比例原則，審查應往上游追溯到目標識別、情資的時效與不確定性。資料庫與 AI 讓過時資訊更容易被快速取用並掩蓋錯誤；作戰節奏是一種選擇，若沒有足夠時間查證，應調整節奏而不是調整國際人道法；系統設計可以擴大「可行」的範圍，國家不能用自己設下的限制縮小它。\n・Cameron（9 月 15 日）：官方把平民死亡說成「失誤」，跳過了是否已採取可行預防措施的問題；第 57 條第 2 項第 a 款第 ii 目的預防措施必須在第 iii 目的比例權衡之前窮盡。米納布主要是查證失敗；庫赫斯塔克則應檢討攻擊時間、武器選擇、監視運用與投彈方向。美國雖非第一附加議定書締約國，但其《戰爭法手冊》也承認預防義務。",
+   "significance": "三篇評論顯示，事實調查團的「合理理由相信」認定與刑事審判所需的證明標準之間存在落差；也凸顯 AI 輔助、高速作戰下預防措施的審查重點。報告的認定屬調查性質，不是司法裁判。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：本則合併三篇評論撰寫，死傷人數依各文所引來源略有不同；Dorsey 為 Opinio Juris 執行編輯。",
+   "tags": [
+    "國際人道法",
+    "預防措施",
+    "比例原則",
+    "第一附加議定書第57條",
+    "戰爭罪",
+    "事實調查",
+    "伊朗",
+    "AI作戰"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/09/19/the-iran-iiffms-unconvincing-war-crimes-analysis/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Dorsey, UN Fact-Finding Mission on Iran: U.S. War Crimes and Precautions in AI-Enabled Warfare",
+     "url": "https://opiniojuris.org/2026/09/18/un-fact-finding-mission-on-iran-u-s-war-crimes-and-precautions-in-ai-enabled-warfare/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris：Cameron, Where the Miss Lands: Kuhestak, Minab and the Precautions",
+     "url": "https://opiniojuris.org/2026/09/15/where-the-miss-lands-kuhestak-minab-and-the-precautions-that-come-before-the-balance/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
+  },
+  {
+   "id": "2026-09-16-oj-hormuz-mou-hostilities",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-09-16",
+   "importance": 2,
+   "author": "Amir Abbas Kiani（設拉子大學）",
+   "title": "美伊《伊斯蘭堡備忘錄》是停火而非終戰：一方違約後能否恢復開戰？",
+   "titleOriginal": "Targeting Merchant Ships in the Strait of Hormuz: The Iran–U.S. MoU and the Resumption of Hostilities",
+   "caseRef": "",
+   "tldr": "美伊 6 月簽署備忘錄停止敵對行為，並要求伊朗恢復荷莫茲海峽的商船通行。美方指控伊朗攻擊商船、違反備忘錄，7 月恢復空襲。作者認為備忘錄只是停火；重大違約依《海牙章程》第 40 條可能允許恢復敵對，但之後動用的武力仍受武力使用法的必要性與比例性限制。",
+   "context": "依作者描述，伊朗與美國之間的國際性武裝衝突始於 2026 年 2 月 28 日。停火協定只是暫停敵對行為，依《第一附加議定書》第 3 條第 b 款，武裝衝突要到「軍事行動全面結束」才終止。",
+   "facts": [
+    "2026 年 6 月 17 日，伊朗與美國簽署《伊斯蘭堡備忘錄》。第 1 段宣布結束戰爭、雙方不得威脅或使用武力；第 5 段要求伊朗在 30 天內使商船通過荷莫茲海峽的數量恢復到戰前水準（考量技術障礙與排雷）。",
+    "雙方對第 5 段解讀不同：伊朗認為船舶須使用伊朗指定航道，美國認為應保障不受航道限制的商業通行。",
+    "美方官員稱伊朗在阿曼領海附近向三艘商船開火，構成「嚴重違反」；美方隨即恢復空襲，美軍中央司令部稱 7 月 7 日打擊逾 80 個目標，理由是伊朗未履行第 5 段義務。"
+   ],
+   "issues": [
+    "備忘錄是停火協定還是終戰協定。",
+    "第 5 段的解釋（《維也納條約法公約》第 31 條）。",
+    "重大違約是否允許恢復敵對行為；《維也納條約法公約》第 60 條與《海牙章程》第 40 條的關係。",
+    "武裝衝突持續中，恢復動武是否仍受武力使用法（jus ad bellum）規範。"
+   ],
+   "holding": "・備忘錄是停火，暫停而非終結武裝衝突（引 Gotovina 案、美國《戰爭法手冊》等）。\n・依條約文字，第 5 段未提及特定航道；伊朗的解讀會使第 5 段只是重述其既有的航道做法，而那正是爭議來源，難以成立。伊朗或可主張第 5 段是結果義務、手段由其選擇，但被認為是自利解釋。\n・第 13 段把第 5 段列為重要條款，違反可能構成第 60 條的重大違約；但第 60 條處理的是條約的停止施行或終止，不是恢復敵對的權利。《海牙章程》第 40 條補足此點：停戰遭嚴重違反時，緊急情況下可立即恢復敵對。\n・作者引國際法院 2024 年巴勒斯坦被佔領土諮詢意見，主張武力使用法與國際人道法同時適用；否則長期衝突將脫離武力使用法的規範。因此恢復後的武力仍須符合必要性與比例性；但也不必每次恢復都要有新的「武力攻擊」。\n・備忘錄本身沒有規定何時可恢復動武，第 1 段反而禁止使用武力，問題回到第 40 條與一般武力使用法。",
+   "significance": "作者結論：伊朗攻擊商船可能構成重大違約，使美國免除停火義務，並在緊急時依第 40 條恢復敵對；但其後武力的範圍是否、以及如何受武力使用法拘束，仍有爭議。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：作者明言本文未處理海戰法、聖雷莫手冊、中立船舶或過境通行等問題。",
+   "tags": [
+    "武力使用",
+    "停火協定",
+    "維也納條約法公約第60條",
+    "海牙章程第40條",
+    "荷莫茲海峽",
+    "伊朗",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/09/16/targeting-merchant-ships-in-the-strait-of-hormuz-the-iran-u-s-mou-and-the-resumption-of-hostilities/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
+  },
+  {
+   "id": "2026-09-14-oj-gambia-myanmar-threshold",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-09-14",
+   "importance": 1,
+   "author": "Filipo Tarakinikini（斐濟常駐聯合國代表）、Geert-Jan Alexander Knoops（阿姆斯特丹大學）、Gregory Rose（臥龍崗大學）",
+   "title": "甘比亞訴緬甸案：國際法院不應為了嚴重事實而降低種族滅絕的證明門檻",
+   "titleOriginal": "Hard Facts and the Threshold: What the Gambia v. Myanmar Should Not Decide",
+   "caseRef": "",
+   "tldr": "國際法院「甘比亞訴緬甸」種族滅絕案已完成實體辯論、正在評議。三位作者主張，國家責任應適用與個人刑責相同的特定意圖標準；聯合國與 NGO 報告應依方法論逐一評估證據力；本案關於羅興亞人的認定，也不應套用到城市作戰。",
+   "context": "本案是逾十年來第一件完整進行實體辯論的種族滅絕案，也是第一件由非直接受害國提起的案件。三週的實體言詞辯論於 2026 年 1 月 29 日結束，法院仍在評議。作者之一為斐濟常駐聯合國代表，斐濟未參加本案訴訟。",
+   "facts": [
+    "辯論中，Hmoud 法官詢問國家責任與個人刑事責任是否須具備相同的特定意圖；Cleveland 法官問及 NGO 報告的證據力；Gómez Robledo 法官問及能否因國家拒絕調查機構入境而作不利推論。",
+    "作者引用 ICTY Gotovina 案：初審分庭自創「200 公尺標準」，被上訴分庭推翻並改判無罪。"
+   ],
+   "issues": [
+    "國家責任與個人刑事責任是否適用相同的特定意圖（dolus specialis）。",
+    "聯合國事實調查與 NGO 報告的證據力；拒絕調查機構入境能否作不利推論。",
+    "《種族滅絕公約》第 2 條第 c 款「故意使該團體處於某種生活狀況」的範圍。",
+    "波士尼亞案與克羅埃西亞案的「唯一合理推論」標準，以及「整體性」解釋方法是否偏離《維也納條約法公約》第 31、32 條。"
+   ],
+   "holding": "・國際法院沒有上訴機制，若在證據壓力下調整標準，錯誤無法更正。\n・國家責任採較低標準會造成多餘、誘使訴訟避開國際刑事法院，並在後續刑事程序中產生連帶效果，沒有原則上的理由區分兩者。\n・報告的證據力應依方法、經費、職權與倡議紀錄逐一評估，不應因機構來源而推定可信。\n・國家拒絕入境可能有其他原因，不必然代表心虛；特定意圖必須是唯一合理推論，須考量其他解釋。第 2 條第 c 款的「故意」「蓄意」本身就包含特定意圖，惡劣生活條件不能自動推導出意圖。\n・羅興亞案是對無武裝少數群體的清剿行動，與對手藏身城市之中的作戰不同，本案認定不應移植到後者。作者並批評愛爾蘭在加薩案的參加意見提出「可預見性」標準，等於以過失取代特定意圖；也反對以「整體性」方法取代習慣法上的條約解釋規則。",
+   "significance": "作者強調並非主張緬甸應勝訴，事實可能已達現行門檻；但降低門檻會削弱公約日後的適用。作者也指出，近七年已有五件種族滅絕案，可能被用來處理法院原本沒有管轄權的武裝衝突議題。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：本網站對涉及種族滅絕的評論，只收錄以國際法院管轄、程序與證據為主軸的文章；以種族滅絕罪構成要件（意圖、行為要素）為主的文章，歸入國際刑法而未收錄。",
+   "tags": [
+    "國際法院",
+    "證明標準",
+    "證據法",
+    "種族滅絕公約",
+    "條約解釋",
+    "羅興亞"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/09/14/hard-facts-and-the-threshold-what-the-gambia-v-myanmar-should-not-decide/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
+  },
+  {
+   "id": "2026-09-09-oj-uk-sovereign-immunity",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-09-09",
+   "importance": 2,
+   "author": "Shantanu Kanade、Paridhi Jain（金德爾全球法學院）",
+   "title": "英國法院的國家豁免：ICSID 仲裁判斷不能主張豁免，紐約公約判斷卻可以",
+   "titleOriginal": "Sovereign Immunity in the UK: Two Conventions, Two Answers",
+   "caseRef": "",
+   "tldr": "英國最高法院認為，國家批准《ICSID 公約》就等於事先書面同意英國法院承認、執行 ICSID 仲裁判斷，不能主張審判豁免；上訴法院卻認為，單純批准《紐約公約》不構成放棄豁免。作者認為兩者結論不同，是因為兩個公約的執行制度不同，而非法院前後矛盾。",
+   "context": "英國《1978 年國家豁免法》第 1 條第 1 項規定國家享有審判豁免；第 2 條第 2 項規定國家以事先書面協議接受管轄時不享有豁免；第 9 條第 1 項規定國家書面同意仲裁者，在與該仲裁有關的英國訴訟中不享有豁免。《ICSID 公約》第 54 條第 1 項要求締約國承認仲裁判斷如同本國終局判決，第 55 條保留執行豁免；《紐約公約》第 3 條要求依執行地的「程序規則」執行，第 5 條列有拒絕執行事由。",
+   "facts": [
+    "Infrastructure Services 訴西班牙：投資人依《能源憲章條約》就安達盧西亞太陽能電廠提起 ICSID 仲裁，獲判約 1.12 億歐元（更正後減少 1,100 萬歐元）；Border Timbers 訴辛巴威：ICSID 仲裁庭命辛巴威就未補償徵收的土地支付 1.24 億美元本金及其他賠償。兩件判斷都在英國高等法院登記，兩國以豁免為由聲請撤銷登記，均遭駁回；英國最高法院維持上訴法院的見解。",
+    "CC/Devas 訴印度：投資人依模里西斯－印度雙邊投資條約，就印度撤銷衛星頻譜合約提起 UNCITRAL 仲裁，獲 2016 年與 2020 年判斷，依《紐約公約》在英國聲請執行；高等法院（2025）與上訴法院（2026）均認為印度批准紐約公約並未放棄審判豁免。"
+   ],
+   "issues": [
+    "批准《ICSID 公約》或《紐約公約》，是否構成《國家豁免法》第 2 條第 2 項的事先書面同意。",
+    "《紐約公約》第 3 條所稱「程序規則」是否包括執行地的國家豁免法。"
+   ],
+   "holding": "・最高法院（Infrastructure）：第 54 條第 1 項是自成體系執行制度下的相互義務，批准即構成第 2 條第 2 項的同意，審判豁免不適用於承認與執行；法院以《維也納條約法公約》第 31 條為主要解釋規則、第 32 條準備工作為佐證。此見解只涉及審判豁免，不及於執行豁免。\n・上訴法院（Devas）：第 3 條的「程序規則」包括英國法視為程序事項的國家豁免法；ICSID 第 54 條第 1 項沒有程序限定語、國家是 ICSID 的參與者、兩公約目的不同，因此可以區別。\n・作者認為差異來自兩種執行制度：ICSID 只允許撤銷委員會審查，國內法院不得審查實體或以公共政策拒絕，接受執行管轄是必然推論；紐約公約則允許依第 5 條拒絕並適用執行地程序規則。Devas 投資人的主張自相矛盾。\n・Devas 案的實際影響有限，因為第 9 條第 1 項已涵蓋同意仲裁的情形；第 3 條主要在國家爭執仲裁協議範圍時才有意義。澳洲法院也得出相同結論。",
+   "significance": "作者結論：ICSID 判斷沒有審判豁免的障礙，非 ICSID 判斷則無法依第 2 條第 2 項主張放棄、但可能適用第 9 條第 1 項；投資人在無法使用 ICSID 時，應在契約中取得明示放棄。執行豁免不受影響，對國家資產的執行仍然困難。Devas 案可能上訴至最高法院，但作者認為結果改變的可能性不高。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。",
+   "tags": [
+    "國家豁免",
+    "ICSID",
+    "紐約公約",
+    "仲裁判斷執行",
+    "條約解釋",
+    "英國法院"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/09/09/sovereign-immunity-in-the-uk-two-conventions-two-answers/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
+  },
+  {
+   "id": "2026-09-07-oj-drc-rwanda-icj",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-09-07",
+   "importance": 2,
+   "author": "Melanie O'Brien（西澳大學）、Thomas Shacklock（Crane 大規模暴行預防中心）",
+   "title": "剛果民主共和國第三度在國際法院告盧安達：這次的管轄權障礙已經清除？",
+   "titleOriginal": "A New Genocide Convention Case in the ICJ: DRC v Rwanda Version 3.0",
+   "caseRef": "",
+   "tldr": "剛果民主共和國 6 月依《種族滅絕公約》等四項條約，第三度在國際法院起訴盧安達。前兩次都因管轄權問題失敗，但盧安達已在 2008 年撤回對公約爭端條款的保留，剛果也先完成其他條約要求的談判程序。作者認為本案很有機會進入實體審理。",
+   "context": "剛果曾於 1999 年對盧安達、蒲隆地、烏干達起訴，對盧安達與蒲隆地的部分於 2001 年撤回，對烏干達的部分成為「剛果境內武裝活動案」，法院認定烏干達違法使用武力與佔領。2002 年剛果再對盧安達起訴，法院於 2006 年因盧安達對《種族滅絕公約》第 9 條與《消除種族歧視公約》第 22 條的保留，以及其他條約的程序前提未滿足，認定全部無管轄權。",
+   "facts": [
+    "剛果於 2026 年 6 月 26 日提出第三份起訴書，主張盧安達違反《種族滅絕公約》、《消除種族歧視公約》、《消除對婦女歧視公約》與《禁止酷刑公約》。",
+    "歸屬理論：剛果主張盧安達國防軍及其支持的民兵的行為可歸屬於盧安達，援引尼加拉瓜案的有效控制與結構性依賴標準。",
+    "盧安達已於 2008 年 12 月無條件撤回對《種族滅絕公約》第 9 條與《消除種族歧視公約》第 22 條的保留。",
+    "《消除對婦女歧視公約》第 29 條與《禁止酷刑公約》第 30 條要求先談判、再仲裁，六個月內無法就仲裁達成協議才能提交國際法院；剛果主張已透過人權理事會場邊會議與三份照會完成，盧安達未回應。",
+    "剛果另於 2023 年向非洲人權法院對盧安達提起國家間案件。"
+   ],
+   "issues": [
+    "各條約下的管轄權，包括保留的撤回與程序前提是否滿足。",
+    "盧安達國防軍與非國家武裝團體的行為能否歸屬於盧安達。",
+    "盧安達是否應就實施、共謀、煽動及未防止、未懲治種族滅絕負責；應賠償什麼、賠償給誰。"
+   ],
+   "holding": "・剛果刻意補正 2002 年的管轄瑕疵：完成消除對婦女歧視公約與禁止酷刑公約的前置程序，並受益於盧安達 2008 年撤回保留。\n・作者指出，起訴範圍只針對歸屬於盧安達的暴行，未處理剛果部隊與 Wazalendo 民兵、FDLR 的合作或反圖西族仇恨言論，這是限制，但不減損其指控。\n・本案將測試 1990 年代 RPF／AFDL 對胡圖族難民的暴行能否構成種族滅絕，同時不助長「雙重種族滅絕」論；剛果表明無意淡化 1994 年對圖西族的種族滅絕。\n・與剛果訴烏干達案事實背景相近，但本案納入種族滅絕公約、以人權條約為主，未主張國際人道法。\n・主張範圍集中、四項條約相互重疊，進入實體的機會很高，作者認為剛果至少會在部分請求上勝訴。",
+   "significance": "國際法院審理人權與種族滅絕條約爭端的案件持續增加；本案與非洲人權法院的平行案件可能各自發展判例，但認定與賠償結構可能不同（國際法院案只請求對國家賠償）。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：本則以國際法院管轄權與程序為主軸收錄，起訴的官方資訊見國際法院 2026 年 6 月 26 日新聞稿。",
+   "tags": [
+    "國際法院",
+    "管轄權",
+    "保留",
+    "爭端條款",
+    "歸屬",
+    "種族滅絕公約",
+    "剛果民主共和國",
+    "盧安達"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/09/07/a-new-genocide-convention-case-in-the-icj-drc-v-rwanda-version-3-0/",
+     "official": false
+    },
+    {
+     "label": "國際法院新聞稿：DRC institutes proceedings against Rwanda（2026-06-26）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/202/202-20260626-pre-01-00-en.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
+  },
+  {
+   "id": "2026-09-03-oj-nori-toml-article-189",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-09-03",
+   "importance": 1,
+   "author": "Tajra Smajic（香港中文大學）",
+   "title": "海床爭端分庭審查國際海床管理局：「程序」與「裁量」的界線在哪裡？",
+   "titleOriginal": "When the Regulator Becomes the Respondent: The NORI and TOML Orders and the Reviewability Gap in Article 189 UNCLOS",
+   "caseRef": "",
+   "tldr": "ITLOS 海床爭端分庭 7 月對兩家深海採礦承包商控告國際海床管理局的案件下令臨時措施，要求管理局在合規調查中遵守正當程序。作者指出，《聯合國海洋法公約》第 189 條限制分庭審查管理局的裁量權，但分庭把爭議定性為「程序問題」，就繞過了這個限制，卻沒有說明程序與裁量的界線。",
+   "context": "公約第 187 條第 c 款賦予海床爭端分庭對「區域內活動」爭端的管轄權；第 189 條則排除分庭對管理局裁量權的管轄，不得以自己的裁量取代管理局的裁量，也不得裁判管理局的規則是否符合公約，但保留三類請求：規則適用與契約或公約義務衝突、越權或濫用權力，以及損害賠償等救濟。",
+   "facts": [
+    "2026 年 7 月 18 日，海床爭端分庭就 Nauru Ocean Resources Inc.（NORI，第 34 號案）與 Tonga Offshore Mining Ltd（TOML，第 35 號案）兩件平行案件發布臨時措施命令，這是分庭依第十一部分受理的首批訴訟案件。",
+    "兩家公司都是 The Metals Company 的全資子公司，各持有與國際海床管理局簽訂、在克拉里昂－克利珀頓區探勘多金屬結核的 15 年探勘合約，提起訴訟時都有延長合約的申請待決（NORI 的延長其後已獲准）。",
+    "兩家公司挑戰管理局法律與技術委員會針對其「可能不合規」所進行調查的程序。",
+    "分庭沒有暫停調查，而是要求管理局在自身架構內行事、說明程序與提問內容，雙方應合作並避免使爭端惡化。"
+   ],
+   "issues": [
+    "第 187 條第 c 款「區域內活動」的範圍，是否及於管理局在合規調查中的程序行為。",
+    "第 189 條對審查管理局裁量權的限制範圍；程序與裁量如何區分。"
+   ],
+   "holding": "・命令承認承包商享有程序權利（包括合規調查中的正當程序），超出 2011 年諮詢意見對「區域內活動」的作業性理解，問題變成承包商從事這些活動時享有什麼權利。\n・第 189 條的限制取決於爭端的事物內容，分庭採納申請人「遵守正當程序」的定性，就把限制排除在外。分庭列出了三類保留請求，卻沒有逐一論證；把正當程序完全置於限制之外是較寬的途徑，且未說明理由。\n・分庭駁回「進行調查本質上屬裁量」的主張，認為正當程序「外在於」裁量的行使；所適用的程序標準來自管理局自己的文件，支持分庭立場，但界線仍未說明。\n・分庭把損害視為時間問題：程序權利必須在決策過程中行使，事後通常無法補救，因此可在形成階段就審查，降低了可受挑戰的門檻。\n・作者認為第十一部分應理解為一種關係：管理局必須遵守自己訂定的程序、由分庭監督，但若調查結論認定承包商不合規，分庭不能以自己的評估取代，那仍受第 189 條保護。",
+   "significance": "作者提出幾個待實體階段回答的問題：若限制取決於定性，如何防止把實體爭議包裝成程序爭議？若可審查的程序只限於管理局自己的規則，是否反而促使管理局少訂程序規範？進行中的監管程序何時不再能被挑戰？",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。",
+   "tags": [
+    "海洋法",
+    "國際海床管理局",
+    "海床爭端分庭",
+    "UNCLOS第189條",
+    "深海採礦",
+    "正當程序",
+    "臨時措施"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/09/03/when-the-regulator-becomes-the-respondent-the-nori-and-toml-orders-and-the-reviewability-gap-in-article-189-unclos/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-15T00:00:00+08:00"
   }
  ],
  "agenda": [
