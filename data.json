@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-14T17:59:00+08:00",
-  "lastRunLocal": "2026-10-14 17:59",
+  "lastRun": "2026-10-14T23:45:00+08:00",
+  "lastRunLocal": "2026-10-14 23:45",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 EJIL:Talk! 學術評論 6 則（2026 年 9 月起，限傳統國際法議題）。"
+  "lastRunNote": "新增 3 則：IACtHR 1、ICJ 1、其他 1；ICJ、ECtHR、ITLOS、EJIL:Talk! 無新的重大動態。"
  },
  "items": [
   {
@@ -63,7 +63,10 @@
      "official": false
     }
    ],
-   "addedAt": "2026-10-14T12:30:00+08:00"
+   "addedAt": "2026-10-14T12:30:00+08:00",
+   "related": [
+    "2026-10-14-other-meps-blocking-statute-icc"
+   ]
   },
   {
    "id": "2026-10-05-icc-afghanistan-warrants",
@@ -1165,6 +1168,135 @@
     }
    ],
    "addedAt": "2026-10-14T17:59:00+08:00"
+  },
+  {
+   "id": "2026-10-14-iacthr-trujillo-venezuela-hearing",
+   "court": "IACtHR",
+   "kind": "程序進展",
+   "date": "2026-10-14",
+   "importance": 2,
+   "title": "美洲人權法院開庭審理委內瑞拉「2002 年 4 月 11 日事件」受害者案",
+   "titleOriginal": "Caso Trujillo y otros vs. Venezuela",
+   "caseRef": "",
+   "tldr": "2002 年 4 月 11 日卡拉卡斯的流血事件中，有人遭槍擊身亡或受傷，委內瑞拉至今沒有查明真相、追究責任。美洲人權委員會認定國家違反生命權等權利，把案件送交美洲人權法院；法院 10 月 14 日在哥斯大黎加聖荷西開庭，審理實體與賠償問題。",
+   "context": "2002 年 4 月 11 日，委內瑞拉卡拉卡斯發生流血事件，報導稱共 19 人死亡、300 多人遭槍擊受傷；報導將其置於當時政變的脈絡中。受害者家屬於 2002 年向美洲人權委員會提出申訴。\n委員會在第 313/23 號實體報告中認定委內瑞拉應負責任，並於 2024 年 7 月 9 日將案件送交法院。",
+   "facts": [
+    "本案申訴聚焦於 7 名死者與 5 名傷者（報導另提到整起事件共 19 人死亡、300 多人中彈受傷，兩者關係報導未說明）。",
+    "美洲人權委員會認定：國家未能證明對受害者使用致命武力具有正當性、必要性與比例性。",
+    "委員會亦認定：相關調查既未釐清事實，也未懲處應負責之人。",
+    "聽審於 2026 年 10 月 14 日上午 9 時（當地時間）在聖荷西舉行，就實體與可能的賠償進行辯論；人權團體 Foro Penal 的 Alfredo Romero、Gonzalo Himiob 出席。"
+   ],
+   "issues": [
+    "委內瑞拉是否違反生命權、人身完整權、集會自由、司法保障與司法保護（依美洲人權委員會的認定）。",
+    "國家使用致命武力是否符合正當性、必要性、比例性的要求。",
+    "國家未有效調查與追訴，是否構成獨立的違反；應命令哪些賠償措施。"
+   ],
+   "holding": "本次為言詞聽審，尚未作成判決。",
+   "significance": "聽審結束後，法院將擇期作成判決。本案是委內瑞拉 2002 年政治動盪事件首度進入美洲人權法院的實體審理。",
+   "editorNote": "Claude 註：本則依兩篇媒體報導（Prensa Mercosur、El Estímulo）撰寫，尚未取得法院官方新聞稿；報導未列出所涉《美洲人權公約》條號。\n以下為 Claude 補充，非來源內容：委內瑞拉已於 2012 年通知退出《美洲人權公約》（2013 年生效），但依公約第 78 條第 2 項，退出生效前發生的事實仍受法院管轄；2002 年的事件屬此範圍。報導未提及委內瑞拉是否出庭。",
+   "tags": [
+    "美洲人權公約",
+    "生命權",
+    "武力使用",
+    "有罪不罰",
+    "委內瑞拉"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "美洲人權法院會期頁面",
+     "url": "https://www.corteidh.or.cr/periodo_de_sesiones.cfm?lang=en",
+     "official": true
+    },
+    {
+     "label": "Prensa Mercosur：Corte IDH examinará caso de las víctimas del 11 de abril 2002",
+     "url": "https://prensamercosur.org/2026/10/14/corte-idh-examinara-caso-de-las-victimas-del-11-de-abril-2002/",
+     "official": false
+    },
+    {
+     "label": "El Estímulo：Corte Interamericana conocerá el caso de las víctimas del 11 de abril de 2002",
+     "url": "https://elestimulo.com/venezuela/2026-10-12/corte-interamericana-victimas-del-11-de-abril-de-2002/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T23:45:00+08:00"
+  },
+  {
+   "id": "2026-10-14-other-meps-blocking-statute-icc",
+   "court": "OTHER",
+   "kind": "機構動態",
+   "date": "2026-10-14",
+   "importance": 2,
+   "title": "58 名歐洲議會議員致函執委會，要求啟動《阻斷法規》保護 ICC 免受美國制裁",
+   "titleOriginal": "MEPs urge EU to shield International Criminal Court from US sanctions",
+   "caseRef": "",
+   "tldr": "美國 10 月 9 日制裁整個國際刑事法院後，58 名歐洲議會議員聯名寫信給執委會主席馮德萊恩，要求動用歐盟《阻斷法規》，讓歐洲企業不必遵守美國的制裁，以保護位於歐盟境內的法院。",
+   "context": "美國制裁 ICC 後設有六個月寬限期，之後將禁止美國銀行與企業與法院往來；與美國有業務關係的歐洲銀行與中介機構也可能面臨次級制裁（見下方「相關動態」）。\n歐盟《阻斷法規》用來保護歐盟企業與個人免受外國制裁的域外效力：可阻止依特定外國法律作成的外國判決在歐盟執行，並讓歐洲企業請求損害賠償。執委會可將外國法律納入適用範圍，並受歐洲議會與會員國監督。",
+   "facts": [
+    "信件由 Dirk Gotink（EPP）與 Aurore Lalucq（S&D）起草，EPP、S&D、Renew Europe、Greens/EFA 議員共 58 人連署，於週二寄出；Euronews 於 10 月 14 日報導。",
+    "議員把美國制裁形容為外國勢力對歐盟境內機構的攻擊，並警告後果將是毀滅性的。",
+    "信中要求執委會動用一切可用工具，特別是啟動《阻斷法規》。",
+    "歐盟外交與安全政策高級代表 Kallas 已於 10 月 10 日表示美國的威脅無法接受，但報導指出歐盟尚未採取具體行動。"
+   ],
+   "issues": [
+    "歐盟能否、以及應否把美國對 ICC 的制裁法令納入《阻斷法規》的適用範圍。"
+   ],
+   "holding": "目前僅為議員聯名信，報導未提及執委會的回應，也未提及議會決議或表決。",
+   "significance": "比利時先前已主張在歐盟外長會議與歐洲理事會提出此議題。歐盟是否啟動《阻斷法規》，會直接影響 ICC 在六個月寬限期後能否維持銀行、保險與軟體服務。",
+   "editorNote": "Claude 註：本則依 Euronews 報導撰寫，尚未取得信件原文。\n以下為 Claude 補充，非來源內容：歐盟《阻斷法規》為第 2271/96 號理事會規則（Council Regulation (EC) No 2271/96），2018 年曾修正附件以涵蓋美國對伊朗的制裁。",
+   "tags": [
+    "制裁",
+    "阻斷法規",
+    "歐盟",
+    "國際刑事法院",
+    "域外管轄"
+   ],
+   "related": [
+    "2026-10-09-icc-us-sanctions"
+   ],
+   "sources": [
+    {
+     "label": "Euronews：MEPs urge EU to shield International Criminal Court from US sanctions",
+     "url": "https://euronews.com/2026/10/14/meps-urge-eu-to-shield-international-criminal-court-from-us-sanctions",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T23:45:00+08:00"
+  },
+  {
+   "id": "2026-10-07-icj-carnegie-wateler-prize",
+   "court": "ICJ",
+   "kind": "機構動態",
+   "date": "2026-10-07",
+   "importance": 1,
+   "title": "國際法院獲頒卡內基–瓦特勒和平獎，11 月 9 日在和平宮受獎",
+   "titleOriginal": "International Court of Justice to receive Carnegie Wateler Peace Prize",
+   "caseRef": "",
+   "tldr": "卡內基基金會宣布，第 75 屆卡內基–瓦特勒和平獎頒給國際法院，表彰其對和平解決國家間爭端的貢獻，並紀念法院成立 80 週年。",
+   "context": "卡內基–瓦特勒和平獎由荷蘭銀行家 Johan Wateler 創設，自 1931 年起在海牙和平宮頒發，頒給以言論或行動促進國際和平的個人或機構。",
+   "facts": [
+    "卡內基基金會於 2026 年 10 月 7 日宣布得獎者。",
+    "頒獎典禮訂於 2026 年 11 月 9 日下午 3 時在和平宮禮堂舉行，由國際法院院長岩澤雄司受獎，Piet Hein Donner 頒獎。",
+    "評審理由：法院提供國家司法解決爭端的場所，有助於防止衝突升高；其諮詢意見就自決、人道法等議題提供權威解釋；同時紀念法院 80 週年及其法官、書記處與人員的工作。"
+   ],
+   "issues": [],
+   "holding": "",
+   "significance": "頒獎正值國際刑事法院遭美國制裁、國際法院案件量持續增加之際。",
+   "editorNote": "Claude 註：本則依 Diplomat Magazine 報導撰寫，尚未取得卡內基基金會的公告原文。「意義與後續」中關於 ICC 制裁的對照為 Claude 補充，非來源內容。",
+   "tags": [
+    "國際法院",
+    "和平解決爭端",
+    "和平宮"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Diplomat Magazine：ICJ to Receive Carnegie Wateler Peace Prize",
+     "url": "https://diplomatmagazine.eu/2026/10/14/international-court-of-justice-to-receive-carnegie-wateler-peace-prize/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T23:45:00+08:00"
   }
  ],
  "agenda": [
@@ -1230,6 +1362,15 @@
    "note": "日期尚未公布。",
    "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/",
    "relatedId": "2026-10-13-itlos-argentina-uk"
+  },
+  {
+   "id": "2026-11-09-icj-carnegie-prize",
+   "date": "2026-11-09",
+   "court": "ICJ",
+   "title": "國際法院在和平宮受頒卡內基–瓦特勒和平獎",
+   "note": "下午 3 時，和平宮禮堂。",
+   "url": "https://diplomatmagazine.eu/2026/10/14/international-court-of-justice-to-receive-carnegie-wateler-peace-prize/",
+   "relatedId": "2026-10-07-icj-carnegie-wateler-prize"
   }
  ],
  "archives": []
