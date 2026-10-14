@@ -581,7 +581,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
       issues.length ? sec("Issues", isComment ? "討論的法律問題" : "爭點", listEl(issues)) : null,
       it.holding ? sec(hl[1], hl[0], parasEl(it.holding)) : null,
       it.significance ? sec(isComment ? "Conclusions" : "Significance & next steps", isComment ? "作者結論與意義" : "意義與後續", parasEl(it.significance)) : null,
-      it.editorNote ? sec("Added by Claude", "Claude 補充與待確認", parasEl(it.editorNote), "note") : null,
+      it.editorNote ? sec("Assistant's notes", "本網頁助理補充", parasEl(it.editorNote), "note") : null,
       related.length ? sec("Related", "相關動態", h("div", { class: "tags" }, related.map(function (ri) {
         return h("button", { class: "btn", type: "button", "data-court": courtKey(ri.court), onclick: function () { openItem(ri.id); } },
           h("span", { class: "mono", style: "color:var(--cc);margin-right:6px", text: codeText(ri) }), str(ri.title));
