@@ -1,0 +1,1236 @@
+{
+ "schema": 1,
+ "meta": {
+  "lastRun": "2026-10-14T17:59:00+08:00",
+  "lastRunLocal": "2026-10-14 17:59",
+  "coverageFrom": "2026-09-01",
+  "lastRunNote": "新增 EJIL:Talk! 學術評論 6 則（2026 年 9 月起，限傳統國際法議題）。"
+ },
+ "items": [
+  {
+   "id": "2026-10-09-icc-us-sanctions",
+   "court": "ICC",
+   "kind": "機構動態",
+   "date": "2026-10-09",
+   "importance": 3,
+   "title": "美國把國際刑事法院「整個機構」列入制裁",
+   "titleOriginal": "U.S. sanctions on the International Criminal Court as an institution",
+   "caseRef": "",
+   "tldr": "美國國務卿魯比歐宣布制裁 ICC 本身：凍結法院在美國的財產，禁止任何人向法院提供資金、物品或服務。過去美國只制裁個別法官、檢察官與相關人士，這次升級為針對整個法院。",
+   "context": "美國與以色列都不是《羅馬規約》締約國。美方過去已陸續制裁 ICC 法官與檢察官、聯合國巴勒斯坦人權特別報告員，以及向法院提供證據的巴勒斯坦人權團體；部分團體與被制裁法官已在美國聯邦法院提起訴訟。\n美方這次說明的理由有二：ICC 對阿富汗情勢的調查可能涉及美軍與情報人員；以及 ICC 於 2024 年對以色列總理納坦雅胡與前國防部長加蘭特發布的逮捕令。美方立場是法院對非締約國官員行使管轄已經越權。",
+   "facts": [
+    "2026 年 10 月 9 日，國務卿魯比歐以社群影片宣布，並稱 ICC 要不就「停止威脅」，要不美國就「終結 ICC」。",
+    "效果：封鎖 ICC 在美國境內的財產與財產利益；禁止向法院或為其利益提供資金、物品或服務。",
+    "財政部給予約六個月的初始寬限期；電信、軟體、退休金給付及與受羈押人相關的交易暫時豁免。國務院表示寬限期是要讓締約國有時間回應美方關切。",
+    "魯比歐表示，若法院與締約國處理美方關切，制裁可以調整。",
+    "同日稍早，挪威諾貝爾委員會把和平獎頒給前 ICC 法官 Navi Pillay。"
+   ],
+   "issues": [
+    "ICC 約有 900 名員工，制裁整個機構後，對外包廠商、銀行、保險與美國軟體的依賴都會受影響。",
+    "締約國能否用法律工具抵銷制裁效果，例如歐盟《阻斷法規》（Blocking Statute）。",
+    "美國同時呼籲各國退出 ICC，並表示會把盟國與 ICC 的關係納入對外援助的考量。"
+   ],
+   "holding": "各方反應：\n・ICC 聲明稱此舉是對法治與國際法律秩序基礎的攻擊，呼籲 125 個締約國捍衛法院，並表示法院「無法獨自承受」。副檢察官 Nazhat Shameem Khan 表示各情勢與調查會持續進行。\n・聯合國秘書長古特瑞斯透過發言人表示深感震驚，稱這是對國際刑事司法的重大打擊；人權事務高級專員 Türk 要求立即採取保護措施。\n・英國、丹麥、法國、德國、義大利、荷蘭、加拿大、日本外長發表聯合聲明，表示遺憾並強烈不同意。比利時主張啟動歐盟阻斷法規，將在歐盟外長會議與歐洲理事會提出。\n・以色列總理納坦雅胡表示歡迎，稱 ICC 是「政治機構」。",
+   "significance": "學者 Schabas 表示，法院已準備應變計畫一年以上，例如把部分美國軟體換成歐洲替代方案，並終止與在美國有業務的保險公司 AXA 的關係，但完整衝擊仍不清楚。學者 Kersten 認為法院能否撐住，取決於締約國是否採取具體措施繞開制裁。退出潮也值得觀察：今年 7 月查德與委內瑞拉已啟動退出程序，在布吉納法索、馬利、尼日之後。",
+   "editorNote": "以下為 Claude 補充，非上列來源內容：美國第一任川普政府曾於 2020 年以第 13928 號行政命令制裁時任檢察官 Bensouda；第二任期於 2025 年 2 月以第 14203 號行政命令重建對 ICC 的制裁架構。本次制裁所依據的具體行政命令或指定文件，所引報導未載明，宜核對美國財政部 OFAC 公告。",
+   "tags": [
+    "制裁",
+    "羅馬規約",
+    "非締約國",
+    "阻斷法規",
+    "以色列",
+    "阿富汗"
+   ],
+   "sources": [
+    {
+     "label": "ICC 聲明：The ICC strongly rejects US sanctions against the institution",
+     "url": "https://icc-cpi.int/news/icc-strongly-rejects-us-sanctions-against-institution",
+     "official": true
+    },
+    {
+     "label": "UN News：Guterres condemns new US sanctions on ICC",
+     "url": "https://news.un.org/en/story/2026/10/1168562",
+     "official": true
+    },
+    {
+     "label": "Al Jazeera：US sanctions International Criminal Court itself",
+     "url": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation",
+     "official": false
+    },
+    {
+     "label": "Al Jazeera：European states, Canada, Japan and UN back ICC",
+     "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-10-05-icc-afghanistan-warrants",
+   "court": "ICC",
+   "kind": "逮捕令",
+   "date": "2026-10-05",
+   "importance": 3,
+   "title": "ICC 公開四名塔利班高層逮捕令，以「性別迫害」追訴",
+   "titleOriginal": "Situation in the Islamic Republic of Afghanistan — four arrest warrants unsealed",
+   "caseRef": "Situation in Afghanistan (ICC-02/17)",
+   "tldr": "ICC 第二預審分庭公開對塔利班最高領袖阿洪扎達、首席大法官哈卡尼、教育部長阿迦、高等教育部長納迪姆的逮捕令。法官認為有合理理由相信四人下令、引誘或教唆了危害人類罪中的「迫害」，對象主要是女性與女孩。",
+   "context": "阿富汗於 2003 年加入《羅馬規約》，ICC 因此對其境內罪行有管轄權。調查於 2020 年獲授權，一度暫停，2022 年恢復。塔利班 2021 年 8 月重新掌權後，把其意識形態轉成全國性法令。\n逮捕令其實早已發出：法院 2025 年 7 月宣布對阿洪扎達與哈卡尼發出逮捕令但內容保密；阿迦與納迪姆的逮捕令則於 2025 年 9 月秘密發出。這次是公開四份令狀的遮蔽版。",
+   "facts": [
+    "女孩六年級以後不得上學，女性中學教師被男性取代；女性上大學受到限制。",
+    "女性離家約 45 英里以上，或進入特定市場、商店、醫療機構，須有男性監護人陪同。",
+    "美容院被關閉，女性就業受限，女性在公共場合發聲受到壓制。",
+    "依聯合國估計，約 240 萬名女孩被排除在中學教育之外。",
+    "法官認為性別迫害與謀殺、監禁、酷刑、性暴力、強迫失蹤相連結；性傾向或性別認同不符塔利班期待的人也遭鎖定；支持女性權利者遭懲罰，例如發送免費書籍或批評教育限制的人被逮捕、車輛衝撞抗議群眾。",
+    "期間：自 2021 年 8 月 15 日起，阿洪扎達與哈卡尼至少至 2025 年 1 月 20 日，阿迦與納迪姆至少至 2025 年 3 月 6 日。"
+   ],
+   "issues": [
+    "以「性別」為事由的迫害（《羅馬規約》第 7 條第 1 項第 h 款）是否成立：預審分庭以逮捕令階段的「合理理由相信」標準認定成立。",
+    "公開逮捕令是否會影響調查及證人、被害人安全：法官認為可以公開而不致造成不當影響。"
+   ],
+   "holding": "四份逮捕令（遮蔽版）公開。這是發布逮捕令的門檻，不是有罪認定。檢方須於 10 月 12 日前提出五份相關文件的公開版，或請求繼續保密；對公開決定上訴須經法官許可，且不會自動停止公開。",
+   "significance": "這是 ICC 以性別迫害為核心、針對一國實際掌權者的指標性案件。ICC 沒有警力，逮捕要靠締約國執行。",
+   "editorNote": "以下為 Claude 的推論，非來源內容：四名被告目前均在阿富汗境內，短期內遭逮捕的可能性低；實際影響較可能在於限制其前往締約國，以及為未來的國家實踐與其他人權機制提供事實認定基礎。",
+   "tags": [
+    "危害人類罪",
+    "性別迫害",
+    "阿富汗",
+    "第7條第1項第h款",
+    "逮捕令"
+   ],
+   "sources": [
+    {
+     "label": "ICC 新聞稿：Pre-Trial Chamber II unseals four arrest warrants",
+     "url": "https://www.icc-cpi.int/news/icc-pre-trial-chamber-ii-unseals-four-arrest-warrants-situation-afghanistan",
+     "official": true
+    },
+    {
+     "label": "ICC 檢察官辦公室聲明",
+     "url": "https://www.icc-cpi.int/news/icc-office-prosecutor-afghanistan-warrants-vindicate-rights-women-girls",
+     "official": true
+    },
+    {
+     "label": "UN News 報導",
+     "url": "https://news.un.org/en/story/2026/10/1168521",
+     "official": true
+    },
+    {
+     "label": "Courthouse News：ICC hits more Taliban officials with arrest warrants",
+     "url": "https://courthousenews.com/icc-hits-more-taliban-officials-with-arrest-warrants-over-persecution-of-women/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-10-08-icc-duterte-fitness",
+   "court": "ICC",
+   "kind": "裁定",
+   "date": "2026-10-08",
+   "importance": 3,
+   "title": "ICC 認定杜特蒂有受審能力，審判預定 11 月 30 日開始",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte — decision on fitness to stand trial",
+   "caseRef": "Situation in the Philippines (ICC-01/21)",
+   "tldr": "ICC 第三審判分庭依獨立專家小組的評估，認定菲律賓前總統杜特蒂能理解指控與程序、能答辯、能指示律師，所以可以受審。三項危害人類罪的審判預定 2026 年 11 月 30 日開始。",
+   "context": "杜特蒂被控三項危害人類罪。辯方先前主張其認知能力受損、不適合受審，並要求再做醫學檢查與舉行言詞聽證。法院 10 月 8 日公布這份 17 頁的遮蔽版裁定；另有來源指出裁定書日期為 9 月 28 日。",
+   "facts": [
+    "三人專家小組表示，與預審階段的意見相比，「沒有新證據」足以改變結論；杜特蒂的健康因醫療與護理照顧而有所改善。",
+    "專家注意到一些「臨床前」疾病跡象，但認為即使心智能力有所下降，也不妨礙他符合受審要求。",
+    "專家建議的便利措施：聽力耳機或輔具、飲食與休息運動的支持、每小時休息、開庭不早於上午 11 點、由護理人員協助服藥。"
+   ],
+   "issues": [
+    "被告是否具備有效參與審判的能力：能否理解指控、程序與證據，能否答辯，能否指示律師。",
+    "法院是否須依辯方請求再做醫學檢查或舉行言詞聽證。"
+   ],
+   "holding": "分庭（審判長 Joanna Korner，法官 Keebong Paek、Nicolas Guillou）認為專家報告「足以」判斷被告的參與能力，認定其有受審能力；駁回辯方追加醫學檢查及舉行言詞聽證的請求；命令持續監測健康狀況。",
+   "significance": "開審前最大的程序障礙已排除。審判期間的健康監測與便利措施，會影響庭期安排。",
+   "editorNote": "以下為 Claude 補充，非上列來源內容：本案涉及杜特蒂擔任達沃市長及總統期間「掃毒戰爭」中的殺害行為；菲律賓於 2019 年退出《羅馬規約》，ICC 對其仍為締約國期間的行為保有管轄權；杜特蒂於 2025 年 3 月被捕移送海牙。辯方是否就本裁定聲請上訴許可，有待觀察。",
+   "tags": [
+    "危害人類罪",
+    "受審能力",
+    "菲律賓",
+    "審判程序"
+   ],
+   "sources": [
+    {
+     "label": "ICC 新聞稿：Rodrigo Roa Duterte fit to stand trial",
+     "url": "https://www.icc-cpi.int/news/situation-philippines-rodrigo-roa-duterte-fit-stand-trial",
+     "official": true
+    },
+    {
+     "label": "ICC 裁定書（遮蔽版，PDF）",
+     "url": "https://www.icc-cpi.int/sites/default/files/CourtRecords/0902ebd180fa52ea.pdf",
+     "official": true
+    },
+    {
+     "label": "Philstar：Duterte found fit to stand ICC trial",
+     "url": "https://www.philstar.com/headlines/2026/10/10/2562130/duterte-found-fit-stand-icc-trial",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-10-13-itlos-argentina-uk",
+   "court": "ITLOS",
+   "kind": "新案件",
+   "date": "2026-10-13",
+   "importance": 3,
+   "title": "阿根廷向國際海洋法法庭請求臨時措施，要英國停止福克蘭群島北方油田開發",
+   "titleOriginal": "Case concerning hydrocarbon exploitation in the South-West Atlantic Ocean (Argentina v. United Kingdom), Provisional Measures",
+   "caseRef": "",
+   "tldr": "阿根廷依《聯合國海洋法公約》第 290 條第 5 項，請 ITLOS 在仲裁庭組成前下令臨時措施，阻止英國支持的 Sea Lion 海上油田開發。阿根廷主張該區位於其大陸礁層。",
+   "context": "福克蘭（阿根廷稱馬爾維納斯）群島主權爭議由來已久。Sea Lion 計畫由英國 Rockhopper Exploration 與以色列 Navitas Petroleum 主導，位於北福克蘭（北馬爾維納斯）盆地，經群島政府核准、英國支持，預計 2027 年初開鑽。\n兩國依公約第 287 條選擇的爭端解決機構不同（阿根廷選 ITLOS，英國選 ICJ），因此預設程序是附件七仲裁。仲裁庭組成需要時間，期間的臨時措施依第 290 條第 5 項由 ITLOS 處理。",
+   "facts": [
+    "2026 年 9 月初，米雷總統宣布制裁 Sea Lion 相關公司及其股東。",
+    "9 月 28 日，阿根廷依公約啟動仲裁，要求英國停止開發，並給英國兩週期限，表示屆時將向 ITLOS 請求臨時措施。",
+    "英國拒絕仲裁要求，表示此舉讓人質疑阿根廷作為夥伴的可靠性，並會「堅定捍衛」島民意願。期限於 10 月 12 日屆滿。",
+    "10 月 13 日，ITLOS 公告收到阿根廷的臨時措施請求。"
+   ],
+   "issues": [
+    "初步管轄權：公約不處理陸地主權。若本案實質上必然涉及群島主權，附件七仲裁庭可能沒有管轄權（混合爭端問題，可參照查哥斯海洋保護區仲裁、烏克蘭訴俄羅斯沿海國權利仲裁、南海仲裁的處理方式）。",
+    "可能的請求基礎：第 74 條第 3 項、第 83 條第 3 項的克制義務，但這兩條以存在重疊權利主張的劃界爭端為前提；海洋環境保護義務可能不以主權為前提。",
+    "緊急性與不可回復損害：預定 2027 年初開鑽，是否構成臨時措施所需的急迫性。"
+   ],
+   "holding": "尚未裁定。ITLOS 尚未公布言詞辯論日期。",
+   "significance": "EJIL:Talk! 評論（Shrivastava 與 Yiallourides，10 月 12 日）認為：若阿根廷的主張實質上是主權主張，ITLOS 很可能認定欠缺初步管轄權而不給予臨時措施；環境義務路線或許可行，但臨時措施需要比一般環境考量更具體的損害證據。作者也提到 1995 年英阿油氣合作聯合聲明（阿根廷 2007 年終止）可作為合作模式。",
+   "editorNote": "以下為 Claude 補充：兩國依第 298 條作出的排除聲明內容，以及阿根廷具體請求的措施，上列來源均未載明，宜核對 ITLOS 新聞稿與請求書全文。另 ITLOS 新任副庭長 Armas Pfirter 為阿根廷籍，見同日期「ITLOS 新任庭長」一則。",
+   "tags": [
+    "UNCLOS",
+    "第290條第5項",
+    "附件七仲裁",
+    "大陸礁層",
+    "混合爭端",
+    "福克蘭/馬爾維納斯"
+   ],
+   "sources": [
+    {
+     "label": "ITLOS 案件頁面",
+     "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/",
+     "official": true
+    },
+    {
+     "label": "ITLOS 最新消息（2026-10-13 公告）",
+     "url": "https://www.itlos.org/en/main/resources/calendar-of-events/#ar721",
+     "official": true
+    },
+    {
+     "label": "Buenos Aires Herald：Argentina asks UN court to halt Malvinas oil drilling",
+     "url": "https://buenosairesherald.com/politics/argentina-asks-un-court-to-halt-malvinas-oil-drilling",
+     "official": false
+    },
+    {
+     "label": "EJIL:Talk!：Can Argentina Bring UNCLOS Proceedings Against the UK…",
+     "url": "https://www.ejiltalk.org/can-argentina-bring-unclos-proceedings-against-the-uk-concerning-the-exploitation-of-hydrocarbon-resources-in-the-north-malvinas-basin/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00",
+   "related": [
+    "2026-10-12-ejil-argentina-unclos"
+   ]
+  },
+  {
+   "id": "2026-10-01-itlos-new-president",
+   "court": "ITLOS",
+   "kind": "機構動態",
+   "date": "2026-10-01",
+   "importance": 2,
+   "title": "ITLOS 選出新任庭長 Kamga，五名新法官宣誓就職",
+   "titleOriginal": "Election of the President and Vice-President; swearing-in of new members",
+   "caseRef": "",
+   "tldr": "國際海洋法法庭選出喀麥隆籍法官 Maurice K. Kamga 為庭長、阿根廷籍法官 Frida María Armas Pfirter 為副庭長，任期 2026 至 2029 年；同日有五名新法官宣誓就職。",
+   "context": "ITLOS 位於漢堡，由 21 名法官組成，法官由公約締約國會議選出、任期九年。今年適逢法庭成立 30 週年，9 月 25 日舉行紀念儀式。",
+   "facts": [
+    "10 月 1 日，第 62 次行政會期中選出庭長與副庭長。",
+    "五名新法官於第 36 次締約國會議選出，任期自 2026 年 10 月 1 日起九年：Sylvia Ama Adusu（迦納）、George Rodrigo Bandeira Galindo（巴西）、Slim Laghmani（突尼西亞）、Lan-Anh Thi Nguyen（越南）、Bimal N. Patel（印度）。",
+    "10 月 2 日，法庭重組各分庭。"
+   ],
+   "issues": [],
+   "holding": "",
+   "significance": "新一屆法庭組成後的第一件重要案件，可能就是阿根廷對英國的臨時措施請求。",
+   "editorNote": "以下為 Claude 補充：依《ITLOS 規約》第 17 條，與當事國同國籍的法官仍得參與審理；當事國若在法官席上沒有本國籍法官，得選派專案法官。副庭長為阿根廷籍，英國是否選派專案法官，可留意後續程序。",
+   "tags": [
+    "ITLOS",
+    "法官選舉",
+    "機構"
+   ],
+   "sources": [
+    {
+     "label": "ITLOS 最新消息與活動行事曆",
+     "url": "https://www.itlos.org/en/main/resources/calendar-of-events/",
+     "official": true
+    },
+    {
+     "label": "ITLOS 首頁",
+     "url": "https://www.itlos.org/en/main/",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-09-22-icj-colombia-withdraws",
+   "court": "ICJ",
+   "kind": "程序進展",
+   "date": "2026-09-22",
+   "importance": 2,
+   "title": "哥倫比亞撤回在「南非訴以色列」種族滅絕案中的訴訟參加聲明",
+   "titleOriginal": "Application of the Genocide Convention in the Gaza Strip (South Africa v. Israel) — Colombia withdraws declaration of intervention",
+   "caseRef": "General List No. 192",
+   "tldr": "哥倫比亞新政府通知國際法院，撤回其 2024 年依《國際法院規約》第 63 條提出的參加聲明。案件本身繼續進行。",
+   "context": "南非於 2023 年 12 月 29 日起訴以色列，主張其在加薩違反《防止及懲治種族滅絕罪公約》。法院分別於 2024 年 1 月 26 日、3 月 28 日、5 月 24 日發布臨時措施命令。\n第 63 條讓公約其他締約國在案件涉及公約解釋時參加訴訟，代價是法院的解釋對參加國同樣有拘束力。哥倫比亞在前總統 Petro 任內於 2024 年 4 月 5 日提出聲明；2026 年 8 月就任的 De la Espriella 政府恢復與以色列的外交關係，並解除對以色列的煤炭出口禁令。",
+   "facts": [
+    "2026 年 9 月 18 日，哥倫比亞通知法院撤回參加聲明；法院於 9 月 22 日發布新聞稿（No. 2026/24）。",
+    "已提出參加聲明的其他國家包括：利比亞、墨西哥、巴勒斯坦、西班牙、土耳其、智利、馬爾地夫、玻利維亞、愛爾蘭、古巴、貝里斯、巴西、葛摩、比利時、巴拉圭、荷蘭、冰島，以及 2026 年 3 月 12 日同日提出的納米比亞、美國、匈牙利、斐濟。"
+   ],
+   "issues": [
+    "第 63 條參加聲明可否撤回，以及撤回的效果。"
+   ],
+   "holding": "法院僅公告撤回，未作裁判。",
+   "significance": "參加國名單反映的立場並不一致，2026 年 3 月加入的美國、匈牙利等國，其解釋主張未必與早期參加國相同。",
+   "editorNote": "以下為 Claude 的分析，非來源內容：依第 63 條第 2 項，參加國受法院解釋之拘束；撤回後，哥倫比亞應不再因參加而受本案解釋的拘束。撤回的理由，法院新聞稿未說明；Colombia Reports 將其連結到新政府修復與以色列、美國關係的政策，但未引用官方說明。",
+   "tags": [
+    "種族滅絕公約",
+    "第63條",
+    "訴訟參加",
+    "加薩",
+    "以色列"
+   ],
+   "sources": [
+    {
+     "label": "ICJ 新聞稿 No. 2026/24（PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/192/192-20260922-pre-01-00-en.pdf",
+     "official": true
+    },
+    {
+     "label": "ICJ 案件頁面（Case 192）",
+     "url": "https://www.icj-cij.org/case/192",
+     "official": true
+    },
+    {
+     "label": "Colombia Reports：Colombia withdraws support for ICJ genocide case against Israel",
+     "url": "https://colombiareports.com/?p=217484",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-09-10-icj-nicaragua-germany",
+   "court": "ICJ",
+   "kind": "程序進展",
+   "date": "2026-09-10",
+   "importance": 2,
+   "title": "「尼加拉瓜訴德國」先決性抗辯言詞辯論結束，等待宣判",
+   "titleOriginal": "Alleged Breaches of Certain International Obligations in respect of the Occupied Palestinian Territory (Nicaragua v. Germany)",
+   "caseRef": "General List No. 193",
+   "tldr": "國際法院已結束德國就管轄權與可受理性提出的先決性抗辯的言詞辯論（9 月 7 日至 10 日）。法院將擇期公開宣判，日期尚未公布。",
+   "context": "尼加拉瓜於 2024 年 3 月 1 日起訴，主張德國對以色列的政治、財政、軍事支持，以及停止資助聯合國近東巴勒斯坦難民救濟工程處（UNRWA），違反《種族滅絕公約》與日內瓦四公約及其附加議定書。管轄依據為《國際法院規約》第 36 條第 2 項（任擇條款聲明）及《種族滅絕公約》第 9 條。\n法院 2024 年 4 月 30 日的命令認為情況不需要指示臨時措施。德國於 2025 年 10 月 21 日提出先決性抗辯，實體程序依《法院規則》第 79 條之 2 第 3 項暫停；尼加拉瓜於 2026 年 2 月 23 日提出書面意見。",
+   "facts": [
+    "9 月 7 日、9 日德國進行兩輪辯論；9 月 8 日、10 日尼加拉瓜進行兩輪辯論。",
+    "辯論只處理先決性抗辯，未觸及武器出口、資助決定或加薩情勢的實體問題。"
+   ],
+   "issues": [
+    "以下爭點整理自二手評論，尚未與言詞辯論紀錄逐一核對：",
+    "起訴時兩國間是否已存在法律爭端。",
+    "Monetary Gold 原則：法院能否在不先判斷非當事國以色列責任的情況下，審查德國的行為。",
+    "德國任擇條款聲明中的時間保留，是否排除本案。",
+    "UNRWA 資助相關請求是否已因政策改變而失去標的。"
+   ],
+   "holding": "尚待宣判。若德國的抗辯全部成立，案件終結；只要有一部分不成立，案件就進入實體程序。",
+   "significance": "若進入實體，將觸及第三國「防止種族滅絕義務」與武器出口責任的界線，也會檢驗 Monetary Gold 原則在多邊條約義務案件中的適用範圍。",
+   "editorNote": "「爭點」欄中的四項內容取自一篇律師事務所部落格的整理，該文自述以 AI 協助產生，Claude 無法以官方文件核實。正式爭點以 ICJ 公布的言詞辯論紀錄（verbatim records）為準。",
+   "tags": [
+    "種族滅絕公約",
+    "先決性抗辯",
+    "Monetary Gold",
+    "武器出口",
+    "UNRWA",
+    "任擇條款"
+   ],
+   "sources": [
+    {
+     "label": "ICJ 新聞稿 No. 2026/23：辯論結束（PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/193/193-20260910-pre-01-00-en.pdf",
+     "official": true
+    },
+    {
+     "label": "ICJ 案件頁面（Case 193）",
+     "url": "https://www.icj-cij.org/case/193",
+     "official": true
+    },
+    {
+     "label": "ICJ 新聞稿 No. 2026/21：辯論日程（PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/193/193-20260731-pre-01-00-en.pdf",
+     "official": true
+    },
+    {
+     "label": "聯合國巴勒斯坦問題資訊系統（UNISPAL）",
+     "url": "https://www.un.org/unispal/document/icj-hearings-on-germanys-preliminary-objections-in-nicaragua-v-germany-7-10-september-2026/",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-09-01-icj-vanuatu-france",
+   "court": "ICJ",
+   "kind": "新案件",
+   "date": "2026-09-01",
+   "importance": 2,
+   "title": "萬那杜向國際法院起訴法國，爭 Matthew、Hunter 兩島主權（須法國同意管轄）",
+   "titleOriginal": "Vanuatu v. France — Umaenupne (Matthew) and Umaeneg/Leka (Hunter) Islands",
+   "caseRef": "",
+   "tldr": "萬那杜提出起訴書，請求法院確認 Umaenupne（Matthew 島）與 Umaeneg/Leka（Hunter 島）的主權，並劃定單一海洋邊界。法國沒有接受國際法院的強制管轄，法院表示在法國同意之前不會進行任何程序。",
+   "context": "兩島是無人居住的火山島，位於新喀里多尼亞以東約 300 公里、萬那杜東南方。萬那杜 1980 年獨立前由英法共管，獨立後即挑戰法國主權，主張殖民時期的安排沒有諮詢原住民。兩國 2018、2019 年曾談判，2025 年同意重啟雙邊談判，但萬那杜今年稍早表示談判陷入僵局。",
+   "facts": [
+    "起訴書於 2026 年 8 月 31 日提出，法院 9 月 1 日以新聞稿 No. 2026/22 公告。",
+    "起訴書已送交巴黎，詢問法國是否同意由法院審理。",
+    "兩島主權影響周邊海域的漁權與海床資源。"
+   ],
+   "issues": [
+    "管轄權：法國未依第 36 條第 2 項接受強制管轄，案件能否成立取決於法國是否同意。",
+    "實體（若進行）：去殖民化與主權取得、單一海洋邊界劃定。"
+   ],
+   "holding": "案件尚未進入程序。",
+   "significance": "萬那杜主張去殖民化必須以歸還兩島才算完成。法國國內極右派指控馬克宏政府準備讓出領土，巴黎方面多次否認。",
+   "editorNote": "以下為 Claude 補充：法院這種「待被告國同意才進行」的處理方式，即《法院規則》第 38 條第 5 項的程序；過去多數依此提出的案件因被告國不同意而未能成案。上列來源未直接引用該條。",
+   "tags": [
+    "領土主權",
+    "海洋劃界",
+    "去殖民化",
+    "規則第38條第5項",
+    "太平洋"
+   ],
+   "sources": [
+    {
+     "label": "ICJ 新聞稿 No. 2026/22（PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/press-releases/0/000-20260901-pre-01-00-en.pdf",
+     "official": true
+    },
+    {
+     "label": "Al Jazeera：Vanuatu takes France to ICJ over Matthew and Hunter islands",
+     "url": "https://www.aljazeera.com/news/2026/9/1/vanuatu-pushes-france-to-accept-icj-jurisdiction-in-pacific-islands-dispute",
+     "official": false
+    },
+    {
+     "label": "Courthouse News：Vanuatu turns to world court",
+     "url": "https://www.courthousenews.com/vanuatu-turns-to-world-court-in-pacific-islands-ownership-fight-with-france/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-10-08-ecthr-lz-dz-italy",
+   "court": "ECtHR",
+   "kind": "判決",
+   "date": "2026-10-08",
+   "importance": 2,
+   "title": "義大利多年未執行母子團聚裁定，違反家庭生活權",
+   "titleOriginal": "L.Z. and D.Z. v. Italy",
+   "caseRef": "",
+   "tldr": "孩子出生後被父親遺棄，母親一直想把孩子要回來，義大利卻宣告孩子可供收養並交給寄養家庭；之後法院命令母子團聚，卻五年都沒執行。歐洲人權法院認定義大利違反尊重家庭生活的權利。",
+   "context": "家庭生活權（《歐洲人權公約》第 8 條）不只要求國家不干預，也要求國家積極採取措施讓親子團聚，並確保相關裁判被執行。在兒童安置案件中，時間經過本身常會讓結果定型。",
+   "facts": [
+    "孩子出生時被父親遺棄在人行道上。",
+    "母親（第一申請人 L.Z.）採取行動要求把孩子還給她。",
+    "義大利當局仍宣告孩子為「被遺棄」、可供收養，並以快速程序安置於寄養家庭。",
+    "其後國內法院命令母子團聚，但命令未被執行；有關會面的決定也未被遵守。孩子至今未回到母親身邊。"
+   ],
+   "issues": [
+    "國內機關是否及時採取實際且適當的措施，讓母子建立有效接觸並執行團聚裁定。"
+   ],
+   "holding": "法院認為：國內法院未及時採取實際且適當的措施建立母子間的有效接觸；約五年間容忍欠缺接觸，也容忍團聚命令不被執行；時間經過最終成為讓孩子繼續留在寄養家庭的關鍵理由，造成親子關係斷裂的既成事實。結論：違反尊重家庭生活的權利。",
+   "significance": "書記處新聞稿的標題把本案定位為「不執行司法裁判所暴露的系統性問題」，對義大利兒少安置與裁判執行制度有指標意義。",
+   "editorNote": "Claude 註：新聞稿頁面未列出審判庭組成、公正補償金額與不同意見書；條文依判決內容對應為第 8 條。完整判決請至 HUDOC 查詢。",
+   "tags": [
+    "第8條",
+    "家庭生活",
+    "兒童安置",
+    "裁判執行",
+    "義大利"
+   ],
+   "sources": [
+    {
+     "label": "ECtHR 案件頁面",
+     "url": "https://www.echr.coe.int/w/l.z.-and-d.z.-v.-italy",
+     "official": true
+    },
+    {
+     "label": "書記處新聞稿（PDF）",
+     "url": "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8656061-12339698&filename=Judgment%20L.Z.%20and%20D.Z.%20v.%20Italy%20-%20Systemic%20problem%20exposed%20by%20non-enforcement%20of%20judicial%20decisions%20ordering%20reunification%20of%20mother%20and%20son.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-10-08-ecthr-manavidis-greece",
+   "court": "ECtHR",
+   "kind": "裁定",
+   "date": "2026-10-08",
+   "importance": 2,
+   "title": "希臘的監所條件救濟管道「有效」，申訴不受理",
+   "titleOriginal": "Manavidis v. Greece (decision)",
+   "caseRef": "",
+   "tldr": "希臘 2022 年在《監獄法》增訂第 6A 條，讓受刑人能就監所條件向法院請求救濟。歐洲人權法院首次審查這條規定，認為它在法律上與實務上都有效；申請人已透過它獲得足夠救濟，所以申訴不受理。",
+   "context": "依用盡國內救濟原則，若一國建立了有效的國內救濟，申請人應先使用該管道。《希臘監獄法》第 6A 條於 2022 年 10 月 27 日生效，是專門處理羈押條件的司法救濟。",
+   "facts": [
+    "申請人在希臘服刑，曾依第 6A 條提出兩次救濟。",
+    "第一次於 2023 年以無理由駁回；第二次部分有理由。",
+    "申請人主張希臘對不當的羈押條件沒有有效救濟。"
+   ],
+   "issues": [
+    "第 6A 條救濟是否同時具備預防性（改善條件）與補償性（金錢賠償）功能，且在實務上可行。"
+   ],
+   "holding": "法院認為第 6A 條結合預防與補償兩種救濟，彼此配合，提供取得適當救濟的實際可能，在法律上與實務上均屬有效。申請人已使用並獲得充分救濟，申訴顯無理由，不受理。",
+   "significance": "這是法院第一次評估第 6A 條。",
+   "editorNote": "以下為 Claude 的推論，非來源內容：既然法院認定此救濟有效，日後就希臘監所條件提出的申訴，可能須先用盡第 6A 條程序，否則會因未用盡國內救濟而不受理。新聞稿頁面未說明對其他待審案件的影響。",
+   "tags": [
+    "用盡國內救濟",
+    "第13條",
+    "第3條",
+    "羈押條件",
+    "希臘"
+   ],
+   "sources": [
+    {
+     "label": "ECtHR 案件頁面",
+     "url": "https://www.echr.coe.int/w/manavidis-v.-greece",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-10-06-ecthr-makovac-latin-slovenia",
+   "court": "ECtHR",
+   "kind": "判決",
+   "date": "2026-10-06",
+   "importance": 2,
+   "title": "克羅埃西亞漁民在斯洛維尼亞被罰：一人敗訴、一人勝訴",
+   "titleOriginal": "Makovac and Latin v. Slovenia",
+   "caseRef": "",
+   "tldr": "兩名克羅埃西亞籍商業漁民被斯洛維尼亞以非法進入其水域捕魚為由罰款，程序中都沒有開庭。歐洲人權法院認為，第一人的定罪有照片為據，不開庭並無不公；第二人只憑漁業稽查員指認與社群貼文定罪，必須開庭讓證據受檢驗，因此違反公正審判權。",
+   "context": "本案源自兩國在皮蘭灣（Piran Bay）一帶的海域爭議，背景見「Claude 補充」。歐洲人權法院處理的是罰款程序是否公正，不是海域界線在哪裡。",
+   "facts": [
+    "兩名申請人為克羅埃西亞籍，從事商業捕魚。",
+    "兩人在輕罪程序中因非法進入並在斯洛維尼亞水域捕魚被罰款，程序中都沒有舉行聽審。",
+    "第一申請人（Makovac）的定罪依據包括可辨識出兩人的照片。",
+    "第二申請人（Latin）的定罪依據是漁業稽查員的指認與不明的社群媒體貼文。"
+   ],
+   "issues": [
+    "輕罪程序中不舉行言詞聽審，是否侵害公正審判權（第 6 條）。"
+   ],
+   "holding": "第一申請人：照片證據她本可提出質疑，國內法院不開庭定罪並無違反。第二申請人：法院指出，要檢驗稽查員指認與社群貼文這類證據，言詞聽審是必要的，因此違反公正審判權。",
+   "significance": "對輕罪、行政罰程序中「何時必須開庭」提供具體判準：關鍵在證據性質是否需要當面檢驗。",
+   "editorNote": "以下為 Claude 補充，非新聞稿內容：克羅埃西亞與斯洛維尼亞的陸海邊界於 2017 年由常設仲裁法院主持的仲裁庭裁決，皮蘭灣大部分劃歸斯洛維尼亞；克羅埃西亞因 2015 年仲裁員私下接觸事件退出程序，不承認該裁決。斯洛維尼亞此後依裁決線對進入的克羅埃西亞漁民開罰。新聞稿頁面未提及仲裁裁決，也未記載公正補償金額。",
+   "tags": [
+    "第6條",
+    "公正審判",
+    "言詞聽審",
+    "皮蘭灣",
+    "海域爭端",
+    "斯洛維尼亞"
+   ],
+   "sources": [
+    {
+     "label": "ECtHR 案件頁面",
+     "url": "https://www.echr.coe.int/w/makovac-and-latin-v.-slovenia",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-10-13-ecthr-cengiz-turkiye",
+   "court": "ECtHR",
+   "kind": "判決",
+   "date": "2026-10-13",
+   "importance": 1,
+   "title": "土耳其監獄監聽、錄製受刑人與家屬會面，違反私人與家庭生活權",
+   "titleOriginal": "Cengiz v. Türkiye",
+   "caseRef": "Application no. 25406/22",
+   "tldr": "一名因恐怖組織成員罪服刑的受刑人，與家人會面的對話被監獄依新法監聽並錄音。歐洲人權法院認定違反第 8 條，判賠 1,500 歐元。",
+   "context": "土耳其《第 5275 號法律》第 83 條第 4 項於 2021 年 8 月 10 日生效後，監獄開始監聽並錄製部分受刑人在會客室與家屬的談話。",
+   "facts": [
+    "申請人 1965 年生，因加入武裝恐怖組織被定罪，關押於安卡拉 Sincan 監獄。",
+    "監獄依上述規定監聽並錄製他與家屬在會客室的談話。",
+    "他向監獄、刑罰執行法官、重罪法院救濟均未成功；憲法法院於 2022 年 4 月 4 日以顯無理由駁回其個人申訴。"
+   ],
+   "issues": [
+    "監聽錄製家屬會面是否構成對私人與家庭生活、通訊秘密的不當干預（第 8 條）。"
+   ],
+   "holding": "違反第 8 條；非財產損害賠償 1,500 歐元。判決以法文作成。",
+   "significance": "",
+   "editorNote": "Claude 註：書記處新聞稿只記載結論，未說明法院理由（例如是否認為法律欠缺明確性或欠缺必要性）。理由請閱讀 HUDOC 判決全文。",
+   "tags": [
+    "第8條",
+    "通訊秘密",
+    "受刑人",
+    "土耳其"
+   ],
+   "sources": [
+    {
+     "label": "書記處新聞稿：Judgments of 13.10.2026（PDF）",
+     "url": "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8661295-12349433&filename=Judgments%20of%2013.10.2026.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-10-13-ecthr-devekom-serbia",
+   "court": "ECtHR",
+   "kind": "判決",
+   "date": "2026-10-13",
+   "importance": 1,
+   "title": "塞爾維亞退還多收關稅卻拒付利息，違反財產權",
+   "titleOriginal": "Devekom DOO Niš v. Serbia",
+   "caseRef": "Application no. 16947/22",
+   "tldr": "一家塞爾維亞公司被要求補繳關稅並立即付清，後來海關承認不該課稅而退款，卻拒絕支付利息。歐洲人權法院認定違反第一議定書第 1 條（財產權）。",
+   "context": "",
+   "facts": [
+    "2006 年，公司以優惠關稅制度自波士尼亞與赫塞哥維納、克羅埃西亞進口貨物，依當時法律未繳關稅。",
+    "2009 年，海關認定不應適用優惠，命其補繳；因申訴無停止執行效力，公司立即繳納。",
+    "其後海關認定該批貨物實際上不須課稅，命令退款，但拒絕支付利息；公司對利息部分的救濟均遭駁回。"
+   ],
+   "issues": [
+    "國家退還不當徵收款項時拒付利息，是否侵害財產權。"
+   ],
+   "holding": "違反第一議定書第 1 條。賠償：財產損害 95,284 歐元、非財產損害 3,000 歐元、費用 4,500 歐元。",
+   "significance": "",
+   "editorNote": "Claude 註：新聞稿未說明法院理由。",
+   "tags": [
+    "第一議定書第1條",
+    "財產權",
+    "關稅",
+    "塞爾維亞"
+   ],
+   "sources": [
+    {
+     "label": "書記處新聞稿：Judgments of 13.10.2026（PDF）",
+     "url": "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8661295-12349433&filename=Judgments%20of%2013.10.2026.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-10-06-ecthr-patsaka-christidou-greece",
+   "court": "ECtHR",
+   "kind": "判決",
+   "date": "2026-10-06",
+   "importance": 1,
+   "title": "退休者上訴因審議委員會被裁撤而遭認定逾期，違反接近法院權",
+   "titleOriginal": "Patsaka-Christidou v. Greece",
+   "caseRef": "",
+   "tldr": "一名希臘退休者的上訴被以逾期為由駁回，原因是處理她原先異議的委員會已被裁撤。歐洲人權法院認為這樣解釋期限，對她來說無法預見且負擔過重，違反第 6 條第 1 項的接近法院權，判賠 6,000 歐元。",
+   "context": "",
+   "facts": [
+    "申請人為退休者，曾向某委員會提出異議。",
+    "該委員會其後被裁撤，她後續的上訴被認定逾期而駁回。"
+   ],
+   "issues": [
+    "國內法院對上訴期限的解釋，是否對當事人構成無法預見且過度的負擔。"
+   ],
+   "holding": "違反第 6 條第 1 項（接近法院權）；非財產損害 6,000 歐元（判決確定後生效）。",
+   "significance": "",
+   "editorNote": "Claude 註：本則依二手彙整（Peace & Humanity 每週回顧）及 HUDOC 連結撰寫，尚未核對法院新聞稿原文。",
+   "tags": [
+    "第6條第1項",
+    "接近法院",
+    "期限",
+    "希臘"
+   ],
+   "sources": [
+    {
+     "label": "HUDOC 判決",
+     "url": "https://hudoc.echr.coe.int/eng?i=001-252594",
+     "official": true
+    },
+    {
+     "label": "Peace & Humanity：Weekly News Recap 5–11 October 2026",
+     "url": "https://peacehumanity.org/2026/10/12/weekly-news-recap-5-11-october-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-09-24-afchpr-kakaunda-malawi",
+   "court": "ACtHPR",
+   "kind": "判決",
+   "date": "2026-09-24",
+   "importance": 2,
+   "title": "馬拉威最高上訴法院不給清楚判決書、兩人合議庭審再審，違反公正審判",
+   "titleOriginal": "Kambeyo Ka-Kaunda & Emmie Chenda Mkandawire v. Republic of Malawi",
+   "caseRef": "Application No. 004/2022",
+   "tldr": "兩名申請人打了一場土地糾紛官司，輸了之後連蓋章簽名的判決書都拿不到，只拿到看不清楚的手寫筆記；再審也只由兩位法官審理，不符法定人數。非洲人權法院認定馬拉威侵害聽審權與正當程序，命其立即提供正式判決書並公開上網。",
+   "context": "本判決為一造缺席判決：馬拉威經多次催告未提出答辯。申請人主張違反《非洲人權與民族權憲章》第 7 條（公正審判，併讀《公民與政治權利國際公約》第 2、14 條及《世界人權宣言》第 10 條）與第 14 條（財產權）。",
+   "facts": [
+    "申請人協助友人 Profera Mtambalika 取得布蘭岱一筆土地（Title Ndirande 26）的權狀，約定事後移轉 2.2 公頃給他們，但對方拒絕。",
+    "申請人 2010 年 4 月訴請履行，高等法院 2014 年 6 月駁回；最高上訴法院 2016 年 8 月駁回上訴，2022 年 4 月駁回再審聲請。",
+    "申請人始終沒拿到最高上訴法院判決的簽署本，再審判決只有難以辨識的手寫筆記。",
+    "再審由兩位法官審理，低於法定最低人數。"
+   ],
+   "issues": [
+    "無法取得可閱讀的正式判決書，是否侵害聽審權。",
+    "兩人合議庭審理再審，是否違反正當程序（合法法庭）。",
+    "訴訟期間約九年五個月，是否違反「合理期間內審判」。",
+    "敗訴是否侵害財產權。"
+   ],
+   "holding": "・聽審權：違反（第 7 條第 1 項併讀 ICCPR 第 14 條第 1 項）。申請人已積極索取紀錄，國家未回應，舉證責任轉由國家負擔。\n・正當程序：違反。兩人合議庭不符馬拉威憲法與首席大法官的實務指令，無權審理再審（第 7 條第 1 項第 a 款）。\n・防禦權：未違反，雙方受平等對待。\n・合理期間：未違反，申請人未提出完整卷證，無法確認延滯原因（Ben Achour 法官對此部分提出部分不同意見）。\n・財產權：未違反，國內法院已認定約定無效，申請人未證明受法律承認的財產權。\n賠償：每人精神損害 500 馬拉威克瓦查；財產與律師費請求駁回。\n命令：立即提供 2016 年判決與 2022 年再審裁定的正式、可閱讀版本；三個月內在司法機關與司法部網站公開至少一年；採取措施確保合理期間審判、判決可取得（含電子化）及實務指令明確；六個月內提出執行報告，未完全履行將召開執行聽證。",
+   "significance": "把「拿得到看得懂的判決書」明確納入公正審判權的內容，並以命令要求建置判決公開機制，屬結構性救濟。",
+   "editorNote": "",
+   "tags": [
+    "非洲憲章第7條",
+    "公正審判",
+    "判決公開",
+    "法庭組成",
+    "缺席判決",
+    "馬拉威"
+   ],
+   "sources": [
+    {
+     "label": "非洲人權法院判決摘要（PDF）",
+     "url": "https://www.african-court.org/ajudata/download-file/decision/766/EN/336",
+     "official": true
+    },
+    {
+     "label": "案件摘要（PDF）",
+     "url": "https://www.african-court.org/ajudata/download-file/summary/336/EN/336",
+     "official": true
+    },
+    {
+     "label": "第 82 屆常會判決摘要索引",
+     "url": "https://www.african-court.org/ajudata/website/afchpr-judgments-summaries/82",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-09-24-afchpr-inadmissibility",
+   "court": "ACtHPR",
+   "kind": "裁定",
+   "date": "2026-09-24",
+   "importance": 1,
+   "title": "非洲人權法院兩件不受理：「不知道有上訴管道」不能免除用盡國內救濟",
+   "titleOriginal": "Fea Charles and Others v. Côte d'Ivoire; Mohamed Al Bousifi v. Niger",
+   "caseRef": "Applications 028/2019 等七件（合併）；003/2022",
+   "tldr": "第 82 屆常會中，法院以未用盡國內救濟為由，駁回對象牙海岸（七件合併）與尼日的申請。法院強調，沒有律師、不知道有第三審上訴管道，都不是不用盡救濟的理由。",
+   "context": "依《法院規則》第 50 條第 2 項第 e 款，申請人須先用盡國內救濟；受理要件是累積的，只要一項不符，法院就不再審查其他要件。",
+   "facts": [
+    "象牙海岸案：申請人主張監禁違法，援引憲章第 5、6、7 條，請求特赦或假釋及賠償；他們未對阿必尚上訴法院判決提起刑事訴訟法第 571 條的第三審上訴，理由是沒有法律扶助、不知道有此管道。",
+    "尼日案：申請人主張對尼亞美一筆 55 公頃土地（Title TF 17625）擁有所有權，指控 2013 年的司法調解筆錄導致其中 35 公頃被分割，主張違反憲章第 14 條（財產權），請求返還權狀及 2 億西非法郎賠償。"
+   ],
+   "issues": [
+    "欠缺法律扶助或不知有救濟管道，能否構成未用盡國內救濟的正當理由。",
+    "申請人未曾就土地所有權在國內法院起訴，是否已用盡救濟。"
+   ],
+   "holding": "兩案均不受理，訴訟費用各自負擔。象牙海岸案中法院指出「任何人不得以不知法律為由」，且不能未經嘗試就主張救濟無效。尼日案中法院認為土地所有權爭議屬高等法院民事管轄，申請人未提起此類訴訟。",
+   "significance": "",
+   "editorNote": "",
+   "tags": [
+    "用盡國內救濟",
+    "受理要件",
+    "象牙海岸",
+    "尼日"
+   ],
+   "sources": [
+    {
+     "label": "Fea Charles and Others v. Côte d'Ivoire 判決摘要（PDF）",
+     "url": "https://www.african-court.org/ajudata/download-file/decision/772/EN/221",
+     "official": true
+    },
+    {
+     "label": "Mohamed Al Bousifi v. Niger 判決摘要（PDF）",
+     "url": "https://www.african-court.org/ajudata/download-file/decision/767/EN/333",
+     "official": true
+    },
+    {
+     "label": "第 82 屆常會判決摘要索引",
+     "url": "https://www.african-court.org/ajudata/website/afchpr-judgments-summaries/82",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-09-21-iacthr-195-session",
+   "court": "IACtHR",
+   "kind": "程序進展",
+   "date": "2026-09-21",
+   "importance": 1,
+   "title": "美洲人權法院在蒙特維多舉行第 195 屆常會：審理委內瑞拉、智利、秘魯案件",
+   "titleOriginal": "195th Regular Session (Montevideo, 21–25 September 2026)",
+   "caseRef": "",
+   "tldr": "美洲人權法院 9 月 21 日至 25 日在烏拉圭國會大廈開會，舉行三件案件的公開聽審，以及兩件烏拉圭強迫失蹤案的判決履行監督聽審。",
+   "context": "法院本部位於哥斯大黎加聖荷西，定期移地開會，以拉近與各國機關的距離。庭長為巴西籍的 Rodrigo Mudrovitsch。",
+   "facts": [
+    "Navarro López 等人訴委內瑞拉：涉及 Víctor Navarro López 等人遭非法拘禁。",
+    "智利非裔部落民族訴智利。",
+    "Mashco Piro、Yora 與 Amahuaca 原住民族訴秘魯。",
+    "履行監督聽審：Gelman 訴烏拉圭（María Claudia García Iruretagoyen 失蹤及其女 Macarena Gelman 身分被剝奪）；González González 與 Tassino Asteazu 訴烏拉圭（軍政府時期失蹤）。"
+   ],
+   "issues": [],
+   "holding": "本屆會議以聽審為主，報導未提及作成判決。",
+   "significance": "Mudrovitsch 庭長致詞指出，判決的效果要看判決後各國的作為，並稱「公約符合性控制」經過 20 年已成為現實。",
+   "editorNote": "Claude 註：本則依媒體報導撰寫，尚未取得法院官方新聞稿；官方會期資料可由下方「會期」頁面查詢。",
+   "tags": [
+    "美洲人權公約",
+    "原住民族",
+    "強迫失蹤",
+    "履行監督"
+   ],
+   "sources": [
+    {
+     "label": "美洲人權法院會期頁面",
+     "url": "https://www.corteidh.or.cr/periodo_de_sesiones.cfm?lang=en",
+     "official": true
+    },
+    {
+     "label": "El Nacional：La Corte IDH instala en Montevideo su 195 período de sesiones",
+     "url": "https://www.elnacional.com/2026/09/la-corte-idh-instala-en-montevideo-su-195-periodo-de-sesiones-para-evaluar-demandas-contra-venezuela-chile-y-peru/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-09-11-iacthr-garifuna",
+   "court": "IACtHR",
+   "kind": "裁定",
+   "date": "2026-09-11",
+   "importance": 1,
+   "title": "美洲人權法院就四件加利富納族土地案，對宏都拉斯發出臨時措施與履行監督聯合決議",
+   "titleOriginal": "Joint resolution on provisional measures and supervision of compliance — Garifuna communities v. Honduras",
+   "caseRef": "",
+   "tldr": "法院 9 月 11 日針對四件涉及加利富納族集體土地的判決，一併作成臨時措施與履行監督決議。9 月 20 日一個國際聲援代表團要求宏都拉斯加速履行。",
+   "context": "四件判決都涉及加利富納族社群的集體財產與傳統領域：Triunfo de la Cruz（2015）、Punta Piedra（2015）、San Juan（2023）、Cayos Cochinos（2025 年判決、2026 年通知）。",
+   "facts": [
+    "Triunfo de la Cruz 案：涉及社群主張領域內的土地出售、都市擴張、觀光計畫與保護區決定。",
+    "San Juan 案：法院認定宏都拉斯未為社群領域辦理權狀、界定與劃界，也未充分保障其使用與參與決策。",
+    "Cayos Cochinos 案：法院認定國家就保護區、管理計畫、漁業與電視節目拍攝作成決定時，未進行適當的自由、事先、知情諮商。",
+    "待履行事項包括：祖傳土地登記與權狀、清理土地登記、落實賠償與不再發生措施。"
+   ],
+   "issues": [],
+   "holding": "聯合決議的具體內容，報導未詳述。",
+   "significance": "原住民族集體財產判決的履行，長期是美洲人權體系的難題。",
+   "editorNote": "Claude 註：本則依 Infobae 報導撰寫，尚未取得法院決議原文。可至法院判例資料庫搜尋原文。",
+   "tags": [
+    "原住民族",
+    "集體財產",
+    "自由事先知情同意",
+    "履行監督",
+    "宏都拉斯"
+   ],
+   "sources": [
+    {
+     "label": "美洲人權法院判例資料庫",
+     "url": "https://jurisprudencia.corteidh.or.cr/",
+     "official": true
+    },
+    {
+     "label": "Infobae：Misión internacional exige a Honduras cumplir fallos de la Corte IDH",
+     "url": "https://www.infobae.com/america/america-latina/2026/09/20/mision-internacional-exige-a-honduras-cumplir-fallos-de-la-corte-idh-a-favor-del-pueblo-garifuna/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-10-09-other-pillay-nobel",
+   "court": "OTHER",
+   "kind": "其他",
+   "date": "2026-10-09",
+   "importance": 2,
+   "title": "諾貝爾和平獎頒給國際刑事司法先驅 Navi Pillay",
+   "titleOriginal": "The Nobel Peace Prize 2026 — Navanethem Pillay",
+   "caseRef": "",
+   "tldr": "挪威諾貝爾委員會把 2026 年和平獎頒給南非法學家 Navi Pillay，表彰她推動追訴戰爭罪、危害人類罪與種族滅絕罪。同一天，美國宣布制裁 ICC。",
+   "context": "委員會主席 Frydnes 表示，國際法體系正承受巨大壓力，而國際法已是和平與安全不可或缺的基礎。",
+   "facts": [
+    "1967 年成為納塔爾省第一位開設律師事務所的女性，曾為曼德拉等反種族隔離人士辯護。",
+    "在盧安達國際刑事法庭任內，參與確立強暴與性暴力可構成危害人類罪與種族滅絕罪；後任 ICC 法官、聯合國人權事務高級專員。",
+    "曾主持聯合國巴勒斯坦被佔領土獨立國際調查委員會，該委員會去年認定以色列對加薩的種族滅絕負有責任；以色列外交部譴責此次頒獎。",
+    "目前在國際法院審理緬甸被控對羅興亞人種族滅絕一案。",
+    "她在紐倫堡大審的法庭宣布將獎項獻給所有國際罪行倖存者。頒獎典禮 12 月 10 日在奧斯陸舉行。"
+   ],
+   "issues": [],
+   "holding": "",
+   "significance": "頒獎與美國制裁 ICC 同日，凸顯國際刑事司法所受的政治壓力。",
+   "editorNote": "以下為 Claude 補充：Pillay 在國際法院「甘比亞訴緬甸」案中是由甘比亞選派的專案法官；她在盧安達國際刑事法庭參與的指標判決為 Akayesu 案（1998）。",
+   "tags": [
+    "國際刑事司法",
+    "ICTR",
+    "諾貝爾和平獎"
+   ],
+   "sources": [
+    {
+     "label": "Nobel Prize 新聞稿",
+     "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+     "official": true
+    },
+    {
+     "label": "Al Jazeera：2026 Nobel Peace Prize awarded to Navi Pillay",
+     "url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T12:30:00+08:00"
+  },
+  {
+   "id": "2026-10-13-ejil-laws-characterization",
+   "court": "OTHER",
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "kind": "學術評論",
+   "date": "2026-10-13",
+   "importance": 2,
+   "author": "Aurel Sari（艾希特大學）",
+   "title": "自主致命武器終於有了共識定義，但關鍵問題仍有兩種讀法",
+   "titleOriginal": "Characterizing Lethal Autonomous Weapon Systems: Consensus Without Agreement?",
+   "caseRef": "",
+   "tldr": "《特定常規武器公約》（CCW）下的政府專家小組在 2026 年 9 月以共識通過報告，首次為「致命自主武器系統」寫出定義。作者認為這是外交突破，但人機如何分工、機器要自主到什麼程度等關鍵問題都可以有寬、窄兩種讀法，未來談判勢必再起爭議。",
+   "context": "政府專家小組（GGE）多年來在 CCW 架構下處理自主武器議題。其 2024 至 2026 年度報告（CCW/GGE.1/2026/3）於 2026 年 9 月 4 日以共識通過，列出一份未來文書的「要素」，涵蓋規範與操作兩個面向。",
+   "facts": [
+    "報告第 25 段把致命自主武器系統描述為一個或多個武器與技術元件共同運作的組合，能在操作者不介入的情況下辨識、選擇並攻擊目標，造成人命損失。",
+    "早期主席草案使用「整合的組合」「功能上整合的技術元件」等措辭，定稿改為「共同運作」；主席表示意義並未改變。",
+    "主席在 8 月 31 日與 9 月 4 日的會議中口頭解釋了若干用語，但這些解釋不在報告內，只留存在會議錄影中。"
+   ],
+   "issues": [
+    "「共同運作」只涵蓋與武器功能整合的元件，還是也包括鬆散連網的感測與運算設備。",
+    "以「能力」而非設計或意圖為準，範圍是否過寬，並連帶擴大《第一附加議定書》第 36 條的新武器審查。",
+    "辨識、選擇、攻擊三項關鍵功能如何界定；多階段的目標選定流程要自動化到什麼程度才算數。",
+    "人類設定目標類別、或預先指定具體目標與時間，哪一種會使系統落在定義之外。",
+    "「造成人命損失」是指預期會致死，還是只要可能致死即可。"
+   ],
+   "holding": "・措辭改動在實質上確有差別：較寬鬆的「共同運作」可能把角色隨情境變動的網路化系統也納入，事前不一定能判斷某個組合是否構成自主武器。\n・以能力為準有其道理，但可能把本身不是武器或作戰手段的資產捲入，增加第 36 條審查的負擔。\n・目標選定是逐步收斂的過程，完全自動化不太可能、也未必可取，因此定義必須說清楚需要多少機器自主。\n・人類只設定目標類別，系統仍在定義之內；預先指定具體目標與時間則會使系統落在定義之外。但「時間」要件改寫後，對已部署、仍在搜尋目標的系統何時越線，仍不明確。\n・定義只看是否有致死能力，不看主要用途；只會干擾電子設備或致盲感測器的系統大致被排除，可能造成傷害但不致死的系統如何處理則不清楚。\n・作者整理出「狹義」與「廣義」兩種讀法，並以 SPICE-250 炸彈、Harpy 游蕩彈藥及挪威提出的情境說明，兩種讀法會得出不同結論。",
+   "significance": "作者認為，在各國立場分歧下能以共識寫出功能性的定義，是可觀的成果；但人機分工、自主程度、攻擊時點等問題沒有解決，主席口頭解釋的效力也不確定。定義的寬窄將決定未來文書會規範到哪些國家的武器系統。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\nClaude 補充：CCW 為 1980 年《禁止或限制使用某些可被認為具有過分傷害力或濫殺濫傷作用的常規武器公約》。",
+   "tags": [
+    "國際人道法",
+    "武器法",
+    "CCW",
+    "自主武器",
+    "第一附加議定書第36條",
+    "條約談判"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/characterizing-lethal-autonomous-weapon-systems-consensus-without-agreement/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T17:59:00+08:00"
+  },
+  {
+   "id": "2026-10-12-ejil-argentina-unclos",
+   "court": "OTHER",
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "kind": "學術評論",
+   "date": "2026-10-12",
+   "importance": 2,
+   "author": "Abhijeet Shrivastava、Constantinos Yiallourides",
+   "title": "阿根廷能否就福克蘭油田對英國提起海洋法程序？作者認為管轄權是最大障礙",
+   "titleOriginal": "Can Argentina Bring UNCLOS Proceedings Against the UK Concerning the Exploitation of Hydrocarbon Resources in the North Malvinas Basin?",
+   "caseRef": "",
+   "tldr": "作者分析阿根廷依《聯合國海洋法公約》對英國提起程序的可行性：案件實質上牽涉群島主權，而海洋法公約下的法庭不處理陸地主權，因此 ITLOS 很可能認定欠缺初步管轄權。以海洋環境義務為切入點或許可行，但證據門檻較高。",
+   "context": "阿根廷於 9 月 28 日依公約啟動附件七仲裁，10 月 13 日向 ITLOS 請求臨時措施（見下方「相關動態」）。本文發表於請求提出前一天。",
+   "facts": [
+    "依公約第 287 條，阿根廷選擇 ITLOS，英國選擇國際法院；兩國選擇不同，預設程序為附件七仲裁。",
+    "英阿曾於 1995 年以不影響各自主權立場的方式簽訂油氣合作聯合聲明，在特別區域合作開發；阿根廷於 2007 年以英方單方行為為由終止。",
+    "爭議背景涉及聯合國大會第 2065（XX）號與第 31/49 號決議。"
+   ],
+   "issues": [
+    "海洋法公約下的法庭能否處理「必然涉及」陸地主權的混合爭端（第 288 條第 1 項）。",
+    "第 74 條第 3 項、第 83 條第 3 項的克制義務是否適用。",
+    "以海洋環境保護義務作為請求基礎的可能性。"
+   ],
+   "holding": "・若阿根廷直接或透過主張大陸礁層權利來主張群島主權，這部分主張落在法庭的事物管轄之外。\n・附件七仲裁庭在查哥斯海洋保護區案、烏克蘭訴俄羅斯沿海國權利案、南海仲裁案中，一貫拒絕處理未解決的陸地主權；模里西斯／馬爾地夫案則因國際法院 2019 年諮詢意見已釐清主權而不同，阿根廷沒有類似的權威認定。\n・第 74 條第 3 項、第 83 條第 3 項以存在重疊權利主張的劃界爭端為前提；若英國不具主權，就談不上劃界爭端，這兩條可能無從適用。\n・以聯大決議或《聯合國憲章》第 2 條第 3 項為依據的主張，可能不屬於公約的解釋或適用。\n・海洋環境義務可能不以主權歸屬為前提，因此可以作為獨立請求；但臨時措施需要比一般環境考量更具體的損害證據。\n・若改為主張英國侵害阿根廷作為沿海國的權利，反而可能被解讀為默認英國主權。",
+   "significance": "作者預測 ITLOS 很可能認定欠缺初步管轄權而不給予臨時措施，並建議其他出路：恢復談判、主權移轉搭配島民自治的方案，或建立涵蓋通行、科學、環境、觀光與非軍事化的共同特別制度。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。",
+   "tags": [
+    "海洋法",
+    "UNCLOS",
+    "附件七仲裁",
+    "混合爭端",
+    "領土主權",
+    "大陸礁層",
+    "福克蘭/馬爾維納斯"
+   ],
+   "related": [
+    "2026-10-13-itlos-argentina-uk"
+   ],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/can-argentina-bring-unclos-proceedings-against-the-uk-concerning-the-exploitation-of-hydrocarbon-resources-in-the-north-malvinas-basin/",
+     "official": false
+    },
+    {
+     "label": "ITLOS 案件頁面（阿根廷訴英國，臨時措施）",
+     "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-14T17:59:00+08:00"
+  },
+  {
+   "id": "2026-10-02-ejil-ai-sovereignty",
+   "court": "OTHER",
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "kind": "學術評論",
+   "date": "2026-10-02",
+   "importance": 2,
+   "author": "Tsvetelina van Benthem（雷丁大學）",
+   "title": "AI 與尊重國家主權的義務：關鍵基礎設施標籤與「非故意」干預",
+   "titleOriginal": "Two nodes of interaction between AI and the obligation to respect state sovereignty",
+   "caseRef": "",
+   "tldr": "作者整理各國對網路空間適用國際法的立場聲明，討論兩個問題：把 AI 系統列為關鍵基礎設施，是否會讓干擾它更容易構成侵犯主權；以及 AI 在沒有任何意圖的情況下干擾他國，是否仍可能違反尊重主權的義務。",
+   "context": "AI 日益支撐國安、經濟、醫療等核心部門，英國已於 2024 年把資料中心列為關鍵國家基礎設施。另一方面，2026 年陸續有 AI 代理未經授權入侵網站等事件的報導，目前多涉及企業，但可能很快牽動國家間關係。\n作者採《塔林手冊 2.0》第 4 條規則的架構：侵犯主權可以基於侵害領土完整，或干預、篡奪固有政府職能；並假定習慣法上尊重主權的義務存在，不處理該義務是否存在的爭論。",
+   "facts": [
+    "國際法沒有保護關鍵基礎設施的專門規則，也沒有權威定義；《聯合國負責任國家行為規範》在規範 f、g、h 提到關鍵基礎設施，但不具拘束力。",
+    "泰國的立場把干擾主權控制或損害重要職能連結到違反主權；德國則認為影響關鍵基礎設施可能是違反主權的跡象，但不當然構成違反。",
+    "斯洛維尼亞的立場提到「意圖造成損害」；伊朗提到「故意」使用網路武力；捷克、非洲聯盟共同立場把意圖要素放在不干涉原則而非主權。",
+    "約二十多個國家與歐盟（包括加拿大、法國、德國、日本、荷蘭）著重行為的性質或影響，未提主觀要件；澳洲、哥斯大黎加、泰國明言不干涉原則不以意圖為要件。"
+   ],
+   "issues": [
+    "「關鍵基礎設施」或「必要服務」的標籤，在判斷是否侵犯主權時扮演什麼角色。",
+    "侵犯主權是否以意圖為要件；AI 非故意造成的干預是否仍構成違反。"
+   ],
+   "holding": "・這些標籤本身不會產生獨立的保護，但可以在三處發揮作用：行為的性質、可預見的效果（嚴重程度門檻），以及與固有政府職能的連結；該職能是否已民營化並不影響判斷。\n・國家責任法沒有一般性的故意要件，也沒有「意外或錯誤」的抗辯，因此意圖是否必要，要回到各個初級義務本身判斷。\n・多數國家對此沉默；作者提醒，沉默可能只是沒有處理，不等於接受客觀標準。認為不干涉原則都不需要意圖的國家，不太可能反而要求侵犯主權須有意圖。\n・作者引用 Schmitt 的看法：對行動控制力較強的國家應承擔失誤風險，受害國不應因此處於更不利的地位；即使主權義務要求意圖，習慣法上「不得造成跨境損害」的規則仍可能使國家負擔賠償責任。",
+   "significance": "作者呼籲各國在立場聲明中表態：意圖究竟是獨立要件、只是判斷行為性質的因素，還是無關。這對網路與 AI 時代如何解釋主權規則有實務參考價值。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\nClaude 註：文中提到的 2026 年 AI 事件，作者表示係依媒體或企業的報導，並非經查證的事實。",
+   "tags": [
+    "國家主權",
+    "不干涉原則",
+    "網路空間",
+    "塔林手冊",
+    "國家責任",
+    "習慣國際法",
+    "AI"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/two-nodes-of-interaction-between-ai-and-the-obligation-to-respect-state-sovereignty/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T17:59:00+08:00"
+  },
+  {
+   "id": "2026-09-22-ejil-correct-the-map",
+   "court": "OTHER",
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "kind": "學術評論",
+   "date": "2026-09-22",
+   "importance": 2,
+   "author": "Hendrik Mathis Drößler（薩爾斯堡大學）",
+   "title": "聯大「修正地圖」決議：換投影法，不等於改變領土地位",
+   "titleOriginal": "Changing the Map, Reframing the World?",
+   "caseRef": "",
+   "tldr": "聯合國大會通過非洲國家推動的「修正地圖」決議，鼓勵聯合國改用等積投影地圖，矯正麥卡托投影放大高緯度地區、縮小非洲的視覺偏差。作者分析：決議處理的是「怎麼把地球攤平」，不涉及邊界劃定，也不改變任何領土主張；但聯合國機構出版地圖時，仍要遵守不承認非法情勢的義務。",
+   "context": "「Correct the Map」是非洲主導的倡議。決議草案 A/80/L.104 由多哥提出，2026 年 9 月 4 日以 164 票贊成、1 票反對（美國）、6 票棄權（愛沙尼亞、喬治亞、立陶宛、摩爾多瓦、塞爾維亞、烏克蘭）通過。",
+   "facts": [
+    "決議鼓勵在需要比較面積時使用等積投影，並以 Equal Earth 投影為選項之一；但未指定唯一投影、未附地圖、未劃定任何邊界，並明文保留麥卡托等正形投影在航海上的用途。",
+    "後續工作包括標準制定、教育、與聯合國機構及數位平台合作，由秘書長提出報告，大會日後可能再檢討。",
+    "多國投票時附加說明：烏克蘭反對對其被佔領土的描繪；塞爾維亞反對相關政治地圖；印度不認可任何特定投影；菲律賓保留其海洋權利立場；英、美不同意倡議的理由。"
+   ],
+   "issues": [
+    "地圖在國際裁判中的證據價值，以及地圖何時能表達國家對邊界的同意。",
+    "聯合國機關與專門機構出版地圖時，是否可能違反不承認非法領土情勢的義務。",
+    "各國對決議的表態能否形成關於官方製圖的習慣法法律確信。"
+   ],
+   "holding": "・投影與邊界必須分開：認可某種投影，不等於認可某張地圖上的邊界（例如 Equal Earth 資料中對克里米亞、伊勒米三角、喀什米爾的描繪）。\n・依國際法院判例，地圖本身不是領土權源；證據力取決於準確性與來源，只有在納入正式文書或經當事國接受時才具法律意義（布吉納法索／馬利邊界爭端案、柏威夏寺案及其 2013 年解釋判決、白礁案）。\n・聯合國出版地圖本身不代表會員國接受；專門機構依《聯合國憲章》第 57、63 條透過協定與聯合國連結，大會的建議只會啟動協商與報告程序，不構成採用特定投影的義務。\n・不承認義務仍然存在：大會第 68/262 號決議要求不承認克里米亞地位的變更；國際法院 2024 年巴勒斯坦被佔領土諮詢意見指出，國際組織也不得承認非法存在所造成的情勢。地圖若把非法取得呈現為合法，可能觸及此義務；但描繪實際控制不等於承認主權。\n・依 1996 年核武諮詢意見，大會決議可以是新興習慣的證據，但僅憑票數，不足以證明已形成關於官方製圖的法律確信。",
+   "significance": "作者認為決議為非洲對製圖實踐的批評開啟了制度化管道，但不產生拘束性規則，也不改變領土地位；建議聯合國機構依職權選擇投影、檢查領土描繪是否合法，並說明理由。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。",
+   "tags": [
+    "領土主權",
+    "地圖證據",
+    "不承認義務",
+    "聯合國大會決議",
+    "習慣國際法",
+    "法律確信"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/changing-the-map-reframing-the-world/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T17:59:00+08:00"
+  },
+  {
+   "id": "2026-09-09-ejil-autonomous-ships-art94",
+   "court": "OTHER",
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "kind": "學術評論",
+   "date": "2026-09-09",
+   "importance": 1,
+   "author": "Cedric Pfeiler",
+   "title": "無人自主船舶與船旗國義務：拿不到航行資料，還算「有效管轄與控制」嗎？",
+   "titleOriginal": "Access to the Logbook: How Autonomous Ships Complicate the Flag State's Ability to Fulfill its Article 94 UNCLOS Obligation",
+   "caseRef": "",
+   "tldr": "國際海事組織（IMO）的自主水面船舶規則於 2026 年 7 月生效。作者指出，自主船的航行資料常存放在他國、由第三方營運的伺服器上；船旗國若取不到這些資料，就難以履行《聯合國海洋法公約》第 94 條的監督義務。光靠私法契約不夠，需要國家之間簽訂協定。",
+   "context": "IMO《海上自主水面船舶國際安全規則》（MASS Code）於 2026 年 7 月 1 日生效，屬非強制性指引。自主船由遠端操作中心監控，船舶資料（影像、雷達、衛星定位等）多經衛星傳輸並存放於雲端伺服器，伺服器可能位於他國、由第三方持有。",
+   "facts": [
+    "MASS Code 把核發證書與船旗國主管機關能否取得紀錄資料相連結。",
+    "各國對資料管轄的主張不同：有以資料所在領域為準（例如中國），有以服務提供者為準（例如美國 CLOUD Act），兩者都不給第三國（例如船旗國）直接調取的權利。",
+    "司法互助程序緩慢；中國對資料出境的事前核准要求，以及歐盟《資料法》與 GDPR，都增加跨境傳輸的難度。"
+   ],
+   "issues": [
+    "公約第 94 條船旗國義務的性質與盡職調查標準。",
+    "船旗國若無法取得境外資料，能否對自主船行使有效的管轄與控制。",
+    "與資料持有公司簽訂私法契約是否足夠，還是需要國際公法框架。"
+   ],
+   "holding": "・第 94 條屬盡職調查義務，是「行為義務」而非「結果義務」（引用 ITLOS 次區域漁業委員會諮詢意見、海床爭端分庭諮詢意見及國際法院紙漿廠案），可拆成建立規範、維持監督、執行三個部分。\n・監督、稽核與事故調查，都以能取得船舶資料（位置、維修紀錄、遠端操作指令紀錄）為前提。\n・撤銷證書是過於粗糙的手段，無法提供監督或調查的權力。\n・私法契約無法排除各國的法律障礙，因此需要船旗國與伺服器所在國之間的條約，資料取得才有合理的確定性。",
+   "significance": "作者結論：船旗國不必對伺服器有管轄權，也不必最終真的調取資料；但在船舶登記後，必須能高度確定取得得到資料，最好事先以公法協定安排。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。",
+   "tags": [
+    "海洋法",
+    "UNCLOS第94條",
+    "船旗國",
+    "盡職調查",
+    "IMO",
+    "自主船舶",
+    "管轄權"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/access-to-the-logbook-how-autonomous-ships-complicate-the-flag-states-ability-to-fulfill-its-article-94-unclos-obligation/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T17:59:00+08:00"
+  },
+  {
+   "id": "2026-09-02-ejil-lunar-nuclear-liability",
+   "court": "OTHER",
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "kind": "學術評論",
+   "date": "2026-09-02",
+   "importance": 1,
+   "author": "Yunus Emre Bakiler、Güneş Ünüvar（艾希特大學）",
+   "title": "月球核反應爐出事誰來賠？太空法與核子損害賠償制度的落差",
+   "titleOriginal": "Nuclear Liability Beyond Earth: Who Pays for an Incident on the Lunar Surface?",
+   "caseRef": "",
+   "tldr": "美國計畫在 2030 年前於月球部署核分裂電力系統。作者假設月球反應爐發生事故，檢視《外太空條約》《責任公約》與維也納、巴黎核子損害賠償公約，認為現行規範都相關，卻無法明確回答由誰負責、賠償什麼；建議在太空法的國家責任之上，再加一層類似核子責任法的民事嚴格責任。",
+   "context": "NASA 的阿提米絲計畫在月球南極推動長期駐留的基礎設施，中國則主導國際月球科研站（ILRS）。2026 年 1 月，NASA 與美國能源部宣布將在 2030 年前部署月面核分裂電力系統（Lunar Reactor-1）。",
+   "facts": [
+    "作者設定的情境：A 國的月球反應爐發生事故，損及附近的探測車與乘員，並釋出放射性物質，在地球上造成損害。",
+    "《外太空條約》第 6 條：國家對本國的太空活動（包括私人活動）負國際責任，並應持續監督；第 2 條禁止據為己有；第 8 條：登記國保有管轄與控制。",
+    "《責任公約》第 2 條：發射國對地球表面或飛行中航空器的損害負絕對責任；第 3 條：對太空中物體的損害採過失責任。",
+    "美國不是維也納公約或巴黎公約的締約國。"
+   ],
+   "issues": [
+    "同一事故在月球與地球造成的損害，適用不同歸責標準（過失責任與絕對責任）是否合理。",
+    "放射性污染、喪失使用、清除費用、經濟損失，是否屬於《責任公約》所稱的「損害」。",
+    "維也納公約能否適用於月面設施（「設施國」的定義、管轄法院）。"
+   ],
+   "holding": "・月球上的損害須證明過失，但涉及多國公私行為者時過失難以證明；求償只能國家對國家，私人沒有直接的國際求償途徑，也沒有責任集中與強制財務保證。\n・污染可能不造成設備實體損壞，卻讓區域無法使用並帶來潛伏性健康影響；《責任公約》對此涵蓋不清，其求償時限也不適合潛伏性傷害。\n・核子責任制度承認較廣的損害類型，並有營運者嚴格責任、責任集中與強制保險；作者質疑反應爐搬到月球就退回過失責任是否合理。\n・維也納公約的定義並未限於地球，管轄規定或可類推《外太空條約》的登記管轄，但能否直接適用仍取決於定義、適用範圍、國內法實施及與太空法的關係。\n・實務起點是國內許可：許可私營反應爐時，應要求營運者責任、保險或其他財務擔保、緊急應變計畫，以及除役與用過燃料的安排。",
+   "significance": "作者主張法律框架應與技術同步發展，而不是等到第一次嚴重事故後才補；聯合國《核動力源原則》與 2009 年聯合國–IAEA 安全框架只提供安全指引，沒有完整的賠償機制。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。",
+   "tags": [
+    "太空法",
+    "外太空條約",
+    "責任公約",
+    "核子損害賠償",
+    "國家責任",
+    "月球"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/nuclear-liability-beyond-earth-who-pays-for-an-incident-on-the-lunar-surface/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-14T17:59:00+08:00"
+  }
+ ],
+ "agenda": [
+  {
+   "id": "2026-10-15-ecthr-judgments",
+   "date": "2026-10-15",
+   "court": "ECtHR",
+   "title": "歐洲人權法院宣示一批判決與裁定",
+   "note": "史特拉斯堡；案件清單見法院公告。",
+   "url": "https://www.echr.coe.int/",
+   "relatedId": ""
+  },
+  {
+   "id": "2026-10-20-ecthr-advisory-opinion",
+   "date": "2026-10-20",
+   "court": "ECtHR",
+   "title": "第 16 號議定書諮詢意見宣示（盧森堡憲法法院請求）",
+   "note": "史特拉斯堡時間上午 10:30，YouTube 直播。一名盧森堡前律師未依法親自出席懲戒程序，遭缺席判決終身除名，且其律師不得代為出席。",
+   "url": "https://www.echr.coe.int/e/news-copy-/20132/11389974",
+   "relatedId": ""
+  },
+  {
+   "id": "2026-10-21-icj-icao-reply",
+   "date": "2026-10-21",
+   "court": "ICJ",
+   "title": "伊朗訴加拿大、瑞典、烏克蘭、英國（ICAO 理事會上訴案）答辯書期限",
+   "note": "院長命令延長後的 Reply 期限；Rejoinder 期限為 2027-03-22。",
+   "url": "https://www.icj-cij.org/sites/default/files/case-related/198/198-20260903-ord-01-00-en.pdf",
+   "relatedId": ""
+  },
+  {
+   "id": "2026-11-30-icc-duterte-trial",
+   "date": "2026-11-30",
+   "court": "ICC",
+   "title": "杜特蒂危害人類罪審判開庭",
+   "note": "第三審判分庭。",
+   "url": "https://www.icc-cpi.int/news/situation-philippines-rodrigo-roa-duterte-fit-stand-trial",
+   "relatedId": "2026-10-08-icc-duterte-fitness"
+  },
+  {
+   "id": "2026-12-09-icj-iran-canada-reply",
+   "date": "2026-12-09",
+   "court": "ICJ",
+   "title": "伊朗訴加拿大（國家豁免案）答辯書期限",
+   "note": "Rejoinder 期限為 2027-12-09。",
+   "url": "https://www.icj-cij.org/sites/default/files/case-related/189/189-20260814-ord-01-00-en.pdf",
+   "relatedId": ""
+  },
+  {
+   "id": "tbd-icj-nicaragua-germany",
+   "date": "",
+   "court": "ICJ",
+   "title": "尼加拉瓜訴德國：先決性抗辯判決",
+   "note": "宣判日期尚未公布。",
+   "url": "https://www.icj-cij.org/case/193",
+   "relatedId": "2026-09-10-icj-nicaragua-germany"
+  },
+  {
+   "id": "tbd-itlos-argentina-uk",
+   "date": "",
+   "court": "ITLOS",
+   "title": "阿根廷訴英國：臨時措施言詞辯論",
+   "note": "日期尚未公布。",
+   "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/",
+   "relatedId": "2026-10-13-itlos-argentina-uk"
+  }
+ ],
+ "archives": []
+}
