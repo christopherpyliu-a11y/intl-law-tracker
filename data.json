@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-15T23:17:37+08:00",
-  "lastRunLocal": "2026-10-15 23:17",
+  "lastRun": "2026-10-16T07:11:20+08:00",
+  "lastRunLocal": "2026-10-16 07:11",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 1 則：EJIL 評論 1"
+  "lastRunNote": "新增 4 則：ECtHR 3、其他 1（美國法院就 ICC 制裁核發初步禁制令）"
  },
  "items": [
   {
@@ -523,7 +523,8 @@
    "related": [
     "2026-10-09-icc-us-sanctions",
     "2026-10-14-other-meps-blocking-statute-icc",
-    "2026-10-15-ejil-weller-us-sanctions-icc"
+    "2026-10-15-ejil-weller-us-sanctions-icc",
+    "2026-10-13-other-sdny-icc-sanctions-injunction"
    ],
    "sources": [
     {
@@ -882,7 +883,9 @@
    "related": [
     "2026-10-14-other-meps-blocking-statute-icc",
     "2026-10-11-oj-us-sanctions-icc-commentaries",
-    "2026-10-15-ejil-weller-us-sanctions-icc"
+    "2026-10-15-ejil-weller-us-sanctions-icc",
+    "2026-10-13-other-sdny-icc-sanctions-injunction",
+    "2026-10-15-ecthr-president-icc-solidarity"
    ]
   },
   {
@@ -2472,7 +2475,8 @@
    "related": [
     "2026-10-09-icc-us-sanctions",
     "2026-10-14-other-meps-blocking-statute-icc",
-    "2026-10-11-oj-us-sanctions-icc-commentaries"
+    "2026-10-11-oj-us-sanctions-icc-commentaries",
+    "2026-10-13-other-sdny-icc-sanctions-injunction"
    ],
    "sources": [
     {
@@ -2482,6 +2486,220 @@
     }
    ],
    "addedAt": "2026-10-15T23:17:37+08:00"
+  },
+  {
+   "id": "2026-10-13-other-sdny-icc-sanctions-injunction",
+   "court": "OTHER",
+   "kind": "其他",
+   "date": "2026-10-13",
+   "importance": 2,
+   "title": "美國聯邦法院暫時禁止對兩個協助 ICC 的民間團體執行制裁：以言論自由為由核發初步禁制令",
+   "titleOriginal": "DAWN et al. v. Trump et al. (S.D.N.Y.) — Opinion and Order granting preliminary injunction",
+   "caseRef": "No. 26-cv-5957 (S.D.N.Y.)",
+   "tldr": "紐約南區聯邦地院 Furman 法官認定，川普 2025 年對 ICC 的制裁行政命令很可能違反美國憲法第一修正案的言論自由，因此禁止政府對原告 DAWN 與 TAAG 兩個團體因向 ICC 提供證據等行為處以民刑事制裁。但法院沒有廢止整個行政命令，也不及於其他受制裁者。",
+   "context": "2025 年 2 月，美國總統以第 14203 號行政命令授權對 ICC 及協助其調查美國或其盟國國民的人實施制裁，其後陸續制裁多名 ICC 法官、檢察官、聯合國特別報告員 Albanese 及數個巴勒斯坦人權團體。2026 年 10 月 9 日，美國進一步把 ICC「整個機構」列入制裁（見相關條目）。\n美國境內已有多件以憲法挑戰該制裁命令的訴訟；本案由關注巴勒斯坦人權的 DAWN（Democracy for the Arab World Now）與 Taxpayers Alliance Against Genocide（TAAG）於 2026 年 7 月 15 日提起。",
+   "facts": [
+    "DAWN 曾依《羅馬規約》第 15 條向 ICC 檢察官提交涉及加薩的犯罪資料；TAAG 也準備了類似的提交，但因擔心遭追訴而暫緩。",
+    "兩團體主張，制裁命令讓他們與 ICC 官員溝通、提交證據、與受制裁的巴勒斯坦團體及 Albanese 合作，都可能招致高額罰款或刑事責任。",
+    "2026 年 10 月 13 日（星期二），Furman 法官以約 30 頁的意見書核發初步禁制令。",
+    "法院要求雙方於 10 月 20 日前就後續程序（包括是否轉為永久禁制令）提出意見。",
+    "國務院發言人對訴訟不予評論，但重申美國反對 ICC 的立場。"
+   ],
+   "issues": [
+    "制裁命令限制原告向 ICC 提供資料與協助，是否屬於以內容為基礎的言論管制，而違反美國憲法第一修正案。",
+    "原告因自我審查所受的損害，是否構成核發初步禁制令所需的「無法回復的損害」。"
+   ],
+   "holding": "・法院認為原告在第一修正案主張上「有勝訴可能」：系爭限制係針對言論內容，政府未能滿足此類限制所需的憲法審查標準。\n・原告因怕受罰而自我審查，構成無法回復的損害。\n・救濟範圍：禁止聯邦機關因原告向 ICC 提交證據、或與受制裁的巴勒斯坦人權團體及 Albanese 往來，而對原告處以民事罰款或刑事處罰。\n・法院在此階段未宣告整個行政命令無效，禁制令也不保護其他團體或個人。",
+   "significance": "這是美國法院再次以言論自由限縮 ICC 制裁命令的適用，但只保護提起訴訟的原告；10 月 9 日對 ICC 機構本身的制裁不受影響。DAWN 表示將恢復對 ICC 的倡議與提交工作。後續值得注意的是政府是否上訴，以及法院是否核發永久禁制令。",
+   "editorNote": "本網頁助理 註：本則依原告 DAWN 的新聞稿與《Mail & Guardian》報導撰寫，未能閱讀法院意見書全文（DAWN 網站提供的 PDF 未開啟）。來源未說明法院是否處理原告另外提出的第五修正案明確性原則與 IEEPA 授權範圍主張，也未說明禁制令是否涵蓋 10 月 9 日對 ICC 機構本身的新制裁。\n以下為本網頁助理補充，非來源內容：本案是美國國內憲法訴訟，不是 ICC 或國際法院的程序；收錄是因其直接影響民間團體與 ICC 的合作。",
+   "tags": [
+    "美國制裁",
+    "第14203號行政命令",
+    "第一修正案",
+    "初步禁制令",
+    "羅馬規約第15條",
+    "巴勒斯坦情勢"
+   ],
+   "sources": [
+    {
+     "label": "DAWN 新聞稿（原告）",
+     "url": "https://dawnmena.org/u-s-court-blocks-enforcement-of-icc-sanctions-against-groups-advocating-for-palestinian-rights/",
+     "official": false
+    },
+    {
+     "label": "Mail & Guardian 報導",
+     "url": "https://mg.co.za/news/international/2026-10-15-us-court-blocks-sanctions-on-groups-assisting-icc-gaza-investigation/",
+     "official": false
+    },
+    {
+     "label": "法院意見書 PDF（DAWN 網站提供）",
+     "url": "https://dawnmena.org/wp-content/uploads/2026/10/US_DIS_NYSD_1_26cv5957_d33818346e3418_OPINION_AND_ORDER_re_28_MOTION_for_Preliminary_Inj.pdf",
+     "official": false
+    },
+    {
+     "label": "Just Security Early Edition（2026-10-15）",
+     "url": "https://justsecurity.org/160924/early-edition-october-15-2026",
+     "official": false
+    }
+   ],
+   "related": [
+    "2026-10-09-icc-us-sanctions",
+    "2026-10-11-oj-us-sanctions-icc-commentaries",
+    "2026-10-15-ejil-weller-us-sanctions-icc"
+   ],
+   "addedAt": "2026-10-16T07:11:20+08:00"
+  },
+  {
+   "id": "2026-10-15-ecthr-zakutniy-ukraine",
+   "court": "ECtHR",
+   "kind": "判決",
+   "date": "2026-10-15",
+   "importance": 2,
+   "title": "歐洲人權法院首度承認烏克蘭的羈押條件國內賠償管道有效，但仍因賠償過低判定違反第 3 條",
+   "titleOriginal": "Zakutniy and Others v. Ukraine",
+   "caseRef": "",
+   "tldr": "八名申請人在烏克蘭遭受惡劣的羈押條件，國內法院雖判給賠償，但金額太低。歐洲人權法院認為烏克蘭民事法院的損害賠償程序原則上是有效救濟（不違反第 13 條），但本案賠償不足，申請人仍是受害人，因此認定違反第 3 條，判賠 5,000 至約 20,400 歐元。",
+   "context": "烏克蘭羈押與監所條件長期是歐洲人權法院的結構性問題，法院過去多次認定烏克蘭欠缺有效救濟。本案是法院首次肯定烏克蘭國內的賠償機制原則上有效。",
+   "facts": [
+    "八名申請人主張其在烏克蘭被羈押期間的條件構成不人道或有辱人格的待遇。",
+    "申請人曾循烏克蘭民事法院請求損害賠償並獲判賠，但金額偏低。",
+    "2026 年 10 月 15 日，法院以分庭判決作成本案判決。"
+   ],
+   "issues": [
+    "烏克蘭民事法院就羈押條件提供的損害賠償程序，是否構成第 13 條所要求的有效救濟。",
+    "國內判賠金額過低時，申請人是否仍具第 34 條「受害人」地位；羈押條件是否違反第 3 條。"
+   ],
+   "holding": "・第 13 條：未違反——烏克蘭民事法院可以提供有效的賠償途徑。\n・國內賠償金額過低，未使申請人喪失受害人地位；第 3 條遭違反。\n・非財產損害賠償每人 5,000 歐元至 20,397 歐元不等。\n・程序上的影響：已不在系爭條件下受羈押的人，原則上應先利用國內損害賠償程序，再向史特拉斯堡提出申訴。\n・本判決僅涉及「補償性」救濟，未認定烏克蘭已有有效的「預防性」救濟，也未推翻法院先前對結構性羈押問題的認定。",
+   "significance": "對大量烏克蘭羈押條件案件影響重大：未來已獲釋者須先用盡國內賠償程序，可能大幅減少直接湧入史特拉斯堡的案件；但國內法院的賠償標準仍須符合歐洲人權法院的水準。判決尚未確定，當事人可於三個月內請求移送大法庭。",
+   "editorNote": "本網頁助理 註：未能讀取法院新聞稿全文（官方頁面無法擷取），本則依法院首頁摘要（未違反有效救濟權）與 Court Cast、sud.ua 報導撰寫。來源未載明申請案號、表決票數、審理庭別，及烏克蘭賠償程序的具體法條。",
+   "tags": [
+    "第3條",
+    "第13條",
+    "羈押條件",
+    "受害人地位",
+    "用盡國內救濟",
+    "烏克蘭"
+   ],
+   "sources": [
+    {
+     "label": "歐洲人權法院案件頁",
+     "url": "https://www.echr.coe.int/w/zakutniy-and-others-v.-ukraine",
+     "official": true
+    },
+    {
+     "label": "Court Cast 報導",
+     "url": "https://courtscast.com/echr-ukraine-detention-compensation-remedy-zakutniy/",
+     "official": false
+    },
+    {
+     "label": "sud.ua 報導",
+     "url": "https://sud.ua/en/news/ukraine/374982-iespl-upershe-vyznav-efektyvnym-ukrainskyi-mekhanizm-kompensatsii-za-nenalezhni-umovy-trymannia-pid-vartoiu",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-16T07:11:20+08:00"
+  },
+  {
+   "id": "2026-10-15-ecthr-p16-slovenia-netherlands",
+   "court": "ECtHR",
+   "kind": "程序進展",
+   "date": "2026-10-15",
+   "importance": 2,
+   "title": "第 16 號議定書諮詢程序兩項進展：斯洛維尼亞案因和解終止；荷蘭最高法院首件請求獲受理",
+   "titleOriginal": "Discontinuation of advisory opinion proceedings (request by the Supreme Court of Slovenia); Request for advisory opinion accepted (request by the Supreme Court of the Netherlands)",
+   "caseRef": "",
+   "tldr": "歐洲人權法院大法庭終止斯洛維尼亞最高法院請求的諮詢意見程序，因為原案當事人已和解、上訴撤回，諮詢意見已無從適用於原案。同日，法院受理荷蘭最高法院（Hoge Raad）第一件諮詢意見請求，涉及對已確定刑事案件作不利於被告的再審。",
+   "context": "依《歐洲人權公約》第 16 號議定書，締約國最高層級法院可在審理中的案件，就公約權利的解釋或適用原則問題，請求歐洲人權法院提供不具拘束力的諮詢意見。法院先前已受理斯洛維尼亞最高法院就道路建設與財產權問題提出的請求；另有盧森堡憲法法院請求的諮詢意見預定 10 月 20 日宣示（見行事曆）。",
+   "facts": [
+    "斯洛維尼亞案：原案涉及在土地尚未完成徵收前即興建高速公路，是否不當干預地主財產權。",
+    "原案當事人於 2026 年 6 月和解，地主申請撤回上訴。",
+    "大法庭以多數決終止程序，未就斯洛維尼亞道路建設安排是否符合公約表示意見。",
+    "荷蘭案：Hoge Raad 審理一件刑事案件的不利再審（herziening ten nadele），該案在荷蘭 2013 年不利再審新法生效前已經確定。Hoge Raad 於 2026 年 6 月提出請求（ECLI:NL:HR:2026:1116），為荷蘭法院首次使用第 16 號議定書。",
+    "2026 年 10 月 15 日，法院公布受理荷蘭請求。"
+   ],
+   "issues": [
+    "斯洛維尼亞案：原案和解後，諮詢意見是否仍須作成——法院認為諮詢意見必須能適用於提出請求的原案，僅對未來案件可能有用並不足夠。",
+    "荷蘭案：對新法生效前已確定的刑事判決進行不利於被告的再審，是否與公約（第 6 條及／或第 7 條）相符。"
+   ],
+   "holding": "・斯洛維尼亞請求：大法庭多數決終止程序。\n・荷蘭請求：受理，將由大法庭審理並作成諮詢意見；日期尚未公布。",
+   "significance": "斯洛維尼亞案確立（或重申）諮詢意見程序與原案的連結：原案消滅，程序即告終止。荷蘭案則觸及刑事程序中的法安定性、一事不再理與不溯及既往等核心問題，後續意見可能影響其他設有不利再審制度的國家。",
+   "editorNote": "本網頁助理 註：未能讀取法院兩則新聞稿全文（官方頁面無法擷取）。斯洛維尼亞案依法院首頁摘要與 Court Cast 報導撰寫；荷蘭案的請求內容依 2026 年 6 月 Recht.nl 報導撰寫，該報導未說明原案事實，也未說明 Hoge Raad 的審理庭。",
+   "tags": [
+    "第16號議定書",
+    "諮詢意見",
+    "第1號議定書第1條",
+    "不利再審",
+    "第6條",
+    "第7條",
+    "荷蘭",
+    "斯洛維尼亞"
+   ],
+   "sources": [
+    {
+     "label": "歐洲人權法院：Discontinuation of advisory opinion proceedings",
+     "url": "https://www.echr.coe.int/w/discontinuation-of-advisory-opinion-proceedings",
+     "official": true
+    },
+    {
+     "label": "歐洲人權法院：Request for advisory opinion accepted",
+     "url": "https://www.echr.coe.int/w/request-for-advisory-opinion-accepted-4",
+     "official": true
+    },
+    {
+     "label": "Court Cast 報導（斯洛維尼亞案）",
+     "url": "https://courtscast.com/echr-ends-slovenia-roads-advisory-proceedings-settlement/",
+     "official": false
+    },
+    {
+     "label": "Recht.nl：荷蘭首件諮詢意見請求",
+     "url": "https://www.recht.nl/nieuws/strafrecht/6a43cd2c21065f263364/eerste-nederlandse-verzoek-om-een-advisory-opinion-bij-het-ehrm/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-16T07:11:20+08:00"
+  },
+  {
+   "id": "2026-10-15-ecthr-president-icc-solidarity",
+   "court": "ECtHR",
+   "kind": "機構動態",
+   "date": "2026-10-15",
+   "importance": 1,
+   "title": "歐洲人權法院院長赴海牙，表達對遭美國制裁的國際刑事法院的司法聲援",
+   "titleOriginal": "The Hague: Court President expresses judicial solidarity with the International Criminal Court",
+   "caseRef": "",
+   "tldr": "歐洲人權法院院長 Mattias Guyomar 於 10 月 15 日在海牙公開表達對國際刑事法院的司法聲援。這是在美國 10 月 9 日把 ICC 整個機構列入制裁後，另一個國際法院罕見的公開表態。",
+   "context": "Guyomar 院長 9 月 28 日在歐洲理事會議會大會發言時，已表示歐洲人權法院聲援因司法工作而遭美國與俄羅斯制裁的 ICC 法官與院長，並說已向 ICC 院長赤根智子轉達，且將於下個月在海牙重申。10 月 9 日美國擴大制裁 ICC 整個機構（見相關條目）。",
+   "facts": [
+    "2026 年 9 月 28 日：Guyomar 在歐洲理事會議會大會表示聲援 ICC 法官與院長。",
+    "2026 年 10 月 9 日：美國制裁 ICC 機構本身。",
+    "2026 年 10 月 15 日：歐洲人權法院發布消息，院長在海牙表達對 ICC 的司法聲援。"
+   ],
+   "issues": [],
+   "holding": "屬機構表態，不涉及裁判。",
+   "significance": "區域人權法院院長公開聲援 ICC，顯示制裁 ICC 已被其他國際司法機構視為對司法獨立的普遍威脅。",
+   "editorNote": "本網頁助理 註：未能讀取歐洲人權法院 10 月 15 日新聞稿內文（官方頁面無法擷取），只確認其標題與日期；發言具體內容不詳。9 月 28 日發言內容依 Agence Europe 報導。",
+   "tags": [
+    "美國制裁",
+    "司法獨立",
+    "司法聲援",
+    "國際刑事法院"
+   ],
+   "sources": [
+    {
+     "label": "歐洲人權法院新聞",
+     "url": "https://www.echr.coe.int/w/the-hague-court-president-expresses-judicial-solidarity-with-the-international-criminal-court",
+     "official": true
+    },
+    {
+     "label": "Agence Europe（9 月 28 日發言）",
+     "url": "https://agenceurope.eu/en/bulletin/article/13948/32/mattias-guyomar-reaffirms-independence-of-european-court-of-human-rights-and-its-support-for-icc",
+     "official": false
+    }
+   ],
+   "related": [
+    "2026-10-09-icc-us-sanctions"
+   ],
+   "addedAt": "2026-10-16T07:11:20+08:00"
   }
  ],
  "agenda": [
