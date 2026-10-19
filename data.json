@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-16T07:11:20+08:00",
-  "lastRunLocal": "2026-10-16 07:11",
+  "lastRun": "2026-10-20T07:08:27+08:00",
+  "lastRunLocal": "2026-10-20 07:08",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 4 則：ECtHR 3、其他 1（美國法院就 ICC 制裁核發初步禁制令）"
+  "lastRunNote": "新增 2 則：其他 2（歐洲理事會就美國制裁 ICC 表態、ICC 入圍沙卡洛夫獎）；Opinio Juris 兩篇相關評論因網站無法讀取暫未收錄"
  },
  "items": [
   {
@@ -92,7 +92,8 @@
    "related": [
     "2026-10-09-icc-us-sanctions",
     "2026-10-11-oj-us-sanctions-icc-commentaries",
-    "2026-10-15-ejil-weller-us-sanctions-icc"
+    "2026-10-15-ejil-weller-us-sanctions-icc",
+    "2026-10-19-other-eu-council-icc-protection"
    ],
    "sources": [
     {
@@ -885,7 +886,9 @@
     "2026-10-11-oj-us-sanctions-icc-commentaries",
     "2026-10-15-ejil-weller-us-sanctions-icc",
     "2026-10-13-other-sdny-icc-sanctions-injunction",
-    "2026-10-15-ecthr-president-icc-solidarity"
+    "2026-10-15-ecthr-president-icc-solidarity",
+    "2026-10-19-other-eu-council-icc-protection",
+    "2026-10-19-other-sakharov-icc-finalist"
    ]
   },
   {
@@ -927,7 +930,10 @@
      "official": false
     }
    ],
-   "addedAt": "2026-10-14T12:30:00+08:00"
+   "addedAt": "2026-10-14T12:30:00+08:00",
+   "related": [
+    "2026-10-19-other-sakharov-icc-finalist"
+   ]
   },
   {
    "id": "2026-10-08-ejil-kress-aggression",
@@ -2700,6 +2706,121 @@
     "2026-10-09-icc-us-sanctions"
    ],
    "addedAt": "2026-10-16T07:11:20+08:00"
+  },
+  {
+   "id": "2026-10-19-other-eu-council-icc-protection",
+   "court": "OTHER",
+   "kind": "機構動態",
+   "date": "2026-10-19",
+   "importance": 2,
+   "title": "歐洲理事會要求美國撤回對 ICC 的制裁，並請執委會採取措施保護法院；《阻斷法規》仍未啟動",
+   "titleOriginal": "European Council conclusions, 16 October 2026 (paras 77–78); Commission midday briefing, 19 October 2026",
+   "caseRef": "EUCO 14/26",
+   "tldr": "歐盟 27 國領袖在 10 月 16 日的高峰會結論中，對美國制裁國際刑事法院（ICC）表示深切遺憾、要求美國撤回，並請執委會想辦法保護法院、讓歐洲企業能繼續為法院提供服務。執委會 10 月 19 日表示，啟動《阻斷法規》仍在考慮之中，但尚未決定，目前以外交協商為優先。",
+   "context": "美國於 10 月 9 日宣布把 ICC 整個機構列入制裁，並給予約六個月的過渡期，期滿後將禁止企業與法院往來（見相關動態）。\n10 月 14 日，58 名歐洲議會議員聯名要求執委會立即、或至遲在 180 天過渡期屆滿時啟動歐盟《阻斷法規》；同日執委會表示仍在研議「務實解決方案」。歐盟外長已在 10 月 12 日的外交事務理事會表態要保護 ICC，但未宣布具體措施。",
+   "facts": [
+    "10 月 14 日：執委會發言人表示《阻斷法規》「可能是回應的一部分」，但尚未到那個階段；目前優先與美國對話，希望制裁在六個月期滿時不要生效，並與會員國在技術協調小組中討論其他選項。對於個別遭制裁法官在銀行與社會服務上的困難，執委會指向 ICC 自行尋求的解決方式。",
+    "10 月 16 日：歐洲理事會結論第 77 段對美國宣布制裁 ICC 這個機構「深表遺憾」，敦促美國撤回措施，並注意到美國已延後制裁完全生效、且表示願與羅馬規約締約國討論其關切。",
+    "同結論第 78 段表示支持國際法機構，歐盟將採取行動保護法院及其人員免受威脅或制裁，並請執委會採取適當措施保護法院、減輕制裁對歐盟企業的影響，使其能繼續向 ICC 提供服務。",
+    "10 月 19 日：執委會發言人 Siobhan McGarry 在布魯塞爾例行記者會表示，《阻斷法規》仍「在桌上」，但對是否或何時啟動尚無決定；執委會希望透過外交取得讓法院能持續運作的較佳結果，並正與數個 ICC 締約國協商，荷蘭在這項工作中扮演主導角色。"
+   ],
+   "issues": [
+    "歐盟是否把美國對 ICC 的制裁措施納入《阻斷法規》（第 2271/96 號理事會規則）附件，使歐洲企業不得遵守該制裁。",
+    "歐盟作為羅馬規約締約國所在區域，如何在不與美國正面衝突的前提下，保障 ICC 的銀行、保險與技術服務。"
+   ],
+   "holding": "現況：歐洲理事會已在政治層次表態並授權執委會研擬保護措施，但《阻斷法規》尚未啟動，也未見具體法律文件。\n執委會目前採「先外交、後工具」的路線：在六個月過渡期內爭取美國撤回，同時與會員國準備備案。",
+   "significance": "這是歐盟最高政治層級首度在正式結論中處理美國對 ICC 整體的制裁，並明確要求執委會保護為法院提供服務的歐洲企業。但是否真的動用《阻斷法規》仍未定；若過渡期屆滿仍無結論，ICC 的日常運作（薪資、銀行、軟體）可能受影響。接下來可觀察執委會是否提出修正《阻斷法規》附件的授權法規，以及荷蘭作為地主國主導的協調工作。",
+   "editorNote": "本網頁助理 註：歐洲理事會結論內容依官方 PDF（EUCO 14/26）撰寫；10 月 14 日與 19 日執委會發言內容依 Agence Europe、EUobserver 與 Anadolu 系統媒體（aNews）報導，未取得記者會逐字稿。\n以下為本網頁助理補充，非來源內容：《阻斷法規》過去曾用於美國對古巴、伊朗、利比亞的制裁；修正其附件屬執委會權限，須受歐洲議會與理事會監督。",
+   "tags": [
+    "制裁",
+    "阻斷法規",
+    "歐盟",
+    "歐洲理事會",
+    "國際刑事法院"
+   ],
+   "related": [
+    "2026-10-14-other-meps-blocking-statute-icc",
+    "2026-10-09-icc-us-sanctions",
+    "2026-10-19-other-sakharov-icc-finalist"
+   ],
+   "sources": [
+    {
+     "label": "European Council conclusions, 16 October 2026（EUCO 14/26）",
+     "url": "https://www.consilium.europa.eu/media/4tglqede/en-20261016-european-council-conclusions.pdf",
+     "official": true
+    },
+    {
+     "label": "Consilium：European Council, 15-16 October 2026",
+     "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/10/15-16/",
+     "official": true
+    },
+    {
+     "label": "aNews（Anadolu）：EU weighs activating blocking statute to protect ICC from US sanctions",
+     "url": "https://www.anews.com.tr/european-union/2026/10/19/eu-weighs-activating-blocking-statute-to-protect-icc-from-us-sanctions",
+     "official": false
+    },
+    {
+     "label": "Agence Europe：European Commission favours dialogue despite calls from 58 MEPs",
+     "url": "https://agenceurope.eu/en/bulletin/article/13960/15/us-sanctions-against-icc-european-commission-favours-dialogue-despite-calls-from-58-meps-to-activate-blocking-statute",
+     "official": false
+    },
+    {
+     "label": "EUobserver：EU bets on diplomacy, not blocking statute, to protect ICC",
+     "url": "https://euobserver.com/242731/eu-bets-on-diplomacy-not-blocking-statute-to-protect-icc-from-trump-sanctions/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-20T07:08:27+08:00"
+  },
+  {
+   "id": "2026-10-19-other-sakharov-icc-finalist",
+   "court": "OTHER",
+   "kind": "機構動態",
+   "date": "2026-10-19",
+   "importance": 1,
+   "title": "國際刑事法院入圍歐洲議會沙卡洛夫人權獎決選，10 月 22 日揭曉",
+   "titleOriginal": "Sakharov Prize 2026 finalists: International Criminal Court, Tundu Lissu, Taraneh and Romina Rahimi",
+   "caseRef": "",
+   "tldr": "歐洲議會外交與發展委員會 10 月 19 日選出 2026 年沙卡洛夫思想自由獎三組決選名單，遭美國全面制裁的國際刑事法院（ICC）是其中之一。得主將由議會主席團會議在 10 月 22 日決定，12 月 16 日在史特拉斯堡頒獎。",
+   "context": "沙卡洛夫獎是歐洲議會頒發的人權獎項。今年共有六組提名，於 10 月 1 日公布，ICC 及其人員由社會民主黨團（S&D）提名。\n提名與入圍正值美國於 10 月 9 日宣布制裁 ICC 整個機構之後（見相關動態），支持者把提名定位為對受壓力的國際法秩序的支持。",
+   "facts": [
+    "10 月 1 日：六組提名人公布，包括薩爾瓦多總統 Bukele、ICC、以色列猶太–阿拉伯團體 Standing Together、被以色列羈押的巴勒斯坦兒科醫師 Hussam Abu Safiya、坦尚尼亞反對派領袖 Tundu Lissu，以及伊朗的 Rahimi 姊妹。",
+    "10 月 19 日：歐洲議會外交事務委員會與發展委員會選出三組決選：ICC、Tundu Lissu、因參與抗議遭伊朗起訴的雙胞胎姊妹 Taraneh 與 Romina Rahimi。",
+    "得主將由歐洲議會主席團會議（Conference of Presidents）於 10 月 22 日決定，頒獎典禮訂於 12 月 16 日在史特拉斯堡舉行。"
+   ],
+   "issues": [],
+   "holding": "目前僅為入圍，尚未決定得主。",
+   "significance": "若 ICC 獲獎，將是歐洲議會在美國制裁期間對法院的高度象徵性支持，與歐洲理事會同週要求保護法院的結論相呼應；此前 Navi Pillay 剛獲諾貝爾和平獎，國際刑事司法本月在國際政治舞台上特別受矚目。",
+   "editorNote": "本網頁助理 註：本則依 Arab News、Europa Press（經 Teleprensa 轉載）與 Brussels Signal 報導撰寫，未取得歐洲議會官方新聞稿；提名黨團依 Brussels Signal。最後一段與其他動態的關聯為本網頁助理的觀察。",
+   "tags": [
+    "沙卡洛夫獎",
+    "歐洲議會",
+    "國際刑事法院",
+    "制裁"
+   ],
+   "related": [
+    "2026-10-09-icc-us-sanctions",
+    "2026-10-09-other-pillay-nobel",
+    "2026-10-19-other-eu-council-icc-protection"
+   ],
+   "sources": [
+    {
+     "label": "Arab News：US-sanctioned ICC shortlisted for EU's top rights prize",
+     "url": "https://www.arabnews.com/world/us-sanctioned-icc-shortlisted-for-eus-top-rights-prize-3007224",
+     "official": false
+    },
+    {
+     "label": "Teleprensa（Europa Press）：El TPI, Tundu Lissu y las hermanas Rahimi, finalistas del premio Sájarov 2026",
+     "url": "https://www.teleprensa.com/internacional/tpi-tanzano-tundu-lissu-hermanas-iranies-tarane-romina-rahimi-finalistas-premio-sajarov-2026/202610191912212536395.html",
+     "official": false
+    },
+    {
+     "label": "Brussels Signal：Bukele and the ICC compete for the Sakharov Prize",
+     "url": "https://brusselssignal.eu/2026/10/bukele-and-the-icc-compete-for-the-european-parliaments-sakharov-prize/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-20T07:08:27+08:00"
   }
  ],
  "agenda": [
@@ -2774,6 +2895,24 @@
    "note": "下午 3 時，和平宮禮堂。",
    "url": "https://diplomatmagazine.eu/2026/10/14/international-court-of-justice-to-receive-carnegie-wateler-peace-prize/",
    "relatedId": "2026-10-07-icj-carnegie-wateler-prize"
+  },
+  {
+   "id": "2026-10-22-other-sakharov-decision",
+   "date": "2026-10-22",
+   "court": "OTHER",
+   "title": "歐洲議會決定 2026 年沙卡洛夫獎得主（ICC 入圍）",
+   "note": "主席團會議決定；12 月 16 日史特拉斯堡頒獎",
+   "url": "https://www.europarl.europa.eu/sakharovprize/en/home",
+   "relatedId": "2026-10-19-other-sakharov-icc-finalist"
+  },
+  {
+   "id": "2026-11-09-acthpr-83rd-session",
+   "date": "2026-11-09",
+   "court": "ACtHPR",
+   "title": "非洲人權法院第 83 屆常會開議（至 12 月 4 日）",
+   "note": "11 月 9 日至 12 月 4 日",
+   "url": "https://www.african-court.org/afchpr/09-november-04-december-83rd-ordinary-session-of-the-african-court/",
+   "relatedId": ""
   }
  ],
  "archives": []
