@@ -1,12 +1,77 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-20T07:08:27+08:00",
-  "lastRunLocal": "2026-10-20 07:08",
+  "lastRun": "2026-10-20T23:11:20+08:00",
+  "lastRunLocal": "2026-10-20 23:11",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：其他 2（歐洲理事會就美國制裁 ICC 表態、ICC 入圍沙卡洛夫獎）；Opinio Juris 兩篇相關評論因網站無法讀取暫未收錄"
+  "lastRunNote": "新增 1 則：ECtHR 1（盧森堡律師懲戒諮詢意見）；Opinio Juris 10 月 19 日一篇評論因網站無法讀取暫未收錄"
  },
  "items": [
+  {
+   "id": "2026-10-20-ecthr-p16-luxembourg-lawyers",
+   "court": "ECtHR",
+   "kind": "諮詢意見",
+   "date": "2026-10-20",
+   "importance": 2,
+   "title": "歐洲人權法院諮詢意見：律師懲戒程序可要求本人到場，但不能因此一律拒絕其代理人為其辯護",
+   "titleOriginal": "Advisory opinion on the obligation for lawyers to appear in person before disciplinary bodies (request no. P16-2026-002, Constitutional Court of Luxembourg)",
+   "caseRef": "P16-2026-002",
+   "tldr": "盧森堡憲法法院問：律師被懲戒時法律強制本人出庭，沒到就缺席判決、代理律師也不准代為辯護，這樣合不合公平審判？歐洲人權法院大法庭答覆：要求本人到場本身可以接受，但不能把「沒到場」直接等同放棄辯護；懲戒機關須先聽代理人說明缺席理由，在當事人沒有明確放棄或刻意逃避時，應考慮延期或允許代理人辯護，至少在上訴階段要有此保障。",
+   "context": "依《歐洲人權公約》第 16 號議定書，締約國最高層級法院可在審理中的案件，請求歐洲人權法院就公約權利解釋的原則問題提供不具拘束力的諮詢意見。本件是盧森堡最高層級法院首次提出的請求，法院於 2026 年 5 月受理，交由 17 名法官組成的大法庭審理；同年 9 月 29 日法院剛就烏克蘭最高法院的稅務罰鍰請求（P16-2026-001）作成意見。\n盧森堡 1991 年 8 月 10 日律師職業法第 26 條規定，受懲戒律師須本人出席懲戒機關；未出席者，懲戒機關可缺席判決，且不許其代理人代為出席，事後也無法聲請撤銷缺席判決重新審理。",
+   "facts": [
+    "一名前盧森堡律師公會成員遭懲戒，懲戒及行政上訴委員會（Conseil disciplinaire et administratif d'appel）對她作成終身除名的處分。",
+    "她未依上述法律第 26 條規定本人出席懲戒程序，上訴委員會因而缺席裁決，並拒絕讓她的代理律師在她缺席時代為辯護。",
+    "案件繫屬盧森堡憲法法院，該院向歐洲人權法院請求諮詢意見；法院於 2026 年 5 月受理。",
+    "2026 年 10 月 20 日，大法庭在史特拉斯堡公開宣示諮詢意見。"
+   ],
+   "issues": [
+    "要求受懲戒律師本人到場的法定義務，是否符合公約第 6 條第 1 項公平審判權。",
+    "本人未到場時，排除代理人代為辯護，且不允許事後聲請撤銷缺席裁決重新審理，是否符合第 6 條。"
+   ],
+   "holding": "・要求律師本人出席懲戒程序，本身可以與公平審判權相容。\n・但缺席的法律效果必須仍留有有效辯護的空間：懲戒機關在把未出席視為放棄權利或逃避程序之前，必須先考量代理人提出的缺席理由。\n・在當事人並未明確放棄權利、也沒有刻意逃避的情形下，公平審判的保障可能要求延期審理或允許代理人代為辯護，至少在上訴階段應如此。\n・法院指出，排除代理人與缺乏就事實和法律重新進行對審的機會兩者結合，會產生問題；僅限法律問題的上訴未必足以補救。\n・諮詢意見不具拘束力，也不直接決定原案結果或使當事人回復律師資格；由盧森堡憲法法院據以審理原案。",
+   "significance": "本意見把歐洲人權法院關於缺席審判與受辯護權的既有原則延伸到律師懲戒程序，對設有類似「本人到場」規定的專門職業懲戒制度都有參考價值。盧森堡憲法法院接下來須依本意見判斷第 26 條的合憲性（合公約性）。這也是 2026 年第二件第 16 號議定書諮詢意見，顯示此程序使用頻率上升。",
+   "editorNote": "本網頁助理 註：未能讀取法院新聞稿及意見全文（官方 PDF 連結擷取時回傳其他文件）。意見內容依 Court Cast 與 EU Law Live 報導標題撰寫，案件背景依法院 10 月 13 日宣示預告及首頁摘要；表決情形、是否有協同或不同意見書、引用判例均未能核實。\n以下為本網頁助理補充，非來源內容：我國律師法所定律師懲戒程序，對被付懲戒律師未到場時的處理亦可對照思考。",
+   "tags": [
+    "第16號議定書",
+    "諮詢意見",
+    "第6條",
+    "公平審判",
+    "缺席判決",
+    "律師懲戒",
+    "盧森堡"
+   ],
+   "sources": [
+    {
+     "label": "歐洲人權法院：Advisory opinion on the obligation for lawyers to appear in person before disciplinary bodies",
+     "url": "https://www.echr.coe.int/w/advisory-opinion-on-the-obligation-for-lawyers-to-appear-in-person-before-disciplinary-bodies",
+     "official": true
+    },
+    {
+     "label": "歐洲人權法院：Forthcoming delivery of advisory opinion（宣示預告）",
+     "url": "https://www.echr.coe.int/w/forthcoming-delivery-of-advisory-opinion-1",
+     "official": true
+    },
+    {
+     "label": "歐洲人權法院：受理盧森堡憲法法院請求",
+     "url": "https://www.echr.coe.int/w/the-court-has-accepted-a-request-for-an-advisory-opinion-submitted-by-the-constitutional-court-of-luxembourg-court",
+     "official": true
+    },
+    {
+     "label": "Court Cast 報導",
+     "url": "https://courtscast.com/echr-luxembourg-lawyer-disciplinary-absence-defence-advisory-opinion/",
+     "official": false
+    },
+    {
+     "label": "EU Law Live 報導",
+     "url": "https://eulawlive.com/ecthr-lawyers-may-be-required-to-appear-in-person-but-disciplinary-bodies-cannot-refuse-on-principle-to-hear-their-counsel/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-20T23:11:20+08:00",
+   "related": [
+    "2026-10-15-ecthr-p16-slovenia-netherlands"
+   ]
+  },
   {
    "id": "2026-10-14-iacthr-trujillo-venezuela-hearing",
    "court": "IACtHR",
@@ -2662,7 +2727,10 @@
      "official": false
     }
    ],
-   "addedAt": "2026-10-16T07:11:20+08:00"
+   "addedAt": "2026-10-16T07:11:20+08:00",
+   "related": [
+    "2026-10-20-ecthr-p16-luxembourg-lawyers"
+   ]
   },
   {
    "id": "2026-10-15-ecthr-president-icc-solidarity",
@@ -2840,7 +2908,7 @@
    "title": "第 16 號議定書諮詢意見宣示（盧森堡憲法法院請求）",
    "note": "史特拉斯堡時間上午 10:30，YouTube 直播。一名盧森堡前律師未依法親自出席懲戒程序，遭缺席判決終身除名，且其律師不得代為出席。",
    "url": "https://www.echr.coe.int/e/news-copy-/20132/11389974",
-   "relatedId": ""
+   "relatedId": "2026-10-20-ecthr-p16-luxembourg-lawyers"
   },
   {
    "id": "2026-10-21-icj-icao-reply",
@@ -2912,6 +2980,15 @@
    "title": "非洲人權法院第 83 屆常會開議（至 12 月 4 日）",
    "note": "11 月 9 日至 12 月 4 日",
    "url": "https://www.african-court.org/afchpr/09-november-04-december-83rd-ordinary-session-of-the-african-court/",
+   "relatedId": ""
+  },
+  {
+   "id": "2026-10-26-other-sixth-committee-ilc",
+   "date": "2026-10-26",
+   "court": "OTHER",
+   "title": "聯大第六委員會審議國際法委員會（ILC）年度報告（至 11 月 5 日）",
+   "note": "10 月 26–30 日及 11 月 3–5 日；決議草案預定 11 月 20 日通過",
+   "url": "https://www.un.org/en/ga/sixth/81/ilc.shtml",
    "relatedId": ""
   }
  ],
