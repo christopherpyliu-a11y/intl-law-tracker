@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-20T23:11:20+08:00",
-  "lastRunLocal": "2026-10-20 23:11",
+  "lastRun": "2026-10-21T07:09:22+08:00",
+  "lastRunLocal": "2026-10-21 07:09",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 1 則：ECtHR 1（盧森堡律師懲戒諮詢意見）；Opinio Juris 10 月 19 日一篇評論因網站無法讀取暫未收錄"
+  "lastRunNote": "新增 1 則：ITLOS 1（阿根廷訴英國臨時措施言詞辯論定期）；Opinio Juris 10 月 19 日兩篇評論因網站無法讀取暫未收錄"
  },
  "items": [
   {
@@ -276,7 +276,8 @@
    "addedAt": "2026-10-14T12:30:00+08:00",
    "related": [
     "2026-10-12-ejil-argentina-unclos",
-    "2026-10-12-oj-sea-lion-hamburg"
+    "2026-10-12-oj-sea-lion-hamburg",
+    "2026-10-20-itlos-argentina-uk-hearing"
    ]
   },
   {
@@ -438,7 +439,8 @@
    ],
    "related": [
     "2026-10-13-itlos-argentina-uk",
-    "2026-10-12-ejil-argentina-unclos"
+    "2026-10-12-ejil-argentina-unclos",
+    "2026-10-20-itlos-argentina-uk-hearing"
    ],
    "sources": [
     {
@@ -533,7 +535,8 @@
    ],
    "related": [
     "2026-10-13-itlos-argentina-uk",
-    "2026-10-12-oj-sea-lion-hamburg"
+    "2026-10-12-oj-sea-lion-hamburg",
+    "2026-10-20-itlos-argentina-uk-hearing"
    ],
    "sources": [
     {
@@ -2889,6 +2892,56 @@
     }
    ],
    "addedAt": "2026-10-20T07:08:27+08:00"
+  },
+  {
+   "id": "2026-10-20-itlos-argentina-uk-hearing",
+   "court": "ITLOS",
+   "kind": "程序進展",
+   "date": "2026-10-20",
+   "importance": 2,
+   "title": "阿根廷訴英國臨時措施案：ITLOS 定 11 月 10、11 日開言詞辯論",
+   "titleOriginal": "Case concerning hydrocarbon exploitation in the South-West Atlantic Ocean (Argentina v. United Kingdom), Provisional Measures",
+   "caseRef": "",
+   "tldr": "國際海洋法法庭庭長 Kamga 以 10 月 20 日命令，訂定阿根廷就福克蘭群島北方 Sea Lion 油田開發請求臨時措施一案的公開言詞辯論，於 2026 年 11 月 10 日與 11 日在漢堡舉行。",
+   "context": "阿根廷於 10 月 13 日依《聯合國海洋法公約》第 290 條第 5 項，在附件七仲裁庭組成之前，請求 ITLOS 下令臨時措施，阻止英國支持的 Sea Lion 海上油田開發（背景見同案 10 月 13 日一則）。\n依第 290 條第 5 項，ITLOS 須先認定將組成的仲裁庭「初步看來」有管轄權，且情況緊急，才能下令臨時措施。言詞辯論是作成命令前的主要程序。",
+   "facts": [
+    "2026 年 10 月 13 日，阿根廷向 ITLOS 提出臨時措施請求，爭端名稱為「關於西南大西洋碳氫化合物資源開發的爭端」。",
+    "2026 年 10 月 20 日，ITLOS 庭長 Maurice K. Kamga 以命令訂定公開言詞辯論日期為 11 月 10 日及 11 日（ITLOS/Press 402）。",
+    "辯論詳細時程將另行公布於 ITLOS 網站；庭審公開並全程網路直播，紀錄將刊登於案件頁面。"
+   ],
+   "issues": [
+    "將組成的附件七仲裁庭是否具初步管轄權（公約第 288 條、第 290 條第 5 項），特別是爭端是否實質上涉及群島主權而屬「混合爭端」。",
+    "情況是否緊急、是否有對當事方權利或海洋環境造成嚴重損害的風險（第 290 條第 1 項、第 5 項）。"
+   ],
+   "holding": "本則僅為程序安排：庭長命令訂定言詞辯論日期，尚未就臨時措施作出任何裁定。新聞稿未載明法庭組成、專案法官或書面程序期限。",
+   "significance": "這是 Kamga 於 10 月 1 日就任庭長後 ITLOS 受理的第一件臨時措施案。依 ITLOS 過去實務，臨時措施命令通常在言詞辯論結束後數週內作出。",
+   "editorNote": "以下為本網頁助理補充，非來源內容：「首件臨時措施案」及「通常數週內作出命令」兩點係依 ITLOS 公開資料與過去實務所作的推論，新聞稿並未提及。英國是否出席辯論、是否已提出書面意見，新聞稿未說明。",
+   "tags": [
+    "UNCLOS",
+    "第290條第5項",
+    "臨時措施",
+    "附件七仲裁",
+    "福克蘭/馬爾維納斯",
+    "言詞辯論"
+   ],
+   "sources": [
+    {
+     "label": "ITLOS/Press 402（2026-10-20）",
+     "url": "https://www.itlos.org/fileadmin/itlos/documents/press_releases_english/PR_402_EN.pdf",
+     "official": true
+    },
+    {
+     "label": "ITLOS 案件頁面",
+     "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-21T07:09:22+08:00",
+   "related": [
+    "2026-10-13-itlos-argentina-uk",
+    "2026-10-12-ejil-argentina-unclos",
+    "2026-10-12-oj-sea-lion-hamburg"
+   ]
   }
  ],
  "agenda": [
@@ -2947,15 +3000,6 @@
    "relatedId": "2026-09-10-icj-nicaragua-germany"
   },
   {
-   "id": "tbd-itlos-argentina-uk",
-   "date": "",
-   "court": "ITLOS",
-   "title": "阿根廷訴英國：臨時措施言詞辯論",
-   "note": "日期尚未公布。",
-   "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/",
-   "relatedId": "2026-10-13-itlos-argentina-uk"
-  },
-  {
    "id": "2026-11-09-icj-carnegie-prize",
    "date": "2026-11-09",
    "court": "ICJ",
@@ -2990,6 +3034,15 @@
    "note": "10 月 26–30 日及 11 月 3–5 日；決議草案預定 11 月 20 日通過",
    "url": "https://www.un.org/en/ga/sixth/81/ilc.shtml",
    "relatedId": ""
+  },
+  {
+   "id": "2026-11-10-itlos-argentina-uk-hearing",
+   "date": "2026-11-10",
+   "court": "ITLOS",
+   "title": "阿根廷訴英國：臨時措施言詞辯論（11 月 10–11 日）",
+   "note": "庭長 10 月 20 日命令訂定；詳細時程另行公布，全程網路直播。",
+   "url": "https://www.itlos.org/fileadmin/itlos/documents/press_releases_english/PR_402_EN.pdf",
+   "relatedId": "2026-10-20-itlos-argentina-uk-hearing"
   }
  ],
  "archives": []
