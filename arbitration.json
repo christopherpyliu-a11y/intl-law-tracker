@@ -1,0 +1,534 @@
+{
+ "schema": 1,
+ "meta": {
+  "lastRun": "2026-10-20T11:01:53+08:00",
+  "lastRunLocal": "2026-10-20 11:01",
+  "coverageFrom": "2026-10-10",
+  "lastRunNote": "首次建立：收錄 2026 年 10 月 10 日以來的國際商務仲裁動態 10 則（法院裁判 3、機構 2、評論 5）。"
+ },
+ "items": [
+  {
+   "id": "2026-10-19-arb-bgh-third-party-notice-arbitrator",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "jurisdiction": "德國",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-10-19",
+   "importance": 2,
+   "author": "Lars Harzmeier、Rupert Bellinghausen、Christian Rieß（Linklaters）",
+   "title": "德國聯邦最高法院：撤銷仲裁判斷程序中，勝訴方可對仲裁人「告知訴訟」，為日後求償鋪路",
+   "titleOriginal": "Arbitrators on Notice: The German BGH on Recourse and Remittal（BGH, Beschluss vom 30. Juli 2026, I ZB 6/26）",
+   "caseRef": "I ZB 6/26",
+   "tldr": "敗訴方以仲裁人未揭露利益衝突為由，聲請撤銷仲裁判斷。勝訴方擔心判斷被撤銷後要向仲裁人求償，於是在撤銷程序中對該仲裁人告知訴訟，讓法院的認定日後對仲裁人也有拘束力。下級法院拒絕送達告知書，德國聯邦最高法院（BGH）推翻此一決定，認為原則上可以這麼做。",
+   "context": "本案為德國仲裁協會（DIS）仲裁。敗訴方（被申請人）先前選任的仲裁人，被指未揭露曾與一家為申請人提供相關法律意見的律師事務所合作；被申請人向 DIS 仲裁理事會聲請迴避，該仲裁人稱不知該所曾提供意見，聲請遭駁回。\n仲裁判斷作成後，被申請人向巴伐利亞邦最高法院（BayObLG）聲請撤銷，理由之一即為上述未揭露。該院命仲裁人與律師事務所律師到庭作證，以查明仲裁人是否知情。BGH 於 2026 年 7 月 30 日就告知訴訟問題作成裁定，Daily Jus 於 10 月 19 日刊出評析。",
+   "facts": [
+    "申請人（仲裁勝訴方）對該仲裁人發出告知訴訟，主張若判斷遭撤銷，其對仲裁人將有損害賠償請求權，目的在使撤銷法院的相關認定於日後求償訴訟中具拘束力。",
+    "BayObLG 類推適用德國民事訴訟法第 72 條第 2 項（禁止對法院及法院指定的鑑定人告知訴訟），拒絕送達告知書。",
+    "BayObLG 的顧慮是：仲裁人若在受告知後參加訴訟，將引發公正性疑慮，使判斷遭撤銷後無法發回原仲裁庭。"
+   ],
+   "issues": [
+    "德國民事訴訟法第 72 條第 2 項能否類推適用於仲裁人。",
+    "告知訴訟對仲裁人的拘束範圍（第 68 條、第 74 條第 3 項）。",
+    "告知訴訟何時構成濫用。",
+    "告知訴訟對撤銷後發回原仲裁庭的影響。"
+   ],
+   "holding": "・不得類推：法官與法院指定的鑑定人本來就知道自己參與的程序；仲裁人在撤銷或執行程序中沒有相同角色，甚至可能不知道程序存在，因此告知有實際作用。\n・告知的主要目的，是使受告知人受法院相關認定拘束。法官或鑑定人通常會為原裁判辯護，拘束他們意義不大；但被求償的仲裁人可能主張法院認定錯誤，告知可以限制這種主張。\n・拘束範圍限於裁判所必要的認定，不及於理由中的所有論述；第 68 條也保留受告知人就告知人訴訟進行方式提出若干抗辯的空間。\n・法院應拒絕濫用的告知，但本案不構成濫用：申請人可一面為判斷辯護，一面保全撤銷成功時的求償權。\n・發回：單純送達告知書，通常不妨礙發回原仲裁庭；仲裁人若參加訴訟支持一方，才會引發公正性疑慮而無法發回。依第 74 條第 3 項，有效的告知即使仲裁人未參加也有拘束力。BGH 接受仲裁人可能參加的風險，優先保護告知人取得拘束性認定的利益，並強調發回須經當事人聲請，不會因撤銷而自動發生。",
+   "significance": "評析作者認為：（1）本裁定承認當事人有利用法院認定向仲裁人求償的正當利益，免於就同一問題重複訴訟；（2）但責任是另一回事——德國仲裁人就錯誤的法律判斷原則上受保護，未揭露或可構成契約責任，但仲裁人契約與仲裁規則可能限制求償；作者並舉美國加州 La Serena Properties v Weisbach（2010）為例，該案判斷因未揭露被撤銷，但求償仍因揭露屬受保護的仲裁職能而失敗；（3）告知訴訟不太可能成為常態，其價值取決於求償前景；（4）告知可能付出代價：仲裁人若參加訴訟，而判斷之後因其他瑕疵被撤銷，原仲裁庭可能無法再受理，須重新仲裁；（5）BGH 雖重申禁止濫用，但未說明濫用的界線，有待日後案例發展。",
+   "editorNote": "本網頁助理 註：本則依 Daily Jus 刊載的 Linklaters 律師評析撰寫，並附 BGH 裁定原文（德文）連結，本網頁助理未逐段核對原文。裁定作成於 2026 年 7 月 30 日，本則以評析刊出日列示。評析另引用 BGH 2025 年 12 月 18 日 I ZB 42/25 裁定（評析稱為 Sellers of Definiens AG v. AstraZeneca）說明發回可節省時間與費用，但其連結網址所示的當事人名稱與此不同。\n以下為本網頁助理補充，非來源內容：德國法上的告知訴訟（Streitverkündung，民事訴訟法第 72 條以下）與我國民事訴訟法第 65 條以下的告知訴訟制度類似，受告知人即使未參加訴訟，亦受參加效力的拘束。",
+   "tags": [
+    "撤銷仲裁判斷",
+    "告知訴訟",
+    "仲裁人責任",
+    "揭露義務",
+    "發回仲裁庭",
+    "DIS",
+    "德國民事訴訟法第72條"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "BGH 裁定原文（德文）：I ZB 6/26",
+     "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2026/I_ZB___6-26.pdf?__blob=publicationFile&v=1",
+     "official": true
+    },
+    {
+     "label": "Daily Jus 評析：Arbitrators on Notice: The German BGH on Recourse and Remittal",
+     "url": "https://dailyjus.com/world/2026/10/arbitrators-on-notice-the-german-bgh-on-recourse-and-remittal",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-20T11:01:53+08:00"
+  },
+  {
+   "id": "2026-10-19-arb-icc-salomon-rules-norms",
+   "court": "INST",
+   "kind": "機構動態",
+   "jurisdiction": "",
+   "outlet": "ICC 國際商會",
+   "outletCode": "ICC",
+   "date": "2026-10-19",
+   "importance": 2,
+   "author": "Claudia Salomon（ICC 國際仲裁院院長）",
+   "title": "ICC 仲裁院院長談 2026 年規則修訂：哪些寫進規則，哪些交給實務慣例",
+   "titleOriginal": "Rewriting the ICC Rules of Arbitration: Balancing Rules and Social Norms",
+   "caseRef": "",
+   "tldr": "主導 2026 年 ICC 仲裁規則修訂的仲裁院院長 Salomon 說明修法取捨：只有需要一致性與可執行後果的事項才寫進規則，其餘交給指引與共同的行為慣例。審理範圍書（Terms of Reference）不再是必經程序；仲裁人遲交判斷草稿可能被減少報酬。",
+   "context": "2026 年 ICC 仲裁規則自 2026 年 6 月 1 日施行。Salomon 主導修訂約兩年，修訂過程檢視整個仲裁程序，逐項判斷該用正式規則、社會規範，還是兩者並用。她以排隊為比喻：日常排隊多靠慣例維持，只有需要一致與可執行的後果時才需要正式規則。",
+   "facts": [
+    "多元性：修訂未採有拘束力的仲裁人多元性要求，理由是難以執行；改以範本信函及致各國國家委員會的仲裁人推薦指引加以鼓勵。",
+    "永續：未將強制性減碳要求寫入規則，理由是會太空泛或太僵硬；ICC 改在自身活動與秘書處營運中採行永續做法。",
+    "程序管理：未在規則中強制特定步驟，而是在《致當事人與仲裁庭指引》中列出第 23 條第 1 項下可選用的程序管理技巧；審理範圍書不再是必要步驟，改為可選用的程序管理工具。",
+    "判斷草稿期限：指引預期獨任仲裁人於最後一次開庭或書狀後兩個月內、三人仲裁庭於三個月內，將判斷草稿提交仲裁院核閱；無正當理由逾期者，仲裁院可減少仲裁人報酬。"
+   ],
+   "issues": [
+    "仲裁程序中哪些事項應以規則強制、哪些應交由慣例與指引。",
+    "因擔心正當程序挑戰而過度拖延的問題，應如何處理。"
+   ],
+   "holding": "・仲裁人準備不足、判斷草稿遲延等問題，透過指引中的期待與報酬後果處理，而非修改規則。\n・對於因害怕正當程序挑戰而過度拖延的現象，Salomon 認為應一致地適用第 23 條既有義務——仲裁庭與當事人均須迅速且具成本效益地進行程序——而不是再修規則。\n・效率最終取決於所有參與者（當事人、律師、仲裁庭與機構）同時遵守規則與共同慣例，包括避免遲交證據、錯過期限與失禮的行為。",
+   "significance": "本文說明了 2026 年規則「規則精簡、指引加重」的設計取向。對實務而言，值得注意的是審理範圍書改為選用，以及判斷草稿期限與報酬掛鉤，選擇 ICC 仲裁時可據以調整程序規劃。",
+   "editorNote": "本網頁助理 註：本文為 ICC 國際仲裁院院長以個人署名發表的文章，刊於 ICC 官網新聞區。",
+   "tags": [
+    "ICC",
+    "2026年ICC仲裁規則",
+    "審理範圍書",
+    "程序管理",
+    "仲裁人報酬",
+    "第23條",
+    "多元性"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICC 原文：Rewriting the ICC Rules of Arbitration: Balancing Rules and Social Norms",
+     "url": "https://iccwbo.org/news-publications/news/rewriting-the-icc-rules-of-arbitration-balancing-rules-and-social-norms/",
+     "official": true
+    },
+    {
+     "label": "2026 年 ICC 仲裁規則",
+     "url": "https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2026-arbitration-rules/",
+     "official": true
+    },
+    {
+     "label": "ICC《致當事人與仲裁庭關於仲裁進行之指引》（2026，PDF）",
+     "url": "https://iccwbo.org/wp-content/uploads/sites/3/2026/06/2026_ICC_Note-to-Parties-and-AT.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-20T11:01:53+08:00"
+  },
+  {
+   "id": "2026-10-18-arb-aaw-geopolitics-space",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "jurisdiction": "",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-10-18",
+   "importance": 1,
+   "author": "Erin Page（HSF Kramer）；Marco Paoletti、Fiona Xia（Corrs Chambers Westgarth）",
+   "title": "澳洲仲裁週紀要：地緣政治、國家安全與太空產業，正在製造新一代商務仲裁",
+   "titleOriginal": "2026 Australian Arbitration Week Recap: Code, Copper and Carbon: Geopolitics and National Security Driving Arbitrations / Arbitration Beyond Borders: Resolving Disputes in the New Space Economy",
+   "caseRef": "",
+   "tldr": "兩場澳洲仲裁週座談的共同結論：國家干預與供應鏈安全的考量，讓許多商務爭議實質上成為地緣政治爭議，當事人開始把類似投資條約的保障寫進契約；太空產業的爭議大多仍是一般商務契約問題，仲裁因具保密性而適合處理。",
+   "context": "這兩篇文章屬 Kluwer Arbitration Blog「2026 年澳洲仲裁週紀要」系列。第一場座談由 HSF Kramer 主辦，以「程式碼（資料與科技）、銅（關鍵礦產）、碳（能源）」三個產業為主軸；第二場由 Corrs Chambers Westgarth 於 10 月 15 日主辦，討論太空經濟的爭議解決。本則著重其中與國際商務仲裁相關的部分。",
+   "facts": [
+    "與談人指出，俄烏戰爭與 2026 年荷莫茲海峽危機等供應衝擊後，企業願意為多元、安全的供應與長期契約支付「安全溢價」。",
+    "荷莫茲海峽危機期間，當事人多以不可抗力通知、權利保留，以及改道運送、分攤成本等務實方式處理。",
+    "資料中心建設面臨渦輪機、變壓器、銅與網路設備短缺，可能導致工期延誤，並引發收入損失與替代電力成本的爭議。",
+    "澳洲太空產業年產值約 80 億澳元；太空碎片已曾落在西澳皮爾巴拉與新南威爾斯雪山地區。",
+    "太空技術已列入澳洲《2018 年關鍵基礎設施安全法》的關鍵基礎設施；可能具軍事用途的技術受出口管制。"
+   ],
+   "issues": [
+    "地緣政治與國家安全措施如何轉化為契約當事人之間的爭議。",
+    "太空活動相關商務爭議的類型、舉證與準據法問題。"
+   ],
+   "holding": "・Erin Page（10 月 15 日）：HSF Kramer 合夥人 Gitta Satryani 指出，許多商務爭議實際上是地緣政治爭議；當事人把類似投資條約的保障引入契約、選擇境外或中立的爭議解決地，穩定條款重新出現，正當期待、公平公正待遇等概念被寫成契約權利，經濟專家也更早介入。與國營企業的合資常因合作方不願挑戰政府措施而產生治理爭議；資料中心的股東爭議則涉及優先承購權、估值、僵局與賣權。\n・Marco Paoletti、Fiona Xia（10 月 18 日）：太空條約以國家為中心，《外太空條約》沒有爭議解決機制；國家間機制在當前地緣政治下效果有限，且不適合商務爭議，因此多數爭議預期將進入商務仲裁或訴訟，主題包括供應鏈中斷、契約爭議、設備損失與營運者責任。太空碰撞與碎片造成的損害難以證明與量化；智慧財產與資料權利在無國家管轄的太空如何適用仍不明確；契約應分配監管成本與風險。",
+   "significance": "兩文結論相近：國家干預驅動的爭議（無論是私人之間或投資人與國家之間）將形塑下一代國際仲裁；所謂「太空法」在實務上多半仍是傳統商務法與爭議解決，加上日益增加的國內監管。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：本則合併同一系列兩篇撰寫。第一篇也討論多件投資人對國家的仲裁案（如 Cadence Minerals v Mexico、Huawei v Sweden），依本網站收錄範圍未予摘要。",
+   "tags": [
+    "地緣政治",
+    "國家安全",
+    "不可抗力",
+    "穩定條款",
+    "資料中心",
+    "太空法",
+    "澳洲仲裁週"
+   ],
+   "related": [
+    "2026-10-17-arb-repudiation-arbitration-agreement"
+   ],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 原文：Code, Copper and Carbon（Erin Page）",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/2026-australian-arbitration-week-recap-code-copper-and-carbon-geopolitics-and-national-security-driving-arbitrations/",
+     "official": false
+    },
+    {
+     "label": "Kluwer Arbitration Blog：Arbitration Beyond Borders（Paoletti、Xia）",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/2026-australian-arbitration-week-recap-arbitration-beyond-borders-resolving-disputes-in-the-new-space-economy/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-20T11:01:53+08:00"
+  },
+  {
+   "id": "2026-10-17-arb-repudiation-arbitration-agreement",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "jurisdiction": "英國、澳洲",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-10-17",
+   "importance": 2,
+   "author": "Caitlin McFarlane（Johnson Winter Slattery）",
+   "title": "違反仲裁協議去法院起訴，是否等於「毀約」而讓對方得以脫離仲裁？英澳法的答案：通常不是",
+   "titleOriginal": "2026 Australian Arbitration Week Recap: It's Not Me, It's You. Repudiatory Breach of the Arbitration Agreement, English and Australian Law",
+   "caseRef": "",
+   "tldr": "有些當事人想擺脫不利的契約，會設法讓對方「毀棄」仲裁協議，例如主張對方違約起訴就代表不再受仲裁協議拘束。澳洲仲裁週一場座談整理英國與澳洲判例：只有明確、毫不含糊地表現出不願再受拘束的行為，才構成毀約，單純違約起訴通常不算。",
+   "context": "本文為 2026 年澳洲仲裁週（Australian Arbitration Week）座談紀要，座談於 2026 年 10 月 14 日由 Johnson Winter Slattery 與 39 Essex Chambers 主辦，主持人為 Swee Im Tan，與談人為 Lee Carroll 與 Ben Olbourne。\n毀約性違約（repudiatory breach）是指觸及契約核心的違約，使無過失方得選擇解除契約。仲裁協議也是契約，同樣適用此一原則。",
+   "facts": [
+    "英國未公開的 ICC 仲裁案例：中國承包商依和解協議在巴基斯坦法院起訴巴基斯坦業主請求債款，承認仲裁條款存在，但主張因無「爭議」而不適用；巴基斯坦法院裁定停止訴訟、交由倫敦仲裁。仲裁庭認定在巴基斯坦起訴違反仲裁協議，但不構成毀約，因為承包商承認條款有效，並提出了真誠（即使勉強可辯）的理由。",
+    "Elecnor Australia v Clough Projects Australia [2025] NSWSC 610：合資契約約定以新加坡為仲裁地的 ICC 仲裁；Clough 進入自願管理程序後，Elecnor 依契約強制收購機制以 1 澳元收購其權益遭拒而起訴，Clough 提出反訴。法院認定無毀約、拋棄或棄置仲裁協議，停止反訴但不停止本訴；新南威爾斯上訴法院於 [2026] NSWCA 111 維持毀約部分的認定。",
+    "Kraft Foods v Bega Cheese [2018] FCA 549：聯邦法院基於保護自身程序的默示權力，核發禁止在紐約進行 ICDR 仲裁的禁止仲裁令，理由是澳洲訴訟已進行至後階段，與仲裁爭點高度重疊，有裁判矛盾之虞。",
+    "英國 2025 年《仲裁法》增訂 1996 年《仲裁法》第 6A 條，規定當事人未明示選擇時，仲裁協議的準據法為仲裁地法，改變了 Enka v Chubb [2020] UKSC 38 的普通法見解；ACICA 2021 年規則第 27.4 條也以仲裁地法為預設；澳洲則無類似立法。"
+   ],
+   "issues": [
+    "違反仲裁協議的行為何時構成毀約，使相對人得解除仲裁協議。",
+    "主契約毀約是否當然及於仲裁協議（可分離原則），以及應依何法判斷。",
+    "違反仲裁協議時的損害賠償與訴訟費用。"
+   ],
+   "holding": "・違約不等於毀約：違反有效仲裁協議起訴，只有在當事人已不願受其拘束時才構成毀約；此一意思須由明確、毫不含糊的行為顯示，有真誠理由上法院者通常不構成。\n・可分離原則：主契約毀約不當然毀棄仲裁協議；仲裁協議是否遭毀棄，依其自身的準據法判斷，未必與主契約相同。\n・Olbourne 認為，不理會仲裁通知、拒付機構預付金、管轄權敗訴後退出、不遵守文件揭露命令，都不太可能構成毀約。\n・損害與費用：英國法上違反仲裁協議的損害賠償已確立，通常是外國訴訟的費用，可在外國法院或以仲裁損害賠償取回，但不得重複；澳洲法較不確定，但依 Pipeline Services v ATCO Gas [2014] WASC 10 (S)、Sino Dragon v Noble Resources (No 2) [2015] FCA 1046，違約起訴而被停止時，相對人通常可依彌償基準取得費用。",
+   "significance": "作者結論：仲裁協議是契約，適用一般毀約原則；採取不理會仲裁條款的行動時應通知對方；起草時可考慮為仲裁協議另訂準據法。多數情況下，「不是我、是你」的說法不會讓關係就此結束。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：本文是 Kluwer Arbitration Blog「2026 年澳洲仲裁週紀要」系列之一；同系列中與本網站收錄範圍相符的另兩篇併為另一則（見「相關動態」），談礦業投資徵收估價的一篇屬投資仲裁，未收錄。",
+   "tags": [
+    "毀約",
+    "仲裁協議",
+    "可分離原則",
+    "仲裁協議準據法",
+    "仲裁法第6A條",
+    "禁止仲裁令",
+    "澳洲仲裁週"
+   ],
+   "related": [
+    "2026-10-18-arb-aaw-geopolitics-space"
+   ],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 原文",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/2026-australian-arbitration-week-recap-its-not-me-its-you-repudiatory-breach-of-the-arbitration-agreement-english-and-australian-law/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-20T11:01:53+08:00"
+  },
+  {
+   "id": "2026-10-16-arb-turkiye-award-enforcement",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "jurisdiction": "土耳其",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-10-16",
+   "importance": 1,
+   "author": "Erdem Küçüker（Akıncı Law Office）",
+   "title": "在土耳其執行本地仲裁判斷：適用民事訴訟法或國際仲裁法，決定是否自動停止執行、是否需要執行力證明",
+   "titleOriginal": "Enforcement of Local Arbitral Awards in Türkiye",
+   "caseRef": "",
+   "tldr": "在土耳其作成的仲裁判斷，依仲裁是否具涉外因素，分別適用民事訴訟法或國際仲裁法，兩者的執行規則差很多：適用國際仲裁法時，一提起撤銷之訴就自動停止執行，而且要先取得執行力證明。作者整理相關判決，提醒仲裁庭與當事人要正確認定程序準據法。",
+   "context": "土耳其在本國作成的仲裁判斷有兩套制度：無涉外因素、以土耳其為仲裁地的仲裁，適用 2011 年民事訴訟法第 11 章；具涉外因素（如當事人國籍、股權結構或標的），或當事人明示選擇時，適用 2001 年國際仲裁法（TIAC）。",
+   "facts": [
+    "民事訴訟法仲裁判斷：撤銷之訴須於通知後一個月內向上訴法院提起（第 439 條第 1、4 項）；提起撤銷之訴不當然停止執行，債務人須聲請並提供判斷所定金額的擔保才可能停止（第 439 條第 4 項）；撤銷之訴被駁回後停止即解除，即使尚可上訴至最高法院（第 439 條第 6 項）；不需執行力證明。",
+    "國際仲裁法仲裁判斷：撤銷之訴須於通知後 30 日內向上訴法院提起（第 15 條 A 第 1、4 項）；提起即自動停止執行，無需聲請或擔保，直到撤銷程序（含最高法院上訴）終結（第 15 條 A 第 4 項）；執行前須先取得執行力證明（第 15 條 B），由第一審法院核發。",
+    "撤銷之訴繫屬中，須待其終局駁回才核發執行力證明；未提撤銷之訴（或有效拋棄）時，法院審查期間是否屆滿或拋棄是否有效，再審查公共秩序與可仲裁性。",
+    "能否在等待執行力證明期間對債務人財產聲請保全，伊斯坦堡上訴法院見解分歧：第 15 民事庭（2026 年 3 月 16 日）與第 12 民事庭（2018 年 7 月 11 日）採肯定，第 3 民事庭（2025 年 12 月 11 日）採否定。",
+    "最高法院第 6 民事庭（2026 年 4 月 8 日）確認民事訴訟法仲裁判斷不需執行力證明；第 8 民事庭（2017 年）確認國際仲裁法判斷提起撤銷即自動停止執行。"
+   ],
+   "issues": [
+    "兩套制度下仲裁判斷的執行要件與撤銷之訴的停止效力。",
+    "執行力證明程序的審查範圍。",
+    "撤銷或執行力證明程序繫屬中能否聲請保全。"
+   ],
+   "holding": "・執行制度取決於仲裁的程序準據法：民事訴訟法判斷的執行力較強（不自動停止、不需證明），國際仲裁法判斷則在提起撤銷時自動停止，且須先取得執行力證明。\n・在撤銷或證明程序繫屬期間，債權人可考慮聲請對債務人財產的保全，但判例分歧。\n・程序準據法有實質影響，仲裁庭與法院應在判斷與裁判中正確認定，當事人也應協助釐清。",
+   "significance": "作者強調本文旨在提示問題，並非全面整理或法律意見。對以土耳其為仲裁地或須在土耳其執行的案件而言，涉外因素的認定會直接影響勝訴方多快能執行。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：本文討論的是在土耳其境內作成的仲裁判斷（包括具涉外因素者），不涉及外國仲裁判斷依《紐約公約》的承認與執行。",
+   "tags": [
+    "仲裁判斷執行",
+    "撤銷仲裁判斷",
+    "執行力證明",
+    "保全",
+    "土耳其",
+    "國際仲裁法"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Daily Jus 原文：Enforcement of Local Arbitral Awards in Türkiye",
+     "url": "https://dailyjus.com/world/2026/10/enforcement-of-local-arbitral-awards-in-turkiye",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-20T11:01:53+08:00"
+  },
+  {
+   "id": "2026-10-16-arb-icc-fidic-construction-experts",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "jurisdiction": "",
+   "outlet": "ICC 國際商會（客座部落格）",
+   "outletCode": "ICC",
+   "date": "2026-10-16",
+   "importance": 1,
+   "author": "Roberto Hernández-García 等（COMAD）；ADEPT 團隊",
+   "title": "營建仲裁的專業門檻：不懂 FIDIC 契約就不該接案，拉丁美洲認證專家更是不足",
+   "titleOriginal": "Mastering FIDIC in arbitration: expertise, strategy and the price of ignorance / Is Latin America's construction boom outpacing its bench of recognised experts?",
+   "caseRef": "",
+   "tldr": "兩篇 ICC 客座文章都談營建仲裁的人才問題：FIDIC 契約有自己的語言、程序與風險分配，仲裁人、律師與專家不熟悉就會誤判；而拉丁美洲在多邊開發銀行資助下工程大增，熟悉 FIDIC、工期與金額鑑定的在地認證專家卻非常少。",
+   "context": "兩篇文章由 2026 年 ICC-FIDIC 國際營建契約與爭議解決研討會的贊助單位撰寫，刊於 ICC 客座部落格。FIDIC 是國際顧問工程師聯合會制定的標準營建契約，多邊開發銀行資助的工程常採用，並以爭議避免／裁決委員會（DAAB）與 ICC 仲裁作為爭議解決機制。",
+   "facts": [
+    "FIDIC 紅皮書（業主設計、承包商施工）、黃皮書（承包商設計並負擔性能要求）、銀皮書（承包商風險較高，常見於統包工程）分配風險的方式不同。",
+    "依 ADEPT 引用的數據：美洲開發銀行集團 2025 年融資達創紀錄的 350 億美元；ICC 2023 年統計中，拉丁美洲在當事人來源與仲裁地選擇居第 2 位；Lexology Index 列名的 600 多位營建顧問專家中，拉丁美洲不到 20 位；FIDIC 認證裁決人名單 100 多筆中僅 2 筆在拉丁美洲。"
+   ],
+   "issues": [
+    "仲裁人、律師與專家是否負有熟悉 FIDIC 契約體系的專業義務。",
+    "拉丁美洲營建仲裁專家供給不足的影響與因應。"
+   ],
+   "holding": "・Hernández-García 等（10 月 16 日）：FIDIC 仲裁不是一般營建仲裁；請求須依序經過通知、工程師決定、DAAB 決定，並依所屬版本的計價規則估算，任何步驟被忽略，分析就脫離契約。證據（工程進度表、報告、往來函件、成本紀錄）應透過契約邏輯解讀；套錯版本會扭曲結果。熟悉 FIDIC 是專業義務，接受選任或委任前應先自我評估。\n・ADEPT 團隊（10 月 15 日）：短缺不在一般營建知識，而在 FIDIC 契約、工期與金額鑑定；在多邊開發銀行資助、採 FIDIC 契約的工程上最嚴重。專業需數十年經驗累積，認證只能驗證而不能縮短。建議鼓勵在地工程師與估算師取得 FIDIC 等認證、安排在地專業人員與國際專家共同擔任爭議委員會成員，並提高在地專家在名冊與排名中的能見度。",
+   "significance": "兩文共同提醒：營建仲裁的品質取決於參與者是否真正理解契約體系；以拉丁美洲而言，現在開發中的工程就是未來的爭議來源，在地專家應及早累積資歷。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場；ICC 亦註明客座文章不代表其官方立場。\n本網頁助理 註：本則合併 ICC 客座部落格 10 月 15 日與 16 日兩篇撰寫；兩篇作者均為研討會贊助單位，ADEPT 一文另帶有推介其專業服務的性質。",
+   "tags": [
+    "FIDIC",
+    "營建仲裁",
+    "DAAB",
+    "專家證人",
+    "拉丁美洲",
+    "多邊開發銀行",
+    "ICC"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICC 客座部落格：Mastering FIDIC in arbitration: expertise, strategy and the price of ignorance",
+     "url": "https://iccwbo.org/news-publications/guest-blog/mastering-fidic-in-arbitration-expertise-strategy-and-the-price-of-ignorance/",
+     "official": false
+    },
+    {
+     "label": "ICC 客座部落格：Is Latin America's construction boom outpacing its bench of recognised experts?",
+     "url": "https://iccwbo.org/news-publications/guest-blog/is-latin-americas-construction-boom-outpacing-its-bench-of-recognised-experts/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-20T11:01:53+08:00"
+  },
+  {
+   "id": "2026-10-15-arb-chile-ultra-petita",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "jurisdiction": "智利",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-10-15",
+   "importance": 1,
+   "author": "Carolina Alcalde（Alcalde & Cía.）、Mónica van der Schraft（MVJV Arbitraje）",
+   "title": "智利最高法院：仲裁判斷與請求只是用語不同，不構成訴外裁判，法院不得藉機審查實體",
+   "titleOriginal": "Ultra Petita and Judicial Review of Arbitral Awards in Chile（Corte Suprema de Chile, Rol N° 18.419-2025, 23 de diciembre de 2025）",
+   "caseRef": "Rol 18.419-2025",
+   "tldr": "仲裁庭判命被申請人支付兩張未付的工程估驗計價單，被申請人主張申請人從未具體請求這兩筆款項，構成訴外裁判（ultra petita）。上訴法院同意並刪除該部分；智利最高法院撤銷上訴法院裁判，認為訴外裁判必須是實質、明顯地超出當事人提出的事實範圍，用語不同不算。",
+   "context": "本案為聖地牙哥商會仲裁調解中心（CAM Santiago）管理的智利國內仲裁。\n智利法上撤銷仲裁判斷的管道之一是形式上訴（recurso de casación en la forma，民事訴訟法第 768 條），屬非常救濟，事由採列舉；其中「無管轄權」與「訴外裁判」兩項事由不得拋棄。民事訴訟法第 160 條要求裁判依訴訟資料作成，不得及於當事人未明確提出的事項。\n申訴救濟（recurso de queja，法院組織法第 545 條）原本只用於糾正重大過失或濫權，且以無其他救濟可用為限，但實務上常被間接用來審查裁判（包括仲裁判斷）的實體。",
+   "facts": [
+    "雙方於 2020 年 5 月訂立太陽能模組與追日系統安裝的分包契約。",
+    "仲裁判斷命被申請人（1）返還保留款，並（2）支付第 7、8 號估驗計價單的款項。",
+    "被申請人主張申請人在請求中從未指明這兩張計價單，只概括請求所受損害與所失利益。",
+    "聖地牙哥上訴法院認定構成訴外裁判，理由是請求未充分具體描述損害，並作成替代判決，刪除計價單部分、保留返還保留款部分。",
+    "申請人提起申訴救濟；智利最高法院第一庭於 2025 年 12 月 23 日予以准許，撤銷上訴法院的撤銷裁判及替代判決。"
+   ],
+   "issues": [
+    "仲裁判斷何時構成訴外裁判。",
+    "法院在撤銷程序中可否審查仲裁庭的實體判斷。",
+    "申訴救濟能否用來推翻不利的撤銷裁判。"
+   ],
+   "holding": "・訴外裁判必須是真實、明顯且實質地違反「處分權主義下的裁判一致性」，不是表面或解釋上的出入。\n・一致性涵蓋請求、答辯、證據與聲明，但主要界限在事實，而不在法律定性；請求與判斷的用語不同，不構成訴外裁判。\n・請求原因（causa petendi）應依實質判斷，不拘泥於當事人的文字；依「法官知法」原則，仲裁庭可自行認定並適用法律，但受事實框架拘束。\n・訴外裁判只看主文；當事人請求特定金額時，仲裁庭可判給不同金額，只要不超過請求總額，且基於請求範圍內的事實。\n・本案仲裁庭在當事人設定的範圍內裁判，並無訴外裁判；非常救濟不容許法院以自己的看法取代仲裁庭的實體判斷。上訴法院的錯誤構成重大過失或濫權，申訴救濟有理由。",
+   "significance": "作者認為，本判決整理了最高法院關於訴外裁判的見解，確認以事實為核心的實質判斷方式，強化法院對仲裁的有限介入，有助維持智利作為仲裁地的友善形象。但作者也提醒，本案以申訴救濟推翻不利的撤銷裁判，可能模糊該救濟原本的懲戒功能與審判功能之間的界線。",
+   "editorNote": "本網頁助理 註：本則依 Daily Jus 刊載的評析撰寫，判決原文連結取自評析（存放於 CAM Santiago 網站）。本案屬智利國內仲裁，非國際商務仲裁，因涉及仲裁地法院審查仲裁判斷的標準而收錄。判決作成於 2025 年 12 月 23 日，本則以評析刊出日列示。",
+   "tags": [
+    "訴外裁判",
+    "撤銷仲裁判斷",
+    "司法審查",
+    "法官知法",
+    "智利",
+    "CAM Santiago"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "智利最高法院判決原文（西班牙文，CAM Santiago 網站存檔）",
+     "url": "https://stablobccsprod.blob.core.windows.net/cam/2026/01/18.419-2025-Queja.pdf",
+     "official": false
+    },
+    {
+     "label": "Daily Jus 評析：Ultra Petita and Judicial Review of Arbitral Awards in Chile",
+     "url": "https://dailyjus.com/world/2026/10/ultra-petita-and-judicial-review-of-arbitral-awards-in-chile",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-20T11:01:53+08:00"
+  },
+  {
+   "id": "2026-10-14-arb-ai-record-too-big",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "jurisdiction": "",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-10-14",
+   "importance": 1,
+   "author": "Mario Covarrubias Jurado（Estudio Garrido Abogados）",
+   "title": "AI 的另一個問題：當事人用 AI 灌爆卷宗，仲裁人讀不完怎麼辦？",
+   "titleOriginal": "The Other AI Problem in Arbitration: When AI Makes the Record Too Big to Read",
+   "caseRef": "",
+   "tldr": "AI 對仲裁判斷的威脅有兩種：一是仲裁人把思考交給 AI；二是當事人用 AI 大量製造書狀與證據，讓仲裁人實際上無法親自消化卷宗。作者認為第二種問題更難察覺，主張以頁數字數限制、費用制裁與程序命令等「程序比例原則」來保護仲裁人的親自審理義務。",
+   "context": "2026 年 4 月，加拿大魁北克高等法院在 ARIHQ v Santé Québec 案撤銷一件仲裁判斷，理由是仲裁人依賴未經查證的 AI 產出（包括虛構的判例與被誤述的先例），等於把裁判職能委由他人行使。本文認為該案處理的是第一種風險。",
+   "facts": [
+    "巴黎仲裁週的座談已注意到冗長判斷與每週多份長篇書狀的負擔；2026 年 2 月一份白皮書建議限制文件調閱請求與異議的字數或頁數。",
+    "據報導，2026 年 7 月一名智利律師在不到三天內遞出 38,477 份書狀，各法院收到 500 至 900 份；該工具是否屬 AI 有爭議。",
+    "德國法蘭克福地方法院（FraUKe）與斯圖加特高等法院（OLGA）以 AI 處理大量訴訟。",
+    "矽谷仲裁調解中心（SVAMC）指引第 6 條禁止將個人職責或裁判職能委由 AI；CIArb 於 2025 年 9 月更新的 AI 指引允許為效率使用 AI，但要求獨立判斷、查證輸出，並可能以程序命令規範當事人使用 AI。"
+   ],
+   "issues": [
+    "當事人使用 AI 製造大量書狀，是否侵蝕仲裁人親自審理的義務。",
+    "仲裁庭可採取哪些措施，而不侵害當事人陳述意見的權利。"
+   ],
+   "holding": "・成本不對稱：AI 降低產出資訊的成本，遠多於降低評估資訊的成本；辯護可以規模化，裁判仍是人的尺度。\n・書狀的價值在於傳達的內容而非長度，AI 讓灌水幾乎零成本。\n・仲裁通常只有一或三名仲裁人、秘書人力有限，且閱卷時間由當事人付費，因此不會比法院更能承受卷宗膨脹。\n・冗長重複的書狀迫使仲裁人反覆切換脈絡、查證引用、追蹤論點出處，可能讓邊緣材料排擠真正決定案件的內容。\n・德國法院以 AI 處理大量訴訟的做法，較難移植到當事人親自選任仲裁人的仲裁。",
+   "significance": "作者主張，問題已不只是 AI 能否協助仲裁庭，而是當事人使用 AI 能讓仲裁庭的親自審理變得多不可行。建議措施包括書狀頁數與字數限制、文件請求與異議的限制、對不合比例行為課以費用後果、針對 AI 產生的大量內容發布程序命令；但任何比例措施都必須保留各方合理陳述的機會，不得排除相關資料。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。",
+   "tags": [
+    "人工智慧",
+    "程序管理",
+    "正當程序",
+    "仲裁人職責",
+    "SVAMC",
+    "CIArb",
+    "魁北克"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 原文",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/the-other-ai-problem-in-arbitration-when-ai-makes-the-record-too-big-to-read/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-20T11:01:53+08:00"
+  },
+  {
+   "id": "2026-10-13-arb-scc-express-dispute-assessment",
+   "court": "INST",
+   "kind": "實務評論",
+   "jurisdiction": "",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-10-13",
+   "importance": 1,
+   "author": "Rubén Obadia Buenos、Jake Lowther（斯德哥爾摩商會仲裁院）",
+   "title": "斯德哥爾摩商會仲裁院的「快速爭議評估」：21 天、固定費用、不具拘束力的中立意見，適合拉丁美洲？",
+   "titleOriginal": "Bridging the Gap: The SCC's Express Dispute Assessment and Latin America",
+   "caseRef": "",
+   "tldr": "SCC 的快速爭議評估介於調解與仲裁之間：由仲裁院指定一名中立法律專家，在 21 天內就事實或法律爭點提出附理由的評估，固定收費 29,000 歐元，預設不具拘束力。兩位 SCC 作者認為，這很適合拉丁美洲常見的長期合作契約與合資爭議。",
+   "context": "SCC 於 2021 年推出《快速爭議評估規則》，2023 年修正。此程序以合意為基礎、具保密性，且不以仲裁協議存在為前提；當事人可在契約爭議解決條款中預先約定，SCC 提供單獨使用或作為仲裁前置步驟的範本條款。",
+   "facts": [
+    "SCC 理事會於收到雙方合意與費用後 48 小時內指定中立評估人；評估人召開程序管理會議並依規則第 7 條訂定時程。",
+    "評估人可主動指示當事人應處理的事實與爭點、限制書狀與陳述長度，並可先給口頭初步評估，職權色彩較仲裁人濃。",
+    "評估結果預設不具拘束力，當事人可約定使其具拘束力，或經評估人同意，另行仲裁並由其擔任仲裁人以取得可執行的判斷。",
+    "首件公開的案例於 2023 年處理，涉及公共採購契約的付款爭議，經兩輪書狀與簡短言詞程序，在三週期限內完成。",
+    "作者引用資料指出拉丁美洲有超過 170 家仲裁機構，但沒有主要區域機構提供針對已發生爭議的類似評估程序。"
+   ],
+   "issues": [
+    "非拘束性評估程序的保密性與在後續程序中的使用。",
+    "非拘束性評估與快速仲裁在正當程序上的差異。"
+   ],
+   "holding": "・評估結果嚴格保密，除另有約定，不得在後續程序中揭露或使用；爭議升級時，評估「不留痕跡」。\n・因不作成仲裁判斷、當事人也不拋棄程序權利，作者認為一般快速仲裁的正當程序疑慮通常不會出現。\n・拉丁美洲有北歐能源、礦業與製造業企業的長期投資，常見工期延誤、股東僵局、價格調整等爭議，這些爭議多不值得耗費仲裁的成本與終局性，卻需要中立的實體判斷。\n・爭議審議委員會（dispute board）偏重預防且綁定特定工程，無法填補已發生爭議的空缺；作者稱「爭議審議委員會預防，評估規則解決」。",
+   "significance": "作者認為這套規則在拉丁美洲有發展空間，障礙在於結構而非機構：取決於起草契約、選擇爭議解決方式的當事人是否採用。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：兩位作者任職於 SCC，文章具推廣性質；文中未提供採用率等獨立數據，並承認目前使用仍以熟悉 SCC 的市場為主。",
+   "tags": [
+    "SCC",
+    "快速爭議評估",
+    "替代性爭議解決",
+    "拉丁美洲",
+    "保密性",
+    "爭議審議委員會"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 原文",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/bridging-the-gap-the-sccs-express-dispute-assessment-and-latin-america/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-20T11:01:53+08:00"
+  },
+  {
+   "id": "2026-10-12-arb-hk-asi-prc-proceedings",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "jurisdiction": "香港",
+   "outlet": "HSF Kramer 仲裁評析",
+   "outletCode": "HSF",
+   "date": "2026-10-12",
+   "importance": 2,
+   "author": "",
+   "title": "香港法院核發禁訴令：命大陸公司撤回為規避 HKIAC 仲裁而在大陸法院提起的訴訟，連未簽約的關係企業也受保護",
+   "titleOriginal": "A and Others v Z [2026] HKCFI 5453",
+   "caseRef": "[2026] HKCFI 5453",
+   "tldr": "美國玻璃基板集團旗下的新加坡公司與一家中國大陸公司簽有合資協議，約定爭議交香港國際仲裁中心（HKIAC）仲裁。大陸公司卻在大陸法院提起股東代位訴訟、不正當競爭訴訟，並主張仲裁協議無效。香港高等法院原訟法庭認定這些訴訟只是為了規避仲裁，核發禁訴令要求撤回，即使被告是未簽署仲裁協議的關係企業也一樣。",
+   "context": "本案兩份合資協議以中國法為準據法，均訂有 HKIAC 仲裁條款；協議並設有獨家供貨安排：合資公司向美國集團相關企業採購原料與服務，大陸公司及其關係企業則只向合資公司採購液晶玻璃基板。\n依評析所述，這是兩週內香港法院第二度為維護仲裁協議或支持仲裁判斷執行而限制大陸訴訟；前一件為 Xiamen Xinjingdi Group Co Ltd v Eton Properties Ltd [2026] HKCFI 5258（暫委法官 Gary CC Lam），涉及保全仲裁判斷的執行。",
+   "facts": [
+    "聲請人為一家新加坡公司（合資協議當事人，受仲裁條款拘束）及其三家關係企業（非仲裁協議當事人）；相對人為合資協議另一方的中國大陸公司。",
+    "大陸公司以股東身分代表合資公司，在大陸法院對新加坡公司及兩家關係企業提起代位訴訟。",
+    "大陸公司另提起三件不正當競爭及壟斷訴訟，被告只列兩家關係企業，未列新加坡公司。",
+    "大陸公司又在大陸法院對新加坡公司提起訴訟，以脅迫、違反公共政策等理由主張仲裁協議無效。",
+    "聲請人向香港法院聲請禁訴令，要求大陸公司撤回上述大陸訴訟。"
+   ],
+   "issues": [
+    "核發禁訴令以限制外國訴訟時，聲請人須證明仲裁協議存在且涵蓋爭議到何種程度：表面證據（prima facie）即可，或須達高度可能性。",
+    "對未簽署仲裁協議的關係企業提起的訴訟，能否一併禁止。",
+    "大陸法下不正當競爭爭議是否不具可仲裁性。",
+    "仲裁協議效力的爭執，應先由仲裁庭（及仲裁地法院）決定，還是可由大陸法院審理（管轄權自決原則）。"
+   ],
+   "holding": "・門檻：聲請人只須提出表面證據，證明有效仲裁協議存在且爭議在其範圍內，與依《仲裁條例》第 20 條聲請停止香港訴訟的門檻相同；法院認為若限制外國訴訟反而要求更高門檻，結果將很奇怪。此一門檻也反映由仲裁庭先決定自身管轄權、法院事後審查的分工。\n・非簽約方：大陸公司與關係企業之間沒有仲裁協議，並不妨礙核發禁訴令。法院參照英國判例，指出禁訴令可基於契約、準契約，或訴訟具有濫訴、壓迫性質；當事人不應藉由起訴關係密切的第三人而輕易規避仲裁協議。\n・代位訴訟與不正當競爭訴訟：（1）有表面證據顯示這些請求在仲裁條款範圍內，大陸公司已承諾不在仲裁以外追訴；（2）對關係企業的請求只是規避仲裁的程序手段——新加坡公司在代位訴訟中被指為連帶責任人，不正當競爭請求也可依合資協議對新加坡公司提出；法院並依專家證據，認定此類請求在大陸法下有可仲裁性的表面證據；（3）這些訴訟唯一目的是規避仲裁，構成濫訴與壓迫。\n・效力爭議訴訟：法院「毫不猶豫」地予以禁止，主要依據是管轄權自決原則——仲裁協議效力的任何爭執，應先由仲裁庭決定，再由香港法院監督審查；大陸法院可能有管轄權並不影響結論，因為當事人已約定不在其他法域主張。\n・法院認為「仲裁協議排除大陸法院上訴或審查而違反公共政策」的主張毫無根據；對於「仲裁協議使香港仲裁判斷可在大陸執行，因而違反一個中國政策、具煽動性」的主張，法院稱之為「新奇的論點」，大陸公司的律師確認不會在香港程序中主張。\n・訴訟費用以彌償基準（indemnity basis）由大陸公司負擔。",
+   "significance": "評析作者認為，本判決有力宣示維護仲裁協議的公共利益與法院保護仲裁程序的職責，並清楚闡明管轄權自決原則；法院也強調，它並未終局認定仲裁協議的存在或範圍，這仍應先由仲裁庭決定。\n實務重點：（1）禁訴令可延伸到被用來繞過仲裁條款的關係密切第三人；（2）聲請人只須表面證據；（3）在大陸法院挑戰仲裁協議效力，在管轄權自決原則及當事人承諾不另訴時可被禁止；（4）大陸法下的可仲裁性可用專家證據證明；（5）違反仲裁協議在大陸起訴的一方，可能被判以彌償基準負擔費用。",
+   "editorNote": "本網頁助理 註：本則依 HSF Kramer 律師事務所的評析撰寫，尚未取得判決原文；評析未載明判決日期，本則以評析刊出日（2026 年 10 月 12 日）列示，承審法官為陳美蘭法官（Mimmie Chan J）。評析亦未明載仲裁地，依其引用香港《仲裁條例》與香港監督法院角色的論述，應以香港為仲裁地，此為本網頁助理的推論。",
+   "tags": [
+    "禁訴令",
+    "HKIAC",
+    "香港",
+    "中國大陸",
+    "管轄權自決",
+    "非簽約方",
+    "可仲裁性",
+    "仲裁條例第20條"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "HSF Kramer 評析：Hong Kong court grants anti-suit injunctions to restrain PRC court proceedings brought in attempt to evade arbitration",
+     "url": "https://www.hsfkramer.com/notes/arbitration/2026-10/hong-kong-court-grants-anti-suit-injunctions-to-restrain-prc-court-proceedings-brought-in-attempt-to-evade-arbitration",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-20T11:01:53+08:00"
+  }
+ ],
+ "agenda": [
+  {
+   "id": "2026-10-27-law-hk-arbitration-reform-consultation",
+   "date": "2026-10-27",
+   "court": "LAW",
+   "title": "香港仲裁法改革諮詢截止",
+   "note": "律政司公布專家工作小組建議，包括仲裁協議準據法預設為仲裁地法、仲裁庭簡易處分權、撤銷期限延長等。",
+   "url": "https://www.info.gov.hk/gia/general/202609/28/P2026092800357.htm",
+   "relatedId": ""
+  }
+ ],
+ "archives": []
+}
