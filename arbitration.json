@@ -1,13 +1,66 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-21T11:18:27+08:00",
-  "lastRunLocal": "2026-10-21 11:18",
+  "lastRun": "2026-10-21T23:16:58+08:00",
+  "lastRunLocal": "2026-10-21 23:16",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增投資條約仲裁 8 則（2026 年 10 月 1 日起）：仲裁判斷 2、機構 1、立法 1、評論 4。",
+  "lastRunNote": "新增 3 則：投資仲裁 2（法院裁判 1、案件動態 1）、商務仲裁 1（評論 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
+  {
+   "id": "2026-10-21-arb-icc-2026-disclosure-when-in-doubt",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "field": "commercial",
+   "jurisdiction": "",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-10-21",
+   "importance": 1,
+   "author": "Vandit Sharma、Rudraksh Singhal（印度 Dr. Ram Manohar Lohia 國立法律大學）",
+   "title": "2026 年 ICC 規則「有疑義即揭露」：作者主張它不是降低揭露門檻，而是在灰色地帶取消仲裁人自行判斷不揭露的空間",
+   "titleOriginal": "When in Doubt, Disclose: Resolving an Arbitrator's Dilemma Under the 2026 ICC Rules of Arbitration",
+   "caseRef": "",
+   "tldr": "新版 ICC 仲裁規則第 12 條第 2 項要求仲裁人，只要對某事是否應揭露有疑義，就要揭露。作者認為這條不是要仲裁人什麼都揭露，而是在客觀標準不明確時，不再讓仲裁人私下決定不說。",
+   "context": "2021 年 ICC 規則第 11 條第 2 項要求仲裁人揭露「在當事人眼中」可能使其獨立性受質疑的事實，作者稱之為客觀標準。2026 年規則（2026 年 6 月 1 日施行）第 12 條第 2 項加入「有疑義即應揭露」的要求，並新增當事人須提出一份請潛在仲裁人審酌的人員與機構名單（附理由）。\n此一用語源自 2024 年 IBA 利益衝突準則一般標準 3(a)；問題在於新條文只是重申既有實務，還是把揭露範圍擴大到難以操作。",
+   "facts": [
+    "作者指出，仲裁人常遇到不構成明顯衝突、但可能有關係的事實，過去可自行判斷不揭露，造成無意或策略性的未揭露，機構難以察覺。",
+    "非當事人、亦非關係企業，但對爭議具有核心地位的實體，容易落在現行衝突審查之外。"
+   ],
+   "issues": [
+    "2026 年 ICC 規則第 12 條第 2 項與 2021 年規則第 11 條第 2 項客觀標準的關係。",
+    "「有疑義即揭露」應如何解釋：純屬確認、作為客觀標準不明時的補充規則，或大幅降低揭露門檻。",
+    "對印度仲裁法第 12 條（含第五、第七附表）下仲裁人揭露義務的影響。"
+   ],
+   "holding": "・揭露是仲裁正當性的基礎：仲裁不像法院有制度性保障，當事人只能依賴仲裁人的揭露來判斷其公正性，範圍包括現在與過去的關係。\n・作者列出三種解讀：（一）不改變實質內容，只確認良好實務；（二）作為補充——客觀標準不明確且仲裁人自己有任何疑慮時，即必須揭露；（三）大幅降低門檻，幾乎事事都要揭露。\n・作者採第二種解讀，反對第三種：專業領域（例如運動仲裁）的仲裁人人脈密集，全面揭露負擔過重，並把查證負擔轉給當事人；過長的揭露聲明也可能淹沒真正重要的資訊，揭露的目的是告知，不是製造迴避理由。\n・比較其他機構：LCIA 規則採客觀標準、沒有「有疑義即揭露」的明文；SIAC 2025 年規則沿用 IBA 用語但未加入主觀要素；ICSID 規則課以查證義務，在某些方面可能更廣。作者認為 ICC 2026 年規則的指引最清楚。\n・印度：依仲裁法第 19 條第 2 項當事人可約定程序，採用 ICC 規則即受較印度法嚴格的揭露標準，作者認為可行；並引印度最高法院 TRF、Perkins、HRD Corporation 等判決（第五附表非列舉窮盡）佐證兩者相容。",
+   "significance": "作者結論：第 12 條第 2 項沒有降低揭露門檻，而是在門檻確實不明時，把決定權從仲裁人的私下判斷中拿走；灰色地帶仍然存在，但仲裁人身在其中時，答案就是揭露。它強化而非取代客觀標準（英國最高法院 Halliburton v Chubb 案的公正而知情的旁觀者標準）。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：文中所稱「2026 年 ICC 規則第 12 條第 2 項」及 2021 年規則第 11 條第 2 項，係依作者說明；本網頁助理未逐條核對 ICC 規則原文。",
+   "tags": [
+    "ICC仲裁規則",
+    "2026年ICC規則",
+    "仲裁人揭露義務",
+    "利益衝突",
+    "IBA利益衝突準則",
+    "印度"
+   ],
+   "related": [
+    "2026-10-19-arb-icc-salomon-rules-norms"
+   ],
+   "sources": [
+    {
+     "label": "ICC：2026 Arbitration Rules",
+     "url": "https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2026-arbitration-rules/",
+     "official": true
+    },
+    {
+     "label": "Kluwer Arbitration Blog：When in Doubt, Disclose: Resolving an Arbitrator's Dilemma Under the 2026 ICC Rules of Arbitration",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/when-in-doubt-disclose-resolving-an-arbitrators-dilemma-under-the-2026-icc-rules-of-arbitration/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-21T23:16:58+08:00"
+  },
   {
    "id": "2026-10-20-arb-sep-sme-safeguards",
    "court": "OTHER",
@@ -54,6 +107,81 @@
     }
    ],
    "addedAt": "2026-10-20T22:58:42+08:00"
+  },
+  {
+   "id": "2026-10-19-arb-sgca-nextera-spain-immunity",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "investment",
+   "jurisdiction": "新加坡",
+   "outlet": "新加坡上訴法院",
+   "outletCode": "SGCA",
+   "date": "2026-10-19",
+   "importance": 3,
+   "author": "",
+   "title": "新加坡上訴法院：西班牙加入 ICSID 公約即已同意他國法院管轄，不得以國家豁免阻擋 NextEra 約 2.9 億歐元仲裁判斷在新加坡登記",
+   "titleOriginal": "Kingdom of Spain v NextEra Energy Global Holdings BV and another [2026] SGCA 43 (Civil Appeal No 11 of 2026), judgment of 19 October 2026",
+   "caseRef": "[2026] SGCA 43；CA 11/2026；ICSID Case No. ARB/14/11",
+   "tldr": "荷蘭的 NextEra 關係企業在 ICSID 仲裁中勝訴，西班牙被判賠約 2.9 億歐元，投資人到新加坡法院登記這份仲裁判斷。西班牙主張國家豁免，新加坡上訴法院駁回上訴：加入 ICSID 公約、承諾承認與執行仲裁判斷，本身就是事先以書面同意其他締約國法院的管轄。本判決只處理「登記」，不涉及查封西班牙財產。",
+   "context": "本案源於西班牙 2010 年代削減再生能源補貼。NextEra 的兩家荷蘭子公司依能源憲章條約（ECT）第 26 條於 2014 年提起 ICSID 仲裁（ICSID Case No. ARB/14/11）。仲裁庭 2019 年 3 月認定西班牙違反 ECT 第 10 條第 1 項的公平公正待遇義務，2019 年 5 月 31 日作成仲裁判斷，命西班牙賠償約 2.906 億歐元及利息、費用；西班牙依 ICSID 公約第 52 條聲請撤銷（annulment），2022 年 3 月遭撤銷委員會駁回。\n投資人於 2023 年 12 月依新加坡《仲裁（國際投資爭端）法》（AIIDA）聲請登記仲裁判斷，2024 年 1 月取得登記令。西班牙 2025 年聲請撤銷登記，主張國家豁免及「歐盟內部異議」（以歐盟法院 Achmea、Komstroy 判決為據），新加坡高等法院於 [2026] SGHC 43 駁回，西班牙上訴。",
+   "facts": [
+    "投資人以不經通知（ex parte）方式取得仲裁判斷登記令；西班牙其後聲請撤銷登記。",
+    "高等法院認定國家豁免法第 4 條（接受管轄）與第 11 條（仲裁）兩項例外均適用，並拒絕以「司法利益」為由撤銷登記。",
+    "西班牙就上述結論及高等法院另一程序（SUM 1371）的訴訟費用裁定提起上訴；上訴法院由首席大法官 Sundaresh Menon 主筆，Ang Cheng Hock、Hri Kumar Nair 兩位上訴庭法官合議。"
+   ],
+   "issues": [
+    "新加坡國家豁免法（SIA）第 4 條「接受管轄」例外：加入 ICSID 公約並同意第 54 條（承認與執行義務），是否構成第 4 條第 2 項所稱「事先書面協議」而放棄豁免。",
+    "國家豁免法第 11 條「仲裁」例外是否適用，以及執行法院可否審查 ICSID 仲裁庭的管轄權（包括歐盟內部異議）。",
+    "法院是否應基於司法利益（2021 年民事訴訟規則第 3 號命令第 2 條第 8 項）撤銷不經通知取得的登記令。",
+    "高等法院 SUM 1371 程序的訴訟費用裁定是否有誤。"
+   ],
+   "holding": "・接受管轄例外（第 4 條）成立：ICSID 公約第 54 條第 1 項是互惠義務——締約國要求他國執行對自己有利的仲裁判斷，自己被執行時也必須接受他國法院管轄。依國家豁免法第 2 條第 2 項，「協議」包括條約，因此西班牙加入公約即構成事先書面接受管轄。\n・西班牙主張第 54 條沒有明文放棄豁免；法院承認條文確無此字，但認為其效果就是放棄。法院援引澳洲高等法院（[2023] HCA 11）與英國最高法院（[2026] UKSC 9）同一結論，並指出西班牙律師也承認多數見解對其不利；與其他締約國見解一致可減少挑選法院，也符合新加坡應依條約義務解釋法律的原則。至於涉及詐欺的仲裁判斷應如何處理，法院保留不論。\n・第 4 條至第 13 條的各項例外彼此獨立，聲請登記的一方不必另外證明仲裁協議存在；既然第 4 條成立，西班牙即不能主張豁免，第 11 條嚴格而言無須判斷。\n・第 11 條（附帶意見）：ICSID 制度自成體系——第 41 條由仲裁庭自行判斷管轄權，第 50 條至第 52 條提供內部救濟，第 53 條排除其他救濟。AIIDA 第 4 條第 1 項只要求程序性證明，西班牙律師也承認該法沒有以欠缺有效仲裁協議為由拒絕執行的規定；法院拒絕類推國際仲裁法第 31 條第 2 項第 b 款。法院傾向認為執行法院不應重審 ICSID 仲裁庭的認定，但未作終局判斷；歐盟內部異議亦未判斷。\n・司法利益：法院固有權限只在例外情形行使；西班牙受其條約承諾拘束，撤銷登記將損害投資人並違反第 54 條，不構成例外情形。\n・訴訟費用：西班牙就上訴通知後才作成的費用裁定上訴，未取得許可，程序上有瑕疵；實體上高等法院裁定的 8 萬新元加墊付費用亦屬合理裁量。\n・主文：上訴駁回；上訴費用定為 5 萬新元（全包），由西班牙給付投資人。",
+   "significance": "新加坡最高審級與英國最高法院、澳洲高等法院採相同立場：ICSID 公約締約國不能以國家豁免阻擋仲裁判斷的承認或登記。這使西班牙在主要普通法法域對 ECT 再生能源仲裁判斷的抗辯幾乎用盡。\n但判決明確只處理登記：ICSID 公約第 55 條保留各國關於執行豁免的法律，投資人要實際查封西班牙在新加坡的財產，仍須另行克服執行階段的豁免。歐盟內部異議在本判決中未作決定。",
+   "editorNote": "本網頁助理 註：本則依新加坡法院公布的判決書（eLitigation）撰寫，並參考 Court Cast、Law360 與 Global Arbitration Review 的報導標題及導言；仲裁判斷金額與 ICSID 程序經過係依 Aceris Law 對高等法院判決（[2026] SGHC 43）的介紹，本網頁助理未取得 ICSID 仲裁判斷原文。Law360 以「約 2.91 億歐元」報導，與 2.906 億歐元一致。\n以下為本網頁助理補充，非來源內容：判決書分析的是「登記或執行」程序的管轄豁免，未單獨討論第 55 條的執行豁免如何與第 4 條結論互動；投資人日後若在新加坡聲請查封，這個問題可能再被提起。",
+   "tags": [
+    "ICSID",
+    "國家豁免",
+    "承認與執行",
+    "第54條",
+    "第55條",
+    "能源憲章條約",
+    "歐盟內部異議",
+    "西班牙再生能源"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "新加坡上訴法院判決：[2026] SGCA 43（eLitigation）",
+     "url": "https://www.elitigation.sg/gd/s/2026_SGCA_43",
+     "official": true
+    },
+    {
+     "label": "新加坡高等法院判決：[2026] SGHC 43（eLitigation）",
+     "url": "https://www.elitigation.sg/gd/s/2026_SGHC_43",
+     "official": true
+    },
+    {
+     "label": "Court Cast：Singapore Rejects Spain's Immunity Challenge to NextEra Award Registration",
+     "url": "https://courtscast.com/singapore-spain-nextera-icsid-award-registration-appeal/",
+     "official": false
+    },
+    {
+     "label": "Law360：Spain Loses Appeal Over €291M Award In Singapore",
+     "url": "https://www.law360.com/internationaltrade/articles/2539628",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review：Spain loses Singapore appeal over intra-EU award",
+     "url": "https://globalarbitrationreview.com/article/spain-loses-singapore-appeal-over-intra-eu-award",
+     "official": false
+    },
+    {
+     "label": "Aceris Law：介紹高等法院判決 [2026] SGHC 43",
+     "url": "https://www.acerislaw.com/singapores-high-court-rejects-spains-state-immunity-defence-nextera-energy-v-spain-2026-sghc-43/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-21T23:16:58+08:00"
   },
   {
    "id": "2026-10-19-arb-bgh-third-party-notice-arbitrator",
@@ -147,7 +275,9 @@
     "第23條",
     "多元性"
    ],
-   "related": [],
+   "related": [
+    "2026-10-21-arb-icc-2026-disclosure-when-in-doubt"
+   ],
    "sources": [
     {
      "label": "ICC 原文：Rewriting the ICC Rules of Arbitration: Balancing Rules and Social Norms",
@@ -275,6 +405,56 @@
     }
    ],
    "addedAt": "2026-10-20T11:01:53+08:00"
+  },
+  {
+   "id": "2026-10-16-arb-icsid-new-cases-mali-turkiye-south-sudan",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "jurisdiction": "",
+   "outlet": "ICSID",
+   "outletCode": "ICSID",
+   "date": "2026-10-16",
+   "importance": 1,
+   "author": "",
+   "title": "ICSID 十月新登記三案：Sopam Energie 告馬利、Lombard North Central 告土耳其、阿聯酋 Aquilon 告南蘇丹及其國家石油公司",
+   "titleOriginal": "Sopam Energie - SA v. Republic of Mali (ICSID Case No. ARB/26/39); Lombard North Central PLC v. Republic of Türkiye (ICSID Case No. ARB/26/40); Aquilon FZCO v. Nile Petroleum Corporation and Republic of South Sudan (ICSID Case No. ARB/26/41)",
+   "caseRef": "ARB/26/39；ARB/26/40；ARB/26/41",
+   "tldr": "ICSID 在 10 月 6 日與 16 日登記三件以國家為被申請人的新案，分別對馬利、土耳其與南蘇丹。目前公開資訊只有當事人與案號，求償依據與金額尚未公布。",
+   "context": "ICSID 秘書長登記仲裁請求，只表示請求未明顯超出 ICSID 管轄，不代表對管轄或實體的判斷；登記後即進入仲裁庭組成階段。\nInvestment Arbitration Reporter 於 10 月 19 日報導，Aquilon 為阿聯酋投資人，案件同時以南蘇丹及其國家石油公司（Nile Petroleum Corporation，Nilepet）為被申請人。",
+   "facts": [
+    "2026 年 10 月 6 日：Sopam Energie - SA v. Republic of Mali（ARB/26/39）登記。",
+    "2026 年 10 月 6 日：Lombard North Central PLC v. Republic of Türkiye（ARB/26/40）登記。",
+    "2026 年 10 月 16 日：Aquilon FZCO v. Nile Petroleum Corporation and Republic of South Sudan（ARB/26/41）登記；IAReporter 將其列為仲裁程序進行中。"
+   ],
+   "issues": [
+    "三案援引的同意依據（投資條約、投資法或契約）、所涉產業與求償金額，均尚未公開。"
+   ],
+   "holding": "・ICSID 案件資料庫「近期案件」頁面列出上述三案的登記日期與案號。\n・目前無仲裁庭組成、程序令或其他實體資訊。",
+   "significance": "三案都在早期階段，後續值得注意的是同意依據：Aquilon 案同時對國家及國營石油公司提起，若以契約為依據，可能涉及國營事業是否經指定為 ICSID 公約第 25 條第 1 項的「下級機構或機關」的問題。",
+   "editorNote": "本網頁助理 註：本則依 ICSID「近期案件」頁面與 IAReporter 公開案件頁（完整內容需訂閱）撰寫；本網頁助理未能開啟三案的 ICSID 個案頁面，求償依據、產業與金額均未查得。三案登記日早於本次涵蓋期間的起點，因先前未收錄而一併補登。\n以下為本網頁助理補充，非來源內容：第 25 條第 1 項的說明為本網頁助理依 ICSID 公約條文所作的一般性提示，非針對本案事實的判斷。",
+   "tags": [
+    "ICSID",
+    "新登記案件",
+    "馬利",
+    "土耳其",
+    "南蘇丹",
+    "國營事業"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID：Recent Cases（近期案件）",
+     "url": "https://icsid.worldbank.org/cases/recent",
+     "official": true
+    },
+    {
+     "label": "IAReporter：Aquilon FZCO v. Republic of South Sudan and Nile Petroleum Corporation",
+     "url": "https://www.iareporter.com/arbitration-cases/aquilon-fzco-v-republic-of-south-sudan-and-nile-petroleum-corporation-nilepet-south-sudan/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-21T23:16:58+08:00"
   },
   {
    "id": "2026-10-16-arb-icsid-annual-report-2026",
