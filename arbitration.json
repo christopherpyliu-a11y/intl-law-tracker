@@ -1,13 +1,134 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-21T23:16:58+08:00",
-  "lastRunLocal": "2026-10-21 23:16",
+  "lastRun": "2026-10-22T07:10:18+08:00",
+  "lastRunLocal": "2026-10-22 07:10",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 3 則：投資仲裁 2（法院裁判 1、案件動態 1）、商務仲裁 1（評論 1）",
+  "lastRunNote": "新增 5 則：商務仲裁 2（案件動態 1、評論 1）、投資仲裁 3（仲裁判斷 1、法院裁判 1、案件動態 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
+  {
+   "id": "2026-10-21-arb-hsf-icc-2026-banking-disputes",
+   "court": "OTHER",
+   "field": "commercial",
+   "kind": "實務評論",
+   "jurisdiction": "",
+   "outlet": "HSF Kramer 仲裁評析",
+   "outletCode": "HSF",
+   "date": "2026-10-21",
+   "importance": 1,
+   "author": "Jaime de San Román、Hannah Ambrose、Cecilia Tilve、Olga Dementyeva、Devansh Agrawal（Herbert Smith Freehills Kramer）",
+   "title": "ICC 2026 年新規則能否吸引銀行金融爭議改採仲裁？作者逐項檢視高度簡易程序、擴大的緊急仲裁人制度與早期判斷",
+   "titleOriginal": "Stacking the deck: Do the new ICC rules make arbitration the winning hand for banking disputes? (Inside Arbitration Issue 22)",
+   "caseRef": "",
+   "tldr": "銀行與金融業過去偏好上法院，因為仲裁缺乏「快速追債」與「仲裁庭成立前的緊急保全」等工具。作者認為 2026 年 6 月生效的 ICC 新規則補上了這些缺口，建議借貸雙方重新檢討契約中的爭議解決條款。",
+   "context": "HSF Kramer 於 2026 年 10 月 21 日出版其刊物 Inside Arbitration 第 22 期，收錄多篇實務文章；本則僅摘要其中討論 ICC 2026 年仲裁規則與銀行金融爭議的一篇。\nICC 2026 年仲裁規則自 2026 年 6 月 1 日起適用。依作者引用的統計，銀行金融案件僅占 ICC 2025 年受理案件約 4.6%，遠低於營建、能源與運輸。",
+   "facts": [
+    "ICC 2026 年仲裁規則自 2026 年 6 月 1 日生效，新增高度簡易仲裁程序（HEAP，附件六）、擴大緊急仲裁人制度（附件四）及早期判斷（第 30 條）。",
+    "作者指出銀行金融案件在 ICC 2025 年案件量中僅約 4.6%。"
+   ],
+   "issues": [
+    "ICC 新規則的程序工具是否足以使仲裁在單純債權追討案件上與法院訴訟競爭？",
+    "非簽約方（如保證人、關係企業）能否成為緊急仲裁的對象，以及單方（ex parte）初步命令的保障機制。",
+    "非對稱爭議解決條款（貸方可選擇法院或仲裁）在各法域效力不一，對仲裁判斷執行的影響。"
+   ],
+   "holding": "・問題：金融業認為仲裁缺乏三項工具——仲裁庭成立前的保全、單純債務案件的簡易程序，以及與法院相當的速度。\n・HEAP（附件六）：由獨任仲裁人在案件管理會議後三個月內作成判斷；代價是不得追加當事人或合併、書狀與文件提出可能受限、可能不開庭，判斷理由亦可約定省略。採選擇加入制、不設金額門檻，適合單純的貸款追討。\n・緊急仲裁人（附件四第 1(2)(c) 條）：只要仲裁院院長認為某當事人「可能受仲裁協議拘束」即可對其聲請，不限簽約方，便於追及保證人或關係企業；在事先通知可能使保全落空（如脫產）時，可聲請單方初步命令，但對造須立即獲得陳述機會，緊急仲裁人亦得變更命令。\n・早期判斷（第 30 條）：當事人可聲請認定請求或抗辯「顯無理由」或「顯然不屬仲裁庭管轄」；仲裁庭較願意處理單純法律爭點，對事實密集的爭點較保守。作者認為此程序明文化後更具正當性，可用於迅速處理債務請求或消滅時效抗辯。\n・非對稱條款：英國、新加坡承認其效力；歐盟法院於 2025 年 2 月 27 日在歐盟法院間的情形予以肯認，但未及於仲裁或非歐盟法院；俄羅斯不承認，中國實務不一。若管轄依據為此類條款，仲裁在執行上的優勢可能受影響。\n・實務建議：依爭議類型、債務人所在地與資產、急迫性及保密需求選擇程序；2026 年規則未設預設保密義務，當事人須自行約定或聲請仲裁庭命令。",
+   "significance": "作者結論：新規則縮小了法院在速度、緊急保全與早期駁回上的優勢，經妥善起草的仲裁條款可同時處理單純與複雜的金融爭議；但需拘束第三人的保全或藐視法庭等強制力，法院仍有其角色。作者建議借貸雙方重新檢討標準條款，並評估是否仍有必要使用非對稱條款。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：Inside Arbitration 第 22 期另收錄 AI 與開庭實務、能源契約不可抗力、FRAND 爭議、礦業科技、國防營建爭議等文章及人物訪談，本次僅摘要與仲裁規則直接相關的本篇；人物訪談與專訪類文章未摘要。",
+   "tags": [
+    "ICC 2026 年仲裁規則",
+    "銀行金融爭議",
+    "緊急仲裁人",
+    "早期判斷",
+    "簡易程序",
+    "非對稱條款"
+   ],
+   "related": [
+    "2026-10-21-arb-icc-2026-disclosure-when-in-doubt"
+   ],
+   "sources": [
+    {
+     "label": "HSF Kramer：Stacking the deck（Inside Arbitration Issue 22）",
+     "url": "https://www.hsfkramer.com/insights/reports/2026/inside-arbitration-issue-22/stacking-the-deck",
+     "official": false
+    },
+    {
+     "label": "HSF Kramer：Inside Arbitration Issue 22",
+     "url": "https://www.hsfkramer.com/notes/arbitration/2026-10/inside-arbitration-issue-22-perspectives-on-cross-border-disputes",
+     "official": false
+    },
+    {
+     "label": "ICC：2026 Arbitration Rules",
+     "url": "https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2026-arbitration-rules/",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-22T07:10:18+08:00"
+  },
+  {
+   "id": "2026-10-21-arb-smm-cerro-verde-peru-award",
+   "court": "AWARD",
+   "field": "investment",
+   "kind": "仲裁判斷",
+   "jurisdiction": "",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-10-21",
+   "importance": 2,
+   "author": "",
+   "title": "ICSID 公開住友金屬礦山荷蘭子公司對秘魯案判斷：仲裁庭多數命秘魯賠償約 1.41 億美元，投資人選任之仲裁人部分不同意見認應賠更多",
+   "titleOriginal": "SMM Cerro Verde Netherlands B.V. v. Republic of Peru (ICSID Case No. ARB/20/14), Award (published by ICSID on 20 October 2026)",
+   "caseRef": "ICSID Case No. ARB/20/14",
+   "tldr": "秘魯稅務機關對 Cerro Verde 銅礦追徵礦業權利金及相關罰款與遲延利息，日本住友集團旗下的荷蘭股東依荷蘭－秘魯投資協定提出仲裁。報導指出，仲裁庭以多數意見命秘魯賠償約 1.41 億美元並負擔約 760 萬美元費用；ICSID 已於 10 月 20 日公開部分遮蔽的判斷。",
+   "context": "Sociedad Minera Cerro Verde S.A.A. 經營秘魯阿雷基帕附近的銅礦，1998 年與秘魯簽訂法律及租稅穩定契約。秘魯國稅機關（SUNAT）其後就該礦選礦廠處理的礦石追徵權利金，並加計罰款與遲延利息。\n持有該公司約 21% 股份的 SMM Cerro Verde Netherlands B.V.（住友金屬礦山子公司）於 2020 年依荷蘭－秘魯雙邊投資協定在 ICSID 提起仲裁。另一股東 Freeport-McMoRan 依美秘貿易促進協定提出的平行仲裁（ICSID Case No. ARB/20/8），已於 2024 年 5 月遭駁回。\n仲裁庭成員依 UNCTAD 資料庫為 C. von Wobeser、O. M. Garibaldi、J. Blanch。",
+   "facts": [
+    "SUNAT 對 Cerro Verde 追徵權利金與其他稅捐，並加計罰款及遲延利息；公司在爭議期間曾以保留異議方式繳納。",
+    "依 Mealey's 報導，投資人主張秘魯拒絕免除稅捐與權利金追徵案中的罰款，損害其投資並使其無法取得股利。",
+    "2026 年 9 月初秘魯媒體即報導仲裁結果對投資人有利；ICSID 於 2026 年 10 月 20 日公開部分遮蔽的判斷。"
+   ],
+   "issues": [
+    "地主國拒絕免除稅捐罰款與遲延利息，是否違反荷蘭－秘魯投資協定所定的投資保護義務（報導未指明具體條款）。",
+    "租稅穩定契約對股東層級投資人請求的影響。",
+    "損害賠償的計算（股利損失）與利息。"
+   ],
+   "holding": "依 Mealey's 報導：仲裁庭意見分歧，多數命秘魯賠償約 1.412 億美元，另負擔約 760 萬美元律師費及法律費用，並附加利息（利率與計算方式報導未載）；投資人選任的仲裁人提出部分不同意見，認為應判給更高金額。\n依秘魯媒體（Infobae，2026 年 9 月 7 日）報導：仲裁庭就主要稅額採納秘魯的法律解釋，但否定在稅額之外另加罰款與遲延利息；由於公司曾以保留異議方式繳納，秘魯須返還本金約 1.6 億美元及利息約 4,000 萬美元，合計近 2 億美元。",
+   "significance": "本案與 Freeport 案涉及同一礦場與同一批稅捐爭議，但結果不同，凸顯不同條約、不同股東層級請求可能導致不一致的結果。判斷公開後，秘魯可依 ICSID 公約第 52 條於判斷作成後 120 日內聲請撤銷（annulment）。秘魯另面臨多件涉稅 ICSID 案件。",
+   "editorNote": "本網頁助理 註：本則依 Mealey's（2026 年 10 月 21 日）及秘魯媒體 Infobae、El Oriente（2026 年 9 月）報導撰寫，尚未取得判斷原文；判斷作成日期報導未載明。\n本網頁助理 註：來源金額不一致——Mealey's 稱賠償約 1.412 億美元加費用 760 萬美元，Infobae 稱本金約 1.6 億美元加利息約 4,000 萬美元、合計近 2 億美元，El Oriente 稱「逾 1.4 億美元」；差異可能來自是否計入利息，請以判斷原文為準。\n以下為本網頁助理補充，非來源內容：Mealey's 報導未列出案名，本則依「荷蘭礦業投資人、稅捐與權利金罰款、股利損失」等描述及秘魯媒體報導，判斷其所指為 SMM Cerro Verde 案。仲裁庭成員依 UNCTAD 資料庫列為 C. von Wobeser、O. M. Garibaldi、J. Blanch。",
+   "tags": [
+    "ICSID",
+    "秘魯",
+    "荷蘭－秘魯投資協定",
+    "租稅措施",
+    "礦業權利金",
+    "不同意見書",
+    "損害賠償"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Mealey's：Divided ICSID Tribunal Awards Mining Investor $148M Against Peru",
+     "url": "https://www.mealeys.com/mealeys/mealeys-international-arbitration/articles/2540927",
+     "official": false
+    },
+    {
+     "label": "UNCTAD Investment Dispute Settlement Navigator：SMM Cerro Verde v. Peru",
+     "url": "https://investmentpolicy.unctad.org/investment-dispute-settlement/cases/1040/smm-cerro-v-peru",
+     "official": true
+    },
+    {
+     "label": "Infobae：Perú deberá devolver cerca de USD 200 millones a filial de Sumitomo",
+     "url": "https://www.infobae.com/peru/2026/09/07/peru-debera-devolver-cerca-de-usd-200-millones-a-filial-de-sumitomo-por-disputa-tributaria-en-cerro-verde/",
+     "official": false
+    },
+    {
+     "label": "El Oriente：Perú deberá pagar más de US$140 millones a filial de Sumitomo",
+     "url": "https://www.eloriente.com/articulo/peru-debera-pagar-mas-de-us140-millones-a-filial-de-sumitomo-por-dispu/58901",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-22T07:10:18+08:00"
+  },
   {
    "id": "2026-10-21-arb-icc-2026-disclosure-when-in-doubt",
    "court": "OTHER",
@@ -45,7 +166,8 @@
     "印度"
    ],
    "related": [
-    "2026-10-19-arb-icc-salomon-rules-norms"
+    "2026-10-19-arb-icc-salomon-rules-norms",
+    "2026-10-21-arb-hsf-icc-2026-banking-disputes"
    ],
    "sources": [
     {
@@ -60,6 +182,186 @@
     }
    ],
    "addedAt": "2026-10-21T23:16:58+08:00"
+  },
+  {
+   "id": "2026-10-20-arb-gazprom-gts-icc-guarantee-award",
+   "court": "NEWS",
+   "field": "commercial",
+   "kind": "案件動態",
+   "jurisdiction": "俄羅斯",
+   "outlet": "Investment Arbitration Reporter（依新聞報導）",
+   "outletCode": "IAR",
+   "date": "2026-10-20",
+   "importance": 1,
+   "author": "",
+   "title": "ICC 仲裁庭依母公司保證命 Gazprom 支付荷蘭天然氣輸送系統營運商約 5,400 萬歐元；俄國法院已禁止對方在外國執行該判斷",
+   "titleOriginal": "Uncovered: ICC tribunal orders Russia's Gazprom to pay 54 million EUR to Dutch gas system operator under parent company guarantee (IAReporter, 20 October 2026); Gazprom v. Gasunie Transport Services et al.（俄羅斯商事法院，2026 年 10 月 8 日）",
+   "caseRef": "",
+   "tldr": "一件 2024 年 12 月 31 日作成的 ICC 仲裁判斷內容首度曝光：仲裁庭依 Gazprom 提供的母公司保證，命其支付荷蘭天然氣輸送系統營運商 Gasunie Transport Services 約 5,400 萬歐元。Gazprom 則已在俄國法院取得禁令，禁止對方及其荷蘭律師、執行人員在外國法院追償或執行該判斷。",
+   "context": "Gasunie Transport Services（GTS）為荷蘭國營 Gasunie 的子公司，經營荷蘭天然氣輸送系統。依 IAReporter 標題，爭議源於 Gazprom 為其集團公司履約所出具的母公司保證。\n俄羅斯 2020 年修正的商事訴訟法賦予俄國法院對涉及受制裁當事人爭議的專屬管轄，並可核發禁訴（禁止仲裁）令及違反時的罰款。2024 年 3 月，聖彼得堡商事法院已應 Gazprom Export 之請，禁止 GTS 繼續其在荷蘭北部地方法院的訴訟，違反時罰款約 2.75 億歐元。",
+   "facts": [
+    "ICC 國際仲裁院的仲裁判斷作成於 2024 年 12 月 31 日（依俄國媒體引述案卷）。",
+    "依 IAReporter 標題，判斷命 Gazprom 依母公司保證支付約 5,400 萬歐元。",
+    "2026 年 10 月 8 日，俄國商事法院部分准許 Gazprom 對 GTS、荷蘭執行人員事務所 Groot & Evers 及 De Brauw Blackstone Westbroek 的請求，禁止其在外國法院對 Gazprom 提起或續行程序，並禁止執行上述 ICC 判斷；GTS 違反時須給付約 5,740 萬歐元等罰款。判決理由尚未公布。"
+   ],
+   "issues": [
+    "母公司保證的請求是否屬於仲裁協議範圍（報導未詳）。",
+    "俄國法院依其制裁相關管轄規定核發的禁止執行令，與紐約公約下外國承認執行的關係。"
+   ],
+   "holding": "仲裁判斷的理由與仲裁地、仲裁人姓名，IAReporter 未公開部分均未能取得。\n俄國法院 2026 年 10 月 8 日的裁判僅公布「部分准許」的結論，命令內容如上所述。",
+   "significance": "本案再度顯示，受制裁俄國企業在 ICC 仲裁敗訴後，會在俄國法院取得禁止仲裁、禁止執行令並以高額罰款施壓，使債權人必須在俄國以外尋找可供執行的資產；荷蘭方面的承認執行程序仍值得關注。",
+   "editorNote": "本網頁助理 註：IAReporter 報導為付費內容，本則僅取得標題、日期與作者（Hristina Todorovic）；仲裁判斷日期與俄國法院裁判內容依俄國媒體 ABN、SMART-LAB（引述 Prime/RIA Novosti）撰寫，尚未取得判斷或判決原文。俄國媒體將 Groot & Evers 稱為律師事務所，但其名稱顯示為荷蘭執行人員（gerechtsdeurwaarder）事務所。\n以下為本網頁助理補充，非來源內容：俄國媒體所稱禁止執行的「ICC 判斷」與 IAReporter 報導的 5,400 萬歐元判斷，依當事人與時間推斷應為同一判斷，但來源並未明言。",
+   "tags": [
+    "ICC",
+    "Gazprom",
+    "母公司保證",
+    "禁訴令",
+    "制裁",
+    "承認與執行"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "IAReporter：ICC tribunal orders Russia's Gazprom to pay 54 million EUR to Dutch gas system operator",
+     "url": "https://www.iareporter.com/articles/uncovered-icc-tribunal-orders-russias-gazprom-to-pay-54-million-eur-to-dutch-gas-system-operator-under-parent-company-guarantee/",
+     "official": false
+    },
+    {
+     "label": "ABN：Суд запретил Gasunie Transport Services и юрфирмам споры против Газпрома（2026-10-08）",
+     "url": "https://abn.agency/2026/10/08/sud-zapretil-gasunie-transport-services-i-yurfirmam-spory-protiv-gazproma/",
+     "official": false
+    },
+    {
+     "label": "SMART-LAB：Суд частично удовлетворил иск Газпрома к Gasunie Transport Services",
+     "url": "https://smart-lab.ru/blog/news/1360545.php",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-22T07:10:18+08:00"
+  },
+  {
+   "id": "2026-10-20-arb-jordan-security-costs-set-aside",
+   "court": "COURT",
+   "field": "investment",
+   "kind": "法院裁判",
+   "jurisdiction": "荷蘭",
+   "outlet": "Investment Arbitration Reporter（依新聞報導）",
+   "outletCode": "IAR",
+   "date": "2026-10-20",
+   "importance": 1,
+   "author": "",
+   "title": "約旦聲請撤銷水壩工程投資條約仲裁判斷，荷蘭法院命約旦先提供訴訟費用擔保",
+   "titleOriginal": "Dutch court orders Jordan to post security for costs in proceedings seeking set-aside of UNCITRAL construction award (IAReporter, 20 October 2026); Gruner Stucky Ltd and Bernard Gruppe ZT GmbH v. Jordan (PCA Case No. 2022-08)",
+   "caseRef": "PCA Case No. 2022-08",
+   "tldr": "瑞士與奧地利的工程顧問公司依投資協定控告約旦並取得仲裁判斷，約旦向仲裁地荷蘭的法院聲請撤銷。報導指出，荷蘭法院命約旦在撤銷程序中先提供訴訟費用擔保。",
+   "context": "Gruner Stucky Ltd（瑞士）與 Bernard Gruppe ZT GmbH（奧地利）於 2021 年 5 月 20 日依瑞士－約旦（2001 年）及奧地利－約旦（2001 年）雙邊投資協定，按 1976 年 UNCITRAL 仲裁規則對約旦提起仲裁，由常設仲裁法院（PCA）提供行政協助，仲裁地為荷蘭。仲裁庭由 Christopher Greenwood（主任仲裁人）、Stephan Schill、Hadi Slim 組成。爭議涉及營建（水壩工程）領域。\nPCA 案件頁面顯示本案已終結；IAReporter 案件頁面顯示「撤銷程序進行中」。",
+   "facts": [
+    "本案仲裁已作成判斷（判斷日期與內容未能取得），約旦在荷蘭法院聲請撤銷。",
+    "依 IAReporter 文件目錄，海牙上訴法院於 2026 年 10 月 13 日作成命令；IAReporter 於 10 月 20 日報導荷蘭法院命約旦提供訴訟費用擔保。"
+   ],
+   "issues": [
+    "在荷蘭撤銷仲裁判斷程序中，外國國家作為聲請人時，可否被命提供訴訟費用擔保（荷蘭民事訴訟法上的外國原告擔保制度）。"
+   ],
+   "holding": "擔保金額與法院理由未能取得。",
+   "significance": "命主權國家為撤銷程序提供費用擔保並不常見；若約旦未依命提供擔保，其撤銷程序可能受影響。荷蘭是投資條約仲裁的主要仲裁地之一，本裁定對以荷蘭為仲裁地、由國家發動撤銷程序的案件具有參考意義。",
+   "editorNote": "本網頁助理 註：IAReporter 與 Global Arbitration Review（Jordan challenges treaty award in dam dispute）均為付費內容，本則僅依其標題、IAReporter 文件目錄及 PCA 案件頁面撰寫，尚未取得法院裁定原文，亦未能確認判斷金額與擔保金額。IAReporter 標題稱為「UNCITRAL 營建判斷」，但 PCA 頁面顯示本案依兩項雙邊投資協定提起，故歸入投資仲裁。",
+   "tags": [
+    "撤銷仲裁判斷",
+    "訴訟費用擔保",
+    "荷蘭",
+    "約旦",
+    "PCA",
+    "UNCITRAL 仲裁規則"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "PCA 案件頁面：Gruner Stucky and Bernard Gruppe v. Jordan（PCA Case No. 2022-08）",
+     "url": "https://pca-cpa.org/en/cases/278/",
+     "official": true
+    },
+    {
+     "label": "IAReporter：Dutch court orders Jordan to post security for costs",
+     "url": "https://www.iareporter.com/articles/dutch-court-orders-jordan-to-post-security-for-costs-in-proceedings-seeking-set-aside-of-uncitral-construction-award/",
+     "official": false
+    },
+    {
+     "label": "IAReporter 案件頁面：Stucky & Bernard Gruppe v. Jordan",
+     "url": "https://www.iareporter.com/arbitration-cases/stucky-bernard-gruppe-v-jordan/",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review：Jordan challenges treaty award in dam dispute",
+     "url": "https://globalarbitrationreview.com/article/jordan-challenges-treaty-award-in-dam-dispute",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-22T07:10:18+08:00"
+  },
+  {
+   "id": "2026-10-20-arb-suffolk-portugal-annulment",
+   "court": "NEWS",
+   "field": "investment",
+   "kind": "案件動態",
+   "jurisdiction": "",
+   "outlet": "Investment Arbitration Reporter（依新聞報導）",
+   "outletCode": "IAR",
+   "date": "2026-10-20",
+   "importance": 1,
+   "author": "",
+   "title": "新聖靈銀行（BES）處置案：投資基金不服 ICSID 仲裁庭以無管轄權駁回對葡萄牙的請求，聲請撤銷判斷",
+   "titleOriginal": "Banking investors file for annulment of award that declined jurisdiction over treaty claim against Portugal (IAReporter, 20 October 2026); Suffolk (Mauritius) Limited, Mansfield (Mauritius) Limited and Silver Point Mauritius v. Portuguese Republic (ICSID Case No. ARB/22/28), Award of 12 June 2026",
+   "caseRef": "ICSID Case No. ARB/22/28",
+   "tldr": "多檔以模里西斯公司名義投資的不良資產基金，因葡萄牙央行 2015 年將部分 Novo Banco 債券轉回「壞銀行」BES 而受損，依模里西斯－葡萄牙投資協定求償約 2.6 億歐元。仲裁庭 2026 年 6 月認定無管轄權，投資人現已聲請撤銷該判斷。",
+   "context": "2014 年葡萄牙央行對 Banco Espírito Santo（BES）採取處置措施，將優質資產移轉至新設的 Novo Banco；2015 年 12 月又決定將部分 Novo Banco 優先債券轉回 BES，持有該債券的投資人因而受損。\nSuffolk、Mansfield 與 Silver Point 三家模里西斯公司（葡萄牙媒體報導與 Elliott 等不良資產基金有關）於 2022 年依 1997 年模里西斯－葡萄牙雙邊投資協定向 ICSID 提起仲裁。仲裁庭由 Jeremy K. Sharpe（主席）、Brigitte Stern、Stephan W. Schill 組成，2024 年 3 月決定將葡萄牙的六項管轄權抗辯（投資人適格、投資適格、投資違法、爭議發生後才取得投資、濫用程序、岔路條款）先行審理。",
+   "facts": [
+    "仲裁庭於 2026 年 6 月 12 日作成判斷，認定無管轄權而駁回請求；請求金額約 2.6 億歐元（葡萄牙媒體報導）。",
+    "IAReporter 於 2026 年 10 月 20 日報導投資人已聲請撤銷該判斷。"
+   ],
+   "issues": [
+    "仲裁庭據以否定管轄權的理由（報導未載明係採納哪一項抗辯）。",
+    "撤銷理由（ICSID 公約第 52 條）。"
+   ],
+   "holding": "仲裁庭判斷理由與撤銷聲請內容未能取得。",
+   "significance": "ICSID 秘書長登錄撤銷聲請後，將組成三人特別委員會（ad hoc committee）審理；撤銷程序僅審查公約第 52 條所列的有限事由，並非上訴。本案為歐洲銀行處置措施引發的投資條約爭議之一。",
+   "editorNote": "本網頁助理 註：IAReporter 報導為付費內容，本則僅取得標題與日期；判斷日期依 Jus Mundi 文件標題，背景依葡萄牙 ECO 報導（2026 年 6 月 16 日）及 italaw 所載第 3 號程序令撰寫，尚未取得判斷原文與撤銷聲請書，撤銷聲請提出日期亦未確認。",
+   "tags": [
+    "ICSID",
+    "撤銷（annulment）",
+    "第52條",
+    "葡萄牙",
+    "銀行處置",
+    "管轄權"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "IAReporter：Banking investors file for annulment of award … against Portugal",
+     "url": "https://www.iareporter.com/articles/banking-investors-file-for-annulment-of-award-that-declined-jurisdiction-over-treaty-claim-against-portugal/",
+     "official": false
+    },
+    {
+     "label": "Jus Mundi：Suffolk and others v. Portugal, Award, 12 June 2026",
+     "url": "https://jusmundi.com/en/document/decision/en-suffolk-mauritius-limited-mansfield-mauritius-limited-and-silver-point-mauritius-v-portuguese-republic-award-friday-12th-june-2026",
+     "official": false
+    },
+    {
+     "label": "italaw：Suffolk and others v. Portugal（ICSID Case No. ARB/22/28）",
+     "url": "https://www.italaw.com/cases/10053",
+     "official": false
+    },
+    {
+     "label": "ICSID 第 3 號程序令（分階段審理，2024-03-01）",
+     "url": "https://www.italaw.com/sites/default/files/case-documents/180764.pdf",
+     "official": false
+    },
+    {
+     "label": "ECO：Portugal vence processo milionário movido por fundos no caso da resolução do BES",
+     "url": "https://eco.sapo.pt/2026/06/16/portugal-vence-processo-milionario-movido-por-fundos-no-caso-da-resolucao-do-bes/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-22T07:10:18+08:00"
   },
   {
    "id": "2026-10-20-arb-sep-sme-safeguards",
