@@ -1,16 +1,18 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-21T07:18:47+08:00",
-  "lastRunLocal": "2026-10-21 07:18",
-  "coverageFrom": "2026-10-10",
-  "lastRunNote": "本次未發現新動態"
+  "lastRun": "2026-10-21T11:18:27+08:00",
+  "lastRunLocal": "2026-10-21 11:18",
+  "coverageFrom": "2026-10-01",
+  "lastRunNote": "新增投資條約仲裁 8 則（2026 年 10 月 1 日起）：仲裁判斷 2、機構 1、立法 1、評論 4。",
+  "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
   {
    "id": "2026-10-20-arb-sep-sme-safeguards",
    "court": "OTHER",
    "kind": "實務評論",
+   "field": "commercial",
    "jurisdiction": "",
    "outlet": "Kluwer Arbitration Blog",
    "outletCode": "KAB",
@@ -57,6 +59,7 @@
    "id": "2026-10-19-arb-bgh-third-party-notice-arbitrator",
    "court": "COURT",
    "kind": "法院裁判",
+   "field": "commercial",
    "jurisdiction": "德國",
    "outlet": "Daily Jus",
    "outletCode": "DJ",
@@ -110,6 +113,7 @@
    "id": "2026-10-19-arb-icc-salomon-rules-norms",
    "court": "INST",
    "kind": "機構動態",
+   "field": "commercial",
    "jurisdiction": "",
    "outlet": "ICC 國際商會",
    "outletCode": "ICC",
@@ -167,13 +171,14 @@
    "id": "2026-10-18-arb-aaw-geopolitics-space",
    "court": "OTHER",
    "kind": "實務評論",
+   "field": "commercial",
    "jurisdiction": "",
    "outlet": "Kluwer Arbitration Blog",
    "outletCode": "KAB",
    "date": "2026-10-18",
    "importance": 1,
    "author": "Erin Page（HSF Kramer）；Marco Paoletti、Fiona Xia（Corrs Chambers Westgarth）",
-   "title": "澳洲仲裁週紀要：地緣政治、國家安全與太空產業，正在製造新一代商務仲裁",
+   "title": "澳洲仲裁週紀要：地緣政治、國家安全與太空產業，正在製造新一代商務與投資仲裁",
    "titleOriginal": "2026 Australian Arbitration Week Recap: Code, Copper and Carbon: Geopolitics and National Security Driving Arbitrations / Arbitration Beyond Borders: Resolving Disputes in the New Space Economy",
    "caseRef": "",
    "tldr": "兩場澳洲仲裁週座談的共同結論：國家干預與供應鏈安全的考量，讓許多商務爭議實質上成為地緣政治爭議，當事人開始把類似投資條約的保障寫進契約；太空產業的爭議大多仍是一般商務契約問題，仲裁因具保密性而適合處理。",
@@ -189,9 +194,9 @@
     "地緣政治與國家安全措施如何轉化為契約當事人之間的爭議。",
     "太空活動相關商務爭議的類型、舉證與準據法問題。"
    ],
-   "holding": "・Erin Page（10 月 15 日）：HSF Kramer 合夥人 Gitta Satryani 指出，許多商務爭議實際上是地緣政治爭議；當事人把類似投資條約的保障引入契約、選擇境外或中立的爭議解決地，穩定條款重新出現，正當期待、公平公正待遇等概念被寫成契約權利，經濟專家也更早介入。與國營企業的合資常因合作方不願挑戰政府措施而產生治理爭議；資料中心的股東爭議則涉及優先承購權、估值、僵局與賣權。\n・Marco Paoletti、Fiona Xia（10 月 18 日）：太空條約以國家為中心，《外太空條約》沒有爭議解決機制；國家間機制在當前地緣政治下效果有限，且不適合商務爭議，因此多數爭議預期將進入商務仲裁或訴訟，主題包括供應鏈中斷、契約爭議、設備損失與營運者責任。太空碰撞與碎片造成的損害難以證明與量化；智慧財產與資料權利在無國家管轄的太空如何適用仍不明確；契約應分配監管成本與風險。",
+   "holding": "・Erin Page（10 月 15 日）：HSF Kramer 合夥人 Gitta Satryani 指出，許多商務爭議實際上是地緣政治爭議；當事人把類似投資條約的保障引入契約、選擇境外或中立的爭議解決地，穩定條款重新出現，正當期待、公平公正待遇等概念被寫成契約權利，經濟專家也更早介入。與國營企業的合資常因合作方不願挑戰政府措施而產生治理爭議；資料中心的股東爭議則涉及優先承購權、估值、僵局與賣權。\n・Erin Page 一文的投資仲裁部分：HSF Kramer 的 Imogen Kenny-Bartlett 指出，資源民族主義正針對關鍵礦產，且待遇因投資人國籍而異，舉 Cadence Minerals v Mexico（ICSID ARB/26/36，涉及墨西哥鋰業國有化）與 AVZ v DRC（據報導剛果扣住澳洲鋰礦公司的採礦權並改授中國企業）；能源方面舉 PDVSA v Jamaica（據報導涉及煉油廠權益遭強制收購）與 LITASCO v Bulgaria（據報導涉及保加利亞為 Lukoil 煉油廠指派特別管理人，並有條約求償威脅）；科技方面舉 Huawei v Sweden 與 Hikvision v Canada（國家安全限制外國科技供應商）。她認為出口管制與能源安全措施若嚴重影響外國投資人，或具歧視性、恣意性，可能引發求償；資料中心則面臨許可遭拒、電網接入限制、資料在地化、稅制變更與優惠撤回等主權風險。\n・Marco Paoletti、Fiona Xia（10 月 18 日）：太空條約以國家為中心，《外太空條約》沒有爭議解決機制；國家間機制在當前地緣政治下效果有限，且不適合商務爭議，因此多數爭議預期將進入商務仲裁或訴訟，主題包括供應鏈中斷、契約爭議、設備損失與營運者責任。太空碰撞與碎片造成的損害難以證明與量化；智慧財產與資料權利在無國家管轄的太空如何適用仍不明確；契約應分配監管成本與風險。",
    "significance": "兩文結論相近：國家干預驅動的爭議（無論是私人之間或投資人與國家之間）將形塑下一代國際仲裁；所謂「太空法」在實務上多半仍是傳統商務法與爭議解決，加上日益增加的國內監管。",
-   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：本則合併同一系列兩篇撰寫。第一篇也討論多件投資人對國家的仲裁案（如 Cadence Minerals v Mexico、Huawei v Sweden），依本網站收錄範圍未予摘要。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：本則合併同一系列兩篇撰寫；第一篇中有關投資人對國家仲裁的討論，於本網站納入投資仲裁後補入。同系列談礦業投資估價的一篇另列一則（見「相關動態」）。",
    "tags": [
     "地緣政治",
     "國家安全",
@@ -202,7 +207,8 @@
     "澳洲仲裁週"
    ],
    "related": [
-    "2026-10-17-arb-repudiation-arbitration-agreement"
+    "2026-10-17-arb-repudiation-arbitration-agreement",
+    "2026-10-16-arb-aaw-valuing-mining-projects"
    ],
    "sources": [
     {
@@ -222,6 +228,7 @@
    "id": "2026-10-17-arb-repudiation-arbitration-agreement",
    "court": "OTHER",
    "kind": "實務評論",
+   "field": "commercial",
    "jurisdiction": "英國、澳洲",
    "outlet": "Kluwer Arbitration Blog",
    "outletCode": "KAB",
@@ -246,7 +253,7 @@
    ],
    "holding": "・違約不等於毀約：違反有效仲裁協議起訴，只有在當事人已不願受其拘束時才構成毀約；此一意思須由明確、毫不含糊的行為顯示，有真誠理由上法院者通常不構成。\n・可分離原則：主契約毀約不當然毀棄仲裁協議；仲裁協議是否遭毀棄，依其自身的準據法判斷，未必與主契約相同。\n・Olbourne 認為，不理會仲裁通知、拒付機構預付金、管轄權敗訴後退出、不遵守文件揭露命令，都不太可能構成毀約。\n・損害與費用：英國法上違反仲裁協議的損害賠償已確立，通常是外國訴訟的費用，可在外國法院或以仲裁損害賠償取回，但不得重複；澳洲法較不確定，但依 Pipeline Services v ATCO Gas [2014] WASC 10 (S)、Sino Dragon v Noble Resources (No 2) [2015] FCA 1046，違約起訴而被停止時，相對人通常可依彌償基準取得費用。",
    "significance": "作者結論：仲裁協議是契約，適用一般毀約原則；採取不理會仲裁條款的行動時應通知對方；起草時可考慮為仲裁協議另訂準據法。多數情況下，「不是我、是你」的說法不會讓關係就此結束。",
-   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：本文是 Kluwer Arbitration Blog「2026 年澳洲仲裁週紀要」系列之一；同系列中與本網站收錄範圍相符的另兩篇併為另一則（見「相關動態」），談礦業投資徵收估價的一篇屬投資仲裁，未收錄。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：本文是 Kluwer Arbitration Blog「2026 年澳洲仲裁週紀要」系列之一；同系列其他文章見「相關動態」。",
    "tags": [
     "毀約",
     "仲裁協議",
@@ -257,7 +264,8 @@
     "澳洲仲裁週"
    ],
    "related": [
-    "2026-10-18-arb-aaw-geopolitics-space"
+    "2026-10-18-arb-aaw-geopolitics-space",
+    "2026-10-16-arb-aaw-valuing-mining-projects"
    ],
    "sources": [
     {
@@ -269,9 +277,169 @@
    "addedAt": "2026-10-20T11:01:53+08:00"
   },
   {
+   "id": "2026-10-16-arb-icsid-annual-report-2026",
+   "court": "INST",
+   "kind": "機構動態",
+   "field": "investment",
+   "jurisdiction": "",
+   "outlet": "ICSID",
+   "outletCode": "ICSID",
+   "date": "2026-10-16",
+   "importance": 1,
+   "author": "",
+   "title": "ICSID 2026 年度報告：管理案件 363 件創新高，選任仲裁人國籍多達 52 國，新加坡與巴黎辦公室啟用",
+   "titleOriginal": "ICSID Publishes 2026 Annual Report, Highlighting Institutional Developments",
+   "caseRef": "",
+   "tldr": "ICSID 公布 2026 會計年度（2025 年 7 月至 2026 年 6 月）年報：新登記 60 件、管理 363 件（單一年度最多）、結案 83 件；同年在新加坡與巴黎設立首批華府以外的辦公室。年報於 10 月 16 日在曼谷舉行的行政理事會年會通過。",
+   "context": "ICSID（解決投資爭端國際中心）隸屬世界銀行集團，是投資人與國家間仲裁最主要的機構。年報由各締約國代表組成的行政理事會審議通過。",
+   "facts": [
+    "新登記案件 60 件；管理案件 363 件，為單一年度最高；結案 83 件，為史上第二高。",
+    "選任 250 人次，為史上第二高；被選任者來自 52 個國籍，為歷來最多。",
+    "宏都拉斯於 2026 年 3 月 6 日簽署 ICSID 公約，成為第 166 個簽署國。",
+    "ICSID 於新加坡與巴黎設立首批華府以外的常駐辦公室；Gabriela Álvarez Ávila 當選副秘書長。",
+    "2026 年 6 月發表首份以契約為基礎的 ICSID 仲裁研究，附專題案件統計及修訂後的契約範本條款。",
+    "全年辦理逾 180 場推廣與能力建構活動，觸及 90 多國官員，其中 50 場以調解為主題。",
+    "行政理事會於 10 月 16 日在曼谷舉行第 60 屆年會，通過年報與 2027 會計年度預算。"
+   ],
+   "issues": [],
+   "holding": "・案件量：管理中案件數創新高，結案數為史上第二高。\n・組織：首次在華府以外設立常駐辦公室，並強化與世界銀行集團其他機構的合作。\n・服務：推出契約型仲裁研究與修訂範本條款，並持續推廣調解。",
+   "significance": "數據顯示投資仲裁的案件量仍在高檔。新加坡辦公室的設立，也使亞太當事人在程序管理與開庭安排上更接近 ICSID。",
+   "editorNote": "本網頁助理 註：本則依 ICSID 新聞稿撰寫；新聞稿未提供調解、附加便利規則（Additional Facility）或 UNCITRAL 案件的分項數字。",
+   "tags": [
+    "ICSID",
+    "年度報告",
+    "案件統計",
+    "仲裁人多元性",
+    "新加坡"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 新聞稿：ICSID Publishes 2026 Annual Report",
+     "url": "https://icsid.worldbank.org/news-and-events/news-releases/icsid-publishes-2026-annual-report-highlighting-institutional",
+     "official": true
+    },
+    {
+     "label": "ICSID 年度報告",
+     "url": "https://icsid.worldbank.org/resources/publications/icsid-annual-report",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-21T11:18:27+08:00"
+  },
+  {
+   "id": "2026-10-16-arb-uncitral-wg3-55th-session",
+   "court": "LAW",
+   "kind": "立法動態",
+   "field": "investment",
+   "jurisdiction": "",
+   "outlet": "UNCITRAL 第三工作組",
+   "outletCode": "UNCITRAL",
+   "date": "2026-10-16",
+   "importance": 1,
+   "author": "",
+   "title": "UNCITRAL 投資爭端改革工作組第 55 屆會議：處理賠償計算指引、利息條款與剩餘程序條款",
+   "titleOriginal": "UNCITRAL Working Group III (Investor-State Dispute Settlement Reform), 55th session, Vienna, 12–16 October 2026",
+   "caseRef": "",
+   "tldr": "聯合國國際貿易法委員會負責投資人與國家間爭端解決（ISDS）改革的第三工作組，10 月 12 日至 16 日在維也納開會，議題包括賠償計算指引、修訂後的第 20 條草案（涉及利息），以及其餘程序與橫向議題條款。會議報告尚未公布。",
+   "context": "依 IISD 報導，UNCITRAL 委員會於 2026 年 7 月第 59 屆會議定案《國際投資爭端解決諮詢中心規約》草案並送聯合國大會，另通過《解決國際投資爭端程序補充規定》作為獨立文件；常設第一審與上訴法庭的規約草案仍在工作組協商，IISD 並稱工作組已進入最後一年。\n2026 年 3 月的第 54 屆會議討論常設投資法庭、常設上訴法庭規約草案及常設機制的結構設計。",
+   "facts": [
+    "議程文件：附註臨時議程（A/CN.9/WG.III/WP.266）。",
+    "剩餘的程序與橫向議題條款草案（WP.267）。",
+    "修訂後的第 20 條草案（WP.268）；依 Marzal 的評論，此條草案規定利息原則上採無風險利率，並要求請求複利者須具體說明理由。",
+    "賠償與補償計算指引草案（WP.255），以及 ICLRC 對此提出的意見。",
+    "越南與奈及利亞的共同提案（WP.261），以及越南提交的第十次閉會期間會議摘要（WP.272）。",
+    "每日討論摘要以 A/CN.9/WG.III/LV/CRP.1 及其增編公布。"
+   ],
+   "issues": [
+    "ISDS 賠償與利息計算是否應有統一指引，以及利率與複利的預設規則。",
+    "常設投資法庭與上訴機制能否在工作組期限內完成。"
+   ],
+   "holding": "・依工作組網頁所列文件，本屆會議聚焦於賠償計算指引與剩餘程序條款，未列常設機制、上訴機制、諮詢中心或行為守則。\n・會議結論須待會議報告公布後才能確認。",
+   "significance": "若利息採無風險利率、複利須另行舉證的草案獲得支持，將直接影響未來投資仲裁的賠償金額。IISD 評論認為目前通過的成果多屬「表面改革」，未觸及 ISDS 的根本結構。",
+   "editorNote": "本網頁助理 註：會議報告尚未公布，本則依 UNCITRAL 工作組網頁所列文件與 IISD 報導撰寫；各議程項目是依文件標題整理，第 20 條草案的內容則依 Marzal 在 EJIL:Talk! 的評論。",
+   "tags": [
+    "UNCITRAL",
+    "第三工作組",
+    "ISDS改革",
+    "賠償",
+    "利息",
+    "常設投資法庭"
+   ],
+   "related": [
+    "2026-10-07-arb-ejil-runaway-interest-isds"
+   ],
+   "sources": [
+    {
+     "label": "UNCITRAL 第三工作組（ISDS 改革）網頁",
+     "url": "https://uncitral.un.org/en/working_groups/3/Investor-State",
+     "official": true
+    },
+    {
+     "label": "IISD Investment Treaty News：UNCITRAL Finalizes Advisory Centre Statute and Adopts New ISDS Procedural Provisions",
+     "url": "https://www.iisd.org/itn/2026/09/09/uncitral-finalizes-advisory-centre-statute-and-adopts-new-isds-procedural-provisions/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-21T11:18:27+08:00"
+  },
+  {
+   "id": "2026-10-16-arb-aaw-valuing-mining-projects",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "investment",
+   "jurisdiction": "",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-10-16",
+   "importance": 1,
+   "author": "Arian Pashah（Clifford Chance）",
+   "title": "還沒開採就被徵收的礦，怎麼估價？澳洲仲裁週座談：沉沒成本乘數、可比交易與現金流折現的取捨",
+   "titleOriginal": "2026 Australian Arbitration Week Recap: Exploration to Expropriation: Valuing Mining Projects in International Arbitration",
+   "caseRef": "",
+   "tldr": "地主國徵收尚未投產的礦場時，投資人很難證明未來一定獲利。座談整理三種估價方法：沉沒成本（可乘以 1 至 5 倍的「前景乘數」）、可比交易，以及須有可行性研究支撐的現金流折現；並討論國家風險溢酬、訴訟資金與保險。",
+   "context": "本文為 2026 年澳洲仲裁週紀要，座談於 10 月 14 日由 Clifford Chance 主辦，主持人為 Elliot Luke，與談人包括 Alvarez & Marsal 的 Campbell Jaski、奈洛比國際仲裁中心執行長 Henry Murigi、Toremis Specialty 的 Susanna Taylor 及 Clifford Chance 的 Vlada Lemaic。依文中數據，澳洲企業已提起約 35 件投資人對國家仲裁，多數涉及礦業。",
+   "facts": [
+    "賠償原則依常設國際法院 Chorzów 工廠案與國際法委員會國家責任條款採完全賠償，包括所受損害（沉沒成本）與所失利益。",
+    "Crystallex v Venezuela 案以前瞻性估價判給尚未投產的礦場約 12 億美元，被視為此類資產估價的主要先例。",
+    "Indiana Resources v Tanzania 是唯一已公開、對沉沒成本適用前景乘數的判斷。",
+    "國家風險溢酬可使折現率增加 5% 至 15%；澳洲 VALMIN、加拿大 CIMVAL、南非 SAMVAL 等估價準則提供方法指引。",
+    "非洲有 54 個法域、約占全球 30% 的礦產資源；至少 170 家澳洲上市礦業公司在約 35 個非洲國家營運。"
+   ],
+   "issues": [
+    "尚未投產的礦場被徵收時，所失利益能否以足夠確定性證明。",
+    "國家風險與社會風險（抗議、土地爭議）應否計入折現率，是否與其他因素重複計算。"
+   ],
+   "holding": "・沉沒成本法反映已投入的探勘費用，但可能低估損失，因此可乘以 1 至 5 倍的前景乘數，考量地質、鐵路或港口條件及地主國穩定性，但適用帶有主觀性。\n・可比交易法的難點在於選擇比較對象，例如地表下 1 公尺與 400 公尺的金礦經濟條件截然不同。\n・現金流折現法須有可行性研究與資源量、儲量聲明支撐，早期探勘案多半欠缺。\n・國家風險溢酬依主權違約指標計算，衡量的是政府風險而非礦場本身風險；以美元在國際市場銷售的礦場，或可採較低溢酬。\n・訴訟資金方通常只資助約 10% 的求償金額，以沉沒成本為底線、多不考慮乘數；保險產品包括敗訴費用保險、判斷不履行保險等。",
+   "significance": "座談結論：能取回沉沒成本、其倍數或完整的所失利益，取決於專案階段、可行性研究的品質，以及仲裁庭對獲利可能性的判斷。投資人應同步保存營運計畫，並留存與地主國政府的往來紀錄。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：本文是 Kluwer Arbitration Blog「2026 年澳洲仲裁週紀要」系列之一，同系列其他文章見「相關動態」。",
+   "tags": [
+    "投資條約仲裁",
+    "損害賠償",
+    "估價",
+    "徵收",
+    "礦業",
+    "第三方資助",
+    "澳洲仲裁週"
+   ],
+   "related": [
+    "2026-10-17-arb-repudiation-arbitration-agreement",
+    "2026-10-18-arb-aaw-geopolitics-space"
+   ],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 原文",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/2026-australian-arbitration-week-recap-exploration-to-expropriation-valuing-mining-projects-in-international-arbitration/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-21T11:18:27+08:00"
+  },
+  {
    "id": "2026-10-16-arb-turkiye-award-enforcement",
    "court": "OTHER",
    "kind": "實務評論",
+   "field": "commercial",
    "jurisdiction": "土耳其",
    "outlet": "Daily Jus",
    "outletCode": "DJ",
@@ -320,6 +488,7 @@
    "id": "2026-10-16-arb-icc-fidic-construction-experts",
    "court": "OTHER",
    "kind": "實務評論",
+   "field": "commercial",
    "jurisdiction": "",
    "outlet": "ICC 國際商會（客座部落格）",
    "outletCode": "ICC",
@@ -367,9 +536,56 @@
    "addedAt": "2026-10-20T11:01:53+08:00"
   },
   {
+   "id": "2026-10-15-arb-ejil-fridman-luxembourg-chill",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "field": "investment",
+   "jurisdiction": "",
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "date": "2026-10-15",
+   "importance": 1,
+   "author": "Güneş Ünüvar（英國艾克斯特大學）",
+   "title": "投資仲裁成了「贖金」？受制裁富商 Fridman 對盧森堡求償 160 億美元後，盧森堡轉而支持將他移出歐盟制裁名單",
+   "titleOriginal": "Investment Arbitration as Ransom? The EU Sanctions Regime and Administrative Chill",
+   "caseRef": "",
+   "tldr": "俄羅斯富商 Fridman 以資產遭凍結構成間接徵收為由，依比盧經濟聯盟與蘇聯的投資協定向盧森堡求償約 160 億美元。他在 2026 年 9 月被移出歐盟制裁名單，而盧森堡事前曾支持除名。作者認為仲裁風險很可能是重要因素，並提出「行政寒蟬」概念：制度本身不變，但對個別人的適用因仲裁壓力而改變。",
+   "context": "Fridman 於 2024 年依 1989 年比利時—盧森堡經濟聯盟與蘇聯投資協定提起仲裁，主張制裁導致的資產凍結（包括其持有的 LetterOne 37.9% 股權）構成間接徵收；這是盧森堡已知的第一件投資條約仲裁。他另於 2025 年 3 月對荷蘭提起類似仲裁。\n歐盟普通法院曾於 Fridman v Council 案（T-304/22，2024 年 4 月 10 日）撤銷其 2022 年 2 月至 2023 年 3 月的列名，認為證據不足以支持列名標準。",
+   "facts": [
+    "Fridman 於 2026 年 9 月 22 日被移出歐盟制裁名單；據報導，盧森堡事前支持除名。",
+    "盧森堡總理 Frieden 表示，政府原本支持延續制裁，在法國要求調整名單（特別是 Usmanov）後重新考慮，並提到「重大國家利益」及避免國家受損。",
+    "求償額約 160 億美元，作者估計約為盧森堡 2025 年 GDP 的 16%。"
+   ],
+   "issues": [
+    "投資仲裁的求償壓力，是否影響國家在歐盟制裁決策中的立場（寒蟬效應）。",
+    "受制裁者能否以投資協定挑戰制裁措施，以及這對歐盟共同制裁制度的影響。"
+   ],
+   "holding": "・時間點顯示仲裁風險可能影響了盧森堡的轉向，但作者明言無法證明其動機，且法國推動 Usmanov 除名也是因素。\n・一般所稱的「監管寒蟬」是國家因擔心求償而放棄或弱化公益措施；作者另提出「行政寒蟬」：制度維持不變，但對特定個人的適用改變。\n・即使是富裕國家也可能受影響：求償金額相對於國家經濟規模龐大，有能力應訴不等於願意承擔敗訴後果。\n・除名不會終結仲裁：美國與英國的制裁仍在，盧森堡仍面臨潛在責任，留下談判空間。\n・其他受制裁投資人可能仿效，形成「潘朵拉的盒子」；投資仲裁並未讓這類爭議去政治化，反而回饋到歐盟制裁政治中。",
+   "significance": "作者提醒，國家在評估支持除名的利弊時，應考慮引發仿效求償的風險；若仲裁責任的威脅一再換來制裁鬆綁，將形成類似「贖金」的動態，並可能擴及歐盟以外、只要有可援用的投資協定的國家。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：文章未說明本案的仲裁機構與程序現況；依讀者留言，目前沒有公開的管轄權或實體決定。",
+   "tags": [
+    "投資條約仲裁",
+    "制裁",
+    "間接徵收",
+    "寒蟬效應",
+    "盧森堡",
+    "歐盟"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/investment-arbitration-as-ransom-the-eu-sanctions-regime-and-administrative-chill/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-21T11:18:27+08:00"
+  },
+  {
    "id": "2026-10-15-arb-chile-ultra-petita",
    "court": "COURT",
    "kind": "法院裁判",
+   "field": "commercial",
    "jurisdiction": "智利",
    "outlet": "Daily Jus",
    "outletCode": "DJ",
@@ -423,6 +639,7 @@
    "id": "2026-10-14-arb-ai-record-too-big",
    "court": "OTHER",
    "kind": "實務評論",
+   "field": "commercial",
    "jurisdiction": "",
    "outlet": "Kluwer Arbitration Blog",
    "outletCode": "KAB",
@@ -470,6 +687,7 @@
    "id": "2026-10-13-arb-scc-express-dispute-assessment",
    "court": "INST",
    "kind": "實務評論",
+   "field": "commercial",
    "jurisdiction": "",
    "outlet": "Kluwer Arbitration Blog",
    "outletCode": "KAB",
@@ -517,6 +735,7 @@
    "id": "2026-10-12-arb-hk-asi-prc-proceedings",
    "court": "COURT",
    "kind": "法院裁判",
+   "field": "commercial",
    "jurisdiction": "香港",
    "outlet": "HSF Kramer 仲裁評析",
    "outletCode": "HSF",
@@ -563,6 +782,231 @@
     }
    ],
    "addedAt": "2026-10-20T11:01:53+08:00"
+  },
+  {
+   "id": "2026-10-12-arb-jll-capital-honduras-dismissed",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "investment",
+   "jurisdiction": "",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-10-12",
+   "importance": 1,
+   "author": "",
+   "title": "宏都拉斯在 ICSID 勝訴：墨西哥金融公司 4.6 億美元求償，因金融服務不在自貿協定投資章節保護範圍而遭駁回",
+   "titleOriginal": "JLL Capital v. Republic of Honduras (ICSID Case No. ARB/23/3), Award of 30 September 2026",
+   "caseRef": "ICSID Case No. ARB/23/3",
+   "tldr": "墨西哥金融公司 JLL Capital 主張宏都拉斯法院程序讓它在當地的放款子公司停擺，構成徵收與拒絕正義，求償 4.6 億美元。ICSID 仲裁庭以多數決認定，系爭措施涉及金融服務，而《墨西哥與中美洲自由貿易協定》的投資章節不適用於金融服務，因此沒有管轄權；判斷只處理管轄權，未進入實體。",
+   "context": "JLL Capital 在宏都拉斯投資子公司 CA Capital，這是一家在宏都拉斯中央銀行登記的非銀行放款機構，主要辦理由公私部門員工薪資直接扣款的現金貸款。2018 年起因股東會控制權的訴訟，CA Capital 的放款業務停擺，最後以子公司遭介入接管告終。\nJLL Capital 於 2023 年 1 月提出仲裁請求，2023 年 2 月由 ICSID 登記。宏都拉斯曾於 2024 年退出 ICSID 公約，2026 年 8 月重新加入。",
+   "facts": [
+    "求償金額 4.6 億美元；依報導，CA Capital 的放款組合逾 5,000 萬美元，涉及約 34 個政府機關、超過 3 萬名員工。",
+    "仲裁判斷於 2026 年 9 月 30 日送達宏都拉斯，宏都拉斯檢察總署（PGR）於 10 月 12 日公布結果。",
+    "申請人選任的仲裁人 Stephan Schill 提出不同意見書。"
+   ],
+   "issues": [
+    "系爭措施是否屬於金融服務，因而落在自由貿易協定投資章節的排除範圍。",
+    "能否改依《墨西哥與北三角自由貿易協定》取得管轄權。"
+   ],
+   "holding": "・仲裁庭以多數決接受宏都拉斯的管轄權抗辯：爭議涉及金融服務，而《墨西哥與中美洲自由貿易協定》的投資章節將金融服務排除在保護範圍外。\n・仲裁庭也駁回申請人改依《墨西哥與北三角自由貿易協定》建立管轄權的備位請求。\n・判斷只處理管轄權，未審理徵收與拒絕正義的實體主張。",
+   "significance": "依 ICSID 公約，申請人可在判斷作成後 120 天內聲請撤銷（annulment）。本案也提醒：自由貿易協定的投資章節常另設金融服務專章，金融業投資人能否主張投資保障，須先確認適用的是哪一章。依 Bloomberg Línea 報導，宏都拉斯仍有 12 件待決仲裁，其中金額最大的是 Próspera 特區案。",
+   "editorNote": "本網頁助理 註：判斷全文尚未公開，本則依宏都拉斯檢察總署公布後的新聞報導（El Heraldo、Bloomberg Línea、The Rio Times）撰寫。The Rio Times 稱不同意見書附於判斷，Bloomberg Línea 則稱其理由尚未公開；費用分擔未見報導。宏都拉斯退出與重新加入 ICSID 的日期，依 El Heraldo 報導及 ICSID 新聞稿（2026 年 3 月 6 日簽署、7 月 17 日批准）。",
+   "tags": [
+    "投資條約仲裁",
+    "ICSID",
+    "管轄權",
+    "金融服務例外",
+    "宏都拉斯",
+    "自由貿易協定"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Bloomberg Línea：Honduras se libra de pagar US$460 millones a financiera mexicana tras desestimación del Ciadi",
+     "url": "https://www.bloomberglinea.com/latinoamerica/honduras/honduras-se-libra-de-pagar-us460-millones-a-financiera-mexicana-tras-desestimacion-del-ciadi/",
+     "official": false
+    },
+    {
+     "label": "El Heraldo：Fallo internacional libra a Honduras de pagar $460 millones a JLL Capital",
+     "url": "https://www.elheraldo.hn/honduras/ciadi-honduras-pago-460-millones-fallo-AC32304620",
+     "official": false
+    },
+    {
+     "label": "The Rio Times：Honduras Wins Arbitration Over US$460 Million Claim",
+     "url": "https://www.riotimesonline.com/honduras-arbitration-ruling-460-million-2026/",
+     "official": false
+    },
+    {
+     "label": "ICSID 新聞稿：Honduras Ratifies the ICSID Convention",
+     "url": "https://icsid.worldbank.org/news-and-events/communiques/honduras-ratifies-icsid-convention",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-21T11:18:27+08:00"
+  },
+  {
+   "id": "2026-10-07-arb-ejil-runaway-interest-isds",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "field": "investment",
+   "jurisdiction": "",
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "date": "2026-10-07",
+   "importance": 1,
+   "author": "Toni Marzal（格拉斯哥大學）",
+   "title": "投資仲裁的利息失控了嗎？作者主張回到法律基本面：無風險利率、尊重地主國法、複利須舉證",
+   "titleOriginal": "Runaway Interest in ISDS: Back to (Legal) Basics",
+   "caseRef": "",
+   "tldr": "投資仲裁幾乎都會判給利息，而且金額驚人（Tethyan v Pakistan 案利息約占 59 億美元判斷的三成）。作者回顧利息從單利固定利率演變為市場利率加複利的過程，認為把利息當成「投資人預期報酬」的做法在法律上站不住腳，應改用無風險利率、尊重地主國法上的限制，並要求證明複利損失。",
+   "context": "作者指出，1980 年代以前的仲裁庭多採約 5% 至 6% 的固定單利，並視為裁量事項。美國利率飆升與伊朗—美國求償法庭的大量案件，促使實務轉向以「經濟現實」計算利息。UNCITRAL 第三工作組目前正研議相關條款。",
+   "facts": [
+    "McCollough 案（1986）以個案權衡方式定 10% 單利；Brower 法官的個別意見把利息定性為損害項目，此見解後來在 ISDS 成為主流。",
+    "Sylvania 案（1985）以六個月期美國定存利率為基準；Santa Elena 案（2000）以後，複利成為常態；Phillips Petroleum v Venezuela 案（2012）採投資人資金成本，但屬少數。",
+    "英國上議院 Sempra Metals 案要求複利須有證據；Bankswitch v Ghana 案（2014）要求具體證明損失；Bank Melli v Bahrain 案（2021）判給無風險利息。",
+    "國際法委員會特別報告員 Paparinskis 在關於國際不法行為賠償的第一次報告中，建議審慎檢視 ISDS 利息判例。"
+   ],
+   "issues": [
+    "利息應按投資人預期報酬計算，還是依法律上的損害、因果關係與證明規則決定。",
+    "地主國法對複利或利率的限制，在投資仲裁中是否應適用。"
+   ],
+   "holding": "・應受保護的期待屬法律問題，應以地主國法為基準，部分仲裁庭仍適用此類限制。\n・因果關係：風險溢酬是在補償投資人實際上未承擔的風險，因此只應判給無風險利息。\n・舉證：實務常推定有複利損失，但應如 Sempra Metals 案要求證據。\n・衡平調整：可給予判斷後利息寬限期、在支付將造成嚴重困難時延後起算日，或因與有過失而減少。\n・UNCITRAL 第 20 條草案（WP.268）採無風險利率，並要求請求複利者「具體說明理由」，作者認為方向正確但用語模糊；越南與奈及利亞提案（WP.261）主張利息計算不得違反被申請國行為時的法律，作者表示歡迎。",
+   "significance": "作者結論：利息是 ISDS 判斷金額膨脹的核心卻少被檢討的因素。近期部分判斷、國際法委員會的研究與 UNCITRAL 草案，都顯示利息正被重新視為法律問題，而不只是財務計算。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：EJIL:Talk! 上的投資仲裁評論，依本網站分工收錄於國際仲裁法部分。",
+   "tags": [
+    "投資條約仲裁",
+    "利息",
+    "複利",
+    "損害賠償",
+    "UNCITRAL",
+    "國家責任"
+   ],
+   "related": [
+    "2026-10-16-arb-uncitral-wg3-55th-session"
+   ],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/runaway-interest-in-isds-back-to-legal-basics/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-21T11:18:27+08:00"
+  },
+  {
+   "id": "2026-10-07-arb-dj-eu-fdi-screening-investor-rights",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "investment",
+   "jurisdiction": "",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-10-07",
+   "importance": 1,
+   "author": "Abdullah Javed（Legalgram）",
+   "title": "歐盟外資審查與投資協定的交易：以國家安全為由擋下收購，投資人在投資協定下還剩哪些保障？",
+   "titleOriginal": "Rewriting the Bargain: Investor Rights and the European Union Foreign Direct Investment Screening Regime at Entry",
+   "caseRef": "",
+   "tldr": "各國越來越常以國家安全或公共秩序為由審查、阻擋外國投資。作者以中德投資協定為例指出，投資協定通常不保障「進入」的權利，交易未完成前的期待也不受保護；但已取得的契約權利可能構成投資。歐盟 2026 年新外資審查規則縮小了模糊空間，卻沒有消除各國對「安全」的裁量。",
+   "context": "作者舉例：德國 2022 年禁止中國企業收購 Elmos 半導體業務、英國要求 Nexperia 出售 Newport Wafer Fab、義大利 2023 年限制中化集團提名倍耐力執行長。\n歐盟 2019/452 號規則只建立合作框架，未定義「安全」與「公共秩序」，也未設證據門檻；2026 年 6 月 8 日理事會通過取代該規則的新規則（CELEX 32026R1386），2026 年 7 月生效，多數條文自 2028 年 1 月 17 日起適用，要求每個會員國都須建立審查制度，第一階段審查 45 天，並擴大適用範圍。",
+   "facts": [
+    "中德投資協定（2003）第 2 條第 1 項規定投資的准入須依地主國法律，因此廣泛的資產定義並不創設進入權。",
+    "作者引用 SPP v Egypt、Bayindir v Pakistan、Salini v Morocco 說明契約權利與支出可構成投資；引用 Tecmed v Mexico、Saluka v Czech Republic 說明公平公正待遇要求一致、透明；引用 Pope & Talbot v Canada 說明國民待遇的判斷。",
+    "作者也引用歐盟法院 Église de Scientologie、Commission v Portugal 及 Xella Magyarország（2023）等判決，說明對資本限制的審查標準。"
+   ],
+   "issues": [
+    "投資協定在投資「進入前」階段能提供多少保護。",
+    "以安全為由的審查措施，是否可能違反公平公正待遇、國民待遇或最惠國待遇。"
+   ],
+   "holding": "・投資協定的保護通常在投資存在後才開始，進入階段的保護很窄，取決於地主國的准入法令；單純期待交易完成並不足夠。\n・直接進入的第三國投資人：可能涉及公平公正待遇與透明度問題；附條件的核准可能改變投資內容。\n・設在歐盟、但由第三國母公司控制的子公司：適用歐盟法院自己的判例。\n・「第三國控制」「制裁風險」等風險因素表面中立，實際上主要落在中國投資人身上；若中國交易被擋而國內交易獲准，可能涉及國民待遇，但須通過「相似情況」的檢驗。",
+   "significance": "作者結論：投資協定的交易並未正式破局，但已被悄悄改寫。無論是投資協定仲裁庭或歐盟法院，都會追問審查標準是否明確、程序是否透明、措施是否合乎比例。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：本文主要討論投資協定保障標準與歐盟外資審查法的交錯，未分析任何針對審查決定提起的仲裁案。",
+   "tags": [
+    "投資協定",
+    "外資審查",
+    "國家安全",
+    "公平公正待遇",
+    "國民待遇",
+    "歐盟"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Daily Jus 原文",
+     "url": "https://dailyjus.com/world/2026/10/rewriting-the-bargain-investor-rights-and-the-european-union-foreign-direct-investment-screening-regime-at-entry",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-21T11:18:27+08:00"
+  },
+  {
+   "id": "2026-10-06-arb-pca-crimea-privatbank-belbek",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "investment",
+   "jurisdiction": "",
+   "outlet": "常設仲裁法院（PCA）",
+   "outletCode": "PCA",
+   "date": "2026-10-06",
+   "importance": 2,
+   "author": "",
+   "title": "克里米亞投資仲裁終局判斷：俄羅斯須賠償烏克蘭 PrivatBank 約 1.81 億美元、Belbek 機場投資人 1,150 萬美元，另加利息",
+   "titleOriginal": "JSC CB PrivatBank v. The Russian Federation (PCA Case No. 2015-21); Aeroport Belbek LLC and Mr. Igor Valerievich Kolomoisky v. The Russian Federation (PCA Case No. 2015-07)",
+   "caseRef": "PCA 2015-21；PCA 2015-07",
+   "tldr": "俄羅斯 2014 年控制克里米亞後，烏克蘭 PrivatBank 無法在當地營業，Belbek 機場客運航廈的經營權也被奪走。兩個由常設仲裁法院（PCA）管理的仲裁庭依 1998 年俄烏投資協定，於 2026 年 10 月 1 日作成終局判斷，命俄羅斯賠償 PrivatBank 約 1.809 億美元、機場方 1,150 萬美元，並自 2014 年起算利息至清償日。",
+   "context": "兩案依 1998 年俄羅斯與烏克蘭投資保障協定提起，分由不同仲裁庭審理，PCA 擔任書記處，並於 2026 年 10 月 6 日發布終局判斷的新聞稿。\n依報導，仲裁庭於 2017 年認定俄羅斯自 2014 年 3 月 21 日起，對兩案投資人及其在克里米亞的投資負有條約義務；2019 年 2 月認定俄羅斯違反禁止徵收的保護，賠償問題留待後續階段。",
+   "facts": [
+    "PrivatBank 主張俄羅斯的措施使其無法在克里米亞繼續營業；Aeroport Belbek LLC 與 Igor Kolomoisky 主張失去 Belbek 機場商業客運航廈的經營權。",
+    "俄羅斯起初未參與程序，2019 年仲裁庭認定其責任後才加入，並請求重新審理仲裁庭權限與責任、爭執賠償；仲裁庭允許就賠償及「投資是否非法取得」進行辯論，其餘請求駁回，之後再進行書狀交換與兩次開庭。",
+    "終局判斷作成於 2026 年 10 月 1 日：PrivatBank 本金約 1.8087 億美元，利息自 2014 年 4 月 18 日起算；機場方 1,150 萬美元，利息自 2014 年 6 月 16 日起算；兩者均應立即支付，仲裁費用亦已分配（金額未見報導）。"
+   ],
+   "issues": [
+    "俄羅斯對其實際控制的克里米亞，是否須依 1998 年俄烏投資協定保護烏克蘭投資人（條約的領域適用）。",
+    "俄羅斯的措施是否構成徵收。",
+    "以貪腐、詐欺或暴力取得的投資能否受條約保護（投資合法性抗辯）。",
+    "賠償金額與利息的計算。"
+   ],
+   "holding": "・管轄權（2017 年）：俄羅斯自 2014 年 3 月 21 日起，對兩案投資人及其在克里米亞的投資負有條約義務。\n・責任（2019 年 2 月）：俄羅斯違反禁止徵收的保護。\n・PrivatBank 案仲裁庭駁回俄羅斯「該行以貪腐、詐欺與暴力取得投資，不受條約保護」的抗辯，認定不影響管轄權或可受理性。\n・賠償（2026 年 10 月 1 日）：PrivatBank 獲賠約 1.8087 億美元另加利息，代理律師事務所稱含利息與費用約 3.27 億美元；Belbek 機場方獲賠 1,150 萬美元另加利息。",
+   "significance": "判斷為終局且具拘束力。依 Courthouse News 報導，俄羅斯只能以仲裁庭逾越權限、重大程序瑕疵等有限事由向荷蘭法院聲請撤銷，且聲請撤銷不當然停止執行。PrivatBank 表示將採取一切必要措施確保全額受償。代理律師事務所也提到，烏克蘭 Oschadbank 已於 2018 年取得對俄羅斯約 11 億美元的判斷；克里米亞相關投資仲裁陸續進入執行階段。",
+   "editorNote": "本網頁助理 註：PCA 新聞稿全文網站限制自動讀取，本則依 PCA 新聞頁、Courthouse News、Interfax-Ukraine 與代理律師事務所 Quinn Emanuel 的公告撰寫，尚未取得判斷原文。各來源對 PrivatBank 含利息總額說法不一：Interfax-Ukraine 標題寫 3.37 億美元、內文寫逾 3.27 億美元，Quinn Emanuel 稱含利息與費用約 3.27 億美元；Courthouse News 所稱「逾 1.92 億美元」是兩案本金合計。",
+   "tags": [
+    "投資條約仲裁",
+    "克里米亞",
+    "俄羅斯",
+    "徵收",
+    "條約領域適用",
+    "投資合法性",
+    "PCA"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "PCA 新聞稿：Final Award in PCA Case No. 2015-21: JSC CB PrivatBank v. The Russian Federation",
+     "url": "https://pca-cpa.org/en/news/pca-press-release-final-award-in-pca-case-no-2015-21-jsc-cb-privatbank-v-the-russian-federation/",
+     "official": true
+    },
+    {
+     "label": "PCA 新聞稿：Final Award in PCA Case No. 2015-07: Aeroport Belbek LLC and Mr. Igor Valerievich Kolomoisky v. The Russian Federation",
+     "url": "https://pca-cpa.org/en/news/pca-press-release-final-award-in-pca-case-no-2015-07-aeroport-belbek-llc-and-mr-igor-valerievich-kolomoisky-v-the-russian-federation/",
+     "official": true
+    },
+    {
+     "label": "Courthouse News：Russia handed $192 million bill for Crimea bank and airport losses",
+     "url": "https://www.courthousenews.com/russia-handed-192-million-bill-for-crimea-bank-and-airport-losses/",
+     "official": false
+    },
+    {
+     "label": "Interfax-Ukraine：PrivatBank secures final victory against Russia over Crimean asset seizure",
+     "url": "https://en.interfax.com.ua/news/economic/1215373.html",
+     "official": false
+    },
+    {
+     "label": "Quinn Emanuel 公告",
+     "url": "https://www.quinnemanuel.com/the-firm/victories/russia-must-pay-ukrainian-bank-327-million-over-invasion-in-quinn-emanuel-victory/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-21T11:18:27+08:00"
   }
  ],
  "agenda": [

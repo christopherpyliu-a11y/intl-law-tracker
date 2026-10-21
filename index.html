@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="每日兩次更新的國際法動態：國際公法（國際法院、國際刑事法院、區域人權法院、國際海洋法法庭與學術評論）與國際仲裁法（國際商務仲裁的法院裁判、機構規則與實務評論），附白話脈絡摘要與原始資料連結。">
+<meta name="description" content="每日兩次更新的國際法動態：國際公法（國際法院、國際刑事法院、區域人權法院、國際海洋法法庭與學術評論）與國際仲裁法（國際商務仲裁與投資條約仲裁的法院裁判、仲裁判斷、機構規則與評論），附白話脈絡摘要與原始資料連結。">
 <meta property="og:title" content="國際法動態追蹤">
-<meta property="og:description" content="國際公法與國際商務仲裁的最新判決與動態，附白話脈絡摘要與原始資料連結。">
+<meta property="og:description" content="國際公法、國際商務仲裁與投資條約仲裁的最新判決與動態，附白話脈絡摘要與原始資料連結。">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://christopherpyliu-a11y.github.io/intl-law-tracker/">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%232C6A5E'/%3E%3Cpath d='M32 14v34M18 22h28M22 22l-7 14h14zM42 22l-7 14h14zM24 48h16' stroke='white' stroke-width='3.2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
@@ -130,7 +130,7 @@ h1 { font-family: var(--f-display); font-weight: 700; font-size: var(--s-xxl); l
 .court-chip .n { font-family: var(--f-mono); font-size: var(--s-xs); color: var(--faint); }
 .court-chip:hover { border-color: var(--cc, var(--accent)); }
 .court-chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--paper); }
-.court-chip[aria-pressed="true"] .code, .court-chip[aria-pressed="true"] .n { color: var(--paper); }
+.court-chip[aria-pressed="true"] .code, .court-chip[aria-pressed="true"] .n, .court-chip[aria-pressed="true"] .fld { color: var(--paper); }
 
 /* agenda strip */
 .agenda { display: grid; gap: 8px; }
@@ -190,6 +190,8 @@ body.reading .day-items { grid-template-columns: minmax(0, 1fr); gap: 6px; }
 .row-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; font-size: var(--s-xs); color: var(--muted); }
 .kind { border: 1px solid var(--line); border-radius: 3px; padding: 0 5px; line-height: 1.55; }
 .key { color: var(--accent); font-weight: 500; }
+.fld { font-weight: 500; color: var(--c-ecthr); }
+.fld.inv { color: var(--c-icc); }
 .unread-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); display: inline-block; }
 .starred { color: var(--c-iacthr); }
 .row-title { font-weight: 500; font-size: var(--s-md); line-height: 1.45; }
@@ -293,6 +295,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
       <div class="status" id="status"><span>正在讀取資料…</span></div>
     </div>
     <nav class="sections" id="sections" role="tablist" aria-label="版面"></nav>
+    <nav class="courts" id="fields" aria-label="依領域篩選" hidden></nav>
     <nav class="courts" id="courts" aria-label="依類別篩選"></nav>
   </header>
 
@@ -343,7 +346,11 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
     },
     arb: {
       label: "國際仲裁法", en: "International Arbitration", file: "arbitration.json",
-      eyebrow: "International Commercial Arbitration Docket",
+      eyebrow: "International Arbitration Docket · Commercial & Investment",
+      fields: {
+        commercial: { code: "商務", zh: "商務仲裁", en: "International commercial arbitration" },
+        investment: { code: "投資", zh: "投資仲裁", en: "Investor-state (treaty) arbitration" }
+      },
       cats: {
         COURT: { code: "COURT", zh: "法院裁判",   en: "Court decisions on arbitration" },
         AWARD: { code: "AWARD", zh: "仲裁判斷",   en: "Published awards" },
@@ -353,8 +360,8 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
         OTHER: { code: "VIEW",  zh: "評論與實務", en: "Commentary & practice" }
       },
       order: ["COURT", "AWARD", "INST", "LAW", "NEWS", "OTHER"],
-      placeholder: "搜尋案名、關鍵字、法域、條文（例：anti-suit、紐約公約、第68條）",
-      loadingText: "國際商務仲裁的法院裁判、仲裁機構規則與實務評論會顯示在這裡。",
+      placeholder: "搜尋案名、關鍵字、法域、條文（例：anti-suit、ICSID、紐約公約、第68條）",
+      loadingText: "國際商務仲裁與投資條約仲裁的法院裁判、仲裁判斷、機構動態與評論會顯示在這裡。",
       emptyText: "每日排程更新後，新的仲裁動態會依日期排列在這裡。",
       filterHint: "試著清除搜尋字詞，或改選「全部」。"
     }
@@ -364,7 +371,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
 
   function blank() { return { items: [], agenda: [], meta: null, archives: [], loaded: false, loadError: false, archiveLoading: "" }; }
   var data = { pil: blank(), arb: blank() };
-  var state = { section: "pil", court: "", kind: "", q: "", unreadOnly: false, starOnly: false, openId: "" };
+  var state = { section: "pil", field: "", court: "", kind: "", q: "", unreadOnly: false, starOnly: false, openId: "" };
   function S() { return data[state.section]; }
   function CFG() { return SECTIONS[state.section]; }
 
@@ -414,6 +421,8 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
     var t = h("div", { class: "toast", role: "status", text: msg });
     document.body.appendChild(t); setTimeout(function () { t.remove(); }, 1800);
   }
+  function fieldOf(it) { return str(it.field) === "investment" ? "investment" : "commercial"; }
+  function fieldCfg(it) { var f = CFG().fields; return f ? f[fieldOf(it)] : null; }
   function sectionOf(id) {
     for (var i = 0; i < SECTION_ORDER.length; i++) {
       var key = SECTION_ORDER[i];
@@ -432,13 +441,14 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
     });
   }
   function matches(it) {
+    if (state.field && CFG().fields && fieldOf(it) !== state.field) return false;
     if (state.court && courtKey(it.court) !== state.court) return false;
     if (state.kind && str(it.kind) !== state.kind) return false;
     if (state.unreadOnly && readSet.has(it.id)) return false;
     if (state.starOnly && !starSet.has(it.id)) return false;
     if (state.q) {
       var cat = catOf(courtKey(it.court)) || {};
-      var hay = [it.title, it.titleOriginal, it.tldr, it.caseRef, it.context, it.holding, it.author, it.outlet, it.jurisdiction, arr(it.tags).join(" "), cat.zh, cat.code, it.court].map(str).join(" ").toLowerCase();
+      var hay = [it.title, it.titleOriginal, it.tldr, it.caseRef, it.context, it.holding, it.author, it.outlet, it.jurisdiction, (fieldCfg(it) || {}).zh, arr(it.tags).join(" "), cat.zh, cat.code, it.court].map(str).join(" ").toLowerCase();
       var terms = state.q.toLowerCase().split(/\s+/).filter(Boolean);
       for (var i = 0; i < terms.length; i++) if (hay.indexOf(terms[i]) < 0) return false;
     }
@@ -476,16 +486,35 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
     if (last) el.appendChild(h("span", null, "最後更新 ", h("b", { class: "mono", text: last }), "（台北）"));
     var unread = d.items.filter(function (i) { return !readSet.has(i.id); }).length;
     el.appendChild(h("span", null, "共 ", h("b", { class: "mono", text: String(d.items.length) }), " 則 · 未讀 ", h("b", { class: "mono", text: String(unread) })));
-    if (m.coverageFrom) el.appendChild(h("span", { text: "收錄自 " + str(m.coverageFrom) }));
+    if (m.coverageNote) el.appendChild(h("span", { text: str(m.coverageNote) }));
+    else if (m.coverageFrom) el.appendChild(h("span", { text: "收錄自 " + str(m.coverageFrom) }));
   }
+
+  function renderFields() {
+    var nav = document.getElementById("fields");
+    var cfg = CFG(), d = S();
+    nav.replaceChildren();
+    nav.hidden = !cfg.fields;
+    if (!cfg.fields) return;
+    var counts = {}; d.items.forEach(function (i) { var f = fieldOf(i); counts[f] = (counts[f] || 0) + 1; });
+    nav.appendChild(h("button", { class: "court-chip", type: "button", "aria-pressed": state.field === "" ? "true" : "false", onclick: function () { setField(""); } },
+      h("span", { class: "code", text: "全部領域" }), h("span", { class: "n", text: String(d.items.length) })));
+    Object.keys(cfg.fields).forEach(function (f) {
+      var c = cfg.fields[f];
+      nav.appendChild(h("button", { class: "court-chip", type: "button", title: c.en, "aria-pressed": state.field === f ? "true" : "false", onclick: function () { setField(state.field === f ? "" : f); } },
+        h("span", { class: "fld" + (f === "investment" ? " inv" : ""), text: c.zh }), h("span", { class: "n", text: String(counts[f] || 0) })));
+    });
+  }
+  function setField(f) { state.field = f; renderFields(); renderCourts(); renderList(); }
 
   function renderCourts() {
     var nav = document.getElementById("courts");
     var cfg = CFG(), d = S();
     nav.replaceChildren();
-    var counts = {}; d.items.forEach(function (i) { var k = courtKey(i.court); counts[k] = (counts[k] || 0) + 1; });
+    var pool = d.items.filter(function (i) { return !state.field || !cfg.fields || fieldOf(i) === state.field; });
+    var counts = {}; pool.forEach(function (i) { var k = courtKey(i.court); counts[k] = (counts[k] || 0) + 1; });
     nav.appendChild(h("button", { class: "court-chip", type: "button", "aria-pressed": state.court === "" ? "true" : "false", onclick: function () { setCourt(""); } },
-      h("span", { class: "code", text: "全部" }), h("span", { class: "n", text: String(d.items.length) })));
+      h("span", { class: "code", text: "全部" }), h("span", { class: "n", text: String(pool.length) })));
     cfg.order.forEach(function (k) {
       var c = cfg.cats[k];
       if (!counts[k] && (state.section === "arb" || k === "OTHER")) return;
@@ -574,6 +603,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
         h("span", { class: "row-main" },
           h("span", { class: "row-meta" },
             !isRead ? h("span", { class: "unread-dot", title: "未讀" }) : null,
+            fieldCfg(it) ? h("span", { class: "fld" + (fieldOf(it) === "investment" ? " inv" : ""), text: fieldCfg(it).zh }) : null,
             it.kind ? h("span", { class: "kind", text: str(it.kind) }) : null,
             it.jurisdiction ? h("span", { text: str(it.jurisdiction) }) : null,
             it.author ? h("span", { text: str(it.author) }) : null,
@@ -663,6 +693,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
         h("div", { class: "r-court" }, h("span", { class: "code", text: codeText(it) }), h("span", { text: headText })),
         h("div", { class: "r-meta" },
           h("span", { class: "mono", text: str(it.date) }),
+          fieldCfg(it) ? h("span", { class: "fld" + (fieldOf(it) === "investment" ? " inv" : ""), text: fieldCfg(it).zh }) : null,
           it.kind ? h("span", { text: str(it.kind) }) : null,
           it.jurisdiction ? h("span", { text: "法域：" + str(it.jurisdiction) }) : null,
           it.author ? h("span", { text: "作者：" + str(it.author) }) : null,
@@ -728,7 +759,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
     if (row) { row.focus(); row.scrollIntoView({ block: "nearest" }); }
   }
   function switchSection(key) {
-    state.section = key; state.court = ""; state.kind = ""; state.openId = "";
+    state.section = key; state.field = ""; state.court = ""; state.kind = ""; state.openId = "";
     savePref("ild.section", key);
     renderAll();
   }
@@ -772,7 +803,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
   });
 
   function renderAll() {
-    renderSections(); renderStatus(); renderCourts(); renderKinds(); renderAgenda(); renderList();
+    renderSections(); renderStatus(); renderFields(); renderCourts(); renderKinds(); renderAgenda(); renderList();
     if (state.openId && !S().items.some(function (i) { return i.id === state.openId; })) state.openId = "";
     renderReader();
   }
