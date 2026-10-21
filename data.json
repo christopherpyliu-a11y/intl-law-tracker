@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-21T07:09:22+08:00",
-  "lastRunLocal": "2026-10-21 07:09",
+  "lastRun": "2026-10-21T23:09:27+08:00",
+  "lastRunLocal": "2026-10-21 23:09",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 1 則：ITLOS 1（阿根廷訴英國臨時措施言詞辯論定期）；Opinio Juris 10 月 19 日兩篇評論因網站無法讀取暫未收錄"
+  "lastRunNote": "新增 2 則：ICC 1、Opinio Juris 評論 1；Opinio Juris 10 月 19 至 21 日數篇評論因網站無法讀取暫未收錄"
  },
  "items": [
   {
@@ -1094,7 +1094,10 @@
      "official": false
     }
    ],
-   "addedAt": "2026-10-14T12:30:00+08:00"
+   "addedAt": "2026-10-14T12:30:00+08:00",
+   "related": [
+    "2026-10-21-icc-duterte-incident-57"
+   ]
   },
   {
    "id": "2026-10-08-ecthr-lz-dz-italy",
@@ -1386,7 +1389,9 @@
     "伊朗",
     "伊拉克庫德區"
    ],
-   "related": [],
+   "related": [
+    "2026-10-16-oj-iran-airline-sanctions-ca1"
+   ],
    "sources": [
     {
      "label": "Opinio Juris 原文",
@@ -2942,6 +2947,118 @@
     "2026-10-12-ejil-argentina-unclos",
     "2026-10-12-oj-sea-lion-hamburg"
    ]
+  },
+  {
+   "id": "2026-10-21-icc-duterte-incident-57",
+   "court": "ICC",
+   "kind": "程序進展",
+   "date": "2026-10-21",
+   "importance": 1,
+   "title": "杜特蒂案：審判分庭不准檢方擴大起訴期間，檢方已從審判摘要刪除第 57 號事件",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte – Trial Chamber III decision of 9 October 2026 on the Prosecution's additional incidents; Prosecution's revised Trial Brief",
+   "caseRef": "",
+   "tldr": "ICC 第三審判分庭 10 月 9 日裁定：檢方想新增到第 2 項罪名的 8 起殺人事件中，7 起可以留下，但第 57 號事件發生在已確認罪名的期間之外，必須刪除。檢方已依裁定修改審判摘要，10 月 21 日公開；審判仍預定 11 月 30 日開始。",
+   "context": "菲律賓前總統杜特蒂被控三項危害人類罪（謀殺、謀殺未遂），涉及他擔任達沃市長期間及總統任內「掃毒戰爭」中的殺人事件。預審分庭於 2026 年 4 月確認罪名，當時列出 49 起事件。\n第 2 項罪名涵蓋 2016 年 7 月至 2017 年 7 月間，在全國各地殺害所謂「高價值毒品目標」的行為。檢方後來在審判摘要中加列 8 起事件；辯方則抗議罪名變成「移動標靶」，要求檢方提出完整的事件清單。\n10 月 8 日，同一審判分庭已認定杜特蒂有受審能力（見相關則）。",
+   "facts": [
+    "檢方在審判摘要中，為第 2 項罪名新增 8 起事件。",
+    "2026 年 10 月 9 日，第三審判分庭准許其中 7 起，認為符合已確認罪名的事實、地域與時間範圍；但第 57 號事件發生於 2016 年 7 月至 2017 年 7 月之外，命檢方於 10 月 16 日前從證人清單、證據清單與審判摘要中刪除。",
+    "同一裁定駁回辯方要求檢方重新提出附完整事件清單之起訴文件的聲請，理由是審判分庭不能重新審查預審分庭已確認的罪名。",
+    "依報導，加入 7 起後案件共有 56 起事件；確認罪名時的 49 起事件涉及 76 件謀殺與 2 件謀殺未遂。",
+    "檢方（由代理檢察官 Mame Mandiaye Niang 署名）修改審判摘要及附件 C.1、C.2，以遮蔽方式刪除第 57 號事件的內容，文件於 10 月 21 日公開。",
+    "檢方未修改證人與證據清單，理由是相關材料仍與危害人類罪的背景要件及杜特蒂的個人刑事責任有關。",
+    "另外，辯方就檢方對約 32,000 筆紀錄的審查方式聲請提出答辯，主張檢方須審查其中可能有利於被告的證據。"
+   ],
+   "issues": [
+    "審判分庭能否允許檢方在審判階段擴張已確認罪名的時間範圍（《羅馬規約》第 61 條第 9 項、第 74 條第 2 項）。",
+    "已確認罪名中所列事件是「例示」還是「窮盡」，以及被告知悉指控內容、準備防禦的權利（第 67 條第 1 項）。"
+   ],
+   "holding": "審判分庭認為，檢方先前自行界定第 2 項罪名的期間，現在不能再擴大已確認罪名的時間範圍；遵守這個界限，是為了保障被告了解指控並準備答辯。其餘 7 起新增事件因在事實、地域與時間範圍內，予以准許。\n分庭同時表示，它無權重新審查預審分庭確認的罪名，所以駁回辯方要求檢方重提完整事件清單的聲請。\n檢方已依裁定從審判摘要刪除第 57 號事件，但保留證人與證據清單，並主張相關材料仍可用來證明背景要件；這部分說明多處遮蔽。",
+   "significance": "這是 11 月 30 日開審前的程序整理，顯示審判分庭會嚴格以確認罪名的範圍限制檢方，但對同一範圍內新增的具體事件則採較寬鬆態度。辯方是否會進一步挑戰檢方保留相關證據的做法，值得觀察。",
+   "editorNote": "本網頁助理 註：本則依菲律賓媒體報導撰寫，未能讀取 ICC 官方裁定與修正後審判摘要原文。報導對檢方文件日期的描述不一：Philstar 稱文件日期為「10 月 20 日星期三」（但 2026 年 10 月 20 日為星期二），Inquirer 則稱文件於 10 月 21 日（星期三）公開；本則以公開日期 10 月 21 日為準。",
+   "tags": [
+    "杜特蒂",
+    "菲律賓",
+    "危害人類罪",
+    "確認罪名",
+    "罪名範圍",
+    "第61條"
+   ],
+   "sources": [
+    {
+     "label": "Inquirer：ICC prosecution removes one incident from Duterte's case",
+     "url": "https://globalnation.inquirer.net/343134/icc-prosecution-removes-one-incident-from-dutertes-case",
+     "official": false
+    },
+    {
+     "label": "Philstar：ICC prosecutors drop one drug war killing from Rodrigo Duterte case",
+     "url": "https://www.philstar.com/headlines/2026/10/21/2564787/icc-prosecutors-drop-one-drug-war-killing-rodrigo-duterte-case",
+     "official": false
+    },
+    {
+     "label": "Daily Tribune：ICC drops one alleged killing from Duterte case（10 月 9 日裁定）",
+     "url": "https://tribune.net.ph/2026/10/10/icc-drops-one-alleged-killing-from-duterte-case",
+     "official": false
+    },
+    {
+     "label": "BusinessWorld：ICC prosecutors drop one incident from ex-President Duterte's case",
+     "url": "https://bworldonline.com/the-nation/2026/10/21/788518/icc-prosecutors-drop-one-incident-from-ex-president-dutertes-case/",
+     "official": false
+    }
+   ],
+   "related": [
+    "2026-10-08-icc-duterte-fitness"
+   ],
+   "addedAt": "2026-10-21T23:09:27+08:00"
+  },
+  {
+   "id": "2026-10-16-oj-iran-airline-sanctions-ca1",
+   "court": "OTHER",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "kind": "學術評論",
+   "date": "2026-10-16",
+   "importance": 2,
+   "author": "Pouria Askary（Allameh Tabataba'i 大學）、Katayoun Hosseinnejad（獨立研究者）",
+   "title": "美國制裁伊朗全部航空公司可能構成集體懲罰，第三國依日內瓦公約共同第 1 條不應配合",
+   "titleOriginal": "When Sanctions Affect IHL: Third States' Obligations to Ensure Respect for the Geneva Conventions in the Context of U.S. Sanctions against Iranian Airlines",
+   "caseRef": "",
+   "tldr": "美國在與伊朗武裝衝突期間，制裁伊朗所有航空公司，並威脅提供加油、降落、售票服務的外國也會被切斷美元管道。作者認為這可能構成國際人道法禁止的「集體懲罰」，而第三國依日內瓦公約共同第 1 條有「確保尊重」人道法的義務，不應協助這類違法行為。",
+   "context": "日內瓦第四公約第 33 條禁止對受保護人施加集體懲罰；共同第 1 條要求締約國「尊重並確保尊重」公約。國際法院 2024 年關於以色列在巴勒斯坦被占領土政策的諮詢意見（第 279 段）重申，各國不得協助或支持違反人道法的情勢，並應運用影響力促使違法方回到遵守。\n作者以美伊之間存在國際性武裝衝突為前提，主張人道法與不干涉原則、人權法同時適用於這些經濟措施。",
+   "facts": [
+    "2026 年 8 月 24 日，美國財政部宣布針對伊朗經濟「命脈」的施壓行動，並表示各國須在期限內停止與伊朗相關的活動。",
+    "2026 年 9 月 8 日，美國外國資產控制辦公室（OFAC）依第 13902 號行政命令，將 27 家伊朗航空公司列入制裁，並暫停三項與航空相關的許可，包括飛越許可及外國航空公司以美製或美方控制的飛機飛往伊朗的許可。",
+    "依作者引述，伊朗現役機隊約 75 架、由 23 家航空公司經營，全部受到制裁。",
+    "美國財政部長在受訪時表示，將透過次級制裁在 9 月 23 日前讓伊朗所有航空公司停飛，第三國若提供燃油、降落或售票服務，將被切斷美元體系。",
+    "作者引述報導指出，部分區域國家禁止受制裁航空公司入境、航班取消、旅客受困；同時南部港口遭海上封鎖，藥品與醫療物資進口受影響。"
+   ],
+   "issues": [
+    "戰時的次級經濟制裁能否構成日內瓦第四公約第 33 條的集體懲罰。",
+    "日內瓦公約共同第 1 條「確保尊重」義務的範圍，及其與國家責任條款（ARSIWA）中協助或援助規則的關係。",
+    "第三國對其管轄下的機場、地勤業者等私人實體負有何種防止義務。"
+   ],
+   "holding": "・機場地勤、加油、降落等服務部分屬於國家機關或公私合營，次級制裁因此會觸及第三國的政府職能，而不只是私人企業。\n・以切斷美元管道迫使他國配合的次級制裁，已被許多學者、國家、聯合國機構與大會認為不合法或不正當。\n・民航屬關鍵基礎設施，停擺會影響家庭團聚、就醫、就學、工作與遷徙自由。\n・依紅十字國際委員會（ICRC）評注，第 33 條的「懲罰」廣泛包括行政措施與騷擾，判斷關鍵在懲罰目的、不設嚴重程度門檻；美國高層的多次公開談話可作為懲罰目的的證據。集體懲罰雖非「嚴重違反」，但依習慣國際法屬戰爭罪。\n・美國的目標要靠第三國配合才能達成，第三國因此陷入兩難：遵從美國制裁，或履行共同第 1 條義務。\n・共同第 1 條是獨立的初級義務，比 ARSIWA 的協助或援助規則更嚴格：明知會被用於違反人道法而提供支持，即使未達國家責任門檻，也可能違反共同第 1 條；即使機場與地勤由私人經營，國家也須防止其管轄下的人促成違法行為。",
+   "significance": "作者結論是：這些制裁可能構成集體懲罰，第三國必須在順從美國要求與履行確保尊重人道法的義務之間作出選擇；這是對法治的考驗，代價由平民承擔。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：本則發表日期在上次更新範圍之前，因先前未收錄而於本次補上。文中關於美伊之間存在國際性武裝衝突、制裁規模與影響等事實，均依作者引述，本網頁助理未另行核對官方文件。",
+   "tags": [
+    "國際人道法",
+    "共同第1條",
+    "集體懲罰",
+    "日內瓦第四公約第33條",
+    "次級制裁",
+    "伊朗",
+    "國家責任"
+   ],
+   "related": [
+    "2026-10-02-oj-iran-strikes-kurdish-parties"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/10/16/when-sanctions-affect-ihl-third-states-obligations-to-ensure-respect-for-the-geneva-conventions-in-the-context-of-u-s-sanctions-against-iranian-airlines/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-21T23:09:27+08:00"
   }
  ],
  "agenda": [
