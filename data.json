@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-21T23:09:27+08:00",
-  "lastRunLocal": "2026-10-21 23:09",
+  "lastRun": "2026-10-22T07:00:25+08:00",
+  "lastRunLocal": "2026-10-22 07:00",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：ICC 1、Opinio Juris 評論 1；Opinio Juris 10 月 19 至 21 日數篇評論因網站無法讀取暫未收錄"
+  "lastRunNote": "本次未發現新動態；Opinio Juris 10 月 19 至 21 日三篇評論因網站無法讀取，仍暫未收錄"
  },
  "items": [
   {
@@ -3160,6 +3160,15 @@
    "note": "庭長 10 月 20 日命令訂定；詳細時程另行公布，全程網路直播。",
    "url": "https://www.itlos.org/fileadmin/itlos/documents/press_releases_english/PR_402_EN.pdf",
    "relatedId": "2026-10-20-itlos-argentina-uk-hearing"
+  },
+  {
+   "id": "2026-10-22-ecthr-judgments",
+   "date": "2026-10-22",
+   "court": "ECtHR",
+   "title": "歐洲人權法院宣示 72 件判決及裁定（含 Berlusconi 訴義大利案）",
+   "note": "附新聞稿案件：Berlusconi v. Italy（第 6、7、13 條，Mediaset 逃稅定罪）、Poghosyan v. Armenia、Puşcaşu and Others v. Romania、Casali v. San Marino、B.K. v. Switzerland。",
+   "url": "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8665279-12356522&filename=Forthcoming+judgments+and+decisions+20-22.10.2026.pdf",
+   "relatedId": ""
   }
  ],
  "archives": []
