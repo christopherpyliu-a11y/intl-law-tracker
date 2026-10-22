@@ -40,8 +40,8 @@ img { max-width: 100%; }
   --paper: #F8F9FA;
   --surface: #FFFFFF;
   --ink: #1A1A1A;
-  --muted: #5A6472;
-  --faint: #707A88;
+  --muted: #4A5361;
+  --faint: #5E6876;
   --line: #E2E6EB;
   --line-strong: #CBD2DB;
   --tint-pil: #E9EFF6;       /* overview block, 國際公法 */
@@ -64,7 +64,7 @@ img { max-width: 100%; }
   --f-display: "Playfair Display", "Noto Serif TC", "Songti TC", "PMingLiU", "MingLiU", serif;
   --f-body: "Source Sans 3", "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif;
   --f-mono: "Source Sans 3", "Noto Sans TC", "PingFang TC", system-ui, sans-serif;
-  --s-xs: 12.5px; --s-sm: 14px; --s-md: 16px; --s-lg: 19px; --s-xl: 26px; --s-xxl: 32px;
+  --s-xs: 14px; --s-sm: 15px; --s-md: 17px; --s-lg: 20px; --s-xl: 27px; --s-xxl: 32px;
   --radius: 4px;
 }
 @media (prefers-color-scheme: dark) {
@@ -72,7 +72,7 @@ img { max-width: 100%; }
     --band: #071221; --band-ink: #FFFFFF; --band-muted: #A9B6C8; --band-line: rgba(255, 255, 255, 0.10);
     --accent: #9DBBE3; --accent-ink: #0C1828; --accent-soft: #172B45;
     --charcoal: #C9D2DD; --gold: #D4AF45; --gold-ink: #D4AF45;
-    --paper: #0C1828; --surface: #122238; --ink: #E7EBF0; --muted: #A2AEBE; --faint: #8592A6; --line: #22344C; --line-strong: #2F4562;
+    --paper: #0C1828; --surface: #122238; --ink: #E7EBF0; --muted: #B7C1CE; --faint: #9DA9BA; --line: #22344C; --line-strong: #2F4562;
     --tint-pil: #0F2440; --tint-pil-line: #1E3A5E; --tint-arb: #1E2126; --tint-arb-line: #343A44;
     --note: #211D10; --note-line: #5A4B22; --note-ink: #E8D39A;
     --shadow: 0 1px 2px rgba(0, 0, 0, 0.25); --shadow-hover: 0 6px 18px rgba(0, 0, 0, 0.35);
@@ -84,7 +84,7 @@ img { max-width: 100%; }
   --band: #071221; --band-ink: #FFFFFF; --band-muted: #A9B6C8; --band-line: rgba(255, 255, 255, 0.10);
   --accent: #9DBBE3; --accent-ink: #0C1828; --accent-soft: #172B45;
   --charcoal: #C9D2DD; --gold: #D4AF45; --gold-ink: #D4AF45;
-  --paper: #0C1828; --surface: #122238; --ink: #E7EBF0; --muted: #A2AEBE; --faint: #8592A6; --line: #22344C; --line-strong: #2F4562;
+  --paper: #0C1828; --surface: #122238; --ink: #E7EBF0; --muted: #B7C1CE; --faint: #9DA9BA; --line: #22344C; --line-strong: #2F4562;
   --tint-pil: #0F2440; --tint-pil-line: #1E3A5E; --tint-arb: #1E2126; --tint-arb-line: #343A44;
   --note: #211D10; --note-line: #5A4B22; --note-ink: #E8D39A;
   --shadow: 0 1px 2px rgba(0, 0, 0, 0.25); --shadow-hover: 0 6px 18px rgba(0, 0, 0, 0.35);
@@ -139,7 +139,7 @@ h1, h2, h3, .sec-tab, .day-head .d, .r-title, .dg-title { font-variant-numeric: 
 .brand { display: flex; align-items: center; gap: 18px; min-width: 0; }
 .brand > div { min-width: 0; }
 .emblem { flex: 0 0 auto; width: 56px; height: 56px; color: var(--gold); }
-.eyebrow { font-family: var(--f-body); font-weight: 600; font-size: 11.5px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gold); }
+.eyebrow { font-family: var(--f-body); font-weight: 600; font-size: 12.5px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--gold); }
 h1 { font-family: var(--f-display); font-weight: 700; font-size: var(--s-xxl); line-height: 1.2; margin: 4px 0 0; letter-spacing: 0.08em; text-wrap: balance; color: var(--band-ink); }
 .byline { margin: 8px 0 0; font-size: var(--s-sm); color: var(--band-muted); overflow-wrap: anywhere; }
 .byline a { color: inherit; text-decoration-color: var(--band-line); }
@@ -155,120 +155,140 @@ h1 { font-family: var(--f-display); font-weight: 700; font-size: var(--s-xxl); l
   flex: 0 0 auto; display: inline-flex; align-items: baseline; gap: 9px;
   border: 0; background: none; cursor: pointer; padding: 13px 16px 11px;
   border-bottom: 3px solid transparent; color: var(--band-muted);
-  font-family: var(--f-display); font-weight: 600; font-size: 17.5px; line-height: 1.3; letter-spacing: 0.04em;
+  font-family: var(--f-body); font-weight: 600; font-size: 17px; line-height: 1.3; letter-spacing: 0.04em;
 }
 .sec-tab:first-child { padding-left: 0; }
-.sec-tab .en { font-family: var(--f-display); font-style: italic; font-weight: 400; font-size: 14px; letter-spacing: 0.01em; color: var(--band-muted); }
-.sec-tab .n { align-self: center; font-family: var(--f-mono); font-variant-numeric: tabular-nums; font-weight: 600; font-size: 11.5px; letter-spacing: 0; line-height: 1.6; color: var(--band); background: var(--gold); border-radius: 999px; padding: 0 7px; }
+.sec-tab .en { display: none; }
+.sec-tab .n { align-self: center; font-family: var(--f-mono); font-variant-numeric: tabular-nums; font-weight: 600; font-size: 13px; letter-spacing: 0; line-height: 1.6; color: var(--band); background: var(--gold); border-radius: 999px; padding: 0 7px; }
 .sec-tab:hover { color: var(--band-ink); }
 .sec-tab[aria-selected="true"] { color: var(--band-ink); border-bottom-color: var(--gold); }
 @media (max-width: 640px) { .sec-tab .en { display: none; } .sec-tab { font-size: var(--s-md); padding-inline: 11px; } }
 
-/* filter chips */
-.filters { display: grid; gap: 10px; }
-.filters:not(:has(> :not([hidden]))) { display: none; }
-.courts { display: flex; flex-wrap: wrap; gap: 8px; }
-.court-chip {
-  display: inline-flex; align-items: baseline; gap: 8px;
-  border: 1px solid var(--line-strong); background: var(--surface); border-radius: 999px;
-  padding: 5px 14px; cursor: pointer; font-size: var(--s-sm); line-height: 1.35;
-}
-.court-chip .code { font-family: var(--f-mono); font-weight: 600; letter-spacing: 0.03em; color: var(--cc, var(--ink)); }
-.court-chip .n { font-family: var(--f-mono); font-variant-numeric: tabular-nums; font-size: var(--s-xs); color: var(--faint); }
-.court-chip:hover { border-color: var(--cc, var(--accent)); }
-.court-chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
-.court-chip[aria-pressed="true"] .code, .court-chip[aria-pressed="true"] .n, .court-chip[aria-pressed="true"] .fld { color: var(--accent-ink); }
-
-/* date and case strips */
-.agenda { display: grid; gap: 12px; }
-.strip-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 4px 12px; border-bottom: 1px solid var(--line); padding-bottom: 8px; }
-.sec-label { display: flex; align-items: baseline; gap: 10px; margin: 0; font-family: var(--f-display); font-weight: 700; font-size: 17px; letter-spacing: 0.06em; color: var(--charcoal); }
-.sec-label .en { font-style: italic; font-weight: 400; font-size: 14.5px; letter-spacing: 0; color: var(--faint); }
-.strip-note { font-size: var(--s-xs); color: var(--faint); }
-.agenda-list { list-style: none; margin: 0; padding: 2px 2px 8px; display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x proximity; }
-.ag {
-  flex: 0 0 auto; width: 240px; scroll-snap-align: start;
-  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow);
-  padding: 12px 14px; display: flex; flex-direction: column; gap: 6px; color: var(--ink);
-}
-.ag:hover { border-color: var(--cc, var(--accent)); box-shadow: var(--shadow-hover); }
-.ag-main { flex: 1; display: grid; gap: 4px; align-content: start; border: 0; background: none; padding: 0; margin: 0; text-align: left; color: inherit; text-decoration: none; cursor: pointer; }
-div.ag-main { cursor: default; }
-.ag-title, .ag-note { display: block; }
-.ag-foot { border-top: 1px solid var(--line); padding-top: 7px; }
-.ag-cal { font-size: var(--s-xs); color: var(--accent); text-decoration: none; white-space: nowrap; font-weight: 600; }
-.ag-cal:hover { text-decoration: underline; }
-.case-card { width: 272px; }
-.case-card .ag-note { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-.case-card.is-open { border-color: var(--cc, var(--accent)); box-shadow: inset 0 3px 0 var(--cc, var(--accent)), var(--shadow-hover); }
-.ag-top { display: flex; justify-content: space-between; gap: 8px; font-family: var(--f-mono); font-variant-numeric: tabular-nums; font-size: var(--s-xs); }
-.ag-top .code { color: var(--cc); font-weight: 600; letter-spacing: 0.03em; }
-.ag-top .when { color: var(--muted); }
-.ag-top .when.soon { color: var(--gold-ink); font-weight: 600; }
-.ag-title { font-size: var(--s-sm); line-height: 1.5; font-weight: 500; }
-.ag-note { font-size: var(--s-xs); color: var(--muted); line-height: 1.55; }
-
-/* tools */
-.tools { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; }
-.search { flex: 1 1 260px; min-width: 0; position: relative; }
+/* search and filters: one bar under the section header */
+.zone-filters { background: var(--surface); border-bottom: 1px solid var(--line); }
+.zone-filters .zone-inner { padding-block: 18px 16px; }
+.fbar { display: grid; gap: 14px; }
+.ftop { display: flex; gap: 10px; align-items: center; }
+.search { flex: 1 1 auto; min-width: 0; position: relative; }
 .search input {
   width: 100%; border: 1px solid var(--line-strong); background: var(--surface); border-radius: var(--radius);
-  padding: 8px 12px; font-size: var(--s-sm);
+  padding: 11px 14px; font-size: var(--s-md);
 }
 .search input:focus { border-color: var(--accent); }
-.tools select { border: 1px solid var(--line-strong); background: var(--surface); border-radius: var(--radius); padding: 7px 10px; font-size: var(--s-sm); }
+.ftoggle { display: none; align-items: center; gap: 6px; flex: 0 0 auto; border: 1px solid var(--line-strong); background: var(--surface); border-radius: var(--radius); padding: 10px 14px; font-size: var(--s-sm); font-weight: 600; cursor: pointer; }
+.fpanel { display: grid; gap: 12px; }
+.frow { display: flex; flex-wrap: wrap; gap: 10px 28px; }
+.fgroup { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.flabel { flex: 0 0 auto; font-size: var(--s-xs); font-weight: 600; color: var(--muted); }
+.fopts { display: flex; flex-wrap: wrap; gap: 6px; min-width: 0; }
+.fpill { display: inline-flex; align-items: baseline; gap: 6px; border: 1px solid var(--line-strong); background: var(--surface); border-radius: 999px; padding: 4px 13px; font-size: var(--s-sm); color: var(--ink); cursor: pointer; white-space: nowrap; }
+.fpill .n { font-variant-numeric: tabular-nums; font-size: var(--s-xs); color: var(--faint); }
+.fpill:hover { border-color: var(--accent); }
+.fpill[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.fpill[aria-pressed="true"] .n { color: var(--accent-ink); }
+.fpill:disabled { opacity: 0.45; cursor: default; }
+.adv { border-top: 1px dashed var(--line); padding-top: 10px; }
+.adv summary { cursor: pointer; font-size: var(--s-sm); font-weight: 600; color: var(--accent); width: max-content; }
+.adv-body { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 22px; padding-top: 12px; }
+.fsel { display: inline-flex; align-items: center; gap: 8px; font-size: var(--s-xs); font-weight: 600; color: var(--muted); }
+.fsel select { border: 1px solid var(--line-strong); background: var(--surface); border-radius: var(--radius); padding: 6px 10px; font-size: var(--s-sm); font-weight: 400; color: var(--ink); max-width: 15em; }
 .check { display: inline-flex; align-items: center; gap: 6px; font-size: var(--s-sm); color: var(--muted); cursor: pointer; }
-.check input { accent-color: var(--accent); margin: 0; }
-.seg { display: inline-flex; flex-wrap: wrap; gap: 2px; padding: 3px; border: 1px solid var(--line-strong); border-radius: 999px; background: var(--surface); }
-.seg button { display: inline-flex; align-items: baseline; gap: 6px; border: 0; background: none; border-radius: 999px; padding: 4px 13px; font-size: var(--s-sm); color: var(--muted); cursor: pointer; }
-.seg button .n { font-family: var(--f-mono); font-variant-numeric: tabular-nums; font-size: var(--s-xs); color: var(--faint); }
-.seg button:hover { color: var(--ink); }
-.seg button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); }
-.seg button[aria-pressed="true"] .n { color: var(--accent-ink); }
+.check input { accent-color: var(--accent); margin: 0; width: 16px; height: 16px; }
 .linkish { border: 0; background: none; padding: 0; font-size: var(--s-sm); color: var(--accent); cursor: pointer; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
-
-/* split: the list uses the full width until an entry is opened */
-.split { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0; align-items: start; }
-@media (min-width: 900px) {
-  body.reading .split { grid-template-columns: minmax(0, 1fr) minmax(0, 1.3fr); gap: 32px; }
+.active { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 20px; }
+.chips { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; min-width: 0; }
+.chips-label { font-size: var(--s-xs); color: var(--muted); margin-right: 2px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--accent); background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: 2px 6px 2px 12px; font-size: var(--s-sm); font-weight: 600; cursor: pointer; }
+.chip .x { display: inline-grid; place-items: center; width: 20px; height: 20px; border-radius: 50%; font-size: 15px; line-height: 1; }
+.chip:hover .x { background: var(--accent); color: var(--accent-ink); }
+.result { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 14px; font-size: var(--s-xs); color: var(--muted); }
+.result b { color: var(--ink); font-size: var(--s-sm); }
+@media (max-width: 760px) {
+  .ftoggle { display: inline-flex; }
+  .fpanel { display: none; }
+  .fbar.is-open .fpanel { display: grid; }
+  .fgroup { display: grid; gap: 6px; width: 100%; }
 }
 
-/* list */
-.list { display: grid; gap: 32px; min-width: 0; }
-.day { display: grid; gap: 12px; min-width: 0; }
-.day-items { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); }
-body.reading .day-items { grid-template-columns: minmax(0, 1fr); gap: 8px; }
+/* sidebar: upcoming dates, case tracker, keyword cloud */
+.side { display: grid; gap: 14px; align-content: start; min-width: 0; }
+.side-box { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
+.side-box > summary { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; padding: 13px 16px; cursor: pointer; list-style: none; }
+.side-box > summary::-webkit-details-marker { display: none; }
+.side-box > summary::after { content: "＋"; color: var(--faint); font-size: var(--s-sm); }
+.side-box[open] > summary::after { content: "－"; }
+.side-box[open] > summary { border-bottom: 1px solid var(--line); }
+.side-h { font-family: var(--f-display); font-weight: 700; font-size: 17px; letter-spacing: 0.06em; color: var(--charcoal); }
+.side-n { margin-left: auto; font-size: var(--s-xs); color: var(--muted); font-variant-numeric: tabular-nums; }
+.side-list { list-style: none; margin: 0; padding: 4px 16px 8px; display: grid; }
+.si { display: grid; grid-template-columns: 50px minmax(0, 1fr); gap: 10px; padding: 11px 0; border-top: 1px solid var(--line); }
+.si:first-child { border-top: 0; }
+.si-date { display: grid; align-content: start; line-height: 1.3; font-variant-numeric: lining-nums tabular-nums; }
+.si-date b { font-size: var(--s-md); color: var(--charcoal); }
+.si-date span { font-size: var(--s-xs); color: var(--muted); }
+.si-date.soon b { color: var(--gold-ink); }
+.si-main { display: grid; gap: 3px; min-width: 0; justify-items: start; }
+.si-meta { font-size: var(--s-xs); color: var(--muted); }
+.si-meta .code { color: var(--cc); font-weight: 600; letter-spacing: 0.03em; }
+.si-title { font-size: var(--s-sm); font-weight: 500; line-height: 1.5; color: var(--ink); text-align: left; text-decoration: none; border: 0; background: none; padding: 0; cursor: pointer; }
+span.si-title { cursor: default; }
+a.si-title:hover, button.si-title:hover { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.si-note { font-size: var(--s-xs); color: var(--muted); line-height: 1.55; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.si-case { grid-template-columns: minmax(0, 1fr); }
+.si-btn { display: grid; gap: 3px; width: 100%; border: 0; background: none; padding: 0; text-align: left; color: var(--ink); cursor: pointer; }
+.si-btn:hover .si-title { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.si-case.is-open .si-title { color: var(--accent); }
+.si-case.is-open { box-shadow: inset 3px 0 0 var(--accent); padding-left: 10px; }
+.si-more { display: block; padding: 10px 0 4px; border-top: 1px solid var(--line); }
+.side-foot { padding: 0 16px 14px; }
+.ag-cal { font-size: var(--s-xs); color: var(--accent); text-decoration: none; white-space: nowrap; font-weight: 600; }
+.ag-cal:hover { text-decoration: underline; }
+
+/* list and sidebar side by side; an opened entry takes the sidebar's place */
+.split { display: grid; grid-template-columns: minmax(0, 1fr); gap: 20px; align-items: start; }
+.split > .side { order: -1; }
+@media (min-width: 1060px) {
+  .split { grid-template-columns: minmax(0, 1fr) 340px; gap: 30px; }
+  .split > .side { order: 0; }
+}
+@media (min-width: 900px) {
+  body.reading .split { grid-template-columns: minmax(0, 1fr) minmax(0, 1.3fr); gap: 32px; }
+  body.reading .split > .side { display: none; }
+}
+
+/* list: short title and one key point per entry */
+.list { display: grid; gap: 30px; min-width: 0; }
+.day { display: grid; gap: 10px; min-width: 0; }
+.day-items { display: grid; gap: 10px; grid-template-columns: minmax(0, 1fr); }
 .day-head { display: flex; align-items: baseline; gap: 12px; }
-.day-head .d { font-family: var(--f-display); font-weight: 700; font-size: 17px; letter-spacing: 0.04em; color: var(--charcoal); }
-.day-head .iso { font-family: var(--f-mono); font-variant-numeric: tabular-nums; font-size: var(--s-xs); color: var(--faint); letter-spacing: 0.04em; }
+.day-head .d { font-family: var(--f-display); font-weight: 700; font-size: 18px; letter-spacing: 0.04em; color: var(--charcoal); }
+.day-head .iso { font-family: var(--f-mono); font-variant-numeric: tabular-nums; font-size: var(--s-xs); color: var(--muted); letter-spacing: 0.02em; }
 .day-head .rule { flex: 1; border-top: 1px solid var(--line); transform: translateY(-4px); }
 
 .row {
-  display: grid; grid-template-columns: 62px minmax(0, 1fr); gap: 4px 12px;
-  width: 100%; text-align: left; cursor: pointer;
+  display: grid; gap: 5px; width: 100%; text-align: left; cursor: pointer;
   background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow);
-  padding: 15px 16px 16px; align-content: start;
+  padding: 14px 18px 15px;
 }
 .row:hover { border-color: var(--cc); box-shadow: var(--shadow-hover); }
-.row[aria-current="true"] { background: var(--surface); border-color: var(--cc); box-shadow: inset 3px 0 0 var(--cc), var(--shadow-hover); }
-.row .code { font-family: var(--f-mono); font-size: var(--s-xs); font-weight: 600; letter-spacing: 0.03em; color: var(--cc); padding-top: 3px; }
-.row-main { min-width: 0; display: grid; gap: 4px; }
-.row-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 9px; font-size: var(--s-xs); color: var(--muted); }
-.kind { border: 1px solid var(--line-strong); border-radius: 3px; padding: 0 6px; line-height: 1.6; }
-.key { color: var(--gold-ink); font-weight: 600; }
+.row[aria-current="true"] { border-color: var(--cc); box-shadow: inset 3px 0 0 var(--cc), var(--shadow-hover); }
+.row-top { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; font-size: var(--s-xs); color: var(--muted); }
+.row .code { font-family: var(--f-mono); font-weight: 700; letter-spacing: 0.03em; color: var(--cc); }
+.kind { border: 1px solid var(--line-strong); border-radius: 3px; padding: 0 6px; line-height: 1.55; }
+.key { color: var(--gold-ink); font-weight: 700; }
 .fld { font-weight: 600; color: var(--c-ecthr); }
 .fld.inv { color: var(--c-icc); }
-.unread-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); display: inline-block; }
+.row-ev { color: var(--charcoal); }
+.unread-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); display: inline-block; }
 .starred { color: var(--gold-ink); }
-.row-title { font-weight: 500; font-size: var(--s-md); line-height: 1.5; }
+.row-title { font-weight: 500; font-size: 18px; line-height: 1.45; color: var(--ink); }
 .row.is-read .row-title { color: var(--muted); font-weight: 400; }
-.row-tldr { font-size: var(--s-sm); color: var(--muted); line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-body.reading .row-tldr { -webkit-line-clamp: 2; }
+.row-point { font-size: var(--s-sm); color: var(--muted); line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.row-sub { display: flex; flex-wrap: wrap; gap: 2px 14px; font-size: var(--s-xs); color: var(--muted); }
 /* commentary is lighter than court news */
 .row.is-comment { background: color-mix(in srgb, var(--surface) 45%, var(--paper)); box-shadow: none; }
 .row.is-comment .row-title { font-weight: 400; }
-.row.is-comment .code { opacity: 0.75; }
-.case-tag { font-size: var(--s-xs); color: var(--accent); font-weight: 600; }
+.case-tag { color: var(--accent); font-weight: 600; }
 
 .empty { border: 1px dashed var(--line-strong); border-radius: var(--radius); padding: 24px 20px; color: var(--muted); font-size: var(--s-sm); background: var(--surface); }
 .empty strong { color: var(--ink); display: block; font-size: var(--s-md); margin-bottom: 4px; font-weight: 600; }
@@ -307,15 +327,29 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
 .r-court .code { font-family: var(--f-mono); font-weight: 600; letter-spacing: 0.03em; color: var(--cc); background: color-mix(in srgb, var(--cc) 10%, transparent); padding: 1px 8px; border-radius: 3px; }
 .r-meta { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: var(--s-sm); color: var(--muted); }
 .r-title { font-family: var(--f-display); font-weight: 700; font-size: var(--s-xl); line-height: 1.4; letter-spacing: 0.02em; margin: 0; text-wrap: balance; }
-.r-orig { margin: 0; font-family: var(--f-display); font-style: italic; color: var(--muted); font-size: 15px; line-height: 1.55; overflow-wrap: anywhere; }
-.r-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+.r-orig { margin: 0; font-family: var(--f-body); color: var(--muted); font-size: var(--s-sm); line-height: 1.6; overflow-wrap: anywhere; }
+.r-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 2px; }
+.r-dates { margin: 4px 0 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 170px), 1fr)); gap: 0; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); }
+.r-dates > div { padding: 9px 14px; border-left: 1px solid var(--line); }
+.r-dates > div:first-child { border-left: 0; }
+.r-dates dt { font-size: var(--s-xs); color: var(--muted); font-weight: 600; }
+.r-dates dd { margin: 2px 0 0; font-size: var(--s-md); font-weight: 600; color: var(--ink); font-variant-numeric: tabular-nums; }
+.r-dates dd.na { font-weight: 400; color: var(--muted); font-size: var(--s-sm); }
+.r-dates .dd-sub { display: block; font-size: var(--s-xs); font-weight: 400; color: var(--muted); }
+@media (max-width: 560px) { .r-dates > div { border-left: 0; border-top: 1px solid var(--line); } .r-dates > div:first-child { border-top: 0; } }
+.r-src { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; }
+.srcbtn { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--accent); border-radius: var(--radius); padding: 8px 16px; font-size: var(--s-sm); font-weight: 600; color: var(--accent); background: var(--surface); text-decoration: none; }
+.srcbtn.primary { background: var(--accent); color: var(--accent-ink); }
+.srcbtn:hover { background: var(--accent-soft); }
+.srcbtn.primary:hover { background: color-mix(in srgb, var(--accent) 86%, var(--ink)); }
 .btn { border: 1px solid var(--line-strong); background: var(--surface); border-radius: var(--radius); padding: 5px 13px; font-size: var(--s-sm); cursor: pointer; }
 .btn:hover { border-color: var(--accent); }
 .btn[aria-pressed="true"] { border-color: var(--gold-ink); color: var(--gold-ink); }
 
 .r-sec { display: grid; gap: 9px; }
-.r-sec h3 { margin: 0; font-family: var(--f-body); font-size: 11.5px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--faint); font-weight: 600; display: flex; gap: 10px; align-items: baseline; }
-.r-sec h3 .zh { font-family: var(--f-display); letter-spacing: 0.06em; font-size: 15.5px; color: var(--charcoal); font-weight: 700; text-transform: none; }
+.r-sec h3 { margin: 0; font-family: var(--f-body); font-size: var(--s-xs); color: var(--faint); font-weight: 600; display: flex; gap: 10px; align-items: baseline; }
+.r-sec h3 > span:not(.zh) { display: none; }
+.r-sec h3 .zh { font-family: var(--f-display); letter-spacing: 0.06em; font-size: 17px; color: var(--charcoal); font-weight: 700; text-transform: none; }
 .r-sec p { margin: 0; max-width: 42em; }
 .r-sec p + p { margin-top: 8px; }
 .r-sec ul { margin: 0; padding-left: 1.3em; display: grid; gap: 7px; max-width: 42em; }
@@ -323,7 +357,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
 .r-sec .lead-note { list-style: none; margin-left: -1.3em; color: var(--muted); font-size: var(--s-sm); }
 
 .tldr { background: var(--accent-soft); border-radius: var(--radius); padding: 16px 18px; }
-.tldr p { font-size: 17px; line-height: 1.8; }
+.tldr p { font-size: 18px; line-height: 1.8; }
 
 .note { background: var(--note); border: 1px solid var(--note-line); border-radius: var(--radius); padding: 13px 16px; color: var(--note-ink); }
 .note h3, .note h3 .zh { color: var(--note-ink); }
@@ -333,7 +367,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
 .src { display: grid; gap: 2px; }
 .src a { font-size: var(--s-sm); line-height: 1.5; overflow-wrap: anywhere; }
 .src .src-meta { display: flex; gap: 8px; align-items: center; font-size: var(--s-xs); color: var(--faint); font-family: var(--f-mono); }
-.badge { font-family: var(--f-body); font-size: 11.5px; border-radius: 3px; padding: 0 6px; line-height: 1.6; border: 1px solid var(--line-strong); color: var(--muted); }
+.badge { font-family: var(--f-body); font-size: 13px; border-radius: 3px; padding: 0 6px; line-height: 1.6; border: 1px solid var(--line-strong); color: var(--muted); }
 .badge.off { border-color: var(--accent); color: var(--accent); }
 
 .memo { border: 1px solid var(--line); border-top: 2px solid var(--gold); border-radius: var(--radius); padding: 13px 16px; background: var(--surface); }
@@ -359,14 +393,12 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
 .case-ahead li { display: flex; flex-wrap: wrap; gap: 2px 10px; align-items: baseline; font-size: var(--s-sm); }
 .case-foot { font-size: var(--s-xs); color: var(--faint); margin: 0; }
 
-/* keyword cloud */
-.cloud-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; }
-.seg-sm { padding: 2px; }
-.seg-sm button { padding: 1px 11px; font-size: var(--s-xs); }
-.cloud { position: relative; min-height: 96px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; }
+/* keyword cloud (in the sidebar, closed until opened) */
+.side-box .cloud { margin: 12px 14px 8px; }
+.cloud { position: relative; min-height: 96px; background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
 .cw {
   position: absolute; left: 0; top: 0; margin: 0; padding: 0 4px; border: 0; border-radius: 3px; background: none;
-  font-family: var(--f-display); font-weight: 600; line-height: 1.2; letter-spacing: 0.02em; white-space: nowrap; cursor: pointer;
+  font-family: var(--f-body); font-weight: 600; line-height: 1.2; white-space: nowrap; cursor: pointer;
   font-variant-numeric: lining-nums;
 }
 .cw.t1 { color: var(--gold-ink); font-weight: 700; }
@@ -376,33 +408,23 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
 .cw:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
 .cw[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); text-decoration: none; }
 .cloud-empty { margin: 0; padding: 30px 18px; text-align: center; color: var(--muted); font-size: var(--s-sm); }
-.cloud-note { margin: 0; font-size: var(--s-xs); color: var(--faint); line-height: 1.6; }
-.digest .cloud { background: var(--paper); box-shadow: none; }
+.cloud-note { margin: 0; padding: 0 16px 14px; font-size: var(--s-xs); color: var(--muted); line-height: 1.6; }
+.digest .cloud { box-shadow: none; }
 
-/* colour blocks on the section pages: a white header with the filters, a tinted overview, then the list */
+/* section header block, tinted by section: 國際公法 pale blue, 國際仲裁法 pale sand */
 body { --tint: var(--tint-pil); --tint-line: var(--tint-pil-line); }
 body[data-sec="arb"] { --tint: var(--tint-arb); --tint-line: var(--tint-arb-line); }
-.zone-head { background: var(--surface); border-bottom: 1px solid var(--line); }
-.zone-head .zone-inner { display: grid; gap: 20px; padding-block: 26px 24px; }
-.sec-intro { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 8px 48px; }
+.zone-head { background: var(--tint); border-bottom: 1px solid var(--tint-line); }
+.zone-head .zone-inner { padding-block: 20px 18px; }
+.sec-intro { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 6px 48px; }
 .sec-name { margin: 2px 0 0; font-family: var(--f-display); font-weight: 700; font-size: 28px; line-height: 1.25; letter-spacing: 0.08em; color: var(--ink); }
-.sec-scope { margin: 0; max-width: 620px; font-size: var(--s-sm); line-height: 1.75; color: var(--muted); }
-.zone-overview { background: var(--tint); border-bottom: 1px solid var(--tint-line); }
-.zone-overview .zone-inner { display: grid; gap: 30px; padding-block: 28px 32px; }
-.zone-overview:not(:has(.agenda:not([hidden]))) { display: none; }
-.zone-overview .strip-head { border-bottom-color: var(--tint-line); }
-.zone-overview .strip-note, .zone-overview .cloud-note, .zone-overview .sec-label .en { color: var(--muted); }
-.zone-overview .seg { background: var(--surface); }
-.tools { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: 10px 14px; }
+.sec-scope { margin: 0; max-width: 640px; font-size: var(--s-sm); line-height: 1.7; color: var(--muted); }
 @media (max-width: 640px) {
-  .zone-head .zone-inner { padding-block: 20px 18px; gap: 16px; }
-  .zone-overview .zone-inner { padding-block: 22px 24px; gap: 26px; }
-  .sec-name { font-size: 24px; }
-  .tools { padding: 10px; }
+  .zone-head .zone-inner { padding-block: 14px 12px; }
+  .sec-name { font-size: 23px; }
+  .sec-scope { display: none; }
+  .zone-filters .zone-inner { padding-block: 12px; }
 }
-
-.dg-actions { display: inline-flex; gap: 6px; margin-left: auto; }
-.print-head { display: none; }
 
 /* print: one clean column on white — the open entry or case, the weekly issue, or the current list */
 @media print {
@@ -417,7 +439,7 @@ body[data-sec="arb"] { --tint: var(--tint-arb); --tint-line: var(--tint-arb-line
   }
   body { background: #FFFFFF; color: #000000; font-size: 10.5pt; line-height: 1.6; overflow: visible !important; }
   body::before { display: none; }
-  .mast, .zone, .tools, .foot, .toast, .back, .r-actions, .r-nav, .reader .tags, .memo-head .btn, .ag-cal, .dg-actions, .dg-kicker select,
+  .mast, .zone, .side, .foot, .toast, .back, .r-actions, .r-src, .r-nav, .reader .tags, .memo-head .btn, .ag-cal, .dg-actions, .dg-kicker select,
   .portal-cta, .list > .btn, .unread-dot, .cloud, .digest .dg-sec:has(.cloud) { display: none !important; }
   .print-head { display: grid; gap: 2pt; margin-bottom: 12pt; padding-bottom: 6pt; border-bottom: 1.5pt solid #000000; font-size: 8.5pt; color: #333333; }
   .ph-top { display: flex; justify-content: space-between; gap: 12pt; }
@@ -464,7 +486,7 @@ body[data-sec="arb"] { --tint: var(--tint-arb); --tint-line: var(--tint-arb-line
 .home-lead { margin: 0; max-width: 48em; font-size: 17px; line-height: 1.95; color: var(--charcoal); }
 .home-grid { display: grid; gap: 22px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 440px), 1fr)); align-items: stretch; }
 .portal { display: flex; flex-direction: column; gap: 14px; min-width: 0; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: 28px 30px 26px; }
-.portal-kicker { font-size: 11.5px; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; color: var(--gold-ink); }
+.portal-kicker { font-size: 12.5px; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; color: var(--gold-ink); }
 .portal-title { margin: -6px 0 0; font-family: var(--f-display); font-weight: 700; font-size: 30px; line-height: 1.25; letter-spacing: 0.08em; color: var(--ink); }
 .portal-title button { border: 0; background: none; padding: 0; font: inherit; letter-spacing: inherit; color: inherit; cursor: pointer; text-align: left; }
 .portal-title button:hover { text-decoration: underline; text-decoration-color: var(--gold); text-decoration-thickness: 1px; text-underline-offset: 7px; }
@@ -474,7 +496,7 @@ body[data-sec="arb"] { --tint: var(--tint-arb); --tint-line: var(--tint-arb-line
 .portal-issue { margin: -4px 0 0; font-size: var(--s-sm); color: var(--charcoal); font-weight: 600; }
 .portal-wait { margin: 0; font-size: var(--s-sm); color: var(--faint); }
 .portal-stats { margin: 0; display: flex; flex-wrap: wrap; gap: 6px 22px; padding-block: 12px; border-block: 1px solid var(--line); font-size: var(--s-xs); color: var(--muted); }
-.pstat b { margin-right: 5px; font-family: var(--f-display); font-size: 22px; font-weight: 700; color: var(--ink); font-variant-numeric: lining-nums tabular-nums; }
+.pstat b { margin-right: 5px; font-family: var(--f-body); font-size: 22px; font-weight: 700; color: var(--ink); font-variant-numeric: lining-nums tabular-nums; }
 .portal-sub { font-family: var(--f-display); font-weight: 700; font-size: 15px; letter-spacing: 0.06em; color: var(--charcoal); margin-bottom: -6px; }
 .portal-latest { list-style: none; margin: 0; padding: 0; display: grid; }
 .portal-latest li + li { border-top: 1px solid var(--line); }
@@ -490,7 +512,7 @@ body[data-sec="arb"] { --tint: var(--tint-arb); --tint-line: var(--tint-arb-line
 .up-list { list-style: none; margin: 0; padding: 0; display: grid; }
 .up-item { display: grid; grid-template-columns: 58px minmax(0, 1fr) auto; gap: 12px; align-items: baseline; padding: 10px 0; border-top: 1px solid var(--line); }
 .up-item:first-child { border-top: 0; padding-top: 2px; }
-.up-date { font-family: var(--f-display); font-weight: 700; font-size: 16px; color: var(--charcoal); font-variant-numeric: lining-nums tabular-nums; display: grid; line-height: 1.3; }
+.up-date { font-family: var(--f-body); font-weight: 700; font-size: 16px; color: var(--charcoal); font-variant-numeric: lining-nums tabular-nums; display: grid; line-height: 1.3; }
 .up-wd { font-family: var(--f-body); font-weight: 400; font-size: var(--s-xs); color: var(--faint); }
 .up-main { display: grid; gap: 2px; min-width: 0; }
 .up-meta { font-size: var(--s-xs); color: var(--muted); }
@@ -558,17 +580,16 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
   .brand { gap: 12px; }
   .emblem { width: 42px; height: 42px; }
   .eyebrow { font-size: 10px; letter-spacing: 0.12em; }
-  /* chips scroll sideways on phones instead of stacking five rows deep */
-  .courts { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; -webkit-mask-image: linear-gradient(to right, #000 86%, transparent); mask-image: linear-gradient(to right, #000 86%, transparent); }
-  .courts::-webkit-scrollbar { display: none; }
-  .court-chip { flex: 0 0 auto; white-space: nowrap; }
   .mast-art { width: 380px; height: 380px; right: -140px; top: -120px; }
-  .ag { width: 216px; }
-  .case-card { width: 240px; }
-  .row { grid-template-columns: 52px minmax(0, 1fr); padding-inline: 10px; }
+  .st-cov { display: none; }
+  .mast-inner { gap: 14px; }
+  .side { gap: 8px; }
+  .side-box > summary { padding: 10px 14px; }
+  .row { padding: 13px 14px 14px; }
+  .row-title { font-size: 17px; }
 }
 @media (prefers-reduced-motion: no-preference) {
-  .row, .court-chip, .ag, .btn, .sec-tab, .tl-card, .dg-link, .seg button { transition: background-color .15s, border-color .15s, color .15s, box-shadow .2s; }
+  .row, .fpill, .chip, .btn, .srcbtn, .sec-tab, .tl-card, .dg-link, .si-btn { transition: background-color .15s, border-color .15s, color .15s, box-shadow .2s; }
 }
 </style>
 </head>
@@ -628,60 +649,63 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
       </div>
       <p class="sec-scope" id="secScope"></p>
     </div>
-    <div class="filters">
-      <nav class="courts" id="fields" aria-label="依領域篩選" hidden></nav>
-      <nav class="courts" id="courts" aria-label="依類別篩選"></nav>
+  </div>
+</div>
+
+<div class="zone zone-filters" id="zoneFilters" hidden>
+  <div class="wrap zone-inner">
+    <div class="fbar" id="fbar">
+      <div class="ftop">
+        <div class="search"><input id="q" type="search" placeholder="搜尋案名、關鍵字、條文" aria-label="搜尋"></div>
+        <button class="ftoggle" id="fToggle" type="button" aria-expanded="false" aria-controls="fpanel">篩選</button>
+      </div>
+      <div class="fpanel" id="fpanel">
+        <div class="frow">
+          <div class="fgroup"><span class="flabel" id="areaLabel">領域</span><div class="fopts" id="fArea" role="group" aria-labelledby="areaLabel"></div></div>
+          <div class="fgroup"><span class="flabel" id="typeLabel">資料類型</span><div class="fopts" id="fType" role="group" aria-labelledby="typeLabel"></div></div>
+          <div class="fgroup"><span class="flabel" id="rangeLabel">日期</span><div class="fopts" id="fRange" role="group" aria-labelledby="rangeLabel"></div></div>
+        </div>
+        <details class="adv" id="adv">
+          <summary>進階篩選<span id="advN"></span></summary>
+          <div class="adv-body">
+            <label class="fsel"><span id="orgLabel">機構</span><select id="fOrg"></select></label>
+            <label class="fsel"><span>國家／地區</span><select id="fCountry"></select></label>
+            <label class="fsel"><span>關鍵字</span><select id="fTag"></select></label>
+            <label class="check"><input id="unreadOnly" type="checkbox"> 只看未讀</label>
+            <label class="check"><input id="starOnly" type="checkbox"> 只看收藏</label>
+            <button class="linkish" id="markAll" type="button">全部標為已讀</button>
+          </div>
+        </details>
+      </div>
+      <div class="active">
+        <div class="chips" id="chips"></div>
+        <div class="result"><span id="resultN"></span><button class="linkish" id="printList" type="button" hidden>列印列表</button></div>
+      </div>
     </div>
   </div>
 </div>
 
-<div class="zone zone-overview" id="zoneOverview">
-  <div class="wrap zone-inner">
-    <section class="agenda" id="agendaWrap" hidden>
-      <div class="strip-head">
-        <h2 class="sec-label">即將到來 <span class="en">Upcoming</span></h2>
-        <button class="linkish" id="icsAll" type="button">下載全部日期（.ics）</button>
-      </div>
-      <ol class="agenda-list" id="agenda"></ol>
-    </section>
-
-    <section class="agenda" id="casesWrap" hidden>
-      <div class="strip-head">
-        <h2 class="sec-label">案件追蹤 <span class="en">Case tracker</span></h2>
-        <span class="strip-note">點選案件，查看該案所有動態的時間軸</span>
-      </div>
-      <ol class="agenda-list" id="cases"></ol>
-    </section>
-
-    <section class="agenda" id="cloudWrap" hidden>
-      <div class="strip-head">
-        <h2 class="sec-label">關鍵字雲 <span class="en">Keyword cloud</span></h2>
-        <div class="cloud-tools">
-          <div class="seg seg-sm" id="cloudRange" role="group" aria-label="統計期間"></div>
-          <button class="linkish" id="cloudToggle" type="button" aria-expanded="true" aria-controls="cloud">收合</button>
-        </div>
-      </div>
-      <div class="cloud" id="cloud" role="group" aria-label="關鍵字雲"></div>
-      <p class="cloud-note" id="cloudNote"></p>
-    </section>
-  </div>
-</div>
-
 <div class="app wrap">
-  <div class="tools" id="tools">
-    <div class="seg" id="genre" role="group" aria-label="動態或評論"></div>
-    <div class="search"><input id="q" type="search" placeholder="搜尋案名、關鍵字、條文（例：Monetary Gold、第8條）" aria-label="搜尋"></div>
-    <select id="kind" aria-label="依類型篩選"><option value="">所有類型</option></select>
-    <label class="check"><input id="unreadOnly" type="checkbox"> 只看未讀</label>
-    <label class="check"><input id="starOnly" type="checkbox"> 只看收藏</label>
-    <button class="linkish" id="markAll" type="button">全部標為已讀</button>
-    <button class="linkish" id="printList" type="button" hidden>列印列表</button>
-  </div>
-
   <main class="split">
     <section class="list" id="list" aria-label="動態列表">
       <div class="empty"><strong>正在讀取動態</strong>最新的國際法動態會顯示在這裡。</div>
     </section>
+    <aside class="side" id="side" aria-label="即將到來、案件追蹤與關鍵字雲" hidden>
+      <details class="side-box" id="sideAgenda" hidden>
+        <summary><span class="side-h">即將到來</span><span class="side-n" id="agendaN"></span></summary>
+        <ol class="side-list" id="agenda"></ol>
+        <div class="side-foot"><button class="linkish" id="icsAll" type="button">下載全部日期（.ics）</button></div>
+      </details>
+      <details class="side-box" id="sideCases" hidden>
+        <summary><span class="side-h">案件追蹤</span><span class="side-n" id="casesN"></span></summary>
+        <ol class="side-list" id="cases"></ol>
+      </details>
+      <details class="side-box" id="sideCloud" hidden>
+        <summary><span class="side-h">關鍵字雲</span><span class="side-n">點選即篩選</span></summary>
+        <div class="cloud" id="cloud" role="group" aria-label="關鍵字雲"></div>
+        <p class="cloud-note" id="cloudNote"></p>
+      </details>
+    </aside>
     <article class="reader" id="reader" aria-live="polite"></article>
   </main>
 </div>
@@ -754,6 +778,94 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
   };
   SECTIONS.pil.scope = "國際法院、國際刑事法院、歐洲／美洲／非洲人權法院、國際海洋法法庭的判決、裁定與程序進展，以及 EJIL:Talk!、Opinio Juris 的學術評論。";
   SECTIONS.arb.scope = "國際商務仲裁與以國家為被申請人的投資條約仲裁：各國法院裁判、仲裁判斷、仲裁機構規則、立法改革與實務評論。";
+  SECTIONS.pil.filterHint = SECTIONS.arb.filterHint = "試著移除部分篩選條件，或按「清除全部」。";
+  SECTIONS.pil.placeholder = "搜尋案名、關鍵字、條文（例：Monetary Gold、第 8 條）";
+  SECTIONS.arb.placeholder = "搜尋案名、關鍵字、法域、條文（例：anti-suit、ICSID、第 68 條）";
+
+  // ---- filter dimensions ----
+  // Main filters: 領域, 資料類型, 日期. Advanced: 機構, 國家／地區, 關鍵字 (plus unread / starred).
+  var HR_COURTS = ["ECtHR", "IACtHR", "ACtHPR"];
+  // 國際公法: the court an entry concerns — its own court, else its tracked case's court, else the court its tags name
+  function effCourt(it) {
+    var c = str(it.court);
+    if (c && c !== "OTHER") return c;
+    if (it.caseId) { var cs = caseById(it.caseId, "pil"); if (cs && str(cs.court) && cs.court !== "OTHER") return cs.court; }
+    var tags = arr(it.tags).join(" ");
+    if (/國際刑事法院|\bICC\b/.test(tags)) return "ICC";
+    if (/國際法院|\bICJ\b/.test(tags)) return "ICJ";
+    return "OTHER";
+  }
+  function courtIs(code) { return function (it) { return str(it.court) === code; }; }
+  function hayOf(it) { return [it.title, it.shortTitle, it.titleOriginal, it.caseRef, it.outlet, arr(it.tags).join(" ")].map(str).join(" "); }
+  function textHas(re) { return function (it) { return re.test(hayOf(it)); }; }
+  SECTIONS.pil.areas = [
+    { key: "icj", label: "國際法院", test: function (it) { return effCourt(it) === "ICJ"; } },
+    { key: "icc", label: "國際刑事法院", test: function (it) { return effCourt(it) === "ICC"; } },
+    { key: "hr", label: "人權法院", test: function (it) { return HR_COURTS.indexOf(effCourt(it)) >= 0; } },
+    { key: "sea", label: "海洋法", test: function (it) { return effCourt(it) === "ITLOS"; } },
+    { key: "other", label: "其他", test: function (it) { return effCourt(it) === "OTHER"; } }
+  ];
+  SECTIONS.arb.areas = [
+    { key: "commercial", label: "商務仲裁", test: function (it) { return fieldOf(it) === "commercial"; } },
+    { key: "investment", label: "投資仲裁", test: function (it) { return fieldOf(it) === "investment"; } }
+  ];
+  SECTIONS.pil.types = [
+    { key: "ruling", label: "裁判", kinds: ["判決", "裁定", "諮詢意見", "逮捕令"] },
+    { key: "proc", label: "新案與程序", kinds: ["新案件", "程序進展"] },
+    { key: "inst", label: "機構與其他", kinds: ["機構動態", "其他"] },
+    { key: "comment", label: "學術評論", kinds: ["學術評論", "實務評論"] }
+  ];
+  SECTIONS.arb.types = [
+    { key: "court", label: "法院裁判", kinds: ["法院裁判"] },
+    { key: "award", label: "仲裁判斷", kinds: ["仲裁判斷"] },
+    { key: "case", label: "案件動態", kinds: ["案件動態"] },
+    { key: "rules", label: "機構與立法", kinds: ["機構動態", "立法動態"] },
+    { key: "comment", label: "評論", kinds: ["實務評論", "學術評論"] }
+  ];
+  SECTIONS.pil.orgLabel = "機構／來源";
+  SECTIONS.pil.orgs = [
+    { key: "ICJ", label: "國際法院", test: courtIs("ICJ") },
+    { key: "ICC", label: "國際刑事法院", test: courtIs("ICC") },
+    { key: "ECtHR", label: "歐洲人權法院", test: courtIs("ECtHR") },
+    { key: "IACtHR", label: "美洲人權法院", test: courtIs("IACtHR") },
+    { key: "ACtHPR", label: "非洲人權法院", test: courtIs("ACtHPR") },
+    { key: "ITLOS", label: "國際海洋法法庭", test: courtIs("ITLOS") },
+    { key: "EJIL", label: "EJIL:Talk!", test: function (it) { return it.outletCode === "EJIL"; } },
+    { key: "OJ", label: "Opinio Juris", test: function (it) { return it.outletCode === "OJ"; } }
+  ];
+  SECTIONS.arb.orgLabel = "仲裁機構";
+  SECTIONS.arb.orgs = [
+    { key: "ICSID", label: "ICSID", test: textHas(/ICSID|CIADI/) },
+    { key: "ICC", label: "ICC 國際商會", test: textHas(/\bICC\b|國際商會/) },
+    { key: "PCA", label: "PCA 常設仲裁法院", test: textHas(/\bPCA\b|常設仲裁法院/) },
+    { key: "HKIAC", label: "HKIAC 香港國際仲裁中心", test: textHas(/HKIAC|香港國際仲裁中心/) },
+    { key: "SIAC", label: "SIAC 新加坡國際仲裁中心", test: textHas(/SIAC|新加坡國際仲裁中心/) },
+    { key: "LCIA", label: "LCIA 倫敦國際仲裁院", test: textHas(/LCIA|倫敦國際仲裁院/) },
+    { key: "SCC", label: "SCC 斯德哥爾摩商會仲裁院", test: textHas(/\bSCC\b|斯德哥爾摩/) },
+    { key: "UNCITRAL", label: "UNCITRAL", test: textHas(/UNCITRAL|聯合國國際貿易法委員會/) },
+    { key: "CIETAC", label: "CIETAC 中國國際經濟貿易仲裁委員會", test: textHas(/CIETAC|中國國際經濟貿易仲裁委員會/) },
+    { key: "DIS", label: "DIS 德國仲裁協會", test: textHas(/\bDIS\b|德國仲裁協會/) }
+  ];
+  var RANGES = [{ key: "7", label: "近 7 天" }, { key: "30", label: "近 30 天" }, { key: "90", label: "近 90 天" }];
+  var COUNTRIES = ["美國", "英國", "法國", "德國", "荷蘭", "比利時", "盧森堡", "瑞士", "奧地利", "義大利", "西班牙", "葡萄牙", "希臘",
+    "土耳其", "俄羅斯", "烏克蘭", "波蘭", "瑞典", "挪威", "斯洛維尼亞", "塞爾維亞", "克羅埃西亞", "中國", "香港", "台灣", "日本", "韓國",
+    "新加坡", "印度", "巴基斯坦", "孟加拉", "伊朗", "伊拉克", "以色列", "巴勒斯坦", "約旦", "阿聯酋", "阿富汗", "菲律賓", "緬甸", "馬來西亞",
+    "澳洲", "萬那杜", "加拿大", "墨西哥", "宏都拉斯", "委內瑞拉", "哥倫比亞", "秘魯", "智利", "阿根廷", "巴西", "烏拉圭", "南非", "甘比亞",
+    "盧安達", "剛果", "馬利", "南蘇丹", "尼加拉瓜", "象牙海岸", "尼日", "馬拉威", "喀麥隆", "烏干達", "肯亞"];
+  var COUNTRY_RE = COUNTRIES.map(function (c) { return [c, new RegExp(c + (/國$/.test(c) ? "(?!際)" : ""))]; });
+  var countryCache = {};
+  // places an entry concerns: its stated jurisdiction plus countries named in its title or tags
+  function countriesOf(it) {
+    if (countryCache[it.id]) return countryCache[it.id];
+    var text = [it.title, it.shortTitle, arr(it.tags).join(" ")].map(str).join(" "), out = [];
+    str(it.jurisdiction).split(/[、,，\/／]/).forEach(function (j) { j = j.trim(); if (j && out.indexOf(j) < 0) out.push(j); });
+    COUNTRY_RE.forEach(function (c) { if (c[1].test(text) && out.indexOf(c[0]) < 0) out.push(c[0]); });
+    return (countryCache[it.id] = out);
+  }
+  function hasTag(it, t) { t = str(t).toLowerCase(); return arr(it.tags).some(function (x) { return x.trim().toLowerCase() === t; }); }
+  function isDecision(it) { return ["判決", "裁定", "諮詢意見", "逮捕令", "法院裁判", "仲裁判斷"].indexOf(str(it.kind)) >= 0; }
+  function optOf(list, key) { return (list || []).filter(function (o) { return o.key === key; })[0] || null; }
+
   var SECTION_ORDER = ["home", "pil", "arb", "week"];
   var ITEM_SECTIONS = ["pil", "arb"];
   var WEEK = ["日", "一", "二", "三", "四", "五", "六"];
@@ -771,8 +883,9 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
   var readSet = loadSet("ild.read");
   var starSet = loadSet("ild.star");
 
-  var savedGenre = loadPref("ild.genre");
-  var state = { section: "home", field: "", genre: (savedGenre === "news" || savedGenre === "comment") ? savedGenre : "", court: "", kind: "", q: "", unreadOnly: false, starOnly: false, openId: "", openCase: "", issueId: "" };
+  var FILTER_DIMS = ["area", "type", "range", "org", "country", "tag"];
+  var state = { section: "home", area: "", type: "", range: "", org: "", country: "", tag: "", q: "", unreadOnly: false, starOnly: false,
+    openId: "", openCase: "", issueId: "", agendaAll: false, casesAll: false };
   function S() { return data[state.section]; }
   function CFG() { return SECTIONS[state.section]; }
   function isDigest() { return !!CFG().digest; }
@@ -942,24 +1055,29 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
       return str(b.addedAt).localeCompare(str(a.addedAt));
     });
   }
-  function matches(it, ignoreGenre) {
-    var cfg = CFG();
-    if (state.field && cfg.fields && fieldOf(it) !== state.field) return false;
-    if (!ignoreGenre && state.genre === "news" && isComment(it)) return false;
-    if (!ignoreGenre && state.genre === "comment" && !isComment(it)) return false;
-    if (state.court && courtKey(it.court) !== state.court) return false;
-    if (state.kind && str(it.kind) !== state.kind) return false;
+  // skip: dimensions to ignore (used for the counts shown next to each option)
+  function matches(it, skip) {
+    var cfg = CFG(), o;
+    function sk(n) { return !!skip && skip.indexOf(n) >= 0; }
+    if (state.area && !sk("area") && (o = optOf(cfg.areas, state.area)) && !o.test(it)) return false;
+    if (state.type && !sk("type") && (o = optOf(cfg.types, state.type)) && o.kinds.indexOf(str(it.kind)) < 0) return false;
+    if (state.range && !sk("range") && str(it.date) < isoMinus(todayISO(), +state.range - 1)) return false;
+    if (state.org && !sk("org") && (o = optOf(cfg.orgs, state.org)) && !o.test(it)) return false;
+    if (state.country && !sk("country") && countriesOf(it).indexOf(state.country) < 0) return false;
+    if (state.tag && !sk("tag") && !hasTag(it, state.tag)) return false;
     if (state.unreadOnly && readSet.has(it.id)) return false;
     if (state.starOnly && !starSet.has(it.id)) return false;
-    if (state.q) {
+    if (state.q && !sk("q")) {
       var cat = catOf(courtKey(it.court));
       var cs = it.caseId ? caseById(it.caseId) : null;
-      var hay = [it.title, it.titleOriginal, it.tldr, it.memo, it.caseRef, it.context, it.holding, it.author, it.outlet, it.jurisdiction, (fieldCfg(it) || {}).zh, cs ? cs.name : "", arr(it.tags).join(" "), cat.zh, cat.code, it.court].map(str).join(" ").toLowerCase();
+      var hay = [it.title, it.shortTitle, it.point, it.titleOriginal, it.tldr, it.memo, it.caseRef, it.context, it.holding, it.author, it.outlet, it.jurisdiction,
+        (fieldCfg(it) || {}).zh, cs ? cs.name : "", arr(it.tags).join(" "), cat.zh, cat.code, it.court].map(str).join(" ").toLowerCase();
       var terms = state.q.toLowerCase().split(/\s+/).filter(Boolean);
       for (var i = 0; i < terms.length; i++) if (hay.indexOf(terms[i]) < 0) return false;
     }
     return true;
   }
+  function pool(skip) { return S().items.filter(function (it) { return matches(it, skip); }); }
   function visible() { return sortItems(S().items.filter(function (i) { return matches(i); })); }
 
   // ---- masthead ----
@@ -980,7 +1098,7 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
     document.getElementById("eyebrow").textContent = CFG().eyebrow;
     document.getElementById("q").placeholder = CFG().placeholder;
     var dg = isPage();
-    ["tools", "courts"].forEach(function (id) { document.getElementById(id).hidden = dg; });
+    document.getElementById("side").hidden = dg;
     document.body.setAttribute("data-sec", state.section);
     document.getElementById("zoneHead").hidden = dg;
     if (!dg) {
@@ -1016,96 +1134,124 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
     if (last) el.appendChild(h("span", null, "最後更新 ", h("b", { class: "mono", text: last }), "（台北）"));
     var unread = d.items.filter(function (i) { return !readSet.has(i.id); }).length;
     el.appendChild(h("span", null, "共 ", h("b", { class: "mono", text: String(d.items.length) }), " 則 · 未讀 ", h("b", { class: "mono", text: String(unread) })));
-    if (m.coverageNote) el.appendChild(h("span", { text: str(m.coverageNote) }));
-    else if (m.coverageFrom) el.appendChild(h("span", { text: "收錄自 " + str(m.coverageFrom) }));
+    if (m.coverageNote) el.appendChild(h("span", { class: "st-cov", text: str(m.coverageNote) }));
+    else if (m.coverageFrom) el.appendChild(h("span", { class: "st-cov", text: "收錄自 " + str(m.coverageFrom) }));
   }
 
-  function renderFields() {
-    var nav = document.getElementById("fields");
-    var cfg = CFG(), d = S();
-    nav.replaceChildren();
-    nav.hidden = !cfg.fields || isPage();
-    if (nav.hidden) return;
-    var counts = {}; d.items.forEach(function (i) { var f = fieldOf(i); counts[f] = (counts[f] || 0) + 1; });
-    nav.appendChild(h("button", { class: "court-chip", type: "button", "aria-pressed": state.field === "" ? "true" : "false", onclick: function () { setField(""); } },
-      h("span", { class: "code", text: "全部領域" }), h("span", { class: "n", text: String(d.items.length) })));
-    Object.keys(cfg.fields).forEach(function (f) {
-      var c = cfg.fields[f];
-      nav.appendChild(h("button", { class: "court-chip", type: "button", title: c.en, "aria-pressed": state.field === f ? "true" : "false", onclick: function () { setField(state.field === f ? "" : f); } },
-        h("span", { class: "fld" + (f === "investment" ? " inv" : ""), text: c.zh }), h("span", { class: "n", text: String(counts[f] || 0) })));
+  // ---- search and filters ----
+  function pills(boxId, opts, dim, has) {
+    var box = document.getElementById(boxId), base = pool([dim]);
+    box.replaceChildren(h("button", { type: "button", class: "fpill", "aria-pressed": state[dim] ? "false" : "true", onclick: function () { setFilter(dim, ""); } },
+      "全部", h("span", { class: "n", text: String(base.length) })));
+    opts.forEach(function (o) {
+      var n = base.filter(function (it) { return has(o, it); }).length, on = state[dim] === o.key;
+      box.appendChild(h("button", { type: "button", class: "fpill", "aria-pressed": on ? "true" : "false", disabled: !n && !on,
+        onclick: function () { setFilter(dim, on ? "" : o.key); } }, o.label, h("span", { class: "n", text: String(n) })));
     });
   }
-  function setField(f) { state.field = f; renderFields(); renderCourts(); renderGenre(); renderList(); renderCloud(); }
-
-  function renderCourts() {
-    var nav = document.getElementById("courts");
-    var cfg = CFG(), d = S();
-    nav.replaceChildren();
-    if (isPage()) return;
-    var pool = d.items.filter(function (i) { return !state.field || !cfg.fields || fieldOf(i) === state.field; });
-    var counts = {}; pool.forEach(function (i) { var k = courtKey(i.court); counts[k] = (counts[k] || 0) + 1; });
-    nav.appendChild(h("button", { class: "court-chip", type: "button", "aria-pressed": state.court === "" ? "true" : "false", onclick: function () { setCourt(""); } },
-      h("span", { class: "code", text: "全部" }), h("span", { class: "n", text: String(pool.length) })));
-    cfg.order.forEach(function (k) {
-      var c = cfg.cats[k];
-      if (!counts[k] && (state.section === "arb" || k === "OTHER")) return;
-      nav.appendChild(h("button", { class: "court-chip", type: "button", "data-court": k, title: (c.zh ? c.zh + " · " : "") + c.en, "aria-pressed": state.court === k ? "true" : "false", onclick: function () { setCourt(state.court === k ? "" : k); } },
-        h("span", { class: "code", text: c.code }), c.zh ? h("span", { text: c.zh }) : null, h("span", { class: "n", text: String(counts[k] || 0) })));
-    });
+  function fillSelect(id, label, options, dim) {
+    var sel = document.getElementById(id);
+    sel.replaceChildren(h("option", { value: "", text: "全部" + label }));
+    options.forEach(function (o) { sel.appendChild(h("option", { value: o.key, text: o.label + "（" + o.n + "）" })); });
+    if (state[dim] && !options.some(function (o) { return o.key === state[dim]; })) sel.appendChild(h("option", { value: state[dim], text: state[dim] + "（0）" }));
+    sel.value = state[dim];
   }
-  function setCourt(k) { state.court = k; renderCourts(); renderGenre(); renderList(); renderCloud(); }
-
-  function renderGenre() {
-    var box = document.getElementById("genre");
+  function activeCount() { return FILTER_DIMS.filter(function (k) { return state[k]; }).length + (state.unreadOnly ? 1 : 0) + (state.starOnly ? 1 : 0); }
+  function renderFilters() {
+    var zone = document.getElementById("zoneFilters");
+    if (isPage()) { zone.hidden = true; return; }
+    zone.hidden = false;
+    var cfg = CFG(), today = todayISO();
+    pills("fArea", cfg.areas || [], "area", function (o, it) { return o.test(it); });
+    pills("fType", cfg.types || [], "type", function (o, it) { return o.kinds.indexOf(str(it.kind)) >= 0; });
+    pills("fRange", RANGES, "range", function (o, it) { return str(it.date) >= isoMinus(today, +o.key - 1); });
+    document.getElementById("orgLabel").textContent = cfg.orgLabel || "機構";
+    var ob = pool(["org"]);
+    fillSelect("fOrg", cfg.orgLabel || "機構", (cfg.orgs || []).map(function (o) { return { key: o.key, label: o.label, n: ob.filter(o.test).length }; })
+      .filter(function (o) { return o.n; }), "org");
+    var cb = pool(["country"]), cc = {};
+    cb.forEach(function (it) { countriesOf(it).forEach(function (c) { cc[c] = (cc[c] || 0) + 1; }); });
+    fillSelect("fCountry", "國家／地區", Object.keys(cc).sort(function (a, b) { return (cc[b] - cc[a]) || a.localeCompare(b, "zh-Hant"); })
+      .map(function (c) { return { key: c, label: c, n: cc[c] }; }), "country");
+    fillSelect("fTag", "關鍵字", tagStats(pool(["tag"])).slice(0, 100).map(function (w) { return { key: w.text, label: w.text, n: w.n }; }), "tag");
+    document.getElementById("unreadOnly").checked = state.unreadOnly;
+    document.getElementById("starOnly").checked = state.starOnly;
+    var adv = ["org", "country", "tag"].filter(function (k) { return state[k]; }).length + (state.unreadOnly ? 1 : 0) + (state.starOnly ? 1 : 0);
+    document.getElementById("advN").textContent = adv ? "（" + adv + "）" : "";
+    if (adv) document.getElementById("adv").open = true;
+    var n = activeCount();
+    document.getElementById("fToggle").textContent = n ? "篩選（" + n + "）" : "篩選";
+    renderChips();
+  }
+  function chipLabel(dim) {
+    var cfg = CFG(), o;
+    if (dim === "area") return (o = optOf(cfg.areas, state.area)) ? o.label : state.area;
+    if (dim === "type") return (o = optOf(cfg.types, state.type)) ? o.label : state.type;
+    if (dim === "range") return (o = optOf(RANGES, state.range)) ? o.label : state.range;
+    if (dim === "org") return (o = optOf(cfg.orgs, state.org)) ? o.label : state.org;
+    if (dim === "country") return state.country;
+    if (dim === "tag") return "關鍵字：" + state.tag;
+    return "";
+  }
+  function renderChips() {
+    var box = document.getElementById("chips"), chips = [];
+    FILTER_DIMS.forEach(function (d) { if (state[d]) chips.push([chipLabel(d), function () { setFilter(d, ""); }]); });
+    if (state.q) chips.push(["搜尋：" + state.q, function () { setQuery(""); }]);
+    if (state.unreadOnly) chips.push(["只看未讀", function () { state.unreadOnly = false; refresh(); }]);
+    if (state.starOnly) chips.push(["只看收藏", function () { state.starOnly = false; refresh(); }]);
     box.replaceChildren();
-    if (isPage()) return;
-    var g = CFG().genres || { news: "動態", comment: "評論" };
-    var pool = S().items.filter(function (i) { return matches(i, true); });
-    var nNews = pool.filter(function (i) { return !isComment(i); }).length, nCom = pool.length - nNews;
-    [["", "全部", pool.length], ["news", g.news, nNews], ["comment", g.comment, nCom]].forEach(function (o) {
-      box.appendChild(h("button", { type: "button", "aria-pressed": state.genre === o[0] ? "true" : "false", onclick: function () { setGenre(o[0]); } },
-        o[1], h("span", { class: "n", text: String(o[2]) })));
-    });
+    if (!chips.length) box.appendChild(h("span", { class: "chips-label", text: "顯示全部動態" }));
+    else {
+      box.appendChild(h("span", { class: "chips-label", text: "目前篩選" }));
+      chips.forEach(function (c) {
+        box.appendChild(h("button", { type: "button", class: "chip", title: "移除這個條件", onclick: c[1] }, c[0], h("span", { class: "x", "aria-hidden": "true", text: "×" })));
+      });
+      box.appendChild(h("button", { type: "button", class: "linkish", onclick: clearFilters, text: "清除全部" }));
+    }
+    document.getElementById("resultN").replaceChildren("共 ", h("b", { text: String(visible().length) }), " 則 · 依來源發布日期排列");
   }
-  function setGenre(g) { state.genre = g; savePref("ild.genre", g); renderGenre(); renderList(); renderCloud(); }
-
-  function renderKinds() {
-    var sel = document.getElementById("kind");
-    var kinds = Array.from(new Set(S().items.map(function (i) { return str(i.kind); }).filter(Boolean))).sort();
-    if (state.kind && kinds.indexOf(state.kind) < 0) state.kind = "";
-    var cur = state.kind;
-    sel.replaceChildren(h("option", { value: "", text: "所有類型" }));
-    kinds.forEach(function (k) { sel.appendChild(h("option", { value: k, text: k, selected: k === cur })); });
+  function refresh() { renderFilters(); renderList(); renderCases(); renderCloud(); if (state.openId) renderReader(); }
+  function setFilter(dim, v) { state[dim] = v; refresh(); }
+  function clearFilters() {
+    FILTER_DIMS.forEach(function (k) { state[k] = ""; });
+    state.unreadOnly = state.starOnly = false; state.q = "";
+    document.getElementById("q").value = "";
+    refresh();
   }
 
-  function agendaCard(a, sec) {
-    var today = todayISO(), d = data[sec];
-    var k = courtKey(a.court, sec);
+  // ---- sidebar: upcoming dates and tracked cases ----
+  var SIDE_LIMIT = 5;
+  function moreItem(all, total, toggle, unit) {
+    if (total <= SIDE_LIMIT) return null;
+    return h("li", { class: "si-more" }, h("button", { type: "button", class: "linkish", onclick: toggle, text: all ? "收合" : "顯示全部 " + total + " " + unit }));
+  }
+  function agendaItem(a, sec) {
+    var today = todayISO(), d = data[sec], k = courtKey(a.court, sec), wd = parseISO(a.date);
     var n = str(a.date) ? daysBetween(today, a.date) : null;
-    var whenText = n == null ? "日期未定" : n === 0 ? "今天" : n === 1 ? "明天" : (n + " 天後 · " + str(a.date).slice(5).replace("-", "/"));
-    var inner = [
-      h("span", { class: "ag-top" }, h("span", { class: "code", text: catOf(k, sec).code }), h("span", { class: "when" + (n != null && n <= 7 ? " soon" : ""), text: whenText })),
-      h("span", { class: "ag-title", text: str(a.title) }),
-      a.note ? h("span", { class: "ag-note", text: str(a.note) }) : null
-    ];
+    var rel = n == null ? "日期未定" : n === 0 ? "今天" : n === 1 ? "明天" : n + " 天後";
     var related = a.relatedId && d.items.some(function (i) { return i.id === a.relatedId; });
     var url = safeUrl(a.url);
-    var main = related
-      ? h("button", { class: "ag-main", type: "button", onclick: function () { openItem(a.relatedId); } }, inner)
-      : url ? h("a", { class: "ag-main", href: url, target: "_blank", rel: "noopener noreferrer" }, inner)
-      : h("div", { class: "ag-main" }, inner);
-    var foot = str(a.date) ? h("span", { class: "ag-foot" },
-      h("a", { class: "ag-cal", href: gcalUrl(a, sec), target: "_blank", rel: "noopener noreferrer", title: "加入 Google 行事曆" }, "＋ Google 行事曆")) : null;
-    return h("li", { class: "ag", "data-court": k }, main, foot);
+    var title = related ? h("button", { type: "button", class: "si-title", onclick: function () { openItem(a.relatedId); } }, str(a.title))
+      : url ? h("a", { class: "si-title", href: url, target: "_blank", rel: "noopener noreferrer" }, str(a.title))
+      : h("span", { class: "si-title", text: str(a.title) });
+    return h("li", { class: "si", "data-court": k },
+      h("span", { class: "si-date" + (n != null && n <= 7 ? " soon" : "") }, h("b", { text: str(a.date) ? shortDate(a.date) : "未定" }), wd ? h("span", { text: "週" + WEEK[wd.getDay()] }) : null),
+      h("span", { class: "si-main" },
+        h("span", { class: "si-meta" }, h("span", { class: "code", text: catOf(k, sec).code }), " · " + rel),
+        title,
+        a.note ? h("span", { class: "si-note", text: str(a.note) }) : null,
+        str(a.date) ? h("a", { class: "ag-cal", href: gcalUrl(a, sec), target: "_blank", rel: "noopener noreferrer", title: "加入 Google 行事曆" }, "＋ 行事曆") : null));
   }
-
   function renderAgenda() {
-    var wrap = document.getElementById("agendaWrap"), ol = document.getElementById("agenda");
+    var box = document.getElementById("sideAgenda"), ol = document.getElementById("agenda");
     ol.replaceChildren();
-    if (isPage()) { wrap.hidden = true; return; }
+    if (isPage()) { box.hidden = true; return; }
     var all = upcomingAgenda(state.section);
-    wrap.hidden = all.length === 0;
-    all.forEach(function (a) { ol.appendChild(agendaCard(a, state.section)); });
+    box.hidden = all.length === 0;
+    document.getElementById("agendaN").textContent = all.length ? all.length + " 筆" : "";
+    (state.agendaAll ? all : all.slice(0, SIDE_LIMIT)).forEach(function (a) { ol.appendChild(agendaItem(a, state.section)); });
+    var m = moreItem(state.agendaAll, all.length, function () { state.agendaAll = !state.agendaAll; renderAgenda(); }, "筆");
+    if (m) ol.appendChild(m);
     document.getElementById("icsAll").hidden = !all.some(function (a) { return str(a.date); });
   }
 
@@ -1121,29 +1267,28 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
     });
   }
   function renderCases() {
-    var wrap = document.getElementById("casesWrap"), ol = document.getElementById("cases");
+    var box = document.getElementById("sideCases"), ol = document.getElementById("cases");
     ol.replaceChildren();
-    if (isPage()) { wrap.hidden = true; return; }
-    var sec = state.section;
-    var list = sortedCases(sec).filter(function (c) { return !state.field || !CFG().fields || str(c.field || "commercial") === state.field; });
-    wrap.hidden = list.length === 0;
-    list.forEach(function (c) {
+    if (isPage()) { box.hidden = true; return; }
+    var sec = state.section, area = optOf(CFG().areas, state.area);
+    var list = sortedCases(sec).filter(function (c) { return !area || area.test(c); });
+    box.hidden = list.length === 0;
+    document.getElementById("casesN").textContent = list.length ? list.length + " 件" : "";
+    (state.casesAll ? list : list.slice(0, SIDE_LIMIT)).forEach(function (c) {
       var items = caseItems(c.id, sec), latest = caseLatest(c, sec);
-      var k = courtKey(c.court, sec);
-      ol.appendChild(h("li", { class: "ag case-card" + (state.openCase === c.id ? " is-open" : ""), "data-court": k },
-        h("button", { class: "ag-main", type: "button", onclick: function () { openCase(c.id); } },
-          h("span", { class: "ag-top" }, h("span", { class: "code", text: str(c.type) || "案件" }), h("span", { class: "when", text: (latest ? "最新 " + shortDate(latest) + " · " : "") + items.length + " 則" })),
-          h("span", { class: "ag-title", text: str(c.name) }),
-          c.status ? h("span", { class: "ag-note", text: str(c.status) }) : null)));
+      ol.appendChild(h("li", { class: "si si-case" + (state.openCase === c.id ? " is-open" : ""), "data-court": courtKey(c.court, sec) },
+        h("button", { type: "button", class: "si-btn", onclick: function () { openCase(c.id); } },
+          h("span", { class: "si-meta" }, h("span", { class: "code", text: str(c.type) || "案件" }), " · " + (latest ? "最新 " + shortDate(latest) + " · " : "") + items.length + " 則"),
+          h("span", { class: "si-title", text: str(c.name) }),
+          c.status ? h("span", { class: "si-note", text: str(c.status) }) : null)));
     });
+    var m = moreItem(state.casesAll, list.length, function () { state.casesAll = !state.casesAll; renderCases(); }, "件");
+    if (m) ol.appendChild(m);
   }
 
   // ---- keyword cloud ----
   // Built from each item's tags. Words sit on an elliptical spiral from the centre, largest first,
   // without rotation so Chinese stays readable; clicking a word fills the search box.
-  var CLOUD_RANGES = [["7", "近 7 天"], ["30", "近 30 天"], ["all", "全部"]];
-  var cloudOpen = loadPref("ild.cloud") !== "closed";
-  var cloudRange = /^(7|30|all)$/.test(loadPref("ild.cloudRange")) ? loadPref("ild.cloudRange") : "30";
   function isoMinus(iso, days) {
     var x = parseISO(iso); if (!x) return "";
     x.setDate(x.getDate() - days);
@@ -1239,59 +1384,27 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
   // web fonts change word widths, so lay the cloud out again once they arrive
   if (document.fonts && document.fonts.addEventListener) document.fonts.addEventListener("loadingdone", relayoutSoon);
 
-  function cloudPool() {
-    var cut = cloudRange === "all" ? "" : isoMinus(todayISO(), +cloudRange - 1);
-    return S().items.filter(function (it) {
-      if (cut && str(it.date) < cut) return false;
-      if (state.field && CFG().fields && fieldOf(it) !== state.field) return false;
-      if (state.genre === "news" && isComment(it)) return false;
-      if (state.genre === "comment" && !isComment(it)) return false;
-      if (state.court && courtKey(it.court) !== state.court) return false;
-      return true;
-    });
-  }
   function renderCloud() {
-    var wrap = document.getElementById("cloudWrap");
+    var wrap = document.getElementById("sideCloud"), box = document.getElementById("cloud"), note = document.getElementById("cloudNote");
     if (isPage() || !S().loaded || !S().items.length) { wrap.hidden = true; return; }
     wrap.hidden = false;
-    var rangeBox = document.getElementById("cloudRange"), box = document.getElementById("cloud");
-    var note = document.getElementById("cloudNote"), tog = document.getElementById("cloudToggle");
-    tog.textContent = cloudOpen ? "收合" : "展開";
-    tog.setAttribute("aria-expanded", cloudOpen ? "true" : "false");
-    rangeBox.hidden = box.hidden = note.hidden = !cloudOpen;
-    rangeBox.replaceChildren();
-    CLOUD_RANGES.forEach(function (o) {
-      rangeBox.appendChild(h("button", { type: "button", "aria-pressed": cloudRange === o[0] ? "true" : "false",
-        onclick: function () { cloudRange = o[0]; savePref("ild.cloudRange", o[0]); renderCloud(); } }, o[1]));
-    });
-    if (!cloudOpen) { box.replaceChildren(); box._cloud = null; return; }
-    var pool = cloudPool();
-    var words = tagStats(pool).slice(0, box.clientWidth < 560 ? 30 : 48);
-    drawCloud(box, words, {
-      active: state.q,
-      emptyText: "這段期間沒有符合目前篩選的動態，可改選較長的期間。",
+    if (!wrap.open) { box.replaceChildren(); box._cloud = null; note.textContent = ""; return; }
+    var pl = pool(["tag", "q"]);
+    drawCloud(box, tagStats(pl).slice(0, 36), {
+      active: state.tag,
+      emptyText: "目前篩選下沒有關鍵字。",
       title: function (w) { return w.text + "：" + w.n + " 則動態"; },
       pick: function (w) { pickWord(w.text); }
     });
-    var scope = [CLOUD_RANGES.filter(function (o) { return o[0] === cloudRange; })[0][1]];
-    if (state.field && CFG().fields) scope.push(CFG().fields[state.field].zh);
-    if (state.court) scope.push(catOf(state.court).zh || catOf(state.court).code);
-    if (state.genre && CFG().genres) scope.push(CFG().genres[state.genre]);
-    note.textContent = "統計範圍：" + scope.join("・") + "，共 " + pool.length + " 則。字愈大，表示愈多則動態標註這個關鍵字；點選即篩選下方列表，再點一次取消。";
+    note.textContent = "依目前篩選的 " + pl.length + " 則動態統計；字愈大，表示愈多則動態標註這個關鍵字。點選即篩選列表，再點一次取消。";
   }
   function pickWord(t) {
-    var same = state.q.toLowerCase() === t.toLowerCase();
-    setQuery(same ? "" : t);
-    var list = document.getElementById("list");
-    if (!same && list.getBoundingClientRect().top > window.innerHeight - 120) {
+    var same = state.tag.toLowerCase() === t.toLowerCase();
+    setFilter("tag", same ? "" : t);
+    if (!same && !window.matchMedia("(min-width: 1060px)").matches) {
       var still = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-      document.getElementById("tools").scrollIntoView({ block: "start", behavior: still ? "auto" : "smooth" });
+      document.getElementById("list").scrollIntoView({ block: "start", behavior: still ? "auto" : "smooth" });
     }
-  }
-  function markCloudActive() {
-    var q = state.q.toLowerCase(), box = document.getElementById("cloud");
-    box.querySelectorAll(".cw").forEach(function (b) { b.setAttribute("aria-pressed", str(b.getAttribute("data-word")).toLowerCase() === q ? "true" : "false"); });
-    if (box._cloud) box._cloud.opts.active = state.q;
   }
 
   // ---- list ----
@@ -1333,30 +1446,28 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
     renderArchiveButtons(list);
   }
   function rowEl(it) {
-    var k = courtKey(it.court);
     var isRead = readSet.has(it.id);
     var cs = it.caseId ? caseById(it.caseId) : null;
+    var ev = str(it.eventDate), dt = str(it.date);
+    var evNote = ev && ev !== dt ? (isDecision(it) ? "裁判日 " : "事件日 ") + (ev.slice(0, 4) !== dt.slice(0, 4) ? ev.replace(/-/g, "/") : shortDate(ev)) : "";
     return h("button", {
-        class: "row" + (isRead ? " is-read" : "") + (isComment(it) ? " is-comment" : ""), type: "button", "data-court": k, "data-id": it.id,
+        class: "row" + (isRead ? " is-read" : "") + (isComment(it) ? " is-comment" : ""), type: "button", "data-court": courtKey(it.court), "data-id": it.id,
         "aria-current": state.openId === it.id ? "true" : "false",
         onclick: function () { openItem(it.id); }
       },
-      h("span", { class: "code", text: codeText(it) }),
-      h("span", { class: "row-main" },
-        h("span", { class: "row-meta" },
-          !isRead ? h("span", { class: "unread-dot", title: "未讀" }) : null,
-          fieldCfg(it) ? h("span", { class: "fld" + (fieldOf(it) === "investment" ? " inv" : ""), text: fieldCfg(it).zh }) : null,
-          it.kind ? h("span", { class: "kind", text: str(it.kind) }) : null,
-          it.jurisdiction ? h("span", { text: str(it.jurisdiction) }) : null,
-          it.author ? h("span", { text: str(it.author) }) : null,
-          (+it.importance >= 3) ? h("span", { class: "key", text: "重點" }) : null,
-          starSet.has(it.id) ? h("span", { class: "starred", text: "★ 收藏" }) : null,
-          it.caseRef ? h("span", { class: "mono", text: str(it.caseRef) }) : null
-        ),
-        h("span", { class: "row-title", text: str(it.title) }),
+      h("span", { class: "row-top" },
+        !isRead ? h("span", { class: "unread-dot", title: "未讀" }) : null,
+        h("span", { class: "code", text: codeText(it) }),
+        it.kind ? h("span", { class: "kind", text: str(it.kind) }) : null,
+        fieldCfg(it) ? h("span", { class: "fld" + (fieldOf(it) === "investment" ? " inv" : ""), text: fieldCfg(it).zh }) : null,
+        evNote ? h("span", { class: "row-ev", text: evNote }) : null,
+        (+it.importance >= 3) ? h("span", { class: "key", text: "重點" }) : null,
+        starSet.has(it.id) ? h("span", { class: "starred", text: "★ 收藏" }) : null),
+      h("span", { class: "row-title", text: str(it.shortTitle) || str(it.title) }),
+      (it.point || it.tldr) ? h("span", { class: "row-point", text: str(it.point) || str(it.tldr) }) : null,
+      (cs || it.author) ? h("span", { class: "row-sub" },
         cs ? h("span", { class: "case-tag", text: "案件：" + str(cs.name) }) : null,
-        it.tldr ? h("span", { class: "row-tldr", text: str(it.tldr) }) : null
-      )
+        it.author ? h("span", { text: str(it.author) }) : null) : null
     );
   }
 
@@ -1422,7 +1533,7 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
         return h("li", { class: "dg-item", "data-court": courtKey(it.court, f.sec) },
           h("button", { type: "button", class: "dg-link", onclick: function () { openItem(it.id); } },
             h("span", { class: "dg-meta" }, h("span", { class: "code", text: codeText(it, f.sec) }), h("span", { class: "mono", text: shortDate(it.date) }), it.kind ? h("span", { text: str(it.kind) }) : null),
-            h("span", { class: "dg-item-title", text: str(it.title) }),
+            h("span", { class: "dg-item-title", text: str(it.shortTitle) || str(it.title) }),
             hl.note ? h("span", { class: "dg-note", text: str(hl.note) }) : null));
       }).filter(Boolean);
       body.appendChild(h("section", { class: "dg-sec" },
@@ -1448,8 +1559,8 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
       },
       pick: function (w) {
         var target = (w.secs.arb || 0) > (w.secs.pil || 0) ? "arb" : "pil";
-        switchSection(target); setHash(sectionHash()); setQuery(w.text);
-        document.getElementById("tools").scrollIntoView({ block: "start" });
+        switchSection(target); setHash(sectionHash()); setFilter("tag", w.text);
+        document.getElementById("zoneFilters").scrollIntoView({ block: "start" });
       }
     });
   }
@@ -1477,7 +1588,7 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
         return h("li", null, h("button", { type: "button", class: "pl-link", "data-court": courtKey(it.court, k), onclick: function () { openItem(it.id); } },
           h("span", { class: "mono", text: shortDate(it.date) }),
           h("span", { class: "code", text: codeText(it, k) }),
-          h("span", { class: "pl-title", text: str(it.title) })));
+          h("span", { class: "pl-title", text: str(it.shortTitle) || str(it.title) })));
       })));
     }
     parts.push(h("button", { type: "button", class: "portal-cta", onclick: function () { goSection(k); } }, "進入" + c.label, h("span", { "aria-hidden": "true", text: "→" })));
@@ -1500,7 +1611,7 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
         return h("li", null, h("button", { type: "button", class: "pl-link", "data-court": courtKey(f.it.court, f.sec), onclick: function () { openItem(f.it.id); } },
           h("span", { class: "mono", text: shortDate(f.it.date) }),
           h("span", { class: "code", text: codeText(f.it, f.sec) }),
-          h("span", { class: "pl-title", text: str(f.it.title) })));
+          h("span", { class: "pl-title", text: str(f.it.shortTitle) || str(f.it.title) })));
       })));
     } else parts.push(h("p", { class: "portal-wait", text: d.loaded ? "第一期每週重點尚未發布。" : "正在讀取…" }));
     parts.push(h("button", { type: "button", class: "portal-cta portal-cta-quiet", onclick: function () { goSection("week"); } }, "閱讀本週重點", h("span", { "aria-hidden": "true", text: "→" })));
@@ -1560,6 +1671,36 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
       h("span", { class: "m", text: "← 返回列表" }), h("span", { class: "d", text: "✕ 關閉" }));
   }
 
+  function datesEl(it) {
+    var ev = str(it.eventDate), added = str(it.addedAt).replace("T", " ").slice(0, 16);
+    return h("dl", { class: "r-dates" },
+      h("div", null, h("dt", { text: "裁判／事件日期" }),
+        h("dd", { class: ev ? null : "na", text: ev || (isComment(it) ? "不適用（評論文章）" : "未載明") })),
+      h("div", null, h("dt", { text: "來源發布日期" }),
+        h("dd", null, str(it.date), it.outlet ? h("span", { class: "dd-sub", text: str(it.outlet) }) : null)),
+      h("div", null, h("dt", { text: "本站更新日期" }), h("dd", { text: added || "—" })));
+  }
+  function officialLabel(it, s) {
+    var l = str(s.label);
+    if (/新聞稿|press release|communiqu|comunicado/i.test(l)) return "閱讀官方新聞稿";
+    if (/判決|判斷|裁定|命令|諮詢意見|意見書|決定|judgment|award|decision|order|opinion|ruling|beschluss|sentencia|laudo|resoluci/i.test(l) || isDecision(it)) return "閱讀裁判原文";
+    return "閱讀官方資料";
+  }
+  function sourceButtons(it, sources) {
+    var off = sources.filter(function (s) { return s.official; }), non = sources.filter(function (s) { return !s.official; });
+    if (!off.length && !non.length) return null;
+    var link = function (s, label, primary) {
+      return h("a", { class: "srcbtn" + (primary ? " primary" : ""), href: safeUrl(s.url), target: "_blank", rel: "noopener noreferrer",
+        title: str(s.label) + "（" + hostOf(s.url) + "）" }, label, h("span", { "aria-hidden": "true", text: "↗" }));
+    };
+    var shown = (off.length ? 1 : 0) + (non.length ? 1 : 0);
+    return h("div", { class: "r-src" },
+      off.length ? link(off[0], officialLabel(it, off[0]), true) : null,
+      non.length ? link(non[0], isComment(it) ? "閱讀評論" : "閱讀報導", !off.length) : null,
+      sources.length > shown ? h("button", { type: "button", class: "linkish", onclick: function () {
+        var el = document.querySelector("#reader .sources"); if (el) el.scrollIntoView({ block: "start" });
+      } }, "全部 " + sources.length + " 項來源") : null);
+  }
   function docTitle() {
     var t = "";
     if (state.openId) { var f = findItem(state.openId); if (f) t = str(f.it.title); }
@@ -1603,7 +1744,7 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
       caseSec = sec("Case timeline", "本案時間軸", [
         h("p", { class: "case-line" }, h("b", { text: str(cs.name) }), cs.status ? "：" + str(cs.status) : ""),
         others.length ? h("ul", { class: "mini-tl" }, others.map(function (o) {
-          return h("li", null, h("button", { type: "button", class: "linkish", onclick: function () { openItem(o.id); } }, h("span", { class: "mono", text: shortDate(o.date) + " " }), str(o.title)));
+          return h("li", null, h("button", { type: "button", class: "linkish", onclick: function () { openItem(o.id); } }, h("span", { class: "mono", text: shortDate(o.date) + " " }), str(o.shortTitle) || str(o.title)));
         })) : null,
         h("button", { class: "btn", type: "button", onclick: function () { openCase(cs.id); } }, "查看本案完整時間軸（" + caseItems(cs.id).length + " 則）→")
       ]);
@@ -1614,7 +1755,6 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
       h("header", { class: "r-head" },
         h("div", { class: "r-court" }, h("span", { class: "code", text: codeText(it) }), h("span", { text: headText })),
         h("div", { class: "r-meta" },
-          h("span", { class: "mono", text: str(it.date) }),
           fieldCfg(it) ? h("span", { class: "fld" + (fieldOf(it) === "investment" ? " inv" : ""), text: fieldCfg(it).zh }) : null,
           it.kind ? h("span", { text: str(it.kind) }) : null,
           it.jurisdiction ? h("span", { text: "法域：" + str(it.jurisdiction) }) : null,
@@ -1623,6 +1763,8 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
         ),
         h("h2", { class: "r-title", text: str(it.title) }),
         it.titleOriginal ? h("p", { class: "r-orig", text: str(it.titleOriginal) }) : null,
+        datesEl(it),
+        sourceButtons(it, sources),
         h("div", { class: "r-actions" },
           h("button", { class: "btn", type: "button", "aria-pressed": starred ? "true" : "false", onclick: function () { toggleStar(it.id); }, text: starred ? "★ 已收藏" : "☆ 收藏" }),
           h("button", { class: "btn", type: "button", onclick: function () { markUnread(it.id); }, text: "標為未讀" }),
@@ -1642,7 +1784,7 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
       caseSec,
       related.length ? sec("Related", "相關動態", h("div", { class: "tags" }, related.map(function (ri) {
         return h("button", { class: "btn", type: "button", "data-court": courtKey(ri.court), onclick: function () { openItem(ri.id); } },
-          h("span", { class: "mono", style: "color:var(--cc);margin-right:6px", text: codeText(ri) }), str(ri.title));
+          h("span", { class: "mono", style: "color:var(--cc);margin-right:6px", text: codeText(ri) }), str(ri.shortTitle) || str(ri.title));
       }))) : null,
       sources.length ? sec("Original sources", "原始資料", h("ul", null, sources.map(function (s) {
         return h("li", { class: "src" },
@@ -1651,7 +1793,10 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
         );
       })), "sources") : null,
       tags.length ? h("div", { class: "tags", "aria-label": "關鍵字" }, tags.map(function (t) {
-        return h("button", { class: "tag", type: "button", text: "#" + t, onclick: function () { setQuery(t); } });
+        return h("button", { class: "tag", type: "button", text: "#" + t, onclick: function () {
+          setFilter("tag", t);
+          if (!window.matchMedia("(min-width: 900px)").matches) closeReader();
+        } });
       })) : null,
       h("nav", { class: "r-nav" },
         h("button", { class: "btn", type: "button", disabled: !newer, onclick: function () { if (newer) openItem(newer.id); }, text: "← 較新一則" }),
@@ -1695,8 +1840,8 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
           h("span", { class: "tl-date mono", text: str(it.date) }),
           h("button", { type: "button", class: "tl-card", onclick: function () { openItem(it.id); } },
             h("span", { class: "tl-meta" }, h("span", { class: "code", text: codeText(it, secKey) }), it.kind ? h("span", { text: str(it.kind) }) : null, !readSet.has(it.id) ? h("span", { class: "unread-dot", title: "未讀" }) : null),
-            h("span", { class: "tl-title", text: str(it.title) }),
-            it.tldr ? h("span", { class: "tl-tldr", text: str(it.tldr) }) : null));
+            h("span", { class: "tl-title", text: str(it.shortTitle) || str(it.title) }),
+            (it.point || it.tldr) ? h("span", { class: "tl-tldr", text: str(it.point) || str(it.tldr) }) : null));
       }))),
       h("p", { class: "case-foot", text: "時間軸依本站收錄的動態排列（新到舊），案件概要與狀態由本網頁助理依各則內容整理。" })
     );
@@ -1772,7 +1917,10 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
     if (row) { row.focus(); row.scrollIntoView({ block: "nearest" }); }
   }
   function switchSection(key) {
-    state.section = key; state.field = ""; state.court = ""; state.kind = ""; state.openId = ""; state.openCase = "";
+    state.section = key; state.openId = ""; state.openCase = ""; state.agendaAll = state.casesAll = false;
+    FILTER_DIMS.forEach(function (k) { state[k] = ""; });
+    state.unreadOnly = state.starOnly = false; state.q = "";
+    var qi = document.getElementById("q"); if (qi) qi.value = "";
     savePref("ild.section", key);
     renderAll();
   }
@@ -1786,11 +1934,11 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
     saveSet("ild.star", starSet); renderReader(); renderList();
   }
   function markUnread(id) {
-    readSet.delete(id); saveSet("ild.read", readSet); renderList(); renderStatus(); renderSections(); toast("已標為未讀");
+    readSet.delete(id); saveSet("ild.read", readSet); renderFilters(); renderList(); renderStatus(); renderSections(); toast("已標為未讀");
   }
   function setQuery(q) {
     var input = document.getElementById("q"); input.value = q; state.q = q.trim();
-    renderList(); renderGenre(); markCloudActive(); if (!window.matchMedia("(min-width: 900px)").matches) closeReader();
+    refresh();
   }
 
   // ---- printing ----
@@ -1807,10 +1955,7 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
     if (isHome()) return "首頁";
     if (isDigest()) return "本週重點";
     var parts = [CFG().label];
-    if (state.field && CFG().fields) parts.push(CFG().fields[state.field].zh);
-    if (state.court) parts.push(catOf(state.court).zh || catOf(state.court).code);
-    if (state.genre && CFG().genres) parts.push(CFG().genres[state.genre]);
-    if (state.kind) parts.push(state.kind);
+    FILTER_DIMS.forEach(function (d) { if (state[d]) parts.push(chipLabel(d)); });
     if (state.q) parts.push("搜尋「" + state.q + "」");
     if (state.unreadOnly) parts.push("只看未讀");
     if (state.starOnly) parts.push("只看收藏");
@@ -1834,17 +1979,31 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
   var qTimer = null;
   document.getElementById("q").addEventListener("input", function (e) {
     clearTimeout(qTimer); var v = e.target.value;
-    qTimer = setTimeout(function () { state.q = v.trim(); renderList(); renderGenre(); markCloudActive(); }, 120);
+    qTimer = setTimeout(function () { state.q = v.trim(); renderFilters(); renderList(); }, 150);
   });
-  document.getElementById("kind").addEventListener("change", function (e) { state.kind = e.target.value; renderList(); renderGenre(); });
-  document.getElementById("unreadOnly").addEventListener("change", function (e) { state.unreadOnly = e.target.checked; renderList(); renderGenre(); });
-  document.getElementById("starOnly").addEventListener("change", function (e) { state.starOnly = e.target.checked; renderList(); renderGenre(); });
+  document.getElementById("fOrg").addEventListener("change", function (e) { setFilter("org", e.target.value); });
+  document.getElementById("fCountry").addEventListener("change", function (e) { setFilter("country", e.target.value); });
+  document.getElementById("fTag").addEventListener("change", function (e) { setFilter("tag", e.target.value); });
+  document.getElementById("unreadOnly").addEventListener("change", function (e) { state.unreadOnly = e.target.checked; refresh(); });
+  document.getElementById("starOnly").addEventListener("change", function (e) { state.starOnly = e.target.checked; refresh(); });
   document.getElementById("markAll").addEventListener("click", function () {
-    S().items.forEach(function (i) { readSet.add(i.id); }); saveSet("ild.read", readSet); renderList(); renderStatus(); renderSections(); toast("已全部標為已讀");
+    S().items.forEach(function (i) { readSet.add(i.id); }); saveSet("ild.read", readSet); refresh(); renderStatus(); renderSections(); toast("已全部標為已讀");
+  });
+  document.getElementById("fToggle").addEventListener("click", function () {
+    var open = document.getElementById("fbar").classList.toggle("is-open");
+    this.setAttribute("aria-expanded", open ? "true" : "false");
   });
   document.getElementById("homeLink").addEventListener("click", function (e) { e.preventDefault(); goSection("home"); });
-  document.getElementById("cloudToggle").addEventListener("click", function () {
-    cloudOpen = !cloudOpen; savePref("ild.cloud", cloudOpen ? "open" : "closed"); renderCloud();
+  // sidebar boxes: dates and cases open on wide screens, the keyword cloud stays closed until opened
+  (function () {
+    var wide = window.matchMedia("(min-width: 1060px)").matches;
+    document.getElementById("sideAgenda").open = wide;
+    document.getElementById("sideCases").open = wide;
+    document.getElementById("sideCloud").open = loadPref("ild.cloudOpen") === "1";
+  })();
+  document.getElementById("sideCloud").addEventListener("toggle", function () {
+    savePref("ild.cloudOpen", this.open ? "1" : "");
+    renderCloud();
   });
   document.getElementById("icsAll").addEventListener("click", function () {
     var list = upcomingAgenda(state.section).filter(function (a) { return str(a.date); });
@@ -1861,7 +2020,7 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
   });
 
   function renderAll() {
-    renderSections(); renderStatus(); renderFields(); renderCourts(); renderGenre(); renderKinds(); renderAgenda(); renderCases(); renderCloud(); renderList();
+    renderSections(); renderStatus(); renderFilters(); renderAgenda(); renderCases(); renderCloud(); renderList();
     if (state.openId && !S().items.some(function (i) { return i.id === state.openId; })) state.openId = "";
     renderReader();
   }
