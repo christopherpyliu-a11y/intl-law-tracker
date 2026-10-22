@@ -373,6 +373,57 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
 .cloud-note { margin: 0; font-size: var(--s-xs); color: var(--faint); line-height: 1.6; }
 .digest .cloud { background: var(--paper); box-shadow: none; }
 
+/* home page */
+.home-link { color: inherit; text-decoration: none; }
+.home-link:hover { text-decoration: underline; text-decoration-color: var(--gold); text-decoration-thickness: 1px; text-underline-offset: 6px; }
+.home { display: grid; gap: 26px; }
+.home-lead { margin: 0; max-width: 48em; font-size: 17px; line-height: 1.95; color: var(--charcoal); }
+.home-grid { display: grid; gap: 22px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 440px), 1fr)); align-items: stretch; }
+.portal { display: flex; flex-direction: column; gap: 14px; min-width: 0; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: 28px 30px 26px; }
+.portal-kicker { font-size: 11.5px; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; color: var(--gold-ink); }
+.portal-title { margin: -6px 0 0; font-family: var(--f-display); font-weight: 700; font-size: 30px; line-height: 1.25; letter-spacing: 0.08em; color: var(--ink); }
+.portal-title button { border: 0; background: none; padding: 0; font: inherit; letter-spacing: inherit; color: inherit; cursor: pointer; text-align: left; }
+.portal-title button:hover { text-decoration: underline; text-decoration-color: var(--gold); text-decoration-thickness: 1px; text-underline-offset: 7px; }
+.portal-minor .portal-title { font-size: 23px; }
+.portal-scope { margin: 0; font-size: var(--s-sm); line-height: 1.8; color: var(--muted); max-width: 40em; }
+.portal-clamp { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.portal-issue { margin: -4px 0 0; font-size: var(--s-sm); color: var(--charcoal); font-weight: 600; }
+.portal-wait { margin: 0; font-size: var(--s-sm); color: var(--faint); }
+.portal-stats { margin: 0; display: flex; flex-wrap: wrap; gap: 6px 22px; padding-block: 12px; border-block: 1px solid var(--line); font-size: var(--s-xs); color: var(--muted); }
+.pstat b { margin-right: 5px; font-family: var(--f-display); font-size: 22px; font-weight: 700; color: var(--ink); font-variant-numeric: lining-nums tabular-nums; }
+.portal-sub { font-family: var(--f-display); font-weight: 700; font-size: 15px; letter-spacing: 0.06em; color: var(--charcoal); margin-bottom: -6px; }
+.portal-latest { list-style: none; margin: 0; padding: 0; display: grid; }
+.portal-latest li + li { border-top: 1px solid var(--line); }
+.pl-link { display: grid; grid-template-columns: 40px 52px minmax(0, 1fr); gap: 10px; align-items: baseline; width: 100%; padding: 9px 0; border: 0; background: none; text-align: left; color: var(--ink); cursor: pointer; }
+.pl-link .mono { font-size: var(--s-xs); color: var(--faint); }
+.pl-link .code { font-size: var(--s-xs); font-weight: 600; letter-spacing: 0.03em; color: var(--cc); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.pl-title { font-size: var(--s-sm); line-height: 1.55; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.pl-link:hover .pl-title { color: var(--accent); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.portal-cta { margin-top: auto; align-self: flex-start; display: inline-flex; align-items: center; gap: 10px; border: 1px solid var(--accent); border-radius: var(--radius); background: var(--accent); color: var(--accent-ink); padding: 9px 20px; font-size: var(--s-sm); font-weight: 600; letter-spacing: 0.06em; cursor: pointer; }
+.portal-cta:hover { background: color-mix(in srgb, var(--accent) 86%, var(--ink)); }
+.portal-cta-quiet { background: transparent; color: var(--accent); }
+.portal-cta-quiet:hover { background: var(--accent-soft); }
+.up-list { list-style: none; margin: 0; padding: 0; display: grid; }
+.up-item { display: grid; grid-template-columns: 58px minmax(0, 1fr) auto; gap: 12px; align-items: baseline; padding: 10px 0; border-top: 1px solid var(--line); }
+.up-item:first-child { border-top: 0; padding-top: 2px; }
+.up-date { font-family: var(--f-display); font-weight: 700; font-size: 16px; color: var(--charcoal); font-variant-numeric: lining-nums tabular-nums; display: grid; line-height: 1.3; }
+.up-wd { font-family: var(--f-body); font-weight: 400; font-size: var(--s-xs); color: var(--faint); }
+.up-main { display: grid; gap: 2px; min-width: 0; }
+.up-meta { font-size: var(--s-xs); color: var(--muted); }
+.up-meta .code { color: var(--cc); font-weight: 600; letter-spacing: 0.03em; }
+.up-title { font-size: var(--s-sm); line-height: 1.55; color: var(--ink); text-align: left; }
+button.up-title { text-decoration: none; }
+button.up-title:hover { color: var(--accent); text-decoration: underline; }
+@media (max-width: 640px) {
+  .portal { padding: 20px 18px; }
+  .portal-title { font-size: 26px; }
+  .up-item { grid-template-columns: 48px minmax(0, 1fr); }
+  .up-item .ag-cal { grid-column: 2; }
+  .sections { gap: 2px; }
+  .sec-tab { font-size: 15px; padding-inline: 8px; gap: 6px; }
+  .sec-tab .n { padding: 0 6px; font-size: 11px; }
+}
+
 /* weekly digest */
 .sec-tab.is-digest { margin-left: auto; }
 .digest { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: 30px 34px 30px; display: grid; gap: 28px; max-width: 960px; }
@@ -473,7 +524,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
         </svg>
         <div>
           <div class="eyebrow" id="eyebrow">International Courts &amp; Tribunals Docket</div>
-          <h1>國際法動態追蹤</h1>
+          <h1><a class="home-link" id="homeLink" href="./">國際法動態追蹤</a></h1>
           <p class="byline">網站維護者：PY Liu（<a href="mailto:christopher.py.liu@gmail.com">christopher.py.liu@gmail.com</a>）</p>
         </div>
       </div>
@@ -590,18 +641,26 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
       filterHint: "試著清除搜尋字詞，或改選「全部」。"
     },
     week: {
-      label: "本週重點", en: "Weekly", file: "digest.json", digest: true,
+      label: "本週重點", en: "Weekly", file: "digest.json", digest: true, page: true,
       eyebrow: "Weekly Briefing",
       cats: {}, order: [], placeholder: "", loadingText: "每週重點整理會顯示在這裡。", emptyText: "第一期每週重點尚未發布。", filterHint: ""
     }
   };
-  var SECTION_ORDER = ["pil", "arb", "week"];
+  SECTIONS.home = {
+    label: "首頁", en: "Home", home: true, page: true,
+    eyebrow: "International Law Docket · Courts, Tribunals & Arbitration",
+    cats: {}, order: [], placeholder: "", loadingText: "", emptyText: "", filterHint: ""
+  };
+  SECTIONS.pil.scope = "國際法院、國際刑事法院、歐洲／美洲／非洲人權法院、國際海洋法法庭的判決、裁定與程序進展，以及 EJIL:Talk!、Opinio Juris 的學術評論。";
+  SECTIONS.arb.scope = "國際商務仲裁與以國家為被申請人的投資條約仲裁：各國法院裁判、仲裁判斷、仲裁機構規則、立法改革與實務評論。";
+  var SECTION_ORDER = ["home", "pil", "arb", "week"];
   var ITEM_SECTIONS = ["pil", "arb"];
   var WEEK = ["日", "一", "二", "三", "四", "五", "六"];
   var SITE_NAME = "國際法動態追蹤";
 
   function blank() { return { items: [], agenda: [], cases: [], issues: [], meta: null, archives: [], loaded: false, loadError: false, archiveLoading: "" }; }
-  var data = { pil: blank(), arb: blank(), week: blank() };
+  var data = { home: blank(), pil: blank(), arb: blank(), week: blank() };
+  data.home.loaded = true; // the home page draws on the other three files as they arrive
 
   // ---- per-viewer conveniences (browser only) ----
   function loadSet(key) { try { var v = localStorage.getItem(key); return new Set(v ? JSON.parse(v) : []); } catch (e) { return new Set(); } }
@@ -612,10 +671,13 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
   var starSet = loadSet("ild.star");
 
   var savedGenre = loadPref("ild.genre");
-  var state = { section: "pil", field: "", genre: (savedGenre === "news" || savedGenre === "comment") ? savedGenre : "", court: "", kind: "", q: "", unreadOnly: false, starOnly: false, openId: "", openCase: "", issueId: "" };
+  var state = { section: "home", field: "", genre: (savedGenre === "news" || savedGenre === "comment") ? savedGenre : "", court: "", kind: "", q: "", unreadOnly: false, starOnly: false, openId: "", openCase: "", issueId: "" };
   function S() { return data[state.section]; }
   function CFG() { return SECTIONS[state.section]; }
   function isDigest() { return !!CFG().digest; }
+  function isHome() { return !!CFG().home; }
+  // pages without an item list of their own: the home page and the weekly digest
+  function isPage() { return !!CFG().page; }
 
   // ---- helpers ----
   function h(tag, attrs) {
@@ -801,7 +863,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
     nav.replaceChildren();
     SECTION_ORDER.forEach(function (key) {
       var c = SECTIONS[key], d = data[key];
-      var unread = (!c.digest && d.loaded) ? d.items.filter(function (i) { return !readSet.has(i.id); }).length : 0;
+      var unread = (!c.page && d.loaded) ? d.items.filter(function (i) { return !readSet.has(i.id); }).length : 0;
       nav.appendChild(h("button", {
           class: "sec-tab" + (c.digest ? " is-digest" : ""), type: "button", role: "tab", id: "tab-" + key,
           "aria-selected": state.section === key ? "true" : "false",
@@ -812,7 +874,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
     });
     document.getElementById("eyebrow").textContent = CFG().eyebrow;
     document.getElementById("q").placeholder = CFG().placeholder;
-    var dg = isDigest();
+    var dg = isPage();
     ["tools", "courts"].forEach(function (id) { document.getElementById(id).hidden = dg; });
   }
 
@@ -820,6 +882,15 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
     var el = document.getElementById("status");
     var d = S();
     el.replaceChildren();
+    if (isHome()) {
+      var lasts = ITEM_SECTIONS.map(function (k) { return data[k].meta ? str(data[k].meta.lastRunLocal) : ""; }).filter(Boolean).sort();
+      if (lasts.length) el.appendChild(h("span", null, "最後更新 ", h("b", { class: "mono", text: lasts[lasts.length - 1] }), "（台北）"));
+      ITEM_SECTIONS.forEach(function (k) {
+        if (data[k].loaded) el.appendChild(h("span", null, SECTIONS[k].label + " ", h("b", { class: "mono", text: String(data[k].items.length) }), " 則"));
+      });
+      if (!lasts.length) el.appendChild(h("span", { text: "正在讀取資料…" }));
+      return;
+    }
     if (d.loadError) { el.appendChild(h("span", { text: "資料載入失敗，請重新整理頁面。" })); return; }
     if (!d.loaded) { el.appendChild(h("span", { text: "正在讀取資料…" })); return; }
     if (isDigest()) {
@@ -841,7 +912,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
     var nav = document.getElementById("fields");
     var cfg = CFG(), d = S();
     nav.replaceChildren();
-    nav.hidden = !cfg.fields || isDigest();
+    nav.hidden = !cfg.fields || isPage();
     if (nav.hidden) return;
     var counts = {}; d.items.forEach(function (i) { var f = fieldOf(i); counts[f] = (counts[f] || 0) + 1; });
     nav.appendChild(h("button", { class: "court-chip", type: "button", "aria-pressed": state.field === "" ? "true" : "false", onclick: function () { setField(""); } },
@@ -858,7 +929,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
     var nav = document.getElementById("courts");
     var cfg = CFG(), d = S();
     nav.replaceChildren();
-    if (isDigest()) return;
+    if (isPage()) return;
     var pool = d.items.filter(function (i) { return !state.field || !cfg.fields || fieldOf(i) === state.field; });
     var counts = {}; pool.forEach(function (i) { var k = courtKey(i.court); counts[k] = (counts[k] || 0) + 1; });
     nav.appendChild(h("button", { class: "court-chip", type: "button", "aria-pressed": state.court === "" ? "true" : "false", onclick: function () { setCourt(""); } },
@@ -875,7 +946,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
   function renderGenre() {
     var box = document.getElementById("genre");
     box.replaceChildren();
-    if (isDigest()) return;
+    if (isPage()) return;
     var g = CFG().genres || { news: "動態", comment: "評論" };
     var pool = S().items.filter(function (i) { return matches(i, true); });
     var nNews = pool.filter(function (i) { return !isComment(i); }).length, nCom = pool.length - nNews;
@@ -919,7 +990,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
   function renderAgenda() {
     var wrap = document.getElementById("agendaWrap"), ol = document.getElementById("agenda");
     ol.replaceChildren();
-    if (isDigest()) { wrap.hidden = true; return; }
+    if (isPage()) { wrap.hidden = true; return; }
     var all = upcomingAgenda(state.section);
     wrap.hidden = all.length === 0;
     all.forEach(function (a) { ol.appendChild(agendaCard(a, state.section)); });
@@ -940,7 +1011,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
   function renderCases() {
     var wrap = document.getElementById("casesWrap"), ol = document.getElementById("cases");
     ol.replaceChildren();
-    if (isDigest()) { wrap.hidden = true; return; }
+    if (isPage()) { wrap.hidden = true; return; }
     var sec = state.section;
     var list = sortedCases(sec).filter(function (c) { return !state.field || !CFG().fields || str(c.field || "commercial") === state.field; });
     wrap.hidden = list.length === 0;
@@ -1069,7 +1140,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
   }
   function renderCloud() {
     var wrap = document.getElementById("cloudWrap");
-    if (isDigest() || !S().loaded || !S().items.length) { wrap.hidden = true; return; }
+    if (isPage() || !S().loaded || !S().items.length) { wrap.hidden = true; return; }
     wrap.hidden = false;
     var rangeBox = document.getElementById("cloudRange"), box = document.getElementById("cloud");
     var note = document.getElementById("cloudNote"), tog = document.getElementById("cloudToggle");
@@ -1124,6 +1195,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
       list.appendChild(h("div", { class: "empty" }, h("strong", { text: "正在讀取" }), cfg.loadingText));
       return;
     }
+    if (isHome()) { renderHome(list); return; }
     if (isDigest()) { renderDigest(list); return; }
     if (d.items.length === 0) {
       list.appendChild(h("div", { class: "empty" }, h("strong", { text: "還沒有任何動態" }), cfg.emptyText));
@@ -1265,6 +1337,87 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
         document.getElementById("tools").scrollIntoView({ block: "start" });
       }
     });
+  }
+
+  // ---- home page ----
+  function goSection(k) { setSection(k); try { window.scrollTo({ top: 0 }); } catch (e) { window.scrollTo(0, 0); } }
+  function portalCard(k) {
+    var c = SECTIONS[k], d = data[k];
+    var parts = [
+      h("div", { class: "portal-kicker", text: c.en }),
+      h("h2", { class: "portal-title" }, h("button", { type: "button", onclick: function () { goSection(k); } }, c.label)),
+      h("p", { class: "portal-scope", text: c.scope })
+    ];
+    if (d.loadError) parts.push(h("p", { class: "portal-wait", text: "資料載入失敗，請重新整理頁面。" }));
+    else if (!d.loaded) parts.push(h("p", { class: "portal-wait", text: "正在讀取…" }));
+    else {
+      var since = isoMinus(todayISO(), 6);
+      var recent = d.items.filter(function (i) { return str(i.date) >= since; }).length;
+      var unread = d.items.filter(function (i) { return !readSet.has(i.id); }).length;
+      var stat = function (n, label) { return h("span", { class: "pstat" }, h("b", { text: String(n) }), label); };
+      parts.push(h("p", { class: "portal-stats" },
+        stat(d.items.length, "則動態"), stat(recent, "則近 7 天"), d.cases.length ? stat(d.cases.length, "件追蹤案件") : null, stat(unread, "則未讀")));
+      var latest = sortItems(d.items).slice(0, 4);
+      if (latest.length) parts.push(h("div", { class: "portal-sub", text: "最新動態" }), h("ol", { class: "portal-latest" }, latest.map(function (it) {
+        return h("li", null, h("button", { type: "button", class: "pl-link", "data-court": courtKey(it.court, k), onclick: function () { openItem(it.id); } },
+          h("span", { class: "mono", text: shortDate(it.date) }),
+          h("span", { class: "code", text: codeText(it, k) }),
+          h("span", { class: "pl-title", text: str(it.title) })));
+      })));
+    }
+    parts.push(h("button", { type: "button", class: "portal-cta", onclick: function () { goSection(k); } }, "進入" + c.label, h("span", { "aria-hidden": "true", text: "→" })));
+    return h("article", { class: "portal", "aria-label": c.label }, parts);
+  }
+  function weeklyCard() {
+    var d = data.week, issue = d.issues[0];
+    var parts = [h("div", { class: "portal-kicker", text: "Weekly Briefing" }),
+      h("h2", { class: "portal-title" }, h("button", { type: "button", onclick: function () { goSection("week"); } }, "本週重點"))];
+    if (issue) {
+      var range = str(issue.title).split("｜")[1] || (shortDate(issue.from) + "–" + shortDate(issue.to));
+      parts.push(h("p", { class: "portal-issue", text: range + " · 每週一早上更新" }));
+      if (issue.lead) parts.push(h("p", { class: "portal-scope portal-clamp", text: str(issue.lead) }));
+      // a few of the issue's highlights, alternating between the two sections
+      var bySec = {};
+      (issue.sections || []).forEach(function (s) { bySec[s.section] = (s.highlights || []).map(function (x) { return findItem(x.itemId); }).filter(Boolean); });
+      var picks = [];
+      for (var i = 0; i < 2; i++) ITEM_SECTIONS.forEach(function (k) { if (bySec[k] && bySec[k][i]) picks.push(bySec[k][i]); });
+      if (picks.length) parts.push(h("div", { class: "portal-sub", text: "本期焦點" }), h("ol", { class: "portal-latest" }, picks.slice(0, 4).map(function (f) {
+        return h("li", null, h("button", { type: "button", class: "pl-link", "data-court": courtKey(f.it.court, f.sec), onclick: function () { openItem(f.it.id); } },
+          h("span", { class: "mono", text: shortDate(f.it.date) }),
+          h("span", { class: "code", text: codeText(f.it, f.sec) }),
+          h("span", { class: "pl-title", text: str(f.it.title) })));
+      })));
+    } else parts.push(h("p", { class: "portal-wait", text: d.loaded ? "第一期每週重點尚未發布。" : "正在讀取…" }));
+    parts.push(h("button", { type: "button", class: "portal-cta portal-cta-quiet", onclick: function () { goSection("week"); } }, "閱讀本週重點", h("span", { "aria-hidden": "true", text: "→" })));
+    return h("article", { class: "portal portal-minor", "aria-label": "本週重點" }, parts);
+  }
+  function upcomingCard() {
+    var all = [];
+    ITEM_SECTIONS.forEach(function (k) {
+      upcomingAgenda(k).forEach(function (a) { if (str(a.date)) all.push({ a: a, k: k }); });
+    });
+    all.sort(function (x, y) { return str(x.a.date) < str(y.a.date) ? -1 : str(x.a.date) > str(y.a.date) ? 1 : 0; });
+    all = all.slice(0, 6);
+    var parts = [h("div", { class: "portal-kicker", text: "Upcoming" }), h("h2", { class: "portal-title", text: "即將到來" })];
+    if (!all.length) parts.push(h("p", { class: "portal-wait", text: ITEM_SECTIONS.every(function (k) { return data[k].loaded; }) ? "目前沒有已排定的日期。" : "正在讀取…" }));
+    else parts.push(h("ol", { class: "up-list" }, all.map(function (x) {
+      var a = x.a, k = x.k, ck = courtKey(a.court, k), wd = parseISO(a.date);
+      var related = a.relatedId && data[k].items.some(function (i) { return i.id === a.relatedId; });
+      var title = related
+        ? h("button", { type: "button", class: "up-title linkish", onclick: function () { openItem(a.relatedId); } }, str(a.title))
+        : h("span", { class: "up-title", text: str(a.title) });
+      return h("li", { class: "up-item", "data-court": ck },
+        h("span", { class: "up-date" }, shortDate(a.date), wd ? h("span", { class: "up-wd", text: "週" + WEEK[wd.getDay()] }) : null),
+        h("span", { class: "up-main" }, h("span", { class: "up-meta" }, h("span", { class: "code", text: catOf(ck, k).code }), " · " + SECTIONS[k].label), title),
+        h("a", { class: "ag-cal", href: gcalUrl(a, k), target: "_blank", rel: "noopener noreferrer", title: "加入 Google 行事曆" }, "＋ 行事曆"));
+    })));
+    return h("article", { class: "portal portal-minor", "aria-label": "即將到來" }, parts);
+  }
+  function renderHome(list) {
+    list.appendChild(h("div", { class: "home" },
+      h("p", { class: "home-lead", text: "追蹤國際法院、國際刑事法院、區域人權法院與國際海洋法法庭的判決與程序，以及國際商務仲裁與投資條約仲裁的法院裁判、仲裁判斷與機構動態。每則附白話摘要、備忘錄版摘要與原始資料連結，每日早晚更新。" }),
+      h("div", { class: "home-grid" }, ITEM_SECTIONS.map(portalCard)),
+      h("div", { class: "home-grid" }, weeklyCard(), upcomingCard())));
   }
 
   // ---- reader ----
@@ -1424,7 +1577,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
     document.body.classList.add("reading");
   }
 
-  function sectionHash() { return state.section === "pil" ? "" : "#" + state.section; }
+  function sectionHash() { return state.section === "home" ? "" : "#" + state.section; }
   function setHash(h2) { try { history.replaceState(null, "", location.pathname + location.search + h2); } catch (e) {} }
 
   function afterOpen(selector) {
@@ -1493,6 +1646,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
   document.getElementById("markAll").addEventListener("click", function () {
     S().items.forEach(function (i) { readSet.add(i.id); }); saveSet("ild.read", readSet); renderList(); renderStatus(); renderSections(); toast("已全部標為已讀");
   });
+  document.getElementById("homeLink").addEventListener("click", function (e) { e.preventDefault(); goSection("home"); });
   document.getElementById("cloudToggle").addEventListener("click", function () {
     cloudOpen = !cloudOpen; savePref("ild.cloud", cloudOpen ? "open" : "closed"); renderCloud();
   });
@@ -1517,11 +1671,10 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
   }
 
   // ---- data ----
-  // Pick the starting tab: a tab in the link (#arb, #week) wins, then the viewer's last choice.
+  // Start on the home page unless the link names a tab (#pil, #arb, #week), an entry or a case.
   var initialHash = "";
   try { initialHash = decodeURIComponent(location.hash.slice(1)); } catch (e) {}
   if (SECTIONS[initialHash]) state.section = initialHash;
-  else if (!initialHash && SECTIONS[loadPref("ild.section")]) state.section = loadPref("ild.section");
 
   var hashTried = false;
   function tryHash() {
@@ -1546,7 +1699,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
 
   // Content lives in data.json (國際公法), arbitration.json (國際仲裁法) and digest.json (本週重點), published alongside this page.
   function cleanList(v) { return Array.isArray(v) ? v.filter(function (x) { return x && typeof x === "object" && typeof x.id === "string" && x.id; }) : []; }
-  SECTION_ORDER.forEach(function (key) {
+  SECTION_ORDER.filter(function (key) { return SECTIONS[key].file; }).forEach(function (key) {
     var d = data[key];
     fetch(SECTIONS[key].file, { cache: "no-store" })
       .then(function (r) { if (!r.ok) throw new Error(String(r.status)); return r.json(); })
@@ -1561,7 +1714,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
       })
       .catch(function () { d.loadError = true; })
       .then(function () {
-        if (key === state.section || (state.section === "week" && key !== "week")) renderAll(); else { renderSections(); }
+        if (key === state.section || state.section === "home" || (state.section === "week" && key !== "week")) renderAll(); else { renderSections(); }
         tryHash();
       });
   });
