@@ -13,6 +13,7 @@
    "court": "OTHER",
    "field": "commercial",
    "kind": "實務評論",
+   "caseId": "icc-rules-2026",
    "jurisdiction": "",
    "outlet": "HSF Kramer 仲裁評析",
    "outletCode": "HSF",
@@ -23,6 +24,7 @@
    "titleOriginal": "Stacking the deck: Do the new ICC rules make arbitration the winning hand for banking disputes? (Inside Arbitration Issue 22)",
    "caseRef": "",
    "tldr": "銀行與金融業過去偏好上法院，因為仲裁缺乏「快速追債」與「仲裁庭成立前的緊急保全」等工具。作者認為 2026 年 6 月生效的 ICC 新規則補上了這些缺口，建議借貸雙方重新檢討契約中的爭議解決條款。",
+   "memo": "Jaime de San Román、Hannah Ambrose、Cecilia Tilve、Olga Dementyeva、Devansh Agrawal於 HSF Kramer 仲裁評析 撰文指出，銀行與金融業過去偏好訴訟，係因仲裁欠缺快速追償及仲裁庭組成前之緊急保全；2026 年 6 月施行之 ICC 新規則以高度簡易程序（附件六）、擴大適用於「可能受仲裁協議拘束」者之緊急仲裁人制度及早期判斷補足上述缺口，作者建議借貸雙方重新檢討爭議解決條款。",
    "context": "HSF Kramer 於 2026 年 10 月 21 日出版其刊物 Inside Arbitration 第 22 期，收錄多篇實務文章；本則僅摘要其中討論 ICC 2026 年仲裁規則與銀行金融爭議的一篇。\nICC 2026 年仲裁規則自 2026 年 6 月 1 日起適用。依作者引用的統計，銀行金融案件僅占 ICC 2025 年受理案件約 4.6%，遠低於營建、能源與運輸。",
    "facts": [
     "ICC 2026 年仲裁規則自 2026 年 6 月 1 日生效，新增高度簡易仲裁程序（HEAP，附件六）、擴大緊急仲裁人制度（附件四）及早期判斷（第 30 條）。",
@@ -71,6 +73,7 @@
    "court": "AWARD",
    "field": "investment",
    "kind": "仲裁判斷",
+   "caseId": "smm-cerro-verde-v-peru",
    "jurisdiction": "",
    "outlet": "ICSID 案件（依新聞報導）",
    "outletCode": "ICSID",
@@ -81,6 +84,7 @@
    "titleOriginal": "SMM Cerro Verde Netherlands B.V. v. Republic of Peru (ICSID Case No. ARB/20/14), Award (published by ICSID on 20 October 2026)",
    "caseRef": "ICSID Case No. ARB/20/14",
    "tldr": "秘魯稅務機關對 Cerro Verde 銅礦追徵礦業權利金及相關罰款與遲延利息，日本住友集團旗下的荷蘭股東依荷蘭－秘魯投資協定提出仲裁。報導指出，仲裁庭以多數意見命秘魯賠償約 1.41 億美元並負擔約 760 萬美元費用；ICSID 已於 10 月 20 日公開部分遮蔽的判斷。",
+   "memo": "ICSID 於 2026 年 10 月 20 日公開 SMM Cerro Verde Netherlands B.V. 訴秘魯案（ICSID Case No. ARB/20/14）之仲裁判斷（部分遮蔽）。依報導，仲裁庭多數意見命秘魯賠償約 1.412 億美元並負擔約 760 萬美元費用，另加利息；投資人選任之仲裁人提出部分不同意見，認應判給更高金額。各報導就金額計算說法不一。",
    "context": "Sociedad Minera Cerro Verde S.A.A. 經營秘魯阿雷基帕附近的銅礦，1998 年與秘魯簽訂法律及租稅穩定契約。秘魯國稅機關（SUNAT）其後就該礦選礦廠處理的礦石追徵權利金，並加計罰款與遲延利息。\n持有該公司約 21% 股份的 SMM Cerro Verde Netherlands B.V.（住友金屬礦山子公司）於 2020 年依荷蘭－秘魯雙邊投資協定在 ICSID 提起仲裁。另一股東 Freeport-McMoRan 依美秘貿易促進協定提出的平行仲裁（ICSID Case No. ARB/20/8），已於 2024 年 5 月遭駁回。\n仲裁庭成員依 UNCTAD 資料庫為 C. von Wobeser、O. M. Garibaldi、J. Blanch。",
    "facts": [
     "SUNAT 對 Cerro Verde 追徵權利金與其他稅捐，並加計罰款及遲延利息；公司在爭議期間曾以保留異議方式繳納。",
@@ -133,6 +137,7 @@
    "id": "2026-10-21-arb-icc-2026-disclosure-when-in-doubt",
    "court": "OTHER",
    "kind": "學術評論",
+   "caseId": "icc-rules-2026",
    "field": "commercial",
    "jurisdiction": "",
    "outlet": "Kluwer Arbitration Blog",
@@ -144,6 +149,7 @@
    "titleOriginal": "When in Doubt, Disclose: Resolving an Arbitrator's Dilemma Under the 2026 ICC Rules of Arbitration",
    "caseRef": "",
    "tldr": "新版 ICC 仲裁規則第 12 條第 2 項要求仲裁人，只要對某事是否應揭露有疑義，就要揭露。作者認為這條不是要仲裁人什麼都揭露，而是在客觀標準不明確時，不再讓仲裁人私下決定不說。",
+   "memo": "Vandit Sharma、Rudraksh Singhal於 Kluwer Arbitration Blog 撰文分析 2026 年 ICC 仲裁規則第 12 條第 2 項「有疑義即揭露」之規定，主張其並非大幅降低揭露門檻，而係於客觀標準不明時，排除仲裁人自行決定不揭露之空間；過度揭露將使當事人承擔查證負擔並淹沒重要資訊。",
    "context": "2021 年 ICC 規則第 11 條第 2 項要求仲裁人揭露「在當事人眼中」可能使其獨立性受質疑的事實，作者稱之為客觀標準。2026 年規則（2026 年 6 月 1 日施行）第 12 條第 2 項加入「有疑義即應揭露」的要求，並新增當事人須提出一份請潛在仲裁人審酌的人員與機構名單（附理由）。\n此一用語源自 2024 年 IBA 利益衝突準則一般標準 3(a)；問題在於新條文只是重申既有實務，還是把揭露範圍擴大到難以操作。",
    "facts": [
     "作者指出，仲裁人常遇到不構成明顯衝突、但可能有關係的事實，過去可自行判斷不揭露，造成無意或策略性的未揭露，機構難以察覺。",
@@ -188,6 +194,7 @@
    "court": "NEWS",
    "field": "commercial",
    "kind": "案件動態",
+   "caseId": "gazprom-v-gts",
    "jurisdiction": "俄羅斯",
    "outlet": "Investment Arbitration Reporter（依新聞報導）",
    "outletCode": "IAR",
@@ -198,6 +205,7 @@
    "titleOriginal": "Uncovered: ICC tribunal orders Russia's Gazprom to pay 54 million EUR to Dutch gas system operator under parent company guarantee (IAReporter, 20 October 2026); Gazprom v. Gasunie Transport Services et al.（俄羅斯商事法院，2026 年 10 月 8 日）",
    "caseRef": "",
    "tldr": "一件 2024 年 12 月 31 日作成的 ICC 仲裁判斷內容首度曝光：仲裁庭依 Gazprom 提供的母公司保證，命其支付荷蘭天然氣輸送系統營運商 Gasunie Transport Services 約 5,400 萬歐元。Gazprom 則已在俄國法院取得禁令，禁止對方及其荷蘭律師、執行人員在外國法院追償或執行該判斷。",
+   "memo": "依 IAReporter 報導，ICC 仲裁庭於 2024 年 12 月 31 日依 Gazprom 提供之母公司保證，命其給付荷蘭天然氣輸送系統營運商 Gasunie Transport Services 約 5,400 萬歐元；俄羅斯商事法院則於 2026 年 10 月 8 日部分准許 Gazprom 之請求，禁止對方及其荷蘭律師、執行人員在外國追償或執行該判斷。仲裁地及判斷理由未公開。",
    "context": "Gasunie Transport Services（GTS）為荷蘭國營 Gasunie 的子公司，經營荷蘭天然氣輸送系統。依 IAReporter 標題，爭議源於 Gazprom 為其集團公司履約所出具的母公司保證。\n俄羅斯 2020 年修正的商事訴訟法賦予俄國法院對涉及受制裁當事人爭議的專屬管轄，並可核發禁訴（禁止仲裁）令及違反時的罰款。2024 年 3 月，聖彼得堡商事法院已應 Gazprom Export 之請，禁止 GTS 繼續其在荷蘭北部地方法院的訴訟，違反時罰款約 2.75 億歐元。",
    "facts": [
     "ICC 國際仲裁院的仲裁判斷作成於 2024 年 12 月 31 日（依俄國媒體引述案卷）。",
@@ -244,6 +252,7 @@
    "court": "COURT",
    "field": "investment",
    "kind": "法院裁判",
+   "caseId": "gruner-stucky-v-jordan",
    "jurisdiction": "荷蘭",
    "outlet": "Investment Arbitration Reporter（依新聞報導）",
    "outletCode": "IAR",
@@ -254,6 +263,7 @@
    "titleOriginal": "Dutch court orders Jordan to post security for costs in proceedings seeking set-aside of UNCITRAL construction award (IAReporter, 20 October 2026); Gruner Stucky Ltd and Bernard Gruppe ZT GmbH v. Jordan (PCA Case No. 2022-08)",
    "caseRef": "PCA Case No. 2022-08",
    "tldr": "瑞士與奧地利的工程顧問公司依投資協定控告約旦並取得仲裁判斷，約旦向仲裁地荷蘭的法院聲請撤銷。報導指出，荷蘭法院命約旦在撤銷程序中先提供訴訟費用擔保。",
+   "memo": "依 IAReporter 報導，瑞士與奧地利工程顧問公司依投資協定對約旦取得仲裁判斷（PCA Case No. 2022-08，水壩工程爭議），約旦向仲裁地荷蘭之法院聲請撤銷，法院命約旦於撤銷程序中先提供訴訟費用擔保；擔保金額及理由未公開。",
    "context": "Gruner Stucky Ltd（瑞士）與 Bernard Gruppe ZT GmbH（奧地利）於 2021 年 5 月 20 日依瑞士－約旦（2001 年）及奧地利－約旦（2001 年）雙邊投資協定，按 1976 年 UNCITRAL 仲裁規則對約旦提起仲裁，由常設仲裁法院（PCA）提供行政協助，仲裁地為荷蘭。仲裁庭由 Christopher Greenwood（主任仲裁人）、Stephan Schill、Hadi Slim 組成。爭議涉及營建（水壩工程）領域。\nPCA 案件頁面顯示本案已終結；IAReporter 案件頁面顯示「撤銷程序進行中」。",
    "facts": [
     "本案仲裁已作成判斷（判斷日期與內容未能取得），約旦在荷蘭法院聲請撤銷。",
@@ -303,6 +313,7 @@
    "court": "NEWS",
    "field": "investment",
    "kind": "案件動態",
+   "caseId": "suffolk-v-portugal",
    "jurisdiction": "",
    "outlet": "Investment Arbitration Reporter（依新聞報導）",
    "outletCode": "IAR",
@@ -313,6 +324,7 @@
    "titleOriginal": "Banking investors file for annulment of award that declined jurisdiction over treaty claim against Portugal (IAReporter, 20 October 2026); Suffolk (Mauritius) Limited, Mansfield (Mauritius) Limited and Silver Point Mauritius v. Portuguese Republic (ICSID Case No. ARB/22/28), Award of 12 June 2026",
    "caseRef": "ICSID Case No. ARB/22/28",
    "tldr": "多檔以模里西斯公司名義投資的不良資產基金，因葡萄牙央行 2015 年將部分 Novo Banco 債券轉回「壞銀行」BES 而受損，依模里西斯－葡萄牙投資協定求償約 2.6 億歐元。仲裁庭 2026 年 6 月認定無管轄權，投資人現已聲請撤銷該判斷。",
+   "memo": "依 IAReporter 報導，以模里西斯公司名義投資之基金，因葡萄牙央行 2015 年將部分 Novo Banco 債券轉回 BES 而受損，依模里西斯—葡萄牙投資協定求償約 2.6 億歐元；ICSID 仲裁庭於 2026 年 6 月 12 日以無管轄權駁回，投資人已聲請撤銷該判斷（ICSID Case No. ARB/22/28）。",
    "context": "2014 年葡萄牙央行對 Banco Espírito Santo（BES）採取處置措施，將優質資產移轉至新設的 Novo Banco；2015 年 12 月又決定將部分 Novo Banco 優先債券轉回 BES，持有該債券的投資人因而受損。\nSuffolk、Mansfield 與 Silver Point 三家模里西斯公司（葡萄牙媒體報導與 Elliott 等不良資產基金有關）於 2022 年依 1997 年模里西斯－葡萄牙雙邊投資協定向 ICSID 提起仲裁。仲裁庭由 Jeremy K. Sharpe（主席）、Brigitte Stern、Stephan W. Schill 組成，2024 年 3 月決定將葡萄牙的六項管轄權抗辯（投資人適格、投資適格、投資違法、爭議發生後才取得投資、濫用程序、岔路條款）先行審理。",
    "facts": [
     "仲裁庭於 2026 年 6 月 12 日作成判斷，認定無管轄權而駁回請求；請求金額約 2.6 億歐元（葡萄牙媒體報導）。",
@@ -378,6 +390,7 @@
    "titleOriginal": "Small and Medium-Sized Enterprises (SMEs) and Standard-Essential Patent (SEP) Arbitration: What Safeguards Do SMEs Need?",
    "caseRef": "",
    "tldr": "專利權人提議用仲裁決定 FRAND 授權費時，中小企業不該只看仲裁機構的名聲，而要逐項檢視仲裁範圍、證據取得、暫時性安排與費用控制。作者列出四大風險（資訊不對稱、估值不確定、專利組合不確定、資源不對稱）及對應的契約設計建議。",
+   "memo": "Earl Nied於 Kluwer Arbitration Blog 撰文指出，專利權人提議以仲裁決定標準必要專利之 FRAND 授權費時，中小企業應逐項檢視仲裁範圍、仲裁庭權限、證據取得、暫時性安排及費用控制，並針對資訊不對稱、估值與專利組合不確定及資源不對稱等風險設計契約條款。",
    "context": "標準必要專利（SEP）是實施某項技術標準（例如行動通訊標準）時不可避免會使用到的專利，權利人通常承諾以公平、合理、無歧視（FRAND）條件授權。授權費爭議日益複雜昂貴，調解與仲裁被視為訴訟以外的選項。\n中小企業的處境特殊：一旦面臨禁制令威脅，產品可能無法繼續銷售，談判籌碼明顯不利；歐盟執委會 2023 年的 SEP 影響評估亦指出，中小企業往往缺乏授權費資訊與專業資源，難以判斷報價是否合理。另一方面，有拘束力的仲裁判斷通常只能以有限理由爭執（作者以英國 1996 年仲裁法第 68、69 條為例）。",
    "facts": [
     "作者不對 SEP 爭議是否一般應交付 ADR 表態，而是聚焦：當對方提議仲裁時，中小企業應考量什麼。",
@@ -414,6 +427,7 @@
    "id": "2026-10-19-arb-sgca-nextera-spain-immunity",
    "court": "COURT",
    "kind": "法院裁判",
+   "caseId": "nextera-v-spain",
    "field": "investment",
    "jurisdiction": "新加坡",
    "outlet": "新加坡上訴法院",
@@ -425,6 +439,7 @@
    "titleOriginal": "Kingdom of Spain v NextEra Energy Global Holdings BV and another [2026] SGCA 43 (Civil Appeal No 11 of 2026), judgment of 19 October 2026",
    "caseRef": "[2026] SGCA 43；CA 11/2026；ICSID Case No. ARB/14/11",
    "tldr": "荷蘭的 NextEra 關係企業在 ICSID 仲裁中勝訴，西班牙被判賠約 2.9 億歐元，投資人到新加坡法院登記這份仲裁判斷。西班牙主張國家豁免，新加坡上訴法院駁回上訴：加入 ICSID 公約、承諾承認與執行仲裁判斷，本身就是事先以書面同意其他締約國法院的管轄。本判決只處理「登記」，不涉及查封西班牙財產。",
+   "memo": "新加坡上訴法院於 Kingdom of Spain v NextEra Energy Global Holdings BV 案（[2026] SGCA 43）駁回西班牙之上訴，認定《ICSID 公約》第 54 條第 1 項之承認與執行義務，依新加坡《國家豁免法》構成國家事先以書面接受締約國法院之管轄，西班牙不得以國家豁免阻擋約 2.9 億歐元仲裁判斷之登記；本判決不涉及執行豁免。",
    "context": "本案源於西班牙 2010 年代削減再生能源補貼。NextEra 的兩家荷蘭子公司依能源憲章條約（ECT）第 26 條於 2014 年提起 ICSID 仲裁（ICSID Case No. ARB/14/11）。仲裁庭 2019 年 3 月認定西班牙違反 ECT 第 10 條第 1 項的公平公正待遇義務，2019 年 5 月 31 日作成仲裁判斷，命西班牙賠償約 2.906 億歐元及利息、費用；西班牙依 ICSID 公約第 52 條聲請撤銷（annulment），2022 年 3 月遭撤銷委員會駁回。\n投資人於 2023 年 12 月依新加坡《仲裁（國際投資爭端）法》（AIIDA）聲請登記仲裁判斷，2024 年 1 月取得登記令。西班牙 2025 年聲請撤銷登記，主張國家豁免及「歐盟內部異議」（以歐盟法院 Achmea、Komstroy 判決為據），新加坡高等法院於 [2026] SGHC 43 駁回，西班牙上訴。",
    "facts": [
     "投資人以不經通知（ex parte）方式取得仲裁判斷登記令；西班牙其後聲請撤銷登記。",
@@ -500,6 +515,7 @@
    "titleOriginal": "Arbitrators on Notice: The German BGH on Recourse and Remittal（BGH, Beschluss vom 30. Juli 2026, I ZB 6/26）",
    "caseRef": "I ZB 6/26",
    "tldr": "敗訴方以仲裁人未揭露利益衝突為由，聲請撤銷仲裁判斷。勝訴方擔心判斷被撤銷後要向仲裁人求償，於是在撤銷程序中對該仲裁人告知訴訟，讓法院的認定日後對仲裁人也有拘束力。下級法院拒絕送達告知書，德國聯邦最高法院（BGH）推翻此一決定，認為原則上可以這麼做。",
+   "memo": "德國聯邦最高法院於 2026 年 7 月 30 日裁定（I ZB 6/26），仲裁判斷撤銷程序中，勝訴方得對被指未揭露利益衝突之仲裁人為訴訟告知，使法院之必要認定於日後求償訴訟中拘束該仲裁人；《民事訴訟法》第 72 條第 2 項不得類推適用於仲裁人。單純送達告知書通常不妨礙發回原仲裁庭，惟仲裁人若參加訴訟支持一方，即可能無法發回。",
    "context": "本案為德國仲裁協會（DIS）仲裁。敗訴方（被申請人）先前選任的仲裁人，被指未揭露曾與一家為申請人提供相關法律意見的律師事務所合作；被申請人向 DIS 仲裁理事會聲請迴避，該仲裁人稱不知該所曾提供意見，聲請遭駁回。\n仲裁判斷作成後，被申請人向巴伐利亞邦最高法院（BayObLG）聲請撤銷，理由之一即為上述未揭露。該院命仲裁人與律師事務所律師到庭作證，以查明仲裁人是否知情。BGH 於 2026 年 7 月 30 日就告知訴訟問題作成裁定，Daily Jus 於 10 月 19 日刊出評析。",
    "facts": [
     "申請人（仲裁勝訴方）對該仲裁人發出告知訴訟，主張若判斷遭撤銷，其對仲裁人將有損害賠償請求權，目的在使撤銷法院的相關認定於日後求償訴訟中具拘束力。",
@@ -543,6 +559,7 @@
    "id": "2026-10-19-arb-icc-salomon-rules-norms",
    "court": "INST",
    "kind": "機構動態",
+   "caseId": "icc-rules-2026",
    "field": "commercial",
    "jurisdiction": "",
    "outlet": "ICC 國際商會",
@@ -554,6 +571,7 @@
    "titleOriginal": "Rewriting the ICC Rules of Arbitration: Balancing Rules and Social Norms",
    "caseRef": "",
    "tldr": "主導 2026 年 ICC 仲裁規則修訂的仲裁院院長 Salomon 說明修法取捨：只有需要一致性與可執行後果的事項才寫進規則，其餘交給指引與共同的行為慣例。審理範圍書（Terms of Reference）不再是必經程序；仲裁人遲交判斷草稿可能被減少報酬。",
+   "memo": "ICC 國際仲裁院院長 Claudia Salomon 撰文說明 2026 年 ICC 仲裁規則（2026 年 6 月 1 日施行）之修訂取捨：未將仲裁人多元性及永續要求列為強制規定；審理範圍書改為選用之程序管理工具；《致當事人與仲裁庭指引》預期獨任仲裁人於兩個月內、三人仲裁庭於三個月內提交判斷草稿，無正當理由逾期者得減少報酬。",
    "context": "2026 年 ICC 仲裁規則自 2026 年 6 月 1 日施行。Salomon 主導修訂約兩年，修訂過程檢視整個仲裁程序，逐項判斷該用正式規則、社會規範，還是兩者並用。她以排隊為比喻：日常排隊多靠慣例維持，只有需要一致與可執行的後果時才需要正式規則。",
    "facts": [
     "多元性：修訂未採有拘束力的仲裁人多元性要求，理由是難以執行；改以範本信函及致各國國家委員會的仲裁人推薦指引加以鼓勵。",
@@ -614,6 +632,7 @@
    "titleOriginal": "2026 Australian Arbitration Week Recap: Code, Copper and Carbon: Geopolitics and National Security Driving Arbitrations / Arbitration Beyond Borders: Resolving Disputes in the New Space Economy",
    "caseRef": "",
    "tldr": "兩場澳洲仲裁週座談的共同結論：國家干預與供應鏈安全的考量，讓許多商務爭議實質上成為地緣政治爭議，當事人開始把類似投資條約的保障寫進契約；太空產業的爭議大多仍是一般商務契約問題，仲裁因具保密性而適合處理。",
+   "memo": "Kluwer Arbitration Blog 刊載之 2026 年澳洲仲裁週座談紀要指出，國家干預及供應鏈安全考量使許多商務爭議實質上成為地緣政治爭議，當事人漸將穩定條款、公平公正待遇等類似投資條約之保障納入契約；關鍵礦產、能源與科技領域之國家措施亦可能引發投資仲裁；太空產業爭議則多屬一般商務契約問題。",
    "context": "這兩篇文章屬 Kluwer Arbitration Blog「2026 年澳洲仲裁週紀要」系列。第一場座談由 HSF Kramer 主辦，以「程式碼（資料與科技）、銅（關鍵礦產）、碳（能源）」三個產業為主軸；第二場由 Corrs Chambers Westgarth 於 10 月 15 日主辦，討論太空經濟的爭議解決。本則著重其中與國際商務仲裁相關的部分。",
    "facts": [
     "與談人指出，俄烏戰爭與 2026 年荷莫茲海峽危機等供應衝擊後，企業願意為多元、安全的供應與長期契約支付「安全溢價」。",
@@ -671,6 +690,7 @@
    "titleOriginal": "2026 Australian Arbitration Week Recap: It's Not Me, It's You. Repudiatory Breach of the Arbitration Agreement, English and Australian Law",
    "caseRef": "",
    "tldr": "有些當事人想擺脫不利的契約，會設法讓對方「毀棄」仲裁協議，例如主張對方違約起訴就代表不再受仲裁協議拘束。澳洲仲裁週一場座談整理英國與澳洲判例：只有明確、毫不含糊地表現出不願再受拘束的行為，才構成毀約，單純違約起訴通常不算。",
+   "memo": "Caitlin McFarlane於 Kluwer Arbitration Blog 整理 2026 年澳洲仲裁週座談指出，依英國及澳洲法，違反有效仲裁協議起訴，僅於以明確且毫不含糊之行為顯示不願再受拘束時，始構成毀約性違約；主契約遭毀棄不當然及於仲裁協議，後者應依其自身準據法判斷。英國 2025 年《仲裁法》增訂之第 6A 條，以仲裁地法為仲裁協議之預設準據法。",
    "context": "本文為 2026 年澳洲仲裁週（Australian Arbitration Week）座談紀要，座談於 2026 年 10 月 14 日由 Johnson Winter Slattery 與 39 Essex Chambers 主辦，主持人為 Swee Im Tan，與談人為 Lee Carroll 與 Ben Olbourne。\n毀約性違約（repudiatory breach）是指觸及契約核心的違約，使無過失方得選擇解除契約。仲裁協議也是契約，同樣適用此一原則。",
    "facts": [
     "英國未公開的 ICC 仲裁案例：中國承包商依和解協議在巴基斯坦法院起訴巴基斯坦業主請求債款，承認仲裁條款存在，但主張因無「爭議」而不適用；巴基斯坦法院裁定停止訴訟、交由倫敦仲裁。仲裁庭認定在巴基斯坦起訴違反仲裁協議，但不構成毀約，因為承包商承認條款有效，並提出了真誠（即使勉強可辯）的理由。",
@@ -723,6 +743,7 @@
    "titleOriginal": "Sopam Energie - SA v. Republic of Mali (ICSID Case No. ARB/26/39); Lombard North Central PLC v. Republic of Türkiye (ICSID Case No. ARB/26/40); Aquilon FZCO v. Nile Petroleum Corporation and Republic of South Sudan (ICSID Case No. ARB/26/41)",
    "caseRef": "ARB/26/39；ARB/26/40；ARB/26/41",
    "tldr": "ICSID 在 10 月 6 日與 16 日登記三件以國家為被申請人的新案，分別對馬利、土耳其與南蘇丹。目前公開資訊只有當事人與案號，求償依據與金額尚未公布。",
+   "memo": "ICSID 於 2026 年 10 月 6 日及 16 日登記三件以國家為被申請人之新案：Sopam Energie 訴馬利（ARB/26/39）、Lombard North Central 訴土耳其（ARB/26/40）及 Aquilon FZCO 訴南蘇丹國家石油公司與南蘇丹（ARB/26/41）；求償依據與金額尚未公開。",
    "context": "ICSID 秘書長登記仲裁請求，只表示請求未明顯超出 ICSID 管轄，不代表對管轄或實體的判斷；登記後即進入仲裁庭組成階段。\nInvestment Arbitration Reporter 於 10 月 19 日報導，Aquilon 為阿聯酋投資人，案件同時以南蘇丹及其國家石油公司（Nile Petroleum Corporation，Nilepet）為被申請人。",
    "facts": [
     "2026 年 10 月 6 日：Sopam Energie - SA v. Republic of Mali（ARB/26/39）登記。",
@@ -773,6 +794,7 @@
    "titleOriginal": "ICSID Publishes 2026 Annual Report, Highlighting Institutional Developments",
    "caseRef": "",
    "tldr": "ICSID 公布 2026 會計年度（2025 年 7 月至 2026 年 6 月）年報：新登記 60 件、管理 363 件（單一年度最多）、結案 83 件；同年在新加坡與巴黎設立首批華府以外的辦公室。年報於 10 月 16 日在曼谷舉行的行政理事會年會通過。",
+   "memo": "ICSID 公布 2026 會計年度年報：新登記案件 60 件，管理案件 363 件為單一年度最高，結案 83 件；選任 250 人次，被選任者國籍達 52 國；並於新加坡及巴黎設立首批華府以外之辦公室。年報於 2026 年 10 月 16 日經行政理事會通過。",
    "context": "ICSID（解決投資爭端國際中心）隸屬世界銀行集團，是投資人與國家間仲裁最主要的機構。年報由各締約國代表組成的行政理事會審議通過。",
    "facts": [
     "新登記案件 60 件；管理案件 363 件，為單一年度最高；結案 83 件，為史上第二高。",
@@ -813,6 +835,7 @@
    "id": "2026-10-16-arb-uncitral-wg3-55th-session",
    "court": "LAW",
    "kind": "立法動態",
+   "caseId": "isds-reform-wg3",
    "field": "investment",
    "jurisdiction": "",
    "outlet": "UNCITRAL 第三工作組",
@@ -824,6 +847,7 @@
    "titleOriginal": "UNCITRAL Working Group III (Investor-State Dispute Settlement Reform), 55th session, Vienna, 12–16 October 2026",
    "caseRef": "",
    "tldr": "聯合國國際貿易法委員會負責投資人與國家間爭端解決（ISDS）改革的第三工作組，10 月 12 日至 16 日在維也納開會，議題包括賠償計算指引、修訂後的第 20 條草案（涉及利息），以及其餘程序與橫向議題條款。會議報告尚未公布。",
+   "memo": "聯合國國際貿易法委員會第三工作組（投資人與國家間爭端解決改革）於 2026 年 10 月 12 日至 16 日在維也納舉行第 55 屆會議，議題包括賠償計算指引草案、修訂後第 20 條草案（利息）及其餘程序與橫向議題條款；會議報告尚未公布。",
    "context": "依 IISD 報導，UNCITRAL 委員會於 2026 年 7 月第 59 屆會議定案《國際投資爭端解決諮詢中心規約》草案並送聯合國大會，另通過《解決國際投資爭端程序補充規定》作為獨立文件；常設第一審與上訴法庭的規約草案仍在工作組協商，IISD 並稱工作組已進入最後一年。\n2026 年 3 月的第 54 屆會議討論常設投資法庭、常設上訴法庭規約草案及常設機制的結構設計。",
    "facts": [
     "議程文件：附註臨時議程（A/CN.9/WG.III/WP.266）。",
@@ -880,6 +904,7 @@
    "titleOriginal": "2026 Australian Arbitration Week Recap: Exploration to Expropriation: Valuing Mining Projects in International Arbitration",
    "caseRef": "",
    "tldr": "地主國徵收尚未投產的礦場時，投資人很難證明未來一定獲利。座談整理三種估價方法：沉沒成本（可乘以 1 至 5 倍的「前景乘數」）、可比交易，以及須有可行性研究支撐的現金流折現；並討論國家風險溢酬、訴訟資金與保險。",
+   "memo": "Arian Pashah於 Kluwer Arbitration Blog 整理 2026 年澳洲仲裁週座談指出，尚未投產之礦場遭徵收時，所失利益難以確定證明；估價方法包括沉沒成本（得乘以 1 至 5 倍之前景乘數）、可比交易及須有可行性研究支撐之現金流折現法，並應審慎處理國家風險溢酬之計算。",
    "context": "本文為 2026 年澳洲仲裁週紀要，座談於 10 月 14 日由 Clifford Chance 主辦，主持人為 Elliot Luke，與談人包括 Alvarez & Marsal 的 Campbell Jaski、奈洛比國際仲裁中心執行長 Henry Murigi、Toremis Specialty 的 Susanna Taylor 及 Clifford Chance 的 Vlada Lemaic。依文中數據，澳洲企業已提起約 35 件投資人對國家仲裁，多數涉及礦業。",
    "facts": [
     "賠償原則依常設國際法院 Chorzów 工廠案與國際法委員會國家責任條款採完全賠償，包括所受損害（沉沒成本）與所失利益。",
@@ -932,6 +957,7 @@
    "titleOriginal": "Enforcement of Local Arbitral Awards in Türkiye",
    "caseRef": "",
    "tldr": "在土耳其作成的仲裁判斷，依仲裁是否具涉外因素，分別適用民事訴訟法或國際仲裁法，兩者的執行規則差很多：適用國際仲裁法時，一提起撤銷之訴就自動停止執行，而且要先取得執行力證明。作者整理相關判決，提醒仲裁庭與當事人要正確認定程序準據法。",
+   "memo": "Erdem Küçüker於 Daily Jus 撰文指出，在土耳其作成之仲裁判斷，依有無涉外因素分別適用《民事訴訟法》或《國際仲裁法》：前者提起撤銷之訴不當然停止執行，且無須執行力證明；後者提起撤銷之訴即自動停止執行，並須先取得執行力證明。程序準據法之認定因而具實質影響。",
    "context": "土耳其在本國作成的仲裁判斷有兩套制度：無涉外因素、以土耳其為仲裁地的仲裁，適用 2011 年民事訴訟法第 11 章；具涉外因素（如當事人國籍、股權結構或標的），或當事人明示選擇時，適用 2001 年國際仲裁法（TIAC）。",
    "facts": [
     "民事訴訟法仲裁判斷：撤銷之訴須於通知後一個月內向上訴法院提起（第 439 條第 1、4 項）；提起撤銷之訴不當然停止執行，債務人須聲請並提供判斷所定金額的擔保才可能停止（第 439 條第 4 項）；撤銷之訴被駁回後停止即解除，即使尚可上訴至最高法院（第 439 條第 6 項）；不需執行力證明。",
@@ -981,6 +1007,7 @@
    "titleOriginal": "Mastering FIDIC in arbitration: expertise, strategy and the price of ignorance / Is Latin America's construction boom outpacing its bench of recognised experts?",
    "caseRef": "",
    "tldr": "兩篇 ICC 客座文章都談營建仲裁的人才問題：FIDIC 契約有自己的語言、程序與風險分配，仲裁人、律師與專家不熟悉就會誤判；而拉丁美洲在多邊開發銀行資助下工程大增，熟悉 FIDIC、工期與金額鑑定的在地認證專家卻非常少。",
+   "memo": "ICC 客座部落格兩篇文章指出，FIDIC 契約具有獨特之通知、工程師決定、DAAB 及計價程序，仲裁人、律師與專家欠缺相關知識將影響判斷品質；拉丁美洲受多邊開發銀行資助之工程大增，惟熟悉 FIDIC、工期及金額鑑定之在地認證專家明顯不足。",
    "context": "兩篇文章由 2026 年 ICC-FIDIC 國際營建契約與爭議解決研討會的贊助單位撰寫，刊於 ICC 客座部落格。FIDIC 是國際顧問工程師聯合會制定的標準營建契約，多邊開發銀行資助的工程常採用，並以爭議避免／裁決委員會（DAAB）與 ICC 仲裁作為爭議解決機制。",
    "facts": [
     "FIDIC 紅皮書（業主設計、承包商施工）、黃皮書（承包商設計並負擔性能要求）、銀皮書（承包商風險較高，常見於統包工程）分配風險的方式不同。",
@@ -1021,6 +1048,7 @@
    "id": "2026-10-15-arb-ejil-fridman-luxembourg-chill",
    "court": "OTHER",
    "kind": "學術評論",
+   "caseId": "fridman-v-luxembourg",
    "field": "investment",
    "jurisdiction": "",
    "outlet": "EJIL:Talk!",
@@ -1032,6 +1060,7 @@
    "titleOriginal": "Investment Arbitration as Ransom? The EU Sanctions Regime and Administrative Chill",
    "caseRef": "",
    "tldr": "俄羅斯富商 Fridman 以資產遭凍結構成間接徵收為由，依比盧經濟聯盟與蘇聯的投資協定向盧森堡求償約 160 億美元。他在 2026 年 9 月被移出歐盟制裁名單，而盧森堡事前曾支持除名。作者認為仲裁風險很可能是重要因素，並提出「行政寒蟬」概念：制度本身不變，但對個別人的適用因仲裁壓力而改變。",
+   "memo": "Güneş Ünüvar於 EJIL:Talk! 撰文，以 Fridman 依比利時—盧森堡經濟聯盟與蘇聯投資協定對盧森堡求償約 160 億美元、嗣盧森堡支持將其移出歐盟制裁名單為例，提出「行政寒蟬」概念：制度未變，惟對個別人之適用因仲裁壓力而改變；作者警告其他受制裁投資人可能仿效。",
    "context": "Fridman 於 2024 年依 1989 年比利時—盧森堡經濟聯盟與蘇聯投資協定提起仲裁，主張制裁導致的資產凍結（包括其持有的 LetterOne 37.9% 股權）構成間接徵收；這是盧森堡已知的第一件投資條約仲裁。他另於 2025 年 3 月對荷蘭提起類似仲裁。\n歐盟普通法院曾於 Fridman v Council 案（T-304/22，2024 年 4 月 10 日）撤銷其 2022 年 2 月至 2023 年 3 月的列名，認為證據不足以支持列名標準。",
    "facts": [
     "Fridman 於 2026 年 9 月 22 日被移出歐盟制裁名單；據報導，盧森堡事前支持除名。",
@@ -1078,6 +1107,7 @@
    "titleOriginal": "Ultra Petita and Judicial Review of Arbitral Awards in Chile（Corte Suprema de Chile, Rol N° 18.419-2025, 23 de diciembre de 2025）",
    "caseRef": "Rol 18.419-2025",
    "tldr": "仲裁庭判命被申請人支付兩張未付的工程估驗計價單，被申請人主張申請人從未具體請求這兩筆款項，構成訴外裁判（ultra petita）。上訴法院同意並刪除該部分；智利最高法院撤銷上訴法院裁判，認為訴外裁判必須是實質、明顯地超出當事人提出的事實範圍，用語不同不算。",
+   "memo": "智利最高法院於 2025 年 12 月 23 日（Rol 18.419-2025）准許申訴救濟，撤銷聖地牙哥上訴法院以訴外裁判為由撤銷部分仲裁判斷之裁判，認定訴外裁判須為實質且明顯逾越當事人所提事實範圍，請求與判斷用語不同不構成訴外裁判；非常救濟不容法院以己見取代仲裁庭之實體判斷。本案為智利國內仲裁。",
    "context": "本案為聖地牙哥商會仲裁調解中心（CAM Santiago）管理的智利國內仲裁。\n智利法上撤銷仲裁判斷的管道之一是形式上訴（recurso de casación en la forma，民事訴訟法第 768 條），屬非常救濟，事由採列舉；其中「無管轄權」與「訴外裁判」兩項事由不得拋棄。民事訴訟法第 160 條要求裁判依訴訟資料作成，不得及於當事人未明確提出的事項。\n申訴救濟（recurso de queja，法院組織法第 545 條）原本只用於糾正重大過失或濫權，且以無其他救濟可用為限，但實務上常被間接用來審查裁判（包括仲裁判斷）的實體。",
    "facts": [
     "雙方於 2020 年 5 月訂立太陽能模組與追日系統安裝的分包契約。",
@@ -1132,6 +1162,7 @@
    "titleOriginal": "The Other AI Problem in Arbitration: When AI Makes the Record Too Big to Read",
    "caseRef": "",
    "tldr": "AI 對仲裁判斷的威脅有兩種：一是仲裁人把思考交給 AI；二是當事人用 AI 大量製造書狀與證據，讓仲裁人實際上無法親自消化卷宗。作者認為第二種問題更難察覺，主張以頁數字數限制、費用制裁與程序命令等「程序比例原則」來保護仲裁人的親自審理義務。",
+   "memo": "Mario Covarrubias Jurado於 Kluwer Arbitration Blog 撰文指出，除仲裁人將判斷委由 AI 外，當事人以 AI 大量製作書狀與證據，亦可能使仲裁人實際上無法親自審閱卷宗；作者主張以頁數字數限制、費用制裁及程序命令等程序比例措施保護仲裁人之親自審理義務，並兼顧當事人陳述意見之權利。",
    "context": "2026 年 4 月，加拿大魁北克高等法院在 ARIHQ v Santé Québec 案撤銷一件仲裁判斷，理由是仲裁人依賴未經查證的 AI 產出（包括虛構的判例與被誤述的先例），等於把裁判職能委由他人行使。本文認為該案處理的是第一種風險。",
    "facts": [
     "巴黎仲裁週的座談已注意到冗長判斷與每週多份長篇書狀的負擔；2026 年 2 月一份白皮書建議限制文件調閱請求與異議的字數或頁數。",
@@ -1180,6 +1211,7 @@
    "titleOriginal": "Bridging the Gap: The SCC's Express Dispute Assessment and Latin America",
    "caseRef": "",
    "tldr": "SCC 的快速爭議評估介於調解與仲裁之間：由仲裁院指定一名中立法律專家，在 21 天內就事實或法律爭點提出附理由的評估，固定收費 29,000 歐元，預設不具拘束力。兩位 SCC 作者認為，這很適合拉丁美洲常見的長期合作契約與合資爭議。",
+   "memo": "Rubén Obadia Buenos、Jake Lowther於 Kluwer Arbitration Blog 撰文介紹斯德哥爾摩商會仲裁院《快速爭議評估規則》：由仲裁院指定中立專家，於 21 日內就事實或法律爭點提出附理由之評估，固定費用 29,000 歐元，預設不具拘束力且嚴格保密；作者認為適合拉丁美洲常見之長期契約及合資爭議。",
    "context": "SCC 於 2021 年推出《快速爭議評估規則》，2023 年修正。此程序以合意為基礎、具保密性，且不以仲裁協議存在為前提；當事人可在契約爭議解決條款中預先約定，SCC 提供單獨使用或作為仲裁前置步驟的範本條款。",
    "facts": [
     "SCC 理事會於收到雙方合意與費用後 48 小時內指定中立評估人；評估人召開程序管理會議並依規則第 7 條訂定時程。",
@@ -1228,6 +1260,7 @@
    "titleOriginal": "A and Others v Z [2026] HKCFI 5453",
    "caseRef": "[2026] HKCFI 5453",
    "tldr": "美國玻璃基板集團旗下的新加坡公司與一家中國大陸公司簽有合資協議，約定爭議交香港國際仲裁中心（HKIAC）仲裁。大陸公司卻在大陸法院提起股東代位訴訟、不正當競爭訴訟，並主張仲裁協議無效。香港高等法院原訟法庭認定這些訴訟只是為了規避仲裁，核發禁訴令要求撤回，即使被告是未簽署仲裁協議的關係企業也一樣。",
+   "memo": "香港高等法院原訟法庭於 A and Others v Z（[2026] HKCFI 5453）核發禁訴令，命中國大陸公司撤回為規避 HKIAC 仲裁條款而於大陸法院提起之股東代位訴訟、不正當競爭訴訟及仲裁協議效力訴訟；法院認聲請人僅須提出表面證據證明仲裁協議存在及涵蓋爭議，禁訴令並得及於關係密切之非簽約方，並命大陸公司以彌償基準負擔訴訟費用。",
    "context": "本案兩份合資協議以中國法為準據法，均訂有 HKIAC 仲裁條款；協議並設有獨家供貨安排：合資公司向美國集團相關企業採購原料與服務，大陸公司及其關係企業則只向合資公司採購液晶玻璃基板。\n依評析所述，這是兩週內香港法院第二度為維護仲裁協議或支持仲裁判斷執行而限制大陸訴訟；前一件為 Xiamen Xinjingdi Group Co Ltd v Eton Properties Ltd [2026] HKCFI 5258（暫委法官 Gary CC Lam），涉及保全仲裁判斷的執行。",
    "facts": [
     "聲請人為一家新加坡公司（合資協議當事人，受仲裁條款拘束）及其三家關係企業（非仲裁協議當事人）；相對人為合資協議另一方的中國大陸公司。",
@@ -1269,6 +1302,7 @@
    "id": "2026-10-12-arb-jll-capital-honduras-dismissed",
    "court": "AWARD",
    "kind": "仲裁判斷",
+   "caseId": "jll-capital-v-honduras",
    "field": "investment",
    "jurisdiction": "",
    "outlet": "ICSID 案件（依新聞報導）",
@@ -1280,6 +1314,7 @@
    "titleOriginal": "JLL Capital v. Republic of Honduras (ICSID Case No. ARB/23/3), Award of 30 September 2026",
    "caseRef": "ICSID Case No. ARB/23/3",
    "tldr": "墨西哥金融公司 JLL Capital 主張宏都拉斯法院程序讓它在當地的放款子公司停擺，構成徵收與拒絕正義，求償 4.6 億美元。ICSID 仲裁庭以多數決認定，系爭措施涉及金融服務，而《墨西哥與中美洲自由貿易協定》的投資章節不適用於金融服務，因此沒有管轄權；判斷只處理管轄權，未進入實體。",
+   "memo": "依宏都拉斯檢察總署公布及新聞報導，ICSID 仲裁庭於 JLL Capital 訴宏都拉斯案（ICSID Case No. ARB/23/3）以多數決接受宏都拉斯之管轄權抗辯，認系爭措施涉及金融服務，屬《墨西哥與中美洲自由貿易協定》投資章節之排除範圍，駁回 4.6 億美元之請求；申請人選任之仲裁人提出不同意見。判斷全文尚未公開。",
    "context": "JLL Capital 在宏都拉斯投資子公司 CA Capital，這是一家在宏都拉斯中央銀行登記的非銀行放款機構，主要辦理由公私部門員工薪資直接扣款的現金貸款。2018 年起因股東會控制權的訴訟，CA Capital 的放款業務停擺，最後以子公司遭介入接管告終。\nJLL Capital 於 2023 年 1 月提出仲裁請求，2023 年 2 月由 ICSID 登記。宏都拉斯曾於 2024 年退出 ICSID 公約，2026 年 8 月重新加入。",
    "facts": [
     "求償金額 4.6 億美元；依報導，CA Capital 的放款組合逾 5,000 萬美元，涉及約 34 個政府機關、超過 3 萬名員工。",
@@ -1330,6 +1365,7 @@
    "id": "2026-10-07-arb-ejil-runaway-interest-isds",
    "court": "OTHER",
    "kind": "學術評論",
+   "caseId": "isds-reform-wg3",
    "field": "investment",
    "jurisdiction": "",
    "outlet": "EJIL:Talk!",
@@ -1341,6 +1377,7 @@
    "titleOriginal": "Runaway Interest in ISDS: Back to (Legal) Basics",
    "caseRef": "",
    "tldr": "投資仲裁幾乎都會判給利息，而且金額驚人（Tethyan v Pakistan 案利息約占 59 億美元判斷的三成）。作者回顧利息從單利固定利率演變為市場利率加複利的過程，認為把利息當成「投資人預期報酬」的做法在法律上站不住腳，應改用無風險利率、尊重地主國法上的限制，並要求證明複利損失。",
+   "memo": "Toni Marzal於 EJIL:Talk! 撰文指出，投資仲裁將利息視為投資人預期報酬之做法於法律上難以成立，主張利息應以無風險利率計算、尊重地主國法上之限制，並要求證明複利損失；UNCITRAL 第三工作組第 20 條草案採無風險利率並要求請求複利者具體說明理由，方向正確但用語仍嫌模糊。",
    "context": "作者指出，1980 年代以前的仲裁庭多採約 5% 至 6% 的固定單利，並視為裁量事項。美國利率飆升與伊朗—美國求償法庭的大量案件，促使實務轉向以「經濟現實」計算利息。UNCITRAL 第三工作組目前正研議相關條款。",
    "facts": [
     "McCollough 案（1986）以個案權衡方式定 10% 單利；Brower 法官的個別意見把利息定性為損害項目，此見解後來在 ISDS 成為主流。",
@@ -1390,6 +1427,7 @@
    "titleOriginal": "Rewriting the Bargain: Investor Rights and the European Union Foreign Direct Investment Screening Regime at Entry",
    "caseRef": "",
    "tldr": "各國越來越常以國家安全或公共秩序為由審查、阻擋外國投資。作者以中德投資協定為例指出，投資協定通常不保障「進入」的權利，交易未完成前的期待也不受保護；但已取得的契約權利可能構成投資。歐盟 2026 年新外資審查規則縮小了模糊空間，卻沒有消除各國對「安全」的裁量。",
+   "memo": "Abdullah Javed於 Daily Jus 撰文指出，投資協定之保護原則上於投資存在後始開始，准入階段之保障甚為有限；以國家安全為由之外資審查若欠缺明確標準、透明程序或合比例性，可能涉及公平公正待遇或國民待遇問題。歐盟 2026 年新外資審查規則縮小模糊空間，惟未消除會員國對「安全」之裁量。",
    "context": "作者舉例：德國 2022 年禁止中國企業收購 Elmos 半導體業務、英國要求 Nexperia 出售 Newport Wafer Fab、義大利 2023 年限制中化集團提名倍耐力執行長。\n歐盟 2019/452 號規則只建立合作框架，未定義「安全」與「公共秩序」，也未設證據門檻；2026 年 6 月 8 日理事會通過取代該規則的新規則（CELEX 32026R1386），2026 年 7 月生效，多數條文自 2028 年 1 月 17 日起適用，要求每個會員國都須建立審查制度，第一階段審查 45 天，並擴大適用範圍。",
    "facts": [
     "中德投資協定（2003）第 2 條第 1 項規定投資的准入須依地主國法律，因此廣泛的資產定義並不創設進入權。",
@@ -1425,6 +1463,7 @@
    "id": "2026-10-06-arb-pca-crimea-privatbank-belbek",
    "court": "AWARD",
    "kind": "仲裁判斷",
+   "caseId": "crimea-privatbank-belbek",
    "field": "investment",
    "jurisdiction": "",
    "outlet": "常設仲裁法院（PCA）",
@@ -1436,6 +1475,7 @@
    "titleOriginal": "JSC CB PrivatBank v. The Russian Federation (PCA Case No. 2015-21); Aeroport Belbek LLC and Mr. Igor Valerievich Kolomoisky v. The Russian Federation (PCA Case No. 2015-07)",
    "caseRef": "PCA 2015-21；PCA 2015-07",
    "tldr": "俄羅斯 2014 年控制克里米亞後，烏克蘭 PrivatBank 無法在當地營業，Belbek 機場客運航廈的經營權也被奪走。兩個由常設仲裁法院（PCA）管理的仲裁庭依 1998 年俄烏投資協定，於 2026 年 10 月 1 日作成終局判斷，命俄羅斯賠償 PrivatBank 約 1.809 億美元、機場方 1,150 萬美元，並自 2014 年起算利息至清償日。",
+   "memo": "常設仲裁法院於 2026 年 10 月 6 日公布，依 1998 年俄羅斯與烏克蘭投資保障協定組成之兩仲裁庭，於 2026 年 10 月 1 日作成終局判斷，命俄羅斯賠償 PrivatBank 約 1.8087 億美元及 Aeroport Belbek LLC 等 1,150 萬美元，並分別自 2014 年 4 月 18 日及 6 月 16 日起算利息至清償日；仲裁庭先前已認定俄羅斯自 2014 年 3 月 21 日起負條約義務並違反徵收保護。",
    "context": "兩案依 1998 年俄羅斯與烏克蘭投資保障協定提起，分由不同仲裁庭審理，PCA 擔任書記處，並於 2026 年 10 月 6 日發布終局判斷的新聞稿。\n依報導，仲裁庭於 2017 年認定俄羅斯自 2014 年 3 月 21 日起，對兩案投資人及其在克里米亞的投資負有條約義務；2019 年 2 月認定俄羅斯違反禁止徵收的保護，賠償問題留待後續階段。",
    "facts": [
     "PrivatBank 主張俄羅斯的措施使其無法在克里米亞繼續營業；Aeroport Belbek LLC 與 Igor Kolomoisky 主張失去 Belbek 機場商業客運航廈的經營權。",
@@ -1502,5 +1542,127 @@
    "relatedId": ""
   }
  ],
- "archives": []
+ "archives": [],
+ "cases": [
+  {
+   "id": "crimea-privatbank-belbek",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "常設仲裁法院（PCA）",
+   "name": "克里米亞投資仲裁（PrivatBank、Belbek 機場訴俄羅斯）",
+   "nameOriginal": "JSC CB PrivatBank v. Russian Federation; Aeroport Belbek LLC and Kolomoisky v. Russian Federation",
+   "caseRef": "PCA 2015-21；PCA 2015-07",
+   "summary": "烏克蘭投資人依 1998 年俄烏投資協定，就俄羅斯控制克里米亞後的徵收求償。",
+   "status": "2026 年 10 月 1 日作成終局判斷；依報導，俄羅斯得向荷蘭法院聲請撤銷。"
+  },
+  {
+   "id": "jll-capital-v-honduras",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "JLL Capital 訴宏都拉斯",
+   "nameOriginal": "JLL Capital v. Republic of Honduras",
+   "caseRef": "ICSID Case No. ARB/23/3",
+   "summary": "墨西哥金融公司主張宏都拉斯法院程序使其當地放款子公司停擺，構成徵收與拒絕正義，求償 4.6 億美元。",
+   "status": "2026 年 9 月 30 日以無管轄權駁回；申請人得於 120 天內聲請撤銷。"
+  },
+  {
+   "id": "nextera-v-spain",
+   "type": "案件",
+   "court": "COURT",
+   "field": "investment",
+   "forum": "ICSID／新加坡法院",
+   "name": "NextEra 訴西班牙（ICSID 判斷之承認與執行）",
+   "nameOriginal": "NextEra Energy Global Holdings B.V. and another v. Kingdom of Spain",
+   "caseRef": "ICSID Case No. ARB/14/11",
+   "summary": "NextEra 關係企業取得對西班牙約 2.9 億歐元的 ICSID 仲裁判斷，並在新加坡聲請登記。",
+   "status": "新加坡上訴法院於 2026 年 10 月 19 日駁回西班牙的國家豁免抗辯（[2026] SGCA 43）。"
+  },
+  {
+   "id": "suffolk-v-portugal",
+   "type": "案件",
+   "court": "NEWS",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Suffolk 等訴葡萄牙（BES 銀行處置案）",
+   "nameOriginal": "Suffolk (Mauritius) Limited and others v. Portuguese Republic",
+   "caseRef": "ICSID Case No. ARB/22/28",
+   "summary": "以模里西斯公司名義投資的基金，就葡萄牙央行 2015 年處置 BES／Novo Banco 債券依投資協定求償約 2.6 億歐元。",
+   "status": "仲裁庭於 2026 年 6 月以無管轄權駁回；投資人已聲請撤銷。"
+  },
+  {
+   "id": "gruner-stucky-v-jordan",
+   "type": "案件",
+   "court": "COURT",
+   "field": "investment",
+   "forum": "PCA／荷蘭法院",
+   "name": "Gruner Stucky 等訴約旦（水壩工程案）",
+   "nameOriginal": "Gruner Stucky Ltd and Bernard Gruppe ZT GmbH v. Jordan",
+   "caseRef": "PCA Case No. 2022-08",
+   "summary": "瑞士與奧地利工程顧問公司依投資協定，就水壩工程爭議對約旦取得仲裁判斷。",
+   "status": "約旦於仲裁地荷蘭聲請撤銷判斷，法院命其先提供訴訟費用擔保。"
+  },
+  {
+   "id": "smm-cerro-verde-v-peru",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "SMM Cerro Verde 訴秘魯",
+   "nameOriginal": "SMM Cerro Verde Netherlands B.V. v. Republic of Peru",
+   "caseRef": "ICSID Case No. ARB/20/14",
+   "summary": "住友金屬礦山的荷蘭子公司就秘魯對 Cerro Verde 銅礦追徵權利金、罰款與利息，依荷蘭—秘魯投資協定提起仲裁。",
+   "status": "判斷已作成，ICSID 於 2026 年 10 月 20 日公開。"
+  },
+  {
+   "id": "gazprom-v-gts",
+   "type": "案件",
+   "court": "NEWS",
+   "field": "commercial",
+   "forum": "ICC 仲裁／俄羅斯法院",
+   "name": "Gasunie Transport Services 與 Gazprom（母公司保證 ICC 仲裁）",
+   "nameOriginal": "Gasunie Transport Services v. Gazprom (ICC arbitration)",
+   "caseRef": "",
+   "summary": "荷蘭天然氣輸送系統營運商依 Gazprom 的母公司保證提起 ICC 仲裁。",
+   "status": "ICC 判斷命 Gazprom 給付約 5,400 萬歐元；俄國法院禁止對方在外國追償或執行。"
+  },
+  {
+   "id": "fridman-v-luxembourg",
+   "type": "案件",
+   "court": "OTHER",
+   "field": "investment",
+   "forum": "",
+   "name": "Fridman 訴盧森堡（制裁與投資協定）",
+   "nameOriginal": "Fridman v. Luxembourg",
+   "caseRef": "",
+   "summary": "受歐盟制裁的俄羅斯富商依比盧經濟聯盟與蘇聯投資協定，就資產凍結向盧森堡求償約 160 億美元。",
+   "status": "2024 年提起，程序現況未公開；Fridman 已於 2026 年 9 月 22 日被移出歐盟制裁名單。"
+  },
+  {
+   "id": "icc-rules-2026",
+   "type": "議題",
+   "court": "INST",
+   "field": "commercial",
+   "forum": "ICC 國際仲裁院",
+   "name": "2026 年 ICC 仲裁規則",
+   "nameOriginal": "2026 ICC Rules of Arbitration",
+   "caseRef": "",
+   "summary": "2026 年 6 月 1 日施行的新版 ICC 仲裁規則，包括審理範圍書改為選用、高度簡易程序、擴大緊急仲裁人與「有疑義即揭露」等變革。",
+   "status": "已施行；實務評論陸續發表。"
+  },
+  {
+   "id": "isds-reform-wg3",
+   "type": "議題",
+   "court": "LAW",
+   "field": "investment",
+   "forum": "UNCITRAL 第三工作組",
+   "name": "ISDS 改革（UNCITRAL 第三工作組）",
+   "nameOriginal": "UNCITRAL Working Group III — Investor-State Dispute Settlement Reform",
+   "caseRef": "",
+   "summary": "聯合國國際貿易法委員會研議投資人與國家間爭端解決的改革，包括諮詢中心、常設機制、程序條款與賠償計算。",
+   "status": "第 55 屆會議已於 2026 年 10 月 16 日結束，會議報告尚未公布。"
+  }
+ ]
 }
