@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-22T23:17:57+08:00",
-  "lastRunLocal": "2026-10-22 23:17",
+  "lastRun": "2026-10-23T07:09:56+08:00",
+  "lastRunLocal": "2026-10-23 07:09",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 4 則：商務仲裁 2（評論 2）、投資仲裁 2（法院裁判 1、仲裁判斷 1）",
+  "lastRunNote": "新增 4 則：商務仲裁 3（法院裁判 2、案件動態 1）、投資仲裁 1（仲裁判斷 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -1863,6 +1863,270 @@
     }
    ],
    "addedAt": "2026-10-22T23:17:57+08:00"
+  },
+  {
+   "id": "2026-10-21-arb-us-malawi-macra-notice-denied",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "美國紐澤西聯邦地方法院",
+   "outletCode": "DNJ",
+   "date": "2026-10-21",
+   "eventDate": "2026-10-21",
+   "importance": 2,
+   "author": "",
+   "title": "美國紐澤西聯邦地院以未受適當通知為由，拒絕承認馬拉威電信監理機關取得的 860 萬美元仲裁判斷",
+   "shortTitle": "美國法院拒絕執行馬拉威監理機關的仲裁判斷",
+   "point": "寄錯地址、改用電子郵件且未補救，不構成紐約公約要求的適當通知",
+   "titleOriginal": "Malawi Communications Regulatory Authority v. Precisely Software Inc., Civil Action No. 25-01574 (GC) (JBD) (D.N.J.), Memorandum Opinion of October 21, 2026",
+   "caseRef": "Civil Action No. 25-01574 (D.N.J.)",
+   "tldr": "馬拉威電信監理機關在馬拉威仲裁中，於美國軟體公司缺席下取得約 860 萬美元的仲裁判斷，再到美國法院聲請承認。法院認為監理機關沒有用合約約定的方式通知對方：寄件地址的辦公室號碼寫錯、改寄給已離職員工的電子郵件，投遞失敗後也沒有改用其他方法，因此依紐約公約拒絕承認。",
+   "memo": "美國紐澤西聯邦地方法院於 2026 年 10 月 21 日就 Malawi Communications Regulatory Authority v. Precisely Software 一案，依紐約公約第 5 條第 1 項第 b 款駁回承認仲裁判斷之聲請。法院認為通知是否適當應依美國正當程序標準判斷，並優先審酌契約約定之通知方式；聲請人以電子郵件通知已離職之聯絡人、寄往錯誤地址，且於得知投遞失敗後未採取其他合理措施，均不構成適當通知；法院並無須尊重仲裁人關於通知已合法之認定，相對人因未能選任仲裁人及陳述意見而受有不利益。",
+   "context": "馬拉威通訊監理局（MACRA）於 2010 年與美國軟體公司 Agilis（後由 Precisely Software 合併承受）簽訂主服務契約，由後者提供電信監控系統，2015 年及 2018 年另訂修正與執行協議。修正協議約定先協商、再調解，最後交付仲裁，仲裁地為馬拉威，適用馬拉威仲裁法及馬拉威法；契約並約定通知須以專人、國際快遞或掛號郵件寄送至相對人在美國馬里蘭州的指定地址（Suite 370）。\nMACRA 於 2022 年提付仲裁，請求約 2,200 萬美元。相對人未參與程序，仲裁人由馬拉威律師公會理事長選任。仲裁人認定通知合法並繼續進行，2023 年 11 月 22 日作成損害賠償判斷。MACRA 於 2025 年 2 月依紐約公約及美國聯邦仲裁法第 2 章向紐澤西聯邦地院聲請承認。",
+   "facts": [
+    "仲裁開始時，MACRA 僅以電子郵件通知簽約時的相對人代表，該人當時已離職。",
+    "2022 年 8 月以 DHL 寄送預備庭期通知，地址寫成 Suite 450 而非契約約定的 Suite 370，包裹遭拒收後依 MACRA 指示銷毀，其後未再採取其他措施。",
+    "2022 年 12 月至 2023 年 2 月的言詞辯論通知，或未載街道地址，或投遞未獲確認，或快遞公司找不到相對人辦公室；MACRA 僅撥打不特定的「已知電話」。",
+    "2023 年 11 月 22 日的判斷命相對人給付損害賠償及利息 8,577,057.30 美元，另加仲裁費用 26,495.31 美元。",
+    "相對人在美國設有登記送達代理人，MACRA 提起本件承認聲請時即經由該代理人送達。"
+   ],
+   "issues": [
+    "相對人是否未受指派仲裁人或仲裁程序之適當通知，或因其他情事未能陳述意見（紐約公約第 5 條第 1 項第 b 款）。",
+    "通知是否適當應依何國法律判斷；法院是否應尊重仲裁人關於通知合法的認定。",
+    "相對人是否須證明受有不利益。"
+   ],
+   "holding": "法院先說明，第 5 條第 1 項第 b 款應從嚴解釋，由拒絕承認的一方負舉證責任；通知是否適當依美國正當程序標準判斷，不以實際收受為必要，但須「合理預期可使當事人知悉」，且應先看當事人約定的通知方式。\n法院逐一檢視四次通知：電子郵件並非約定的通知方式；寄錯辦公室號碼的快遞遭拒收，MACRA 得知失敗後未再補救；其後數次快遞投遞失敗或無法確認，MACRA 未改以一般郵件寄送等明顯可行方法；費用程序的通知亦同。法院強調，相對人未更新地址不能免除聲請人的正當程序義務，且 MACRA 能經由相對人在美國的登記送達代理人送達本件聲請，顯示其本可找到相對人。\n法院並認為，第 5 條抗辯應由法院自行判斷，不受仲裁人認定通知合法的拘束。法院假設相對人須證明受有不利益，並認定其因無從選任仲裁人及出席陳述而已受不利益。結論：駁回承認判斷之聲請。",
+   "significance": "本件顯示，在被申請人缺席的仲裁中，聲請人若未依契約約定的通知方式送達，且在知悉投遞失敗後未採取其他合理措施，即使仲裁人已認定通知合法，判斷仍可能在美國無法承認。對於以國家機關或國營事業身分對外國企業提付仲裁的一方，保存依約通知及補救措施的完整紀錄，是日後跨境執行的前提。",
+   "editorNote": "本網頁助理 註：本則依法院判決原文（govinfo 刊載）撰寫；Law360 亦於 2026 年 10 月 22 日報導。判決未說明駁回是否具有既判力（with or without prejudice），亦未載明仲裁是否由仲裁機構管理。",
+   "tags": [
+    "紐約公約",
+    "承認與執行",
+    "適當通知",
+    "正當程序",
+    "缺席仲裁",
+    "美國",
+    "馬拉威"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "美國紐澤西聯邦地方法院判決全文（PDF）",
+     "url": "https://www.govinfo.gov/content/pkg/USCOURTS-njd-3_25-cv-01574/pdf/USCOURTS-njd-3_25-cv-01574-0.pdf",
+     "official": true
+    },
+    {
+     "label": "govinfo 案件文件頁",
+     "url": "https://www.govinfo.gov/app/details/USCOURTS-njd-3_25-cv-01574/context",
+     "official": true
+    },
+    {
+     "label": "Law360 報導：Notice Flaws Sink Malawi Bid To Enforce $8.6M Award",
+     "url": "https://www.law360.com/telecom/articles/2540947",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-23T07:09:56+08:00"
+  },
+  {
+   "id": "2026-10-14-arb-ewhc-a-v-e-unilateral-deed",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "英格蘭及威爾斯高等法院",
+   "outletCode": "EWHC",
+   "date": "2026-10-14",
+   "eventDate": "2026-10-13",
+   "importance": 2,
+   "author": "",
+   "title": "英國高等法院：單方簽署的契據中，賦予他方單方提付仲裁權的條款，仍屬仲裁法所稱仲裁協議",
+   "shortTitle": "英國法院：單方契據也能成立仲裁協議",
+   "point": "以第 67、68 條挑戰 LCIA 部分判斷均遭駁回，「仲裁協議」從寬解釋",
+   "titleOriginal": "A & Ors v E [2026] EWHC 2590 (BP)",
+   "caseRef": "[2026] EWHC 2590 (BP)",
+   "tldr": "一個家族企業集團的成員在一份由他們單方簽署的契據中，同意集團母公司可以要求以仲裁解決爭議。仲裁敗訴後，他們主張這種只有一方簽、只有一方能啟動的條款不算仲裁協議，仲裁庭因此沒有管轄權。英國高等法院不採，認為仲裁法的「仲裁協議」應從寬解釋，並駁回他們對仲裁判斷的挑戰。",
+   "memo": "英格蘭及威爾斯高等法院（Nigel Cooper KC 以副法官身分審理）於 2026 年 10 月 13 日就 A & Ors v E 一案（[2026] EWHC 2590 (BP)），駁回申請人依 1996 年仲裁法第 67 條及第 68 條對 LCIA 仲裁庭部分終局判斷之挑戰。法院基於該法用語之開放性及立法目的，對第 5 條、第 6 條第 1 項之「仲裁協議」採廣義解釋，認為以契據方式單方作成、同意於他方請求時交付仲裁之約定，亦屬仲裁協議，仲裁庭具有管轄權。",
+   "context": "本案為某知名家族內部就一私人企業集團所有權的爭議。被告為集團母公司，原告為在某國經營子公司的家族成員。原告曾簽署一份契據（deed），其中約定被告得單方將因該契據所生爭議交付 LCIA 仲裁。\n仲裁庭於 2025 年 10 月 31 日作成部分終局判斷，認定原告係以被告的名義人（nominee）身分持有子公司股份並擔任董事。原告遂依 1996 年仲裁法第 67 條（管轄權）及第 68 條（重大不當）向英國法院提出挑戰。法院曾於 2026 年 6 月 17 日命令限制非當事人調閱機密文件。",
+   "facts": [
+    "仲裁條款載於原告單方簽署的契據，賦予被告單方提付仲裁的權利。",
+    "原告主張該條款欠缺雙方合意的相互性，不構成仲裁法所稱仲裁協議，仲裁庭無管轄權（第 67 條）。",
+    "原告另主張仲裁庭界定判斷所涵蓋的子公司範圍有誤，構成重大不當（第 68 條）。"
+   ],
+   "issues": [
+    "單方作成的契據能否構成 1996 年仲裁法第 5 條、第 6 條第 1 項所稱「仲裁協議」。",
+    "仲裁庭界定判斷涵蓋之子公司範圍，是否構成第 67 條管轄權欠缺或第 68 條重大不當。"
+   ],
+   "holding": "依代理律師事務所及大律師事務所的說明：法院基於仲裁法用語的開放性及其目的，對「仲裁協議」採廣義理解，認為以契據形式單方作成、同意於他方請求時交付仲裁的約定，涵蓋在內，仲裁庭具有管轄權。法院同時駁回第 68 條的重大不當主張，兩項聲請均遭駁回，LCIA 部分判斷維持有效。",
+   "significance": "單方契據（如保證、承諾或股東作成的 deed poll）中的仲裁條款，常被質疑欠缺雙方合意。本判決確認這類條款可以成為英國仲裁法下的仲裁協議，有助於以契據方式安排爭議解決的家族企業、信託與集團架構。勝訴方代理律師認為，判決也可能影響其他以單方契據設定的商業義務。",
+   "editorNote": "本網頁助理 註：本則依 Blackstone Chambers（2026 年 10 月 14 日）與 Kingsley Napley（2026 年 10 月 15 日）的案件說明撰寫，兩者均為勝訴方代理人；本網頁助理未能讀取判決全文（BAILII），法院推理細節及所引先例尚待核對。中殿律師學院圖書館的判決清單將判決日期列為 2026 年 10 月 13 日；Kingsley Napley 新聞稿稱本案由高等法院商業及財產法庭審理，引述的律師發言則稱商事法院，以判決原文為準。",
+   "tags": [
+    "仲裁協議",
+    "英國仲裁法第67條",
+    "英國仲裁法第68條",
+    "LCIA",
+    "單方契據",
+    "管轄權",
+    "英國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "判決全文（BAILII）",
+     "url": "https://www.bailii.org/ew/cases/EWHC/BP/2026/2590.html",
+     "official": false
+    },
+    {
+     "label": "Blackstone Chambers 案件說明",
+     "url": "https://www.blackstonechambers.com/news/a-ors-v-e/",
+     "official": false
+    },
+    {
+     "label": "Kingsley Napley 新聞稿",
+     "url": "https://www.kingsleynapley.co.uk/our-insights/press-releases/kingsley-napley-acts-for-successful-defendant-defeating-a-challenge-to-an-lcia-arbitration-award/",
+     "official": false
+    },
+    {
+     "label": "中殿律師學院圖書館 BAILII 判決清單",
+     "url": "https://www.innertemplelibrary.com/2026/10/bailii-recent-decisions-2911/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-23T07:09:56+08:00"
+  },
+  {
+   "id": "2026-10-21-arb-neltume-uruguay-consent-award",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-10-21",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "Neltume Ports 撤回對烏拉圭的 6 億美元 ICSID 求償，仲裁庭將和解協議作成仲裁判斷",
+   "shortTitle": "Neltume 訴烏拉圭案以和解判斷終結",
+   "point": "投資人不可撤回地放棄請求，烏拉圭不承認責任，也不負任何給付",
+   "titleOriginal": "Neltume Ports S.A. v. Oriental Republic of Uruguay (ICSID Case No. ARB/24/14), award embodying the parties' settlement",
+   "caseRef": "ICSID Case No. ARB/24/14",
+   "tldr": "智利港口業者 Neltume Ports 因烏拉圭延長蒙特維多港競爭對手的貨櫃碼頭特許，依智利－烏拉圭投資協定在 ICSID 求償約 6 億美元。2026 年 9 月雙方達成協議，投資人撤回請求；依烏拉圭媒體報導，仲裁庭已一致決定將協議內容作成仲裁判斷，案件終結。",
+   "memo": "依烏拉圭媒體報導，ICSID 仲裁庭就 Neltume Ports S.A. 依 2010 年智利－烏拉圭雙邊投資協定對烏拉圭提起之仲裁（ICSID Case No. ARB/24/14），一致決定將雙方於 2026 年 9 月 4 日提出之和解協議作成仲裁判斷。依該協議，投資人不可撤回地撤回請求並承諾不再就同一事項對烏拉圭提起任何程序，雙方間爭議終局消滅；協議明定不構成烏拉圭對責任之承認，政府表示國家無須負擔任何費用。",
+   "context": "Neltume Ports 為智利企業，係蒙特維多港公共碼頭業者 Montecon 的主要股東。烏拉圭政府於 2021 年與比利時 Katoen Natie 集團簽約，將其經營的 Terminal Cuenca del Plata（TCP）貨櫃碼頭特許延長至 2081 年；Montecon 為 TCP 的主要競爭者，對此強烈批評。\nNeltume 主張延長特許違反智利－烏拉圭投資協定，於 2024 年向 ICSID 提付仲裁（italaw 所列仲裁通知日期為 2024 年 5 月 23 日），請求約 6 億美元。",
+   "facts": [
+    "Neltume 於 2026 年 8 月 19 日通知烏拉圭政府擬撤回仲裁；雙方於 9 月 4 日提出和解協議，以撤回方式終結程序。",
+    "依報導，協議約定投資人不可撤回地撤回請求，並不得再對烏拉圭提起任何程序；第一條明定雙方與烏拉圭及其機關間的爭議終局消滅。",
+    "協議載明簽署不構成、亦不得解釋為烏拉圭承認責任；烏拉圭政府表示協議不使國家負擔任何費用。",
+    "仲裁庭一致決定將和解協議作成仲裁判斷，la diaria 於 2026 年 10 月 21 日報導。",
+    "總統府副秘書長 Jorge Díaz 表示，政府希望 Montecon 另一股東提起的仲裁也能以類似方式結束。"
+   ],
+   "issues": [
+    "當事人和解後，仲裁庭依當事人請求將和解內容作成仲裁判斷（ICSID 仲裁規則關於和解與終止程序的規定）。"
+   ],
+   "holding": "依報導，仲裁庭一致決定將雙方提出的和解協議納入仲裁判斷，使爭議終局消滅。報導未提及仲裁費用如何分擔，亦未說明判斷作成日期。",
+   "significance": "將和解內容作成仲裁判斷，可使投資人放棄請求的承諾具有判斷的拘束力，避免日後重提同一爭議。本案結束了蒙特維多港多年來的碼頭特許爭議中最主要的一件仲裁；依政府發言，Montecon 另一股東的仲裁仍在進行。",
+   "editorNote": "本網頁助理 註：本則依烏拉圭媒體（la diaria、El Observador）報導撰寫，尚未取得仲裁判斷原文，亦未見 ICSID 正式公告；報導未載判斷作成日期，故裁判／事件日期留空。la diaria 2026 年 9 月報導稱仲裁於 2024 年 4 月提起，同報 10 月報導與 El Observador 則稱 2024 年 5 月；投資協定名稱依 italaw，求償金額依 la diaria 及 UNCTAD 資料庫。",
+   "tags": [
+    "ICSID",
+    "和解",
+    "撤回仲裁",
+    "港口特許",
+    "烏拉圭",
+    "智利"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "la diaria 報導：ICSID 將和解作成判斷（西班牙文）",
+     "url": "https://ladiaria.com.uy/politica/articulo/2026/10/ciadi-laudo-en-el-arbitraje-de-neltume-contra-el-estado-tras-el-desistimiento-de-la-empresa-queda-extinguida-toda-controversia/",
+     "official": false
+    },
+    {
+     "label": "El Observador 報導：投資人撤回仲裁（西班牙文）",
+     "url": "https://www.elobservador.com.uy/economia-y-empresas/accionistas-montecon-retiraron-manera-irrevocable-el-arbitraje-iniciado-contra-uruguay-el-ciadi-n6055805",
+     "official": false
+    },
+    {
+     "label": "la diaria 報導：撤回仲裁「無任何條件」（西班牙文）",
+     "url": "https://ladiaria.com.uy/politica/articulo/2026/9/accionista-de-montecon-desistio-sin-ninguna-condicion-de-arbitraje-contra-el-estado-pero-busca-nueva-terminal-de-contenedores/",
+     "official": false
+    },
+    {
+     "label": "italaw 案件頁",
+     "url": "https://www.italaw.com/cases/11581",
+     "official": false
+    },
+    {
+     "label": "UNCTAD 投資爭端資料庫案件頁",
+     "url": "https://investmentpolicy.unctad.org/investment-dispute-settlement/cases/1358/neltume-ports-v-uruguay",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-23T07:09:56+08:00"
+  },
+  {
+   "id": "2026-10-22-arb-kashagan-12bn-claims-time-barred",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "commercial",
+   "caseId": "kazakhstan-v-ncoc-kashagan",
+   "jurisdiction": "瑞士",
+   "outlet": "Bloomberg（依新聞報導）",
+   "outletCode": "BBG",
+   "date": "2026-10-22",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "Kashagan 油田仲裁：哈薩克對國際石油財團約 120 億美元的成本求償，遭仲裁庭以逾期提出駁回",
+   "shortTitle": "Kashagan 仲裁：哈薩克 120 億美元求償遭駁回",
+   "point": "2011 至 2015 年的成本請求提出過遲，其餘約 80 億美元仍待審理",
+   "titleOriginal": "Republic of Kazakhstan v. North Caspian Operating Company consortium（Kashagan PSA arbitration）；Bloomberg: Kashagan Arbitration Court Invalidates $12 Billion of Cost Claim",
+   "caseRef": "",
+   "tldr": "哈薩克政府對開發 Kashagan 油田的國際石油財團提起仲裁，爭執財團可回收的開發成本。依 2026 年 10 月 22 日的報導，仲裁庭認定其中約 120 億美元、涉及 2011 至 2015 年支出的請求提出過遲而予駁回；其餘約 80 億美元的請求仍在進行。",
+   "memo": "依 Bloomberg 於 2026 年 10 月 22 日之報導，就哈薩克共和國依 Kashagan 油田產品分成協議對 North Caspian Operating Company 財團（成員包括 ExxonMobil、Shell、Eni、TotalEnergies 等）提起之仲裁，仲裁庭認定哈薩克就 2011 年至 2015 年開發成本提出之約 120 億美元請求已逾期而不予受理；哈薩克原就爭議成本請求約 200 億美元，其餘約 80 億美元之請求仍待審理。",
+   "context": "Kashagan 油田位於裏海北部，由 North Caspian Operating Company（NCOC）依 1997 年簽訂、2008 年修正的產品分成協議（PSA）經營，成員包括 Shell、ExxonMobil、Eni、TotalEnergies、中國石油天然氣集團、Inpex 與哈薩克國家石油公司 KazMunayGas。\n依 ICIJ 2025 年報導，哈薩克於 2023 年提起仲裁，案件在常設仲裁法院（PCA）登記、由在日內瓦開庭的仲裁庭審理，哈薩克的整體請求據報高達 1,600 億美元，聽審預計至少持續到 2028 年。成本回收爭議是其中一部分。",
+   "facts": [
+    "依報導，哈薩克就爭議開發成本請求約 200 億美元。",
+    "仲裁庭認定其中約 120 億美元、涉及 2011 至 2015 年支出的請求提出過遲。",
+    "其餘約 80 億美元的請求仍在審理中。"
+   ],
+   "issues": [
+    "產品分成協議下，國家就財團成本回收提出異議的期限。"
+   ],
+   "holding": "依報導，仲裁庭以逾期為由駁回約 120 億美元的成本請求。報導未說明仲裁庭的推理、判斷形式（部分判斷或程序決定）或作成日期。",
+   "significance": "這是哈薩克與 Kashagan 財團一連串高額仲裁中，財團方的重要階段性勝利；其餘請求與其他爭點仍在進行。據報導，ExxonMobil 曾表示油田擴建投資取決於仲裁問題的解決。",
+   "editorNote": "本網頁助理 註：Bloomberg 原文受付費牆限制，本網頁助理僅取得標題，金額、期間與其餘請求依 GuruFocus 對該報導的轉述撰寫，尚未取得仲裁判斷原文或當事人正式聲明；仲裁機構與仲裁地依 ICIJ 2025 年報導。本案為依產品分成協議提起的契約仲裁，非投資條約仲裁，故列為商務仲裁。",
+   "tags": [
+    "產品分成協議",
+    "能源仲裁",
+    "時效",
+    "PCA",
+    "哈薩克",
+    "石油"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Bloomberg 報導：Kashagan Arbitration Court Invalidates $12 Billion of Cost Claim",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-22/kashagan-arbitration-court-invalidates-12-billion-of-cost-claim",
+     "official": false
+    },
+    {
+     "label": "GuruFocus 轉述報導",
+     "url": "https://www.gurufocus.com/news/9137288/kazakhstan-arbitration-dismisses-12b-claims-against-exxonmobil-xom-in-kashagan-dispute",
+     "official": false
+    },
+    {
+     "label": "ICIJ 2025 年背景報導",
+     "url": "https://www.icij.org/investigations/caspian-cabals/behind-closed-doors-kazakhstan-challenges-decades-old-deal-with-160-billion-claim-against-big-oil/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-23T07:09:56+08:00"
   }
  ],
  "agenda": [
@@ -2009,6 +2273,18 @@
    "caseRef": "ICSID Case No. ARB/22/24",
    "summary": "美國投資人 Doups 就墨西哥城撤銷其子公司停車計時器特許，依 NAFTA 對墨西哥求償。",
    "status": "仲裁庭於 2026 年 9 月以無管轄權駁回請求並命申請人負擔費用；得於 120 天內聲請撤銷。"
+  },
+  {
+   "id": "kazakhstan-v-ncoc-kashagan",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "commercial",
+   "forum": "常設仲裁法院（PCA）",
+   "name": "哈薩克訴 Kashagan 油田財團（產品分成協議仲裁）",
+   "nameOriginal": "Republic of Kazakhstan v. North Caspian Operating Company consortium (Kashagan PSA)",
+   "caseRef": "",
+   "summary": "哈薩克依 Kashagan 油田產品分成協議，對 NCOC 財團就開發成本、收益分配等事項提起高額仲裁。",
+   "status": "依 2026 年 10 月 22 日報導，仲裁庭以逾期駁回約 120 億美元的成本請求，其餘約 80 億美元仍待審理。"
   }
  ]
 }
