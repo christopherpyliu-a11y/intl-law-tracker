@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-22T07:00:25+08:00",
-  "lastRunLocal": "2026-10-22 07:00",
+  "lastRun": "2026-10-22T23:03:57+08:00",
+  "lastRunLocal": "2026-10-22 23:03",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "本次未發現新動態；Opinio Juris 10 月 19 至 21 日三篇評論因網站無法讀取，仍暫未收錄"
+  "lastRunNote": "新增 2 則：ECtHR 1、其他 1（歐洲議會沙卡洛夫獎頒予 ICC）；Opinio Juris 網站仍無法讀取，10 月 19 日後評論暫未收錄"
  },
  "items": [
   {
@@ -2966,7 +2966,8 @@
    "related": [
     "2026-10-09-icc-us-sanctions",
     "2026-10-09-other-pillay-nobel",
-    "2026-10-19-other-eu-council-icc-protection"
+    "2026-10-19-other-eu-council-icc-protection",
+    "2026-10-22-other-sakharov-icc-awarded"
    ],
    "sources": [
     {
@@ -3154,6 +3155,118 @@
     }
    ],
    "addedAt": "2026-10-21T23:09:27+08:00"
+  },
+  {
+   "id": "2026-10-22-other-sakharov-icc-awarded",
+   "court": "OTHER",
+   "kind": "機構動態",
+   "caseId": "us-sanctions-icc",
+   "date": "2026-10-22",
+   "importance": 2,
+   "title": "歐洲議會將 2026 年沙卡洛夫人權獎頒給國際刑事法院及其官員，回應美國制裁",
+   "titleOriginal": "The 2026 Sakharov Prize has been awarded to the International Criminal Court and its officials",
+   "caseRef": "",
+   "tldr": "歐洲議會 10 月 22 日宣布，今年的沙卡洛夫思想自由獎頒給國際刑事法院（ICC）和它的官員。這被普遍解讀為歐洲對美國本月全面制裁 ICC 的政治回應；頒獎典禮將在 12 月於史特拉斯堡舉行。",
+   "memo": "歐洲議會議長會議於 2026 年 10 月 22 日決定將 2026 年沙卡洛夫思想自由獎授予國際刑事法院及其官員，由議長 Metsola 宣布，理由為表彰該院維護國際法與正義之工作，並重申歐盟支持多邊主義與國際機構之立場。本次決選另有坦尚尼亞反對派領袖 Lissu 及伊朗 Rahimi 姊妹；頒獎典禮將於同年 12 月史特拉斯堡全會期間舉行。ICC 院長赤根智子表示該獎肯定獨立司法機構之重要性。",
+   "context": "美國於 2026 年 10 月 9 日宣布將國際刑事法院整體列為制裁對象（見本網頁 10 月 9 日項目），歐盟各機構隨即表態：58 名歐洲議會議員致函執委會要求啟動《阻斷法規》，歐洲理事會亦於 10 月 19 日要求美國撤回制裁。\n沙卡洛夫思想自由獎於 1988 年設立，由歐洲議會各黨團提名，再由議長會議（議長與各黨團主席）決定得主。ICC 由社會民主黨團（S&D）提名，10 月 19 日入圍決選。",
+   "facts": [
+    "2026 年 10 月 9 日，美國宣布對國際刑事法院整體實施制裁；據報導制裁將於六個月後生效。",
+    "ICC 由法籍歐洲議會議員 Chloé Ridel 推動、S&D 黨團提名，與坦尚尼亞反對派政黨 Chadema 領袖 Tundu Lissu、伊朗 Taraneh 與 Romina Rahimi 姊妹同列決選。",
+    "2026 年 10 月 22 日，歐洲議會議長會議決定由 ICC 及其官員獲獎，議長 Metsola 宣布結果。",
+    "據 Euronews 報導，EPP 與 ECR 支持 Lissu，Renew、綠黨與左翼黨團支持 ICC；愛國者黨團堅持支持 Rahimi 姊妹，最後其棄權使 ICC 取得相對多數，免去與 Lissu 的決選投票。",
+    "ICC 發表聲明感謝歐洲議會；院長赤根智子（Tomoko Akane）表示，該獎重申獨立司法機構及維護國際法者之重要性。執委會主席 von der Leyen 亦表示 ICC 必須能在不受壓力或恫嚇下獨立運作。"
+   ],
+   "issues": [
+    "國際組織及其官員遭單邊制裁時，區域組織與國家之政治支持方式",
+    "歐盟是否啟動《阻斷法規》（Council Regulation (EC) No 2271/96）保護 ICC"
+   ],
+   "holding": "歐洲議會議長會議決定將 2026 年沙卡洛夫思想自由獎授予「國際刑事法院及其官員」。\nMetsola 表示歐盟以支持多邊主義與國際機構為基礎，本獎表彰法院維護國際法與正義之工作，並稱另兩組決選者亦成為「沙卡洛夫大家庭」一員。\n頒獎典禮將於 12 月史特拉斯堡全會期間舉行。各報導均指出，歐盟迄今尚未就《阻斷法規》採取具體行動。",
+   "significance": "首次由一個國際司法機構獲頒歐盟最高人權獎，屬於對美國制裁的明確政治表態；但獎項本身不具法律效果，ICC 能否在制裁生效後維持運作，仍取決於歐盟是否啟動《阻斷法規》等實際措施，以及美國法院的訴訟結果。",
+   "editorNote": "本網頁助理 註：ICC 官網聲明頁面本次無法讀取，ICC 及其院長之反應係依 Dawn（法新社）報導；黨團支持分布依 Euronews 報導。「首次由國際司法機構獲獎」為本網頁助理依歷屆得主名單所作之判斷，非來源內容。",
+   "tags": [
+    "沙卡洛夫獎",
+    "歐洲議會",
+    "美國制裁",
+    "國際刑事法院",
+    "阻斷法規"
+   ],
+   "sources": [
+    {
+     "label": "歐洲議會議長新聞稿",
+     "url": "https://the-president.europarl.europa.eu/home/ep-newsroom/pagecontent/actualites/the-2026-sakharov-prize-has-been-awarded-to-the-intlcrimcourt-and-its-officials.html",
+     "official": true
+    },
+    {
+     "label": "ICC 聲明",
+     "url": "https://www.icc-cpi.int/news/international-criminal-court-statement-following-award-2026-sakharov-prize-freedom-thought",
+     "official": true
+    },
+    {
+     "label": "Euronews",
+     "url": "https://euronews.com/2026/10/22/eu-parliament-awards-sakharov-prize-to-icc-in-rebuke-of-us-sanctions",
+     "official": false
+    },
+    {
+     "label": "Dawn（AFP）",
+     "url": "https://www.dawn.com/news/2039013/targeted-by-trump-international-criminal-court-wins-top-eu-rights-prize",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-22T23:03:57+08:00",
+   "related": [
+    "2026-10-19-other-sakharov-icc-finalist"
+   ]
+  },
+  {
+   "id": "2026-10-22-ecthr-berlusconi-italy",
+   "court": "ECtHR",
+   "kind": "判決",
+   "caseId": "",
+   "date": "2026-10-22",
+   "importance": 1,
+   "title": "Berlusconi 訴義大利：Mediaset 逃漏稅定罪案，歐洲人權法院一致認定未違反公平審判",
+   "titleOriginal": "Berlusconi v. Italy",
+   "caseRef": "Application no. 8683/14",
+   "tldr": "義大利前總理貝魯斯柯尼 2013 年因 Mediaset 電視版權交易逃漏稅被判刑確定，他主張最高法院承審法官不公正。歐洲人權法院 10 月 22 日一致認定沒有違反公平審判權；他過世後由繼承人續行訴訟。",
+   "memo": "歐洲人權法院第一庭於 2026 年 10 月 22 日就 Berlusconi 訴義大利案（第 8683/14 號）作成判決，一致認定未違反公約第 6 條第 1 項。法院認為申請人所援引之承審庭長事後受訪及第三人轉述之言論，不足以證明義大利最高法院承審合議庭欠缺公正性；其餘申訴則以顯無理由或逾期為由不受理。本判決尚未確定，當事人得於三個月內聲請移送大法庭。",
+   "context": "Silvio Berlusconi 於 2013 年 8 月 1 日經義大利最高法院（Corte di Cassazione）判決確定，以協助 Mediaset 集團於 2002、2003 稅務年度藉高報電視版權購買價格逃漏稅，處有期徒刑四年，其中三年依 2006 年大赦免除，餘一年以社會服務執行。\n他於 2013 年 12 月提出申請；法院於 2020 年宣告部分可受理。Berlusconi 於 2023 年 6 月過世後，繼承人決定續行程序。",
+   "facts": [
+    "2013 年 8 月 1 日，義大利最高法院暑期庭駁回上訴，定罪確定；案件因追訴時效將屆而分由暑期庭審理。",
+    "判決公布後、理由書提出前，承審庭長 Antonio Esposito 曾接受報紙訪問；另有第三人轉述其對申請人之敵意言論。",
+    "申請人主張承審法官欠缺公正性（第 6 條），並援引第 7 條（罪刑法定、刑罰可預見性）及第 13 條（有效救濟），另爭執辯方證人遭刪除、多次以總理公務及健康為由之不能到庭事由未獲准許等。",
+    "義大利籍法官 Sabato 及義國指派之特任法官 Cannizzaro 據報迴避，由列支敦斯登籍法官遞補。"
+   ],
+   "issues": [
+    "公約第 6 條第 1 項：國內終審合議庭之客觀與主觀公正性",
+    "第 6 條其他防禦權主張、第 7 條及第 13 條之可受理性"
+   ],
+   "holding": "法院一致認定：就公正性申訴，申請人未能證明承審合議庭有偏頗，庭長事後受訪及第三人轉述言論不足以構成違反第 6 條第 1 項。\n其餘申訴以顯無理由或逾期為由不受理，第 7 條、第 13 條未進行實體審查。",
+   "significance": "為高知名度政治人物之刑事定罪案畫下 Strasbourg 層級的句點（除非移送大法庭）。法律上主要重申法官公正性之舉證門檻：法官判決後之公開言論本身，未必足以推翻主觀公正性之推定。",
+   "editorNote": "本網頁助理 註：歐洲人權法院官網新聞稿及判決全文本次尚未能讀取，判決內容係依義大利媒體 TuttoNotizie 及 Il Giorno報導整理；Il Giorno 將其餘申訴描述為顯無理由，TuttoNotizie 則稱顯無理由或逾期，兩者略有出入。審判庭別依 TuttoNotizie 報導為第一庭。以下為本網頁助理補充，非來源內容：「重申舉證門檻」之評價為本網頁助理之分析。",
+   "tags": [
+    "第6條",
+    "法官公正性",
+    "公平審判",
+    "義大利"
+   ],
+   "sources": [
+    {
+     "label": "ECtHR 判決預告（20–22.10.2026）",
+     "url": "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8665279-12356522&filename=Forthcoming+judgments+and+decisions+20-22.10.2026.pdf",
+     "official": true
+    },
+    {
+     "label": "Il Giorno",
+     "url": "https://www.ilgiorno.it/cronaca/silvio-berlusconi-ricorso-corte-europea-diritti-umani-pv654mdf",
+     "official": false
+    },
+    {
+     "label": "TuttoNotizie",
+     "url": "https://tuttonotizie.eu/giustizia/berlusconi-ricorso-cedu-respinto-allunanimita-il-processo-mediaset-per-frode-fiscale-fu-equo/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-22T23:03:57+08:00"
   }
  ],
  "agenda": [
@@ -3230,7 +3343,7 @@
    "title": "歐洲議會決定 2026 年沙卡洛夫獎得主（ICC 入圍）",
    "note": "主席團會議決定；12 月 16 日史特拉斯堡頒獎",
    "url": "https://www.europarl.europa.eu/sakharovprize/en/home",
-   "relatedId": "2026-10-19-other-sakharov-icc-finalist",
+   "relatedId": "2026-10-22-other-sakharov-icc-awarded",
    "caseId": "us-sanctions-icc"
   },
   {
@@ -3269,6 +3382,16 @@
    "note": "附新聞稿案件：Berlusconi v. Italy（第 6、7、13 條，Mediaset 逃稅定罪）、Poghosyan v. Armenia、Puşcaşu and Others v. Romania、Casali v. San Marino、B.K. v. Switzerland。",
    "url": "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8665279-12356522&filename=Forthcoming+judgments+and+decisions+20-22.10.2026.pdf",
    "relatedId": ""
+  },
+  {
+   "id": "tbd-other-sakharov-ceremony",
+   "date": "",
+   "court": "OTHER",
+   "title": "沙卡洛夫獎頒獎典禮（得主：國際刑事法院及其官員）",
+   "note": "歐洲議會 12 月史特拉斯堡全會期間舉行，確切日期未公布",
+   "url": "https://the-president.europarl.europa.eu/home/ep-newsroom/pagecontent/actualites/the-2026-sakharov-prize-has-been-awarded-to-the-intlcrimcourt-and-its-officials.html",
+   "relatedId": "2026-10-22-other-sakharov-icc-awarded",
+   "caseId": "us-sanctions-icc"
   }
  ],
  "archives": [],
@@ -3381,7 +3504,7 @@
    "nameOriginal": "U.S. sanctions against the International Criminal Court",
    "caseRef": "",
    "summary": "美國陸續制裁 ICC 官員，2026 年 10 月 9 日擴及法院整體；美國法院訴訟、歐盟保護措施與各國表態同步進行。",
-   "status": "紐約南區聯邦地院已對部分原告核發初步禁制令；歐盟《阻斷法規》尚未啟動。"
+   "status": "歐洲議會於 2026 年 10 月 22 日將沙卡洛夫獎頒予 ICC；紐約南區聯邦地院已對部分原告核發初步禁制令，歐盟《阻斷法規》尚未啟動。"
   },
   {
    "id": "icc-governance",
