@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-22T07:10:18+08:00",
-  "lastRunLocal": "2026-10-22 07:10",
+  "lastRun": "2026-10-22T23:17:57+08:00",
+  "lastRunLocal": "2026-10-22 23:17",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 5 則：商務仲裁 2（案件動態 1、評論 1）、投資仲裁 3（仲裁判斷 1、法院裁判 1、案件動態 1）",
+  "lastRunNote": "新增 4 則：商務仲裁 2（評論 2）、投資仲裁 2（法院裁判 1、仲裁判斷 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -1186,7 +1186,9 @@
     "CIArb",
     "魁北克"
    ],
-   "related": [],
+   "related": [
+    "2026-10-22-arb-ai-poisoned-record"
+   ],
    "sources": [
     {
      "label": "Kluwer Arbitration Blog 原文",
@@ -1529,6 +1531,245 @@
     }
    ],
    "addedAt": "2026-10-21T11:18:27+08:00"
+  },
+  {
+   "id": "2026-10-21-arb-hk-bit-arbitrator-challenge-writings",
+   "court": "COURT",
+   "field": "investment",
+   "kind": "法院裁判",
+   "caseId": "",
+   "jurisdiction": "香港",
+   "outlet": "HSF Kramer 仲裁評析",
+   "outletCode": "HSF",
+   "date": "2026-10-21",
+   "importance": 2,
+   "author": "Simon Chapman KC、Antony Crockett、Joris Bertrand（HSF Kramer）",
+   "title": "香港法院駁回地主國對投資條約仲裁人的迴避聲請：學術著作、平行案件選任與國籍均不足以構成偏頗外觀",
+   "titleOriginal": "R v C [2026] HKCFI 4688 — Hong Kong court rejects apparent bias challenge based on arbitrator's previous writings",
+   "caseRef": "[2026] HKCFI 4688；HCCT 126/2025",
+   "tldr": "一國在香港進行的雙邊投資協定仲裁中，以仲裁人過去發表的最惠國待遇著作、同時擔任另一件相關案件仲裁人及其國籍背景為由要求撤換，香港法院全部駁回，並命該國以彌償基準負擔投資人費用。法院也表明，當事人約定仲裁機構的迴避決定「終局不得上訴」，並不能排除向法院聲請的法定權利。",
+   "memo": "香港高等法院原訟法庭於 R v C 案（[2026] HKCFI 4688）中，依《仲裁條例》第 26 條審查地主國對雙邊投資協定仲裁人所提迴避聲請，以公正且知情之旁觀者標準認定：仲裁人先前關於最惠國待遇條款之一般學術著作並非就本案預斷，與另件能源憲章條約仲裁之重疊僅屬理論可能，其國籍及與母國之關聯亦不足以生正當懷疑，故駁回聲請，並命該國以彌償基準負擔費用；法院另認當事人約定機構迴避決定為終局，不能排除向法院聲請之法定權利。",
+   "context": "本案為以香港為仲裁地、由 HKIAC 管理的投資人對地主國雙邊投資協定（BIT）仲裁；判決將當事人匿名，未揭露國家與投資人名稱。投資人另依能源憲章條約（ECT）對同一國家提起仲裁，兩案均於 2024 年 10 月 31 日提起，並選任同一名仲裁人。\n該 BIT 未規定迴避程序；當事人嗣後約定由 HKIAC 決定迴避聲請，且其決定為終局、不得上訴。香港《仲裁條例》（第 609 章）第 26 條使聲請迴避被駁回的一方得請求法院就迴避作出決定。",
+   "facts": [
+    "投資人在 BIT 仲裁與 ECT 仲裁中選任同一名仲裁人；國家於 2024 年 11 月 26 日在兩案同時聲請該仲裁人迴避。",
+    "在 ECT 仲裁中，由常設仲裁法院（PCA）指定的選任機關認可迴避，理由是同時在組成不同的兩個仲裁庭任職，可能取得其他仲裁人所無的資訊，引起正當懷疑；該仲裁人因而退出 ECT 案。",
+    "在 BIT 仲裁中，當事人約定由 HKIAC 決定迴避；HKIAC 駁回聲請，國家遂依《仲裁條例》第 26 條向香港法院聲請。",
+    "國家主張的迴避理由包括：仲裁人過去著作傾向以中性措辭的最惠國待遇條款引入更有利的保護與管轄依據；兩案在措施、事件、法律主張與證人方面重疊；以及仲裁人的國籍、所屬研究機構職務、曾獲投資人母國指派列入 ICSID 名冊等關聯。"
+   ],
+   "issues": [
+    "迴避聲請是否逾期：期間應自何時起算（向國家外交部送達或向使館送達）？",
+    "當事人約定 HKIAC 迴避決定為終局、不得上訴，是否排除《仲裁條例》第 26 條向法院聲請的權利？",
+    "仲裁人先前就法律問題發表的學術見解，是否構成偏頗外觀（apparent bias）或預斷？",
+    "同一仲裁人在相關平行案件中被選任，是否引起對其公正性或獨立性的正當懷疑？",
+    "仲裁人國籍及與母國的關聯，是否足以構成迴避事由？"
+   ],
+   "holding": "・逾期抗辯：法院認為 UNCITRAL 規則或 HKIAC 規則並未明確適用於本件迴避程序，期間應自國家外交部收受通知時起算，而非使館收受時，故聲請未逾期。\n・終局約定：法院認為向法院聲請的法定權利不因當事人約定機構決定為終局而被排除，投資人的棄權與禁反言抗辯不成立。\n・學術著作：法院採公正且知情的旁觀者是否認為有偏頗之真實可能的標準；僅曾對法律問題表達見解並不足夠，須證明對應保持開放態度的爭點已有預斷。相關著作屬一般學術研究，並非針對本案條約、本案或當事人，且仲裁人近期著作強調逐一條約解釋、不預設立場；法院並指出 IBA 利益衝突準則不要求揭露與本案無關的一般法律意見。\n・平行選任：法院贊同 Electrabel v. Hungary（ICSID Case No. ARB/07/19）的見解，認為若仲裁人僅因在其他案件面對相似爭點即須迴避，投資仲裁將難以運作；本案重疊目前僅屬理論可能，日後情況改變時得再行主張。\n・國籍與關聯：適用規則未禁止此項選任；研究機構職務、曾獲母國指派列入 ICSID 名冊，以及母國的政治立場、制裁或對爭議的利益，均不足以引起正當懷疑。\n・綜合評估：各項理由均遠低於門檻，合併觀察亦不成立。法院駁回聲請，並依仲裁相關程序的一般作法，命國家以彌償基準負擔投資人費用。",
+   "significance": "本判決將香港法院在撤銷仲裁判斷案件中採用的偏頗外觀客觀標準，延伸至對仲裁人的直接迴避聲請，顯示法院會嚴格審查，但不輕易因學術著作、其他選任或國籍推論偏頗。另一實務重點是：即使當事人約定機構迴避決定為終局，在香港為仲裁地時仍可能被帶到法院重審。同一仲裁人的迴避在 ECT 案被認可、在 BIT 案被駁回，也呈現不同決定者對平行選任的不同評價。",
+   "editorNote": "本網頁助理 註：本則依 HSF Kramer 評析撰寫，尚未取得判決原文；評析未載明承審法官及判決日期。撰文者所屬事務所代理本案投資人，閱讀時請留意其立場。判決將當事人匿名，故未設案件追蹤。",
+   "tags": [
+    "仲裁人迴避",
+    "偏頗外觀",
+    "學術著作",
+    "平行仲裁",
+    "雙邊投資協定",
+    "能源憲章條約",
+    "HKIAC",
+    "仲裁條例第26條",
+    "香港"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "HSF Kramer：Hong Kong court rejects apparent bias challenge based on arbitrator's previous writings（2026-10-21）",
+     "url": "https://www.hsfkramer.com/notes/arbitration/2026-09/hong-kong-court-rejects-appearent-bias-challenge-based-on-arbitrators-previous-writings",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-22T23:17:57+08:00"
+  },
+  {
+   "id": "2026-10-20-arb-doups-v-mexico-jurisdiction-dismissed",
+   "court": "AWARD",
+   "field": "investment",
+   "kind": "仲裁判斷",
+   "caseId": "doups-v-mexico",
+   "jurisdiction": "",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-10-20",
+   "importance": 2,
+   "author": "",
+   "title": "墨西哥城停車計時器特許遭撤銷案：ICSID 仲裁庭以無管轄權駁回美國投資人 Doups 的 NAFTA 請求，命其負擔逾 100 萬美元費用",
+   "titleOriginal": "Doups Holdings LLC v. United Mexican States (ICSID Case No. ARB/22/24), Award (September 2026)",
+   "caseRef": "ICSID Case No. ARB/22/24",
+   "tldr": "美國公司 Doups 透過墨西哥子公司在墨西哥城經營停車計時器，特許被市政府撤銷後依 NAFTA 求償約 6 億多披索。仲裁庭認為它無權審理：Doups 未證明控制子公司，也不能把子公司的損失當成自己的損失來請求，並命其負擔墨西哥逾 100 萬美元費用。",
+   "memo": "ICSID 仲裁庭（Alexis Mourre 主任仲裁人、Stanimir Alexandrov、Marcelo Kohen）於 2026 年 9 月就 Doups Holdings LLC 訴墨西哥案（ICSID Case No. ARB/22/24）作成判斷，以無管轄權駁回申請人依 NAFTA 就墨西哥城交通局撤銷其子公司 Pagomet 停車計時器特許所提逾 6 億披索之請求，認定申請人未證明控制 Pagomet、不得以 NAFTA 第 1116 條就子公司之反射性損失求償，且未符合提付仲裁之前提要件，並命申請人負擔墨西哥逾 100 萬美元之程序費用。",
+   "context": "美國公司 Doups Holdings LLC 透過墨西哥子公司 Pagomet 取得在墨西哥城設置與營運停車計時器的特許，後遭墨西哥城交通局（SEMOVI）撤銷。Doups 於 2020 年 8 月提出意向通知，2022 年 7 月向 ICSID 提出仲裁請求，主張墨西哥違反 NAFTA 第 1110 條（徵收）、第 1105 條（公平公正待遇），並經最惠國待遇條款援引保護傘條款。\n程序適用 2022 年 ICSID 仲裁規則；仲裁庭於 2024 年 10 月決定將程序分階段（bifurcation），先審理管轄權異議，美國亦曾提出非爭端締約方意見。墨西哥經濟部於 2026 年 9 月 29 日宣布勝訴；IAReporter 於 2026 年 10 月 20 日刊出判斷分析。",
+   "facts": [
+    "Doups 為美國公司，經由墨西哥子公司 Pagomet 持有墨西哥城停車計時器特許。",
+    "墨西哥城交通局撤銷相關特許，Doups 主張其投資因此受損。",
+    "依新聞報導，請求金額逾 6 億披索（約 3,300 萬美元）。",
+    "墨西哥抗辯集中於管轄權，包括受損子公司的設立與國籍、Doups 對子公司的控制，以及 NAFTA 程序要件的遵守，而非撤銷特許是否正當。"
+   ],
+   "issues": [
+    "股東能否依 NAFTA 第 1116 條就子公司受有的損失（反射性損失）以自己名義求償？",
+    "申請人是否證明其對墨西哥子公司的控制？",
+    "申請人在特許契約中接受就其投資被視為墨西哥人的約定，是否構成對條約權利的放棄？",
+    "是否符合 NAFTA 提付仲裁的前提要件？"
+   ],
+   "holding": "依墨西哥經濟部公告及新聞報導，仲裁庭認定其無管轄權，全部駁回請求；理由包括：Doups 未能證明其控制 Pagomet；Doups 不得將 Pagomet 的損失當作自身損失求償；且未符合 NAFTA 規定的提付仲裁前提要件。另依報導，仲裁庭並考量 Doups 曾接受就其投資被視為墨西哥人。\n依 IAReporter 標題，仲裁庭認定股東不得依 NAFTA 第 1116 條請求反射性損失，並就契約放棄條約權利的問題意見分歧。\n費用：命 Doups 償還墨西哥逾 100 萬美元的法律及程序費用。",
+   "significance": "本案再次確認在 NAFTA 架構下，股東以自己名義（第 1116 條）請求的範圍不包括子公司所受的反射性損失，投資人若要就子公司損失求償，須以符合要件的方式代子公司提出。仲裁庭對契約放棄條約權利的意見分歧，也值得關注其後判斷全文公開。依 ICSID 公約，當事人得於判斷作成後 120 天內聲請撤銷。",
+   "editorNote": "本網頁助理 註：本則依墨西哥經濟部公告之新聞報導及 IAReporter 分析標題撰寫，尚未取得判斷原文；判斷作成的確切日期未見公開，墨西哥政府於 2026 年 9 月 29 日公布結果，本則日期採 IAReporter 分析刊出日（2026-10-20）。仲裁庭就契約放棄條約權利意見分歧一事僅見於 IAReporter 付費文章標題，由何人持不同意見未能查證。請求金額新聞報導為逾 6 億披索，italaw 案件摘要則載為至少 6.85 億披索。仲裁庭成員依 italaw 所載。\n以下為本網頁助理補充，非來源內容：本案仲裁請求於 NAFTA 終止（2020 年 7 月）後提出，應係依 USMCA 附件 14-C 舊投資請求機制適用 NAFTA 第十一章。",
+   "tags": [
+    "ICSID",
+    "NAFTA",
+    "反射性損失",
+    "第1116條",
+    "管轄權",
+    "控制",
+    "契約放棄條約權利",
+    "墨西哥",
+    "特許"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "italaw：Doups Holdings v. Mexico 案件頁",
+     "url": "https://www.italaw.com/cases/9737",
+     "official": false
+    },
+    {
+     "label": "IAReporter：Analysis: Doups v. Mexico（2026-10-20，付費）",
+     "url": "https://www.iareporter.com/articles/analysis-arbitrators-in-doups-v-mexico-rule-that-shareholders-cannot-claim-reflective-losses-under-nafta-article-1116-tribunal-splits-on-contractual-waiver-of-treaty-rightsm/",
+     "official": false
+    },
+    {
+     "label": "Mexico Business News：Mexico Defeats Doups' NAFTA Claim Over CDMX Parking Meters（2026-09-29）",
+     "url": "https://mexicobusiness.news/trade-and-investment/news/mexico-defeats-doups-nafta-claim-over-cdmx-parking-meters",
+     "official": false
+    },
+    {
+     "label": "Xinhua：Mexico wins arbitration against U.S. parking meter company（2026-09-30）",
+     "url": "https://english.news.cn/20260930/456d7399ac9a4123bd21353571e957d7/c.html",
+     "official": false
+    },
+    {
+     "label": "La Jornada San Luis：México gana arbitraje de 600 mdp contra Doups Holdings por parquímetros",
+     "url": "https://lajornadasanluis.com.mx/mexico-gana-arbitraje-de-600-mdp-contra-doups-holdings-por-parquimetros/",
+     "official": false
+    },
+    {
+     "label": "Xataka México：México enfrentó demanda millonaria por parquímetros（2026-10-04）",
+     "url": "https://www.xataka.com.mx/otros-1/mexico-enfrento-demanda-millonaria-parquimetros-cuatro-anos-despues-gano-ahora-recibira-millon-dolares",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-22T23:17:57+08:00"
+  },
+  {
+   "id": "2026-10-21-arb-dj-defence-disputes",
+   "court": "OTHER",
+   "field": "commercial",
+   "kind": "實務評論",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-10-21",
+   "importance": 1,
+   "author": "Oleg Shaulko（Kennedys）",
+   "title": "國防採購爭議正成為仲裁新專業領域：機密證據、制裁出口管制與急迫需求，讓仲裁庭組成格外關鍵",
+   "titleOriginal": "Defence Disputes in Arbitration",
+   "caseRef": "",
+   "tldr": "作者認為，烏克蘭戰時採購帶動一波國防契約仲裁，這類案件同時牽涉國家當事人、制裁、出口管制、機密證據與急迫的軍事需求。他主張現行 ICC、LCIA 規則已足夠彈性，真正需要的是熟悉此產業的仲裁人與律師，而不是另訂國防專用規則。",
+   "memo": "Oleg Shaulko（Kennedys）於 Daily Jus 撰文指出，以烏克蘭戰時採購為主之國防契約爭議正形成獨立之仲裁實務領域，其特殊性在於國家或國營當事人、制裁與出口管制對風險分配之影響、契約保密與國家機密分類之落差、無人機及軟體等技術證據之舉證困難，以及急迫之暫時性救濟需求；作者主張現行 ICC、LCIA 等機構規則已具足夠彈性，應優先培養具產業知識之仲裁人與律師，並審慎兼顧其獨立性。",
+   "context": "俄烏戰爭以來，烏克蘭及歐洲國家大量採購武器與軍需，相關契約爭議陸續進入仲裁。作者列舉的案例包括 SpetsTechnoExport 對 Regulus Global 提起的約 3.47 億美元 LCIA 仲裁、一件逾 1,800 萬美元的瑞士仲裁判斷，以及一件愛沙尼亞約 5,900 萬歐元的請求。",
+   "facts": [
+    "作者將目前烏克蘭與歐洲的案件稱為現代國防爭議的「第一代」。",
+    "國防採購正從傳統武器轉向無人機、軟體與自主系統，戰場資料可能成為證據。",
+    "契約上的保密義務與國家強制的機密分類不同，後者可能限制哪些人得以接觸證據。"
+   ],
+   "issues": [
+    "國家機密分類如何影響仲裁中的證據開示與接觸？",
+    "制裁與出口管制在契約風險分配及實體判斷上的作用（不可抗力、許可風險）。",
+    "急迫軍事需求下的快速程序與暫時性救濟。",
+    "仲裁人產業專業與獨立性、一般仲裁能力之間的權衡。"
+   ],
+   "holding": "・作者主張國防爭議因國家當事人、制裁、出口管制、機密證據與急迫作戰需求交織，對仲裁庭的要求高於一般商務案件；誰擔任仲裁人，比當事人通常意識到的更為重要。\n・技術轉向無人機、軟體與自主系統，使證據高度技術化，且可能涉及戰場資料。\n・契約保密與國家機密分類存在落差，機密分類可能限制律師、專家甚至仲裁人接觸證據。\n・制裁與出口管制影響契約風險分配及實體爭點，例如不可抗力與許可風險。\n・作戰需求急迫，使快速程序與暫時性救濟格外重要。\n・作者支持選任具產業知識的仲裁人，但須兼顧獨立性與一般仲裁能力；並主張應培養專業律師與仲裁人群體，而非另訂國防專用規則。",
+   "significance": "作者預期，隨著各國政府由緊急採購轉向長期產業合作，未來爭議將更多涉及合資、技術移轉與智慧財產權；現行 ICC、LCIA 規則目前足以因應，優先工作是累積專業。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：文中部分案例事實以「據報導」方式提及，未附原始出處；作者所屬事務所活躍於此領域。",
+   "tags": [
+    "國防採購",
+    "制裁",
+    "出口管制",
+    "機密證據",
+    "暫時性救濟",
+    "仲裁人選任",
+    "烏克蘭",
+    "LCIA",
+    "ICC"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Daily Jus：Defence Disputes in Arbitration（2026-10-21）",
+     "url": "https://dailyjus.com/world/2026/10/defence-disputes-in-arbitration",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-22T23:17:57+08:00"
+  },
+  {
+   "id": "2026-10-22-arb-ai-poisoned-record",
+   "court": "OTHER",
+   "field": "commercial",
+   "kind": "實務評論",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-10-22",
+   "importance": 1,
+   "author": "Maximilian Gartner（Blockpit AG）",
+   "title": "仲裁人和他的 AI 讀的是同一份卷宗嗎？作者警告：特製字型、形近字元與隱藏指令，可能讓「輔助性」AI 也左右判斷",
+   "titleOriginal": "Do Arbitrators and Their AI Read the Same Record? Poisoned Fonts, Prompt Injections, and the Arbitral Record",
+   "caseRef": "",
+   "tldr": "一般認為仲裁人用 AI 做搜尋、整理、摘要風險較低。作者指出，當事人可以用特製字型、外觀相同的其他字母或隱藏文字，讓文件「人看到的」和「AI 讀到的」不一樣，進而扭曲摘要與時序表。他主張要做文件前處理檢查、揭露 AI 的使用方式，並由仲裁人親自核對關鍵內容。",
+   "memo": "Maximilian Gartner（Blockpit AG）於 Kluwer Arbitration Blog 撰文主張，仲裁中以 AI 進行檢索、整理及摘要之「輔助性」使用不能僅因其功能而推定為低風險，因當事人得以特製字型、形近字元、隱藏文字或提示注入使機器讀取內容與人眼所見不同，進而影響證據呈現與判斷；作者建議文件前處理及差異比對、將卷證內容視為不可信資料、揭露 AI 使用目的與所據資料，並由仲裁人親自核對關鍵引述，提出污染文件之當事人則應承擔程序、費用乃至撤銷或拒絕執行之不利後果。",
+   "context": "近年 Ciarb、CIETAC（2025 年暫行指引）、AAA-ICDR（2025 年 3 月）等陸續發布仲裁中使用 AI 的指引，多以「裁決性」與「輔助性」用途區分風險；也有 ICSID 仲裁庭公開揭露其使用 AI 的情形。",
+   "facts": [
+    "作者舉例，特製字型可使文件畫面顯示一種準據法選擇，機器卻讀成另一種。",
+    "以其他字母系統的形近字元替換，可使關鍵內容在 AI 檢索、摘要與時序表中消失，但仍留在卷宗。",
+    "作者引用 2023 年 BCLP 調查：近四分之三仲裁人自評 AI 技術信心僅屬中等以下；並引用 2025 年調查：91% 受訪者預期五年內使用 AI 研究，44% 認為知識不足是主要障礙。"
+   ],
+   "issues": [
+    "AI 用於檢索、摘要等「輔助性」功能，是否仍可能實質影響判斷？",
+    "仲裁人可在多大程度上不經核對而依賴 AI 產出？",
+    "刻意污染卷證的當事人應承擔何種責任？是否構成撤銷仲裁判斷或拒絕承認與執行的事由？"
+   ],
+   "holding": "・現有討論多聚焦善意使用 AI，惡意操縱卷宗的風險被低估。\n・以功能區分裁決性與輔助性 AI 並不完整：檢索或摘要被扭曲，同樣會影響證據如何呈現給仲裁人，進而影響判斷。\n・特製字型與形近字元不含任何指令，可能避開針對提示注入的防護。\n・揭露不能只說「低風險使用」，應說明使用 AI、用途及所依據的資料。\n・對策包括：更穩健的模型使用架構（可由機構或技術提供者提供）、文件前處理並比對可見文字與機器可讀文字、將文件內容視為不可信資料。\n・提出污染文件的當事人負主要責任，仲裁人可運用程序管理、證據及費用權限因應；事後發現操縱者，可能支持撤銷或以公共政策拒絕執行，亦具嚇阻作用。\n・仲裁人不必自行設計防護，但應採取合理步驟確保其存在，揭露 AI 使用情形，並親自核對具決定性的引述、意外的遺漏及影響推理的產出。",
+   "significance": "作者結論：輔助性 AI 不能因其被指派的功能就推定為低風險，風險取決於底層文件的完整性、AI 使用的透明度及產出能否被核對；由於每一道防護都可能失效，仲裁程序必須正視仲裁人與其 AI 未必讀到同一份卷宗的風險。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。",
+   "tags": [
+    "人工智慧",
+    "提示注入",
+    "卷證完整性",
+    "仲裁人義務",
+    "揭露",
+    "撤銷仲裁判斷",
+    "公共政策"
+   ],
+   "related": [
+    "2026-10-14-arb-ai-record-too-big"
+   ],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog：Do Arbitrators and Their AI Read the Same Record?（2026-10-22）",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/do-arbitrators-and-their-ai-read-the-same-record-poisoned-fonts-prompt-injections-and-the-arbitral-record/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-22T23:17:57+08:00"
   }
  ],
  "agenda": [
@@ -1663,6 +1904,18 @@
    "caseRef": "",
    "summary": "聯合國國際貿易法委員會研議投資人與國家間爭端解決的改革，包括諮詢中心、常設機制、程序條款與賠償計算。",
    "status": "第 55 屆會議已於 2026 年 10 月 16 日結束，會議報告尚未公布。"
+  },
+  {
+   "id": "doups-v-mexico",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Doups 訴墨西哥（墨西哥城停車計時器特許案）",
+   "nameOriginal": "Doups Holdings LLC v. United Mexican States",
+   "caseRef": "ICSID Case No. ARB/22/24",
+   "summary": "美國投資人 Doups 就墨西哥城撤銷其子公司停車計時器特許，依 NAFTA 對墨西哥求償。",
+   "status": "仲裁庭於 2026 年 9 月以無管轄權駁回請求並命申請人負擔費用；得於 120 天內聲請撤銷。"
   }
  ]
 }
