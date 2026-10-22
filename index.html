@@ -134,6 +134,7 @@ h1, h2, h3, .sec-tab, .day-head .d, .r-title, .dg-title { font-variant-numeric: 
 /* masthead band */
 .mast { position: relative; overflow: hidden; background: var(--band); color: var(--band-ink); border-bottom: 2px solid var(--gold); }
 .mast-art { position: absolute; right: -110px; top: -170px; width: 560px; height: 560px; color: var(--gold); opacity: 0.12; pointer-events: none; }
+.mast-art.is-parallax { will-change: transform; }
 .mast-inner { position: relative; display: grid; gap: 26px; padding-block: 34px 0; }
 .mast-top { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px 40px; }
 .brand { display: flex; align-items: center; gap: 18px; min-width: 0; }
@@ -1974,6 +1975,39 @@ button.up-title:hover { color: var(--accent); text-decoration: underline; }
     pl.hidden = false;
     pl.addEventListener("click", doPrint);
   }
+
+  // ---- masthead parallax ----
+  // Only the globe line art drifts: at most 24px downward over the masthead's own height (about 1/8 of the
+  // scroll), so it appears to recede. Text, tabs and scrolling itself are untouched; the art sits inside the
+  // masthead's clipped box, so the masthead keeps its height. Off on phones and with reduced motion.
+  (function () {
+    var art = document.querySelector(".mast-art"), mast = document.querySelector(".mast");
+    if (!art || !mast || !window.matchMedia || !window.requestAnimationFrame) return;
+    var MAX_SHIFT = 24;
+    var mq = window.matchMedia("(min-width: 641px) and (prefers-reduced-motion: no-preference)");
+    var on = false, queued = false, last = -1;
+    function apply() {
+      queued = false;
+      var h = mast.offsetHeight || 1;
+      var y = Math.round(Math.max(0, Math.min(1, (window.scrollY || window.pageYOffset || 0) / h)) * MAX_SHIFT * 10) / 10;
+      if (y !== last) { last = y; art.style.transform = "translate3d(0," + y + "px,0)"; }
+    }
+    function onScroll() { if (!queued) { queued = true; requestAnimationFrame(apply); } }
+    function sync() {
+      if (mq.matches && !on) {
+        on = true; art.classList.add("is-parallax");
+        window.addEventListener("scroll", onScroll, { passive: true });
+        window.addEventListener("resize", onScroll, { passive: true });
+        onScroll();
+      } else if (!mq.matches && on) {
+        on = false; last = -1; art.classList.remove("is-parallax"); art.style.transform = "";
+        window.removeEventListener("scroll", onScroll);
+        window.removeEventListener("resize", onScroll);
+      }
+    }
+    if (mq.addEventListener) mq.addEventListener("change", sync); else if (mq.addListener) mq.addListener(sync);
+    sync();
+  })();
 
   // ---- controls ----
   var qTimer = null;
