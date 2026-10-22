@@ -353,6 +353,26 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
 .case-ahead li { display: flex; flex-wrap: wrap; gap: 2px 10px; align-items: baseline; font-size: var(--s-sm); }
 .case-foot { font-size: var(--s-xs); color: var(--faint); margin: 0; }
 
+/* keyword cloud */
+.cloud-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; }
+.seg-sm { padding: 2px; }
+.seg-sm button { padding: 1px 11px; font-size: var(--s-xs); }
+.cloud { position: relative; min-height: 96px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; }
+.cw {
+  position: absolute; left: 0; top: 0; margin: 0; padding: 0 4px; border: 0; border-radius: 3px; background: none;
+  font-family: var(--f-display); font-weight: 600; line-height: 1.2; letter-spacing: 0.02em; white-space: nowrap; cursor: pointer;
+  font-variant-numeric: lining-nums;
+}
+.cw.t1 { color: var(--gold-ink); font-weight: 700; }
+.cw.t2 { color: var(--accent); font-weight: 700; }
+.cw.t3 { color: var(--charcoal); }
+.cw.t4 { color: var(--muted); }
+.cw:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.cw[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); text-decoration: none; }
+.cloud-empty { margin: 0; padding: 30px 18px; text-align: center; color: var(--muted); font-size: var(--s-sm); }
+.cloud-note { margin: 0; font-size: var(--s-xs); color: var(--faint); line-height: 1.6; }
+.digest .cloud { background: var(--paper); box-shadow: none; }
+
 /* weekly digest */
 .sec-tab.is-digest { margin-left: auto; }
 .digest { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: 30px 34px 30px; display: grid; gap: 28px; max-width: 960px; }
@@ -483,6 +503,18 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
       <span class="strip-note">點選案件，查看該案所有動態的時間軸</span>
     </div>
     <ol class="agenda-list" id="cases"></ol>
+  </section>
+
+  <section class="agenda" id="cloudWrap" hidden>
+    <div class="strip-head">
+      <h2 class="sec-label">關鍵字雲 <span class="en">Keyword cloud</span></h2>
+      <div class="cloud-tools">
+        <div class="seg seg-sm" id="cloudRange" role="group" aria-label="統計期間"></div>
+        <button class="linkish" id="cloudToggle" type="button" aria-expanded="true" aria-controls="cloud">收合</button>
+      </div>
+    </div>
+    <div class="cloud" id="cloud" role="group" aria-label="關鍵字雲"></div>
+    <p class="cloud-note" id="cloudNote"></p>
   </section>
 
   <div class="tools" id="tools">
@@ -820,7 +852,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
         h("span", { class: "fld" + (f === "investment" ? " inv" : ""), text: c.zh }), h("span", { class: "n", text: String(counts[f] || 0) })));
     });
   }
-  function setField(f) { state.field = f; renderFields(); renderCourts(); renderGenre(); renderList(); }
+  function setField(f) { state.field = f; renderFields(); renderCourts(); renderGenre(); renderList(); renderCloud(); }
 
   function renderCourts() {
     var nav = document.getElementById("courts");
@@ -838,7 +870,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
         h("span", { class: "code", text: c.code }), c.zh ? h("span", { text: c.zh }) : null, h("span", { class: "n", text: String(counts[k] || 0) })));
     });
   }
-  function setCourt(k) { state.court = k; renderCourts(); renderGenre(); renderList(); }
+  function setCourt(k) { state.court = k; renderCourts(); renderGenre(); renderList(); renderCloud(); }
 
   function renderGenre() {
     var box = document.getElementById("genre");
@@ -852,7 +884,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
         o[1], h("span", { class: "n", text: String(o[2]) })));
     });
   }
-  function setGenre(g) { state.genre = g; savePref("ild.genre", g); renderGenre(); renderList(); }
+  function setGenre(g) { state.genre = g; savePref("ild.genre", g); renderGenre(); renderList(); renderCloud(); }
 
   function renderKinds() {
     var sel = document.getElementById("kind");
@@ -921,6 +953,162 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
           h("span", { class: "ag-title", text: str(c.name) }),
           c.status ? h("span", { class: "ag-note", text: str(c.status) }) : null)));
     });
+  }
+
+  // ---- keyword cloud ----
+  // Built from each item's tags. Words sit on an elliptical spiral from the centre, largest first,
+  // without rotation so Chinese stays readable; clicking a word fills the search box.
+  var CLOUD_RANGES = [["7", "近 7 天"], ["30", "近 30 天"], ["all", "全部"]];
+  var cloudOpen = loadPref("ild.cloud") !== "closed";
+  var cloudRange = /^(7|30|all)$/.test(loadPref("ild.cloudRange")) ? loadPref("ild.cloudRange") : "30";
+  function isoMinus(iso, days) {
+    var x = parseISO(iso); if (!x) return "";
+    x.setDate(x.getDate() - days);
+    return x.getFullYear() + "-" + String(x.getMonth() + 1).padStart(2, "0") + "-" + String(x.getDate()).padStart(2, "0");
+  }
+  // Each tag counts once per item; the spelling used most often is shown.
+  function tagStats(items, secOf) {
+    var map = {};
+    items.forEach(function (it) {
+      var seen = {};
+      arr(it.tags).forEach(function (t) {
+        t = t.trim(); var k = t.toLowerCase();
+        if (!t || seen[k]) return;
+        seen[k] = true;
+        var e = map[k] || (map[k] = { n: 0, imp: 0, last: "", forms: {}, secs: {} });
+        e.n++; e.imp += (+it.importance || 1);
+        if (str(it.date) > e.last) e.last = str(it.date);
+        e.forms[t] = (e.forms[t] || 0) + 1;
+        if (secOf) { var s = secOf(it); e.secs[s] = (e.secs[s] || 0) + 1; }
+      });
+    });
+    return Object.keys(map).map(function (k) {
+      var e = map[k];
+      e.text = Object.keys(e.forms).sort(function (a, b) { return e.forms[b] - e.forms[a]; })[0];
+      return e;
+    }).sort(function (a, b) {
+      return (b.n - a.n) || (b.imp - a.imp) || (a.last < b.last ? 1 : a.last > b.last ? -1 : 0) || a.text.localeCompare(b.text);
+    });
+  }
+  function drawCloud(box, words, opts) {
+    box._cloud = { words: words, opts: opts };
+    box.replaceChildren();
+    box.style.height = "";
+    if (!words.length) { box.appendChild(h("p", { class: "cloud-empty", text: opts.emptyText })); return; }
+    var W = box.clientWidth;
+    if (!W) return;
+    box._w = W;
+    var narrow = W < 560;
+    var H = Math.round(Math.min(narrow ? 300 : 340, Math.max(200, W * (narrow ? 0.8 : 0.3))));
+    var maxN = words[0].n, minN = words[words.length - 1].n;
+    var maxS = narrow ? 27 : 38, minS = narrow ? 12.5 : 13.5;
+    // when every keyword appears only once or twice, keep the size range narrow so a quiet week is not overstated
+    maxS = minS + (maxS - minS) * Math.max(0.55, Math.min(1, (maxN - minN) / 5));
+    var kx = Math.max(1, W / H), cx = W / 2, cy = H / 2;
+    var active = str(opts.active).toLowerCase();
+    var placed = [];
+    function hit(x, y, w, hh) {
+      for (var i = 0; i < placed.length; i++) {
+        var p = placed[i];
+        if (x < p.x + p.w + 5 && x + w + 5 > p.x && y < p.y + p.h + 1 && y + hh + 1 > p.y) return true;
+      }
+      return false;
+    }
+    words.forEach(function (w, i) {
+      var f = maxN === minN ? 0.3 : (w.n - minN) / (maxN - minN);
+      var size = minS + (maxS - minS) * Math.sqrt(f);
+      var tier = (i < 3 && w.n > minN) ? "t1" : f >= 0.4 ? "t2" : f >= 0.12 ? "t3" : "t4";
+      var b = h("button", { type: "button", class: "cw " + tier, title: opts.title(w), "data-word": w.text,
+        "aria-pressed": w.text.toLowerCase() === active ? "true" : "false", onclick: function () { opts.pick(w); } }, w.text);
+      b.style.fontSize = size.toFixed(1) + "px";
+      b.style.visibility = "hidden";
+      box.appendChild(b);
+      var bw = b.offsetWidth, bh = b.offsetHeight;
+      if (bw > W - 8) { b.style.fontSize = (size * (W - 8) / bw).toFixed(1) + "px"; bw = b.offsetWidth; bh = b.offsetHeight; }
+      var a = 0, r = 0, pos = null;
+      for (var step = 0; step < 20000; step++) {
+        var x = cx + r * kx * Math.cos(a) - bw / 2, y = cy + r * Math.sin(a) - bh / 2;
+        if (x >= 2 && y >= 2 && x + bw <= W - 2 && y + bh <= H - 2 && !hit(x, y, bw, bh)) { pos = { x: x, y: y, w: bw, h: bh }; break; }
+        if (r > H / 2 + bh && r * kx > W / 2 + bw) break;
+        a += Math.min(0.35, 4 / (r * kx + 1)); r = 1.3 * a;
+      }
+      if (!pos) { b.remove(); return; }
+      placed.push(pos); b._pos = pos;
+    });
+    // centre the finished cloud and trim the empty space above and below it
+    var nodes = Array.prototype.filter.call(box.children, function (b) { return b._pos; });
+    if (!nodes.length) return;
+    var minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+    nodes.forEach(function (b) { var p = b._pos; minX = Math.min(minX, p.x); minY = Math.min(minY, p.y); maxX = Math.max(maxX, p.x + p.w); maxY = Math.max(maxY, p.y + p.h); });
+    var pad = 14, dx = (W - (maxX - minX)) / 2 - minX, dy = pad - minY;
+    box.style.height = Math.ceil(maxY - minY + pad * 2) + "px";
+    nodes.forEach(function (b) { b.style.left = (b._pos.x + dx).toFixed(1) + "px"; b.style.top = (b._pos.y + dy).toFixed(1) + "px"; b.style.visibility = ""; });
+  }
+  function relayoutClouds() {
+    document.querySelectorAll(".cloud").forEach(function (b) { if (b._cloud && b.clientWidth) drawCloud(b, b._cloud.words, b._cloud.opts); });
+  }
+  var cloudTimer = null;
+  function relayoutSoon() { clearTimeout(cloudTimer); cloudTimer = setTimeout(relayoutClouds, 150); }
+  window.addEventListener("resize", function () {
+    var changed = Array.prototype.some.call(document.querySelectorAll(".cloud"), function (b) { return b._cloud && b.clientWidth && b.clientWidth !== b._w; });
+    if (changed) relayoutSoon();
+  });
+  // web fonts change word widths, so lay the cloud out again once they arrive
+  if (document.fonts && document.fonts.addEventListener) document.fonts.addEventListener("loadingdone", relayoutSoon);
+
+  function cloudPool() {
+    var cut = cloudRange === "all" ? "" : isoMinus(todayISO(), +cloudRange - 1);
+    return S().items.filter(function (it) {
+      if (cut && str(it.date) < cut) return false;
+      if (state.field && CFG().fields && fieldOf(it) !== state.field) return false;
+      if (state.genre === "news" && isComment(it)) return false;
+      if (state.genre === "comment" && !isComment(it)) return false;
+      if (state.court && courtKey(it.court) !== state.court) return false;
+      return true;
+    });
+  }
+  function renderCloud() {
+    var wrap = document.getElementById("cloudWrap");
+    if (isDigest() || !S().loaded || !S().items.length) { wrap.hidden = true; return; }
+    wrap.hidden = false;
+    var rangeBox = document.getElementById("cloudRange"), box = document.getElementById("cloud");
+    var note = document.getElementById("cloudNote"), tog = document.getElementById("cloudToggle");
+    tog.textContent = cloudOpen ? "收合" : "展開";
+    tog.setAttribute("aria-expanded", cloudOpen ? "true" : "false");
+    rangeBox.hidden = box.hidden = note.hidden = !cloudOpen;
+    rangeBox.replaceChildren();
+    CLOUD_RANGES.forEach(function (o) {
+      rangeBox.appendChild(h("button", { type: "button", "aria-pressed": cloudRange === o[0] ? "true" : "false",
+        onclick: function () { cloudRange = o[0]; savePref("ild.cloudRange", o[0]); renderCloud(); } }, o[1]));
+    });
+    if (!cloudOpen) { box.replaceChildren(); box._cloud = null; return; }
+    var pool = cloudPool();
+    var words = tagStats(pool).slice(0, box.clientWidth < 560 ? 30 : 48);
+    drawCloud(box, words, {
+      active: state.q,
+      emptyText: "這段期間沒有符合目前篩選的動態，可改選較長的期間。",
+      title: function (w) { return w.text + "：" + w.n + " 則動態"; },
+      pick: function (w) { pickWord(w.text); }
+    });
+    var scope = [CLOUD_RANGES.filter(function (o) { return o[0] === cloudRange; })[0][1]];
+    if (state.field && CFG().fields) scope.push(CFG().fields[state.field].zh);
+    if (state.court) scope.push(catOf(state.court).zh || catOf(state.court).code);
+    if (state.genre && CFG().genres) scope.push(CFG().genres[state.genre]);
+    note.textContent = "統計範圍：" + scope.join("・") + "，共 " + pool.length + " 則。字愈大，表示愈多則動態標註這個關鍵字；點選即篩選下方列表，再點一次取消。";
+  }
+  function pickWord(t) {
+    var same = state.q.toLowerCase() === t.toLowerCase();
+    setQuery(same ? "" : t);
+    var list = document.getElementById("list");
+    if (!same && list.getBoundingClientRect().top > window.innerHeight - 120) {
+      var still = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      document.getElementById("tools").scrollIntoView({ block: "start", behavior: still ? "auto" : "smooth" });
+    }
+  }
+  function markCloudActive() {
+    var q = state.q.toLowerCase(), box = document.getElementById("cloud");
+    box.querySelectorAll(".cw").forEach(function (b) { b.setAttribute("aria-pressed", str(b.getAttribute("data-word")).toLowerCase() === q ? "true" : "false"); });
+    if (box._cloud) box._cloud.opts.active = state.q;
   }
 
   // ---- list ----
@@ -1025,6 +1213,18 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
       h("h2", { class: "dg-title", text: str(issue.title) }),
       issue.lead ? h("p", { class: "dg-lead", text: str(issue.lead) }) : null);
     var body = h("div", { class: "dg-body" });
+    var weekItems = [], secMap = {};
+    ITEM_SECTIONS.forEach(function (sk) {
+      data[sk].items.forEach(function (it) {
+        var dt = str(it.date);
+        if (dt >= str(issue.from) && dt <= str(issue.to)) { weekItems.push(it); secMap[it.id] = sk; }
+      });
+    });
+    var weekWords = tagStats(weekItems, function (it) { return secMap[it.id]; }).slice(0, 40);
+    var dgCloud = weekWords.length ? h("div", { class: "cloud", role: "group", "aria-label": "本週關鍵字" }) : null;
+    if (dgCloud) body.appendChild(h("section", { class: "dg-sec" },
+      h("h3", { class: "dg-sec-title" }, h("span", { text: "本週關鍵字" }), h("span", { class: "n", text: "依本週 " + weekItems.length + " 則動態統計，點選可到對應版面篩選" })),
+      dgCloud));
     (issue.sections || []).forEach(function (s) {
       var sec = s.section;
       if (!SECTIONS[sec] || SECTIONS[sec].digest) return;
@@ -1054,6 +1254,17 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
     if (ahead.length) body.appendChild(h("section", { class: "dg-sec" }, h("h3", { class: "dg-sec-title" }, h("span", { text: "接下來" })), h("ul", { class: "dg-ahead" }, ahead)));
     if (issue.note) body.appendChild(h("p", { class: "dg-foot", text: str(issue.note) }));
     list.appendChild(h("article", { class: "digest" }, head, body));
+    if (dgCloud) drawCloud(dgCloud, weekWords, {
+      emptyText: "",
+      title: function (w) {
+        return w.text + "：" + ITEM_SECTIONS.filter(function (k) { return w.secs[k]; }).map(function (k) { return SECTIONS[k].label + " " + w.secs[k] + " 則"; }).join("、");
+      },
+      pick: function (w) {
+        var target = (w.secs.arb || 0) > (w.secs.pil || 0) ? "arb" : "pil";
+        switchSection(target); setHash(sectionHash()); setQuery(w.text);
+        document.getElementById("tools").scrollIntoView({ block: "start" });
+      }
+    });
   }
 
   // ---- reader ----
@@ -1267,20 +1478,23 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
   }
   function setQuery(q) {
     var input = document.getElementById("q"); input.value = q; state.q = q.trim();
-    renderList(); renderGenre(); if (!window.matchMedia("(min-width: 900px)").matches) closeReader();
+    renderList(); renderGenre(); markCloudActive(); if (!window.matchMedia("(min-width: 900px)").matches) closeReader();
   }
 
   // ---- controls ----
   var qTimer = null;
   document.getElementById("q").addEventListener("input", function (e) {
     clearTimeout(qTimer); var v = e.target.value;
-    qTimer = setTimeout(function () { state.q = v.trim(); renderList(); renderGenre(); }, 120);
+    qTimer = setTimeout(function () { state.q = v.trim(); renderList(); renderGenre(); markCloudActive(); }, 120);
   });
   document.getElementById("kind").addEventListener("change", function (e) { state.kind = e.target.value; renderList(); renderGenre(); });
   document.getElementById("unreadOnly").addEventListener("change", function (e) { state.unreadOnly = e.target.checked; renderList(); renderGenre(); });
   document.getElementById("starOnly").addEventListener("change", function (e) { state.starOnly = e.target.checked; renderList(); renderGenre(); });
   document.getElementById("markAll").addEventListener("click", function () {
     S().items.forEach(function (i) { readSet.add(i.id); }); saveSet("ild.read", readSet); renderList(); renderStatus(); renderSections(); toast("已全部標為已讀");
+  });
+  document.getElementById("cloudToggle").addEventListener("click", function () {
+    cloudOpen = !cloudOpen; savePref("ild.cloud", cloudOpen ? "open" : "closed"); renderCloud();
   });
   document.getElementById("icsAll").addEventListener("click", function () {
     var list = upcomingAgenda(state.section).filter(function (a) { return str(a.date); });
@@ -1297,7 +1511,7 @@ body.reading .row-tldr { -webkit-line-clamp: 2; }
   });
 
   function renderAll() {
-    renderSections(); renderStatus(); renderFields(); renderCourts(); renderGenre(); renderKinds(); renderAgenda(); renderCases(); renderList();
+    renderSections(); renderStatus(); renderFields(); renderCourts(); renderGenre(); renderKinds(); renderAgenda(); renderCases(); renderCloud(); renderList();
     if (state.openId && !S().items.some(function (i) { return i.id === state.openId; })) state.openId = "";
     renderReader();
   }
