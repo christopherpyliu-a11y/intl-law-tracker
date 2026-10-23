@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-23T23:15:41+08:00",
-  "lastRunLocal": "2026-10-23 23:15",
+  "lastRun": "2026-10-24T07:14:57+08:00",
+  "lastRunLocal": "2026-10-24 07:14",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：中國 1（調查報導 1）；議程新增國際刑警組織香港大會"
+  "lastRunNote": "新增 2 則：俄羅斯 1（政府措施 1）、中國 1（倡議 1）；新增案件追蹤「俄羅斯『公民死亡』法與流亡者限制名單」"
  },
  "items": [
   {
@@ -869,7 +869,8 @@
     "沈伯洋"
    ],
    "related": [
-    "2026-10-21-tnr-taiwan-huang-yi-hao-indictment"
+    "2026-10-21-tnr-taiwan-huang-yi-hao-indictment",
+    "2026-10-22-tnr-taiwan-councils-motions"
    ],
    "sources": [
     {
@@ -1044,7 +1045,9 @@
     "紅色通緝",
     "跨國鎮壓公約"
    ],
-   "related": [],
+   "related": [
+    "2026-10-23-tnr-russia-civil-death-registry"
+   ],
    "sources": [
     {
      "label": "聯合國人權理事會文件 A/HRC/63/60（預發版，PDF）",
@@ -1286,6 +1289,137 @@
     }
    ],
    "addedAt": "2026-10-23T19:55:32+08:00"
+  },
+  {
+   "id": "2026-10-23-tnr-russia-civil-death-registry",
+   "court": "RU",
+   "kind": "政府措施",
+   "caseId": "russia-civil-death-law",
+   "jurisdiction": "",
+   "outlet": "Meduza",
+   "outletCode": "Meduza",
+   "date": "2026-10-23",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "俄羅斯司法部公布首批「限制措施」名單，霍多爾科夫斯基等 12 名流亡人士列名；副部長稱法律並未違憲",
+   "shortTitle": "俄司法部公布流亡者「公民死亡」名單",
+   "point": "首批 12 人含霍多爾科夫斯基，列名者在俄資金凍結、不得辦理領事業務",
+   "titleOriginal": "Russia's deputy justice minister defends a new blacklist that effectively imposes 'civil death' on dissidents living abroad",
+   "caseRef": "",
+   "tldr": "依 Meduza 報導，俄羅斯司法部在官網公布「暫時性限制措施」對象名單，第一批 12 人都是旅居海外的批評者，包括前石油大亨霍多爾科夫斯基。被列名的人在俄羅斯的銀行存款會被凍結、不能賣房賣車，也無法在使領館辦護照等業務。司法部副部長說這部法律並不過當，也不違憲。",
+   "memo": "依 Meduza 2026 年 10 月 23 日報導，俄羅斯司法部於其網站公布依同年 7 月下旬國家杜馬三讀通過之法律所設「暫時性限制措施」對象登記冊，首批列名 12 人，均為在俄羅斯被認定違法而居留境外、被指「逃避」行政或刑事處罰者，包括霍多爾科夫斯基（Mikhail Khodorkovsky）等人；列名者在俄銀行資金遭凍結，不得處分不動產及車輛、不得以委託書辦理交易，並被拒絕提供領事服務。司法部副部長 Oleg Sviridenko 於同年 10 月 22 日接受塔斯社訪問時稱該法並非過當、亦未侵害憲法權利。",
+   "context": "俄羅斯國家杜馬 2026 年 7 月 22 日以二讀、三讀通過俗稱「公民死亡」（civic death）的法案，針對居住國外、在俄羅斯被以「抹黑軍隊」、參與「不受歡迎組織」、違反外國代理人法或呼籲制裁等罪名缺席定罪或處罰的人。登記冊 8 月下旬起試行，當時只有一個虛構姓名。\n人權觀察早在 5 月即批評此法案將切斷流亡批評者與母國的法律聯繫。聯合國俄羅斯人權特別報告員 10 月初的報告也指出，對流亡者的缺席判決大幅增加。",
+   "facts": [
+    "Meduza 報導，司法部公布的名單共 12 人，第一位是霍多爾科夫斯基，其他人包括政治學者 Yekaterina Schulmann、政治人物 Leonid Gozman、商人 Yevgeny Chichvarkin、Boris Zimin 與反對派人士 Vladimir Milov。",
+    "名單載有出生日期與地點、納稅人編號、退休金帳號等個人資料，以及採取限制的依據。",
+    "列名者在俄羅斯銀行的資金遭凍結、不能使用網路銀行，禁止出售不動產與車輛，禁止以委託書辦理交易，並被拒絕提供領事服務。",
+    "司法部副部長 Oleg Sviridenko 10 月 22 日接受塔斯社訪問，稱該法「既不過當，也不違反憲法權利」，是恢復法治與正義的正當努力，但承認可能需要微調。",
+    "Meduza 報導未提及列名者或人權團體的回應。"
+   ],
+   "issues": [
+    "以行政登記冊剝奪海外公民的財產處分與領事服務，是否構成跨國鎮壓並違反公民權利與政治權利國際公約對遷徙、財產與公正審判的保障？",
+    "居住國應如何處理因護照無法換發而陷入實質無證狀態的俄羅斯流亡者？"
+   ],
+   "holding": "・司法部依新法公布首批 12 人名單，包含個人識別資料與限制依據。\n・限制措施涵蓋金融、財產交易與領事服務三大面向。\n・俄方官員公開為該法辯護，稱其合憲，但表示可能調整。",
+   "significance": "這是「公民死亡」法從試行轉為實際點名的第一步，被點名者多為知名流亡人士，名單後續是否擴大、居住國是否提供替代身分文件，是觀察重點。",
+   "editorNote": "本網頁助理 註：Meduza 報導稱副部長受訪在「公布前一天」，但未明載司法部公布名單的確切日期，故事件日期留空。法律通過日期依《莫斯科時報》報導。",
+   "tags": [
+    "跨國鎮壓",
+    "俄羅斯",
+    "公民死亡法",
+    "資產凍結",
+    "領事服務",
+    "缺席審判",
+    "流亡人士"
+   ],
+   "related": [
+    "2026-10-06-tnr-un-sr-russia-nowhere-is-safe"
+   ],
+   "sources": [
+    {
+     "label": "Meduza 報導",
+     "url": "https://meduza.io/en/news/2026/10/23/russia-s-deputy-justice-minister-defends-a-new-blacklist-that-effectively-imposes-civil-death-on-dissidents-living-abroad",
+     "official": false
+    },
+    {
+     "label": "《莫斯科時報》報導（國家杜馬通過法案）",
+     "url": "https://www.themoscowtimes.com/2026/08/04/state-duma-passes-civic-death-bills-cutting-off-exiled-critics-from-banking-and-consular-services",
+     "official": false
+    },
+    {
+     "label": "人權觀察聲明（2026 年 5 月）",
+     "url": "https://www.hrw.org/news/2026/05/25/russia-plans-civic-death-law-for-exiled-critics",
+     "official": false
+    },
+    {
+     "label": "《民主期刊》分析",
+     "url": "https://www.journalofdemocracy.org/online-exclusive/how-putin-erases-dissidents-and-critics/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-24T07:14:57+08:00"
+  },
+  {
+   "id": "2026-10-22-tnr-taiwan-councils-motions",
+   "court": "CN",
+   "kind": "倡議",
+   "caseId": "taiwan-tnr-response",
+   "jurisdiction": "台灣",
+   "outlet": "法輪大法資訊中心",
+   "outletCode": "FDIC",
+   "date": "2026-10-22",
+   "eventDate": "2026-10-14",
+   "importance": 1,
+   "author": "",
+   "title": "法輪大法資訊中心：《國有器官》放映會遭炸彈威脅後，台灣 22 縣市已有 17 個議會通過反跨境鎮壓提案",
+   "shortTitle": "17 縣市議會通過反跨境鎮壓提案",
+   "point": "放映會累計逾 150 次威脅，提案要求加強維安並促中央立專法",
+   "titleOriginal": "17 of Taiwan's 22 Local Councils Pass Anti-Transnational Repression Motions After Bomb Threats Against Screenings of a Forced Organ Harvesting Documentary, With Some Naming the CCP",
+   "caseRef": "",
+   "tldr": "依法輪功相關的法輪大法資訊中心整理，紀錄片《國有器官》2024 年起在台灣各地放映時多次收到炸彈和槍擊威脅，到 10 月 14 日基隆市議會為止，全台 22 縣市已有 17 個議會通過反跨境鎮壓提案，要求警方加強維安，並請立委支持制定反跨境鎮壓專法；其中新北等提案直接點名中共。",
+   "memo": "依法輪大法資訊中心 2026 年 10 月 22 日發布之整理，紀錄片《國有器官》自 2024 年 10 月起於台灣放映期間，發行商稱累計接獲逾 150 次威脅，包括對高雄、台北、台南、桃園等地議會之爆裂物與槍擊恐嚇；2026 年 5 月 29 日至 10 月 14 日間，全國 22 個直轄市、縣市議會中已有 17 個通過反跨境鎮壓提案，要求加強場地維安、支持人權紀錄片、去函立法委員支持制定反跨境鎮壓專法並定期回報辦理情形，其中新北市議會等提案明列中國共產黨為行為主體。",
+   "context": "《國有器官》是關於中國強摘器官的紀錄片，由發行商獅子影業在台灣各地安排放映。陸委會 10 月 1 日將針對獅子影業負責人的冒名騷擾初步定性為跨境鎮壓；行政院長卓榮泰 10 月 13 日在立法院表示將修正《反滲透法》處罰跨境鎮壓。",
+   "facts": [
+    "資訊中心稱，《國有器官》自 2024 年 10 月起在台約放映 1,000 場，發行商稱收到逾 150 次威脅。",
+    "所列威脅包括：2024 年 10 月 29 日以電子郵件恐嚇炸毀高雄市議會；2024 年 11 月經報名表單揚言在台北市議會民進黨團放映會持槍攻擊，警方派 51 名員警維安；台南市議會收到 30 則追溯至境外 IP 的威脅訊息；桃園則在 2024 年 11 月與 2025 年 6 月收到炸彈與持刀威脅。",
+    "提案通過時間自 2026 年 5 月 29 日高雄市議會起，至 10 月 14 日基隆市議會為第 17 個；資訊中心點名的還有新北（10 月 1 日）、台南（10 月 6 日大會通過）、桃園（10 月 13 日）。",
+    "各提案要求警方巡邏與場地安檢、文化教育部門支持人權紀錄片、一個月內去函立委支持中央反跨境鎮壓立法、辦理宣導課程並於三個月內回報；台南提案另要求指定主責機關與聯絡窗口、建立聯合風險評估程序。",
+    "資訊中心稱新北、桃園等提案明確點名中共，高雄提案則使用「境外勢力」用語。"
+   ],
+   "issues": [
+    "地方議會提案能否促成中央制定或修正反跨境鎮壓法律？",
+    "對來自境外的匿名恐嚇，現行刑法與跨機關機制的追查能力是否足夠？"
+   ],
+   "holding": "・資訊中心整理各地威脅紀錄與議會提案內容，認為地方層級已形成反跨境鎮壓共識。\n・提案多要求中央立法並建立維安與回報機制。",
+   "significance": "地方議會的集體表態與陸委會、行政院的修法方向呼應；後續可觀察《反滲透法》修正草案是否納入對恐嚇放映活動等行為的處罰。",
+   "editorNote": "本網頁助理 註：本則來源為法輪功相關團體，其敘述角度反映該團體立場；提案通過數與內容係該中心依各議會議事資料整理，本網頁助理未逐一核對各議會原始紀錄。事件日期採該中心所稱第 17 個議會（基隆）通過日。",
+   "tags": [
+    "跨國鎮壓",
+    "台灣",
+    "中國",
+    "法輪功",
+    "地方議會",
+    "炸彈威脅",
+    "反滲透法",
+    "修法"
+   ],
+   "related": [
+    "2026-10-08-tnr-taiwan-mac-standalone-offence"
+   ],
+   "sources": [
+    {
+     "label": "法輪大法資訊中心整理原文",
+     "url": "https://faluninfo.net/17-of-taiwans-22-local-councils-pass-anti-transnational-repression-motions-after-bomb-threats-against-screenings-of-a-forced-organ-harvesting-documentary-with-some-naming-the-ccp",
+     "official": false
+    },
+    {
+     "label": "中央社報導（卓榮泰：修反滲透法）",
+     "url": "https://cna.com.tw/news/aipl/202610130186.aspx",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-24T07:14:57+08:00"
   }
  ],
  "agenda": [
@@ -1332,7 +1466,7 @@
    "nameOriginal": "Taiwan's response to China-linked transnational repression",
    "caseRef": "",
    "summary": "台灣政府對受中國指使的跟監、恐嚇與暴力事件的偵辦、警示與修法動向。",
-   "status": "陸委會表示研議讓跨境鎮壓單獨成罪，國安局長表示可能需要修法；草案尚未公布。"
+   "status": "陸委會表示研議讓跨境鎮壓單獨成罪，國安局長表示可能需要修法，全台已有 17 個縣市議會通過提案促中央立法；草案尚未公布。"
   },
   {
    "id": "viet-tan-cambodia-abduction",
@@ -1388,6 +1522,17 @@
    "caseRef": "",
    "summary": "加州女子被控受中國官員指派，跟監一名台灣高層官員在美國西北部的親屬。",
    "status": "2026 年 10 月 4 日被捕，以未登記外國代理人罪名遭刑事告訴。"
+  },
+  {
+   "id": "russia-civil-death-law",
+   "type": "議題",
+   "court": "RU",
+   "forum": "俄羅斯司法部",
+   "name": "俄羅斯「公民死亡」法與流亡者限制名單",
+   "nameOriginal": "Russia's 'civic death' law and registry of exiles under restrictive measures",
+   "caseRef": "",
+   "summary": "俄羅斯 2026 年 7 月通過法律，對被缺席定罪或處罰而居留國外的批評者凍結資產、限制財產交易並拒絕領事服務，並由司法部公布名單。",
+   "status": "司法部於 2026 年 10 月公布首批 12 人名單，副部長稱該法合憲但可能微調。"
   }
  ]
 }
