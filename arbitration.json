@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-23T23:18:02+08:00",
-  "lastRunLocal": "2026-10-23 23:18",
+  "lastRun": "2026-10-24T07:06:43+08:00",
+  "lastRunLocal": "2026-10-24 07:06",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 5 則：投資仲裁 5（法院裁判 3、案件動態 1、評論 1）、商務仲裁 0",
+  "lastRunNote": "新增 4 則：投資仲裁 2（仲裁判斷 1、法院裁判 1）、商務仲裁 2（法院裁判 2）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -114,7 +114,9 @@
     "不同意見書",
     "損害賠償"
    ],
-   "related": [],
+   "related": [
+    "2026-10-22-arb-freeport-peru-interpretation"
+   ],
    "sources": [
     {
      "label": "Mealey's：Divided ICSID Tribunal Awards Mining Investor $148M Against Peru",
@@ -490,7 +492,8 @@
     "西班牙再生能源"
    ],
    "related": [
-    "2026-10-22-arb-dj-devas-nyc-state-immunity"
+    "2026-10-22-arb-dj-devas-nyc-state-immunity",
+    "2026-10-23-arb-brussels-rreef-spain-eurocontrol-attachment-lifted"
    ],
    "sources": [
     {
@@ -2466,6 +2469,286 @@
     }
    ],
    "addedAt": "2026-10-23T23:18:02+08:00"
+  },
+  {
+   "id": "2026-10-22-arb-freeport-peru-interpretation",
+   "court": "AWARD",
+   "field": "investment",
+   "kind": "仲裁判斷",
+   "caseId": "freeport-v-peru",
+   "jurisdiction": "",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-10-22",
+   "eventDate": "2026-10-08",
+   "importance": 2,
+   "author": "",
+   "title": "Freeport 訴秘魯案：ICSID 仲裁庭受理秘魯的判斷解釋聲請，澄清權利金罰款與利息請求係依實體駁回",
+   "shortTitle": "Freeport 訴秘魯：仲裁庭解釋 2024 年判斷",
+   "point": "權利金罰款與利息請求是實體上被駁回，而非無管轄權；仲裁庭意見分歧",
+   "titleOriginal": "Freeport-McMoRan Inc. v. Republic of Peru (ICSID Case No. ARB/20/8), Decision on the Request for Interpretation of the Award",
+   "caseRef": "ICSID Case No. ARB/20/8",
+   "tldr": "美國礦業公司 Freeport 2024 年在 ICSID 對秘魯求償敗訴後，雙方對判斷到底是「沒有管轄權」還是「實體上不成立」各有解讀。秘魯請原仲裁庭解釋，仲裁庭多數受理並說明：權利金罰款與利息的請求是在實體上被駁回。這會影響 Freeport 正在進行的部分撤銷程序。",
+   "memo": "ICSID 仲裁庭於 Freeport-McMoRan 訴秘魯案（ICSID Case No. ARB/20/8），依 ICSID 公約第 50 條就秘魯請求解釋 2024 年 5 月 17 日仲裁判斷作成決定，據報導文件日期為 2026 年 10 月 8 日。仲裁庭以多數決認定解釋聲請可受理，並說明原判斷對各項請求之管轄權認定範圍，明示投資人就權利金核課之罰款與利息所提請求係經實體審理後駁回，而非因欠缺管轄權而駁回；一名仲裁人不同意見，認為投資人之撤銷聲請已完成書狀交換，仲裁庭不應處理此一爭點。",
+   "context": "Freeport-McMoRan 為秘魯 Cerro Verde 銅礦營運公司 Sociedad Minera Cerro Verde 的主要股東，2020 年依美國－秘魯貿易促進協定（TPA）在 ICSID 對秘魯提起仲裁，爭議涉及秘魯對 Cerro Verde 追繳權利金與稅款，以及相關罰款與利息，核心問題是 1998 年穩定契約是否涵蓋其後的硫化物選礦廠投資。另一股東 SMM Cerro Verde 依日本－秘魯雙邊投資協定另案仲裁（本站已追蹤）。\n仲裁庭（Inka Hanefeld 主席、Guido Santiago Tawil、Bernardo Cremades）於 2024 年 5 月 17 日以多數決駁回約 9 億美元的請求，Tawil 仲裁人提出不同意見。Freeport 於 2024 年 9 月聲請部分撤銷判斷，主張判斷已肯認對權利金罰款與利息請求的管轄權，卻未就其實體作出判斷（約 4.17 億美元）。秘魯則於 2026 年 3 月依 ICSID 公約第 50 條請求原仲裁庭解釋判斷，撤銷委員會於 2026 年 5 月裁定在解釋程序終結前停止撤銷程序。",
+   "facts": [
+    "2024 年 5 月 17 日 ICSID 仲裁庭以多數決駁回 Freeport 對秘魯的請求。",
+    "Freeport 聲請部分撤銷判斷，主張仲裁庭就權利金罰款與利息請求肯認管轄權後未予裁判。",
+    "秘魯於 2026 年 3 月請求原仲裁庭解釋判斷，雙方於 2026 年 6、7 月完成書狀交換。",
+    "撤銷委員會於 2026 年 5 月裁定停止撤銷程序，待解釋程序終結。",
+    "據 Investment Arbitration Reporter 所列文件，解釋決定日期為 2026 年 10 月 8 日；Mealey's 稱 ICSID 於 10 月 21 日公開。"
+   ],
+   "issues": [
+    "秘魯的解釋聲請是否符合 ICSID 公約第 50 條要件（雙方對判斷意義或範圍確有爭議）而可受理？",
+    "在撤銷程序已進行時，原仲裁庭是否仍應就判斷意義作成解釋？",
+    "原判斷就權利金罰款與利息請求，究竟係認定無管轄權，或已就實體駁回？"
+   ],
+   "holding": "依新聞報導，仲裁庭多數認定秘魯的解釋聲請可受理，並逐一說明原判斷認定有管轄權與排除管轄權的請求範圍。\n據 IAReporter 標題，仲裁庭說明投資人就權利金相關罰款與利息之請求，係經實體審理後遭駁回，而非因無管轄權而駁回。\n不同意見仲裁人認為，在投資人撤銷聲請已完成書狀交換後，仲裁庭不應處理此一爭點。報導未說明不同意見仲裁人為何人，以及費用分擔。",
+   "significance": "Freeport 的部分撤銷聲請建立在「仲裁庭肯認管轄權卻未裁判實體」的前提上；解釋決定若認定該請求已在實體上被駁回，將直接削弱以未裁判（第 52 條第 1 項 (d)、(e) 款）為由的撤銷主張。撤銷委員會預期將恢復撤銷程序，屆時須決定解釋決定對撤銷審查的影響。本案也是 ICSID 公約第 50 條解釋程序與第 52 條撤銷程序並行時如何協調的少見案例。",
+   "editorNote": "本網頁助理 註：本則依 Mealey's 與 Investment Arbitration Reporter 的報導摘要及標題撰寫，尚未取得仲裁判斷（解釋決定）原文；兩則報導均為付費內容，僅能看到摘要。解釋決定的日期取自 IAReporter 文件清單，ICSID 公開日期則依 Mealey's。秘魯提出解釋聲請的日期，TDM 文件清單記為 2026 年 3 月 18 日，IAReporter 記為 3 月 31 日。",
+   "tags": [
+    "ICSID",
+    "秘魯",
+    "美國",
+    "解釋判斷",
+    "第50條",
+    "撤銷（annulment）",
+    "管轄權",
+    "美秘貿易促進協定",
+    "礦業",
+    "穩定條款",
+    "不同意見"
+   ],
+   "related": [
+    "2026-10-21-arb-smm-cerro-verde-peru-award"
+   ],
+   "sources": [
+    {
+     "label": "Mealey's 報導：仲裁庭澄清判斷的管轄權認定",
+     "url": "https://www.mealeys.com/mealeys/mealeys-international-arbitration/articles/2541466",
+     "official": false
+    },
+    {
+     "label": "IAReporter 案件頁（含解釋決定文件清單）",
+     "url": "https://www.iareporter.com/arbitration-cases/freeport-mcmoran-v-peru/",
+     "official": false
+    },
+    {
+     "label": "秘魯解釋聲請書（TDM 摘要）",
+     "url": "https://www.transnational-dispute-management.com/legal-and-regulatory-detail.asp?key=38393",
+     "official": false
+    },
+    {
+     "label": "Freeport 部分撤銷聲請書（ICSID，PDF）",
+     "url": "https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C8353/DS20438_En.pdf",
+     "official": true
+    },
+    {
+     "label": "2024 年 5 月 17 日仲裁判斷全文（italaw，PDF）",
+     "url": "https://www.italaw.com/sites/default/files/case-documents/italaw181492.pdf",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-24T07:06:43+08:00"
+  },
+  {
+   "id": "2026-10-23-arb-brussels-rreef-spain-eurocontrol-attachment-lifted",
+   "court": "COURT",
+   "field": "investment",
+   "kind": "法院裁判",
+   "caseId": "rreef-v-spain",
+   "jurisdiction": "比利時",
+   "outlet": "比利時布魯塞爾第一審法院（依新聞報導）",
+   "outletCode": "BE",
+   "date": "2026-10-23",
+   "eventDate": "2026-10-20",
+   "importance": 2,
+   "author": "",
+   "title": "比利時法院以歐盟法為由撤銷 Blasket 對西班牙航管費的扣押，命返還約 7,576 萬歐元",
+   "shortTitle": "比利時法院撤銷對西班牙航管費的扣押",
+   "point": "法院認為執行歐盟內部 ICSID 判斷違反歐盟法，命返還約 7,576 萬歐元及利息",
+   "titleOriginal": "Blasket Renewable Investments (RREEF) v. Kingdom of Spain, Dutch-language Court of First Instance of Brussels (attachment judge), 20 October 2026",
+   "caseRef": "",
+   "tldr": "美國基金 Blasket 買下 RREEF 對西班牙的 ICSID 判斷債權後，在比利時扣押了歐洲航管組織 Eurocontrol 應付給西班牙航管機構的費用。布魯塞爾法院現在認為，執行這類歐盟內部投資仲裁判斷違反歐盟法，撤銷扣押並命返還款項。",
+   "memo": "比利時布魯塞爾荷語第一審法院扣押法官於 2026 年 10 月 20 日就 Blasket Renewable Investments（RREEF 判斷之受讓人）對西班牙執行 ICSID 判斷案，撤銷 2025 年 6 月之扣押許可，宣告對 Eurocontrol 應付西班牙航管機構 Enaire 款項之第三人扣押違法，命返還西班牙提存之約 7,576 萬歐元及孳息，並由 Blasket 負擔訴訟費用。法院依歐盟法院 Achmea、Komstroy 及 Micula 等判決，認為 ICSID 公約第 54 條之承認義務須讓位於歐盟法之優先性與自主性，歐盟內部投資人與地主國仲裁與歐盟條約不符，且在歐盟執委會就國家補助作成最終決定前不得執行；判決得假執行。",
+   "context": "RREEF Infrastructure（G.P.）Limited 與 RREEF Pan-European Infrastructure Two Lux S.à r.l. 依能源憲章條約在 ICSID 對西班牙提起仲裁，爭議源自西班牙 2013 年起削減再生能源電價補貼。仲裁庭於 2019 年命西班牙賠償約 5,960 萬歐元及利息。判斷債權其後由美國基金 Blasket Renewable Investments 受讓。\n2025 年 6 月，比利時法院准許 Blasket 扣押 Eurocontrol 應付西班牙航管機構 Enaire 的航路費。2026 年 5 月，西班牙將約 7,576 萬歐元提存於法院以暫時解除扣押，並提出異議。西班牙因再生能源補貼改革共遭 51 件仲裁，求償合計約 104 億歐元，判斷債權人在美國、英國、澳洲、新加坡等地陸續聲請執行（參見本站 NextEra 訴西班牙案）。",
+   "facts": [
+    "Blasket 受讓 RREEF 對西班牙的 ICSID 判斷債權，判斷金額約 5,960 萬歐元加利息。",
+    "比利時法院於 2025 年 6 月准許扣押 Eurocontrol 對 Enaire 的應付航路費。",
+    "西班牙於 2026 年 5 月提存約 7,576 萬歐元，並對扣押許可提出異議。",
+    "歐盟執委會以法庭之友身分參與，主張未經其核准而支付將違反歐盟國家補助規則。"
+   ],
+   "issues": [
+    "ICSID 公約第 54 條的承認與執行義務，與歐盟法優先性衝突時何者優先？",
+    "依 Achmea、Komstroy 判決，歐盟內部依能源憲章條約作成的投資仲裁判斷能否在歐盟成員國執行？",
+    "執委會尚未就補助作成最終決定時，執行判斷是否違反暫停執行義務？",
+    "僅以 RREEF 其中一家公司名義執行共同且不可分的判斷是否適法？"
+   ],
+   "holding": "依新聞報導，法官承認 ICSID 公約第 54 條課予承認判斷的義務，但認為此一義務須讓位於歐盟法的優先性與自主性。\n法院援引歐盟法院 Achmea、Komstroy 與 Micula 等判決，認定歐盟內部投資人與地主國仲裁與歐盟條約不符；本件判斷屬共同且不可分的判斷，在歐盟境內執行將使歐盟投資人取得違反歐盟法的利益；僅以 RREEF 其中一家公司名義執行屬「法律擬制」。\n法院並指出賠償涉及已通知執委會的措施，在執委會作成最終決定前不得於比利時執行。\n主文：撤銷 2025 年 6 月扣押許可，宣告對 Eurocontrol 的第三人扣押違法且無理由，命立即返還約 7,576 萬歐元及孳息予西班牙，Blasket 負擔費用；判決得假執行。",
+   "significance": "這是歐盟成員國法院明確以歐盟法拒絕執行歐盟內部 ICSID 判斷的案例，與美國、英國、澳洲及新加坡法院多傾向准許承認的走向形成對比，判斷債權人在歐盟境內執行的空間更加受限。報導提及 Blasket 可能上訴，但目前未見上訴消息。執委會對西班牙支付判斷是否構成國家補助的最終決定，仍是各地執行程序的關鍵變數。",
+   "editorNote": "本網頁助理 註：本則依西班牙媒體 elDiario.es 及 Europa Press（經 Infobae 轉載）報導撰寫，尚未取得判決原文。報導對扣押金額寫法不一（7,500 萬、7,576 萬或 7,600 萬歐元）。",
+   "tags": [
+    "ICSID",
+    "西班牙",
+    "比利時",
+    "承認與執行",
+    "扣押",
+    "歐盟法",
+    "Achmea",
+    "Komstroy",
+    "能源憲章條約",
+    "再生能源",
+    "國家補助",
+    "第54條"
+   ],
+   "related": [
+    "2026-10-19-arb-sgca-nextera-spain-immunity"
+   ],
+   "sources": [
+    {
+     "label": "elDiario.es 報導（西文）",
+     "url": "https://www.eldiario.es/economia/justicia-belga-da-razon-espana-impago-renovables-levanta-embargo-75-millones-enaire_1_13608752.html",
+     "official": false
+    },
+    {
+     "label": "Europa Press 報導（Infobae 轉載，西文）",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/23/justicia-belga-anula-embargo-de-blasket-contra-espana-al-declarar-ilegal-ejecucion-de-laudos-por-renovables/",
+     "official": false
+    },
+    {
+     "label": "elEconomista 報導（西文）",
+     "url": "https://www.eleconomista.es/energia/noticias/14023225/10/26/la-justicia-belga-da-la-razon-a-espana-y-libera-76-millones-embargados-por-el-laudo-sobre-los-recortes-de-las-primas-a-las-renovables-de-rreef.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-24T07:06:43+08:00"
+  },
+  {
+   "id": "2026-10-23-arb-paris-garoube-cameroon-seizure-upheld",
+   "court": "COURT",
+   "field": "commercial",
+   "kind": "法院裁判",
+   "caseId": "garoube-v-cameroon",
+   "jurisdiction": "法國",
+   "outlet": "巴黎司法法院（依新聞報導）",
+   "outletCode": "TJP",
+   "date": "2026-10-23",
+   "eventDate": "2026-10-05",
+   "importance": 1,
+   "author": "",
+   "title": "巴黎法院維持對喀麥隆約 1,780 萬歐元的扣押，執行 Garoubé 案 ICC 仲裁判斷",
+   "shortTitle": "巴黎法院維持對喀麥隆的扣押",
+   "point": "判斷債權已移轉給融資基金，喀麥隆與原申請人的和解不能對抗基金",
+   "titleOriginal": "CFS 37 Funding LP (Projet Pilote Garoubé) v. République du Cameroun, Tribunal judiciaire de Paris (juge de l'exécution), 5 October 2026",
+   "caseRef": "",
+   "tldr": "喀麥隆 2006 年終止一份北部野生動物保護區的租約，ICC 仲裁庭判它要賠償約 1,780 萬歐元。替原申請人出錢打仲裁的基金在法國扣押了一家法國公司欠喀麥隆的款項。喀麥隆想解除扣押，巴黎法院拒絕，理由是喀麥隆後來跟原申請人談的和解不能拿來對抗基金。",
+   "memo": "法國巴黎司法法院執行法官於 2026 年 10 月 5 日駁回喀麥隆解除扣押之聲請，維持仲裁融資基金 CFS 37 Funding LP 於 2026 年 2 月對法國公司 NYS 應付喀麥隆款項約 1,780 萬歐元所為之扣押，並命喀麥隆負擔 3,000 歐元程序費用。該扣押係為執行 2021 年 9 月 ICC 仲裁判斷（喀麥隆因不當終止 Projet Pilote Garoubé 特許契約應賠償約 1,788 萬歐元及利息）。法院據報認為，基金已於 2023 年 5 月通知其權利，喀麥隆與 Garoubé 於 2023 年 11 月成立之和解不得對抗基金，且喀麥隆未依約付款致和解失效，其關於基金欠缺當事人適格及程序瑕疵之主張均不成立。",
+   "context": "2001 年前後，喀麥隆將北部約 4 萬公頃的野生動物區租予 Projet Pilote Garoubé 經營牧場與農業，2006 年終止契約。Garoubé 提起 ICC 仲裁，仲裁庭於 2021 年 9 月 22 日認定終止不當，命喀麥隆賠償約 1,788 萬歐元，並自 2016 年 10 月 20 日起按年息 3.25% 計息。\nGaroubé 於 2020 年與開曼群島基金 CFS 37 Funding LP 簽訂仲裁融資協議，以判斷所得作為擔保；巴黎經濟活動法院於 2025 年 2 月確認基金得行使追償權。2023 年 11 月，喀麥隆與 Garoubé 達成 1,600 萬歐元和解，但據報僅支付約 120 萬歐元。",
+   "facts": [
+    "2026 年 2 月 16 日，CFS 37 對法國公司 NYS 應付喀麥隆的款項實施扣押，金額約 1,780 萬歐元（約 117 億中非法郎）。",
+    "喀麥隆聲請解除扣押，主張基金欠缺當事人適格且程序不合法。",
+    "基金據報已於 2023 年 5 月通知其權利，早於喀麥隆與 Garoubé 的和解。"
+   ],
+   "issues": [
+    "受讓或取得判斷擔保權的仲裁融資人，能否自行對國家聲請執行？",
+    "國家與原申請人事後成立的和解，能否對抗已通知權利的融資人？",
+    "和解未履行時是否失其效力？"
+   ],
+   "holding": "依新聞報導，法院駁回喀麥隆關於基金欠缺當事人適格及程序不合法的主張。\n法院認為仲裁判斷是可獨立移轉的金錢債權，由 CFS 37 持有；基金已於 2023 年 5 月通知其權利，故喀麥隆與 Garoubé 的 2023 年和解不得對抗基金，且喀麥隆未依和解條件付款，和解已失效。\n法院維持扣押，並命喀麥隆支付 3,000 歐元程序費用。",
+   "significance": "本案顯示第三方資金提供者取得判斷權利並通知債務人後，國家不能繞過融資人與原申請人另行和解來消滅債務，對國家與第三方資金提供者都有實務意義。扣押維持不等於已受償；報導稱喀麥隆得上訴，但尚未見上訴消息。",
+   "editorNote": "本網頁助理 註：本則依 Koaci、Financial Afrik 與 The Rio Times 報導撰寫，尚未取得判決原文。報導對扣押性質說法不一：Financial Afrik 稱保全扣押（saisie conservatoire），Koaci 稱收取扣押（saisie-attribution）；對 Garoubé 的國籍說法也不一致（Koaci 稱比利時公司）。Koaci 另稱 10 月 20 日又有一項新裁定公布，但未說明內容。本案為以契約為依據、對國家提起的 ICC 商務仲裁。",
+   "tags": [
+    "ICC",
+    "喀麥隆",
+    "法國",
+    "承認與執行",
+    "扣押",
+    "第三方資金",
+    "和解",
+    "國家"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Koaci 報導（法文）",
+     "url": "https://www.koaci.com/article/2026/10/22/cameroun/economie/cameroun-condamne-a-nouveau-a-paris-12-milliards-fcfa-en-jeu-le-gouffre-de-garoube_201866.html",
+     "official": false
+    },
+    {
+     "label": "Financial Afrik 報導（法文）",
+     "url": "https://www.financialafrik.com/2026/10/21/cameroun-la-justice-francaise-maintient-la-saisie-conservatoire-de-20-millions-usd-dans-laffaire-garoube/",
+     "official": false
+    },
+    {
+     "label": "The Rio Times 報導",
+     "url": "https://www.riotimesonline.com/cameroon-fails-lift-us-20-million-paris-seizure-2026/",
+     "official": false
+    },
+    {
+     "label": "巴黎經濟活動法院 2025 年 2 月 13 日判決（Jus Mundi）",
+     "url": "https://jusmundi.com/en/document/decision/fr-projet-pilote-garoube-v-cameroun-arret-du-tribunal-des-activites-economiques-de-paris-chambre-1-8-mixte-2023007860-thursday-13th-february-2025",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-24T07:06:43+08:00"
+  },
+  {
+   "id": "2026-10-21-arb-sghc-dzd-v-dze-forged-recap",
+   "court": "COURT",
+   "field": "commercial",
+   "kind": "法院裁判",
+   "caseId": "",
+   "jurisdiction": "新加坡",
+   "outlet": "新加坡高等法院（依律師事務所評析）",
+   "outletCode": "SGHC",
+   "date": "2026-10-21",
+   "eventDate": "",
+   "importance": 2,
+   "author": "Wendy Tan、Terry Xu Hongli（Morgan Lewis Stamford）",
+   "title": "新加坡高等法院：未參與仲裁不會「視為」成立仲裁協議，偽造簽署的租船確認書不能追認，判斷撤銷",
+   "shortTitle": "新加坡法院撤銷偽造簽約的仲裁判斷",
+   "point": "被申請人不出席不構成第 2A(6) 條的視為協議，偽造簽署也不能追認",
+   "titleOriginal": "DZD v DZE [2026] SGHC 199",
+   "caseRef": "[2026] SGHC 199",
+   "tldr": "船東拿著一份蓋了貿易商印章和簽名的租船確認書提起臨時仲裁並勝訴，貿易商根本沒參加仲裁，事後主張簽名是貼上去的假圖片。新加坡高等法院認定雙方沒有仲裁協議，撤銷判斷；也表示對方不出席不代表默認有仲裁協議。",
+   "memo": "新加坡高等法院於 DZD v DZE [2026] SGHC 199 一案，依模範法第 34 條第 2 項 (a)(i) 款撤銷一件臨時仲裁之滯期費判斷，認定雙方間無有效仲裁協議。法院認為，被申請人不參與仲裁時，申請人之主張並非「須予回應」，國際仲裁法第 2A 條第 6 項不適用，且該條僅涉及形式要件，無從創設本不存在之仲裁協議（採上訴法院於 Richard Cheung 案之暫定見解，不採 Machlogic 案）；又依專家證據，租船確認書上之簽名、印章與日期係偽造，偽造者冒名所為之行為自始無效，不得追認；被申請人代付運費亦不足以成立租船契約或仲裁協議。法院未審酌公共政策之備位主張。",
+   "context": "一名船東依一份「clean recap」（租船條件確認書）對一家大宗商品貿易商提起臨時仲裁，請求滯期費，該確認書載明貿易商為租船人，並有其董事簽名、公司印章與手寫日期。貿易商未參與仲裁，船東取得判斷後即聲請執行，並扣押貿易商的銀行帳戶。貿易商隨後在新加坡法院依國際仲裁法與模範法聲請撤銷判斷，主張簽名、印章與日期都是貼上的圖片，屬偽造。",
+   "facts": [
+    "船東依載有貿易商董事簽名與印章的租船確認書取得臨時仲裁判斷，並扣押貿易商銀行帳戶。",
+    "貿易商未參與仲裁，主張確認書上的簽署為偽造。",
+    "經紀公司員工稱文件來自一名中間人，但該中間人未出庭作證，也沒有文件證明其代理權。",
+    "貿易商曾支付運費，但係代其供應商支付且與貨物買賣價款有關。"
+   ],
+   "issues": [
+    "被申請人不參與仲裁時，是否依國際仲裁法第 2A 條第 6 項「視為」成立仲裁協議？",
+    "貿易商是否授權簽署租船確認書？",
+    "支付運費是否成立含仲裁條款的租船契約，或構成追認？",
+    "應否依模範法第 34 條第 2 項 (a)(i) 款撤銷判斷？"
+   ],
+   "holding": "・視為協議：被申請人無須參與仲裁，可以等到判斷作成後再挑戰；其不參與時，申請人的主張並非「須予回應」，第 2A 條第 6 項不適用。該條僅處理形式要件，不能創設本不存在的仲裁協議。法院採上訴法院在 Richard Cheung 案的暫定見解，不採同級法院 Machlogic 案。\n・授權：專家證據支持偽造說法，經紀方將文件來源歸於一名未作證的中間人，且無證據顯示其有代理權，法院採信貿易商的證據。\n・運費：貿易商代供應商付款且與買賣價款有關，未參與運輸條件磋商，不足以證明成立租船契約；即使成立，亦無證據顯示其知悉仲裁條款。\n・追認：冒用本人名義的偽造者與無權代理人不同，其行為自始無效，不得追認。\n・結果：因無有效仲裁協議，依模範法第 34 條第 2 項 (a)(i) 款撤銷判斷；未審酌公共政策之備位理由。",
+   "significance": "本判決與同級法院 Machlogic 案見解不同；在上級法院表態前，申請人即使面對不出席的被申請人，仍須證明仲裁協議確實存在。對航運與大宗商品交易中常見的電子文件與「確認書」簽約方式，本案提醒簽署真實性與代理權的查核風險。",
+   "editorNote": "本網頁助理 註：本則依 Morgan Lewis 於 2026 年 10 月 21 日發表的評析撰寫，尚未取得判決原文；評析未載明判決日期，故裁判日期欄空白。",
+   "tags": [
+    "新加坡",
+    "撤銷仲裁判斷",
+    "仲裁協議",
+    "臨時仲裁",
+    "偽造",
+    "追認",
+    "第2A條",
+    "模範法第34條",
+    "航運",
+    "租船契約"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Morgan Lewis 評析",
+     "url": "https://www.morganlewis.com/pubs/2026/10/singapore-high-court-finds-no-valid-arbitration-agreement-and-sets-aside-arbitral-award",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-24T07:06:43+08:00"
   }
  ],
  "agenda": [
@@ -2497,6 +2780,16 @@
    "url": "https://www.solicitorsjournal.com/sjarticle/russian-federation-v-hulley-enterprises-court-of-appeal-orders-975000-security-for-costs",
    "relatedId": "2026-10-22-arb-ewca-yukos-russia-security-costs",
    "caseId": "yukos-v-russia"
+  },
+  {
+   "id": "2027-01-11-law-uncitral-wg3-56th-session",
+   "date": "2027-01-11",
+   "court": "LAW",
+   "title": "UNCITRAL 第三工作組（ISDS 改革）第 56 屆會議",
+   "note": "2027 年 1 月 11 日至 15 日，維也納；第 57 屆會議預定 2027 年 3 月 1 日至 5 日於紐約舉行",
+   "url": "https://uncitral.un.org/en/working_groups/3/investor-state",
+   "relatedId": "2026-10-16-arb-uncitral-wg3-55th-session",
+   "caseId": "isds-reform-wg3"
   }
  ],
  "archives": [],
@@ -2692,6 +2985,42 @@
    "caseRef": "[2026] HCA 9; [2026] EWCA Civ 797",
    "summary": "模里西斯投資人依模里西斯－印度雙邊投資協定就 S 頻段衛星契約遭撤銷取得判斷，在多國聲請承認與執行並爭執國家豁免。",
    "status": "英澳法院均認定批准紐約公約不構成放棄豁免；英國法院仍須審理國家豁免法第 9 條仲裁協議例外。"
+  },
+  {
+   "id": "freeport-v-peru",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Freeport-McMoRan 訴秘魯（Cerro Verde 權利金案）",
+   "nameOriginal": "Freeport-McMoRan Inc. v. Republic of Peru",
+   "caseRef": "ICSID Case No. ARB/20/8",
+   "summary": "美國礦業公司 Freeport 依美秘貿易促進協定，就秘魯對 Cerro Verde 銅礦追繳權利金、稅款及罰款利息提起仲裁；2024 年判斷駁回其請求。",
+   "status": "仲裁庭 2026 年 10 月就秘魯的解釋聲請作成決定，說明權利金罰款與利息請求係依實體駁回；Freeport 的部分撤銷程序目前停止中。"
+  },
+  {
+   "id": "rreef-v-spain",
+   "type": "案件",
+   "court": "COURT",
+   "field": "investment",
+   "forum": "比利時法院",
+   "name": "RREEF 訴西班牙（再生能源判斷之執行）",
+   "nameOriginal": "RREEF Infrastructure (G.P.) Limited and RREEF Pan-European Infrastructure Two Lux S.à r.l. v. Kingdom of Spain / Blasket Renewable Investments v. Spain",
+   "caseRef": "ICSID Case No. ARB/13/30",
+   "summary": "RREEF 依能源憲章條約就西班牙削減再生能源補貼取得約 5,960 萬歐元的 ICSID 判斷，債權受讓人 Blasket 在比利時扣押西班牙航管費以求執行。",
+   "status": "布魯塞爾第一審法院於 2026 年 10 月 20 日以歐盟法為由撤銷扣押並命返還款項，Blasket 是否上訴尚待觀察。"
+  },
+  {
+   "id": "garoube-v-cameroon",
+   "type": "案件",
+   "court": "COURT",
+   "field": "commercial",
+   "forum": "法國巴黎司法法院",
+   "name": "Garoubé 訴喀麥隆（ICC 判斷之執行）",
+   "nameOriginal": "Projet Pilote Garoubé / CFS 37 Funding LP v. République du Cameroun",
+   "caseRef": "",
+   "summary": "喀麥隆 2006 年終止北部野生動物區特許契約，ICC 仲裁庭 2021 年判命賠償約 1,788 萬歐元；仲裁融資基金在法國扣押喀麥隆的應收款以求執行。",
+   "status": "巴黎執行法官於 2026 年 10 月 5 日駁回喀麥隆解除扣押的聲請，喀麥隆得上訴。"
   }
  ]
 }
