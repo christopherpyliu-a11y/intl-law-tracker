@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-23T07:09:56+08:00",
-  "lastRunLocal": "2026-10-23 07:09",
+  "lastRun": "2026-10-23T23:18:02+08:00",
+  "lastRunLocal": "2026-10-23 23:18",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 4 則：商務仲裁 3（法院裁判 2、案件動態 1）、投資仲裁 1（仲裁判斷 1）",
+  "lastRunNote": "新增 5 則：投資仲裁 5（法院裁判 3、案件動態 1、評論 1）、商務仲裁 0",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -489,7 +489,9 @@
     "歐盟內部異議",
     "西班牙再生能源"
    ],
-   "related": [],
+   "related": [
+    "2026-10-22-arb-dj-devas-nyc-state-immunity"
+   ],
    "sources": [
     {
      "label": "新加坡上訴法院判決：[2026] SGCA 43（eLitigation）",
@@ -1661,7 +1663,9 @@
     "仲裁條例第26條",
     "香港"
    ],
-   "related": [],
+   "related": [
+    "2026-10-22-arb-iar-uniper-russia-hk-challenge"
+   ],
    "sources": [
     {
      "label": "HSF Kramer：Hong Kong court rejects apparent bias challenge based on arbitrator's previous writings（2026-10-21）",
@@ -2127,6 +2131,341 @@
     }
    ],
    "addedAt": "2026-10-23T07:09:56+08:00"
+  },
+  {
+   "id": "2026-10-22-arb-ewca-rakia-india-jurisdiction",
+   "court": "COURT",
+   "field": "investment",
+   "kind": "法院裁判",
+   "caseId": "rakia-v-india",
+   "jurisdiction": "英國",
+   "outlet": "英格蘭及威爾斯上訴法院",
+   "outletCode": "EWCA",
+   "date": "2026-10-22",
+   "eventDate": "2026-10-22",
+   "importance": 2,
+   "author": "",
+   "title": "英國上訴法院維持撤銷印度投資條約仲裁的無管轄權判斷：州政府取消鋁土礦供應契約，屬直接影響投資人持股的措施，RAKIA 對印度的請求將進入實體審理",
+   "shortTitle": "英國上訴法院：RAKIA 對印度仲裁可續行",
+   "point": "取消鋁土礦契約直接影響持股投資，仲裁庭的無管轄權判斷維持撤銷",
+   "titleOriginal": "Republic of India v Ras Al Khaimah Investment Authority [2026] EWCA Civ 1358 (22 October 2026)",
+   "caseRef": "[2026] EWCA Civ 1358",
+   "tldr": "阿聯酋拉斯海瑪投資局（RAKIA）持有印度一家鋁廠公司的股份，該廠仰賴州營公司供應鋁土礦，州政府後來取消供應契約。倫敦仲裁庭認為這只是間接影響 RAKIA 的股份，沒有管轄權；英國高等法院撤銷了這項判斷。上訴法院現在駁回印度的上訴，案件將回到仲裁庭審理實體。",
+   "memo": "英格蘭及威爾斯上訴法院於 2026 年 10 月 22 日就 Republic of India v RAKIA 案（[2026] EWCA Civ 1358）駁回印度之上訴，維持高等法院依 1996 年仲裁法第 67 條撤銷仲裁庭無管轄權判斷之判決。法院認為 RAKIA 之投資主要為其對 ANRAK 公司之持股，安得拉邦政府撤銷鋁土礦供應契約之措施因移除該公司營運之主要原料來源，直接適用於該投資，屬 2013 年印度－阿聯酋雙邊投資協定第 10.2 條之爭端；印度主張之狹義解釋將大幅限縮對股權投資之保護。法院另拒絕 RAKIA 於上訴審重提已於原審放棄之主張。",
+   "context": "RAKIA 投資約 4,250 萬美元取得 ANRAK Aluminium Limited 約 12% 股份；ANRAK 在印度安得拉邦興建氧化鋁精煉廠及發電廠，計畫仰賴與州營安得拉邦礦產開發公司（APMDC）簽訂的鋁土礦供應契約。\n2016 年，安得拉邦政府在民眾反對採礦後發布命令，撤銷先前對該契約的授權，APMDC 隨即終止契約。RAKIA 依 2013 年印度－阿聯酋雙邊投資協定，主張印度違反公平公正待遇並構成徵收，提起以倫敦為仲裁地的仲裁。\n2022 年 5 月，仲裁庭認定爭端不在協定仲裁條款範圍內：相關措施直接影響的是 ANRAK 與 APMDC，對 RAKIA 持股只有間接影響。2025 年 6 月，英國高等法院 Robin Knowles 法官依 1996 年仲裁法第 67 條撤銷該判斷（[2025] EWHC 1553 (Comm)），印度上訴。",
+   "facts": [
+    "RAKIA 持有 ANRAK 約 12% 股份，投資金額約 4,250 萬美元。",
+    "ANRAK 的計畫以 APMDC 依契約供應的鋁土礦為主要原料來源。",
+    "2016 年安得拉邦政府撤銷對供應契約的授權，APMDC 終止契約。",
+    "仲裁庭於 2022 年 5 月以無管轄權駁回；高等法院於 2025 年 6 月撤銷該判斷。",
+    "上訴法院由 Phillips 法官主筆，Miles 法官與 Males 法官同意結論，於 2026 年 10 月 22 日宣判。"
+   ],
+   "issues": [
+    "RAKIA 的「投資」究竟是其持股，或包括 ANRAK 的資產（如供應契約）？",
+    "州政府撤銷供應契約，是否屬協定第 10.2 條所稱直接涉及該投資的措施，抑或僅對持股產生間接影響？",
+    "RAKIA 可否在上訴審重提原審已放棄的「第 10 條構成獨立仲裁要約」主張？"
+   ],
+   "holding": "・法院同意印度的部分論點：投資是一項資產，主要即 RAKIA 的持股；但不採納 RAKIA 認為 ANRAK 自身資產（含供應契約）也屬其投資的備位主張。\n・依協定文字，持股應被視為在印度境內作成的投資；協定明定投資資產形式的改變不影響其投資性質。\n・撤銷供應契約移除了支撐 ANRAK 業務的主要鋁土礦來源，因此直接影響該投資；若採印度「措施必須觸及股份本身」的狹義解釋，將大幅限縮協定對股權投資的保護。\n・法院未沿用原審「針對性措施」與「一般行政行為」的區分，而將標準表述為：措施是直接適用於投資，或只是針對他處之行為所生的間接後果。\n・RAKIA 在原審已放棄「第 10 條構成獨立仲裁要約」的主張，允許其在上訴審重提將削弱原審法院的角色及仲裁挑戰程序的終局性，法院不予准許。\n・印度上訴駁回，撤銷無管轄權判斷的原判決維持。",
+   "significance": "仲裁庭的無管轄權判斷既已確定撤銷，爭端將回到仲裁庭審理實體；報導指 RAKIA 的請求金額約 2.73 億美元。本判決說明英國法院依第 67 條對投資條約管轄權問題進行全面審查，也涉及股東就公司層級措施提出條約請求時，「直接影響」標準如何適用。",
+   "editorNote": "本網頁助理 註：本則依 Solicitors Journal 對判決的報導撰寫，尚未取得上訴法院判決原文；高等法院原審判決連結為官方來源。IAReporter 與 Law360 報導僅見標題；約 2.73 億美元的請求金額僅見於 Law360 標題，尚未經公開來源核實。",
+   "tags": [
+    "撤銷仲裁判斷",
+    "第67條",
+    "管轄權",
+    "雙邊投資協定",
+    "股東請求",
+    "間接投資",
+    "徵收",
+    "公平公正待遇",
+    "印度",
+    "阿聯酋",
+    "英國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "英國高等法院原審判決 [2025] EWHC 1553 (Comm)",
+     "url": "https://caselaw.nationalarchives.gov.uk/ewhc/comm/2025/1553",
+     "official": true
+    },
+    {
+     "label": "Solicitors Journal 判決報導",
+     "url": "https://www.solicitorsjournal.com/sjarticle/republic-of-india-v-rakia-court-of-appeal-upholds-investor-state-arbitration-jurisdiction",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導（訂閱）",
+     "url": "https://www.iareporter.com/articles/uk-court-of-appeal-confirms-set-aside-of-award-that-declined-jurisdiction-over-treaty-claim-against-india/",
+     "official": false
+    },
+    {
+     "label": "Law360 報導（訂閱）",
+     "url": "https://www.law360.com/internationalarbitration/articles/2541216/india-loses-bid-to-block-273m-uae-investment-claim",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-23T23:18:02+08:00"
+  },
+  {
+   "id": "2026-10-22-arb-ewca-yukos-russia-security-costs",
+   "court": "COURT",
+   "field": "investment",
+   "kind": "法院裁判",
+   "caseId": "yukos-v-russia",
+   "jurisdiction": "英國",
+   "outlet": "英格蘭及威爾斯上訴法院",
+   "outletCode": "EWCA",
+   "date": "2026-10-22",
+   "eventDate": "2026-10-22",
+   "importance": 2,
+   "author": "",
+   "title": "Yukos 前股東執行約 500 億美元判斷：英國上訴法院命俄羅斯為其上訴提供 97.5 萬英鎊訴訟費用擔保，逾期未提供即駁回上訴",
+   "shortTitle": "Yukos 執行案：英國法院命俄羅斯提供擔保",
+   "point": "俄國過去遲延付費、英國費用裁定難在俄國執行，須於 2027 年 3 月前提供 97.5 萬英鎊",
+   "titleOriginal": "The Russian Federation v Hulley Enterprises Limited & Ors [2026] EWCA Civ 1353 (22 October 2026)",
+   "caseRef": "[2026] EWCA Civ 1353",
+   "tldr": "Yukos 石油公司的前大股東在英國聲請承認與執行三份對俄羅斯的仲裁判斷，金額約 500 億美元加利息。俄羅斯對承認執行的裁定提起上訴，英國上訴法院認為俄國過去付費拖延，英國的費用裁定也很難在俄國執行，因此命俄國先提供 97.5 萬英鎊擔保，逾期未提供，上訴即被駁回。",
+   "memo": "英格蘭及威爾斯上訴法院於 2026 年 10 月 22 日就 Russian Federation v Hulley Enterprises 案（[2026] EWCA Civ 1353）命俄羅斯聯邦就其對承認與執行三份荷蘭仲裁判斷（請求約 500 億美元加計利息）之上訴提供訴訟費用擔保 975,000 英鎊，應於 2027 年 3 月 1 日下午 4 時前提供，逾期未提供上訴即予駁回。法院認為俄羅斯先前之費用給付遲延且利息未清償，英國費用裁定於俄國存有難以執行之實質風險，且無證據顯示擔保將妨礙其上訴；依民事訴訟規則第 25 部分聲請擔保與依第 52.18 條請求附加上訴條件有別，前者不受後者限制。",
+   "context": "Hulley Enterprises、Yukos Universal 與 Veteran Petroleum 三家前 Yukos 股東依能源憲章條約對俄羅斯提起仲裁，2014 年取得三份以海牙為仲裁地的判斷，合計約 500 億美元。俄羅斯在荷蘭法院長期爭執判斷效力，投資人則在多國聲請承認與執行，包括英國。\n依報導，英國高等法院 Bright 法官於 2026 年 3 月作出先決裁定，命俄羅斯負擔相關費用並先行支付 250 萬英鎊；俄羅斯就承認與執行提起上訴，投資人則聲請命俄國提供訴訟費用擔保。",
+   "facts": [
+    "俄羅斯先前被命支付的期中費用遲延，於 2026 年 8 月分兩期支付，利息仍未清償。",
+    "投資人提出的費用預估逾 360 萬英鎊。",
+    "上訴法院由 Fancourt 法官主筆，Phillips 法官同意。"
+   ],
+   "issues": [
+    "是否應依民事訴訟規則（CPR）第 25 部分命上訴人俄羅斯提供訴訟費用擔保？",
+    "CPR 第 25 部分的擔保聲請，是否受第 52.18 條就上訴附加條件之限制？",
+    "是否需要俄國法上執行可能性的專家證據？"
+   ],
+   "holding": "・俄羅斯過去的付款紀錄無法合理確保其敗訴時會即時支付費用。\n・考量政治情勢及俄羅斯對外國司法與仲裁決定的態度，英國費用裁定在俄國存有無法執行的實質風險；在此特殊情形下無須俄國法專家證據。\n・無證據顯示提供擔保將使俄羅斯無法進行上訴。\n・CPR 第 25 部分的擔保聲請與第 52.18 條的上訴附加條件聲請不同，後者的限制不適用於前者；法院亦未對上訴本身附加其他條件。\n・擔保金額定為 975,000 英鎊（出庭律師（counsel）相關費用 60 萬英鎊、事務律師費用及其他支出 37.5 萬英鎊），遠低於投資人逾 360 萬英鎊的預估。\n・俄羅斯須於 2027 年 3 月 1 日下午 4 時前提供擔保，否則上訴不待另行裁定即予駁回；上訴不得排定於 2027 年 6 月 9 日之前審理。",
+   "significance": "本裁定使俄羅斯在英國的上訴以提供擔保為前提；若俄國未於期限內提供，英國的承認與執行裁定將不再受上訴影響。這也顯示英國法院在對國家執行投資判斷的程序中，會考量該國不履行外國裁判的紀錄。",
+   "editorNote": "本網頁助理 註：本則依 Solicitors Journal 對判決的報導撰寫，尚未取得判決原文；IAReporter 與 Law360 報導僅見標題。高等法院 2026 年 3 月裁定的內容僅依該報導轉述。",
+   "tags": [
+    "承認與執行",
+    "訴訟費用擔保",
+    "國家豁免",
+    "能源憲章條約",
+    "Yukos",
+    "俄羅斯",
+    "英國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Solicitors Journal 判決報導",
+     "url": "https://www.solicitorsjournal.com/sjarticle/russian-federation-v-hulley-enterprises-court-of-appeal-orders-975000-security-for-costs",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導（訂閱）",
+     "url": "https://www.iareporter.com/articles/uk-court-of-appeal-orders-russia-to-provide-security-for-costs-in-yukos-shareholders-enforcement-proceedings/",
+     "official": false
+    },
+    {
+     "label": "Law360 報導（訂閱）",
+     "url": "https://www.law360.com/articles/2541240/russia-must-put-up-security-in-50b-yukos-award-suit",
+     "official": false
+    },
+    {
+     "label": "Solicitor News 報導",
+     "url": "https://solicitornews.co.uk/russia-security-for-costs-yukos-case/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-23T23:18:02+08:00"
+  },
+  {
+   "id": "2026-10-22-arb-oslo-naftogaz-russia-attachment",
+   "court": "COURT",
+   "field": "investment",
+   "kind": "法院裁判",
+   "caseId": "naftogaz-v-russia",
+   "jurisdiction": "挪威",
+   "outlet": "IAReporter 與挪威媒體報導",
+   "outletCode": "IAR",
+   "date": "2026-10-22",
+   "eventDate": "2026-09-22",
+   "importance": 2,
+   "author": "",
+   "title": "Naftogaz 執行克里米亞投資仲裁判斷：奧斯陸地方法院准予假扣押俄羅斯在奧斯陸的五處不動產，俄國表示將提出異議",
+   "shortTitle": "挪威法院假扣押俄國奧斯陸房產",
+   "point": "五處房產出租於市場，不受外交豁免保護；Naftogaz 連同利息求償約 570 億挪威克朗",
+   "titleOriginal": "Naftogaz v. Russian Federation — attachment (arrest) of Russian-owned real estate in Oslo, Oslo tingrett",
+   "caseRef": "PCA Case No. 2017-16",
+   "tldr": "烏克蘭國營能源公司 Naftogaz 因俄羅斯併吞克里米亞，在海牙取得對俄國的仲裁判斷。挪威奧斯陸地方法院准許 Naftogaz 假扣押俄國在奧斯陸的一棟公寓大樓和四戶公寓，理由是這些房產在市場上出租，不是外交用途。俄國大使館表示事先未獲通知，將提起法律程序。",
+   "memo": "依挪威媒體報導，奧斯陸地方法院（Oslo tingrett）准許 Naftogaz 對俄羅斯聯邦所有、位於奧斯陸之一棟公寓大樓及四戶合作公寓實施假扣押，以保全其依 2023 年海牙仲裁判斷所生之請求（連同利息及費用約 570 億挪威克朗）；法院認定該等房產於市場出租，非供外交使用，不受外交豁免保護。俄羅斯未於裁定前受通知，得聲請言詞審理以爭執該裁定，如提供 400 億挪威克朗擔保亦得解除假扣押。",
+   "context": "Naftogaz 及其子公司就俄羅斯 2014 年併吞克里米亞後其在當地資產遭奪取，依 1998 年俄羅斯－烏克蘭雙邊投資協定對俄羅斯提起 UNCITRAL 仲裁（PCA Case No. 2017-16），2023 年取得以海牙為仲裁地的判斷。俄羅斯在荷蘭法院聲請撤銷該判斷；依報導，荷蘭上訴法院已暫時中止該判斷的效力，待言詞審理。\n挪威方面，俄羅斯船舶 Professor Moltsjanov 自 2026 年 9 月 2 日起因同一請求在斯瓦巴群島的 Barentsburg 遭扣押，俄方指控挪威違反斯瓦巴條約。",
+   "facts": [
+    "遭假扣押的房產為 Frogner 區一棟公寓大樓，以及奧斯陸西區與 Sinsen 等地的四戶合作公寓。",
+    "法院認定房產在一般市場出租，因此不受外交豁免保護。",
+    "Naftogaz 主張本金約 400 億挪威克朗，連同利息與費用約 570 億挪威克朗。",
+    "俄羅斯未於裁定前受通知；俄國駐奧斯陸大使館表示係從媒體得知，將採取法律行動。"
+   ],
+   "issues": [
+    "外國國家所有、用於商業出租的不動產，可否作為執行投資仲裁判斷的假扣押標的？",
+    "判斷在仲裁地遭暫停效力時，他國法院可否准予保全措施？"
+   ],
+   "holding": "・奧斯陸地方法院准予 Naftogaz 對五處俄國所有房產實施假扣押，作為可能強制出售的第一步。\n・法院認定房產在市場出租、非外交使用，不受外交豁免保護。\n・俄羅斯可聲請言詞審理，請求宣告假扣押裁定無效；如俄國司法部提供 400 億挪威克朗擔保，假扣押可解除。",
+   "significance": "這是 Naftogaz 對俄羅斯在歐洲執行克里米亞判斷的又一進展，與斯瓦巴船舶扣押並行。俄國已表明將爭執，後續將視奧斯陸法院的言詞審理，以及荷蘭撤銷程序的結果而定。",
+   "editorNote": "本網頁助理 註：本則依挪威媒體（Document.no、Aftenposten）報導撰寫，尚未取得法院裁定原文；IAReporter 報導僅見標題。裁定日期 2026 年 9 月 22 日僅見於 Document.no，Aftenposten 未載。IAReporter 標題稱判斷約 60 億美元，挪威媒體則以挪威克朗表示（含利息及費用約 570 億），兩者計算基礎可能不同。荷蘭上訴法院暫停判斷效力一節僅見於 Aftenposten 報導，Law360 於 10 月 15 日亦報導 Naftogaz 在荷蘭受挫，細節未能核實。",
+   "tags": [
+    "承認與執行",
+    "假扣押",
+    "國家豁免",
+    "外交豁免",
+    "克里米亞",
+    "雙邊投資協定",
+    "Naftogaz",
+    "俄羅斯",
+    "烏克蘭",
+    "挪威",
+    "PCA"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Aftenposten 報導（挪威文）",
+     "url": "https://www.aftenposten.no/norge/i/kvjokA/russland-varsler-kamp-mot-arrest-av-fem-eiendommer-i-oslo",
+     "official": false
+    },
+    {
+     "label": "Document.no 報導（挪威文）",
+     "url": "https://www.document.no/2026/10/20/oslo-tingrett-lot-naftogaz-ta-arrest-i-russiske-eiendommer-i-oslo",
+     "official": false
+    },
+    {
+     "label": "VG 報導（挪威文）",
+     "url": "https://www.vg.no/nyheter/i/zl32yv/tok-arrest-i-russiske-oslo-eiendommer-krever-40-milliarder-kroner",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導（訂閱）",
+     "url": "https://www.iareporter.com/articles/norwegian-court-seizes-russias-oslo-real-estate-in-satisfaction-of-6-billion-usd-naftogaz-award/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-23T23:18:02+08:00"
+  },
+  {
+   "id": "2026-10-22-arb-dj-devas-nyc-state-immunity",
+   "court": "OTHER",
+   "field": "investment",
+   "kind": "實務評論",
+   "caseId": "devas-v-india",
+   "jurisdiction": "",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-10-22",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Imogen Kenny-Bartlett、Wajih Jaroudi（Herbert Smith Freehills Kramer）",
+   "title": "加入紐約公約不等於放棄國家豁免：作者比較澳洲高等法院與英國上訴法院在 Devas 對印度執行案的判決，建議投資人優先考慮 ICSID",
+   "shortTitle": "加入紐約公約，不等於放棄豁免",
+   "point": "作者指出英澳法院路徑不同但結論一致，投資人應考慮 ICSID 或約定明示放棄豁免",
+   "titleOriginal": "State Immunity and the New York Convention: English and Australian Perspectives",
+   "caseRef": "[2026] HCA 9; [2026] EWCA Civ 797",
+   "tldr": "模里西斯投資人 Devas 等對印度取得投資仲裁判斷後，在澳洲和英國聲請執行。兩國最高層級的相關法院都認為：印度加入紐約公約，不代表放棄國家豁免。作者分析兩院理由的異同，並指出：想避開豁免問題，投資人可選 ICSID，或在契約中約定明確放棄豁免。",
+   "memo": "Imogen Kenny-Bartlett 與 Wajih Jaroudi（Herbert Smith Freehills Kramer）於 Daily Jus 撰文指出，澳洲高等法院（[2026] HCA 9，2026 年 4 月 8 日）與英格蘭及威爾斯上訴法院（[2026] EWCA Civ 797，2026 年 6 月 24 日）於 CC/Devas 對印度執行案均認定，國家批准紐約公約並不構成放棄執行管轄豁免：澳洲高等法院以放棄須明確無疑為前提，英國上訴法院依 Benkharbouche 案將第 3 條「程序規則」解為包含豁免規則；兩院並均拒絕比附 ICSID 公約。作者認為各國見解已趨一致，惟仲裁協議例外（英國國家豁免法第 9 條）仍待審理，建議投資人考慮 ICSID 仲裁或於契約中約定明示放棄豁免。",
+   "context": "CC/Devas（Mauritius）等模里西斯投資人依 1998 年模里西斯－印度雙邊投資協定，就印度撤銷兩顆衛星 S 頻段租賃契約提起仲裁，仲裁庭認定印度違約並於 2020 年作出賠償判斷，投資價值認定約 7.4 億美元。投資人在多國聲請承認與執行。\n澳洲：聯邦法院原審（[2023] FCA 1266）認為紐約公約第 3 條默示放棄豁免；合議庭 2025 年 1 月以印度的「商事保留」為由廢棄。英國：高等法院（[2025] EWHC 964）認為批准公約不構成國家豁免法第 2(2) 條的「事前書面協議」。投資人分別上訴至澳洲高等法院與英國上訴法院。",
+   "facts": [
+    "澳洲高等法院於 2026 年 4 月 8 日、英國上訴法院於 2026 年 6 月 24 日分別判決，均認定批准紐約公約不構成放棄豁免。",
+    "作者指本案在英國不會上訴至最高法院。",
+    "魁北克上訴法院 2024 年 12 月 4 日在加拿大執行程序中認定印度放棄豁免，但理由是印度另簽署投資協定並參與仲裁。"
+   ],
+   "issues": [
+    "國家批准紐約公約，是否構成接受他國法院承認與執行管轄的放棄豁免或事前書面同意？",
+    "紐約公約第 3 條「程序規則」是否包含國家豁免規則？",
+    "可否比照 ICSID 公約的處理？"
+   ],
+   "holding": "・澳洲高等法院從「反對推定放棄」出發，要求國際協定中的放棄必須明確無疑；公約未提及豁免、準備工作文件亦少有討論，並將第 3 條「程序規則」解為包含豁免規則。\n・英國上訴法院依 Benkharbouche 與 Jones 案，採 Sumption 勳爵對「程序規則」的廣義定義（與請求實體無關而阻止請求的規則），認定無接受英國管轄之意；並指澳洲下級法院未認真處理「程序規則」，削弱其說服力。\n・兩院均拒絕比附 ICSID 公約：ICSID 專為涉及國家的爭端設計、明文處理豁免，且第 54(1) 條要求視同本國確定判決執行；紐約公約則兼涉私人爭端、對豁免沉默，第 3 條依當地程序規則執行。\n・作者指出澳洲、英國、德國、美國與加拿大的見解大致一致：單純批准紐約公約不構成放棄豁免。",
+   "significance": "作者結論：兩判決只處理「批准公約」一點，仲裁協議例外（英國國家豁免法第 9 條、澳洲外國國家豁免法第 17 條）未決，英國法院仍須判斷協定仲裁條款是否觸發第 9 條。由於澳洲高等法院與英國最高法院已認定批准 ICSID 公約即放棄登記程序的豁免，投資人可優先考慮 ICSID；與國家或享有豁免的實體締約時，應約定明示放棄豁免。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。",
+   "tags": [
+    "國家豁免",
+    "紐約公約",
+    "承認與執行",
+    "ICSID",
+    "雙邊投資協定",
+    "Devas",
+    "印度",
+    "模里西斯",
+    "英國",
+    "澳洲"
+   ],
+   "related": [
+    "2026-10-19-arb-sgca-nextera-spain-immunity"
+   ],
+   "sources": [
+    {
+     "label": "英國上訴法院判決 [2026] EWCA Civ 797（Jus Mundi）",
+     "url": "https://jusmundi.com/en/document/decision/en-cc-devas-mauritius-ltd-devas-employees-mauritius-private-limited-and-telcom-devas-mauritius-limited-v-republic-of-india-judgment-of-the-court-of-appeal-of-england-and-wales-2026-ewca-civ-797-wednesday-24th-june-2026",
+     "official": false
+    },
+    {
+     "label": "Daily Jus：State Immunity and the New York Convention（2026-10-22）",
+     "url": "https://dailyjus.com/world/2026/10/state-immunity-and-the-new-york-convention-english-and-australian-perspectives",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-23T23:18:02+08:00"
+  },
+  {
+   "id": "2026-10-22-arb-iar-uniper-russia-hk-challenge",
+   "court": "NEWS",
+   "field": "investment",
+   "kind": "案件動態",
+   "caseId": "",
+   "jurisdiction": "香港",
+   "outlet": "IAReporter",
+   "outletCode": "IAR",
+   "date": "2026-10-22",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "IAReporter 報導：俄羅斯在香港法院聲請迴避 Uniper 對俄國雙邊投資協定仲裁的仲裁人 Stephan Schill 失敗，並揭露兩件平行仲裁的仲裁庭組成",
+   "shortTitle": "Uniper 訴俄羅斯：迴避 Schill 失敗",
+   "point": "IAReporter 稱俄國在香港法院挑戰仲裁人未果，平行兩案仲裁庭組成同時曝光",
+   "titleOriginal": "Russia fails to dislodge Stephan Schill from Uniper v. Russia BIT arbitration before Hong Kong court; tribunals hearing twin arbitrations are revealed",
+   "caseRef": "",
+   "tldr": "德國能源公司 Uniper 依雙邊投資協定對俄羅斯提起以香港為仲裁地的仲裁。依 IAReporter 報導標題，俄羅斯請求香港法院撤換仲裁人 Stephan Schill 未獲准許，Uniper 對俄國的兩件平行仲裁的仲裁庭成員也因此曝光。",
+   "memo": "依 IAReporter 2026 年 10 月 22 日報導標題，俄羅斯聯邦於香港法院聲請迴避 Uniper 對俄羅斯雙邊投資協定仲裁之仲裁人 Stephan Schill，未獲准許；報導並揭露審理兩件平行仲裁之仲裁庭組成。報導內文需訂閱，案件請求內容、金額及法院裁判日期均未公開。",
+   "context": "香港法院本月另有一則經匿名處理的判決（R v C [2026] HKCFI 4688），駁回地主國對投資條約仲裁人的迴避聲請，理由涉及仲裁人學術著作、在平行案件中受選任與國籍；該案投資人另依能源憲章條約對同一國家提起平行仲裁，並選任同一仲裁人。Global Arbitration Review 亦以「香港法院駁回俄羅斯對雙邊投資協定案德籍仲裁人的迴避聲請」為題報導。",
+   "facts": [
+    "IAReporter 於 2026 年 10 月 22 日以標題報導俄羅斯在香港法院迴避 Schill 失敗。",
+    "報導稱兩件平行（twin）仲裁的仲裁庭組成已經揭露。"
+   ],
+   "issues": [
+    "香港《仲裁條例》第 26 條下，地主國對投資條約仲裁人的迴避標準。"
+   ],
+   "holding": "依報導標題，香港法院駁回俄羅斯的迴避聲請；其餘內容未能取得。",
+   "significance": "若與 R v C 案為同一程序，本案顯示香港作為投資條約仲裁地的角色，以及香港法院對仲裁人學術著作與平行選任的審查標準。",
+   "editorNote": "本網頁助理 註：本則僅依 IAReporter 與 Global Arbitration Review 的標題撰寫，兩者內文均需訂閱，未能核實細節。以下為本網頁助理補充，非來源內容：HSF Kramer 評析的匿名判決 R v C [2026] HKCFI 4688（見相關則）在案情上與本案相符（香港仲裁地、雙邊投資協定與能源憲章條約平行兩案、同一仲裁人），可能即為同一程序，但尚無公開來源確認，故未設定案件連結。",
+   "tags": [
+    "仲裁人迴避",
+    "偏頗外觀",
+    "雙邊投資協定",
+    "能源憲章條約",
+    "香港",
+    "俄羅斯",
+    "德國",
+    "Uniper"
+   ],
+   "related": [
+    "2026-10-21-arb-hk-bit-arbitrator-challenge-writings"
+   ],
+   "sources": [
+    {
+     "label": "IAReporter 報導（訂閱）",
+     "url": "https://www.iareporter.com/articles/russia-fails-to-dislodge-stephan-schill-from-uniper-v-russia-bit-arbitration-before-hong-kong-court-tribunals-hearing-twin-arbitrations-are-revealed/",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review 報導（訂閱）",
+     "url": "https://globalarbitrationreview.com/article/hong-kong-court-rejects-russias-challenge-german-arbitrator-in-bit-case",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-23T23:18:02+08:00"
   }
  ],
  "agenda": [
@@ -2138,6 +2477,26 @@
    "note": "律政司公布專家工作小組建議，包括仲裁協議準據法預設為仲裁地法、仲裁庭簡易處分權、撤銷期限延長等。",
    "url": "https://www.info.gov.hk/gia/general/202609/28/P2026092800357.htm",
    "relatedId": ""
+  },
+  {
+   "id": "2026-12-14-law-uncitral-wg2-supplementary-provisions",
+   "date": "2026-12-14",
+   "court": "LAW",
+   "title": "UNCITRAL 第二工作組第 84 屆會議：研議將投資爭端補充規定納入 UNCITRAL 仲裁規則",
+   "note": "維也納，2026 年 12 月 14–16 日及 18 日（17 日休會），14 日上午 10 時開幕",
+   "url": "https://uncitral.un.org/sites/default/files/2026-10/wp-245_advance_copy.pdf",
+   "relatedId": "",
+   "caseId": "isds-reform-wg3"
+  },
+  {
+   "id": "2027-03-01-court-yukos-russia-security-deadline",
+   "date": "2027-03-01",
+   "court": "COURT",
+   "title": "Yukos 執行案：俄羅斯向英國上訴法院提供 97.5 萬英鎊費用擔保期限",
+   "note": "倫敦時間下午 4 時前；逾期上訴即遭駁回",
+   "url": "https://www.solicitorsjournal.com/sjarticle/russian-federation-v-hulley-enterprises-court-of-appeal-orders-975000-security-for-costs",
+   "relatedId": "2026-10-22-arb-ewca-yukos-russia-security-costs",
+   "caseId": "yukos-v-russia"
   }
  ],
  "archives": [],
@@ -2285,6 +2644,54 @@
    "caseRef": "",
    "summary": "哈薩克依 Kashagan 油田產品分成協議，對 NCOC 財團就開發成本、收益分配等事項提起高額仲裁。",
    "status": "依 2026 年 10 月 22 日報導，仲裁庭以逾期駁回約 120 億美元的成本請求，其餘約 80 億美元仍待審理。"
+  },
+  {
+   "id": "rakia-v-india",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "UNCITRAL 仲裁（倫敦）、英國法院",
+   "name": "RAKIA 訴印度（安得拉邦鋁土礦案）",
+   "nameOriginal": "Ras Al Khaimah Investment Authority v. Republic of India",
+   "caseRef": "[2025] EWHC 1553 (Comm); [2026] EWCA Civ 1358",
+   "summary": "阿聯酋拉斯海瑪投資局依印度－阿聯酋雙邊投資協定，就安得拉邦政府撤銷 ANRAK 鋁廠鋁土礦供應契約對印度求償。",
+   "status": "英國上訴法院 2026 年 10 月 22 日維持撤銷仲裁庭無管轄權判斷，案件將回仲裁庭審理實體。"
+  },
+  {
+   "id": "yukos-v-russia",
+   "type": "案件",
+   "court": "COURT",
+   "field": "investment",
+   "forum": "英國法院等",
+   "name": "Yukos 前股東訴俄羅斯（約 500 億美元判斷之執行）",
+   "nameOriginal": "Hulley Enterprises Ltd, Yukos Universal Ltd and Veteran Petroleum Ltd v. Russian Federation",
+   "caseRef": "PCA Case Nos. AA 226-228; [2026] EWCA Civ 1353",
+   "summary": "Yukos 前股東依能源憲章條約取得約 500 億美元的 2014 年判斷，於荷蘭以外多國聲請承認與執行。",
+   "status": "英國上訴法院 2026 年 10 月 22 日命俄羅斯於 2027 年 3 月 1 日前為其上訴提供 97.5 萬英鎊費用擔保。"
+  },
+  {
+   "id": "naftogaz-v-russia",
+   "type": "案件",
+   "court": "COURT",
+   "field": "investment",
+   "forum": "常設仲裁法院（PCA）、荷蘭及挪威等國法院",
+   "name": "Naftogaz 訴俄羅斯（克里米亞資產判斷之執行）",
+   "nameOriginal": "NJSC Naftogaz of Ukraine and others v. Russian Federation",
+   "caseRef": "PCA Case No. 2017-16",
+   "summary": "Naftogaz 就克里米亞資產遭奪取，依俄烏雙邊投資協定取得 2023 年海牙判斷，俄羅斯在荷蘭聲請撤銷，Naftogaz 在多國聲請執行。",
+   "status": "奧斯陸地方法院准予假扣押俄國在奧斯陸五處房產，俄羅斯表示將提出異議。"
+  },
+  {
+   "id": "devas-v-india",
+   "type": "案件",
+   "court": "COURT",
+   "field": "investment",
+   "forum": "英國、澳洲、美國、加拿大等國法院",
+   "name": "Devas 等訴印度（衛星頻段判斷之執行）",
+   "nameOriginal": "CC/Devas (Mauritius) Ltd, Devas Employees Mauritius Pvt Ltd and Telcom Devas Mauritius Ltd v. Republic of India",
+   "caseRef": "[2026] HCA 9; [2026] EWCA Civ 797",
+   "summary": "模里西斯投資人依模里西斯－印度雙邊投資協定就 S 頻段衛星契約遭撤銷取得判斷，在多國聲請承認與執行並爭執國家豁免。",
+   "status": "英澳法院均認定批准紐約公約不構成放棄豁免；英國法院仍須審理國家豁免法第 9 條仲裁協議例外。"
   }
  ]
 }
