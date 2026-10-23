@@ -5,9 +5,9 @@
 <meta name="author" content="PY Liu">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#142D43">
-<meta name="description" content="每日兩次更新的國際法動態：國際公法（國際法院、國際刑事法院、區域人權法院、國際海洋法法庭與學術評論）與國際仲裁法（國際商務仲裁與投資條約仲裁的法院裁判、仲裁判斷、機構規則與評論），附白話脈絡摘要與原始資料連結。">
+<meta name="description" content="每日兩次更新的國際法動態：國際公法（國際法院、國際刑事法院、區域人權法院、國際海洋法法庭與學術評論）、國際仲裁法（國際商務仲裁與投資條約仲裁的法院裁判、仲裁判斷、機構規則與評論）與跨國鎮壓（威權政府跨境追緝、騷擾海外異議人士的事件、司法案件與研究），附白話脈絡摘要與原始資料連結。">
 <meta property="og:title" content="國際法動態追蹤">
-<meta property="og:description" content="國際公法、國際商務仲裁與投資條約仲裁的最新判決與動態，附白話脈絡摘要與原始資料連結。">
+<meta property="og:description" content="國際公法、國際商務仲裁與投資條約仲裁、跨國鎮壓的最新判決與動態，附白話脈絡摘要與原始資料連結。">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://christopherpyliu-a11y.github.io/intl-law-tracker/">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230A2540'/%3E%3Cpath d='M32 14v34M18 22h28M22 22l-7 14h14zM42 22l-7 14h14zM24 48h16' stroke='%23C9A227' stroke-width='3.2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
@@ -213,6 +213,8 @@ h1 { font-family: var(--f-display); font-weight: 700; font-size: 30px; line-heig
   .sec-tab .n { padding: 0 5px; font-size: 11px; }
 }
 @media (max-width: 760px) { .sections { flex: 1 1 0; } }
+.sec-tab .short { display: none; }
+@media (max-width: 600px) { .sec-tab .full { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; } .sec-tab .short { display: inline; } }
 @media (max-width: 440px) { .sec-tab .n { display: none; } }
 @media (max-width: 400px) { .sec-tab { padding-inline: 6px; letter-spacing: 0.02em; } }
 
@@ -606,11 +608,12 @@ body[data-sec="home"] .reader:empty { display: none; }
   .hl-side .hl-link { padding-left: 36px; }
 }
 /* the two sections: name, one line of scope and an arrow link, divided by a hairline */
-.dm-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); border-top: 1px solid var(--line-strong); }
+.dm-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); border-top: 1px solid var(--line-strong); }
 .dm { min-width: 0; }
 .dm + .dm { border-left: 1px solid var(--line); }
-.dm-link { display: grid; gap: 8px; padding: 22px 36px 24px 0; color: var(--ink); text-decoration: none; }
-.dm + .dm .dm-link { padding: 22px 0 24px 36px; }
+.dm-link { display: grid; gap: 8px; padding: 22px 32px 24px 0; color: var(--ink); text-decoration: none; }
+.dm + .dm .dm-link { padding: 22px 32px 24px 32px; }
+.dm:last-child .dm-link { padding-right: 0; }
 .dm-link:hover { color: var(--ink); }
 .dm-link:focus-visible { outline-offset: 4px; }
 .dm-name { margin: 0; font-family: var(--f-display); font-weight: 700; font-size: 22px; line-height: 1.3; letter-spacing: 0.08em; color: var(--heading); }
@@ -631,10 +634,10 @@ a.nx-title { text-decoration: none; }
 a.nx-title:hover { color: var(--link); text-decoration: underline; text-underline-offset: 3px; }
 .nx-type { font-size: var(--s-xs); line-height: 1.6; color: var(--tag-ink); background: var(--tag-bg); border-radius: var(--radius-sm); padding: 0 7px; white-space: nowrap; }
 .nx-more { justify-self: start; }
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   .dm-list { grid-template-columns: minmax(0, 1fr); }
   .dm + .dm { border-left: 0; border-top: 1px solid var(--line); }
-  .dm-link, .dm + .dm .dm-link { padding: 20px 0 22px; }
+  .dm-link, .dm + .dm .dm-link, .dm:last-child .dm-link { padding: 20px 0 22px; }
 }
 @media (max-width: 640px) {
   .home-lede { font-size: 18px; }
@@ -847,7 +850,7 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
 <footer class="foot">
   <div class="wrap foot-inner">
     <span class="foot-name">國際法動態追蹤</span>
-    <span>國際公法與國際仲裁法動態，每日早晚兩次更新</span>
+    <span>國際公法、國際仲裁法與跨國鎮壓動態，每日早晚兩次更新</span>
     <span>各則內容以所附原始資料為準</span>
     <span class="foot-by">網站維護者：PY Liu（<a href="mailto:christopher.py.liu@gmail.com">christopher.py.liu@gmail.com</a>）</span>
   </div>
@@ -900,6 +903,38 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
       emptyText: "每日排程更新後，新的仲裁動態會依日期排列在這裡。",
       filterHint: "試著清除搜尋字詞，或改選「全部」。"
     },
+    // 跨國鎮壓: the chip on each entry names the state the entry concerns (as reported or alleged), not the outlet
+    tnr: {
+      label: "跨國鎮壓", en: "Transnational Repression", file: "tnr.json", codeFromCat: true,
+      eyebrow: "Transnational Repression Monitor",
+      cats: {
+        CN:    { code: "中國",     zh: "中國（含香港、西藏、新疆）", en: "China" },
+        IR:    { code: "伊朗",     zh: "伊朗",       en: "Iran" },
+        RU:    { code: "俄羅斯",   zh: "俄羅斯",     en: "Russia" },
+        BY:    { code: "白俄羅斯", zh: "白俄羅斯",   en: "Belarus" },
+        VN:    { code: "越南",     zh: "越南",       en: "Vietnam" },
+        LA:    { code: "寮國",     zh: "寮國",       en: "Laos" },
+        KH:    { code: "柬埔寨",   zh: "柬埔寨",     en: "Cambodia" },
+        TH:    { code: "泰國",     zh: "泰國",       en: "Thailand" },
+        IN:    { code: "印度",     zh: "印度",       en: "India" },
+        PK:    { code: "巴基斯坦", zh: "巴基斯坦",   en: "Pakistan" },
+        TJ:    { code: "塔吉克",   zh: "塔吉克",     en: "Tajikistan" },
+        TR:    { code: "土耳其",   zh: "土耳其",     en: "Turkey" },
+        SA:    { code: "沙烏地",   zh: "沙烏地阿拉伯", en: "Saudi Arabia" },
+        EG:    { code: "埃及",     zh: "埃及",       en: "Egypt" },
+        RW:    { code: "盧安達",   zh: "盧安達",     en: "Rwanda" },
+        ER:    { code: "厄利垂亞", zh: "厄利垂亞",   en: "Eritrea" },
+        NI:    { code: "尼加拉瓜", zh: "尼加拉瓜",   en: "Nicaragua" },
+        MULTI: { code: "多國",     zh: "多國／綜合", en: "Multiple states" },
+        OTHER: { code: "其他",     zh: "",           en: "Other states" }
+      },
+      order: ["CN", "IR", "RU", "BY", "VN", "LA", "KH", "TH", "IN", "PK", "TJ", "TR", "SA", "EG", "RW", "ER", "NI", "MULTI", "OTHER"],
+      genres: { news: "事件與動態", comment: "評論" },
+      placeholder: "搜尋人名、國家、手法（例：懸紅、遣返、國際刑警組織）",
+      loadingText: "威權政府跨越國界監視、恐嚇、綁架或懲罰海外異議人士的事件、司法案件與研究報告會顯示在這裡。",
+      emptyText: "每日排程更新後，新的跨國鎮壓動態會依日期排列在這裡。",
+      filterHint: "試著移除部分篩選條件，或按「清除全部」。"
+    },
     week: {
       label: "本週重點", en: "Weekly", file: "digest.json", digest: true, page: true,
       eyebrow: "Weekly Briefing",
@@ -908,11 +943,14 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
   };
   SECTIONS.home = {
     label: "首頁", en: "Home", home: true, page: true,
-    eyebrow: "International Law Docket · Courts, Tribunals & Arbitration",
+    eyebrow: "International Law Docket · Courts, Arbitration & Transnational Repression",
     cats: {}, order: [], placeholder: "", loadingText: "", emptyText: "", filterHint: ""
   };
   SECTIONS.pil.scope = "國際法院、國際刑事法院、歐洲／美洲／非洲人權法院、國際海洋法法庭的判決、裁定與程序進展，以及 EJIL:Talk!、Opinio Juris 的學術評論。";
   SECTIONS.arb.scope = "國際商務仲裁與以國家為被申請人的投資條約仲裁：各國法院裁判、仲裁判斷、仲裁機構規則、立法改革與實務評論。";
+  SECTIONS.tnr.scope = "威權政府跨越國界監視、恐嚇、綁架或懲罰海外異議人士、記者與少數族群：事件與個案、各國執法與司法、政府政策、國際組織與研究報告。";
+  // short tab labels for phones
+  SECTIONS.pil.short = "公法"; SECTIONS.arb.short = "仲裁"; SECTIONS.tnr.short = "跨國鎮壓"; SECTIONS.week.short = "週報"; SECTIONS.home.short = "首頁";
   SECTIONS.pil.filterHint = SECTIONS.arb.filterHint = "試著移除部分篩選條件，或按「清除全部」。";
   SECTIONS.pil.placeholder = "搜尋案名、關鍵字、條文（例：Monetary Gold、第 8 條）";
   SECTIONS.arb.placeholder = "搜尋案名、關鍵字、法域、條文（例：anti-suit、ICSID、第 68 條）";
@@ -957,6 +995,38 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
     { key: "rules", label: "機構與立法", kinds: ["機構動態", "立法動態"] },
     { key: "comment", label: "評論", kinds: ["實務評論", "學術評論"] }
   ];
+  var SEA = ["VN", "LA", "KH", "TH"], SOUTH_ASIA = ["IN", "PK"];
+  SECTIONS.tnr.areas = [
+    { key: "china", label: "中國", test: courtIs("CN") },
+    { key: "iran", label: "伊朗", test: courtIs("IR") },
+    { key: "russia", label: "俄羅斯", test: courtIs("RU") },
+    { key: "sea", label: "東南亞", test: function (it) { return SEA.indexOf(str(it.court)) >= 0; } },
+    { key: "southasia", label: "南亞", test: function (it) { return SOUTH_ASIA.indexOf(str(it.court)) >= 0; } },
+    { key: "other", label: "其他與綜合", test: function (it) { return ["CN", "IR", "RU"].concat(SEA, SOUTH_ASIA).indexOf(str(it.court)) < 0; } }
+  ];
+  SECTIONS.tnr.types = [
+    { key: "incident", label: "事件與個案", kinds: ["事件"] },
+    { key: "legal", label: "執法與司法", kinds: ["司法案件"] },
+    { key: "gov", label: "政府與立法", kinds: ["政府措施", "立法動態"] },
+    { key: "intl", label: "國際組織與倡議", kinds: ["國際組織", "倡議"] },
+    { key: "research", label: "研究與報導", kinds: ["研究報告", "調查報導", "評論"] }
+  ];
+  function outletIs(code) { return function (it) { return str(it.outletCode) === code; }; }
+  SECTIONS.tnr.orgLabel = "來源機構";
+  SECTIONS.tnr.orgs = [
+    { key: "RFA", label: "自由亞洲電台（RFA）", test: outletIs("RFA") },
+    { key: "FH", label: "自由之家", test: outletIs("FH") },
+    { key: "NDI", label: "國際民主協會（NDI）", test: outletIs("NDI") },
+    { key: "NED", label: "國家民主基金會（NED）", test: outletIs("NED") },
+    { key: "HRF", label: "人權基金會（HRF）", test: outletIs("HRF") },
+    { key: "IRI", label: "國際共和研究所（IRI）", test: outletIs("IRI") },
+    { key: "WJP", label: "世界正義工程（WJP）", test: outletIs("WJP") },
+    { key: "OSJI", label: "開放社會正義倡議（OSJI）", test: outletIs("OSJI") },
+    { key: "HRW", label: "人權觀察", test: outletIs("HRW") },
+    { key: "SD", label: "保護衛士", test: outletIs("SD") },
+    { key: "CL", label: "公民實驗室", test: textHas(/公民實驗室|Citizen Lab/i) },
+    { key: "UN", label: "聯合國", test: textHas(/聯合國|OHCHR|A\/HRC/) }
+  ];
   SECTIONS.pil.orgLabel = "機構／來源";
   SECTIONS.pil.orgs = [
     { key: "ICJ", label: "國際法院", test: courtIs("ICJ") },
@@ -986,7 +1056,9 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
     "土耳其", "俄羅斯", "烏克蘭", "波蘭", "瑞典", "挪威", "斯洛維尼亞", "塞爾維亞", "克羅埃西亞", "中國", "香港", "台灣", "日本", "韓國",
     "新加坡", "印度", "巴基斯坦", "孟加拉", "伊朗", "伊拉克", "以色列", "巴勒斯坦", "約旦", "阿聯酋", "阿富汗", "菲律賓", "緬甸", "馬來西亞",
     "澳洲", "萬那杜", "加拿大", "墨西哥", "宏都拉斯", "委內瑞拉", "哥倫比亞", "秘魯", "智利", "阿根廷", "巴西", "烏拉圭", "南非", "甘比亞",
-    "盧安達", "剛果", "馬利", "南蘇丹", "尼加拉瓜", "象牙海岸", "尼日", "馬拉威", "喀麥隆", "烏干達", "肯亞"];
+    "盧安達", "剛果", "馬利", "南蘇丹", "尼加拉瓜", "象牙海岸", "尼日", "馬拉威", "喀麥隆", "烏干達", "肯亞",
+    "泰國", "越南", "寮國", "柬埔寨", "塔吉克", "烏茲別克", "哈薩克", "吉爾吉斯", "土庫曼", "亞美尼亞", "喬治亞", "亞塞拜然",
+    "白俄羅斯", "捷克", "敘利亞", "埃及", "沙烏地", "厄利垂亞", "北韓", "蒙古"];
   var COUNTRY_RE = COUNTRIES.map(function (c) { return [c, new RegExp(c + (/國$/.test(c) ? "(?!際)" : ""))]; });
   var countryCache = {};
   // places an entry concerns: its stated jurisdiction plus countries named in its title or tags
@@ -1001,13 +1073,13 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
   function isDecision(it) { return ["判決", "裁定", "諮詢意見", "逮捕令", "法院裁判", "仲裁判斷"].indexOf(str(it.kind)) >= 0; }
   function optOf(list, key) { return (list || []).filter(function (o) { return o.key === key; })[0] || null; }
 
-  var SECTION_ORDER = ["home", "pil", "arb", "week"];
-  var ITEM_SECTIONS = ["pil", "arb"];
+  var SECTION_ORDER = ["home", "pil", "arb", "tnr", "week"];
+  var ITEM_SECTIONS = ["pil", "arb", "tnr"];
   var WEEK = ["日", "一", "二", "三", "四", "五", "六"];
   var SITE_NAME = "國際法動態追蹤";
 
   function blank() { return { items: [], agenda: [], cases: [], issues: [], meta: null, archives: [], loaded: false, loadError: false, archiveLoading: "" }; }
-  var data = { home: blank(), pil: blank(), arb: blank(), week: blank() };
+  var data = { home: blank(), pil: blank(), arb: blank(), tnr: blank(), week: blank() };
   data.home.loaded = true; // the home page draws on the other three files as they arrive
 
   // ---- per-viewer conveniences (browser only) ----
@@ -1051,7 +1123,7 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
   function arr(v) { return Array.isArray(v) ? v.filter(function (x) { return typeof x === "string" && x.trim(); }) : (typeof v === "string" && v.trim() ? [v] : []); }
   function courtKey(c, sec) { var cats = SECTIONS[sec || state.section].cats; return cats[c] ? c : "OTHER"; }
   function catOf(k, sec) { return SECTIONS[sec || state.section].cats[k] || { code: "", zh: "", en: "" }; }
-  function codeText(it, sec) { var k = courtKey(it.court, sec); return it.outletCode ? str(it.outletCode) : catOf(k, sec).code; }
+  function codeText(it, sec) { var k = courtKey(it.court, sec); return (it.outletCode && !SECTIONS[sec || state.section].codeFromCat) ? str(it.outletCode) : catOf(k, sec).code; }
   function todayISO() {
     try { return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Taipei", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date()); }
     catch (e) { return new Date().toISOString().slice(0, 10); }
@@ -1089,7 +1161,7 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
     return "";
   }
   function findItem(id) { var s = sectionOf(id); return s ? { sec: s, it: data[s].items.find(function (x) { return x.id === id; }) } : null; }
-  function isCommentKind(kind) { kind = str(kind); return kind === "學術評論" || kind === "實務評論"; }
+  function isCommentKind(kind) { kind = str(kind); return kind === "學術評論" || kind === "實務評論" || kind === "評論"; }
   function isComment(it) { return isCommentKind(it.kind); }
   function fieldOf(it) { return str(it.field) === "investment" ? "investment" : "commercial"; }
   function fieldCfg(it, sec) { var f = SECTIONS[sec || state.section].fields; return f ? f[fieldOf(it)] : null; }
@@ -1233,7 +1305,7 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
           "aria-selected": state.section === key ? "true" : "false",
           onclick: function () { if (state.section !== key) setSection(key); }
         },
-        h("span", { text: c.label }), h("span", { class: "en", text: c.en }),
+        h("span", { class: "full", text: c.label }), h("span", { class: "short", "aria-hidden": "true", text: c.short || c.label }), h("span", { class: "en", text: c.en }),
         unread ? h("span", { class: "n", title: "未讀", text: String(unread) }) : null));
     });
     document.getElementById("eyebrow").textContent = CFG().eyebrow;
@@ -1345,9 +1417,12 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
     }
     var resultN = document.getElementById("resultN");
     resultN.replaceChildren("共 ", h("b", { text: String(visible().length) }), " 則 · 依來源發布日期排列");
-    var other = state.section === "pil" ? "arb" : "pil", elsewhere = state.q && data[other].loaded ? qCount(other, state.q) : 0;
-    if (elsewhere) resultN.append(" · ", h("button", { type: "button", class: "linkish", onclick: function () { switchSection(other); setHash(sectionHash()); } },
-      SECTIONS[other].label + "另有 " + elsewhere + " 則符合"));
+    if (state.q) ITEM_SECTIONS.forEach(function (other) {
+      if (other === state.section || !data[other].loaded) return;
+      var n = qCount(other, state.q);
+      if (n) resultN.append(" · ", h("button", { type: "button", class: "linkish", onclick: function () { switchSection(other); setHash(sectionHash()); } },
+        SECTIONS[other].label + "另有 " + n + " 則符合"));
+    });
   }
   function refresh() { renderFilters(); renderList(); renderCases(); renderCloud(); if (state.openId) renderReader(); }
   function setFilter(dim, v) { state[dim] = v; refresh(); }
@@ -1529,7 +1604,8 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
     wrap.hidden = false;
     if (!wrap.open) { box.replaceChildren(); box._cloud = null; note.textContent = ""; return; }
     var pl = pool(["tag", "q"]);
-    drawCloud(box, tagStats(pl).slice(0, 36), {
+    var selfTag = state.section === "tnr" ? "跨國鎮壓" : "";
+    drawCloud(box, tagStats(pl).filter(function (w) { return w.text !== selfTag; }).slice(0, 36), {
       active: state.tag,
       emptyText: "目前篩選下沒有關鍵字。",
       title: function (w) { return w.text + "：" + w.n + " 則動態"; },
@@ -1697,7 +1773,7 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
         return w.text + "：" + ITEM_SECTIONS.filter(function (k) { return w.secs[k]; }).map(function (k) { return SECTIONS[k].label + " " + w.secs[k] + " 則"; }).join("、");
       },
       pick: function (w) {
-        var target = (w.secs.arb || 0) > (w.secs.pil || 0) ? "arb" : "pil";
+        var target = ITEM_SECTIONS.reduce(function (b, k) { return (w.secs[k] || 0) > (w.secs[b] || 0) ? k : b; }, "pil");
         switchSection(target); setHash(sectionHash()); setFilter("tag", w.text);
         document.getElementById("zoneFilters").scrollIntoView({ block: "start" });
       }
@@ -1863,6 +1939,12 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
   function holdingLabel(kind) {
     kind = str(kind);
     if (isCommentKind(kind)) return ["作者論點", "Author's argument"];
+    if (state.section === "tnr") {
+      if (kind === "司法案件") return ["起訴與審理重點", "Proceedings"];
+      if (kind === "事件") return ["事件經過與各方回應", "What happened & responses"];
+      if (kind === "研究報告" || kind === "調查報導") return ["主要發現", "Key findings"];
+      return ["主要內容", "Key points"];
+    }
     if (kind === "仲裁判斷") return ["仲裁庭見解與結果", "Tribunal's reasoning & outcome"];
     if (state.section === "arb" && (kind === "機構動態" || kind === "立法動態")) return ["主要內容", "Key points"];
     if (kind === "機構動態" || kind === "其他") return ["各方反應與結果", "Outcome & reactions"];
@@ -1902,7 +1984,7 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
     var shown = (off.length ? 1 : 0) + (non.length ? 1 : 0);
     return h("div", { class: "r-src" },
       off.length ? link(off[0], officialLabel(it, off[0]), true) : null,
-      non.length ? link(non[0], isComment(it) ? "閱讀評論" : "閱讀報導", !off.length) : null,
+      non.length ? link(non[0], isComment(it) ? "閱讀評論" : /原文|全文|報告|聲明|分析/.test(str(non[0].label)) ? "閱讀原文" : "閱讀報導", !off.length) : null,
       sources.length > shown ? h("button", { type: "button", class: "linkish", onclick: function () {
         var el = document.querySelector("#reader .sources"); if (el) el.scrollIntoView({ block: "start" });
       } }, "全部 " + sources.length + " 項來源") : null);
@@ -1934,7 +2016,10 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
     var sources = Array.isArray(it.sources) ? it.sources.filter(function (s) { return s && safeUrl(s.url); }) : [];
     var starred = starSet.has(it.id);
     var cs = it.caseId ? caseById(it.caseId) : null;
-    var infoFacts = factsEl(state.section === "arb"
+    var caseBtn = cs ? h("button", { type: "button", class: "linkish", onclick: function () { openCase(cs.id); } }, str(cs.name)) : "";
+    var infoFacts = factsEl(state.section === "tnr"
+      ? [["涉及國家", cat.zh], ["發生地", str(it.jurisdiction)], ["來源", str(it.outlet)], ["作者", str(it.author)], ["案號", str(it.caseRef)], ["所屬案件", caseBtn]]
+      : state.section === "arb"
       ? [["類別", cat.zh], ["法域", str(it.jurisdiction)], ["來源", str(it.outlet)], ["作者", str(it.author)], ["案號", str(it.caseRef)],
          ["所屬案件", cs ? h("button", { type: "button", class: "linkish", onclick: function () { openCase(cs.id); } }, str(cs.name)) : ""]]
       : [["機構", k !== "OTHER" ? cat.zh : ""], ["來源", str(it.outlet)], ["作者", str(it.author)], ["案號", str(it.caseRef)],
@@ -2223,7 +2308,7 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
     var q = qInput.value.trim();
     if (isPage()) {
       if (!q) return;
-      var target = qCount("arb", q) > qCount("pil", q) ? "arb" : "pil";
+      var target = ITEM_SECTIONS.reduce(function (b, k) { var n = qCount(k, q); return n > b.n ? { k: k, n: n } : b; }, { k: "pil", n: -1 }).k;
       state.q = q; switchSection(target); setHash(sectionHash());
     } else { state.q = q; refresh(); }
     if (window.matchMedia("(max-width: 760px)").matches) qInput.blur();
