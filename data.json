@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-24T07:01:14+08:00",
-  "lastRunLocal": "2026-10-24 07:01",
+  "lastRun": "2026-10-24T22:59:09+08:00",
+  "lastRunLocal": "2026-10-24 22:59",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：ICC 1（菲律賓懸賞緝捕德拉羅薩）、Opinio Juris 評論 1（合併上次未能讀取的兩篇若開軍文章）"
+  "lastRunNote": "新增 2 則：ICC 1（杜特蒂案檢方聲請採用先前錄製證詞）、其他 1（歐盟高級代表 Kallas 訪問 ICC）"
  },
  "items": [
   {
@@ -1436,7 +1436,8 @@
    ],
    "addedAt": "2026-10-14T12:30:00+08:00",
    "related": [
-    "2026-10-21-icc-duterte-incident-57"
+    "2026-10-21-icc-duterte-incident-57",
+    "2026-10-23-icc-duterte-rule68-requests"
    ]
   },
   {
@@ -3519,7 +3520,8 @@
     }
    ],
    "related": [
-    "2026-10-08-icc-duterte-fitness"
+    "2026-10-08-icc-duterte-fitness",
+    "2026-10-23-icc-duterte-rule68-requests"
    ],
    "addedAt": "2026-10-21T23:09:27+08:00"
   },
@@ -3639,7 +3641,8 @@
    ],
    "addedAt": "2026-10-22T23:03:57+08:00",
    "related": [
-    "2026-10-19-other-sakharov-icc-finalist"
+    "2026-10-19-other-sakharov-icc-finalist",
+    "2026-10-23-other-kallas-visits-icc"
    ]
   },
   {
@@ -3829,6 +3832,133 @@
     }
    ],
    "addedAt": "2026-10-24T07:01:14+08:00"
+  },
+  {
+   "id": "2026-10-23-icc-duterte-rule68-requests",
+   "court": "ICC",
+   "kind": "程序進展",
+   "caseId": "icc-duterte",
+   "date": "2026-10-23",
+   "eventDate": "",
+   "importance": 1,
+   "title": "杜特蒂案：檢察官依規則第 68 條第 3 項聲請採用多名證人的先前錄製證詞，並擬縮短專家證人主詰問時間",
+   "shortTitle": "杜特蒂案：檢方聲請採用先前證詞",
+   "point": "涉及「上級命令」與獎金等證詞，聲請涵蓋證人增至 15 名，審判分庭尚未裁定",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte – Prosecution requests for the introduction of prior recorded testimony pursuant to rule 68(3) (public redacted versions)",
+   "caseRef": "ICC-01/21-01/25",
+   "tldr": "杜特蒂危害人類罪審判預定 11 月 30 日開始。開庭前，檢察官陸續請求法官准許直接採用部分證人先前接受訪談時的錄製陳述，證人仍要出庭確認並接受交互詰問，以節省審判時間。10 月 21 日至 23 日公開的文件涉及多名證人，其中有人描述警方殺人行動來自「上級命令」並有獎金。法官還沒有作出決定。",
+   "memo": "國際刑事法院檢察官於 2026 年 10 月間在杜特蒂案向第三審判分庭提出數件聲請，請求依《程序及證據規則》第 68 條第 3 項准許採用證人 P-0008、P-1164、P-1303、P-1155、P-1156、P-1157 等人之先前錄製證詞，其公開刪節版於 10 月 21 日至 23 日陸續公開；證人仍應到庭確認陳述並接受詰問。相關證詞涉及第三項罪狀之警方殺人行動模式、上級命令及獎金。檢察官並請求縮短專家證人 P-1400 之主詰問時間。審判分庭尚未裁定，審判預定於 2026 年 11 月 30 日開始。",
+   "context": "杜特蒂被控於擔任達沃市長及總統期間，涉及「掃毒戰爭」中的殺人行為，構成危害人類罪（謀殺及謀殺未遂）。第一預審分庭確認起訴後，案件移由第三審判分庭（審判長 Joanna Korner 法官）審理。\n審判分庭已於 2026 年 10 月認定杜特蒂具受審能力，並於 10 月 21 日左右的裁定中刪除第 57 號事件、不准擴大起訴期間（見本案前則）。審判預定 2026 年 11 月 30 日開始。\n《程序及證據規則》第 68 條第 3 項允許採用證人的先前錄製證詞，但以證人到庭、不反對採用、確認陳述正確，且當事人與法官得詢問為條件，常用於縮短主詰問時間。",
+   "facts": [
+    "依菲律賓媒體報導，檢察官於 2026 年 10 月 12 日提出第一件聲請，涉及證人 P-0024（掃毒戰爭的法律程序）、P-1357（達沃死亡部隊）及 P-1359（杜特蒂當選後毒品相關槍擊增加）的先前證詞。",
+    "另一件聲請涉及證人 P-0008、P-1164、P-1303，三人均為女性，陳述內容為警方在第三項罪狀（2016 年 7 月至 2018 年 9 月間的「村里清查」殺人）中的多起殺人事件；檢察官主張可證明警方暴力的模式與手法，該三人仍將親自出庭。其公開版於 10 月 21 日左右公開。",
+    "10 月 23 日公開的另一件聲請涉及證人 P-1155、P-1156、P-1157：P-1155 描述「來自上級」的命令、對警員的指示及與某一事件相關的獎金；P-1156 涉及殺人行動的命令、規劃、準備與報酬；P-1157 涉及一起殺人事件及針對目標的警方行動。",
+    "同日另有一件聲請，請求採用專家證人 P-1400 的報告及 15 件相關資料，並將其主詰問時間由 5 小時縮短為 2 小時。",
+    "報導指出，依此類聲請請求以先前錄製證詞代替部分當庭陳述的證人，合計已達 15 名；審判分庭預定 11 月 2 日舉行狀態會議。"
+   ],
+   "issues": [
+    "《程序及證據規則》第 68 條第 3 項先前錄製證詞的採用要件，以及其與被告詰問權（《羅馬規約》第 67 條第 1 項第 e 款）的平衡。",
+    "「上級命令」與獎金相關證據對認定國家或組織政策（《羅馬規約》第 7 條第 2 項第 a 款）及被告知情與故意的意義。"
+   ],
+   "holding": "這是檢察官的聲請，不是法院裁判。審判分庭尚未裁定，報導未提及辯護方的回應。\n若獲准許，相關證人仍須到庭確認陳述，並接受辯護方交互詰問及被害人代理人、法官詢問，但主詰問時間可大幅縮短。",
+   "significance": "這些聲請顯示檢察官準備以警方行動模式、上級命令與獎金等證據，建立殺人行動屬廣泛或有系統攻擊及杜特蒂知情與故意。審判分庭在 11 月 2 日狀態會議前後的裁定，將影響 11 月 30 日開審後的證據調查節奏。",
+   "editorNote": "本網頁助理 註：本則依菲律賓星報（Philstar）三篇報導撰寫，未能取得國際刑事法院公開的聲請文件，也無法讀取國際刑事法院官方網站。各報導對 P-0008、P-1164、P-1303 一件聲請的日期說法不一（一說 10 月 19 日提出、10 月 23 日公開，一說文件日期為 10 月 21 日），本則未予認定，eventDate 因此留空；「合計 15 名」之數字亦僅見於報導。11 月 2 日狀態會議亦僅見於報導。",
+   "tags": [
+    "國際刑事法院",
+    "菲律賓",
+    "杜特蒂",
+    "危害人類罪",
+    "掃毒戰爭",
+    "先前錄製證詞",
+    "規則第68條",
+    "證據"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院新聞稿：杜特蒂具受審能力",
+     "url": "https://www.icc-cpi.int/news/situation-philippines-rodrigo-roa-duterte-fit-stand-trial",
+     "official": true
+    },
+    {
+     "label": "Philstar 報導：檢方聲請採用三名證人陳述",
+     "url": "https://www.philstar.com/headlines/2026/10/23/2565194/duterte-icc-trial-prosecutors-seek-admit-three-witness-accounts-",
+     "official": false
+    },
+    {
+     "label": "Philstar 報導：檢方援引「上級命令」與獎金",
+     "url": "https://www.philstar.com/headlines/2026/10/24/2565415/new-icc-request-prosecutors-cite-orders-above-reward-duterte-case",
+     "official": false
+    },
+    {
+     "label": "Philstar 報導：檢方聲請採用更多錄製證詞",
+     "url": "https://philstar.com/headlines/2026/10/24/2565340/icc-prosecutor-wants-more-recorded-testimonies-admitted",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-24T22:59:09+08:00",
+   "related": [
+    "2026-10-21-icc-duterte-incident-57",
+    "2026-10-08-icc-duterte-fitness"
+   ]
+  },
+  {
+   "id": "2026-10-23-other-kallas-visits-icc",
+   "court": "OTHER",
+   "kind": "機構動態",
+   "caseId": "us-sanctions-icc",
+   "date": "2026-10-23",
+   "eventDate": "2026-10-23",
+   "importance": 1,
+   "title": "歐盟外交與安全政策高級代表 Kallas 訪問國際刑事法院，表態支持法院並將以外交途徑爭取美國撤回制裁",
+   "shortTitle": "歐盟高級代表 Kallas 訪問 ICC",
+   "point": "會晤院長與書記官長，歐盟將以外交促美撤回制裁，《阻斷法規》仍未決定",
+   "titleOriginal": "High Representative/Vice-President Kaja Kallas visits the International Criminal Court",
+   "caseRef": "",
+   "tldr": "美國全面制裁國際刑事法院後，歐盟外交負責人 Kallas 在法院獲頒沙卡洛夫獎的隔天前往海牙，與院長赤根智子及書記官長會面。她表示歐盟會透過外交讓美國撤回制裁，並研究法律影響與其他支持方式；但是否啟動保護歐洲企業的《阻斷法規》，執委會仍未決定。",
+   "memo": "歐盟外交與安全政策高級代表暨執委會副主席 Kaja Kallas 於 2026 年 10 月 23 日訪問海牙，與國際刑事法院院長赤根智子及書記官長 Osvaldo Zavala Giler 會晤，並走訪歐盟司法合作署及歐洲理事會烏克蘭損害登記處。Kallas 表示歐盟將以外交途徑促使美國撤回對該院之制裁，並分析其法律影響、評估進一步支持措施；執委會是否啟動《阻斷法規》仍在評估中。",
+   "context": "美國於 2026 年 10 月將制裁範圍擴及國際刑事法院整個機構，限制法院取得美國金融服務與技術，並給予與法院有業務往來的美國企業及個人六個月終止關係。\n歐洲理事會於 10 月 19 日要求美國撤回制裁並請執委會保護法院；歐洲議會於 10 月 22 日將 2026 年沙卡洛夫人權獎頒予國際刑事法院（見本議題前則）。",
+   "facts": [
+    "2026 年 10 月 23 日上午，Kallas 訪問歐盟司法合作署（Eurojust），會晤其主席 Michael Schmid。",
+    "同日下午，Kallas 在國際刑事法院與院長赤根智子及書記官長 Osvaldo Zavala Giler 會晤，其後走訪歐洲理事會的烏克蘭損害登記處；行程主題為歐盟對國際司法的支持。",
+    "Kallas 稍早在史特拉斯堡表示，各締約國都應協助法院繼續運作，並稱歐盟將在未來數月以外交途徑爭取美國撤回制裁、分析法律影響並與華府對話。",
+    "報導指出，國際刑事法院正尋求替代方案，歐盟則評估進一步支持；執委會是否啟動《阻斷法規》尚未決定。"
+   ],
+   "issues": [
+    "歐盟及其會員國依《羅馬規約》第 86 條等合作義務支持國際刑事法院的方式。",
+    "歐盟《阻斷法規》（第 2271/96 號規則）能否及應否用於對抗美國對國際刑事法院的域外制裁。"
+   ],
+   "holding": "這不是法院裁判，而是歐盟的政治與外交表態。Kallas 未宣布具體新措施；依報導，執委會仍在評估啟動《阻斷法規》的後果。",
+   "significance": "歐盟在一週內先後由理事會表態、議會頒獎、高級代表到訪，顯示其以政治支持回應美國制裁。是否啟動《阻斷法規》或提供替代金融與技術服務，將決定法院能否在美國制裁下維持運作。",
+   "editorNote": "本網頁助理 註：本則依 EU Perspectives 報導及歐盟媒體通知撰寫；國際刑事法院官方新聞稿頁面經搜尋確認存在，但本次無法讀取內容，Kallas 在法院會晤的具體談話內容未能核實。",
+   "tags": [
+    "國際刑事法院",
+    "制裁",
+    "歐盟",
+    "阻斷法規",
+    "美國",
+    "國際合作"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院新聞稿：Kallas 訪問法院",
+     "url": "https://www.icc-cpi.int/news/high-representative/vice-president-kaja-kallas-visits-international-criminal-court",
+     "official": true
+    },
+    {
+     "label": "EU Perspectives 報導",
+     "url": "https://euperspectives.eu/2026/10/first-a-prize-then-a-visit-eu-backs-international-criminal-court-amid-trumps-sanctions/",
+     "official": false
+    },
+    {
+     "label": "歐盟媒體通知：Kallas 訪問海牙行程",
+     "url": "https://www.pressclub.be/press-releases/media-advisory-high-representative-vice-president-kaja-kallas-visits-the-hague/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-24T22:59:09+08:00",
+   "related": [
+    "2026-10-22-other-sakharov-icc-awarded"
+   ]
   }
  ],
  "agenda": [
@@ -3954,6 +4084,16 @@
    "url": "https://the-president.europarl.europa.eu/home/ep-newsroom/pagecontent/actualites/the-2026-sakharov-prize-has-been-awarded-to-the-intlcrimcourt-and-its-officials.html",
    "relatedId": "2026-10-22-other-sakharov-icc-awarded",
    "caseId": "us-sanctions-icc"
+  },
+  {
+   "id": "2026-11-02-icc-duterte-status-conference",
+   "date": "2026-11-02",
+   "court": "ICC",
+   "title": "杜特蒂案審前狀態會議",
+   "note": "第三審判分庭；日期僅見於菲律賓媒體報導。",
+   "url": "",
+   "relatedId": "2026-10-23-icc-duterte-rule68-requests",
+   "caseId": "icc-duterte"
   }
  ],
  "archives": [],
@@ -4044,7 +4184,7 @@
    "nameOriginal": "The Prosecutor v. Rodrigo Roa Duterte",
    "caseRef": "ICC-01/21",
    "summary": "菲律賓前總統杜特蒂被控三項危害人類罪。",
-   "status": "已認定具受審能力；審判預定於 2026 年 11 月 30 日開始。"
+   "status": "已認定具受審能力；檢察官已聲請採用多名證人之先前錄製證詞，狀態會議訂於 11 月 2 日，審判預定於 2026 年 11 月 30 日開始。"
   },
   {
    "id": "icc-afghanistan",
@@ -4066,7 +4206,7 @@
    "nameOriginal": "U.S. sanctions against the International Criminal Court",
    "caseRef": "",
    "summary": "美國陸續制裁 ICC 官員，2026 年 10 月 9 日擴及法院整體；美國法院訴訟、歐盟保護措施與各國表態同步進行。",
-   "status": "歐洲議會於 2026 年 10 月 22 日將沙卡洛夫獎頒予 ICC；紐約南區聯邦地院已對部分原告核發初步禁制令，歐盟《阻斷法規》尚未啟動。"
+   "status": "歐洲議會於 2026 年 10 月 22 日將沙卡洛夫獎頒予 ICC，歐盟高級代表 Kallas 次日訪問法院並表示將以外交促美撤回制裁；紐約南區聯邦地院已對部分原告核發初步禁制令，歐盟《阻斷法規》尚未啟動。"
   },
   {
    "id": "icc-governance",
