@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-24T07:06:43+08:00",
-  "lastRunLocal": "2026-10-24 07:06",
+  "lastRun": "2026-10-24T22:58:55+08:00",
+  "lastRunLocal": "2026-10-24 22:58",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 4 則：投資仲裁 2（仲裁判斷 1、法院裁判 1）、商務仲裁 2（法院裁判 2）",
+  "lastRunNote": "新增 3 則：投資仲裁 2（法院裁判 1、評論 1）、商務仲裁 1（機構 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -808,7 +808,9 @@
     "南蘇丹",
     "國營事業"
    ],
-   "related": [],
+   "related": [
+    "2026-10-23-arb-aquilon-south-sudan-mauritius-interim"
+   ],
    "sources": [
     {
      "label": "ICSID：Recent Cases（近期案件）",
@@ -2749,6 +2751,179 @@
     }
    ],
    "addedAt": "2026-10-24T07:06:43+08:00"
+  },
+  {
+   "id": "2026-10-23-arb-neer-at-100",
+   "court": "OTHER",
+   "field": "investment",
+   "kind": "實務評論",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-10-23",
+   "eventDate": "",
+   "importance": 1,
+   "author": "David M. Bigge（Wordstone Dispute Resolution）",
+   "title": "Neer 案百年：作者主張仲裁庭面對抽象的最低待遇標準，應延續 Neer、Genin 與 Glamis 案的節制審查，把標準當作「底線」",
+   "shortTitle": "Neer 案百年：最低待遇標準仍是底線",
+   "point": "作者主張標準不明確時，仲裁庭應尊重國家主權與管制權，從嚴認定違反",
+   "titleOriginal": "The Surprising Relevance of Neer at 100",
+   "caseRef": "",
+   "tldr": "1926 年美墨一般求償委員會的 Neer 案，定義了國家對待外國人的「國際最低待遇標準」：要到暴行、惡意或明顯低於國際標準的程度才算違反。多數投資仲裁庭後來認為這個門檻太高、已經過時。作者認為，Neer 的價值不在那段定義，而在它面對模糊標準時對國家的節制與尊重，今天的仲裁庭仍應如此。",
+   "memo": "David M. Bigge（Wordstone Dispute Resolution）於 Kluwer Arbitration Blog 撰文指出，1926 年美墨一般求償委員會 Neer 案所定義之國際最低待遇標準雖多為投資仲裁庭限縮或揚棄，惟其面對不明確標準時對國家行為採取節制審查之方法，與 Genin 訴愛沙尼亞案（2001 年）及 Glamis Gold 訴美國案（2009 年）一致，仍具參考價值。作者主張，國際不法行為與合法主權行使之間並無一般公式可資區辨，仲裁庭解釋一般性最低待遇標準條款時，應將其視為底線，尊重國家主權與管制權，從嚴認定違反。",
+   "context": "Neer 案源於美國公民 Paul Neer 在墨西哥遇害、墨西哥當局未認真偵辦。依 1923 年公約設立的美墨一般求償委員會須適用國際法，因此必須說明判斷國家行為是否構成國際不法行為的標準。\n委員會在該案提出：國家行為須達到暴行、惡意、故意怠忽職責，或明顯低於國際標準、任何合理公正之人都能看出其不足的程度，才違反國際最低待遇標準。\n此後各國在 Barcelona Traction（1970 年）與 ELSI（1989 年）等案中援引 Neer；1990 年代末起，加拿大在 NAFTA 的 S.D. Myers 與 Pope & Talbot 案、美國在 Loewen 案中，也援引 Neer 解釋 NAFTA 第 1105 條。",
+   "facts": [
+    "2026 年 10 月是 Neer 案作成滿 100 年。",
+    "多數投資仲裁庭以「習慣國際法自 1920 年代以來已演進」或「Neer 只限於其事實」為由，限縮或拒絕適用 Neer 的定義；Schwebel、Paulsson 等學者亦批評其過窄。",
+    "作者舉出兩個例外：Genin 訴愛沙尼亞案（2001 年）與 Glamis Gold 訴美國案（2009 年）。"
+   ],
+   "issues": [
+    "Neer 案對國際最低待遇標準的定義，在今日投資仲裁中還有什麼意義？",
+    "條約中的公平公正待遇與最低待遇標準內容不明確時，仲裁庭應如何審查地主國的管制行為？"
+   ],
+   "holding": "・作者認為 Neer 案的重點在方法：委員會先確認國家行為須以國際標準而非國內法衡量，再承認國際不法行為與合法主權行使難以劃界，因此設下高門檻，並自限其角色，不評斷當局本可做得更好。\n・Genin 案仲裁庭審查愛沙尼亞央行撤銷銀行執照，未直接引用 Neer，但把公平公正待遇視為獨立且門檻甚高的國際最低標準（第 367 段）。\n・Glamis 案仲裁庭面對雙方對習慣法是否已演進的爭議，將舉證責任置於申請人，認定其未證明習慣法已改變（第 21–22 段），並強調最低待遇標準是底線（第 615 段），現代情勢雖較複雜但審查強度不變（第 616 段），行為須足夠惡劣、令人震驚才構成違反。\n・三案的共同點是：在標準不明確時選擇尊重國家，將最低待遇標準當作普遍的底線；作者認為近期實務也日益採取這種做法，有別於早期部分仲裁庭的擴張解釋。\n・當代啟示：各國因標準模糊而改採更明確的條約用語（如 USMCA 締約方對公平公正待遇的澄清，或刪除該用語），OECD 2024 年條約現代化工作與 UNCITRAL 第三工作組亦朝此方向；第三工作組中有國家提議對所有管制措施設排除條款，作者認為不易成功，但顯示各國重新重視管制空間。",
+   "significance": "作者結論：Neer 案指出的根本難題──沒有一般公式可以區分國際不法行為與可容許的主權行使──至今仍在。在缺乏這種公式的情況下，仲裁人解釋一般性的最低待遇標準條款時，應保守解釋，視其為底線，並尊重國家主權與管制權。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。",
+   "tags": [
+    "公平公正待遇",
+    "最低待遇標準",
+    "習慣國際法",
+    "Neer",
+    "NAFTA",
+    "管制權",
+    "墨西哥",
+    "美國",
+    "愛沙尼亞"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 評論文章",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/the-surprising-relevance-of-neer-at-100/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-24T22:58:55+08:00"
+  },
+  {
+   "id": "2026-10-23-arb-cord-rules-2026",
+   "court": "INST",
+   "field": "commercial",
+   "kind": "機構動態",
+   "caseId": "",
+   "jurisdiction": "印度",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-10-23",
+   "eventDate": "2026-09-04",
+   "importance": 1,
+   "author": "Deepika Kinhal（CORD 共同創辦人暨執行長）",
+   "title": "印度線上爭議解決機構 CORD 推出 2026 年仲裁規則：分級收費、延遲每日計費、仲裁人使用 AI 分三類管理，並可約定上訴仲裁",
+   "shortTitle": "印度 CORD 新仲裁規則規範 AI 與上訴",
+   "point": "仲裁人不得以 AI 撰寫判斷實體或認定事實；當事人可約定交由孟買中心審理上訴",
+   "titleOriginal": "CORD Rules of Arbitration 2026: New Rules Governing AI, Procedural Delay, and Appeals",
+   "caseRef": "",
+   "tldr": "總部在班加羅爾的線上爭議解決中心 CORD，在 2026 年 9 月推出新仲裁規則。新規則把案件分三級收費，當事人逾期要按日付費，並規定仲裁人哪些 AI 用途可以直接用、哪些要先揭露、哪些禁止。當事人也可以事先約定，讓判斷可以上訴到另一個仲裁庭。介紹文章由 CORD 執行長撰寫。",
+   "memo": "印度線上爭議解決中心（CORD）於 2026 年 9 月 4 日推出 2026 年仲裁規則，主要內容包括：依案件金額與複雜度分三級計收仲裁人報酬（第 9 條）；當事人逾期未遵守期限者按日負擔延遲費用，未繳納得停止程序或扣留判斷（第 15 條）；第 38 條及 AI 實務指引將仲裁人使用 AI 區分為免揭露、事先揭露及禁止（含撰寫判斷實體、評價可信度、認定事實與法律及決定損害賠償）三類；當事人得合意選擇由孟買國際仲裁中心管理之上訴仲裁，以重大法律錯誤、具不利影響之事實錯誤或仲裁地法之撤銷事由為上訴理由（第 36 條）。",
+   "context": "CORD（Centre for Online Resolution of Disputes）是總部設於印度班加羅爾的機構，透過數位平台管理仲裁、調解與協助協商。\n近年 ICC、SIAC、HKIAC 等主要機構陸續處理 AI 使用、程序遲延與費用控制問題；可選擇的上訴仲裁機制則較少見。",
+   "facts": [
+    "CORD 2026 年仲裁規則於 2026 年 9 月 4 日推出；文章未說明生效日。",
+    "依案件金額與複雜度（法律新穎性、證據量、當事人數、跨境因素、緊急救濟）分為三級，第二級對應印度仲裁與調解法的仲裁人報酬參考表，各級為該表的 60% 至 140%。",
+    "當事人可共同選擇級別，或自費要求較高級別；秘書長可重新指定級別。",
+    "仲裁人迴避由 CORD 以外的獨立「選任委員會」決定；第 28 條另設加速的緊急仲裁人程序。"
+   ],
+   "issues": [
+    "機構規則如何以費用機制抑制程序遲延？",
+    "仲裁人、當事人、證人與鑑定人使用 AI 的界線與揭露義務。",
+    "可選擇的上訴仲裁機制與仲裁判斷終局性的關係。"
+   ],
+   "holding": "・分級收費（第 9 條）：案件分為三級，報酬為印度法定參考表的 60% 至 140%。\n・延遲費用（第 15 條）：錯過期限者，延遲期間按日向 CORD 繳納費用；仲裁庭（組庭前由秘書長）可附書面理由免除；未繳納可能導致程序停止或判斷扣留，仲裁庭並得另課費用。\n・AI 使用（第 38 條與 AI 實務指引）：揭示透明、課責、保密、公平與人為監督五原則，使用者對 AI 產出負責。仲裁人用於格式、計算、引註檢查可不揭露；用於法律研究、摘要書狀須事先揭露；不得用於撰寫判斷實體、評價可信度、認定事實或法律、決定損害賠償。當事人可不揭露但自負其責；證人與鑑定人須揭露實質性的 AI 使用。\n・上訴仲裁（第 36 條）：當事人可約定選用，由孟買國際仲裁中心管理；上訴理由為重大法律錯誤、具不利影響的事實錯誤或仲裁地法的撤銷事由；上訴仲裁庭可全面審查並維持、變更或廢棄原判斷。\n・其他：鼓勵和解，可暫停程序進行調解，和解通訊受保護，早期和解退還未使用費用；預計推出產業別規則，首先針對印度非銀行金融業。",
+   "significance": "對印度及處理小額、大量案件的使用者而言，這套規則把 AI 使用分級與上訴仲裁明文化，可與 ICC 2026 年規則等主要機構的做法比較。上訴仲裁須當事人事先約定，且其與各仲裁地撤銷制度的關係仍待實務檢驗。",
+   "editorNote": "本網頁助理 註：介紹文章由 CORD 共同創辦人暨執行長撰寫，屬機構自我介紹，未討論規則的缺點或風險；本則僅依該文整理，尚未取得規則原文核對條號與生效日。",
+   "tags": [
+    "機構規則",
+    "人工智慧",
+    "上訴仲裁",
+    "程序遲延",
+    "仲裁費用",
+    "線上爭議解決",
+    "印度",
+    "CORD"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Daily Jus 文章（CORD 執行長撰）",
+     "url": "https://dailyjus.com/legal-tech/2026/10/cord-rules-of-arbitration-2026-new-rules-governing-ai-procedural-delay-and-appeals",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-24T22:58:55+08:00"
+  },
+  {
+   "id": "2026-10-23-arb-aquilon-south-sudan-mauritius-interim",
+   "court": "COURT",
+   "field": "investment",
+   "kind": "法院裁判",
+   "caseId": "aquilon-v-south-sudan",
+   "jurisdiction": "模里西斯",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "IAR",
+   "date": "2026-10-23",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "據報模里西斯最高法院核發暫時性措施，支援 Aquilon 對南蘇丹及其國家石油公司提起的 ICSID 仲裁",
+   "shortTitle": "模里西斯法院據報支援對南蘇丹的 ICSID 仲裁",
+   "point": "目前只有標題報導，措施內容與對象尚未公開",
+   "titleOriginal": "Aquilon FZCO v. Nile Petroleum Corporation and Republic of South Sudan (ICSID Case No. ARB/26/41) — Mauritian Supreme Court interim measures (reported)",
+   "caseRef": "ICSID Case No. ARB/26/41",
+   "tldr": "阿聯酋的 Aquilon 公司 10 月在 ICSID 對南蘇丹和南蘇丹國家石油公司（Nilepet）提起仲裁。IAReporter 報導，模里西斯最高法院已核發暫時性措施來支援這件仲裁，但報導內容未公開，細節還不清楚。",
+   "memo": "據 IAReporter 2026 年 10 月 23 日報導，模里西斯最高法院已核發暫時性措施，以支援 Aquilon FZCO 對南蘇丹共和國及其國家石油公司 Nile Petroleum Corporation 提起之 ICSID 仲裁（ICSID Case No. ARB/26/41，2026 年 10 月 16 日登記）。措施之內容、對象及法律依據尚未公開。",
+   "context": "ICSID 於 2026 年 10 月 16 日登記 Aquilon FZCO v. Nile Petroleum Corporation and Republic of South Sudan（ARB/26/41）；IAReporter 與 GAR 報導申請人為阿聯酋投資人，爭議與石油資產有關。仲裁依據（條約或契約）與求償金額尚未公開。\n模里西斯是區域性仲裁地與控股公司所在地，其法院可就仲裁核發暫時性措施。",
+   "facts": [
+    "2026 年 10 月 16 日：ICSID 登記 ARB/26/41 號案。",
+    "2026 年 10 月 23 日：IAReporter 以標題報導模里西斯最高法院已核發支援該仲裁的暫時性措施。"
+   ],
+   "issues": [
+    "內國法院能否、以何依據為 ICSID 仲裁核發暫時性措施（ICSID 公約第 26 條、ICSID 仲裁規則關於向法院聲請暫時性措施的約定）？",
+    "對國家及國營事業採取暫時性措施時的國家豁免問題。"
+   ],
+   "holding": "報導僅有標題，法院的理由、措施內容（例如是否凍結資產）與受拘束的對象均未公開。",
+   "significance": "若屬實，這是內國法院在 ICSID 仲裁初期即介入保全的少見案例，也涉及對國營石油公司採取措施的豁免問題。後續應注意法院裁判全文及南蘇丹是否聲明不服。",
+   "editorNote": "本網頁助理 註：本則依 IAReporter 案件頁上的報導標題撰寫，報導內文需訂閱，尚未取得法院裁判或其他公開來源核實；案件登記資料取自 ICSID 官網。GAR 有關提起仲裁的報導亦需訂閱。",
+   "tags": [
+    "ICSID",
+    "暫時性措施",
+    "國營事業",
+    "國家豁免",
+    "石油",
+    "南蘇丹",
+    "模里西斯",
+    "阿聯酋"
+   ],
+   "related": [
+    "2026-10-16-arb-icsid-new-cases-mali-turkiye-south-sudan"
+   ],
+   "sources": [
+    {
+     "label": "ICSID：Recent Cases（案件登記資料）",
+     "url": "https://icsid.worldbank.org/cases/recent",
+     "official": true
+    },
+    {
+     "label": "IAReporter 案件頁與報導標題",
+     "url": "https://www.iareporter.com/arbitration-cases/aquilon-fzco-v-republic-of-south-sudan-and-nile-petroleum-corporation-nilepet-south-sudan/",
+     "official": false
+    },
+    {
+     "label": "GAR 報導（需訂閱）",
+     "url": "https://globalarbitrationreview.com/article/emirati-investor-takes-south-sudan-over-oil-assets",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-24T22:58:55+08:00"
   }
  ],
  "agenda": [
@@ -3021,6 +3196,18 @@
    "caseRef": "",
    "summary": "喀麥隆 2006 年終止北部野生動物區特許契約，ICC 仲裁庭 2021 年判命賠償約 1,788 萬歐元；仲裁融資基金在法國扣押喀麥隆的應收款以求執行。",
    "status": "巴黎執行法官於 2026 年 10 月 5 日駁回喀麥隆解除扣押的聲請，喀麥隆得上訴。"
+  },
+  {
+   "id": "aquilon-v-south-sudan",
+   "type": "案件",
+   "court": "NEWS",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Aquilon 訴南蘇丹（石油資產案）",
+   "nameOriginal": "Aquilon FZCO v. Nile Petroleum Corporation and Republic of South Sudan",
+   "caseRef": "ICSID Case No. ARB/26/41",
+   "summary": "阿聯酋投資人 Aquilon 就石油資產爭議對南蘇丹及其國家石油公司 Nilepet 提起 ICSID 仲裁，依據與金額尚未公開。",
+   "status": "ICSID 於 2026 年 10 月 16 日登記；據報模里西斯最高法院已核發支援仲裁的暫時性措施。"
   }
  ]
 }
