@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-24T22:58:55+08:00",
-  "lastRunLocal": "2026-10-24 22:58",
+  "lastRun": "2026-10-27T07:06:28+08:00",
+  "lastRunLocal": "2026-10-27 07:06",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 3 則：投資仲裁 2（法院裁判 1、評論 1）、商務仲裁 1（機構 1）",
+  "lastRunNote": "新增 2 則：商務仲裁 1（案件動態 1）、投資仲裁 1（案件動態 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -2924,6 +2924,146 @@
     }
    ],
    "addedAt": "2026-10-24T22:58:55+08:00"
+  },
+  {
+   "id": "2026-10-26-arb-urbajet-equatorial-guinea-dc-petition",
+   "court": "NEWS",
+   "field": "commercial",
+   "kind": "案件動態",
+   "caseId": "urbajet-v-equatorial-guinea",
+   "jurisdiction": "美國",
+   "outlet": "Mealey's／Law360／Global Arbitration Review（依新聞報導）",
+   "outletCode": "MEA",
+   "date": "2026-10-26",
+   "eventDate": "2026-10-20",
+   "importance": 2,
+   "author": "",
+   "title": "摩洛哥營建公司 Urbajet 向美國哥倫比亞特區聯邦地院聲請執行對赤道幾內亞逾 1.1 億歐元的 ICC 仲裁判斷",
+   "shortTitle": "Urbajet 在美聲請執行對赤道幾內亞的 ICC 判斷",
+   "point": "社會住宅工程爭議，2025 年 11 月判斷逾 1.1 億歐元，法院已傳喚赤道幾內亞答辯",
+   "titleOriginal": "Urbajet SARLAU v. Republic of Equatorial Guinea, No. 1:26-cv-03663 (D.D.C.), Petition to Enforce Arbitration Award (filed 20 October 2026)",
+   "caseRef": "1:26-cv-03663 (D.D.C.)",
+   "tldr": "一家摩洛哥營建與不動產公司在 ICC 仲裁中勝訴，赤道幾內亞須為社會住宅工程爭議賠償逾 1.1 億歐元。公司現在向美國華府聯邦法院聲請執行，法院已發出傳票，要求赤道幾內亞答辯。",
+   "memo": "摩洛哥公司 Urbajet SARLAU 於 2026 年 10 月 20 日向美國哥倫比亞特區聯邦地方法院（案號 1:26-cv-03663）聲請承認並執行其對赤道幾內亞共和國之 ICC 仲裁判斷。該判斷作成於 2025 年 11 月 21 日，涉及社會住宅之營建契約爭議，命赤道幾內亞給付逾 1.1 億歐元（連同利息約 1.23 億美元）。法院已核發傳票，命赤道幾內亞答辯或提出回應書狀。",
+   "context": "本件屬依營建契約所生、以國家為當事人的商務仲裁，由國際商會（ICC）管理。報導指出爭議源自赤道幾內亞的社會住宅開發計畫，聲請人為摩洛哥的專案管理與不動產公司 Urbajet。\n在美國，外國仲裁判斷的承認與執行依《紐約公約》及聯邦仲裁法第 2 章辦理；外國國家通常援引《外國主權豁免法》（FSIA）抗辯，但 FSIA 第 1605(a)(6) 條就執行仲裁協議或判斷設有豁免例外。赤道幾內亞近年在美國另有醫院工程判斷等執行案件。",
+   "facts": [
+    "ICC 仲裁庭於 2025 年 11 月 21 日作成判斷，命赤道幾內亞就社會住宅營建契約爭議給付逾 1.1 億歐元。",
+    "Urbajet 於 2026 年 10 月 20 日向美國哥倫比亞特區聯邦地方法院提出執行聲請，並附具判斷之法文原本與英譯本。",
+    "Law360 報導判斷連同利息目前約值 1.23 億美元；Mealey's 報導法院已核發傳票，命赤道幾內亞答辯。"
+   ],
+   "issues": [
+    "外國仲裁判斷依《紐約公約》在美國的承認與執行。",
+    "赤道幾內亞能否依 FSIA 主張管轄豁免，或適用第 1605(a)(6) 條仲裁例外。"
+   ],
+   "holding": "本件尚在起始階段：法院僅核發傳票，命赤道幾內亞答辯或提出回應書狀，尚未就聲請作成任何裁定。",
+   "significance": "本案是國家在商務仲裁敗訴後於美國遭聲請執行的又一案例。後續須觀察赤道幾內亞是否應訴、是否主張主權豁免或《紐約公約》第 5 條拒絕事由，以及勝訴後能否找到可供執行的商業性財產。",
+   "editorNote": "本網頁助理 註：本則依 Mealey's、Law360 及 Global Arbitration Review 的標題與摘要，以及 Justia 法院案卷資訊撰寫，尚未取得聲請書與仲裁判斷原文；各報導以歐元（逾 1.1 億）或美元（約 1.23 億，含利息）表示金額。GAR 報導僅能讀取標題。",
+   "tags": [
+    "ICC",
+    "赤道幾內亞",
+    "摩洛哥",
+    "美國",
+    "承認與執行",
+    "紐約公約",
+    "主權豁免",
+    "FSIA",
+    "營建爭議",
+    "國家當事人"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "美國哥倫比亞特區聯邦地院案卷（Justia）",
+     "url": "https://dockets.justia.com/docket/district-of-columbia/dcdce/1:2026cv03663/297808",
+     "official": false
+    },
+    {
+     "label": "Mealey's 報導",
+     "url": "https://www.mealeys.com/mealeys/mealeys-international-arbitration/articles/2542393",
+     "official": false
+    },
+    {
+     "label": "Law360 報導",
+     "url": "https://www.law360.com/internationalarbitration/articles/2540672/equatorial-guinea-hit-with-123m-award-suit",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review 報導（訂閱）",
+     "url": "https://globalarbitrationreview.com/article/equatorial-guinea-liable-over-social-housing-projects",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T07:06:28+08:00"
+  },
+  {
+   "id": "2026-10-23-arb-america-movil-chile-notice-of-dispute",
+   "court": "NEWS",
+   "field": "investment",
+   "kind": "案件動態",
+   "caseId": "america-movil-v-chile",
+   "jurisdiction": "智利",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-10-23",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "América Móvil 就智利與 WOM 的 5G 和解協議向智利發出爭端通知，90 天協商期滿後可能提起 ICSID 仲裁",
+   "shortTitle": "América Móvil 對智利啟動投資仲裁程序",
+   "point": "指控智利給予競爭對手 WOM 特殊 5G 建設寬限屬歧視，協商 90 天未果將提 ICSID 仲裁",
+   "titleOriginal": "América Móvil – Notice of dispute to the Republic of Chile (reported 23 October 2026)",
+   "caseRef": "",
+   "tldr": "墨西哥電信集團 América Móvil（智利 Claro 的母公司）不滿智利政府與對手 WOM 達成和解、放寬 WOM 的 5G 建設期限，認為這是歧視性待遇，已正式通知智利有投資爭端。雙方有 90 天可以談，談不攏就可能到 ICSID 提仲裁。",
+   "memo": "據智利媒體報導，墨西哥 América Móvil 集團（ClaroVTR 之母公司）已依保護墨西哥投資人之投資條約向智利共和國發出爭端通知，智利外交部證實於 2026 年 10 月第一週收受。América Móvil 主張智利國家防衛委員會於 2025 年 10 月與 WOM 簽訂之和解協議，就 WOM 遲延建置 5G 網路給予其他業者未獲之特殊條件，構成歧視性待遇。通知開啟 90 日協商期，期滿未獲協議者得向 ICSID 聲請仲裁。",
+   "context": "WOM 於 2021 年取得智利 5G 頻譜特許，但未依期限完成建置。WOM 曾於 2024 年 8 月對智利提起 ICSID 仲裁，嗣於 2025 年與智利國家防衛委員會（CDE）和解，WOM 撤回仲裁，並承諾支付款項及依新時程完成建置（剩餘基地台 90% 於 2026 年 9 月 30 日前、其餘 10% 於同年 12 月 31 日前完成）。\n智利電信次長室（Subtel）於 2026 年 10 月 21 日表示 WOM 再度未達約定時程。ClaroVTR 已於 2026 年 9 月在智利法院提起公法上無效之訴，請求宣告和解協議無效、啟動 WOM 特許之失權程序並賠償其作為 5G 標案參與者所受損害。",
+   "facts": [
+    "智利外交部證實於 2026 年 10 月第一週收到 America Móvil 的爭端通知函。",
+    "America Móvil 主張 CDE 與 WOM 的和解協議給予 WOM 其他業者未曾獲得的條件，構成歧視。",
+    "通知後雙方有 90 日協商期，期滿未達協議，America Móvil 可向 ICSID 聲請仲裁。",
+    "報導指出，若案件成立，將是智利現有另一件 Bupa 案之外的第二件進行中投資仲裁，也是 Kast 政府任內首件。"
+   ],
+   "issues": [
+    "給予競爭對手的和解條件，是否構成條約下的歧視或違反國民待遇、公平公正待遇等保護。",
+    "國內無效之訴與投資仲裁並行時的程序關係（例如條約是否設有岔路條款或放棄條款）。"
+   ],
+   "holding": "尚未提起仲裁。依報導，通知僅開啟條約所定的協商期；報導未說明所依據的具體條約、請求金額或主張的條約條款。",
+   "significance": "本案顯示投資仲裁不僅用於挑戰國家對投資人本身的措施，也可能用於挑戰國家給予競爭對手的優惠。協商期約於 2027 年 1 月初屆滿，屆時可觀察 America Móvil 是否向 ICSID 提出仲裁聲請。",
+   "editorNote": "本網頁助理 註：本則依 Diario Financiero、BioBioChile 及 DPL News 報導撰寫，尚未取得爭端通知原文；報導僅稱依保護墨西哥投資人的投資條約，未指明條約，也未提及請求金額。以下為本網頁助理補充，非來源內容：智利與墨西哥之間的投資保護主要規定於 1998 年《智利—墨西哥自由貿易協定》投資章，可能即為本件依據，但尚待確認；90 日協商期屆滿日依通知送達日推算，並非報導所載。",
+   "tags": [
+    "ICSID",
+    "智利",
+    "墨西哥",
+    "電信",
+    "5G",
+    "歧視",
+    "國民待遇",
+    "爭端通知",
+    "自由貿易協定"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Diario Financiero（Señal DF）報導（西文）",
+     "url": "https://www.df.cl/senal-df/senales-financieras/america-movil-se-juega-todas-sus-cartas-contra-wom-y-activa-la-via-del",
+     "official": false
+    },
+    {
+     "label": "BioBioChile 報導（西文）",
+     "url": "https://www.biobiochile.cl/noticias/economia/negocios-y-empresas/2026/10/23/america-movil-busca-llevar-a-chile-a-arbitraje-internacional-acusa-discriminacion-en-trato-con-wom.shtml",
+     "official": false
+    },
+    {
+     "label": "DPL News 報導（西文）",
+     "url": "https://dplnews.com/america-movil-activa-arbitraje-contra-chile-por-wom/",
+     "official": false
+    },
+    {
+     "label": "La Tercera 報導：WOM 對智利 ICSID 仲裁終結（西文）",
+     "url": "https://www.latercera.com/pulso/noticia/ciadi-da-por-finalizado-oficialmente-el-arbitraje-entre-wom-y-el-estado-chileno-por-5g/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T07:06:28+08:00"
   }
  ],
  "agenda": [
@@ -3208,6 +3348,30 @@
    "caseRef": "ICSID Case No. ARB/26/41",
    "summary": "阿聯酋投資人 Aquilon 就石油資產爭議對南蘇丹及其國家石油公司 Nilepet 提起 ICSID 仲裁，依據與金額尚未公開。",
    "status": "ICSID 於 2026 年 10 月 16 日登記；據報模里西斯最高法院已核發支援仲裁的暫時性措施。"
+  },
+  {
+   "id": "urbajet-v-equatorial-guinea",
+   "type": "案件",
+   "court": "COURT",
+   "field": "commercial",
+   "forum": "美國哥倫比亞特區聯邦地方法院",
+   "name": "Urbajet 訴赤道幾內亞（ICC 判斷執行）",
+   "nameOriginal": "Urbajet SARLAU v. Republic of Equatorial Guinea",
+   "caseRef": "1:26-cv-03663 (D.D.C.)",
+   "summary": "摩洛哥營建公司 Urbajet 就社會住宅工程爭議取得對赤道幾內亞逾 1.1 億歐元的 ICC 仲裁判斷，並在美國聲請執行。",
+   "status": "2026 年 10 月 20 日提出執行聲請，法院已傳喚赤道幾內亞答辯。"
+  },
+  {
+   "id": "america-movil-v-chile",
+   "type": "案件",
+   "court": "NEWS",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "America Móvil 訴智利（5G 和解歧視）",
+   "nameOriginal": "América Móvil v. Republic of Chile",
+   "caseRef": "",
+   "summary": "墨西哥 América Móvil 指控智利與競爭對手 WOM 的 5G 建設和解協議構成歧視性待遇，依投資條約向智利發出爭端通知。",
+   "status": "智利於 2026 年 10 月第一週收到爭端通知，90 日協商期進行中，尚未提起仲裁。"
   }
  ]
 }
