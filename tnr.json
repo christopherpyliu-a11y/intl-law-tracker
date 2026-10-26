@@ -1,13 +1,393 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-24T23:15:21+08:00",
-  "lastRunLocal": "2026-10-24 23:15",
+  "lastRun": "2026-10-27T07:20:26+08:00",
+  "lastRunLocal": "2026-10-27 07:20",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：中國 2（政府措施 2）、伊朗 1（司法案件 1）、埃及 1（倡議 1）"
+  "lastRunNote": "新增 6 則：中國 2（政府措施 1、事件 1）、俄羅斯 2（國際組織 1、事件 1）、越南 1（事件 1）、綜合 1（研究報告 1）"
  },
  "items": [
+  {
+   "id": "2026-10-25-tnr-taiwan-hk-residency-revocation",
+   "court": "CN",
+   "kind": "政府措施",
+   "caseId": "taiwan-tnr-response",
+   "jurisdiction": "台灣",
+   "outlet": "自由時報",
+   "outletCode": "LTN",
+   "date": "2026-10-25",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "自由時報引述政府官員：在台港人若配合中國從事跨境鎮壓，將廢止其居留、定居或已取得之身分",
+   "shortTitle": "官員：港人協助跨境鎮壓將失居留身分",
+   "point": "已入籍者廢止身分、居留階段者不准定居；法務部研議修《反滲透法》加重刑責",
+   "titleOriginal": "內幕》在台港人若配合中國跨境鎮壓 官員：將廢止居留定居",
+   "caseRef": "",
+   "tldr": "一名不具名的台灣政府官員對自由時報表示，在台港人如果配合中國對台灣人跟監、恐嚇或施暴，已入籍者會被廢止台灣身分，還在居留階段的人不會獲准定居。官員以立委沈伯洋遭兩名港人委託徵信社跟監的案件為例，說台港司法互助幾乎停擺、對方不會遣返嫌犯，現行法只能以個資法等輕罪追訴，因此法務部正研議修《反滲透法》加重刑責。",
+   "memo": "依自由時報 2026 年 10 月 25 日報導，不具名政府官員表示，在台港人如配合中國從事跨境鎮壓，已歸化者將廢止其台灣身分，居留階段者不予定居許可；官員並以台北地檢署偵辦之香港人鞠覺賢、林慶於 2024 年委託徵信業者跟監立委沈伯洋全家案為例（業者等 4 人已依個人資料保護法起訴，鞠、林二人經發布通緝），指台港司法互助近乎停滯，現行法僅能論以個資等罪，法務部刻正研議修正反滲透法以提高刑度。報導未載明廢止身分之具體法律依據。",
+   "context": "台灣近月接連發生被認為與中國有關的跨境鎮壓事件，包括脫口秀演員黃逸豪遭撞、日籍評論家矢板明夫遭港籍男子毆打，以及立委沈伯洋（民進黨台北市長參選人）遭跟監。陸委會、行政院與最高檢已表態要修法並從嚴偵辦。\n依台北時報同日報導，台北地檢署 10 月 7 日對兩名港人發布通緝，兩人自 2024 年 9 月起多次入境台灣督導跟監，目前不在台灣。",
+   "facts": [
+    "依報導，香港人鞠覺賢、林慶 2024 年以約 36 萬元委託徵信業者，於沈伯洋住處對面機車上裝設針孔鏡頭，約一個月內全天候記錄沈伯洋與其妻女出入，影像再傳給境外敵對勢力。",
+    "徵信業者鄭永津、謝乙辰與員工江文鑫、侯凱瀚 4 人依《個人資料保護法》被起訴；鞠、林兩人非台灣居民，已遭通緝。",
+    "官員稱台港司法互助幾近停擺，香港不會遣返嫌犯，因此重點在嫌犯離境前迅速逮捕。",
+    "官員另舉矢板明夫在台中遭港籍男子攻擊案（檢方起訴並求刑 5 年），以及中方派女性房仲在美國蒐集賴清德總統家人資訊一案。",
+    "官員主張跨境鎮壓應視為侵害國家法益而非僅個人法益，並指台灣欠缺專門處罰跨境鎮壓的法律。"
+   ],
+   "issues": [
+    "以廢止居留、定居或歸化身分作為對協力者的制裁，法律依據為何、是否須經個案正當程序？",
+    "跨境鎮壓應定性為侵害國家法益或個人法益，對罪名設計與刑度有何影響？",
+    "在台港司法互助停擺下，如何追訴已離境的境外指使者？"
+   ],
+   "holding": "・官員表示：已歸化的在台港人若配合跨境鎮壓將廢止台灣身分；仍在居留階段者不予定居。\n・法務部研議修正《反滲透法》提高刑責；官員主張不應把此類案件當作一般傷害或個資案件處理。\n・政府優先目標是在嫌犯離境前迅速逮捕並求處重刑，警、檢與司法須密切協調。",
+   "significance": "這是政府首次公開把移民身分制裁列為對付跨境鎮壓協力者的手段，但目前僅是不具名官員的說法，尚未見正式公告或法條；後續觀察陸委會或內政部是否正式宣布，以及《反滲透法》修正草案內容。",
+   "editorNote": "本網頁助理 註：本則內容來自不具名官員對媒體的說法，非政府正式公告；報導未指明廢止身分所依據之《香港澳門關係條例》或《國籍法》條文。沈伯洋遭跟監案的起訴與通緝發生於 10 月 7 日，本站先前僅在其他則的背景中提及。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "香港",
+    "台灣",
+    "沈伯洋",
+    "矢板明夫",
+    "居留身分",
+    "反滲透法",
+    "個人資料保護法",
+    "徵信業者",
+    "在地協力者"
+   ],
+   "related": [
+    "2026-10-22-tnr-taiwan-ey-candidate-protection",
+    "2026-10-23-tnr-taiwan-supreme-prosecutors-crackdown"
+   ],
+   "sources": [
+    {
+     "label": "自由時報報導",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5618035",
+     "official": false
+    },
+    {
+     "label": "台北時報報導（英文）",
+     "url": "https://taipeitimes.com/News/front/archives/2026/10/26/2003866611",
+     "official": false
+    },
+    {
+     "label": "中國時報報導（10 月 7 日起訴）",
+     "url": "https://www.chinatimes.com/realtimenews/20261007001953-260402",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T07:20:26+08:00"
+  },
+  {
+   "id": "2026-10-22-tnr-thailand-uyghurs-pardoned",
+   "court": "CN",
+   "kind": "事件",
+   "caseId": "thailand-uyghur-detainees",
+   "jurisdiction": "泰國",
+   "outlet": "法新社（AFP）",
+   "outletCode": "AFP",
+   "date": "2026-10-22",
+   "eventDate": "2026-10-21",
+   "importance": 2,
+   "author": "",
+   "title": "泰國特赦兩名維吾爾男子並移送移民拘留中心，是否遣返中國待國家安全會議決定",
+   "shortTitle": "泰國特赦兩名維吾爾人待遣返",
+   "point": "已移至曼谷移民拘留中心，送回中國或第三國由國安會決定",
+   "titleOriginal": "Thailand pardons two Chinese Uyghurs, prepares deportation",
+   "caseRef": "",
+   "tldr": "2014 年在泰國被拘留的 300 多名維吾爾人中，有兩人因 2020 年企圖逃離移民拘留所被判刑。法新社報導，兩人已獲泰王特赦，10 月 21 日被移到曼谷移民拘留中心等候遣返；要送回中國還是其他國家，由泰國國家安全會議決定。泰國 2025 年曾把 40 名維吾爾人遣返中國，引發國際批評。",
+   "memo": "依法新社 2026 年 10 月 22 日報導，泰國移民局副局長 Thanit Thaiwatcharamat 表示，兩名於 2014 年遭泰國拘留、並因 2020 年企圖脫逃移民拘留所而受刑事判決之中國籍維吾爾男子，已獲王室特赦，並於 10 月 21 日移送曼谷移民拘留中心候遣，遣返中國或第三國將由國家安全會議決定；依泰國法律，在押外國人須刑期屆滿始得遣返。同案另三名脫逃案受刑人仍在監。",
+   "context": "2014 年泰國拘留了 300 多名從中國出逃的維吾爾人，其中約 170 人 2015 年被送往土耳其，百餘人同年被遣返中國。2025 年 2 月泰國再將 40 名維吾爾男子遣返中國，聯合國專家、美國國會與歐洲議會均予譴責。\n2020 年有五名被拘維吾爾人企圖逃離拘留所，國際特赦組織轉述他們稱拘留環境擁擠潮濕；五人因此被定罪，也因在監服刑而未列入 2025 年那批遣返。",
+   "facts": [
+    "兩名男子獲王室特赦，10 月 21 日（週三）移至曼谷移民拘留中心。",
+    "移民局副局長 Thanit Thaiwatcharamat 對法新社表示，兩人將被遣返中國或其他國家，待政府決定。",
+    "前國會議員、2014 年曾任職聯合國難民署的 Kannavee Suebsang 說，國家安全會議將決定其去向，是否有第三國願意接收是考量因素之一。",
+    "同因 2020 年脫逃案被定罪的另外三人仍在監服刑。",
+    "報導未公開兩人姓名。"
+   ],
+   "issues": [
+    "將維吾爾人遣返中國是否違反禁止酷刑公約與習慣國際法上的不遣返原則？",
+    "泰國是否會讓第三國接收，以避免重演 2025 年的遣返爭議？"
+   ],
+   "holding": "・泰國移民局表示兩人候遣，目的地未定。\n・去向由泰國國家安全會議決定，第三國接收意願為考量之一。\n・報導未見中國政府回應。",
+   "significance": "兩人是 2014 年那批被拘維吾爾人中最後仍在泰國的少數人，若被送回中國，將是泰國繼 2025 年之後再次遣返維吾爾人；後續觀察國安會決定及第三國安置的可能。",
+   "editorNote": "本網頁助理 註：事件日期 10 月 21 日依報導所稱「週三」推算，為移送拘留中心之日，特赦日期未見報導。法新社原文需登入，本則依 The Sun（馬來西亞）經 Newswav 轉載全文及 NAMPA 摘要整理；曼谷郵報同題報導本站未能開啟。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "泰國",
+    "維吾爾",
+    "遣返",
+    "不遣返原則",
+    "特赦",
+    "移民拘留"
+   ],
+   "related": [
+    "2026-10-16-tnr-uyghur-groups-rubio-central-asia"
+   ],
+   "sources": [
+    {
+     "label": "The Sun 轉載法新社報導（Newswav）",
+     "url": "https://newswav.com/article/thailand-pardons-two-chinese-uyghurs-prepares-deportation-A2610_83npI3",
+     "official": false
+    },
+    {
+     "label": "NAMPA 轉發法新社電稿",
+     "url": "https://www.nampa.org/text/23046682",
+     "official": false
+    },
+    {
+     "label": "曼谷郵報報導",
+     "url": "https://www.bangkokpost.com/thailand/general/3342634/2-chinese-uyghurs-pardoned",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T07:20:26+08:00"
+  },
+  {
+   "id": "2026-10-23-tnr-viet-tan-consular-access",
+   "court": "VN",
+   "kind": "事件",
+   "caseId": "viet-tan-cambodia-abduction",
+   "jurisdiction": "柬埔寨、越南",
+   "outlet": "UCA News（經 CathNews 轉載）",
+   "outletCode": "UCA",
+   "date": "2026-10-23",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Luke Hunt（UCA News）",
+   "title": "UCA News 報導：遭越南羈押的澳洲籍越新黨成員向領事否認非法入境，三人關押於胡志明市 B34 監獄",
+   "shortTitle": "越新黨被押成員獲領事探視",
+   "point": "澳洲籍 Tran 向領事否認偷渡入境；29 個團體稱屬「明目張膽的跨國鎮壓」",
+   "titleOriginal": "Vietnam under pressure to free 'abducted' activists",
+   "caseRef": "",
+   "tldr": "9 月在柬埔寨失聯、後來出現在越南羈押中的三名越新黨成員，已獲得領事協助。UCA News 報導，澳洲籍的 Tran Hiep 10 月 15、16 日告訴澳洲領事官員，他和挪威籍的 Nguyen Duc Thuan 並未試圖從柬埔寨偷渡進入越南，與越南官方說法相反。三人關押在胡志明市 B34 監獄。",
+   "memo": "依 UCA News 記者 Luke Hunt 報導（CathNews 2026 年 10 月 23 日轉載），越新黨成員 Tran Hiep（澳洲籍）及 Nguyen Duc Thuan（挪威籍）已獲領事協助，Tran 於 10 月 15 日至 16 日向澳洲領事官員表示其二人並未自柬埔寨非法進入越南，與越南當局之指述相反；三人（另含越南籍 Thai Cong Truong Son）現羈押於胡志明市 B34 監獄。柬埔寨否認知情，29 個公民社會團體稱本案為明目張膽之跨國鎮壓。",
+   "context": "三人 9 月中旬在柬埔寨失聯，越南警方稱他們 9 月 18 日持假證件從柬埔寨越境進入西寧省，並以恐怖主義與偽造文書罪名起訴；人權觀察 10 月 13 日要求放人並讓挪威、澳洲領事探視。越南將越新黨列為恐怖組織，該黨否認。",
+   "facts": [
+    "報導稱兩名外籍成員已獲領事協助；獨立消息來源指兩人 9 月中旬與運動者會面後遭蒙面男子綁走。",
+    "Tran 10 月 15、16 日向澳洲領事官員表示，兩人並未嘗試從柬埔寨非法入境越南。",
+    "三人關押於胡志明市 B34 監獄；第三人 Thai Cong Truong Son 為越南公民。",
+    "柬埔寨否認知悉綁架；一名接近國際調查的消息來源稱，越方行為人得以越境並將三人帶回而未受阻。",
+    "29 個公民社會團體稱本案是「明目張膽的跨國鎮壓」；海外越南社群為三人舉行祈禱會。"
+   ],
+   "issues": [
+    "當事人向領事的陳述與越南「偷渡入境」說法相左，對刑事程序與外交交涉有何影響？",
+    "柬埔寨對外國人在其境內遭帶走是否負有調查義務？"
+   ],
+   "holding": "・澳洲、挪威籍兩人已獲領事協助；Tran 否認非法入境。\n・越南維持起訴；柬埔寨否認知情。\n・報導未提及審判日期，亦未見挪威、澳洲政府新的公開表態。",
+   "significance": "首次有當事人本人經由領事管道反駁越南的入境說法，增加「境外綁架」的可信度；後續觀察起訴進度、審判日期與澳洲、挪威的外交行動。",
+   "editorNote": "本網頁助理 註：本則依 CathNews 轉載之 UCA News 報導整理，「蒙面男子綁走」係報導引述不具名獨立消息來源，尚未經官方證實。HRW 先前報導兩人為「失聯」，至 10 月 11 日尚未獲領事探視；本報導未說明首次探視日期。",
+   "tags": [
+    "跨國鎮壓",
+    "越南",
+    "柬埔寨",
+    "越新黨",
+    "強迫失蹤",
+    "領事探視",
+    "澳洲",
+    "挪威"
+   ],
+   "related": [
+    "2026-10-13-tnr-hrw-vietnam-viet-tan"
+   ],
+   "sources": [
+    {
+     "label": "CathNews 轉載 UCA News 報導",
+     "url": "https://cathnews.com/2026/10/23/vietnam-under-pressure-to-free-abducted-activists/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T07:20:26+08:00"
+  },
+  {
+   "id": "2026-10-26-tnr-un-sr-russia-unga-report",
+   "court": "RU",
+   "kind": "國際組織",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "聯合國人權事務高級專員辦事處（OHCHR）",
+   "outletCode": "UN",
+   "date": "2026-10-26",
+   "eventDate": "2026-10-26",
+   "importance": 2,
+   "author": "",
+   "title": "聯合國俄羅斯人權特別報告員向聯合國大會提出報告，指鎮壓已延伸至境外，呼籲各國拒絕政治性引渡與國際刑警組織請求",
+   "shortTitle": "聯合國專家向聯大報告俄國鎮壓",
+   "point": "缺席判決由 2022 年 4 件增至 2025 年 157 件，籲拒絕政治性引渡與 Interpol 請求",
+   "titleOriginal": "Russia must stop punishing critics as “traitors to the Motherland” at home and abroad as repression goes transnational: UN Special Rapporteur",
+   "caseRef": "",
+   "tldr": "聯合國俄羅斯人權特別報告員 Katzarova 10 月 26 日在紐約向聯合國大會提出年度報告。她說俄羅斯的鎮壓已成為常態治理手段，並延伸到海外批評者身上：對流亡者的缺席判決從 2022 年的 4 件增加到 2025 年的 157 件。她呼籲各國拒絕具政治動機的引渡與國際刑警組織請求、保護出逃者，並以普遍管轄追究責任。",
+   "memo": "聯合國俄羅斯聯邦人權狀況特別報告員 Mariana Katzarova 於 2026 年 10 月 26 日在紐約向聯合國大會提出報告，指截至 2026 年 9 月俄羅斯有 4,968 人遭政治性追訴、2,178 人在押，對海外人士之缺席判決由 2022 年 4 件增至 2025 年 157 件，「恐怖分子及極端分子」名單達 22,000 人；報告建議各國保全證據、運用普遍管轄、制裁相關官員、拒絕具政治動機之引渡及國際刑警組織請求，並保護自俄羅斯出逃者。",
+   "context": "Katzarova 9 月已向人權理事會提出以俄羅斯跨國鎮壓為主題的報告「Nowhere is Safe」，建議制定聯合國跨國鎮壓公約（見相關條目）。本次為向聯合國大會第三委員會提出的年度國別報告。",
+   "facts": [
+    "截至 2026 年 9 月，4,968 人遭政治動機追訴，其中 2,178 人在押；平均刑期由 2021 年不到 7 年升至 11 年。",
+    "2025 年叛國與間諜罪定罪增加 30%，達 468 件，無一無罪。",
+    "「恐怖分子及極端分子」名單達 22,000 人；最高法院將 Memorial 列為「極端組織」，OVD-Info 隨後亦然。",
+    "對海外人士的缺席判決由 2022 年 4 件增至 2025 年 157 件。",
+    "俄羅斯退出《歐洲防止酷刑公約》將於 11 月 1 日生效；2022 年以來至少 55 名政治犯死於羈押。"
+   ],
+   "issues": [
+    "各國應如何審查俄羅斯的引渡與國際刑警組織請求，以免成為跨國鎮壓的工具？",
+    "普遍管轄與制裁能否在俄國政權更迭前實現問責？"
+   ],
+   "holding": "・建議保全證據供未來法院使用、運用普遍管轄、制裁負責官員。\n・建議拒絕具政治動機的引渡與國際刑警組織請求，並保護出逃者。\n・報告員稱「問責不能等到莫斯科政府更迭」。",
+   "significance": "跨國鎮壓議題由人權理事會延伸到聯合國大會；觀察第三委員會各國發言，以及各國是否據此調整對俄引渡與紅色通緝的審查。",
+   "editorNote": "本網頁助理 註：本則依聯合國新聞稿整理，報告全文文號新聞稿未載明。",
+   "tags": [
+    "跨國鎮壓",
+    "俄羅斯",
+    "聯合國大會",
+    "特別報告員",
+    "缺席審判",
+    "國際刑警組織",
+    "引渡",
+    "普遍管轄"
+   ],
+   "related": [
+    "2026-10-06-tnr-un-sr-russia-nowhere-is-safe"
+   ],
+   "sources": [
+    {
+     "label": "聯合國人權高專辦新聞稿",
+     "url": "https://www.ohchr.org/en/press-releases/2026/10/russia-must-stop-punishing-critics-traitors-motherland-home-and-abroad",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-27T07:20:26+08:00"
+  },
+  {
+   "id": "2026-10-26-tnr-russia-karetnikova-prosecution",
+   "court": "RU",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "法國",
+   "outlet": "Meduza",
+   "outletCode": "MDZ",
+   "date": "2026-10-26",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "莫斯科檢方要求對流亡法國的 Memorial 人權工作者 Anna Karetnikova 立案，罪名為逃避外國代理人義務及參與「極端組織」",
+   "shortTitle": "俄檢方擬起訴流亡人權工作者",
+   "point": "Karetnikova 被控參與「極端組織」Memorial，Meduza 稱為首件因與該組織合作而起的刑案",
+   "titleOriginal": "Moscow prosecutors seek criminal charges against prominent human rights activist Anna Karetnikova",
+   "caseRef": "",
+   "tldr": "長期為 Memorial 工作、2023 年離開俄羅斯前往法國的人權工作者 Anna Karetnikova，遭莫斯科檢方要求立案，罪名是發文未標示「外國代理人」及參與被判為「極端組織」的團體。案件以缺席方式進行。國際特赦組織批評這是因她的人權工作而起訴。",
+   "memo": "依 Meduza 及 OVD-Info 2026 年 10 月 26 日報導，莫斯科市檢察署表示，列福爾托沃區際檢察署已彙整資料，要求對人權工作者 Anna Karetnikova 依俄羅斯刑法第 330.1 條第 2 項（逃避外國代理人義務）及第 282.2 條第 2 項（參與極端組織活動）立案偵查，指其在國外散布未標示外國代理人之資料並協助被法院認定為極端組織之團體運作；Karetnikova 於 2023 年離俄赴法，案件以缺席方式進行。國際特赦組織譴責係針對其人權工作。",
+   "context": "Karetnikova 自 2002 年起與 Memorial 合作，曾任莫斯科公共監督委員會委員八年，2016 年起任聯邦刑罰執行局莫斯科分局首席分析師，2023 年 1 月遭停職後離開俄羅斯。俄羅斯最高法院 2026 年 4 月將 Memorial 認定為「極端組織」。俄國近年頻以外國代理人法與缺席審判追訴海外批評者。",
+   "facts": [
+    "莫斯科檢方稱其在俄羅斯境外散布資料未附「外國代理人」標示，且先前已因同類行為受行政罰（行政違法法典第 19.34 條）。",
+    "檢方稱她是被認定為極端組織之團體成員，散布其資料並協助其持續運作，但未點名該組織；Memorial 人權中心認為指的是國際 Memorial 運動。",
+    "Karetnikova 表示，她是因參與延續 Memorial 工作的計畫而遭追訴。",
+    "Meduza 指此前未見因與 Memorial 合作而遭刑事立案的報導。",
+    "國際特赦組織發表聲明，指她因人權工作面臨「極端主義」指控。"
+   ],
+   "issues": [
+    "以「參與極端組織」追訴人權團體成員，是否構成對結社與表達自由的不當限制？",
+    "缺席追訴對其在法國生活、跨境旅行及國際刑警組織通緝風險的影響？"
+   ],
+   "holding": "・檢方建議依刑法第 330.1 條第 2 項及第 282.2 條第 2 項立案。\n・Karetnikova 本人否認不法，稱係因延續 Memorial 工作而遭追訴。\n・國際特赦組織批評此案將人權工作入罪。",
+   "significance": "若立案，將是 Memorial 被列為極端組織後首件針對其合作者的刑案，可能擴及其他流亡成員；後續觀察是否正式立案、缺席審判及是否列入通緝或「公民死亡」名單。",
+   "editorNote": "本網頁助理 註：國際特赦組織聲明原文本站未能開啟，其內容依 Tolerance.ca 轉載摘錄。",
+   "tags": [
+    "跨國鎮壓",
+    "俄羅斯",
+    "法國",
+    "Memorial",
+    "外國代理人",
+    "極端組織",
+    "缺席審判",
+    "人權捍衛者"
+   ],
+   "related": [
+    "2026-10-26-tnr-un-sr-russia-unga-report",
+    "2026-10-23-tnr-russia-civil-death-registry"
+   ],
+   "sources": [
+    {
+     "label": "Meduza 報導",
+     "url": "https://meduza.io/en/news/2026/10/26/moscow-prosecutors-seek-criminal-charges-against-prominent-human-rights-activist-anna-karetnikova",
+     "official": false
+    },
+    {
+     "label": "OVD-Info 報導",
+     "url": "https://ovd.info/en/express-news/2026/10/26/prosecutors-office-has-demanded-criminal-case-be-opened-against-human",
+     "official": false
+    },
+    {
+     "label": "國際特赦組織聲明",
+     "url": "https://www.amnesty.org/en/latest/news/2026/10/russia-exiled-advocate-faces-extremism-charges-over-human-rights-work-for-nobel-peace-prize-winning-ngo-memorial/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T07:20:26+08:00"
+  },
+  {
+   "id": "2026-10-16-tnr-omct-fidh-east-africa-report",
+   "court": "MULTI",
+   "kind": "研究報告",
+   "caseId": "",
+   "jurisdiction": "肯亞、盧安達、烏干達",
+   "outlet": "保護人權捍衛者觀察站（OMCT／FIDH）",
+   "outletCode": "FIDH",
+   "date": "2026-10-16",
+   "eventDate": "2026-10-16",
+   "importance": 2,
+   "author": "保護人權捍衛者觀察站（OMCT、FIDH）、IMLU、SOS-Torture Burundi",
+   "title": "OMCT 與 FIDH 報告：東非跨國鎮壓達到新高，近半受訪流亡人權捍衛者在海外遭鎖定",
+   "shortTitle": "報告：東非跨國鎮壓創新高",
+   "point": "50 名受訪捍衛者中 46% 在流亡地遭鎖定，區域國家間協同打壓趨勢明顯",
+   "titleOriginal": "Out of Reach, Not Out of Risk: Transnational Repression of Human Rights Defenders in East Africa",
+   "caseRef": "",
+   "tldr": "世界反酷刑組織（OMCT）與國際人權聯盟（FIDH）合作的觀察站發表報告，訪問來自蒲隆地、剛果民主共和國、衣索比亞、肯亞、蘇丹、南蘇丹、坦尚尼亞與烏干達的 50 名人權捍衛者，發現 46% 在流亡地仍遭鎖定，手法從跟監、網路攻擊到綁架與強迫失蹤；報告指東非各國越來越常彼此配合打壓。",
+   "memo": "保護人權捍衛者觀察站（世界反酷刑組織與國際人權聯盟合作計畫）偕 IMLU 及 SOS-Torture Burundi 於 2026 年 10 月 16 日發表報告，依訪談 8 國 50 名人權捍衛者及 14 名利害關係人，指出 46% 受訪者在流亡地遭鎖定，手法包括跟監或接觸（65%）、數位攻擊（30%）、法律或移民程序施壓（10%）及直接人身干預（10%），最嚴重者涉及綁架、酷刑、強迫失蹤及企圖非法移送，並呼籲地主國強化保護、調查問責、停止濫用移民及執法合作程序並提供救濟。",
+   "context": "東非多國近年發生流亡人士在鄰國遭綁架或強制遣返的案件，地主國與母國間的安全合作被認為是重要因素。報告以肯亞、盧安達、烏干達為主要地主國分析風險。",
+   "facts": [
+    "訪談 50 名人權捍衛者並諮詢 14 名其他利害關係人，受訪者來自 8 國。",
+    "46% 受訪者表示在流亡地遭鎖定。",
+    "手法：跟監或接觸 65%、數位攻擊 30%、法律或移民程序施壓 10%、直接人身干預 10%。",
+    "最嚴重案例涉及綁架、酷刑或其他不當對待、強迫失蹤與企圖非法移送。",
+    "報告指威脅「日益區域化、協同化」，在選舉與政治競爭期間尤甚。"
+   ],
+   "issues": [
+    "地主國參與或默許跨國鎮壓時，國際法上的責任如何認定？",
+    "區域執法與移民合作機制應設哪些防護，避免被用來鎖定人權捍衛者？"
+   ],
+   "holding": "・東非跨國鎮壓快速升高，且記錄不足。\n・地主國扮演關鍵角色，區域國家間出現協同打壓。\n・建議：保障流亡捍衛者取得有效保護並建立早期預警；調查並追究責任；停止濫用移民程序與執法合作；提供受害者救濟。",
+   "significance": "補足非洲地區跨國鎮壓資料的空白；同月非洲人權委員會 NGO 論壇亦通過跨國鎮壓主題決議，觀察非洲人權委員會第 89 屆常會是否跟進。",
+   "editorNote": "本網頁助理 註：本報告發表於 10 月 16 日，本站於本次補收。非洲人權委員會 NGO 論壇決議資訊依 Committee for Justice 10 月 15 日聲明。",
+   "tags": [
+    "跨國鎮壓",
+    "東非",
+    "肯亞",
+    "盧安達",
+    "烏干達",
+    "人權捍衛者",
+    "強迫失蹤",
+    "數位攻擊"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "國際人權聯盟新聞稿（報告發表）",
+     "url": "https://www.fidh.org/en/region/Africa/east-africa-new-report-exposes-how-transnational-repression-follows",
+     "official": false
+    },
+    {
+     "label": "世界反酷刑組織新聞稿",
+     "url": "https://www.omct.org/en/resources/news-releases/east-africa-new-report-exposes-how-transnational-repression-follows-human-rights-defenders-into-exile",
+     "official": false
+    },
+    {
+     "label": "Committee for Justice 聲明（NGO 論壇決議）",
+     "url": "https://www.cfjustice.org/cfj-welcomes-ngo-forum-adoption-of-landmark-resolution-on-transnational-repression-in-africa/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T07:20:26+08:00"
+  },
   {
    "id": "2026-10-23-tnr-egypt-relatives-dissidents-detained",
    "court": "EG",
@@ -164,7 +544,8 @@
    ],
    "related": [
     "2026-10-16-tnr-taiwan-cib-warning",
-    "2026-10-22-tnr-taiwan-ey-candidate-protection"
+    "2026-10-22-tnr-taiwan-ey-candidate-protection",
+    "2026-10-25-tnr-taiwan-hk-residency-revocation"
    ],
    "sources": [
     {
@@ -226,7 +607,8 @@
    "related": [
     "2026-10-08-tnr-taiwan-mac-standalone-offence",
     "2026-10-21-tnr-taiwan-huang-yi-hao-indictment",
-    "2026-10-23-tnr-taiwan-supreme-prosecutors-crackdown"
+    "2026-10-23-tnr-taiwan-supreme-prosecutors-crackdown",
+    "2026-10-25-tnr-taiwan-hk-residency-revocation"
    ],
    "sources": [
     {
@@ -882,7 +1264,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-23-tnr-hague-uyghur-protester"
+    "2026-10-23-tnr-hague-uyghur-protester",
+    "2026-10-22-tnr-thailand-uyghurs-pardoned"
    ],
    "sources": [
     {
@@ -991,7 +1374,8 @@
     "挪威"
    ],
    "related": [
-    "2026-10-22-tnr-fh-tnr-watch-southeast-asia"
+    "2026-10-22-tnr-fh-tnr-watch-southeast-asia",
+    "2026-10-23-tnr-viet-tan-consular-access"
    ],
    "sources": [
     {
@@ -1284,7 +1668,8 @@
     "跨國鎮壓公約"
    ],
    "related": [
-    "2026-10-23-tnr-russia-civil-death-registry"
+    "2026-10-23-tnr-russia-civil-death-registry",
+    "2026-10-26-tnr-un-sr-russia-unga-report"
    ],
    "sources": [
     {
@@ -1572,7 +1957,8 @@
     "流亡人士"
    ],
    "related": [
-    "2026-10-06-tnr-un-sr-russia-nowhere-is-safe"
+    "2026-10-06-tnr-un-sr-russia-nowhere-is-safe",
+    "2026-10-26-tnr-russia-karetnikova-prosecution"
    ],
    "sources": [
     {
@@ -1704,7 +2090,7 @@
    "nameOriginal": "Taiwan's response to China-linked transnational repression",
    "caseRef": "",
    "summary": "台灣政府對受中國指使的跟監、恐嚇與暴力事件的偵辦、警示與修法動向。",
-   "status": "行政院 10 月 22 日指示檢警調專案保護地方選舉候選人並研修《反滲透法》，最高檢要求從嚴從速偵辦；全台已有 17 個縣市議會通過提案促中央立法，修法草案尚未公布。"
+   "status": "行政院 10 月 22 日指示專案保護候選人並研修《反滲透法》，最高檢要求從嚴從速偵辦；官員 10 月 25 日稱協助跨境鎮壓之在台港人將廢止居留或身分，修法草案尚未送立法院。"
   },
   {
    "id": "viet-tan-cambodia-abduction",
@@ -1715,7 +2101,7 @@
    "nameOriginal": "Viet Tan members taken from Cambodia (Nguyen Duc Thuan, Tran Hiep, Thai Cong Truong Son)",
    "caseRef": "",
    "summary": "三名越新黨成員（含挪威籍、澳洲籍各一）2026 年 9 月在柬埔寨失聯後遭越南羈押，越南稱其非法入境並控以恐怖主義與偽造文書。",
-   "status": "三人在越南以恐怖主義等罪名遭起訴；至 10 月中旬挪威、澳洲仍未獲領事探視。"
+   "status": "三人以恐怖主義等罪名遭起訴，關押於胡志明市 B34 監獄；澳洲、挪威籍兩人已獲領事協助，Tran Hiep 向領事否認非法入境。"
   },
   {
    "id": "khieo-lapchanh-disappearance",
@@ -1771,6 +2157,17 @@
    "caseRef": "",
    "summary": "俄羅斯 2026 年 7 月通過法律，對被缺席定罪或處罰而居留國外的批評者凍結資產、限制財產交易並拒絕領事服務，並由司法部公布名單。",
    "status": "司法部於 2026 年 10 月公布首批 12 人名單，副部長稱該法合憲但可能微調。"
+  },
+  {
+   "id": "thailand-uyghur-detainees",
+   "type": "案件",
+   "court": "CN",
+   "forum": "泰國國家安全會議",
+   "name": "泰國拘押維吾爾人遣返案",
+   "nameOriginal": "Uyghur detainees in Thailand (2014 group)",
+   "caseRef": "",
+   "summary": "2014 年在泰國被拘留的 300 多名維吾爾人中仍留在泰國者的去向；泰國曾於 2015 年及 2025 年將部分人遣返中國。",
+   "status": "兩名因 2020 年脫逃案服刑者獲特赦，10 月 21 日移至曼谷移民拘留中心，遣返中國或第三國待國安會決定；另三人仍在監。"
   }
  ]
 }
