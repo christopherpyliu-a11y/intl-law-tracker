@@ -5,9 +5,9 @@
 <meta name="author" content="PY Liu">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#142D43">
-<meta name="description" content="每日兩次更新的國際法動態：國際公法（國際法院、國際刑事法院、區域人權法院、國際海洋法法庭與學術評論）、國際仲裁法（國際商務仲裁與投資條約仲裁的法院裁判、仲裁判斷、機構規則與評論）與跨國鎮壓（威權政府跨境追緝、騷擾海外異議人士的事件、司法案件與研究），附白話脈絡摘要與原始資料連結。">
+<meta name="description" content="每日兩次更新的國際法動態：國際公法（國際法院、國際刑事法院、區域人權法院、國際海洋法法庭與學術評論）、國際仲裁法（國際商務仲裁與投資條約仲裁的法院裁判、仲裁判斷、機構規則與評論）、跨國鎮壓（威權政府跨境追緝、騷擾海外異議人士的事件、司法案件與研究）與 Fintech Law（穩定幣、加密資產、代幣化、支付與金融 AI 的立法、監理與執法），附白話脈絡摘要與原始資料連結。">
 <meta property="og:title" content="國際法動態追蹤">
-<meta property="og:description" content="國際公法、國際商務仲裁與投資條約仲裁、跨國鎮壓的最新判決與動態，附白話脈絡摘要與原始資料連結。">
+<meta property="og:description" content="國際公法、國際商務仲裁與投資條約仲裁、跨國鎮壓與 Fintech Law 的最新判決與動態，附白話脈絡摘要與原始資料連結。">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://christopherpyliu-a11y.github.io/intl-law-tracker/">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230A2540'/%3E%3Cpath d='M32 14v34M18 22h28M22 22l-7 14h14zM42 22l-7 14h14zM24 48h16' stroke='%23C9A227' stroke-width='3.2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
@@ -216,7 +216,7 @@ h1 { font-family: var(--f-display); font-weight: 700; font-size: 30px; line-heig
 .sec-tab .short { display: none; }
 @media (max-width: 600px) { .sec-tab .full { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; } .sec-tab .short { display: inline; } }
 @media (max-width: 440px) { .sec-tab .n { display: none; } }
-@media (max-width: 400px) { .sec-tab { padding-inline: 6px; letter-spacing: 0.02em; } }
+@media (max-width: 400px) { .sec-tab { padding-inline: 4px; letter-spacing: 0; font-size: 14px; } }
 
 /* filters: under the section heading, one quiet band closed by a hairline */
 .zone-filters { border-bottom: 1px solid var(--line); }
@@ -608,12 +608,12 @@ body[data-sec="home"] .reader:empty { display: none; }
   .hl-side .hl-link { padding-left: 36px; }
 }
 /* the two sections: name, one line of scope and an arrow link, divided by a hairline */
-.dm-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); border-top: 1px solid var(--line-strong); }
+.dm-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); border-top: 1px solid var(--line-strong); }
 .dm { min-width: 0; }
-.dm + .dm { border-left: 1px solid var(--line); }
-.dm-link { display: grid; gap: 8px; padding: 22px 32px 24px 0; color: var(--ink); text-decoration: none; }
-.dm + .dm .dm-link { padding: 22px 32px 24px 32px; }
-.dm:last-child .dm-link { padding-right: 0; }
+.dm:nth-child(even) { border-left: 1px solid var(--line); }
+.dm:nth-child(n+3) { border-top: 1px solid var(--line); }
+.dm-link { display: grid; gap: 8px; padding: 22px 36px 24px 0; color: var(--ink); text-decoration: none; }
+.dm:nth-child(even) .dm-link { padding: 22px 0 24px 36px; }
 .dm-link:hover { color: var(--ink); }
 .dm-link:focus-visible { outline-offset: 4px; }
 .dm-name { margin: 0; font-family: var(--f-display); font-weight: 700; font-size: 22px; line-height: 1.3; letter-spacing: 0.08em; color: var(--heading); }
@@ -634,10 +634,11 @@ a.nx-title { text-decoration: none; }
 a.nx-title:hover { color: var(--link); text-decoration: underline; text-underline-offset: 3px; }
 .nx-type { font-size: var(--s-xs); line-height: 1.6; color: var(--tag-ink); background: var(--tag-bg); border-radius: var(--radius-sm); padding: 0 7px; white-space: nowrap; }
 .nx-more { justify-self: start; }
-@media (max-width: 900px) {
+@media (max-width: 700px) {
   .dm-list { grid-template-columns: minmax(0, 1fr); }
-  .dm + .dm { border-left: 0; border-top: 1px solid var(--line); }
-  .dm-link, .dm + .dm .dm-link, .dm:last-child .dm-link { padding: 20px 0 22px; }
+  .dm:nth-child(even) { border-left: 0; }
+  .dm + .dm { border-top: 1px solid var(--line); }
+  .dm-link, .dm:nth-child(even) .dm-link { padding: 20px 0 22px; }
 }
 @media (max-width: 640px) {
   .home-lede { font-size: 18px; }
@@ -850,7 +851,7 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
 <footer class="foot">
   <div class="wrap foot-inner">
     <span class="foot-name">國際法動態追蹤</span>
-    <span>國際公法、國際仲裁法與跨國鎮壓動態，每日早晚兩次更新</span>
+    <span>國際公法、國際仲裁法、跨國鎮壓與 Fintech Law 動態，每日早晚兩次更新</span>
     <span>各則內容以所附原始資料為準</span>
     <span class="foot-by">網站維護者：PY Liu（<a href="mailto:christopher.py.liu@gmail.com">christopher.py.liu@gmail.com</a>）</span>
   </div>
@@ -935,6 +936,49 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
       emptyText: "每日排程更新後，新的跨國鎮壓動態會依日期排列在這裡。",
       filterHint: "試著移除部分篩選條件，或按「清除全部」。"
     },
+    // Fintech Law: the chip on each entry names the regulator or body the entry concerns
+    fin: {
+      label: "Fintech Law", en: "Financial Technology Law", file: "fintech.json", codeFromCat: true,
+      eyebrow: "Fintech & Digital Finance Regulation",
+      cats: {
+        FSB:   { code: "FSB",   zh: "金融穩定委員會（FSB）",           en: "Financial Stability Board" },
+        BIS:   { code: "BIS",   zh: "國際清算銀行（BIS）／BIS 創新中心", en: "Bank for International Settlements" },
+        IOSCO: { code: "IOSCO", zh: "國際證券管理機構組織（IOSCO）",   en: "International Organization of Securities Commissions" },
+        BCBS:  { code: "BCBS",  zh: "巴塞爾銀行監理委員會（BCBS）",     en: "Basel Committee on Banking Supervision" },
+        FATF:  { code: "FATF",  zh: "防制洗錢金融行動工作組織（FATF）", en: "Financial Action Task Force" },
+        INTL:  { code: "國際",  zh: "其他國際組織與研究機構",           en: "Other international bodies" },
+        SEC:   { code: "SEC",   zh: "美國證券交易委員會（SEC）",       en: "U.S. Securities and Exchange Commission" },
+        CFTC:  { code: "CFTC",  zh: "美國商品期貨交易委員會（CFTC）",   en: "U.S. Commodity Futures Trading Commission" },
+        OCC:   { code: "OCC",   zh: "美國貨幣監理署（OCC）",           en: "Office of the Comptroller of the Currency" },
+        FED:   { code: "FED",   zh: "美國聯準會",                     en: "Federal Reserve Board" },
+        FDIC:  { code: "FDIC",  zh: "美國聯邦存款保險公司（FDIC）",     en: "Federal Deposit Insurance Corporation" },
+        TREAS: { code: "美財政部", zh: "美國財政部（含 FinCEN、OFAC）", en: "U.S. Treasury (FinCEN, OFAC)" },
+        CFPB:  { code: "CFPB",  zh: "美國消費者金融保護局（CFPB）",     en: "Consumer Financial Protection Bureau" },
+        US:    { code: "美國",  zh: "美國（國會、各州與法院）",         en: "U.S. Congress, states & courts" },
+        EU:    { code: "歐盟",  zh: "歐盟（執委會、理事會、歐洲議會）", en: "EU institutions" },
+        ESMA:  { code: "ESMA",  zh: "歐洲證券及市場管理局（ESMA）",     en: "European Securities and Markets Authority" },
+        EBA:   { code: "EBA",   zh: "歐洲銀行管理局（EBA）",           en: "European Banking Authority" },
+        ECB:   { code: "ECB",   zh: "歐洲中央銀行（ECB）",             en: "European Central Bank" },
+        FCA:   { code: "FCA",   zh: "英國金融行為監理總署（FCA）",     en: "Financial Conduct Authority" },
+        BOE:   { code: "BoE",   zh: "英格蘭銀行",                     en: "Bank of England" },
+        HMT:   { code: "英財政部", zh: "英國財政部",                   en: "HM Treasury" },
+        MAS:   { code: "MAS",   zh: "新加坡金融管理局（MAS）",         en: "Monetary Authority of Singapore" },
+        HKMA:  { code: "HKMA",  zh: "香港金融管理局（HKMA）",          en: "Hong Kong Monetary Authority" },
+        SFC:   { code: "SFC",   zh: "香港證券及期貨事務監察委員會（證監會）", en: "Securities and Futures Commission" },
+        ASIC:  { code: "ASIC",  zh: "澳洲證券投資委員會（ASIC）",       en: "Australian Securities and Investments Commission" },
+        TW:    { code: "金管會", zh: "金融監督管理委員會（台灣）",       en: "Financial Supervisory Commission (Taiwan)" },
+        JP:    { code: "日本",  zh: "日本（金融廳等）",                 en: "Japan" },
+        KR:    { code: "韓國",  zh: "韓國（金融委員會等）",             en: "Korea" },
+        OTHER: { code: "其他",  zh: "",                               en: "Other" }
+      },
+      order: ["FSB", "BIS", "IOSCO", "BCBS", "FATF", "INTL", "SEC", "CFTC", "OCC", "FED", "FDIC", "TREAS", "CFPB", "US", "EU", "ESMA", "EBA", "ECB",
+              "FCA", "BOE", "HMT", "MAS", "HKMA", "SFC", "ASIC", "TW", "JP", "KR", "OTHER"],
+      genres: { news: "監理動態", comment: "評論" },
+      placeholder: "搜尋機關、法規、關鍵字（例：穩定幣、MiCA、GENIUS Act、代幣化）",
+      loadingText: "各國金融監理機關與國際組織在穩定幣、加密資產、代幣化、支付與金融 AI 的立法、規則、指引與執法動態會顯示在這裡。",
+      emptyText: "每日排程更新後，新的 Fintech Law 動態會依日期排列在這裡。",
+      filterHint: "試著移除部分篩選條件，或按「清除全部」。"
+    },
     week: {
       label: "本週重點", en: "Weekly", file: "digest.json", digest: true, page: true,
       eyebrow: "Weekly Briefing",
@@ -943,14 +987,15 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
   };
   SECTIONS.home = {
     label: "首頁", en: "Home", home: true, page: true,
-    eyebrow: "International Law Docket · Courts, Arbitration & Transnational Repression",
+    eyebrow: "International Law Docket · Courts, Arbitration, Transnational Repression & Fintech",
     cats: {}, order: [], placeholder: "", loadingText: "", emptyText: "", filterHint: ""
   };
   SECTIONS.pil.scope = "國際法院、國際刑事法院、歐洲／美洲／非洲人權法院、國際海洋法法庭的判決、裁定與程序進展，以及 EJIL:Talk!、Opinio Juris 的學術評論。";
   SECTIONS.arb.scope = "國際商務仲裁與以國家為被申請人的投資條約仲裁：各國法院裁判、仲裁判斷、仲裁機構規則、立法改革與實務評論。";
   SECTIONS.tnr.scope = "威權政府跨越國界監視、恐嚇、綁架或懲罰海外異議人士、記者與少數族群：事件與個案、各國執法與司法、政府政策、國際組織與研究報告。";
+  SECTIONS.fin.scope = "各國金融監理機關與國際組織對穩定幣、加密資產、代幣化、支付、開放金融與金融業 AI 的立法、規則、監理指引、執法與司法動態，以及重要研究與實務評論。";
   // short tab labels for phones
-  SECTIONS.pil.short = "公法"; SECTIONS.arb.short = "仲裁"; SECTIONS.tnr.short = "跨國鎮壓"; SECTIONS.week.short = "週報"; SECTIONS.home.short = "首頁";
+  SECTIONS.pil.short = "公法"; SECTIONS.arb.short = "仲裁"; SECTIONS.tnr.short = "跨國鎮壓"; SECTIONS.fin.short = "Fintech"; SECTIONS.week.short = "週報"; SECTIONS.home.short = "首頁";
   SECTIONS.pil.filterHint = SECTIONS.arb.filterHint = "試著移除部分篩選條件，或按「清除全部」。";
   SECTIONS.pil.placeholder = "搜尋案名、關鍵字、條文（例：Monetary Gold、第 8 條）";
   SECTIONS.arb.placeholder = "搜尋案名、關鍵字、法域、條文（例：anti-suit、ICSID、第 68 條）";
@@ -1027,6 +1072,57 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
     { key: "CL", label: "公民實驗室", test: textHas(/公民實驗室|Citizen Lab/i) },
     { key: "UN", label: "聯合國", test: textHas(/聯合國|OHCHR|A\/HRC/) }
   ];
+  // Fintech Law: 領域 groups regulators by jurisdiction; 來源 covers the sites Christopher chose, matched on the body, the outlet or a cited source
+  var FIN_INTL = ["FSB", "BIS", "IOSCO", "BCBS", "FATF", "INTL"], FIN_US = ["SEC", "CFTC", "OCC", "FED", "FDIC", "TREAS", "CFPB", "US"],
+      FIN_EU = ["EU", "ESMA", "EBA", "ECB"], FIN_UK = ["FCA", "BOE", "HMT"];
+  function courtIn(list) { return function (it) { return list.indexOf(str(it.court)) >= 0; }; }
+  SECTIONS.fin.areas = [
+    { key: "intl", label: "國際組織", test: courtIn(FIN_INTL) },
+    { key: "us", label: "美國", test: courtIn(FIN_US) },
+    { key: "eu", label: "歐盟", test: courtIn(FIN_EU) },
+    { key: "uk", label: "英國", test: courtIn(FIN_UK) },
+    { key: "apac", label: "亞太與其他", test: function (it) { return FIN_INTL.concat(FIN_US, FIN_EU, FIN_UK, ["TW"]).indexOf(str(it.court)) < 0; } },
+    { key: "tw", label: "台灣", test: courtIs("TW") }
+  ];
+  SECTIONS.fin.types = [
+    { key: "law", label: "立法與法規", kinds: ["立法動態", "法規發布"] },
+    { key: "consult", label: "草案與諮詢", kinds: ["草案諮詢"] },
+    { key: "sup", label: "監理與政策", kinds: ["監理指引", "政策動態"] },
+    { key: "enf", label: "執法與司法", kinds: ["執法案件", "司法案件"] },
+    { key: "intl", label: "國際標準與研究", kinds: ["國際標準", "研究報告"] },
+    { key: "comment", label: "評論", kinds: ["實務評論", "學術評論"] }
+  ];
+  function srcHas(re) {
+    return function (it) {
+      return re.test([it.outlet, it.titleOriginal, it.author].map(str).join(" ") + " " + (Array.isArray(it.sources) ? it.sources.map(function (s) { return str(s && s.label) + " " + str(s && s.url); }).join(" ") : ""));
+    };
+  }
+  function bodyOr(code, re) { var t = srcHas(re); return function (it) { return str(it.court) === code || str(it.outletCode) === code || t(it); }; }
+  SECTIONS.fin.orgLabel = "來源";
+  SECTIONS.fin.orgs = [
+    { key: "FSB", label: "金融穩定委員會（FSB）", test: bodyOr("FSB", /fsb\.org/) },
+    { key: "BIS", label: "BIS 創新中心", test: bodyOr("BIS", /bis\.org|BIS 創新中心/) },
+    { key: "OCC", label: "美國貨幣監理署（OCC）", test: bodyOr("OCC", /occ\.gov/) },
+    { key: "FED", label: "美國聯準會", test: bodyOr("FED", /federalreserve\.gov/) },
+    { key: "SEC", label: "美國證券交易委員會（SEC）", test: bodyOr("SEC", /sec\.gov/) },
+    { key: "CFTC", label: "美國商品期貨交易委員會（CFTC）", test: bodyOr("CFTC", /cftc\.gov/) },
+    { key: "EC", label: "歐盟執委會（數位金融）", test: srcHas(/歐盟執委會|European Commission|finance\.ec\.europa\.eu/) },
+    { key: "ESMA", label: "ESMA", test: bodyOr("ESMA", /esma\.europa\.eu/) },
+    { key: "EBA", label: "EBA", test: bodyOr("EBA", /eba\.europa\.eu/) },
+    { key: "FCA", label: "英國 FCA", test: bodyOr("FCA", /fca\.org\.uk/) },
+    { key: "MAS", label: "新加坡金管局（MAS）", test: bodyOr("MAS", /mas\.gov\.sg/) },
+    { key: "HKMA", label: "香港金管局（HKMA）", test: bodyOr("HKMA", /hkma\.gov\.hk/) },
+    { key: "SFC", label: "香港證監會（SFC）", test: bodyOr("SFC", /sfc\.hk/) },
+    { key: "ASIC", label: "澳洲 ASIC", test: bodyOr("ASIC", /asic\.gov\.au/) },
+    { key: "ICMA", label: "ICMA 數位化監理路線圖", test: srcHas(/ICMA|icmagroup/) },
+    { key: "RT", label: "Global Regulation Tomorrow", test: srcHas(/Regulation Tomorrow|regulationtomorrow/) },
+    { key: "FX", label: "Finextra", test: srcHas(/Finextra/i) },
+    { key: "BBVA", label: "BBVA Research", test: srcHas(/BBVA/) },
+    { key: "ICLG", label: "ICLG Fintech", test: srcHas(/ICLG/) },
+    { key: "IBA", label: "國際律師協會（IBA）", test: srcHas(/國際律師協會|ibanet\.org/) },
+    { key: "LEX", label: "Lexology", test: srcHas(/Lexology/i) },
+    { key: "RBFL", label: "Review of Banking & Financial Law", test: srcHas(/Review of Banking|RBFL|bu\.edu\/rbfl/) }
+  ];
   SECTIONS.pil.orgLabel = "機構／來源";
   SECTIONS.pil.orgs = [
     { key: "ICJ", label: "國際法院", test: courtIs("ICJ") },
@@ -1073,13 +1169,13 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
   function isDecision(it) { return ["判決", "裁定", "諮詢意見", "逮捕令", "法院裁判", "仲裁判斷"].indexOf(str(it.kind)) >= 0; }
   function optOf(list, key) { return (list || []).filter(function (o) { return o.key === key; })[0] || null; }
 
-  var SECTION_ORDER = ["home", "pil", "arb", "tnr", "week"];
-  var ITEM_SECTIONS = ["pil", "arb", "tnr"];
+  var SECTION_ORDER = ["home", "pil", "arb", "tnr", "fin", "week"];
+  var ITEM_SECTIONS = ["pil", "arb", "tnr", "fin"];
   var WEEK = ["日", "一", "二", "三", "四", "五", "六"];
   var SITE_NAME = "國際法動態追蹤";
 
   function blank() { return { items: [], agenda: [], cases: [], issues: [], meta: null, archives: [], loaded: false, loadError: false, archiveLoading: "" }; }
-  var data = { home: blank(), pil: blank(), arb: blank(), tnr: blank(), week: blank() };
+  var data = { home: blank(), pil: blank(), arb: blank(), tnr: blank(), fin: blank(), week: blank() };
   data.home.loaded = true; // the home page draws on the other three files as they arrive
 
   // ---- per-viewer conveniences (browser only) ----
@@ -1123,6 +1219,9 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
   function arr(v) { return Array.isArray(v) ? v.filter(function (x) { return typeof x === "string" && x.trim(); }) : (typeof v === "string" && v.trim() ? [v] : []); }
   function courtKey(c, sec) { var cats = SECTIONS[sec || state.section].cats; return cats[c] ? c : "OTHER"; }
   function catOf(k, sec) { return SECTIONS[sec || state.section].cats[k] || { code: "", zh: "", en: "" }; }
+  // section names such as "Fintech Law" get a space where they meet Chinese text
+  function secName(k, before) { var l = SECTIONS[k].label; return /^[A-Za-z]/.test(l) && before ? " " + l : l; }
+  function secNameEnd(k) { var l = SECTIONS[k].label; return /[A-Za-z]$/.test(l) ? l + " " : l; }
   function codeText(it, sec) { var k = courtKey(it.court, sec); return (it.outletCode && !SECTIONS[sec || state.section].codeFromCat) ? str(it.outletCode) : catOf(k, sec).code; }
   function todayISO() {
     try { return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Taipei", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date()); }
@@ -1309,7 +1408,7 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
         unread ? h("span", { class: "n", title: "未讀", text: String(unread) }) : null));
     });
     document.getElementById("eyebrow").textContent = CFG().eyebrow;
-    document.getElementById("q").placeholder = CFG().placeholder || "搜尋國際公法與國際仲裁法動態";
+    document.getElementById("q").placeholder = CFG().placeholder || "搜尋全站動態（例：ICC、穩定幣、越新黨）";
     var dg = isPage();
     document.getElementById("side").hidden = dg;
     document.body.setAttribute("data-sec", state.section);
@@ -1421,7 +1520,7 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
       if (other === state.section || !data[other].loaded) return;
       var n = qCount(other, state.q);
       if (n) resultN.append(" · ", h("button", { type: "button", class: "linkish", onclick: function () { switchSection(other); setHash(sectionHash()); } },
-        SECTIONS[other].label + "另有 " + n + " 則符合"));
+        secNameEnd(other) + "另有 " + n + " 則符合"));
     });
   }
   function refresh() { renderFilters(); renderList(); renderCases(); renderCloud(); if (state.openId) renderReader(); }
@@ -1681,7 +1780,7 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
       h("span", { class: "row-title", text: str(it.shortTitle) || str(it.title) }),
       (it.point || it.tldr) ? h("span", { class: "row-point", text: str(it.point) || str(it.tldr) }) : null,
       (cs || it.author) ? h("span", { class: "row-sub" },
-        cs ? h("span", { class: "case-tag", text: "案件：" + str(cs.name) }) : null,
+        cs ? h("span", { class: "case-tag", text: (str(cs.type) === "議題" ? "議題：" : "案件：") + str(cs.name) }) : null,
         it.author ? h("span", { text: str(it.author) }) : null) : null
     );
   }
@@ -1804,7 +1903,8 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
   function itemBlurb(it) { var s = firstSentence(it.significance); return s.length >= 20 && s.length <= 80 ? s : str(it.point); }
 
   // Up to three highlights, by explicit rules:
-  //  1. the weekly issue's own picks with its notes, alternating 國際公法／國際仲裁法 — if the issue ended within the last 14 days;
+  //  1. the weekly issue's own picks with its notes, one per section in turn (first picks before second picks; within a round,
+  //     importance 3 before lower, then section order) — if the issue ended within the last 14 days;
   //  2. entries marked 重點 (importance 3) from the last 14 days, newest first;
   //  3. the newest entries by source date, labelled 最新動態 because they are chosen by date alone.
   var HOME_PICKS = 3, HOME_FRESH_DAYS = 14;
@@ -1820,9 +1920,12 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
       (issue.sections || []).forEach(function (s) {
         bySec[s.section] = (s.highlights || []).map(function (x) { var f = findItem(x.itemId); return f && f.it ? { f: f, note: str(x.note) } : null; }).filter(Boolean);
       });
-      for (var i = 0; i < 8 && picks.length < HOME_PICKS; i++) ITEM_SECTIONS.forEach(function (k) {
-        var x = bySec[k] && bySec[k][i]; if (x) add(x.f.sec, x.f.it, "digest", x.note || itemBlurb(x.f.it));
-      });
+      for (var i = 0; i < 8 && picks.length < HOME_PICKS; i++) {
+        var round = [];
+        ITEM_SECTIONS.forEach(function (k, n) { var x = bySec[k] && bySec[k][i]; if (x) round.push({ x: x, n: n }); });
+        round.sort(function (a, b) { return ((+b.x.f.it.importance || 0) - (+a.x.f.it.importance || 0)) || a.n - b.n; });
+        round.forEach(function (r) { add(r.x.f.sec, r.x.f.it, "digest", r.x.note || itemBlurb(r.x.f.it)); });
+      }
       if (picks.length) issueUsed = issue;
     }
     var all = [];
@@ -1875,7 +1978,7 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
         return h("li", { class: "dm" }, h("a", { class: "dm-link", href: "#" + k, onclick: navClick(function () { goSection(k); }) },
           h("h3", { class: "dm-name", text: c.label }),
           h("p", { class: "dm-scope", text: c.scope }),
-          h("span", { class: "dm-cta" }, "瀏覽" + c.label, h("span", { "aria-hidden": "true", text: " →" }))));
+          h("span", { class: "dm-cta" }, "瀏覽" + secName(k, true), h("span", { "aria-hidden": "true", text: " →" }))));
       })),
       h("p", { class: "home-aside" }, "每週整理：", h("a", { href: "#week", onclick: navClick(function () { goSection("week"); }) }, "本週重點完整週報 →")));
   }
@@ -1939,6 +2042,16 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
   function holdingLabel(kind) {
     kind = str(kind);
     if (isCommentKind(kind)) return ["作者論點", "Author's argument"];
+    if (state.section === "fin") {
+      if (kind === "法規發布") return ["規則重點", "Key provisions"];
+      if (kind === "立法動態") return ["法案重點", "Key provisions"];
+      if (kind === "草案諮詢") return ["提案重點", "Proposals"];
+      if (kind === "監理指引") return ["監理要求", "Supervisory expectations"];
+      if (kind === "執法案件") return ["處分與違規事實", "Enforcement"];
+      if (kind === "司法案件") return ["訴訟重點", "Claims & proceedings"];
+      if (kind === "國際標準" || kind === "研究報告") return ["主要發現與建議", "Key findings"];
+      return ["主要內容", "Key points"];
+    }
     if (state.section === "tnr") {
       if (kind === "司法案件") return ["起訴與審理重點", "Proceedings"];
       if (kind === "事件") return ["事件經過與各方回應", "What happened & responses"];
@@ -2017,7 +2130,9 @@ a.nx-title:hover { color: var(--link); text-decoration: underline; text-underlin
     var starred = starSet.has(it.id);
     var cs = it.caseId ? caseById(it.caseId) : null;
     var caseBtn = cs ? h("button", { type: "button", class: "linkish", onclick: function () { openCase(cs.id); } }, str(cs.name)) : "";
-    var infoFacts = factsEl(state.section === "tnr"
+    var infoFacts = factsEl(state.section === "fin"
+      ? [["監理機關", k !== "OTHER" ? cat.zh : ""], ["法域", str(it.jurisdiction)], ["來源", str(it.outlet)], ["作者", str(it.author)], ["文號", str(it.caseRef)], ["所屬議題", caseBtn]]
+      : state.section === "tnr"
       ? [["涉及國家", cat.zh], ["發生地", str(it.jurisdiction)], ["來源", str(it.outlet)], ["作者", str(it.author)], ["案號", str(it.caseRef)], ["所屬案件", caseBtn]]
       : state.section === "arb"
       ? [["類別", cat.zh], ["法域", str(it.jurisdiction)], ["來源", str(it.outlet)], ["作者", str(it.author)], ["案號", str(it.caseRef)],

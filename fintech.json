@@ -1,0 +1,2029 @@
+{
+ "schema": 1,
+ "meta": {
+  "lastRun": "2026-10-27T10:58:18+08:00",
+  "lastRunLocal": "2026-10-27 10:58",
+  "coverageFrom": "2026-10-01",
+  "coverageNote": "收錄自 2026-10-01",
+  "lastRunNote": "首次建立：補齊 2026 年 10 月 1 日至 27 日動態 30 則"
+ },
+ "items": [
+  {
+   "id": "2026-10-26-fin-sfc-tokenised-fund-secondary-trading",
+   "court": "SFC",
+   "kind": "政策動態",
+   "caseId": "hk-stablecoin-tokenisation",
+   "jurisdiction": "香港",
+   "outlet": "香港證券及期貨事務監察委員會（證監會）",
+   "outletCode": "SFC",
+   "date": "2026-10-26",
+   "eventDate": "2026-10-26",
+   "importance": 2,
+   "author": "",
+   "title": "香港證監會核准首例代幣化公募基金於虛擬資產交易平台進行次級市場交易",
+   "shortTitle": "香港證監會核准代幣化基金次級交易",
+   "point": "華夏兩檔代幣化貨幣市場基金可全天候於持牌平台買賣",
+   "titleOriginal": "SFC approves first-ever secondary trading of tokenised public funds",
+   "caseRef": "26PR174",
+   "tldr": "香港證監會核准華夏基金的兩檔代幣化貨幣市場基金，在證監會持牌的虛擬資產交易平台上進行次級市場交易，投資人可以全天候在平台上互相買賣基金代幣，而不只是向基金申購贖回。證監會稱這是全球首例代幣化公募基金在虛擬資產交易平台的次級交易。",
+   "memo": "香港證券及期貨事務監察委員會（證監會）於 2026 年 10 月 26 日核准華夏基金（ChinaAMC）旗下 ChinaAMC HKD Digital Money Market Fund 及 ChinaAMC USD Digital Money Market Fund 兩檔已獲認可之代幣化貨幣市場基金，於證監會持牌虛擬資產交易平台進行全天候次級市場交易，此為依證監會 2026 年 4 月建立之代幣化產品次級交易框架所核准之首例；證監會將監察交易情況並可能擴大產品範圍。",
+   "context": "依君合律師事務所的分析，證監會於 2026 年 4 月 20 日發布兩份通函，分別規範代幣化證監會認可投資產品，以及其次級交易，取代 2023 年 11 月 2 日的代幣化通函。次級交易須在持牌平台以螢幕自動配對進行，平台須在價格明顯偏離指示性資產淨值時發出警示，每檔產品至少須有一名造市商。",
+   "facts": [
+    "證監會於 2026 年 10 月 26 日核准，交易同日開始。",
+    "兩檔產品：ChinaAMC HKD Digital Money Market Fund 與 ChinaAMC USD Digital Money Market Fund，均為已獲證監會認可的代幣化貨幣市場基金。",
+    "交易於證監會持牌虛擬資產交易平台全天候進行。",
+    "依君合分析，框架要求產品提供者禁止不記名產品、公有無許可區塊鏈須有額外控制、造市商終止安排須提前三個月通知。"
+   ],
+   "issues": [
+    "次級市場價格偏離資產淨值時，投資人保護機制是否足夠？",
+    "全天候交易與基金申購贖回時點不一致，對流動性與造市的影響。"
+   ],
+   "holding": "・核准：兩檔代幣化貨幣市場基金於持牌虛擬資產交易平台進行次級交易。\n・框架：依 2026 年 4 月的代幣化產品次級交易通函，平台以自動配對交易並須發出價格偏離警示。\n・後續：證監會監察交易情況，並可能擴大至其他代幣化產品。",
+   "significance": "代幣化基金從「只能向基金申購贖回」走向「可在平台上互相買賣」，是香港推動實體資產代幣化的重要一步；其投資人保護與造市機制，可供台灣研議代幣化證券時參考。",
+   "editorNote": "本網頁助理 註：證監會新聞稿網頁需以瀏覽器執行程式才能顯示，本網頁助理未能讀取原文；產品名稱與交易安排依 FX News Group 報導，框架內容依君合律師事務所分析。",
+   "tags": [
+    "代幣化",
+    "基金",
+    "虛擬資產交易平台",
+    "證監會",
+    "香港"
+   ],
+   "related": [
+    "2026-10-23-fin-hsbc-redcoin-payme-launch"
+   ],
+   "sources": [
+    {
+     "label": "證監會新聞稿（26PR174）",
+     "url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR174",
+     "official": true
+    },
+    {
+     "label": "FX News Group 報導",
+     "url": "https://fxnewsgroup.com/forex-news/regulatory/hk-regulator-approves-secondary-trading-of-two-tokenised-money-market-funds/",
+     "official": false
+    },
+    {
+     "label": "君合律師事務所分析（Conventus Law）",
+     "url": "https://conventuslaw.com/?p=135142",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-23-fin-council-psd3-first-reading-position",
+   "court": "EU",
+   "kind": "立法動態",
+   "caseId": "eu-psd3-psr",
+   "jurisdiction": "歐盟",
+   "outlet": "Global Regulation Tomorrow（Norton Rose Fulbright）",
+   "outletCode": "RT",
+   "date": "2026-10-23",
+   "eventDate": "2026-10-21",
+   "importance": 2,
+   "author": "",
+   "title": "歐盟理事會公布第三號支付服務指令（PSD3）第一讀會立場，準備正式通過",
+   "shortTitle": "歐盟理事會公布 PSD3 一讀立場",
+   "point": "將廢止 PSD2 與電子貨幣指令，並修正 MiCA 與交割終局性指令",
+   "titleOriginal": "PSD3 – Council of EU publishes first reading position with view to adoption",
+   "caseRef": "ST 8535 2026 INIT",
+   "tldr": "歐盟支付法制改革的兩部新法——第三號支付服務指令（PSD3）與支付服務規則（PSR）——的妥協文字已於 2026 年 4 月公布。理事會公布 PSD3 的第一讀會立場（日期為 10 月 21 日），這是正式通過前的程序步驟；PSD3 將取代 PSD2 並整併電子貨幣指令。",
+   "memo": "歐盟理事會公布其就內部市場支付服務指令（PSD3）提案之第一讀會立場（文件 ST 8535 2026 INIT，日期為 2026 年 10 月 21 日），以利該提案之通過；該指令將修正《交割終局性指令》（98/26/EC）及《加密資產市場規則》（(EU) 2023/1114），並廢止《電子貨幣指令》（2009/110/EC）及《第二號支付服務指令》（(EU) 2015/2366）。",
+   "context": "執委會於 2023 年 6 月提出 PSD3 與 PSR 兩項提案。依 Matheson 整理，理事會於 2026 年 4 月 23 日公布兩案的最終妥協文字：PSD3 規範須由各國轉化的授權、監理與部分審慎事項；PSR 則是直接適用的單一規則，涵蓋行為規範、透明度、開放銀行、詐欺防制與支付執行。",
+   "facts": [
+    "理事會第一讀會立場文件為 ST 8535 2026 INIT，日期 2026 年 10 月 21 日；Norton Rose Fulbright 於 10 月 23 日報導。",
+    "PSD3 將修正 98/26/EC 與 (EU) 2023/1114，並廢止 2009/110/EC 與 (EU) 2015/2366。",
+    "依 Matheson 整理，兩案均附有大量第二層技術標準與第三層指引的授權。"
+   ],
+   "issues": [
+    "PSD3 與 PSR 的施行期限與過渡安排。",
+    "整併電子貨幣指令後，電子貨幣機構與支付機構的執照如何轉換？",
+    "修正 MiCA 後，電子貨幣代幣相關服務與支付服務的界線。"
+   ],
+   "holding": "・程序：理事會公布第一讀會立場，以利正式通過。\n・內容：PSD3 修正交割終局性指令與 MiCA，廢止電子貨幣指令與 PSD2。",
+   "significance": "PSD3／PSR 將重塑歐盟支付機構與電子貨幣機構的執照制度、開放銀行與詐欺責任分配，並調整電子貨幣代幣與支付服務的關係。正式通過後，應留意公報刊登日、施行期限，以及大量第二層技術標準。",
+   "editorNote": "本網頁助理 註：理事會立場文件本網頁助理未能直接開啟；PSR 的程序進度，來源未說明。",
+   "tags": [
+    "PSD3",
+    "PSR",
+    "支付服務",
+    "開放銀行",
+    "電子貨幣",
+    "歐盟"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Global Regulation Tomorrow 報導",
+     "url": "https://www.regulationtomorrow.com/2026/10/psd3-council-of-eu-publishes-first-reading-position-with-view-to-adoption/",
+     "official": false
+    },
+    {
+     "label": "理事會第一讀會立場文件（PDF）",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-8535-2026-INIT/en/pdf",
+     "official": true
+    },
+    {
+     "label": "Matheson 分析（2026 年 4 月）",
+     "url": "https://www.matheson.com/insights/psd3-and-psr-published-whats-changing-for-eu-payment-services/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-23-fin-hsbc-redcoin-payme-launch",
+   "court": "HKMA",
+   "kind": "政策動態",
+   "caseId": "hk-stablecoin-tokenisation",
+   "jurisdiction": "香港",
+   "outlet": "Cointelegraph",
+   "outletCode": "CT",
+   "date": "2026-10-23",
+   "eventDate": "2026-10-23",
+   "importance": 2,
+   "author": "",
+   "title": "滙豐推出港元穩定幣 RedCoin，經 PayMe 向零售用戶分階段開放",
+   "shortTitle": "滙豐港元穩定幣 RedCoin 經 PayMe 上線",
+   "point": "香港首批持牌發行人之一，PayMe 逾 330 萬用戶可啟用錢包",
+   "titleOriginal": "HSBC launches RedCoin Hong Kong dollar stablecoin via PayMe",
+   "caseRef": "",
+   "tldr": "香港《穩定幣條例》上路後，金管局 4 月發出首批兩張穩定幣發行人牌照，滙豐是其中之一。滙豐推出港元穩定幣 RedCoin，先透過旗下 PayMe 應用程式讓用戶分批啟用錢包，可用於轉帳與商戶付款，設計為可 1 比 1 贖回港元。",
+   "memo": "依 Cointelegraph 2026 年 10 月 23 日報導，滙豐於同日宣布推出港元穩定幣 RedCoin（RCHKD），透過 PayMe 應用程式分階段開放用戶啟用穩定幣錢包，用於轉帳及商戶付款，設計為可一比一贖回港元，並由滙豐數位資產保管服務保管；滙豐於 2026 年 4 月與 Anchorpoint Financial 同獲香港金融管理局核發穩定幣發行人牌照。",
+   "context": "香港《穩定幣條例》（第 656 章）要求在香港發行法幣穩定幣者須取得金管局牌照。依 crypto.news 報導，金管局登記冊列有兩家持牌發行人，生效日均為 2026 年 4 月 10 日：Anchorpoint Financial（FRS01，產品 HKDAP，由渣打、Animoca Brands 與香港電訊支持）與滙豐（FRS02，產品 RedCoin）。",
+   "facts": [
+    "滙豐於 2026 年 10 月 23 日宣布推出 RedCoin，PayMe 逾 330 萬用戶可在未來數日內啟用穩定幣錢包。",
+    "RedCoin 設計為可一比一贖回港元，由滙豐數位資產保管服務保管。",
+    "依 crypto.news 報導，截至 10 月 23 日 RedCoin 流通量為 8,058 萬港元、準備資產 8,158 萬港元。",
+    "滙豐計畫年內把 RedCoin 錢包擴及滙豐香港手機銀行，可用於認購代幣化投資產品，包括其港元貨幣市場基金的新股份類別。",
+    "另一持牌發行人 Anchorpoint 的 HKDAP 仍處於限定對象的測試階段，零售推出時間未定。"
+   ],
+   "issues": [
+    "零售穩定幣的交易與持有限額、贖回流程與費用，報導均未說明。",
+    "銀行發行的穩定幣與其存款、代幣化存款如何區隔？"
+   ],
+   "holding": "・產品：港元穩定幣 RedCoin（RCHKD），用於轉帳與商戶付款。\n・通路：先經 PayMe 分階段開放，再擴及滙豐手機銀行。\n・設計：可一比一贖回港元，由滙豐數位資產保管服務保管。",
+   "significance": "這是香港持牌穩定幣首度大規模觸及零售用戶，將檢驗《穩定幣條例》下的準備、贖回與消費者保護要求在實務上的運作。台灣金管會規劃穩定幣子法時，香港銀行系發行人的經驗具參考價值。",
+   "editorNote": "",
+   "tags": [
+    "穩定幣",
+    "港元",
+    "穩定幣條例",
+    "零售支付",
+    "香港金管局",
+    "香港"
+   ],
+   "related": [
+    "2026-10-26-fin-sfc-tokenised-fund-secondary-trading"
+   ],
+   "sources": [
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導（10 月 26 日）",
+     "url": "https://crypto.news/hong-kong-has-two-licensed-stablecoin-issuers-their-retail-plans-are-taking-different-paths/",
+     "official": false
+    },
+    {
+     "label": "香港金管局持牌穩定幣發行人登記冊",
+     "url": "https://www.hkma.gov.hk/eng/regulatory-resources/registers/register-of-licensed-stablecoin-issuers/",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-23-fin-mas-bloom-bnm-bot-join",
+   "court": "MAS",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "新加坡、馬來西亞、泰國",
+   "outlet": "Cointelegraph",
+   "outletCode": "CT",
+   "date": "2026-10-23",
+   "eventDate": "2026-10-23",
+   "importance": 1,
+   "author": "",
+   "title": "馬來西亞與泰國央行加入新加坡 BLOOM 計畫，推動以穩定幣與代幣化存款進行跨境結算",
+   "shortTitle": "馬來西亞、泰國央行加入 BLOOM 計畫",
+   "point": "推動穩定幣與代幣化存款用於跨境支付的共通做法",
+   "titleOriginal": "Malaysia, Thailand join Singapore's cross-border stablecoin push",
+   "caseRef": "",
+   "tldr": "新加坡金管局 2025 年推出的 BLOOM 計畫，是一個公私協力平台，讓金融機構能用穩定幣和代幣化存款做跨境支付，而不必和每個對手方個別建立安排。馬來西亞國家銀行與泰國銀行以政策制定者身分加入。",
+   "memo": "新加坡金融管理局（MAS）於 2026 年 10 月 23 日宣布，馬來西亞國家銀行及泰國銀行以政策制定者成員身分加入 BLOOM 計畫；BLOOM 為 MAS 於 2025 年 10 月推出之公私協力計畫，旨在發展跨境使用數位貨幣（包括穩定幣及代幣化存款）之共通做法，聚焦跨境結算，參與者包括世界銀行集團及 Airwallex、Mastercard、Ripple、Visa 等業者。",
+   "context": "BLOOM 是「Borderless, Liquid, Open, Online, Multi-currency」的縮寫，建立在 MAS 2021 年起研究數位新加坡元的 Project Orchid 之上。馬來西亞國家銀行另於 2026 年 2 月宣布三項試驗，測試令吉穩定幣與代幣化存款用於境內與跨境批發支付。",
+   "facts": [
+    "MAS 於 2026 年 10 月 23 日宣布，馬來西亞國家銀行與泰國銀行加入 BLOOM。",
+    "BLOOM 於 2025 年 10 月推出，目的在降低成本、縮短上市時間，減少金融機構與每個對手方或市場個別建立安排的需要。",
+    "業界參與者包括 Airwallex、Mastercard、Ripple、Visa 與世界銀行集團。",
+    "工作範圍也涵蓋企業現金管理、貿易融資，以及 AI 代理在預設額度內執行的支付。"
+   ],
+   "issues": [
+    "各國穩定幣與代幣化存款的監理標準不同，跨境結算如何互通？",
+    "AI 代理執行支付的授權與責任歸屬。"
+   ],
+   "holding": "・新成員：馬來西亞國家銀行、泰國銀行（政策制定者成員）。\n・目標：發展跨境使用數位貨幣的共通做法，聚焦跨境結算。",
+   "significance": "東南亞三國央行在同一平台上推動穩定幣與代幣化存款的跨境使用，可能成為區域數位貨幣互通的基礎；台灣業者若有東南亞跨境支付需求，可留意其規則與技術標準。",
+   "editorNote": "本網頁助理 註：MAS 新聞稿本網頁助理未能直接開啟，本則依 Cointelegraph 與 Central Banking 報導整理。",
+   "tags": [
+    "跨境支付",
+    "穩定幣",
+    "代幣化存款",
+    "MAS",
+    "新加坡",
+    "馬來西亞",
+    "泰國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push",
+     "official": false
+    },
+    {
+     "label": "Central Banking 報導",
+     "url": "https://www.centralbanking.com/node/7977544",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-21-fin-occ-genius-act-final-rule",
+   "court": "OCC",
+   "kind": "法規發布",
+   "caseId": "genius-act-implementation",
+   "jurisdiction": "美國",
+   "outlet": "美國貨幣監理署（OCC）",
+   "outletCode": "OCC",
+   "date": "2026-10-21",
+   "eventDate": "2026-10-21",
+   "importance": 3,
+   "author": "",
+   "title": "OCC 發布 GENIUS Act 最終規則，訂定穩定幣發行人之準備、贖回、資本與營運標準",
+   "shortTitle": "OCC 發布 GENIUS Act 穩定幣最終規則",
+   "point": "2027 年 1 月 18 日生效，準備資產須隨時足額",
+   "titleOriginal": "OCC Advances U.S. Digital Asset Leadership with Final Rule to Implement GENIUS Act",
+   "caseRef": "NR 2026-92；OCC Bulletins 2026-50、2026-51、2026-52",
+   "tldr": "美國聯邦穩定幣法 GENIUS Act 將於 2027 年 1 月 18 日生效。OCC 公布第一份正式施行規則，規範受其監理的穩定幣發行人如何取得許可、準備資產怎麼放、何時必須贖回、要有多少資本。和草案相比，最終規則要求準備資產「任何時點」都須足額，並刪除推定特定合作安排屬違法付息的規定。洗錢防制與制裁部分將另訂規則。",
+   "memo": "美國貨幣監理署（OCC）於 2026 年 10 月 21 日發布施行《GENIUS Act》之最終規則（NR 2026-92），就受其監理之許可支付型穩定幣發行人及外國支付型穩定幣發行人訂定許可、準備資產、贖回、資本及營運標準，並規範所監理機構之特定保管業務，與該法同於 2027 年 1 月 18 日生效；最終規則要求準備資產於任何時點均須足額，維持兩個營業日之贖回期限，刪除草案中關於關係企業或第三方安排構成禁止付息之可反駁推定，《銀行保密法》、洗錢防制及制裁要求則另行訂定。",
+   "context": "GENIUS Act 於 2025 年 7 月 18 日簽署，建立聯邦支付型穩定幣制度。OCC 於 2026 年 3 月提出施行規則草案，收到數百份來自加密資產業者、社區銀行、同業公會與學者的意見。FDIC 與財政部亦就各自管轄部分提出規則草案。",
+   "facts": [
+    "OCC 於 2026 年 10 月 21 日發布最終規則，並同時發布 Bulletin 2026-50（最終規則）、2026-51（豁免與申請文件指引）及 2026-52（申報表格）。",
+    "最終規則與 GENIUS Act 同於 2027 年 1 月 18 日生效。",
+    "準備資產須隨時足額，不容許日內短缺；資本與營運支撐要求也改為隨時符合，而非季末計算。",
+    "贖回須於兩個營業日內完成，自收到贖回指示且客戶完成開戶程序起算；贖回量激增時須於 24 小時內通知 OCC。",
+    "刪除「關係企業或第三方安排推定構成禁止付息」的規定，但未定義「利息」或「收益」，也未設安全港，並保留反規避權限。",
+    "OCC 將另行公告開始受理發行人申請與豁免請求的時點。"
+   ],
+   "issues": [
+    "未定義「利息」與「收益」，交易平台或關係企業提供的獎勵機制是否構成規避？",
+    "「隨時足額」的準備要求，對發行人資產配置與流動性管理的影響。",
+    "洗錢防制與制裁規則尚待與財政部協調訂定，業者在生效前如何準備？"
+   ],
+   "holding": "・適用對象：受 OCC 監理的許可支付型穩定幣發行人、外國支付型穩定幣發行人，以及 OCC 監理機構的特定保管業務。\n・準備資產：任何時點至少等額，並有變現與壓力測試要求；為符合分散要求，可能須持有超額準備。\n・贖回：兩個營業日內完成，刪除草案中自動延長至七個日曆日的規定；須揭露穩定幣非法定貨幣、非存款且無聯邦存款保險。\n・資本：資本與營運支撐要求須隨時符合；新設發行人的資本要求不再區分聯邦或州發行人。\n・付息禁止：刪除可反駁推定，未設安全港，保留反規避權限。\n・洗錢防制與制裁：另以規則處理。",
+   "significance": "這是 GENIUS Act 的第一份正式施行規則，為銀行子公司、信託銀行與非銀行發行人提供明確的遵循基準，距生效日不到三個月。後續應留意 OCC 何時開放申請、FDIC 與聯準會的對應規則，以及財政部的洗錢防制規則。",
+   "editorNote": "本網頁助理 註：與草案的差異係依 Jones Day 2026 年 10 月分析整理；OCC 新聞稿未列出修正細節。",
+   "tags": [
+    "穩定幣",
+    "GENIUS Act",
+    "準備資產",
+    "OCC",
+    "美國"
+   ],
+   "related": [
+    "2026-10-16-fin-florida-stablecoin-law-in-force",
+    "2026-10-02-fin-icba-sues-occ-trust-charters"
+   ],
+   "sources": [
+    {
+     "label": "OCC 新聞稿（NR 2026-92）",
+     "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+     "official": true
+    },
+    {
+     "label": "OCC Bulletin 2026-50（最終規則）",
+     "url": "https://occ.gov/news-issuances/bulletins/2026/bulletin-2026-50.html",
+     "official": true
+    },
+    {
+     "label": "Jones Day 分析",
+     "url": "https://www.jonesday.com/en/insights/2026/10/occ-finalizes-stablecoin-framework-under-the-genius-act",
+     "official": false
+    },
+    {
+     "label": "BBVA Research 金融監理週報（10 月 23 日）",
+     "url": "https://www.bbvaresearch.com/en/publicaciones/global-financial-regulation-weekly-update-october-23-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-21-fin-fca-cp26-36-perimeter-guidance",
+   "court": "FCA",
+   "kind": "草案諮詢",
+   "caseId": "uk-cryptoasset-regime",
+   "jurisdiction": "英國",
+   "outlet": "英國金融行為監理總署（FCA）",
+   "outletCode": "FCA",
+   "date": "2026-10-21",
+   "eventDate": "2026-10-21",
+   "importance": 2,
+   "author": "",
+   "title": "英國 FCA 就加密資產監理範圍指引修正徵詢意見，說明新增之暫時性結算、穩定幣持有與技術服務除外規定",
+   "shortTitle": "FCA 徵詢加密資產監理範圍指引修正",
+   "point": "新增技術服務等除外規定，意見期限 11 月 18 日",
+   "titleOriginal": "CP26/36: Cryptoasset perimeter guidance",
+   "caseRef": "CP26/36",
+   "tldr": "英國新的加密資產監理制度將於 2027 年 10 月 25 日上路，業者正在申請執照。FCA 提出指引修正，說明哪些活動因新法修正而不需取得許可，例如暫時性結算安排、為支付暫時持有英國合格穩定幣、單純提供進入去中心化協議的技術服務等。若業者因技術服務除外規定不明確而影響申請，FCA 將給予補正寬限。",
+   "memo": "英國金融行為監理總署（FCA）於 2026 年 10 月 21 日發布諮詢文件 CP26/36，就《2026 年加密資產（雜項修正）規則》草案等近期立法所新增之除外規定提出監理範圍指引，涵蓋暫時性結算安排、為支付交易暫時持有英國合格穩定幣、英國合格穩定幣之準備資產安排、非對他人提供服務之自營交易，以及僅提供進入第三方服務或去中心化協議之技術服務；意見徵詢期限為 2026 年 11 月 18 日，最終指引預計於 2027 年 1 月發布。",
+   "context": "英國加密資產新制依《2000 年金融服務與市場法（加密資產）規則 2026》，自 2027 年 10 月 25 日起把新的加密資產活動納入監理範圍。FCA 已於 2026 年 9 月 16 日以 PS26/18 發布監理範圍指引（PERG 第 18 章）定稿；同月另有修正規則提交國會，新增去中心化技術服務與特定保管安排等除外規定。",
+   "facts": [
+    "CP26/36 於 2026 年 10 月 21 日發布，意見徵詢至 11 月 18 日，最終指引預計 2027 年 1 月發布。",
+    "新增除外規定：暫時性結算安排、為支付交易暫時持有英國合格穩定幣、英國合格穩定幣之準備資產安排、非對他人提供服務之自營交易（或於 QCATP 擔任造市者）、僅提供進入第三方服務或去中心化協議之技術服務。",
+    "申請期間為 2026 年 9 月 30 日至 2027 年 2 月 28 日，欲適用保留條款的業者須於期間內申請。",
+    "因技術服務除外規定不明確而影響申請完整性的業者，若其餘部分完整，可獲延長補正「安排」許可相關部分的時間。"
+   ],
+   "issues": [
+    "「技術服務」除外規定如何適用於錢包、前端介面等服務？",
+    "英國合格穩定幣與電子貨幣的區分，FCA 預計另行諮詢。"
+   ],
+   "holding": "・目的：使監理範圍指引反映最新立法，協助業者判斷是否需取得許可。\n・新增除外：暫時性結算、支付用穩定幣暫時持有、穩定幣準備資產安排、自營交易、技術服務。\n・寬限：因技術服務除外不確定而影響申請者，可延長補正期間。",
+   "significance": "英國新制申請窗口已開啟，監理範圍的細部除外規定直接影響業者是否須申請許可。DeFi 相關技術服務業者尤應留意本指引與同日發布的 GC26/7。",
+   "editorNote": "",
+   "tags": [
+    "加密資產",
+    "監理範圍",
+    "穩定幣",
+    "FCA",
+    "英國"
+   ],
+   "related": [
+    "2026-10-21-fin-fca-gc26-7-defi-guidance"
+   ],
+   "sources": [
+    {
+     "label": "FCA 諮詢文件頁面（CP26/36）",
+     "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-36-cryptoasset-perimeter-guidance",
+     "official": true
+    },
+    {
+     "label": "Skadden 分析（PS26/18）",
+     "url": "https://www.skadden.com/insights/publications/2026/10/uks-fca-finalises-cryptoasset-perimeter-guidance",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-21-fin-fca-gc26-7-defi-guidance",
+   "court": "FCA",
+   "kind": "草案諮詢",
+   "caseId": "uk-cryptoasset-regime",
+   "jurisdiction": "英國",
+   "outlet": "英國金融行為監理總署（FCA）",
+   "outletCode": "FCA",
+   "date": "2026-10-21",
+   "eventDate": "2026-10-21",
+   "importance": 2,
+   "author": "",
+   "title": "英國 FCA 發布去中心化金融（DeFi）指引草案，聚焦受監理業者之營運韌性與金融犯罪風險",
+   "shortTitle": "FCA 發布 DeFi 風險管理指引草案",
+   "point": "對使用 DeFi 的受監理業者提出營運韌性與洗錢防制措施例示",
+   "titleOriginal": "GC26/7: Decentralised finance guidance (DeFi)",
+   "caseRef": "GC26/7",
+   "tldr": "FCA 提出一份非手冊式的指引草案，提醒使用去中心化金融（DeFi）提供服務的受監理業者，DeFi 高度自動化、開放互通的特性可能帶來營運韌性與金融犯罪風險，並舉例說明可以考慮採取的措施。意見徵詢至 11 月 18 日，預計 2027 年 1 月定稿。",
+   "memo": "英國金融行為監理總署（FCA）於 2026 年 10 月 21 日發布指引諮詢文件 GC26/7，就受監理業者運用去中心化金融（DeFi）提供金融服務時遵循營運韌性（SYSC 15A）、金融犯罪（SYSC 6）及《洗錢防制規則》之義務，提出風險觀察及可考慮採行措施之例示，該指引屬非手冊指引；意見徵詢期限為 2026 年 11 月 18 日，最終指引預計於 2027 年 1 月發布。",
+   "context": "FCA 將 DeFi 界定為以分散式帳本技術促成、高度自動化、技術開放且可互通，且部分情形沒有傳統中介的金融服務。本指引應與 CP26/36 監理範圍指引、加密資產新制政策聲明、營運韌性文件及《金融犯罪指南》一併閱讀。",
+   "facts": [
+    "GC26/7 於 2026 年 10 月 21 日發布，意見徵詢至 11 月 18 日，最終指引預計 2027 年 1 月發布。",
+    "適用對象為在 SYSC 15A、SYSC 6 範圍內或受《洗錢防制規則》規範、運用 DeFi 提供金融服務的受監理業者。",
+    "內容為目前 DeFi 風險態樣的觀察，以及業者可考慮採取措施的例示。",
+    "新制將自 2027 年 10 月 25 日起把新的加密資產活動納入監理範圍。"
+   ],
+   "issues": [
+    "受監理業者與 DeFi 協議互動時，營運韌性與第三方風險管理的期待為何？",
+    "鏈上交易對手身分不明時，洗錢防制措施如何落實？"
+   ],
+   "holding": "・性質：非手冊指引，不新增規則義務，而是說明既有義務如何適用於 DeFi。\n・重點：營運韌性（SYSC 15A）、金融犯罪（SYSC 6）與《洗錢防制規則》。\n・形式：風險觀察加上措施例示。",
+   "significance": "本指引不處理 DeFi 是否落入監理範圍（由 CP26/36 處理），而是針對已受監理業者使用 DeFi 的風險控管，對打算整合 DeFi 協議的銀行、支付與加密資產業者具有參考價值。",
+   "editorNote": "本網頁助理 註：FCA 網頁僅提供摘要，指引全文所列的具體措施，本網頁助理未能開啟核對。",
+   "tags": [
+    "DeFi",
+    "營運韌性",
+    "洗錢防制",
+    "FCA",
+    "英國"
+   ],
+   "related": [
+    "2026-10-21-fin-fca-cp26-36-perimeter-guidance"
+   ],
+   "sources": [
+    {
+     "label": "FCA 指引諮詢頁面（GC26/7）",
+     "url": "https://www.fca.org.uk/publications/guidance-consultations/gc26-7-decentralised-finance-guidance",
+     "official": true
+    },
+    {
+     "label": "FCA GC26/7 全文（PDF）",
+     "url": "https://www.fca.org.uk/publication/guidance-consultation/gc26-7.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-21-fin-ecb-cipollone-pontes-appia",
+   "court": "ECB",
+   "kind": "政策動態",
+   "caseId": "eurosystem-digital-euro-tokenisation",
+   "jurisdiction": "歐元區",
+   "outlet": "Securities.io",
+   "outletCode": "SIO",
+   "date": "2026-10-21",
+   "eventDate": "2026-10-21",
+   "importance": 1,
+   "author": "",
+   "title": "歐洲央行 Cipollone 說明 Pontes 與 Appia：代幣化交易已可用央行貨幣結算，邀銀行參與藍圖設計",
+   "shortTitle": "歐洲央行說明 Pontes 與 Appia 代幣化計畫",
+   "point": "Pontes 已能以央行貨幣結算 DLT 交易，Appia 藍圖 2028 年完成",
+   "titleOriginal": "Pontes and Appia: unlocking opportunities for banks",
+   "caseRef": "",
+   "tldr": "歐洲央行 9 月 21 日推出 Pontes，讓分散式帳本（DLT）平台上的代幣化證券交易可以直接用歐元央行貨幣結算。執行委員 Cipollone 向義大利銀行公會說明，Pontes 先提供核心功能、2028 年前全面上線；另一個計畫 Appia 則將自 2027 年起邀業者共同設計歐洲代幣化金融藍圖，預計 2028 年完成。",
+   "memo": "歐洲中央銀行執行委員會委員 Piero Cipollone 於 2026 年 10 月 21 日向義大利銀行公會發表演說，說明歐元體系於 2026 年 9 月 21 日推出之 Pontes 已使分散式帳本交易得以歐元中央銀行貨幣結算，首批參與者包括 Deutsche Bank、Santander、Société Générale、歐洲投資銀行及 KfW 等，預計於 2028 年全面實施；另 Appia 計畫將自 2027 年起邀請市場參與者共同設計歐洲代幣化金融生態系藍圖，預定於 2028 年完成。",
+   "context": "Pontes 是歐元體系代幣化金融策略計畫的第一項措施；Appia 於 2025 年啟動，探討如何在不同 DLT 網路上提供央行貨幣與擔保品服務，路線圖已於 2026 年 3 月 11 日公布。自 2026 年 3 月起，中央證券存託機構發行的 DLT 資產可作為歐元體系授信操作的合格擔保品。",
+   "facts": [
+    "Pontes 於 2026 年 9 月 21 日上線，首批完成介接者包括 Deutsche Bank、Santander、Société Générale、歐洲投資銀行、KfW，以及 DLT 營運者 Axiology、Cashlink、Clearstream、SWIAT；德意志聯邦銀行以市場參與者身分加入。",
+    "Pontes 先提供核心服務，功能與營運時間將逐步擴充，預計 2028 年全面實施。",
+    "Appia 自 2027 年起邀請市場參與者共同設計藍圖，預定 2028 年完成。",
+    "Cipollone 表示，代幣化正從實驗走向早期採用。"
+   ],
+   "issues": [
+    "銀行應以何種角色（DLT 多邊交易設施、結算機構等）參與代幣化市場？",
+    "以央行貨幣進行鏈上結算，與穩定幣及代幣化存款的關係如何定位？"
+   ],
+   "holding": "・Pontes：連結市場 DLT 平台與歐元體系支付基礎設施，使代幣化證券的批發交易能以央行貨幣結算。\n・Appia：建構 DLT 金融服務整合生態系，2027 年起與市場共同設計，2028 年完成藍圖。\n・銀行參與管道：依 DLT 試行制度介接、Appia 聯絡小組、歐洲標準工作與公開諮詢。",
+   "significance": "Pontes 使歐元區代幣化證券首度能以央行貨幣完成鏈上交割，與 MISP 擴大 DLT 試行制度相互配套；銀行可評估以交易設施或結算角色參與。",
+   "editorNote": "",
+   "tags": [
+    "代幣化",
+    "央行貨幣結算",
+    "Pontes",
+    "Appia",
+    "歐洲央行",
+    "歐盟"
+   ],
+   "related": [
+    "2026-10-06-fin-ecb-cipollone-digital-euro-2029",
+    "2026-10-09-fin-council-misp-esma-supervision",
+    "2026-10-06-fin-uk-digit-lead-managers"
+   ],
+   "sources": [
+    {
+     "label": "Securities.io 報導",
+     "url": "https://www.securities.io/ecbs-cipollone-details-bank-roles-in-pontes-and-appia-ecosystem/",
+     "official": false
+    },
+    {
+     "label": "Lovguiden 摘要（歐洲央行演講）",
+     "url": "https://www.lovguiden.dk/en/det-offentlige/den-europaeiske-centralbank/2026-10-21-ecb-pontes-og-appia-skal-give-banker-adgang-til-tokeniseret-afregning",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline",
+   "court": "TW",
+   "kind": "立法動態",
+   "caseId": "taiwan-vasp-act",
+   "jurisdiction": "台灣",
+   "outlet": "工商時報",
+   "outletCode": "CTEE",
+   "date": "2026-10-20",
+   "eventDate": "2026-10-19",
+   "importance": 2,
+   "author": "",
+   "title": "金管會主委彭金隆：《虛擬資產服務法》九項子法預計 2027 年第一季前公布，穩定幣子法仍在跨部會協商",
+   "shortTitle": "金管會：虛擬資產九子法明年首季前公布",
+   "point": "穩定幣發行子法仍與他部會協商，金融機構最快明年首季發行",
+   "titleOriginal": "",
+   "caseRef": "",
+   "tldr": "金管會主委彭金隆在立法院財政委員會表示，《虛擬資產服務法》授權的九項子法預計在 2027 年第一季前一起公布，其中穩定幣發行子法還在和其他部會協商；子法完成、行政院公告施行後，金融機構最快明年第一季可以發行穩定幣。金管會另表示，目前有五家銀行試辦虛擬資產保管業務。",
+   "memo": "金融監督管理委員會主任委員彭金隆於 2026 年 10 月 19 日赴立法院財政委員會報告時表示，《虛擬資產服務法》（2026 年 6 月 30 日三讀、7 月 22 日公布）授權之九項子法，包括虛擬資產服務商設置標準、負責人與業務人員資格、財務業務管理、內部控制、業務委外、帳戶及異常交易管理、同業公會管理、財務報告及穩定幣發行許可與管理，預計於 2027 年第一季前同時公布，其中穩定幣子法仍與其他部會協商中；金管會另表示目前有五家銀行試辦虛擬資產保管業務。",
+   "context": "《虛擬資產服務法》將監理範圍從以洗錢防制為主，擴大到業者營運、客戶資產保護、資訊安全、市場秩序與穩定幣發行。子法將決定業者申請執照時的資本額、組織、人員、資安、內控與資產管理要求。",
+   "facts": [
+    "彭金隆於 2026 年 10 月 19 日赴立法院財政委員會業務報告並備詢。",
+    "九項子法：虛擬資產服務商設置標準、負責人與業務人員資格、財務及業務管理、內部控制制度、業務委外、帳戶及疑似不法或異常交易管理、同業公會管理、財務報告編製與申報、穩定幣發行許可與管理。",
+    "依聯合報報導，彭金隆表示子法制定完畢後由行政院公告施行，金融機構最快明年第一季發行穩定幣。",
+    "立委賴士葆質疑非美元穩定幣是否有市場；彭金隆表示金管會負責訂定制度，是否參與由業者自行評估。",
+    "依金管會業務報告（中央社報導），五家銀行試辦虛擬資產保管業務，銀行公會預計年底前報請核備相關規範；金融業務知識大語言模型（FinLLM）第一版預計 2027 年第一季發布。"
+   ],
+   "issues": [
+    "穩定幣發行許可涉及央行貨幣政策與支付系統，跨部會協商的重點為何？",
+    "既有虛擬資產業者轉換為許可制的過渡安排。"
+   ],
+   "holding": "・子法：九項授權子法預計 2027 年第一季前同時公布，穩定幣子法仍在協商。\n・施行：子法完成後由行政院公告施行。\n・其他：五家銀行試辦虛擬資產保管；FinLLM 第一版預計 2027 年第一季發布。",
+   "significance": "子法內容將決定台灣虛擬資產服務商的執照門檻與穩定幣發行條件，業者應留意 11 月起的法規預告與公聽程序。",
+   "editorNote": "",
+   "tags": [
+    "虛擬資產服務法",
+    "穩定幣",
+    "虛擬資產保管",
+    "金管會",
+    "台灣"
+   ],
+   "related": [
+    "2026-10-10-fin-taiwan-fsc-stablecoin-joint-venture-plan"
+   ],
+   "sources": [
+    {
+     "label": "工商時報報導",
+     "url": "https://www.ctee.com.tw/news/20261020700168-439901",
+     "official": false
+    },
+    {
+     "label": "經濟日報報導（10 月 19 日）",
+     "url": "https://money.udn.com/money/story/7307/9823592",
+     "official": false
+    },
+    {
+     "label": "中央社報導（金管會業務報告）",
+     "url": "https://udn.com/news/story/7239/9819609",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-16-fin-florida-stablecoin-law-in-force",
+   "court": "US",
+   "kind": "立法動態",
+   "caseId": "genius-act-implementation",
+   "jurisdiction": "美國佛羅里達州",
+   "outlet": "Troutman Pepper Locke",
+   "outletCode": "TPL",
+   "date": "2026-10-16",
+   "eventDate": "2026-10-01",
+   "importance": 1,
+   "author": "",
+   "title": "佛羅里達州支付型穩定幣法 10 月 1 日施行，建立與 GENIUS Act 對接的州發行人許可制度",
+   "shortTitle": "佛州穩定幣發行人許可法施行",
+   "point": "1:1 準備並每月揭露，發行量達 100 億美元須轉由聯邦監理",
+   "titleOriginal": "Laws of Florida, Chapter 2026-176 (HB 175)",
+   "caseRef": "Laws of Florida Ch. 2026-176（HB 175）",
+   "tldr": "依聯邦 GENIUS Act，規模較小的穩定幣發行人可以選擇由州政府監理，但州制度必須與聯邦「實質相似」。佛羅里達州的穩定幣法自 10 月 1 日起施行，要求發行人向州金融監理局取得執照、維持 1 比 1 準備並每月揭露；發行量達 100 億美元時須轉由聯邦監理。",
+   "memo": "佛羅里達州第 2026-176 號法律（HB 175）於 2026 年 10 月 1 日施行，於該州法典第 560 章新增第五部分及第 658.997 條，要求支付型穩定幣發行人取得州金融監理局（OFR）核發之附穩定幣資格金融服務業執照或信託公司證書，維持至少 1:1 之可辨識準備資產，按月公開發行量及準備組成並由執行長與財務長具結，且每年向 OFR 證明符合《GENIUS Act》；發行量達 100 億美元者須轉由聯邦監理。",
+   "context": "GENIUS Act 允許發行量在 100 億美元以下的發行人選擇州監理制度，但州制度須經聯邦「穩定幣認證審查委員會」認定與聯邦框架實質相似。佛州州長於 2026 年 6 月簽署本法。",
+   "facts": [
+    "法律為佛州第 2026-176 號法律（HB 175），州長於 2026 年 6 月簽署，核心條文 10 月 1 日施行。",
+    "許可途徑有二：附穩定幣資格的金融服務業執照（第 560 章第五部分），或信託公司證書（第 658.997 條）。",
+    "依 Shumaker 整理，準備資產限於美元現金、聯準會存款、受保存款、93 日內到期之美國公債、合格附買回、政府貨幣市場基金及其代幣化形式等，原則禁止質押或再質押。",
+    "每月公開報告須經 PCAOB 註冊會計師事務所檢查，並由執行長與財務長具結。",
+    "依 Shumaker 整理，合併發行量達 100 億美元時須於七個營業日內通知 OFR，除獲聯邦豁免外，須於 360 日內轉由聯邦監理。"
+   ],
+   "issues": [
+    "佛州制度能否獲聯邦穩定幣認證審查委員會認定與聯邦框架「實質相似」？",
+    "各州制度並行，是否造成發行人的監理套利？"
+   ],
+   "holding": "・許可：依 Shumaker 整理，OFR 須於 30 日內認定申請是否完整、120 日內作成決定，逾期視為核准。\n・準備：可辨識且至少 1:1，限封閉清單資產。\n・揭露：每月公開發行量與準備組成，經會計師檢查並由高階主管具結；每年證明符合 GENIUS Act 與洗錢防制、制裁要求。\n・門檻：發行量達 100 億美元須轉由聯邦監理。\n・罰則：無照經營依金額分級處罰，最重為一級重罪。",
+   "significance": "佛州是較早完成與 GENIUS Act 對接的州之一，為中小型發行人提供州監理選項。後續關鍵在於 OFR 向聯邦提出的「實質相似」認證能否通過，以及其他州是否跟進。",
+   "editorNote": "本網頁助理 註：本則以 Troutman Pepper Locke 2026 年 10 月 16 日電子報為來源發布日期，法律施行日為 10 月 1 日；許可程序、準備資產範圍與罰則細節依 Shumaker 2026 年 7 月分析。",
+   "tags": [
+    "穩定幣",
+    "GENIUS Act",
+    "州監理",
+    "佛羅里達州",
+    "美國"
+   ],
+   "related": [
+    "2026-10-21-fin-occ-genius-act-final-rule"
+   ],
+   "sources": [
+    {
+     "label": "佛羅里達州第 2026-176 號法律全文",
+     "url": "https://laws.flrules.org/2026/176",
+     "official": true
+    },
+    {
+     "label": "Troutman Pepper Locke 數位資產電子報（10 月 16 日）分析",
+     "url": "https://www.troutman.com/insights/digital-assets-blockchain-newsletter-october-16-2026/",
+     "official": false
+    },
+    {
+     "label": "Shumaker 分析",
+     "url": "https://www.shumaker.com/insight/floridas-new-stablecoin-framework-what-issuers-need-to-know-before-october-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-16-fin-mas-fidrec-payment-service-providers",
+   "court": "MAS",
+   "kind": "草案諮詢",
+   "caseId": "",
+   "jurisdiction": "新加坡",
+   "outlet": "新加坡金融管理局（MAS）",
+   "outletCode": "MAS",
+   "date": "2026-10-16",
+   "eventDate": "2026-10-16",
+   "importance": 1,
+   "author": "",
+   "title": "新加坡金管局提議所有持牌支付機構須加入金融業爭議調處中心（FIDReC）",
+   "shortTitle": "新加坡擬要求支付機構加入 FIDReC",
+   "point": "主要與標準支付機構均須加入，穩定幣發行人待新制生效後納入",
+   "titleOriginal": "Consultation on Expanding FIDReC Membership to Payment Service Providers",
+   "caseRef": "P017-2026",
+   "tldr": "新加坡的金融消費爭議可以交由「金融業爭議調處中心」（FIDReC）處理，MAS 提議所有持牌支付機構都必須加入，讓消費者與支付業者的糾紛也能循此管道解決；未來受 MAS 監理的穩定幣發行人也要加入。",
+   "memo": "新加坡金融管理局（MAS）於 2026 年 10 月 16 日發布諮詢文件 P017-2026，擬要求所有主要支付機構及標準支付機構執照持有人加入金融業爭議調處中心（FIDReC），並於 MAS 穩定幣監理框架生效後，要求受其監理之穩定幣發行人一併加入；意見徵詢期限為 2026 年 11 月 30 日。",
+   "context": "",
+   "facts": [
+    "諮詢文件編號 P017-2026，2026 年 10 月 16 日發布，2026 年 11 月 30 日晚間 7 時截止。",
+    "適用對象：所有主要支付機構（MPI）與標準支付機構（SPI）執照持有人。",
+    "受 MAS 監理的穩定幣發行人，於穩定幣監理框架生效後亦須加入。"
+   ],
+   "issues": [
+    "支付機構加入 FIDReC 後，可受理的爭議類型與請求金額上限為何？",
+    "小型支付機構的會費與合規成本。"
+   ],
+   "holding": "・提案：所有 MPI 與 SPI 執照持有人須加入 FIDReC。\n・穩定幣發行人：MAS 穩定幣監理框架生效後納入。",
+   "significance": "把支付機構與穩定幣發行人納入既有的金融爭議處理機制，補上新加坡支付與數位資產領域的消費者救濟缺口，也顯示穩定幣發行人將逐步適用與傳統金融機構相同的消費者保護要求。",
+   "editorNote": "本網頁助理 註：MAS 網頁未載明可受理的爭議類型、請求金額上限與過渡期，相關細節載於諮詢文件 PDF，本網頁助理未能開啟。",
+   "tags": [
+    "支付服務",
+    "消費者保護",
+    "爭議解決",
+    "穩定幣",
+    "MAS",
+    "新加坡"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "MAS 諮詢文件頁面（P017-2026）",
+     "url": "https://www.mas.gov.sg/publications/consultations/2026/consultation-on-expanding-fidrec-membership-to-psps",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-15-fin-asic-cp392-digital-asset-platforms",
+   "court": "ASIC",
+   "kind": "草案諮詢",
+   "caseId": "au-digital-assets-framework",
+   "jurisdiction": "澳洲",
+   "outlet": "澳洲證券投資委員會（ASIC）",
+   "outletCode": "ASIC",
+   "date": "2026-10-15",
+   "eventDate": "2026-10-15",
+   "importance": 2,
+   "author": "",
+   "title": "澳洲 ASIC 就數位資產平台與代幣化保管平台新法提出標準與指引草案",
+   "shortTitle": "ASIC 徵詢數位資產平台新法配套",
+   "point": "新法 2027 年 4 月 8 日施行，意見期限 11 月 27 日",
+   "titleOriginal": "26-245MR ASIC consults on implementation of new digital asset laws",
+   "caseRef": "CP 392；26-245MR",
+   "tldr": "澳洲 2026 年通過數位資產新法，新增「數位資產平台」與「代幣化保管平台」兩類受監理業務。ASIC 公布配套草案，包括資產持有標準、交易與交割標準、財務要求與法遵指引；交易所、保管業者與代幣化服務商須申請或變更澳洲金融服務執照。",
+   "memo": "澳洲證券投資委員會（ASIC）於 2026 年 10 月 15 日發布諮詢文件 CP 392（新聞稿 26-245MR），就《2026 年公司法修正（數位資產框架）法》所定數位資產平台及代幣化保管平台，提出法遵指引、資產持有標準、交易及交割標準與財務要求草案，並擬對既有澳洲金融服務執照持有人及已依 INFO 225 申請者提供簡化許可程序；新制自 2027 年 4 月 8 日施行，意見徵詢期限為 2026 年 11 月 27 日。",
+   "context": "《2026 年公司法修正（數位資產框架）法》修正《公司法》，新增數位資產平台與代幣化保管平台兩類規範。在新法施行前，ASIC 依現行法律與 INFO 225 監理數位資產業者，其全面不採取行動立場已延長至 2026 年 9 月 30 日。",
+   "facts": [
+    "CP 392 於 2026 年 10 月 15 日發布，意見於 2026 年 11 月 27 日澳洲東部夏令時間下午 5 時截止。",
+    "內容包括法遵指引草案、資產持有標準、交易與交割標準，以及財務要求草案。",
+    "業者須申請或變更澳洲金融服務執照，提供客戶揭露文件與平台規則，並在相關情形符合淨有形資產要求。",
+    "ASIC 擬對既有持照人與已依 INFO 225 申請者提供簡化許可程序；目前已登錄逾 140 件申請。",
+    "委員 Alan Kirkland 表示採「同樣活動、同樣風險、同樣監理結果」原則，與可比較的海外法域一致。"
+   ],
+   "issues": [
+    "海外保管與私鑰管理的要求如何設計？",
+    "資本與淨有形資產要求對中小型平台的影響。"
+   ],
+   "holding": "・範圍：數位資產平台與代幣化保管平台營運者，以及為這些產品提供金融服務者。\n・草案：法遵指引、資產持有標準、交易與交割標準、財務要求。\n・過渡：對既有持照人與已依 INFO 225 申請者提供簡化許可。\n・時程：新法 2027 年 4 月 8 日施行；意見至 2026 年 11 月 27 日。",
+   "significance": "澳洲是繼歐盟、英國、新加坡、香港之後，以專法建立加密資產平台與代幣化保管監理的主要市場之一。服務澳洲客戶的交易所與保管業者應評估執照申請與資本準備。",
+   "editorNote": "",
+   "tags": [
+    "數位資產",
+    "加密資產平台",
+    "代幣化",
+    "保管",
+    "ASIC",
+    "澳洲"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ASIC 新聞稿（26-245MR）",
+     "url": "https://asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-245mr-asic-consults-on-implementation-of-new-digital-asset-laws",
+     "official": true
+    },
+    {
+     "label": "ASIC 諮詢文件頁面（CP 392）",
+     "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/consultations/cp-392-digital-asset-law-reform-implementation-proposed-standards-and-guidance",
+     "official": true
+    },
+    {
+     "label": "Licentium 分析",
+     "url": "https://www.licentium.io/post/asic-cp-392-digital-asset-platform-standards-15-october-2026",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-15-fin-fsb-ai-sound-practices-final",
+   "court": "FSB",
+   "kind": "國際標準",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "金融穩定委員會（FSB）",
+   "outletCode": "FSB",
+   "date": "2026-10-15",
+   "eventDate": "2026-10-15",
+   "importance": 2,
+   "author": "",
+   "title": "金融穩定委員會發布金融機構負責任採用人工智慧之 12 項健全實務定稿",
+   "shortTitle": "FSB 發布金融業 AI 採用健全實務",
+   "point": "12 項實務分治理與全生命週期風險管理兩組，供董事會使用",
+   "titleOriginal": "Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Final report",
+   "caseRef": "",
+   "tldr": "金融穩定委員會（FSB）定稿 12 項「負責任採用 AI」的健全實務，對象是銀行等金融機構的董事會與高階主管。實務分成兩組：一組談全機構的 AI 治理，一組是從開發到部署的全生命週期風險管理，機構可依自身情況調整運用。",
+   "memo": "金融穩定委員會（FSB）於 2026 年 10 月 15 日發布「負責任採用人工智慧之健全實務」最終報告，提出 12 項健全實務，分為全機構人工智慧治理，及涵蓋開發至部署全生命週期之風險管理架構兩組，供金融機構董事會及高階管理階層依自身情況與風險概況調整運用；該報告係於 2026 年 6 月公開徵詢後定稿，FSB 並同時公布徵詢意見摘要。",
+   "context": "FSB 於 2026 年 6 月 10 日就健全實務草案公開徵詢。美國銀行家協會等團體曾建議改善「機器學習」定義、增加社區銀行案例，並整併清單以適用於各種規模的銀行。",
+   "facts": [
+    "最終報告於 2026 年 10 月 15 日發布，同時公布徵詢意見摘要。",
+    "12 項健全實務分為兩組：全機構 AI 治理，以及從開發到部署的全生命週期風險管理。",
+    "對象為金融機構董事會成員與高階主管，FSB 稱其為可依機構情況調整的「實用工具組」。",
+    "FSB 主席 10 月 12 日致 G20 函亦提及 AI 相關工作。"
+   ],
+   "issues": [
+    "健全實務如何轉化為各國監理機關的檢查標準？",
+    "對第三方 AI 模型與雲端服務的依賴，如何納入集中度風險管理？"
+   ],
+   "holding": "・兩組實務：全機構 AI 治理；全生命週期風險管理。\n・定位：非強制性標準，供董事會與高階主管依機構情況調整。",
+   "significance": "金融業採用生成式 AI 的速度加快，FSB 的健全實務可能成為各國監理機關訂定 AI 治理要求的參考。",
+   "editorNote": "本網頁助理 註：最終版與草案的具體差異，來源未說明。以下為本網頁助理補充，非來源內容：台灣金管會已於 2024 年發布「金融業運用人工智慧（AI）指引」，可與本健全實務對照。",
+   "tags": [
+    "人工智慧",
+    "治理",
+    "風險管理",
+    "FSB",
+    "國際"
+   ],
+   "related": [
+    "2026-10-12-fin-fsb-global-stablecoin-monitoring"
+   ],
+   "sources": [
+    {
+     "label": "FSB 新聞稿",
+     "url": "https://www.fsb.org/2026/10/fsb-finalises-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/",
+     "official": true
+    },
+    {
+     "label": "FSB 最終報告頁面",
+     "url": "https://www.fsb.org/2026/10/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-final-report/",
+     "official": true
+    },
+    {
+     "label": "ABA Banking Journal 報導",
+     "url": "http://bankingjournal.aba.com/2026/10/financial-stability-board-finalizes-sound-practices-for-ai-adoption/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-14-fin-eba-usdc-significant-emt",
+   "court": "EBA",
+   "kind": "政策動態",
+   "caseId": "mica-stablecoin-supervision",
+   "jurisdiction": "歐盟、法國",
+   "outlet": "歐洲銀行管理局（EBA）",
+   "outletCode": "EBA",
+   "date": "2026-10-14",
+   "eventDate": "2026-10-14",
+   "importance": 3,
+   "author": "",
+   "title": "EBA 將 USDC 列為歐盟首個「重大」電子貨幣代幣，11 月 12 日起與法國 ACPR 共同監理",
+   "shortTitle": "EBA 將 USDC 列為首個重大電子貨幣代幣",
+   "point": "11 月 12 日起由 EBA 直接監理資本、準備與流動性",
+   "titleOriginal": "The EBA classifies USDC as the first significant e-money token in the European Union",
+   "caseRef": "",
+   "tldr": "依 MiCA，規模或影響力達到一定標準的穩定幣會被認定為「重大」，改由歐洲銀行管理局（EBA）加入監理並適用更嚴格的要求。EBA 首度作出這項認定，對象是 Circle 在法國設立的子公司所發行的 USDC。自 11 月 12 日起，自有資金、準備資產、流動性與復原贖回計畫改由 EBA 直接監理，治理等事項仍由法國 ACPR 負責。",
+   "memo": "歐洲銀行管理局（EBA）於 2026 年 10 月 14 日依《加密資產市場規則》（MiCA）第 56 條，將 Circle Internet Financial Europe SAS 發行之 USDC 認定為歐盟首個重大電子貨幣代幣；自 2026 年 11 月 12 日起依 MiCA 第 117 條適用雙重監理，由 EBA 接手監理自有資金、準備資產、流動性及復原與贖回計畫，法國審慎監理暨處理局（ACPR）則續行監理治理、合格持股、適格性、委外及利益衝突事項。",
+   "context": "MiCA 第 43 條與第 56 條授權 EBA 認定資產參考代幣與電子貨幣代幣是否「重大」，認定指標規定於執委會授權規則 (EU) 2024/1506；EBA 每年重新評估。USDC 在美國由 Circle Internet Financial, LLC 發行，在歐盟則由其法國子公司以電子貨幣機構身分發行。",
+   "facts": [
+    "USDC 是依 MiCA 通報的 45 種電子貨幣代幣中，第一個被認定為重大者。",
+    "法源：MiCA 第 43、56 條（重大認定）、第 117 條（雙重監理）、第 119 條（監理聯席會）；認定程序依 EBA 決定 EBA/DC/558。",
+    "2026 年 11 月 12 日起，EBA 接手自有資金、準備資產、流動性與復原贖回計畫的監理。",
+    "ACPR 保留治理、合格持股、適格性、委外與利益衝突的監理。",
+    "EBA 與紐約州金融服務署（NYDFS）簽署合作備忘錄，交換跨境穩定幣資訊。"
+   ],
+   "issues": [
+    "同一穩定幣在美歐兩地發行，跨境贖回與準備資產如何分割監理？",
+    "重大 EMT 的額外要求對發行人歐洲業務的影響。"
+   ],
+   "holding": "・認定：USDC 符合 MiCA 重大電子貨幣代幣的標準。\n・效果：2026 年 11 月 12 日起適用雙重監理，EBA 監理自有資金、準備資產、流動性與復原贖回計畫；ACPR 監理治理等其他事項。\n・合作：EBA 與 ACPR 確保順利移轉，並與 NYDFS 建立資訊交換機制。",
+   "significance": "這是 MiCA 重大穩定幣制度首度啟動，EBA 開始對全球主要穩定幣之一行使直接監理權；與 NYDFS 的合作也顯示跨大西洋穩定幣監理合作逐漸成形。",
+   "editorNote": "",
+   "tags": [
+    "穩定幣",
+    "MiCA",
+    "USDC",
+    "電子貨幣代幣",
+    "EBA",
+    "歐盟"
+   ],
+   "related": [
+    "2026-10-08-fin-esma-opinion-non-mica-stablecoins",
+    "2026-10-12-fin-fsb-global-stablecoin-monitoring"
+   ],
+   "sources": [
+    {
+     "label": "EBA 新聞稿",
+     "url": "https://eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union",
+     "official": true
+    },
+    {
+     "label": "BBVA Research 金融監理週報（10 月 16 日）",
+     "url": "https://www.bbvaresearch.com/en/publicaciones/global-financial-regulation-weekly-update-october-16-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-14-fin-occ-debanking-review",
+   "court": "OCC",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "Cointelegraph",
+   "outletCode": "CT",
+   "date": "2026-10-14",
+   "eventDate": "2026-10-14",
+   "importance": 1,
+   "author": "",
+   "title": "OCC 公布九大銀行「去銀行化」審查報告，指多家銀行限制對數位資產業者提供服務",
+   "shortTitle": "OCC 公布大型銀行去銀行化審查",
+   "point": "多家銀行限制數位資產業者往來，但 OCC 無法量化程度",
+   "titleOriginal": "",
+   "caseRef": "",
+   "tldr": "美國貨幣監理署（OCC）依 2025 年 8 月的行政命令，審查全美九家最大國家銀行是否因政治或聲譽因素拒絕往來特定產業。報告指出，許多銀行限制對數位資產發行人、交易所與管理人提供服務，理由多為金融犯罪風險；但 OCC 無法全面量化去銀行化的程度，也沒有列出具體的加密業者案例。",
+   "memo": "美國貨幣監理署（OCC）於 2026 年 10 月 14 日依 2025 年 8 月第 14331 號行政命令公布對九家最大國家銀行之去銀行化審查報告，指出部分銀行訂有限制數位資產等產業取得金融服務之公開或內部政策，許多銀行限制對數位資產發行人、交易所及管理人提供服務，多以金融犯罪疑慮為由；OCC 表示無法全面量化去銀行化之程度，報告亦未列舉具體之加密資產案例。",
+   "context": "川普總統 2025 年 8 月簽署行政命令，要求銀行監理機關處理所謂「不當去銀行化」，即銀行基於政治或聲譽理由拒絕往來合法產業。加密資產業界長期指控曾遭銀行集體拒絕往來。",
+   "facts": [
+    "報告依第 14331 號行政命令製作，審查對象為九家最大國家銀行；依 Cointelegraph，新聞稿編號為 NR 2026-90，報告共 47 頁。",
+    "部分銀行訂有限制數位資產等產業的公開或內部政策。",
+    "許多銀行限制對數位資產發行人、交易所與管理人提供服務，多以金融犯罪疑慮為由。",
+    "署長 Gould 著重於煤炭與槍枝產業，稱相關決定出於負面新聞與抗議等聲譽考量，而非財務風險。"
+   ],
+   "issues": [
+    "以金融犯罪風險為由拒絕往來，與不當去銀行化的界線在哪裡？",
+    "監理機關後續是否會調整檢查實務中的聲譽風險考量？"
+   ],
+   "holding": "・發現：部分銀行對數位資產等產業設有限制政策；許多銀行限制對數位資產發行人、交易所與管理人提供服務，多以金融犯罪疑慮為由。\n・限制：OCC 無法全面量化去銀行化程度，報告未提出加密資產相關的具體案例。",
+   "significance": "報告為加密資產業者主張公平取得銀行服務提供官方依據，也可能影響 OCC 的檢查實務；但報告未量化、未舉例，實際監理效果仍待觀察。",
+   "editorNote": "本網頁助理 註：報告頁數與新聞稿編號依 Cointelegraph 報導；本網頁助理未能直接開啟 OCC 新聞稿。",
+   "tags": [
+    "去銀行化",
+    "數位資產",
+    "銀行服務",
+    "OCC",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities",
+     "official": false
+    },
+    {
+     "label": "Troutman Pepper Locke 數位資產電子報（10 月 16 日）分析",
+     "url": "https://www.troutman.com/insights/digital-assets-blockchain-newsletter-october-16-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-12-fin-fsb-global-stablecoin-monitoring",
+   "court": "FSB",
+   "kind": "國際標準",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "金融穩定委員會（FSB）",
+   "outletCode": "FSB",
+   "date": "2026-10-12",
+   "eventDate": "2026-10-12",
+   "importance": 2,
+   "author": "",
+   "title": "金融穩定委員會向 G20 提交全球穩定幣安排之跨境脆弱性與金融穩定監測說明",
+   "shortTitle": "FSB 向 G20 提交全球穩定幣監測報告",
+   "point": "全球穩定幣本質上跨境跨業，單一主管機關難以完整評估風險",
+   "titleOriginal": "Global stablecoin arrangements: Cross-border vulnerabilities and financial stability monitoring",
+   "caseRef": "",
+   "tldr": "金融穩定委員會（FSB）向 G20 提交說明文件，指出全球穩定幣天生跨國界、跨產業，單一國家的主管機關可能無法完整評估或處理風險。文件整理全球穩定幣的結構、風險如何跨境傳導、可用於監測的指標，以及現有資料來源的優缺點。",
+   "memo": "金融穩定委員會（FSB）於 2026 年 10 月 12 日向 G20 提交「全球穩定幣安排：跨境脆弱性與金融穩定監測」說明文件，指出全球穩定幣本質上屬跨境及跨業議題，單一主管機關可能無法完整評估或處理其風險，並整理全球穩定幣安排之結構、脆弱性傳導途徑、可供金融穩定監測之指標及現有資料來源之優缺點；同日 FSB 主席亦致函 G20 財長及央行總裁說明 FSB 於人工智慧及穩定幣之工作。",
+   "context": "FSB 於 2023 年 7 月發布加密資產活動全球監理框架，包括對加密資產活動與全球穩定幣安排的兩組建議。FSB 2025 年 10 月 16 日的主題檢視發現，各國落實雖有進展，但仍有缺口與不一致。",
+   "facts": [
+    "說明文件於 2026 年 10 月 12 日發布，列為 FSB 給 G20 的報告。",
+    "文件指出，經營全球穩定幣可能涉及受多國主管機關監理的多種實體，穩定幣可能在一個或多個法域具系統重要性。",
+    "文件整理全球穩定幣安排的結構、脆弱性傳導途徑與監測指標，並評估現有資料來源的優缺點。",
+    "FSB 主席 Andrew Bailey 同日致函 G20 財長與央行總裁，說明 FSB 在人工智慧與穩定幣方面的工作。"
+   ],
+   "issues": [
+    "跨境穩定幣的監理合作與資料共享機制如何建立？",
+    "哪些指標足以及早辨識穩定幣的系統性風險？"
+   ],
+   "holding": "・定性：全球穩定幣是跨境、跨業議題，單一主管機關可能無法完整評估或處理風險。\n・內容：結構、脆弱性傳導、監測指標與資料來源。\n・後續：持續發展監測指標與資料來源（網頁未列明確建議）。",
+   "significance": "美國 GENIUS Act、歐盟 MiCA 與香港《穩定幣條例》相繼上路，全球穩定幣的跨境監理落差成為國際標準制定者的焦點；FSB 的監測框架可能成為日後同儕檢視與資料蒐集的基礎。",
+   "editorNote": "本網頁助理 註：本則依 FSB 網頁摘要整理；說明文件全文（PDF）本網頁助理未能開啟。",
+   "tags": [
+    "穩定幣",
+    "金融穩定",
+    "跨境監理",
+    "G20",
+    "FSB",
+    "國際"
+   ],
+   "related": [
+    "2026-10-15-fin-fsb-ai-sound-practices-final",
+    "2026-10-14-fin-eba-usdc-significant-emt"
+   ],
+   "sources": [
+    {
+     "label": "FSB 說明文件頁面",
+     "url": "https://www.fsb.org/2026/10/global-stablecoin-arrangements-cross-border-vulnerabilities/",
+     "official": true
+    },
+    {
+     "label": "FSB 新聞稿（主席致 G20 函）",
+     "url": "https://www.fsb.org/2026/10/fsb-chair-sets-out-fsb-work-on-ai-and-stablecoins/",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-10-fin-taiwan-fsc-stablecoin-joint-venture-plan",
+   "court": "TW",
+   "kind": "政策動態",
+   "caseId": "taiwan-vasp-act",
+   "jurisdiction": "台灣",
+   "outlet": "經濟日報",
+   "outletCode": "EDN",
+   "date": "2026-10-10",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "經濟日報：金管會研議穩定幣發行除銀行獨資外，開放與科技業、虛擬資產業者及境外發行商合資",
+   "shortTitle": "金管會研議開放跨業合資發行穩定幣",
+   "point": "銀行持股比例將設限，官員稱跨部會溝通中尚無定論",
+   "titleOriginal": "",
+   "caseRef": "",
+   "tldr": "根據經濟日報報導，金管會規劃《虛擬資產服務法》下的穩定幣發行制度時，除了銀行獨資發行，也考慮讓銀行與科技業、虛擬資產業者或境外穩定幣發行商合資，但會限制股東結構。金管會官員表示，相關規定仍在跨部會溝通，尚無定論。",
+   "memo": "依經濟日報 2026 年 10 月 10 日報導，金融監督管理委員會研擬《虛擬資產服務法》穩定幣發行相關子法時，初步規劃除銀行獨資發行外，亦考慮允許銀行與科技業、虛擬資產服務業者及境外穩定幣發行商合資發行，並對銀行持股比例等股東結構設有限制；金管會官員表示相關規定仍在跨部會溝通中，尚無定論。",
+   "context": "《虛擬資產服務法》於 2026 年 6 月 30 日三讀通過、7 月 22 日公布，授權金管會訂定穩定幣發行許可與管理等子法。報導稱金管會將於 11 月預告相關子法，穩定幣發行為其中重點。",
+   "facts": [
+    "報導稱，初步規劃除銀行獨資發行外，也考慮由銀行與科技業、虛擬資產服務業者等非銀行業者，以及境外穩定幣發行商合資。",
+    "銀行的持股比例等股東結構將設有限制。",
+    "知情人士稱，若發行人為銀行，因銀行最低資本額已達 100 億元，審查重點將是近年有無重大違規裁罰等法遵紀錄。",
+    "金管會官員表示，相關規定仍在跨部會溝通中，尚無定論。",
+    "台大法律學院楊岳平教授研判，若納入境外發行人，對象可能是已在香港、新加坡、日本取得牌照的業者，而非 Tether 或 Circle。"
+   ],
+   "issues": [
+    "境外穩定幣發行商參與合資時，外資與監理管轄如何安排？",
+    "非銀行合資方的資格條件與銀行持股下限。"
+   ],
+   "holding": "・規劃方向（媒體報導）：銀行獨資，或與科技業、VASP、境外發行商合資。\n・股東結構：銀行持股比例將設限制。\n・金管會：仍在跨部會溝通，尚無定論。",
+   "significance": "發行人資格與股權結構，決定台灣穩定幣市場由誰主導；具體規定應以金管會預告的子法草案為準。",
+   "editorNote": "本網頁助理 註：本則為媒體依金管會官員與知情人士說法所作報導，非金管會正式公告；發行人審查重點係知情人士說法。",
+   "tags": [
+    "穩定幣",
+    "虛擬資產服務法",
+    "金管會",
+    "台灣"
+   ],
+   "related": [
+    "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline"
+   ],
+   "sources": [
+    {
+     "label": "經濟日報報導（聯合新聞網）",
+     "url": "https://udn.com/news/story/7239/9805542",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-09-fin-cftc-event-contracts-swap-definition",
+   "court": "CFTC",
+   "kind": "法規發布",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "美國商品期貨交易委員會（CFTC）",
+   "outletCode": "CFTC",
+   "date": "2026-10-09",
+   "eventDate": "2026-10-09",
+   "importance": 2,
+   "author": "",
+   "title": "CFTC 以暫行最終規則將賭場式博弈排除於「交換」定義之外，並提案明定事件合約屬於交換",
+   "shortTitle": "CFTC 劃定事件合約與博弈的界線",
+   "point": "運動投注與賭場遊戲排除於交換外，事件合約則擬明文納入",
+   "titleOriginal": "CFTC Issues Interim Final Rule Excluding Certain Activity from the Definition of Swap; companion proposed rule",
+   "caseRef": "Release Nos. 9309-26、9310-26；91 FR 65969",
+   "tldr": "預測市場（事件合約）究竟是受 CFTC 監理的衍生性商品，還是州法管轄的賭博，近來在各州與聯邦法院爭議不斷。CFTC 一方面以暫行最終規則確認，州許可的運動投注與賭場遊戲不屬於「交換」；另一方面提案修改定義，明確把運動、政治、文化與天氣等事件合約納入交換。",
+   "memo": "美國商品期貨交易委員會（CFTC）於 2026 年 10 月 9 日發布暫行最終規則（91 FR 65969），明定由州許可或依部落博弈法授權之業者提供、且非於交易所或類似市場交易之運動投注及賭場遊戲等博弈產品不屬《商品交易法》之「交換」，自刊登聯邦公報時生效；同日另提出規則草案，擬修正該法第 1a(47) 條之交換定義，明文涵蓋以運動、政治、文化及天氣等事件為標的之合約，兩案意見徵詢期間均為 30 日。",
+   "context": "預測市場業者 Kalshi 與多州的訴訟形成巡迴法院歧見：第三巡迴上訴法院於 2026 年 4 月認為 Kalshi 的聯邦法優先適用主張可能成立；第九巡迴上訴法院於 8 月、第六巡迴上訴法院於 9 月則判決 Kalshi 敗訴，認為州政府可依賭博法規範其運動事件合約。",
+   "facts": [
+    "暫行最終規則（9309-26）自刊登聯邦公報時生效，意見期間 30 日。",
+    "規則草案（9310-26）擬修正《商品交易法》第 1a(47) 條，明定事件合約屬交換，意見期間 30 日。",
+    "依 Troutman 整理，兩案均於 9 月 28 日送交白宮管理及預算局。",
+    "CFTC 主席 Selig 表示，賭場式博弈產品不是衍生性商品，CFTC 是在釐清其監理權限的邊界。"
+   ],
+   "issues": [
+    "把事件合約明定為「交換」，是否足以使《商品交易法》優先於州賭博法適用？",
+    "運動事件合約與州許可運動投注的界線應如何劃定？"
+   ],
+   "holding": "・暫行最終規則：州許可或部落博弈業者提供、非於交易所交易的博弈產品（如運動投注、賭場遊戲）排除於交換定義之外，自刊登聯邦公報時生效。\n・規則草案：交換定義明文涵蓋以運動、政治、文化、天氣等事件為標的之合約。\n・CFTC 稱此舉與其對其他傳統上由州監理產品的處理方式一致。",
+   "significance": "兩項規則同時劃出「州管博弈、聯邦管事件合約」的界線，可能成為預測市場業者在州法院與上訴審中主張聯邦法優先的依據。後續應留意規則定案、各巡迴法院訴訟，以及最高法院是否受理。",
+   "editorNote": "本網頁助理 註：巡迴法院判決資訊依 Cointelegraph 2026 年 9 月 26 日報導整理。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "交換",
+    "博弈",
+    "CFTC",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "CFTC 新聞稿（9309-26）",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9309-26",
+     "official": true
+    },
+    {
+     "label": "Troutman Pepper Locke 數位資產電子報（10 月 16 日）分析",
+     "url": "https://www.troutman.com/insights/digital-assets-blockchain-newsletter-october-16-2026/",
+     "official": false
+    },
+    {
+     "label": "Cointelegraph 報導（Kalshi 上訴敗訴）",
+     "url": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-09-fin-council-misp-esma-supervision",
+   "court": "EU",
+   "kind": "立法動態",
+   "caseId": "eu-misp",
+   "jurisdiction": "歐盟",
+   "outlet": "Lovguiden（摘要歐盟理事會新聞稿）",
+   "outletCode": "LG",
+   "date": "2026-10-09",
+   "eventDate": "2026-10-09",
+   "importance": 2,
+   "author": "",
+   "title": "歐盟理事會就市場整合與監理套案達成立場要點，最重要的跨境加密資產服務業者將由 ESMA 直接監理",
+   "shortTitle": "歐盟理事會同意擴大 ESMA 直接監理",
+   "point": "僅最重要跨境 CASP 立即移由 ESMA 監理，執委會不支持此妥協",
+   "titleOriginal": "Savings and investments union: Council agrees key elements of crucial measures to deepen EU capital markets",
+   "caseRef": "",
+   "tldr": "歐盟執委會 2025 年 12 月提出「市場整合與監理套案」（MISP），要把重要交易所、結算機構與加密資產服務業者交由 ESMA 直接監理。各國財長達成理事會立場要點：只有最重要的跨境業者立即移交 ESMA，並改組 ESMA 治理架構。執委會表示無法支持，案子接下來要和歐洲議會協商。",
+   "memo": "歐盟理事會於 2026 年 10 月 9 日就執委會 2025 年 12 月 4 日提出之市場整合與監理套案（MISP）達成談判立場要點，同意由歐洲證券及市場管理局（ESMA）直接監理最重要之跨境交易場所、中央證券存託機構、中央交易對手及加密資產服務業者，惟加密資產服務業者僅最重要之跨境業者立即納入（執委會原提案為全部納入），並設立由主席及五名獨立成員組成之全職執行委員會及兩年過渡期；歐盟執委會表示無法支持此一做法。",
+   "context": "MISP 是歐盟「儲蓄與投資聯盟」的核心措施，包括主規則、主指令與清算交割終局性規則三項提案。愛爾蘭作為輪值主席國提出妥協案，以化解各國對直接監理範圍、治理與經費的歧見。",
+   "facts": [
+    "理事會於 2026 年 10 月 9 日達成立場要點，正式立場將於定稿後通過。",
+    "ESMA 直接監理對象：最重要的跨境交易場所、中央證券存託機構、中央交易對手，以及最重要的跨境 CASP。",
+    "未達門檻的交易場所可選擇取得「泛歐市場經營者」地位，以單一執照經營多個場所，並受 ESMA 直接監理。",
+    "ESMA 新設全職執行委員會（主席加五名獨立成員）；由各國主管機關組成的監理委員會仍為主要決策機構；過渡期兩年。",
+    "套案同時擴大 DLT 試行制度（DLT Pilot Regime）。",
+    "依 Crypto Briefing 引述 Bloomberg，執委員 Albuquerque 表示執委會無法支持此做法，認為會削弱治理並使監理更複雜、更昂貴。"
+   ],
+   "issues": [
+    "「最重要跨境 CASP」的認定標準為何？其餘 CASP 是否仍由各國監理？",
+    "新治理架構下，ESMA 執行委員會與各國主管機關的權限如何分配？"
+   ],
+   "holding": "・直接監理：最重要的跨境交易場所、CSD、CCP 與 CASP 移由 ESMA 監理；CASP 範圍較執委會提案縮小。\n・泛歐市場經營者：未達門檻的交易場所可選擇以單一執照受 ESMA 監理。\n・治理：新設全職執行委員會，負責營運與個別機構決定；監理委員會保留規則、策略、預算與監理趨同決策。\n・過渡：兩年，由 ESMA 主導、歐盟與各國專家組成的團隊接手監理。\n・其他：基金存管機構護照、跨境資產管理簡化，以及擴大 DLT 試行制度。",
+   "significance": "對加密資產業而言，這代表歐盟最大型的跨境 CASP 未來將由 ESMA 單一監理，有助減少各國監理落差；但理事會版本較執委會保守，最終範圍仍取決於與歐洲議會的協商。",
+   "editorNote": "本網頁助理 註：理事會立場內容依 Lovguiden 對理事會新聞稿的摘要整理，本網頁助理未能直接開啟理事會原文；執委會反應依 Crypto Briefing 引述 Bloomberg 報導。",
+   "tags": [
+    "MISP",
+    "直接監理",
+    "加密資產服務業者",
+    "DLT試行制度",
+    "ESMA",
+    "歐盟"
+   ],
+   "related": [
+    "2026-10-21-fin-ecb-cipollone-pontes-appia"
+   ],
+   "sources": [
+    {
+     "label": "Lovguiden 摘要（理事會新聞稿）",
+     "url": "https://www.lovguiden.dk/en/det-offentlige/raadet-for-den-europaeiske-union/2026-10-09-raadet-vil-flytte-tilsyn-med-store-handelspladser-til-esma",
+     "official": false
+    },
+    {
+     "label": "Crypto Briefing 報導",
+     "url": "https://cryptobriefing.com/eu-deal-esma-markets-supervision-crypto/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-08-fin-esma-opinion-non-mica-stablecoins",
+   "court": "ESMA",
+   "kind": "監理指引",
+   "caseId": "mica-stablecoin-supervision",
+   "jurisdiction": "歐盟",
+   "outlet": "歐洲證券及市場管理局（ESMA）",
+   "outletCode": "ESMA",
+   "date": "2026-10-08",
+   "eventDate": "2026-10-08",
+   "importance": 3,
+   "author": "",
+   "title": "ESMA 發布意見，要求 MiCA 授權之加密資產服務業者三個月內停止與不合規穩定幣相關之服務",
+   "shortTitle": "ESMA 要求停止不合規穩定幣服務",
+   "point": "既有曝險須於 2027 年 1 月 8 日前處理，期間僅容許清算與移轉",
+   "titleOriginal": "Opinion on the provision of crypto-asset services in relation to non-MiCA-compliant asset-referenced tokens and e-money tokens",
+   "caseRef": "ESMA75-113276571-1742",
+   "tldr": "歐盟加密資產市場規則（MiCA）要求穩定幣發行人取得授權，但市場上仍流通未符合 MiCA 的穩定幣。ESMA 發布意見，要求已取得 MiCA 授權的加密資產服務業者，停止為歐盟客戶提供與這類穩定幣有關的交易、保管、移轉等服務；既有部位最遲三個月內處理完畢，期間只能做清算、轉換、提領、移轉或保管。",
+   "memo": "歐洲證券及市場管理局（ESMA）於 2026 年 10 月 8 日發布意見（ESMA75-113276571-1742），要求各會員國主管機關確保經《加密資產市場規則》（MiCA）授權之加密資產服務業者不得就未符合 MiCA 之資產參考代幣及電子貨幣代幣，向歐盟客戶提供交易平台營運、兌換、委託執行、移轉、保管及投資建議等服務，並應建置技術、契約及組織控制以防止客戶增加曝險；既有曝險應儘速且至遲於公布後三個月內完成處理，期間僅得從事清算、轉換、提領、移轉或保管等必要活動。",
+   "context": "MiCA 對資產參考代幣（ART）與電子貨幣代幣（EMT，即多數法幣穩定幣）的發行設有授權要求，加密資產服務業者（CASP）的過渡期已經結束。ESMA 於 9 月 30 日回應執委會的 MiCA 檢討諮詢，也呼籲讓規則更明確、更安全。",
+   "facts": [
+    "意見於 2026 年 10 月 8 日發布，對象為各國主管機關與 MiCA 授權之 CASP。",
+    "涵蓋服務：交易平台營運、兌換、委託執行、配售、接收與傳遞委託、投資建議、移轉、保管與管理、投資組合管理，不論單獨或合併提供。",
+    "ESMA 認為警語、揭露或客戶確認均不足以處理相關疑慮。",
+    "既有曝險須於公布後三個月內（2027 年 1 月 8 日）處理完畢。",
+    "過渡期間的服務限於清算、轉換、提領、移轉或保管，且須有期限、以風險為基礎並受密切監理。"
+   ],
+   "issues": [
+    "ESMA 意見的法律效力，以及各國主管機關執行的一致性。",
+    "業者如何在三個月內安排客戶部位轉換，而不損及客戶權益？"
+   ],
+   "holding": "・CASP 不得維持、引進或便利客戶取得不合規 ART／EMT 的曝險。\n・須建置技術、契約與組織控制，防止客戶取得新曝險或增加既有曝險。\n・不得以警語、揭露或客戶確認替代停止服務。\n・既有曝險至遲三個月內處理；過渡期間服務限於清算、轉換、提領、移轉、保管。",
+   "significance": "MiCA 過渡期結束後，ESMA 以明確期限要求市場清理不合規穩定幣，直接影響未取得 MiCA 授權的穩定幣在歐盟交易平台的流通。CASP 應於 2027 年 1 月 8 日前完成客戶溝通與部位處理，各國主管機關的執行方式也值得觀察。",
+   "editorNote": "以下為本網頁助理補充，非來源內容：ESMA 意見本身未點名特定穩定幣；市場普遍關注其對 Tether 發行之 USDT 等未取得 MiCA 授權之穩定幣的影響。",
+   "tags": [
+    "穩定幣",
+    "MiCA",
+    "加密資產服務業者",
+    "ESMA",
+    "歐盟"
+   ],
+   "related": [
+    "2026-10-14-fin-eba-usdc-significant-emt"
+   ],
+   "sources": [
+    {
+     "label": "ESMA 意見全文（PDF）",
+     "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA75-113276571-1742%5FOpinion%5Fon%5Fthe%5Fprovision%5Fof%5Fcrypto%5Fasset%5Fservices%5Fin%5Frelation%5Fto%5Fnon-MiCA-compliant%5Fasset-referenced%5Ftokens%5Fand%5Fe-money%5Ftokens.pdf",
+     "official": true
+    },
+    {
+     "label": "A&O Shearman 分析",
+     "url": "https://finreg.aoshearman.com/esma-opinion-on-crypto-asset-services-involving-non-micar-compliant-arts-and-emts",
+     "official": false
+    },
+    {
+     "label": "FX News Group 報導",
+     "url": "https://fxnewsgroup.com/forex-news/cryptocurrency/esma-directs-crypto-firms-to-cease-providing-services-related-to-non-mica-compliant-stablecoins/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-08-fin-coinme-multistate-settlement",
+   "court": "US",
+   "kind": "執法案件",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "伊利諾州金融與專業監理廳（IDFPR）",
+   "outletCode": "IDFPR",
+   "date": "2026-10-08",
+   "eventDate": "2026-10-08",
+   "importance": 1,
+   "author": "",
+   "title": "34 個州金融監理機關與加密 ATM 業者 Coinme 和解，Coinme 須於 2027 年前結束機台業務",
+   "shortTitle": "34 州與加密 ATM 業者 Coinme 和解",
+   "point": "和解金 250 萬美元，須於 2027 年 1 月 1 日前停止機台營運",
+   "titleOriginal": "IDFPR Joins Settlement with Crypto Kiosk Operator",
+   "caseRef": "",
+   "tldr": "美國 34 個州的金融監理機關與加密貨幣匯兌及 ATM 業者 Coinme 達成和解。監理機關認定 Coinme 違反銀行保密法與洗錢防制規定，Coinme 須支付 250 萬美元，並在 2027 年元旦前結束虛擬通貨機台業務，否則須再付 400 萬美元。",
+   "memo": "伊利諾州金融與專業監理廳等 34 個州金融監理機關於 2026 年 10 月 8 日宣布與虛擬通貨匯兌業者 Coinme Inc. 達成和解，認定其違反《銀行保密法》及洗錢防制規定；Coinme 須支付 250 萬美元並依交易量分配予各州，於 2027 年 1 月 1 日前終止虛擬通貨機台業務，逾期另須支付 400 萬美元，並應委任獨立顧問檢視其洗錢防制計畫，於六個月內提出報告，其後十二個月內完成改善。",
+   "context": "Coinme 是總部位於西雅圖的虛擬通貨匯兌與機台業者，依 Troutman 整理，持有 37 州匯兌執照。同一時期，夏威夷州自 10 月 1 日起禁止機台業者以美元現金兌換數位資產。",
+   "facts": [
+    "參與和解的州金融監理機關共 34 個；依 Troutman 整理，由阿拉斯加、阿肯色、喬治亞、伊利諾、北卡羅來納、俄亥俄與華盛頓州主導。",
+    "250 萬美元和解金依各州交易量分配。",
+    "Coinme 須於 2027 年 1 月 1 日前結束機台業務，逾期加罰 400 萬美元。",
+    "須委任獨立顧問檢視洗錢防制計畫，報告於六個月內提出，其後十二個月內改正缺失。",
+    "依 Troutman 整理，Polygon Labs 已於 10 月 14 日完成收購 Coinme。"
+   ],
+   "issues": [
+    "加密 ATM 是否已成為詐騙與洗錢的高風險管道，州法應如何監理？",
+    "多州聯合執法對持多州匯兌執照的金融科技業者有何影響？"
+   ],
+   "holding": "・違規認定：違反《銀行保密法》與洗錢防制規定。\n・制裁：250 萬美元和解金；2027 年 1 月 1 日前結束機台業務，否則另付 400 萬美元。\n・改善：委任獨立顧問審查洗錢防制計畫並限期改正。",
+   "significance": "本案與夏威夷禁止以現金購買加密資產機台等州法措施同時出現，顯示州層級正收緊加密 ATM 監理。持有州匯兌執照的金融科技業者應留意多州聯合執法的範圍與洗錢防制計畫要求。",
+   "editorNote": "",
+   "tags": [
+    "加密ATM",
+    "洗錢防制",
+    "州監理",
+    "匯兌業",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "伊利諾州金融與專業監理廳新聞稿",
+     "url": "https://idfpr.illinois.gov/news/2026/idfpr-joins-settlement-with-crypto-kiosk-op.html",
+     "official": true
+    },
+    {
+     "label": "Troutman Pepper Locke 數位資產電子報（10 月 16 日）分析",
+     "url": "https://www.troutman.com/insights/digital-assets-blockchain-newsletter-october-16-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-06-fin-ecb-cipollone-digital-euro-2029",
+   "court": "ECB",
+   "kind": "政策動態",
+   "caseId": "eurosystem-digital-euro-tokenisation",
+   "jurisdiction": "歐元區",
+   "outlet": "Lovguiden（摘要歐洲央行演講）",
+   "outletCode": "LG",
+   "date": "2026-10-06",
+   "eventDate": "2026-10-06",
+   "importance": 1,
+   "author": "",
+   "title": "歐洲央行執行委員 Cipollone：若數位歐元立法年底完成，最快 2029 年首次發行",
+   "shortTitle": "歐洲央行：數位歐元最快 2029 年發行",
+   "point": "2027 年下半年試點 12 個月，持有上限尚未決定",
+   "titleOriginal": "",
+   "caseRef": "",
+   "tldr": "數位歐元的立法還在歐盟理事會與歐洲議會協商中。歐洲央行執行委員 Cipollone 表示，若年底前完成立法，2027 年下半年將有為期一年的試點，最快 2029 年首次發行；個人持有上限還沒定案，數位歐元也不會付息。",
+   "memo": "歐洲中央銀行執行委員會委員 Piero Cipollone 於 2026 年 10 月 6 日在法蘭克福表示，數位歐元立法於理事會（2025 年 12 月）及歐洲議會（2026 年 7 月）分別通過立場後已進入三方協商，若於 2026 年底前完成立法，將於 2027 年下半年進行為期 12 個月、由 36 家支付服務業者參與之試點，並最快於 2029 年首次發行；持有上限尚未決定，數位歐元將不計息。",
+   "context": "數位歐元是歐元區的零售央行數位貨幣構想，具法償地位，由銀行與受監理支付業者負責發放與客戶關係。歐洲高峰會希望三方協商於 2026 年底前完成。",
+   "facts": [
+    "Cipollone 於 2026 年 10 月 6 日在法蘭克福 MNI Connect 活動演講。",
+    "試點於 2027 年下半年開始，為期 12 個月，36 家支付服務業者自 50 多家申請者中選出。",
+    "歐洲央行理事會將於立法通過後才決定是否發行。",
+    "歐洲央行分析 500 至 3,000 歐元的持有上限情境：在 3,000 歐元時，銀行整體流動性覆蓋比率由 166% 降至 163%（不含數位化效果），歐洲央行強調僅供說明。",
+    "數位歐元可線上與離線使用；歐元體系負擔核心基礎設施成本且不收費，中介機構的報酬仍在協商。"
+   ],
+   "issues": [
+    "持有上限應如何設定，才能兼顧便利性、金融穩定與貨幣政策傳導？",
+    "銀行與支付業者發放數位歐元的報酬機制。"
+   ],
+   "holding": "・時程：年底前完成立法，2027 年下半年試點，最快 2029 年首次發行。\n・持有上限：尚未決定，可與銀行帳戶連結，超額部分自動轉入。\n・不計息，具法償地位，可線上與離線使用。",
+   "significance": "數位歐元能否如期發行，取決於年底前的三方協商結果；銀行業關注持有上限對存款流失與流動性的影響。",
+   "editorNote": "本網頁助理 註：本則依 Lovguiden 對歐洲央行新聞稿與演講的摘要整理，本網頁助理未能直接開啟歐洲央行原文。",
+   "tags": [
+    "數位歐元",
+    "CBDC",
+    "持有上限",
+    "歐洲央行",
+    "歐盟"
+   ],
+   "related": [
+    "2026-10-21-fin-ecb-cipollone-pontes-appia"
+   ],
+   "sources": [
+    {
+     "label": "Lovguiden 摘要（歐洲央行演講）",
+     "url": "https://lovguiden.dk/en/det-offentlige/den-europaeiske-centralbank/2026-10-06-cipollone-digital-euro-kan-indfoeres-2029-hvis-loven-vedtages-i-aar",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-06-fin-uk-digit-lead-managers",
+   "court": "HMT",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "英國財政部",
+   "outletCode": "HMT",
+   "date": "2026-10-06",
+   "eventDate": "2026-10-06",
+   "importance": 1,
+   "author": "",
+   "title": "英國財政部任命六家聯合主辦銀行，推進首檔原生數位公債 DIGIT 試行發行",
+   "shortTitle": "英國任命數位公債 DIGIT 主辦銀行",
+   "point": "預計 2027 年第一季於數位證券沙盒內發行短天期鏈上公債",
+   "titleOriginal": "UK takes next step towards first digitally native government bond",
+   "caseRef": "",
+   "tldr": "英國政府計畫試行發行首檔「原生數位」公債（DIGIT），以分散式帳本技術完成發行與交割。財政部經濟大臣 Rigby 宣布已選定 Barclays、HSBC 等六家銀行擔任聯合主辦，負責承銷與配售，預計 2027 年第一季在數位證券沙盒內發行。",
+   "memo": "英國財政部於 2026 年 10 月 6 日宣布，經公開採購程序任命 Barclays、HSBC、Lloyds、Morgan Stanley、NatWest 及 RBC Capital Markets 為數位公債試行工具（DIGIT）之聯合主辦機構，負責承銷、投資人溝通及發行日配售；DIGIT 為原生數位、短天期並於鏈上交割之公債，將於數位證券沙盒內之平台發行，獨立於政府主要舉債計畫之外，預計於 2027 年第一季前發行。",
+   "context": "HSBC 於 2026 年 2 月獲選為 DIGIT 的分散式帳本技術供應商；7 月，HSBC 與倫敦證券交易所集團簽署備忘錄，連結雙方的數位證券存託機構。數位證券沙盒由英格蘭銀行與 FCA 共同主管。",
+   "facts": [
+    "經濟大臣 Lucy Rigby 於 2026 年 10 月 6 日在 Digital Assets Week 主題演講中宣布。",
+    "六家聯合主辦：Barclays、HSBC、Lloyds、Morgan Stanley、NatWest、RBC Capital Markets。",
+    "任命完成採購程序，投資人溝通隨即展開。",
+    "DIGIT 為原生數位、短天期、鏈上交割，獨立於政府主要舉債計畫。",
+    "預計於 2027 年第一季前發行。"
+   ],
+   "issues": [
+    "數位公債的法律定性與交割終局性如何在沙盒內確保？",
+    "DIGIT 能否成為英格蘭銀行操作的合格擔保品，進而支持代幣化附買回？"
+   ],
+   "holding": "・任命六家聯合主辦銀行，負責承銷、投資人溝通與發行日配售。\n・發行設計：原生數位、短天期、鏈上交割，於數位證券沙盒內的平台發行。\n・時程：預計 2027 年第一季前發行。",
+   "significance": "主權債券以原生數位形式發行，是批發金融市場代幣化的指標事件；DIGIT 的法律架構、交割方式與市場接受度，將影響英國後續的數位證券立法與其他發行人跟進。",
+   "editorNote": "",
+   "tags": [
+    "代幣化",
+    "數位公債",
+    "數位證券沙盒",
+    "英國財政部",
+    "英國"
+   ],
+   "related": [
+    "2026-10-21-fin-ecb-cipollone-pontes-appia"
+   ],
+   "sources": [
+    {
+     "label": "英國政府新聞稿",
+     "url": "https://www.gov.uk/government/news/uk-takes-next-step-towards-first-digitally-native-government-bond",
+     "official": true
+    },
+    {
+     "label": "Parameter 報導",
+     "url": "https://parameter.io/uk-treasury-unveils-digital-bond-pilot-as-london-tests-sovereign-debt-on-blockchain/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-05-fin-cftc-anprm-ctx-cam",
+   "court": "CFTC",
+   "kind": "草案諮詢",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "美國商品期貨交易委員會（CFTC）",
+   "outletCode": "CFTC",
+   "date": "2026-10-05",
+   "eventDate": "2026-10-05",
+   "importance": 3,
+   "author": "",
+   "title": "美國 CFTC 發布預先規則制定通知，徵詢零售加密資產槓桿交易與「加密資產市場」註冊框架",
+   "shortTitle": "CFTC 徵詢零售加密交易監理框架",
+   "point": "擬設 Regulation CTX 與 CAM，意見期限 12 月 14 日",
+   "titleOriginal": "CFTC Seeks Public Comment on Advanced Notice of Proposed Rulemaking Relating to Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets",
+   "caseRef": "Release No. 9307-26；91 FR 64811",
+   "tldr": "CFTC 就散戶以槓桿、保證金或融資方式買賣加密資產的交易，徵詢如何訂定全國一致的規則，並考慮在指定契約市場（DCM）下新設「加密資產市場」註冊類別。這是國會市場結構法案（CLARITY Act）在參議院受阻後，監理機關自行推進的重要一步。",
+   "memo": "美國商品期貨交易委員會（CFTC）於 2026 年 10 月 5 日發布預先規則制定通知（ANPRM），就《商品交易法》第 2(c)(2)(D) 條規範之零售加密資產商品交易（CTX），徵詢建立全國一致規範、提供業界最佳實務資訊，以及於指定契約市場下新設「加密資產市場」註冊次類別之意見；該通知已於同年 10 月 13 日刊登聯邦公報（91 FR 64811），意見期限為 2026 年 12 月 14 日。",
+   "context": "《商品交易法》第 2(c)(2)(D) 條規定，對散戶提供的槓桿、保證金或融資商品交易，除非在 28 日內「實際交付」，應在受監理的交易所進行。加密資產的「實際交付」如何認定，長期影響境內平台能否合法提供槓桿交易。\n眾議院於 2025 年 7 月通過市場結構法案 CLARITY Act，但參議院於 2026 年 9 月 15 日以 49 比 50 未能通過終結辯論。CFTC 於 9 月 17 日將 Regulation CTX 與 CAM 送交白宮資訊與法規事務辦公室（OIRA）審查，10 月 2 日審查完成。",
+   "facts": [
+    "CFTC 於 2026 年 10 月 5 日發布 ANPRM，主席 Michael Selig 同日於 Fordham 法學院區塊鏈監理研討會宣布。",
+    "通知於 2026 年 10 月 13 日刊登聯邦公報（91 FR 64811）。",
+    "Regulation CTX 規範零售槓桿、保證金或融資的加密資產交易；Regulation CAM 擬新設「加密資產市場」DCM 註冊類別。",
+    "依 Troutman 整理，現貨交易不在框架內，參與屬自願性質。",
+    "Selig 提出，28 日內交付至非託管錢包可視為「實際交付」。"
+   ],
+   "issues": [
+    "加密資產的「實際交付」是否包含移轉至客戶自行控管的錢包？",
+    "中介機構倒閉時，期貨商分離保管與破產程序（Part 190）是否足以保護 CTX 客戶資產？",
+    "在國會未立法的情況下，CFTC 以既有授權建構加密資產市場框架的界限何在？"
+   ],
+   "holding": "・方向一：在全國一致的框架下，防止加密資產市場與 CTX 的不當行為。\n・方向二：提供加密資產特有的業界通行做法，作為遵循 CTX 要求的最佳實務。\n・方向三：明文設立專為 CTX 設計的「加密資產市場」DCM 次類別。\n・客戶取得實際交付後不再適用場內交易要求，但反詐欺與反操縱權限仍然適用。\n・本通知以提問為主，未提出條文；CFTC 將依意見決定後續規則制定。",
+   "significance": "這是美國監理機關首度就散戶加密資產槓桿交易提出完整監理構想，可能使境內平台在 CFTC 監理下提供相關服務。CLARITY Act 須於 2027 年新國會重新提出，短期內 CFTC 與 SEC 各自的規則制定將是美國加密資產市場規範的主要來源。",
+   "editorNote": "本網頁助理 註：意見期限依 Troutman Pepper Locke 整理為 2026 年 12 月 14 日；CFTC 新聞稿僅載明為刊登聯邦公報後 60 日。",
+   "tags": [
+    "加密資產",
+    "市場結構",
+    "槓桿交易",
+    "CLARITY Act",
+    "CFTC",
+    "美國"
+   ],
+   "related": [
+    "2026-10-01-fin-sec-crypto-custody-proposal",
+    "2026-10-05-fin-wilmerhale-sec-innovation-exemption"
+   ],
+   "sources": [
+    {
+     "label": "CFTC 新聞稿（9307-26）",
+     "url": "https://cftc.gov/PressRoom/PressReleases/9307-26",
+     "official": true
+    },
+    {
+     "label": "Baker Botts 分析",
+     "url": "https://www.bakerbotts.com/thought-leadership/publications/2026/october/cftc-launches-crypto-market-structure-rulemaking-as-sec-advances-its-own-digital-asset-framework",
+     "official": false
+    },
+    {
+     "label": "Troutman Pepper Locke 數位資產電子報（10 月 16 日）分析",
+     "url": "https://www.troutman.com/insights/digital-assets-blockchain-newsletter-october-16-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-05-fin-fincen-withdraws-wallet-mixing-rules",
+   "court": "TREAS",
+   "kind": "法規發布",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-10-05",
+   "eventDate": "2026-10-05",
+   "importance": 2,
+   "author": "",
+   "title": "FinCEN 撤回 2020 年非託管錢包申報規則草案與 2023 年加密混幣第 311 條草案",
+   "shortTitle": "FinCEN 撤回非託管錢包與混幣規則草案",
+   "point": "稱定義過廣恐抑制正當隱私用途，但仍將監測混幣服務",
+   "titleOriginal": "Treasury withdraws crypto mixing rule, citing concerns over 'chilling effect on legitimate activity'",
+   "caseRef": "Federal Register Nos. 2026-20429、2026-20430",
+   "tldr": "美國財政部金融犯罪執法網（FinCEN）撤回兩項沒有定案的加密資產洗錢防制草案：一是 2020 年要求銀行與匯款業者對「非託管錢包」交易驗證身分並申報的規則，二是 2023 年把國際加密混幣交易列為「主要洗錢疑慮」的提案。兩項草案原本都未生效，撤回不改變現行義務。",
+   "memo": "美國財政部金融犯罪執法網（FinCEN）於 2026 年 10 月 5 日宣布撤回 2020 年 12 月就涉及非託管錢包之虛擬通貨交易提出之紀錄保存、身分驗證與申報規則草案，以及 2023 年 10 月依《美國愛國者法》第 311 條將國際虛擬通貨混幣交易認定為主要洗錢疑慮類別之認定與規則草案，理由為定義過廣可能抑制正當活動並造成過重申報負擔，惟 FinCEN 表示將持續監測混幣服務。",
+   "context": "2020 年的非託管錢包草案是川普第一任期卸任前數週提出；2023 年的混幣草案則是拜登政府時期提出。美國財政部已於 2025 年 3 月將混幣服務 Tornado Cash 自制裁名單移除，此前上訴法院認定 OFAC 逾越權限。財政部 2026 年 3 月依 GENIUS Act 向國會提出的報告，認為混幣具正當隱私用途，並建議立法授權金融機構暫時凍結可疑資產（hold law）。",
+   "facts": [
+    "2020 年草案：涉及非託管錢包、金額逾 3,000 美元的交易須驗證身分並保存紀錄，逾 10,000 美元者須向 FinCEN 申報。",
+    "2023 年草案：要求涵蓋機構申報混幣交易，包括錢包地址、交易雜湊值與 IP 位址。",
+    "撤回公告分別為聯邦公報 2026-20429（混幣）與 2026-20430（非託管錢包），混幣撤回公告於 10 月 6 日正式刊登。",
+    "撤回理由援引 2025 年 7 月總統數位資產市場工作小組報告。",
+    "Coin Center 等團體先前批評混幣定義過廣，Coinbase 曾指草案無金額門檻將造成大量申報。"
+   ],
+   "issues": [
+    "撤回後，金融機構對非託管錢包與混幣交易的風險管理應依何種標準？",
+    "財政部建議的「凍結令」是否會以立法方式取代原規則？"
+   ],
+   "holding": "・撤回 2023 年混幣第 311 條認定與規則草案：FinCEN 接受評論者對定義過廣、可能抑制正當隱私技術與申報負擔過重的意見。\n・撤回 2020 年非託管錢包草案，並表示不再採取進一步行動。\n・FinCEN 仍認為不法人士利用混幣服務阻礙偵查，將持續監測。",
+   "significance": "撤回顯示美國洗錢防制政策從對加密技術本身設限，轉向個案執法與立法工具。業者仍須依現行《銀行保密法》辨識並申報可疑交易；後續應留意國會是否採納財政部有關凍結可疑資產的立法建議。",
+   "editorNote": "",
+   "tags": [
+    "洗錢防制",
+    "非託管錢包",
+    "混幣",
+    "FinCEN",
+    "加密資產",
+    "美國"
+   ],
+   "related": [
+    "2026-10-02-fin-ofac-a7-a7a5-designation"
+   ],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
+     "official": false
+    },
+    {
+     "label": "Troutman Pepper Locke 數位資產電子報（10 月 16 日）分析",
+     "url": "https://www.troutman.com/insights/digital-assets-blockchain-newsletter-october-16-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-05-fin-wilmerhale-sec-innovation-exemption",
+   "court": "SEC",
+   "kind": "實務評論",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "WilmerHale",
+   "outletCode": "WH",
+   "date": "2026-10-05",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Tiffany J. Smith、Jeremy Moorehouse、Cristina Jaramillo、Reid J. Carroll（WilmerHale）",
+   "title": "WilmerHale 評析 SEC 代幣化股票「創新豁免」：附條件開放鏈上交易，範圍較市場預期為窄",
+   "shortTitle": "評析 SEC 代幣化股票創新豁免",
+   "point": "豁免至 2031 年，設檔數與交易量上限，發行人可拒絕第三方代幣",
+   "titleOriginal": "The Innovation Exemption Arrives: SEC Clears a Conditional Path for Onchain Trading of Tokenized NMS Stocks",
+   "caseRef": "",
+   "tldr": "SEC 在 9 月 17 日發布「創新豁免」，允許經許可的鏈上場所交易代幣化的上市股票。WilmerHale 律師整理豁免條件：只限經驗證的參與者、第三方發行的代幣須先通知發行公司且公司可以拒絕、交易檔數與交易量設上限、禁止槓桿與借貸；作者認為範圍比市場預期窄，是邁向正式規則前的過渡安排。",
+   "memo": "依 WilmerHale 律師 2026 年 10 月 5 日之分析，美國證券交易委員會於 2026 年 9 月 17 日依《證券交易法》第 36(a)(1) 條發布暫時性附條件豁免令，就代幣化國家市場系統股票之鏈上交易，分別豁免「代幣化證券交易場所」適用交易所定義，及以自有資金提供流動性者適用自營商定義，期限五年，並設有僅限經驗證參與者、第三方代幣須通知發行人且發行人得書面反對、交易檔數及交易量上限、禁止槓桿與借貸等條件。",
+   "context": "國會市場結構法案 CLARITY Act 在參議院未能通過終結辯論兩天後，SEC 發布本豁免令；同日 CFTC 市場參與者部門亦就被動交易軟體發布不採取行動函。依 Troutman 整理，OKX 與洲際交易所合資的 OKXICE 已於 10 月 4 日依本豁免向 SEC 申請設立代幣化證券平台。",
+   "facts": [
+    "豁免令於 2026 年 9 月 17 日發布，分「代幣化證券交易場所（TSV）」與「涵蓋業者」兩部分，各為期五年，約至 2031 年。",
+    "第三方代幣須先通知發行公司，通知後至少 30 個日曆日才可開始交易；發行公司書面反對者不得交易。",
+    "第一級股票（S&P 500、Russell 1000 成分股及部分 ETP）上限 75 檔、前月平均日交易量 0.25%；第二級股票上限 250 檔、2.5%。",
+    "不得於場所內初次發行；代幣持有人須享有與原股票相同的權利；原股票暫停交易時須同步暫停；禁止槓桿與借貸。",
+    "主席 Atkins 稱本豁免是邁向正式規則的過渡，委員 Peirce 則稱其「範圍有限」。"
+   ],
+   "issues": [
+    "涵蓋業者豁免是否會因 SEC 修正「自營商」定義而改變？",
+    "公開揭露要求涵蓋 MEV、預言機操縱與智慧合約漏洞，場所如何設計損失補償機制？"
+   ],
+   "holding": "・作者認為豁免範圍可能比許多人預期窄，應視為邁向正式規則的過渡安排。\n・SEC 已就豁免各面向徵詢公眾意見，並表示將密切監測使用情形。\n・公開揭露要求相當廣泛，場所須說明如何補償參與者損失。\n・無法符合全部條件的業者，宜主動與 SEC 溝通是否需要額外豁免。",
+   "significance": "代幣化股票能否在受監理的鏈上場所交易，是美國資本市場代幣化的關鍵。本豁免提供有限度的實驗空間，後續應留意首批申請（如 OKXICE）的進度、發行公司是否行使反對權，以及 SEC 的正式規則制定。",
+   "editorNote": "本則為評論，內容代表作者個人見解，非官方立場。",
+   "tags": [
+    "代幣化",
+    "創新豁免",
+    "證券交易",
+    "SEC",
+    "美國"
+   ],
+   "related": [
+    "2026-10-05-fin-cftc-anprm-ctx-cam",
+    "2026-10-01-fin-sec-crypto-custody-proposal"
+   ],
+   "sources": [
+    {
+     "label": "WilmerHale 分析全文",
+     "url": "https://www.wilmerhale.com/en/insights/client-alerts/20261005-the-innovation-exemption-arrives-sec-clears-a-conditional-path-for-onchain-trading-of-tokenized-nms-stocks",
+     "official": false
+    },
+    {
+     "label": "Troutman Pepper Locke 數位資產電子報（10 月 16 日）分析",
+     "url": "https://www.troutman.com/insights/digital-assets-blockchain-newsletter-october-16-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-05-fin-iba-fintech-report-2026",
+   "court": "INTL",
+   "kind": "研究報告",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "國際律師協會（IBA）",
+   "outletCode": "IBA",
+   "date": "2026-10-05",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "國際律師協會銀行與金融法委員會發布 2026 年版金融科技比較法報告，收錄 53 個法域",
+   "shortTitle": "IBA 發布 2026 金融科技各國法制報告",
+   "point": "涵蓋支付、數位資產、借貸與群眾募資等監理概況",
+   "titleOriginal": "Fintech: how the financial innovation industry is taking shape around the world (2026)",
+   "caseRef": "",
+   "tldr": "國際律師協會（IBA）的銀行與金融法委員會發布 2026 年版金融科技比較法報告，由各國執業律師撰寫，說明 53 個法域如何監理支付、數位資產、借貸、群眾募資等科技驅動的金融服務，可作為跨國金融科技法制的入門查詢工具。",
+   "memo": "國際律師協會（IBA）銀行與金融法委員會於其網站發布「金融科技：金融創新產業在全球如何成形（2026）」比較法報告，頁面日期為 2026 年 10 月 5 日，收錄逾 50 篇、合計 53 個法域之執業律師撰稿，說明各法域對支付、數位資產、借貸、群眾募資及其他科技驅動金融服務之監理。",
+   "context": "",
+   "facts": [
+    "報告由 IBA 銀行與金融法委員會主辦，頁面日期為 2026 年 10 月 5 日。",
+    "收錄 53 個法域的國別章節，各章節由當地律師事務所撰寫，例如澳洲（Gilbert + Tobin）、德國（Hengeler Mueller）、新加坡（Allen & Gledhill）、阿聯（BSA Law）與中國大陸（金杜）。",
+    "主題涵蓋支付、數位資產、借貸、群眾募資與其他科技驅動的金融服務。"
+   ],
+   "issues": [
+    "各國對數位資產與支付業務的許可制度差異。"
+   ],
+   "holding": "・形式：國別問答式比較法報告。\n・範圍：53 個法域，涵蓋支付、數位資產、借貸、群眾募資等。",
+   "significance": "跨境金融科技業務需快速掌握各國許可門檻，本報告可作為初步查詢工具；但各章節撰寫時點不一，實務上仍應核對各國最新法規。",
+   "editorNote": "本網頁助理 註：IBA 頁面未載明各章節的個別更新日期，10 月 5 日為頁面標示日期。",
+   "tags": [
+    "比較法",
+    "金融科技",
+    "研究報告",
+    "IBA",
+    "國際"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "IBA 報告頁面",
+     "url": "https://www.ibanet.org/Banking-Financial-Law-Committee/Fintech-how-the-financial-innovation-industry-is-taking-shape-around-the-world",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-02-fin-ofac-a7-a7a5-designation",
+   "court": "TREAS",
+   "kind": "執法案件",
+   "caseId": "",
+   "jurisdiction": "美國、俄羅斯、吉爾吉斯",
+   "outlet": "Decrypt",
+   "outletCode": "DECRYPT",
+   "date": "2026-10-02",
+   "eventDate": "2026-10-01",
+   "importance": 2,
+   "author": "",
+   "title": "美國財政部將俄羅斯 A7 支付網路列為重大跨國犯罪組織，盧布穩定幣 A7A5 一併納入制裁",
+   "shortTitle": "美財政部制裁 A7 網路與盧布穩定幣",
+   "point": "FinCEN 同步提案禁止與 A7 子代理商進行資金移轉",
+   "titleOriginal": "US designates Russia's A7 network as transnational criminal organization",
+   "caseRef": "",
+   "tldr": "美國財政部外國資產控制辦公室（OFAC）把俄羅斯的 A7 支付網路列為「重大跨國犯罪組織」，連同其子代理商空殼公司，以及由吉爾吉斯公司發行、以盧布計價的穩定幣 A7A5 一併制裁。財政部金融犯罪執法網（FinCEN）同時提案，禁止美國金融機構與 A7 子代理商進行任何資金移轉，包括虛擬通貨。",
+   "memo": "美國財政部外國資產控制辦公室（OFAC）於 2026 年 10 月 1 日將 A7 網路及其子代理商空殼公司列為重大跨國犯罪組織，並將由吉爾吉斯註冊之 Old Vector 發行、以盧布計價之代幣 A7A5 納入制裁範圍；財政部金融犯罪執法網（FinCEN）同日依《打擊俄羅斯洗錢法》第 9714 條提出規則草案，擬禁止涵蓋金融機構與 A7 子代理商進行包括虛擬通貨在內之資金移轉，意見徵詢期間為刊登聯邦公報後 30 日。",
+   "context": "A7 網路被指利用子代理商把受制裁的付款包裝成一般貿易往來。A7A5 是以盧布計價、在 Tron 與以太坊上流通的代幣，存款據報存放於俄羅斯的 Promsvyazbank；Decrypt 指出，已受制裁的交易所 Garantex 與 Grinex 處理了 A7A5 歷來絕大部分交易量。",
+   "facts": [
+    "OFAC 於 2026 年 10 月 1 日以「重大跨國犯罪組織」名義指定 A7 網路、其子代理商空殼公司與 A7A5 代幣。",
+    "A7A5 由吉爾吉斯註冊的 Old Vector 發行，在 Tron 與以太坊上流通。",
+    "依 Troutman 整理，財政部稱 A7 子代理商於 2025 年 1 月至 2026 年 6 月處理逾 170 億美元；Decrypt 則報導，2025 年 2 月至 2026 年 6 月間至少有 1,791 億美元以 A7A5 移轉。",
+    "FinCEN 依《打擊俄羅斯洗錢法》第 9714 條，選用六項特別措施中的第六項（禁止資金移轉），提案適用對象涵蓋法幣與虛擬通貨。",
+    "財政部長 Bessent 表示，為美國對手從事非法金融者將失去進入美國金融體系的管道。"
+   ],
+   "issues": [
+    "直接制裁特定穩定幣本身，對鏈上持有人與次級市場交易者的影響範圍為何？",
+    "涵蓋金融機構如何辨識以一般貿易外觀包裝的子代理商交易？"
+   ],
+   "holding": "・OFAC：將 A7 網路、其子代理商空殼公司與 A7A5 代幣列為重大跨國犯罪組織。\n・FinCEN：依《打擊俄羅斯洗錢法》第 9714 條提案禁止與 A7 子代理商之資金移轉，涵蓋法幣與虛擬通貨；意見期間為刊登聯邦公報後 30 日。\n・依 Troutman 整理，FinCEN 另發布可疑交易警訊。",
+   "significance": "美國制裁工具已直接對準特定穩定幣及其發行生態系，而不只是交易所或個別錢包地址。處理或可能接觸 A7A5 的平台與金融機構須檢視曝險；FinCEN 規則定案後，與子代理商往來將被全面禁止。",
+   "editorNote": "本網頁助理 註：子代理商處理金額與 FinCEN 警訊依 Troutman Pepper Locke 電子報；A7A5 流量、第 9714 條法源與 Bessent 發言依 Decrypt 報導。財政部新聞稿本網頁助理未能直接開啟。",
+   "tags": [
+    "制裁",
+    "穩定幣",
+    "洗錢防制",
+    "OFAC",
+    "FinCEN",
+    "俄羅斯",
+    "美國"
+   ],
+   "related": [
+    "2026-10-05-fin-fincen-withdraws-wallet-mixing-rules"
+   ],
+   "sources": [
+    {
+     "label": "Decrypt 報導",
+     "url": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
+     "official": false
+    },
+    {
+     "label": "Troutman Pepper Locke 數位資產電子報（10 月 16 日）分析",
+     "url": "https://www.troutman.com/insights/digital-assets-blockchain-newsletter-october-16-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-02-fin-icba-sues-occ-trust-charters",
+   "court": "OCC",
+   "kind": "司法案件",
+   "caseId": "icba-v-occ-trust-charters",
+   "jurisdiction": "美國",
+   "outlet": "American Banker",
+   "outletCode": "AB",
+   "date": "2026-10-02",
+   "eventDate": "2026-10-02",
+   "importance": 2,
+   "author": "",
+   "title": "美國獨立社區銀行家協會起訴 OCC，挑戰其核發加密資產與金融科技業者全國性信託銀行執照",
+   "shortTitle": "社區銀行公會起訴 OCC 信託銀行執照",
+   "point": "主張 OCC 無權為不從事受託業務者核發信託執照",
+   "titleOriginal": "Exclusive: ICBA sues OCC over trust charters",
+   "caseRef": "",
+   "tldr": "代表美國中小型銀行的 ICBA 在華府聯邦地院控告貨幣監理署（OCC），認為 OCC 近年大量核准加密資產與金融科技業者設立「全國性信託銀行」，已超出《國家銀行法》授權。ICBA 同時挑戰 OCC 2026 年的相關規則與 2021 年的解釋函。",
+   "memo": "美國獨立社區銀行家協會（ICBA）於 2026 年 10 月 2 日向哥倫比亞特區聯邦地方法院對貨幣監理署（OCC）提起行政訴訟，依《行政程序法》主張 OCC 依《國家銀行法》無權核發不從事受託業務之全國性信託銀行執照，並指摘 OCC 2026 年 3 月 2 日發布之最終規則、2021 年 1 月第 1176 號解釋函及 2026 年 2 月對 Protego Holdings 之附條件執照核准恣意專斷，且未經適當之公眾意見程序。",
+   "context": "OCC 可依《國家銀行法》核發只經營信託業務的「全國性信託銀行」執照。川普第一任期內，OCC 以第 1176 號解釋函表示信託銀行不以從事受託業務為限；現任署長 Jonathan Gould 當時是 OCC 首席法律顧問。2026 年 3 月，OCC 以最終規則將此立場明文化。\n依起訴狀，現任政府期間 OCC 已核准或附條件核准 21 家信託銀行，其中至少 13 家為加密資產業者。",
+   "facts": [
+    "ICBA 於 2026 年 10 月 2 日在哥倫比亞特區聯邦地院起訴 OCC。",
+    "起訴標的包括 OCC 2026 年 3 月 2 日最終規則、2021 年 1 月第 1176 號解釋函，以及 2026 年 2 月對 Protego Holdings 的附條件信託執照。",
+    "起訴狀稱 OCC 已核准或附條件核准 21 家信託銀行，至少 13 家為加密資產業者。",
+    "OCC 發言人表示不評論進行中的訴訟。"
+   ],
+   "issues": [
+    "《國家銀行法》下的「信託銀行」是否必須從事受託業務？",
+    "OCC 改變既有立場時，是否充分說明理由並回應公眾意見（《行政程序法》恣意專斷審查）？",
+    "Chevron 原則廢棄後，法院對 OCC 法律解釋的審查密度。"
+   ],
+   "holding": "・ICBA 主張：OCC 依《國家銀行法》無權核發不從事受託業務的信託銀行執照。\n・最終規則恣意專斷：OCC 未實質回應有關銀行體系風險的意見。\n・OCC 改變對信託執照的既有立場，卻未承認並說明理由；第 1176 號解釋函亦未經公告評論程序。\n・OCC：不評論進行中訴訟；署長 Gould 先前主張信託執照本即涵蓋非受託業務。",
+   "significance": "全國性信託執照是加密資產業者取得聯邦監理地位的主要途徑之一，例如 Rain 於 10 月申請設立的信託銀行即擬從事穩定幣發行與贖回。若法院撤銷 OCC 規則或個別執照，將影響多家已獲核准的業者；後續應留意 OCC 的答辯與是否有業者參加訴訟。",
+   "editorNote": "",
+   "tags": [
+    "信託執照",
+    "OCC",
+    "國家銀行法",
+    "行政程序法",
+    "加密資產",
+    "美國"
+   ],
+   "related": [
+    "2026-10-21-fin-occ-genius-act-final-rule"
+   ],
+   "sources": [
+    {
+     "label": "American Banker 獨家報導",
+     "url": "https://www.americanbanker.com/news/exclusive-icba-sues-occ-over-trust-charters",
+     "official": false
+    },
+    {
+     "label": "Troutman Pepper Locke 數位資產電子報（10 月 16 日）分析",
+     "url": "https://www.troutman.com/insights/digital-assets-blockchain-newsletter-october-16-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-01-fin-sec-crypto-custody-proposal",
+   "court": "SEC",
+   "kind": "草案諮詢",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "美國證券交易委員會（SEC）",
+   "outletCode": "SEC",
+   "date": "2026-10-01",
+   "eventDate": "2026-10-01",
+   "importance": 2,
+   "author": "",
+   "title": "美國 SEC 提出投資顧問與受監管基金保管規則修正草案，首度明定加密資產保管規範",
+   "shortTitle": "SEC 提案訂定加密資產保管規則",
+   "point": "銀行、券商與州信託公司可擔任保管人，意見徵詢至 12 月 7 日",
+   "titleOriginal": "Adviser and Regulated Fund Custody Rules; Crypto Custody Rules (Proposed Rule)",
+   "caseRef": "File No. S7-2026-35；Release Nos. IA-7023、IC-36353",
+   "tldr": "美國證券交易委員會提出新規則草案，規定投資顧問與受監管基金替客戶保管加密資產時，應交由哪些合格保管人保管，以及在什麼條件下可以自行保管。草案同時翻修現行保管規則，取代 2023 年提出、2025 年撤回的「保護客戶資產」草案。",
+   "memo": "美國證券交易委員會（SEC）於 2026 年 10 月 1 日提出「投資顧問與受監管基金保管規則；加密資產保管規則」草案（File No. S7-2026-35），擬明定投資顧問及註冊投資公司保管加密資產之合格保管人範圍，包括銀行、證券經紀自營商、期貨商及經授權保管加密資產之州特許信託公司，並僅於無合格保管人可用時，在按季重新評估等條件下允許自行保管；草案已於同年 10 月 6 日刊登聯邦公報，意見徵詢期限為 2026 年 12 月 7 日。",
+   "context": "美國《投資顧問法》下的保管規則要求顧問將客戶資金與證券交由「合格保管人」保管，但加密資產能否、如何適用，長期沒有明確規範。SEC 曾於 2023 年提出擴大適用範圍的「保護客戶資產（safeguarding）」草案，因業界反彈，於 2025 年 6 月撤回。\n本次提案是 SEC 現任主席 Paul Atkins 推動加密資產規則現代化的一環，與 2026 年 8 月提出的「Regulation Crypto Assets」發行豁免草案、9 月 17 日對代幣化股票交易場所的創新豁免令並行。",
+   "facts": [
+    "SEC 於 2026 年 10 月 1 日提出草案，10 月 6 日刊登聯邦公報，意見徵詢至 12 月 7 日。",
+    "合格保管人包括銀行、證券經紀自營商、期貨商（FCM），以及經授權保管加密資產的州特許信託公司。",
+    "投資顧問僅在沒有合格保管人可用時才能自行保管，並須按季重新判斷及符合其他條件；註冊基金另設條件類似的自行保管規則。",
+    "草案取消保管規則下會計師須向 PCAOB 註冊的要求，並取代 2023 年提出、2025 年 6 月撤回的 safeguarding 草案。"
+   ],
+   "issues": [
+    "州特許信託公司與期貨商納入合格保管人後，其保管標準與破產隔離是否與銀行相當？",
+    "「無合格保管人可用」的認定與按季評估，能否防止自行保管遭濫用？",
+    "本規則與 OCC 對銀行加密資產保管的監理、GENIUS Act 的保管規定如何銜接？"
+   ],
+   "holding": "・合格保管人：銀行、證券經紀自營商、期貨商，以及經授權保管加密資產的州特許信託公司。\n・自行保管：僅於無合格保管人可用時允許，須按季重新判斷並符合其他條件；受監管基金另設類似條件的自行保管規則。\n・其他修正：不再要求保管規則下的會計師向 PCAOB 註冊；調整申報與紀錄保存要求，並將顧問保管規則重新編號。\n・程序：2026 年 10 月 6 日刊登聯邦公報，意見期限 2026 年 12 月 7 日。",
+   "significance": "加密資產保管是機構資金進場的前提。若定案，投資顧問與基金將取得明確的加密資產保管路徑，州信託公司也與銀行並列為合格保管人。後續應留意意見期滿後的定案時程，以及與 CFTC、OCC 規則的協調。",
+   "editorNote": "本網頁助理 註：合格保管人範圍、自行保管條件與 PCAOB 相關修正，係依 Troutman Pepper Locke 2026 年 10 月 16 日電子報整理；SEC 規則頁面僅載明程序資訊與概要。",
+   "tags": [
+    "加密資產",
+    "保管",
+    "投資顧問",
+    "SEC",
+    "美國"
+   ],
+   "related": [
+    "2026-10-05-fin-cftc-anprm-ctx-cam",
+    "2026-10-05-fin-wilmerhale-sec-innovation-exemption"
+   ],
+   "sources": [
+    {
+     "label": "SEC 規則草案頁面（S7-2026-35）",
+     "url": "https://www.sec.gov/rules-regulations/2026/10/s7-2026-35",
+     "official": true
+    },
+    {
+     "label": "Troutman Pepper Locke 數位資產電子報（10 月 16 日）分析",
+     "url": "https://www.troutman.com/insights/digital-assets-blockchain-newsletter-october-16-2026/",
+     "official": false
+    },
+    {
+     "label": "BBVA Research 金融監理週報（10 月 9 日）",
+     "url": "https://www.bbvaresearch.com/en/publicaciones/global-financial-regulation-weekly-update-october-9-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T10:58:18+08:00"
+  }
+ ],
+ "agenda": [
+  {
+   "id": "2026-10-28-esma-tokenisation-workshop",
+   "date": "2026-10-28",
+   "court": "ESMA",
+   "title": "ESMA 代幣化研討會：從實驗走向規模化",
+   "note": "主題為建構歐洲代幣化資本市場。",
+   "url": "https://www.esma.europa.eu/press-news/hearings/tokenisation-workshop-experimentation-scale-building-tokenised-capital-markets",
+   "relatedId": "",
+   "caseId": ""
+  },
+  {
+   "id": "2026-10-28-fatf-plenary",
+   "date": "2026-10-28",
+   "court": "FATF",
+   "title": "FATF 全體會議（巴黎，10 月 28 日至 30 日）",
+   "note": "英國擔任主席後的首次全會；會後公布成果。",
+   "url": "",
+   "relatedId": "",
+   "caseId": ""
+  },
+  {
+   "id": "2026-11-12-eba-usdc-dual-supervision",
+   "date": "2026-11-12",
+   "court": "EBA",
+   "title": "USDC 開始適用重大電子貨幣代幣雙重監理",
+   "note": "EBA 接手自有資金、準備資產、流動性與復原贖回計畫之監理。",
+   "url": "https://eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union",
+   "relatedId": "2026-10-14-fin-eba-usdc-significant-emt",
+   "caseId": "mica-stablecoin-supervision"
+  },
+  {
+   "id": "2026-11-18-fca-cp26-36-gc26-7-deadline",
+   "date": "2026-11-18",
+   "court": "FCA",
+   "title": "FCA 加密資產監理範圍指引（CP26/36）與 DeFi 指引（GC26/7）意見徵詢截止",
+   "note": "最終指引預計 2027 年 1 月發布。",
+   "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-36-cryptoasset-perimeter-guidance",
+   "relatedId": "2026-10-21-fin-fca-cp26-36-perimeter-guidance",
+   "caseId": "uk-cryptoasset-regime"
+  },
+  {
+   "id": "2026-11-27-asic-cp392-deadline",
+   "date": "2026-11-27",
+   "court": "ASIC",
+   "title": "ASIC 數位資產平台新法配套（CP 392）意見徵詢截止",
+   "note": "澳洲東部夏令時間下午 5 時截止。",
+   "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/consultations/cp-392-digital-asset-law-reform-implementation-proposed-standards-and-guidance",
+   "relatedId": "2026-10-15-fin-asic-cp392-digital-asset-platforms",
+   "caseId": "au-digital-assets-framework"
+  },
+  {
+   "id": "2026-11-30-mas-fidrec-deadline",
+   "date": "2026-11-30",
+   "court": "MAS",
+   "title": "MAS 支付機構加入 FIDReC 諮詢截止",
+   "note": "新加坡時間晚間 7 時截止。",
+   "url": "https://www.mas.gov.sg/publications/consultations/2026/consultation-on-expanding-fidrec-membership-to-psps",
+   "relatedId": "2026-10-16-fin-mas-fidrec-payment-service-providers",
+   "caseId": ""
+  },
+  {
+   "id": "2026-12-07-sec-custody-comment-deadline",
+   "date": "2026-12-07",
+   "court": "SEC",
+   "title": "SEC 加密資產保管規則草案意見徵詢截止",
+   "note": "File No. S7-2026-35。",
+   "url": "https://www.sec.gov/rules-regulations/2026/10/s7-2026-35",
+   "relatedId": "2026-10-01-fin-sec-crypto-custody-proposal",
+   "caseId": "us-crypto-market-structure"
+  },
+  {
+   "id": "2026-12-14-cftc-ctx-cam-comment-deadline",
+   "date": "2026-12-14",
+   "court": "CFTC",
+   "title": "CFTC Regulation CTX／CAM 預先通知意見徵詢截止",
+   "note": "依 Troutman Pepper Locke 整理；CFTC 新聞稿載為刊登聯邦公報後 60 日。",
+   "url": "https://cftc.gov/PressRoom/PressReleases/9307-26",
+   "relatedId": "2026-10-05-fin-cftc-anprm-ctx-cam",
+   "caseId": "us-crypto-market-structure"
+  },
+  {
+   "id": "2027-01-08-esma-non-mica-stablecoin-deadline",
+   "date": "2027-01-08",
+   "court": "ESMA",
+   "title": "ESMA：不合規穩定幣既有曝險處理期限",
+   "note": "ESMA 意見公布後三個月。",
+   "url": "",
+   "relatedId": "2026-10-08-fin-esma-opinion-non-mica-stablecoins",
+   "caseId": "mica-stablecoin-supervision"
+  },
+  {
+   "id": "2027-01-18-occ-genius-act-effective",
+   "date": "2027-01-18",
+   "court": "OCC",
+   "title": "GENIUS Act 與 OCC 施行規則生效",
+   "note": "洗錢防制與制裁規則另訂。",
+   "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+   "relatedId": "2026-10-21-fin-occ-genius-act-final-rule",
+   "caseId": "genius-act-implementation"
+  },
+  {
+   "id": "2027-02-28-fca-application-window-closes",
+   "date": "2027-02-28",
+   "court": "FCA",
+   "title": "英國加密資產新制申請期間截止（適用保留條款）",
+   "note": "申請期間自 2026 年 9 月 30 日起。",
+   "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-36-cryptoasset-perimeter-guidance",
+   "relatedId": "",
+   "caseId": "uk-cryptoasset-regime"
+  }
+ ],
+ "cases": [
+  {
+   "id": "genius-act-implementation",
+   "type": "議題",
+   "court": "US",
+   "forum": "OCC、FDIC、聯準會、財政部及各州監理機關",
+   "name": "美國 GENIUS Act 穩定幣法施行",
+   "nameOriginal": "Implementation of the GENIUS Act (payment stablecoins)",
+   "caseRef": "Pub. L. No. 119-27",
+   "summary": "2025 年 7 月 18 日簽署的 GENIUS Act 建立聯邦支付型穩定幣制度，各聯邦監理機關與各州須訂定施行規則，發行量較小者可選擇州監理。",
+   "status": "OCC 10 月 21 日發布最終規則；GENIUS Act 與該規則於 2027 年 1 月 18 日生效，洗錢防制與制裁規則另訂；佛州州制度已於 10 月 1 日施行。"
+  },
+  {
+   "id": "us-crypto-market-structure",
+   "type": "議題",
+   "court": "US",
+   "forum": "國會、SEC、CFTC",
+   "name": "美國加密資產市場結構規範",
+   "nameOriginal": "US crypto market structure (CLARITY Act; SEC and CFTC rulemaking)",
+   "caseRef": "H.R. 3633",
+   "summary": "眾議院 2025 年 7 月通過 CLARITY Act，參議院 2026 年 9 月 15 日未能終結辯論；SEC 與 CFTC 改以各自的規則制定與豁免推進加密資產市場監理。",
+   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）。"
+  },
+  {
+   "id": "icba-v-occ-trust-charters",
+   "type": "案件",
+   "court": "OCC",
+   "forum": "哥倫比亞特區聯邦地方法院",
+   "name": "ICBA 訴 OCC（信託銀行執照）",
+   "nameOriginal": "Independent Community Bankers of America v. Office of the Comptroller of the Currency (D.D.C.)",
+   "caseRef": "",
+   "summary": "美國獨立社區銀行家協會主張 OCC 核發不從事受託業務之全國性信託銀行執照（多為加密資產業者）逾越《國家銀行法》授權。",
+   "status": "ICBA 於 2026 年 10 月 2 日起訴；OCC 表示不評論進行中訴訟。"
+  },
+  {
+   "id": "mica-stablecoin-supervision",
+   "type": "議題",
+   "court": "EU",
+   "forum": "ESMA、EBA 及各會員國主管機關",
+   "name": "歐盟 MiCA 穩定幣監理",
+   "nameOriginal": "Stablecoin supervision under MiCA",
+   "caseRef": "Regulation (EU) 2023/1114",
+   "summary": "MiCA 過渡期結束後，歐盟監理機關對穩定幣發行與相關服務採取具體監理措施。",
+   "status": "ESMA 要求 CASP 於 2027 年 1 月 8 日前處理不合規穩定幣曝險；EBA 將 USDC 列為重大電子貨幣代幣，11 月 12 日起雙重監理。"
+  },
+  {
+   "id": "eu-misp",
+   "type": "議題",
+   "court": "EU",
+   "forum": "歐盟理事會、歐洲議會",
+   "name": "歐盟市場整合與監理套案（MISP）",
+   "nameOriginal": "Market Integration and Supervision Package",
+   "caseRef": "",
+   "summary": "執委會 2025 年 12 月 4 日提出，擬由 ESMA 直接監理重要交易場所、結算機構與加密資產服務業者，並擴大 DLT 試行制度。",
+   "status": "理事會 10 月 9 日達成立場要點，僅最重要跨境 CASP 立即移由 ESMA 監理；待歐洲議會立場後展開三方協商。"
+  },
+  {
+   "id": "eu-psd3-psr",
+   "type": "議題",
+   "court": "EU",
+   "forum": "歐盟理事會、歐洲議會",
+   "name": "歐盟 PSD3／PSR 支付法制改革",
+   "nameOriginal": "Third Payment Services Directive and Payment Services Regulation",
+   "caseRef": "",
+   "summary": "以 PSD3 與直接適用的 PSR 取代 PSD2 並整併電子貨幣指令，規範支付機構執照、開放銀行與詐欺防制。",
+   "status": "理事會公布 PSD3 第一讀會立場（10 月 21 日），待完成正式通過與公報刊登。"
+  },
+  {
+   "id": "eurosystem-digital-euro-tokenisation",
+   "type": "議題",
+   "court": "ECB",
+   "forum": "歐洲央行、歐盟立法機關",
+   "name": "數位歐元與歐元體系代幣化基礎設施",
+   "nameOriginal": "Digital euro; Pontes and Appia",
+   "caseRef": "",
+   "summary": "歐元體系推動數位歐元立法與試點，並以 Pontes、Appia 建構代幣化交易的央行貨幣結算基礎設施。",
+   "status": "數位歐元立法三方協商中，目標年底前完成；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成。"
+  },
+  {
+   "id": "uk-cryptoasset-regime",
+   "type": "議題",
+   "court": "FCA",
+   "forum": "英國財政部、FCA",
+   "name": "英國加密資產監理新制",
+   "nameOriginal": "UK cryptoasset regulatory regime",
+   "caseRef": "",
+   "summary": "依《2000 年金融服務與市場法（加密資產）規則 2026》，新的加密資產活動自 2027 年 10 月 25 日起納入監理，FCA 陸續發布政策聲明與指引。",
+   "status": "申請期間 2026 年 9 月 30 日至 2027 年 2 月 28 日；CP26/36 與 GC26/7 意見徵詢至 11 月 18 日。"
+  },
+  {
+   "id": "hk-stablecoin-tokenisation",
+   "type": "議題",
+   "court": "HKMA",
+   "forum": "香港金管局、證監會",
+   "name": "香港穩定幣與代幣化產品",
+   "nameOriginal": "Hong Kong stablecoins and tokenised products",
+   "caseRef": "Cap. 656",
+   "summary": "香港依《穩定幣條例》核發穩定幣發行人牌照，證監會並開放代幣化基金於虛擬資產交易平台次級交易。",
+   "status": "滙豐 RedCoin 10 月 23 日經 PayMe 分階段上線；證監會 10 月 26 日核准首例代幣化公募基金次級交易。"
+  },
+  {
+   "id": "taiwan-vasp-act",
+   "type": "議題",
+   "court": "TW",
+   "forum": "金管會",
+   "name": "台灣《虛擬資產服務法》與子法",
+   "nameOriginal": "Taiwan Virtual Asset Service Act and subsidiary regulations",
+   "caseRef": "",
+   "summary": "《虛擬資產服務法》2026 年 6 月 30 日三讀、7 月 22 日公布，金管會研訂九項子法，包括穩定幣發行許可與管理。",
+   "status": "彭金隆 10 月 19 日表示九項子法預計 2027 年第一季前公布；穩定幣子法仍在跨部會協商。"
+  },
+  {
+   "id": "au-digital-assets-framework",
+   "type": "議題",
+   "court": "ASIC",
+   "forum": "ASIC、澳洲財政部",
+   "name": "澳洲數位資產框架法",
+   "nameOriginal": "Corporations Amendment (Digital Assets Framework) Act 2026",
+   "caseRef": "",
+   "summary": "修正《公司法》，新增數位資產平台與代幣化保管平台兩類規範，2027 年 4 月 8 日施行。",
+   "status": "ASIC 10 月 15 日發布 CP 392，意見徵詢至 11 月 27 日。"
+  }
+ ],
+ "archives": []
+}
