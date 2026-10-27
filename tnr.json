@@ -1,13 +1,263 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-27T07:20:26+08:00",
-  "lastRunLocal": "2026-10-27 07:20",
+  "lastRun": "2026-10-27T23:23:21+08:00",
+  "lastRunLocal": "2026-10-27 23:23",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 6 則：中國 2（政府措施 1、事件 1）、俄羅斯 2（國際組織 1、事件 1）、越南 1（事件 1）、綜合 1（研究報告 1）"
+  "lastRunNote": "新增 4 則：中國 1（政府措施 1）、盧安達 1（事件 1）、巴基斯坦 1（研究報告 1）、其他（坦尚尼亞）1（事件 1）"
  },
  "items": [
+  {
+   "id": "2026-10-27-tnr-achr-pakistan-report",
+   "court": "PK",
+   "kind": "研究報告",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Northeast News（亞洲人權中心報告）",
+   "outletCode": "ACHR",
+   "date": "2026-10-27",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Tejang Chakma（亞洲人權中心）",
+   "title": "亞洲人權中心報告指巴基斯坦跨國鎮壓涉 14 國 28 案，至少 18 人遇害或可疑死亡",
+   "shortTitle": "報告：巴基斯坦跨國鎮壓涉 14 國",
+   "point": "28 案至少 48 人受害，其中 18 人遇害或可疑死亡，國內家屬遭綁架、凍結帳戶",
+   "titleOriginal": "Transnational Repression by Pakistan",
+   "caseRef": "",
+   "tldr": "總部在新德里的亞洲人權中心發表報告，整理巴基斯坦對海外批評者的打壓：14 個國家、28 起案件、至少 48 人，其中 18 人被殺或死因可疑。對象包括記者、俾路支運動者、伊姆蘭汗支持者與前軍人，留在國內的家人也遭綁架、監視、凍結帳戶或註銷護照。",
+   "memo": "依 Northeast News 2026 年 10 月 27 日報導，亞洲人權中心（ACHR）發表《Transnational Repression by Pakistan》報告，記錄巴基斯坦於 14 國對海外批評者實施之 28 起案件，涉及至少 48 名可識別之人，其中 18 人遭殺害或死因可疑，其餘遭遣返、擄走、攻擊或法律騷擾；受害者包括記者、人權捍衛者、俾路支族運動者、學者、政治反對者及退役軍人，其在巴國家屬並遭綁架、威脅、監視、凍結帳戶或註銷護照。報告稱此等行為於 2023 年伊姆蘭汗下台後及俾路支斯坦衝突升高後加劇。",
+   "context": "巴基斯坦近年被多份報告列為跨國鎮壓的主要施行國之一，對象常為伊姆蘭汗所屬正義運動黨（PTI）支持者與俾路支運動者。",
+   "facts": [
+    "報告記錄 28 起案件、至少 48 名可識別受害者、遍及 14 國。",
+    "18 名受害者遭殺害或在可疑情況下死亡，其他人遭遣返、擄走、人身攻擊或法律騷擾。",
+    "受害者在巴國的家屬遭綁架、威脅、監視、凍結銀行帳戶或註銷護照。",
+    "報告稱 2023 年伊姆蘭汗下台後及俾路支斯坦衝突升級後情況加劇。",
+    "研究主任 Chakma 提及拉合爾高等法院 10 月 22 日就兩名疑遭阿聯酋拘押的 PTI 相關人士，對外交秘書發出兩份藐視法庭通知。"
+   ],
+   "issues": [
+    "家屬施壓與註銷護照作為跨國鎮壓工具的法律評價。",
+    "收容國對可疑死亡的調查義務。"
+   ],
+   "holding": "・巴基斯坦對海外批評者的跨國鎮壓近年加劇。\n・手段包括殺害、遣返、擄人、攻擊、法律騷擾及對國內家屬施壓。",
+   "significance": "提供巴基斯坦跨國鎮壓的量化整理，可與自由之家資料對照；拉合爾高等法院對阿聯酋拘押案的程序值得持續觀察。",
+   "editorNote": "本網頁助理 註：本則依 Northeast News 對報告的報導整理，未取得報告原文。亞洲人權中心總部位於印度新德里，報告對象為印巴關係中的對立國，閱讀時宜留意立場；報導未載巴基斯坦政府回應。",
+   "tags": [
+    "跨國鎮壓",
+    "巴基斯坦",
+    "俾路支",
+    "正義運動黨",
+    "家屬施壓",
+    "註銷護照"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Northeast News 報導（亞洲人權中心報告）",
+     "url": "https://nenews.in/politics/pakistans-transnational-repression-has-led-to-human-rights-violations-worldwide-achr/68987/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T23:23:21+08:00"
+  },
+  {
+   "id": "2026-10-27-tnr-taiwan-mofa-2p1r",
+   "court": "CN",
+   "kind": "政府措施",
+   "caseId": "taiwan-tnr-response",
+   "jurisdiction": "台灣",
+   "outlet": "中央社",
+   "outletCode": "CNA",
+   "date": "2026-10-27",
+   "eventDate": "2026-10-27",
+   "importance": 1,
+   "author": "",
+   "title": "外交部書面報告：中國跨國鎮壓擴及數位監控、跟蹤騷擾與暴力威脅，要求駐外館處更新應變計畫",
+   "shortTitle": "外交部令駐外館處更新反跨國鎮壓應變",
+   "point": "以預防、保護、反制三面向（2P1R）協助在海外遭威脅脅迫的國人",
+   "titleOriginal": "外交部：中國跨國鎮壓超越政治恫嚇 外館3面向更新應變計畫",
+   "caseRef": "",
+   "tldr": "外交部向立法院外交及國防委員會提出書面報告，說中國的跨國鎮壓已從政治恫嚇擴大到數位監控、跟蹤騷擾，甚至可能動用暴力。外交部依總統指示，要求駐外館處更新緊急應變計畫，協助在海外受威脅的台灣人。同日行政院長卓榮泰也在立法院表示會從法制與技術面防堵。",
+   "memo": "依中央社 2026 年 10 月 27 日報導，外交部於提交立法院外交及國防委員會之書面報告中指出，中國跨國鎮壓手法已由政治恫嚇擴及數位監控、跟蹤騷擾及疑似暴力威脅，並舉中國官媒公布我國立法委員住處衛星影像及批評中共之藝文工作者遭僱人跟蹤等例。外交部稱依總統指示，從預防、保護、反制三面向（2P1R）推動因應，已要求駐外館處更新緊急應變計畫，以協助在海外遭威脅或脅迫之國人。同日行政院長卓榮泰於立法院答詢表示，將自法制面及技術面全力防堵。",
+   "context": "台灣近月接連處理黃逸豪遭撞案、沈伯洋遭監控等案件；行政院已令專案保護地方選舉候選人並研修《反滲透法》，最高檢要求從嚴從速偵辦。外交部長林家龍預定 10 月 28 日赴外交及國防委員會報告。",
+   "facts": [
+    "外交部書面報告稱中國跨國鎮壓頻傳，手法由政治恫嚇擴及數位監控、跟蹤騷擾及疑似暴力威脅。",
+    "舉例：中國官媒公布我國立委住所與工作地點衛星影像；批評中共的藝文工作者遭中國相關人士僱人在台跟蹤並意圖傷害。",
+    "報告稱中國 2026 年 7 月 1 日施行的《民族團結進步促進法》企圖將政治壓力延伸至境外。",
+    "依總統指示，從預防、保護、反制三面向（2P1R）推動，要求駐外館處更新緊急應變計畫，並加強與理念相近國家的策略溝通。",
+    "同日立法院總預算質詢中，行政院長卓榮泰表示將自法制面及技術面全力防堵跨境鎮壓；陸委會主委邱垂正稱吉林一號空拍圖屬跨境鎮壓手法並予譴責。",
+    "報導未說明三面向下的具體措施。"
+   ],
+   "issues": [
+    "駐外館處對在海外受脅迫國人的協助義務與實際能量。",
+    "國家公布個人住所衛星影像等恫嚇行為，在我國法下如何評價與反制？"
+   ],
+   "holding": "・外交部：中國跨國鎮壓手法升級，以 2P1R 架構因應，駐外館處更新應變計畫。\n・行政院長：法制、技術面全力防堵。\n・陸委會：吉林一號空拍圖屬跨境鎮壓手法。",
+   "significance": "首次見外交部將跨國鎮壓納入駐外館處應變計畫，回應對象擴及海外國人；具體措施待外交部長 10 月 28 日赴立法院報告時說明。",
+   "editorNote": "本網頁助理 註：本則依中央社兩則 10 月 27 日報導整理；2P1R 各字母所指英文用語報導未載明。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "台灣",
+    "外交部",
+    "駐外館處",
+    "衛星影像",
+    "數位監控"
+   ],
+   "related": [
+    "2026-10-22-tnr-taiwan-ey-candidate-protection",
+    "2026-10-25-tnr-taiwan-hk-residency-revocation"
+   ],
+   "sources": [
+    {
+     "label": "中央社報導（外交部書面報告）",
+     "url": "https://www.cna.com.tw/news/aipl/202610270180.aspx",
+     "official": false
+    },
+    {
+     "label": "中央社報導（卓榮泰答詢）",
+     "url": "https://www.cna.com.tw/news/aipl/202610270098.aspx",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T23:23:21+08:00"
+  },
+  {
+   "id": "2026-10-22-tnr-hrw-uganda-rwandan-dissident-killed",
+   "court": "RW",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "烏干達",
+   "outlet": "人權觀察",
+   "outletCode": "HRW",
+   "date": "2026-10-22",
+   "eventDate": "2026-10-17",
+   "importance": 2,
+   "author": "",
+   "title": "人權觀察要求烏干達調查盧安達流亡異議人士 Robert Kabera 遭斬首身亡案，稱不能排除政治動機",
+   "shortTitle": "盧安達流亡異議者在烏干達遇害",
+   "point": "遺體遭斬首、雙手疑遭反綁，人權觀察籲調查是否為政治性殺害",
+   "titleOriginal": "Uganda: Ensure Justice for Killing of Rwandan Dissident",
+   "caseRef": "",
+   "tldr": "批評盧安達政府的前軍人、歌手 Robert Kabera 流亡烏干達多年，10 月 17 日被發現陳屍坎帕拉附近、頭部遭砍下。人權觀察說他過去多次遭威脅、攻擊，盧安達也曾要求烏干達把他遣返，因此要求烏干達徹查是否為政治暗殺。",
+   "memo": "依人權觀察 2026 年 10 月 22 日聲明，盧安達國防軍退役士官長、批評盧安達政府之歌手 Robert Kabera（2020 年 11 月流亡烏干達並以政治迫害為由尋求庇護）於 2026 年 10 月 17 日被發現陳屍坎帕拉附近 Luwala 村，遺體遭斬首並有其他傷勢，法醫專家研判其死亡時雙手可能遭反綁。人權觀察指其生前屢遭威脅攻擊，盧安達曾要求烏干達遣返，要求烏干達依《非洲人權憲章》第 4 條及《公民與政治權利國際公約》第 6 條進行迅速、公正及有效之調查；烏干達警方已申請解剖，兩國政府未見公開回應。",
+   "context": "Kabera 為前盧安達國防軍士官長與歌手，2020 年 11 月逃離盧安達後在烏干達尋求庇護。盧安達軍事檢察部門在他出逃後宣布調查一項「猥褻」指控，所指犯罪日期在他自稱離境之後。\n人權觀察 2023 年報告記錄十多起針對海外盧安達人的殺害、綁架、失蹤與攻擊。",
+   "facts": [
+    "遺體 10 月 17 日在 Luwala 村其興建中住宅附近的尤加利樹林被發現，10 月 21 日在 Kamengo 下葬。",
+    "親屬與人權觀察分析的照片、影片顯示遺體遭斬首；法醫專家稱可能為死後毀損，肩部位置與手腕勒痕顯示死亡時雙手可能被反綁。",
+    "親屬稱 10 月 16 日下午一名說盧安達語、自稱需要幫助的政治反對者與他同行，當晚 11 時後即失聯，該男子留下的電話號碼無效。",
+    "死前數日他發布題為「要殺就殺吧」的影片，批評盧安達執政黨。",
+    "2022 年 5 月他曾遭烏干達軍警逮捕，自稱在警局看到盧安達官員；同年 7 月遭人搶走手機並稱要「把你帶回家」；2023 年 10 月遭三人攻擊威脅。",
+    "盧安達曾公開及私下要求烏干達遣返包括他在內的知名反對者。",
+    "烏干達警方已申請解剖，結果尚未公布；人權觀察聲明未載盧安達或烏干達政府回應。"
+   ],
+   "issues": [
+    "收容國對可疑死亡的調查義務（《非洲人權憲章》第 4 條、ICCPR 第 6 條）。",
+    "收容國對已知遭原籍國威脅之難民的保護義務。",
+    "聯合國難民機構對面臨域外迫害者的第三國安置機制是否足夠。"
+   ],
+   "holding": "・人權觀察：死亡情況可疑，主要因其批評盧安達政府，調查須檢視所有指向政治動機的證據。\n・要求烏干達迅速、公正、有效調查並追究責任；未調查本身即違反生命權。\n・呼籲收容國加強保護盧安達難民、聯合國機構強化第三國安置，各國與區域組織追究盧安達的境內外侵害。",
+   "significance": "若調查證實與盧安達有關，將是東非近年最嚴重的跨國鎮壓案件之一；烏干達律師公會已將本案與坦尚尼亞運動者在肯亞遭擄案並列，凸顯東非區域趨勢。後續觀察解剖結果與烏干達警方偵查。",
+   "editorNote": "本網頁助理 註：本則為人權觀察 10 月 22 日聲明，早於上次執行的涵蓋區間，因先前未收錄而補列。人權觀察未指稱盧安達政府為行為人，僅要求調查政治動機。",
+   "tags": [
+    "跨國鎮壓",
+    "盧安達",
+    "烏干達",
+    "暗殺",
+    "難民",
+    "東非"
+   ],
+   "related": [
+    "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction",
+    "2026-10-16-tnr-omct-fidh-east-africa-report"
+   ],
+   "sources": [
+    {
+     "label": "人權觀察聲明",
+     "url": "https://www.hrw.org/news/2026/10/22/uganda-ensure-justice-for-killing-of-rwandan-dissident",
+     "official": false
+    },
+    {
+     "label": "Daily Monitor 報導",
+     "url": "https://www.monitor.co.ug/uganda/news/national/human-rights-watch-demands-probe-into-brutal-murder-of-rwandan-dissident-in-uganda-5642642",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T23:23:21+08:00"
+  },
+  {
+   "id": "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction",
+   "court": "OTHER",
+   "kind": "事件",
+   "caseId": "mwaipaya-kenya-abduction",
+   "jurisdiction": "肯亞",
+   "outlet": "法新社（經 Club of Mozambique 轉載）",
+   "outletCode": "AFP",
+   "date": "2026-10-26",
+   "eventDate": "2026-10-25",
+   "importance": 2,
+   "author": "",
+   "title": "國際特赦組織稱坦尚尼亞反對派運動者 Twaha Mwaipaya 在肯亞遭不明人士擄走，下落不明",
+   "shortTitle": "坦尚尼亞運動者在肯亞遭擄走",
+   "point": "特赦組織稱 10 月 25 日遭三輛車上人員帶走，肯亞、坦尚尼亞當局均未回應",
+   "titleOriginal": "Tanzania govt critic abducted in Kenya: Amnesty",
+   "caseRef": "",
+   "tldr": "批評坦尚尼亞政府的反對黨青年運動者 Twaha Mwaipaya，10 月 25 日下午在肯亞奈洛比近郊搭計程車時，據國際特赦組織說法遭不明人士擄走，至今下落不明。人權團體擔心這是坦尚尼亞再度把手伸進肯亞抓人，但目前沒有人正式指認是誰下手。",
+   "memo": "依法新社 2026 年 10 月 26 日引述國際特赦組織之報導，坦尚尼亞反對黨 Chadema 前青年組織幹部 Twaha Mwaipaya 於 2026 年 10 月 25 日下午約 2 時，在肯亞 Machakos 郡 Kamulu 搭乘計程車途中遭不明人士擄走，行為人據稱分乘三輛車輛，其下落迄今不明。特赦組織肯亞分會要求當局儘速查明其下落並確保其安全；烏干達律師公會則稱，坦尚尼亞如有刑事指控應循引渡程序。截至報導時，肯亞及坦尚尼亞當局均未公開回應，亦無人正式指認行為人。",
+   "context": "Mwaipaya 曾任坦尚尼亞最大反對黨 Chadema 青年部（BAVICHA）全國動員協調人，2022 年曾因批評政府入獄，並多次遭警方拘押；他在 Instagram 有近 60 萬追蹤者，經常批評總統 Samia Suluhu Hassan 政府。\n坦尚尼亞政府被控在 2025 年選舉期間大規模鎮壓反對派；多名坦尚尼亞人權工作者其後避居肯亞。報導提及的前例包括 2025 年 1 月記者 Maria Sarungi Tsehai 在奈洛比遭擄後獲釋，以及 2025 年 2 月肯亞警方救出遭鎖定的人權捍衛者 Mshabaha Mshabaha Hamza 並逮捕三名嫌犯。",
+   "facts": [
+    "國際特赦組織稱，Mwaipaya 10 月 25 日下午約 2 時在 Machakos 郡 Kamulu 搭計程車探訪友人途中遭擄，行為人分乘三輛車，其中一輛為 Toyota Land Cruiser。",
+    "東非新聞報導稱他是為尋求庇護而逃往肯亞；The Chanzo 則稱未能確認他何時、為何移居肯亞。",
+    "特赦組織肯亞分會要求當局「緊急查明其下落並確保其安全」。",
+    "Chadema 副主席 John Heche 表示已向肯亞方面查詢，並呼籲 Ruto 政府協助。",
+    "烏干達律師公會（ULS）聲明稱，如坦尚尼亞對其有刑事指控，應循引渡程序並在肯亞法律下保障正當程序。",
+    "截至 10 月 26、27 日報導時，肯亞警方、刑事調查局及坦尚尼亞警方、外交部均未公開回應。"
+   ],
+   "issues": [
+    "肯亞作為收容國，對其境內遭擄走的外國異議人士負有何種調查與保護義務？",
+    "如屬跨境擄人後移送，是否構成強迫失蹤與違反不遣返原則？",
+    "東非共同體成員國之間繞過引渡程序移交異議人士的模式，有無區域司法救濟途徑？"
+   ],
+   "holding": "・特赦組織：Mwaipaya 遭不明人士擄走，要求查明下落。\n・Chadema、肯亞公民團體 Linda Mwananchi 等要求獨立調查並防止其被強制移出肯亞。\n・烏干達律師公會將本案與同月烏干達境內盧安達異議人士 Robert Kabera 遇害案並列，稱東非跨境鎮壓升溫。\n・肯亞、坦尚尼亞政府均未回應；無人正式指認行為人。",
+   "significance": "若證實遭移交坦尚尼亞，將是繼 2025 年多起案件後，肯亞再度被指成為鄰國追捕異議人士的場域。後續觀察其是否現身坦尚尼亞羈押或法院、肯亞是否立案調查。",
+   "editorNote": "本網頁助理 註：本則依法新社（Club of Mozambique 轉載）、The Chanzo、The EastAfrican 及 Eastleigh Voice 報導整理。目前沒有任何來源指認行為人，「跨國鎮壓」為人權團體的關切與推測，尚未證實與坦尚尼亞政府有關。坦尚尼亞非本站預設國家代碼，故列為「其他」。",
+   "tags": [
+    "跨國鎮壓",
+    "坦尚尼亞",
+    "肯亞",
+    "擄人",
+    "強迫失蹤",
+    "Chadema",
+    "東非"
+   ],
+   "related": [
+    "2026-10-22-tnr-hrw-uganda-rwandan-dissident-killed",
+    "2026-10-16-tnr-omct-fidh-east-africa-report"
+   ],
+   "sources": [
+    {
+     "label": "法新社報導（Club of Mozambique 轉載）",
+     "url": "https://clubofmozambique.com/news/tanzania-govt-critic-abducted-in-kenya-amnesty/",
+     "official": false
+    },
+    {
+     "label": "The Chanzo 報導",
+     "url": "https://thechanzo.com/2026/10/26/tanzanian-activist-twaha-mwaipaya-missing-after-reported-abduction-in-kenya-rights-groups-demand-answers",
+     "official": false
+    },
+    {
+     "label": "The EastAfrican 報導",
+     "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/alarm-over-abduction-of-chadema-activist-in-kenya-5647224",
+     "official": false
+    },
+    {
+     "label": "Eastleigh Voice 報導（烏干達律師公會聲明）",
+     "url": "https://eastleighvoice.co.ke/news/416513/uls-warns-of-rising-cross-border-repression-after-tanzanian-activists-abduction-in-kenya",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T23:23:21+08:00"
+  },
   {
    "id": "2026-10-25-tnr-taiwan-hk-residency-revocation",
    "court": "CN",
@@ -58,7 +308,8 @@
    ],
    "related": [
     "2026-10-22-tnr-taiwan-ey-candidate-protection",
-    "2026-10-23-tnr-taiwan-supreme-prosecutors-crackdown"
+    "2026-10-23-tnr-taiwan-supreme-prosecutors-crackdown",
+    "2026-10-27-tnr-taiwan-mofa-2p1r"
    ],
    "sources": [
     {
@@ -368,7 +619,10 @@
     "強迫失蹤",
     "數位攻擊"
    ],
-   "related": [],
+   "related": [
+    "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction",
+    "2026-10-22-tnr-hrw-uganda-rwandan-dissident-killed"
+   ],
    "sources": [
     {
      "label": "國際人權聯盟新聞稿（報告發表）",
@@ -608,7 +862,8 @@
     "2026-10-08-tnr-taiwan-mac-standalone-offence",
     "2026-10-21-tnr-taiwan-huang-yi-hao-indictment",
     "2026-10-23-tnr-taiwan-supreme-prosecutors-crackdown",
-    "2026-10-25-tnr-taiwan-hk-residency-revocation"
+    "2026-10-25-tnr-taiwan-hk-residency-revocation",
+    "2026-10-27-tnr-taiwan-mofa-2p1r"
    ],
    "sources": [
     {
@@ -2090,7 +2345,7 @@
    "nameOriginal": "Taiwan's response to China-linked transnational repression",
    "caseRef": "",
    "summary": "台灣政府對受中國指使的跟監、恐嚇與暴力事件的偵辦、警示與修法動向。",
-   "status": "行政院 10 月 22 日指示專案保護候選人並研修《反滲透法》，最高檢要求從嚴從速偵辦；官員 10 月 25 日稱協助跨境鎮壓之在台港人將廢止居留或身分，修法草案尚未送立法院。"
+   "status": "行政院 10 月 22 日指示專案保護候選人並研修《反滲透法》，最高檢要求從嚴從速偵辦；官員 10 月 25 日稱協助跨境鎮壓之在台港人將廢止居留或身分，修法草案尚未送立法院；10 月 27 日外交部要求駐外館處更新應變計畫，以 2P1R 協助海外受脅迫國人。"
   },
   {
    "id": "viet-tan-cambodia-abduction",
@@ -2168,6 +2423,17 @@
    "caseRef": "",
    "summary": "2014 年在泰國被拘留的 300 多名維吾爾人中仍留在泰國者的去向；泰國曾於 2015 年及 2025 年將部分人遣返中國。",
    "status": "兩名因 2020 年脫逃案服刑者獲特赦，10 月 21 日移至曼谷移民拘留中心，遣返中國或第三國待國安會決定；另三人仍在監。"
+  },
+  {
+   "id": "mwaipaya-kenya-abduction",
+   "type": "案件",
+   "court": "OTHER",
+   "forum": "",
+   "name": "坦尚尼亞運動者 Twaha Mwaipaya 肯亞遭擄案",
+   "nameOriginal": "Abduction of Twaha Mwaipaya in Kenya",
+   "caseRef": "",
+   "summary": "坦尚尼亞反對黨 Chadema 前青年幹部 Mwaipaya 於 2026 年 10 月 25 日在肯亞 Machakos 郡遭不明人士擄走，人權團體擔憂屬跨國鎮壓。",
+   "status": "截至 10 月 27 日下落不明，肯亞與坦尚尼亞當局未公開回應。"
   }
  ]
 }
