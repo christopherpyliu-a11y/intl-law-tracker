@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-27T10:58:18+08:00",
-  "lastRunLocal": "2026-10-27 10:58",
+  "lastRun": "2026-10-27T23:31:19+08:00",
+  "lastRunLocal": "2026-10-27 23:31",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "首次建立：補齊 2026 年 10 月 1 日至 27 日動態 30 則"
+  "lastRunNote": "新增 1 則：亞太與其他 1（加拿大草案諮詢 1）"
  },
  "items": [
   {
@@ -297,7 +297,8 @@
    ],
    "related": [
     "2026-10-16-fin-florida-stablecoin-law-in-force",
-    "2026-10-02-fin-icba-sues-occ-trust-charters"
+    "2026-10-02-fin-icba-sues-occ-trust-charters",
+    "2026-10-24-fin-canada-draft-stablecoin-regulations"
    ],
    "sources": [
     {
@@ -1788,6 +1789,86 @@
     }
    ],
    "addedAt": "2026-10-27T10:58:18+08:00"
+  },
+  {
+   "id": "2026-10-24-fin-canada-draft-stablecoin-regulations",
+   "court": "OTHER",
+   "kind": "草案諮詢",
+   "caseId": "canada-stablecoin-act",
+   "jurisdiction": "加拿大",
+   "outlet": "加拿大政府公報（Canada Gazette）",
+   "outletCode": "CG",
+   "date": "2026-10-24",
+   "eventDate": "2026-10-24",
+   "importance": 2,
+   "author": "",
+   "title": "加拿大財政部預告《穩定幣條例》草案，禁止發行人支付收益並要求向加拿大銀行註冊",
+   "shortTitle": "加拿大預告穩定幣條例草案",
+   "point": "禁止持有收益、三個營業日內贖回，意見徵詢至 12 月 23 日",
+   "titleOriginal": "Stablecoin Regulations (Canada Gazette, Part I, Volume 160, Number 43)",
+   "caseRef": "Canada Gazette, Part I, Vol. 160, No. 43",
+   "tldr": "加拿大今年 3 月通過《穩定幣法》，財政部 10 月 24 日公布施行細則草案：發行穩定幣要先向加拿大央行（加拿大銀行）註冊，準備資產至少等於流通量，持有人可 1:1 贖回且三個營業日內完成，發行人不得因「持有」穩定幣而付利息或收益。非銀行業者只要符合要求也能發行，目標 2027 年秋天上路。",
+   "memo": "加拿大財政部於 2026 年 10 月 24 日在加拿大政府公報第一部預告《穩定幣條例》（Stablecoin Regulations）草案及《零售支付活動條例》修正，依據 2026 年 3 月取得御准之《穩定幣法》第 93 條及《零售支付活動法》第 101 條第 1 項。草案要求發行人發行前向加拿大銀行註冊，每日終了準備資產市值不低於流通量並交由加拿大境內合格保管機構保管，持有人得按 1:1 贖回且應於三個營業日內完成，贖回費上限 1%，禁止支付與持有相連結之利息或收益，嚴重違規之行政罰款上限為 1,000 萬加元；意見應於公布後 60 日內提出，預定 2027 年秋季施行。",
+   "context": "加拿大以 2025 年預算施行法（Bill C-15）制定《穩定幣法》（Stablecoin Act），2026 年 3 月取得御准，由加拿大銀行（Bank of Canada）負責發行人的註冊與監理。財政部稱，條例定案後將於加拿大政府公報公布。\n在此之前，加拿大的加密交易平台由各省證券主管機關監理，只允許交易符合一定標準的穩定幣；新法則直接規範穩定幣的發行。\n本次草案與美國 GENIUS Act（2027 年 1 月 18 日生效）及歐盟 MiCA 同屬「準備足額、1:1 贖回、禁止付息」的模式。",
+   "facts": [
+    "2026 年 10 月 24 日刊登於加拿大政府公報第一部第 160 卷第 43 號，主辦機關為加拿大財政部。",
+    "法源：《穩定幣法》第 93 條，以及《零售支付活動法》第 101 條第 1 項第 a、c、p 款。",
+    "既有發行人如於《穩定幣法》施行後 30 日內申請註冊，可依過渡規定繼續營運。",
+    "合格準備資產包括活期存款、剩餘期限三個月以內的政府債務、一日期附買回協議，以及只持有合格資產的貨幣市場基金；準備資產不得設質。",
+    "贖回費上限為贖回金額的 1%，調高費用須於網站提前至少七日公告；不設最低贖回金額。",
+    "發行人須每月向加拿大銀行申報並附會計師意見，客訴須於 7 日內回應、30 日內處理完畢。",
+    "行政罰款：嚴重違規上限 100 萬加元，非常嚴重違規上限 1,000 萬加元。",
+    "年費分三級：流通量 10 億加元以上基本費 75 萬加元，5 億加元以上 35 萬加元，未滿 5 億加元 2.5 萬加元；加拿大銀行估計每年監理成本約 250 萬加元。",
+    "《零售支付活動法》修正後，使用合格穩定幣執行支付功能的支付服務業者將納入該法規範，財政部估計約增加 30 家業者。",
+    "意見須於公布後 60 日內提出（依此計算為 2026 年 12 月 23 日），預定 2027 年秋季施行。"
+   ],
+   "issues": [
+    "全面禁止因「持有」穩定幣而給付收益（包括經由第三方間接給付），與美國 OCC 最終規則改採個案審查第三方收益安排的做法明顯不同，對跨境發行的業者如何適用？",
+    "非銀行業者可直接發行，且無銀行持股要求，與台灣研議中由金融機構先行、銀行持股設限的路線有何異同？",
+    "外國發行人亦須以加拿大境內合格保管機構保管準備資產，是否形成市場進入障礙？"
+   ],
+   "holding": "・註冊：發行人發行前須向加拿大銀行註冊，並揭露持有 10% 以上表決權者及實質受益人。\n・準備資產：每日終了準備資產市值不低於流通量，限於高流動性資產，交由加拿大境內合格保管機構保管，不得設質。\n・贖回：1:1 贖回參考貨幣，三個營業日內完成，贖回費上限 1%。\n・收益：禁止支付與持有相連結的利息或收益，與實際使用（交易）連結的獎勵則允許。\n・申報與治理：每月申報並附會計師意見，政策摘要須以英法雙語公布。\n・支付業者：依《零售支付活動法》納管使用合格穩定幣的支付服務業者，並新增以獨立實體保管用戶資金的保障方式。\n・罰則：行政罰款上限 100 萬或 1,000 萬加元。",
+   "significance": "加拿大成為繼美國、歐盟、香港、新加坡之後，另一個以專法加施行細則規範穩定幣發行的主要法域；其「禁止持有收益」的範圍比美國 OCC 最終規則更寬。意見徵詢至 2026 年 12 月 23 日，之後財政部將公布最終條例，目標 2027 年秋季施行。",
+   "editorNote": "本網頁助理 註：條文要點依加拿大政府公報刊載之草案及監管影響分析說明；12 月 23 日之期限係依「公布後 60 日內」自 10 月 24 日推算，Payment Expert 報導亦載明同一日期。《穩定幣法》御准月份依公報及報導記載為 2026 年 3 月。",
+   "tags": [
+    "穩定幣",
+    "Stablecoin Act",
+    "加拿大財政部",
+    "加拿大銀行",
+    "支付服務",
+    "加拿大"
+   ],
+   "related": [
+    "2026-10-21-fin-occ-genius-act-final-rule"
+   ],
+   "sources": [
+    {
+     "label": "加拿大政府公報草案全文（Stablecoin Regulations）",
+     "url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html",
+     "official": true
+    },
+    {
+     "label": "加拿大財政部穩定幣框架頁面",
+     "url": "https://www.canada.ca/en/department-finance/programs/financial-sector-policy/canadas-stablecoin-framework.html",
+     "official": true
+    },
+    {
+     "label": "《穩定幣法》條文（加拿大司法部）",
+     "url": "https://laws.justice.gc.ca/eng/acts/S-15.9/page-1.html",
+     "official": true
+    },
+    {
+     "label": "Payment Expert 報導",
+     "url": "https://paymentexpert.com/2026/10/27/canada-stablecoin-rules-yield-firms/",
+     "official": false
+    },
+    {
+     "label": "Seoul Economic Daily 報導",
+     "url": "https://en.sedaily.com/finance/2026/10/27/canada-to-let-non-banks-issue-stablecoins-under-draft-rules",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T23:31:19+08:00"
   }
  ],
  "agenda": [
@@ -1870,6 +1951,16 @@
    "url": "https://cftc.gov/PressRoom/PressReleases/9307-26",
    "relatedId": "2026-10-05-fin-cftc-anprm-ctx-cam",
    "caseId": "us-crypto-market-structure"
+  },
+  {
+   "id": "2026-12-23-other-canada-stablecoin-regs-deadline",
+   "date": "2026-12-23",
+   "court": "OTHER",
+   "title": "加拿大《穩定幣條例》草案意見徵詢截止",
+   "note": "依公布後 60 日推算；意見寄送加拿大財政部數位資產處",
+   "url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html",
+   "relatedId": "2026-10-24-fin-canada-draft-stablecoin-regulations",
+   "caseId": "canada-stablecoin-act"
   },
   {
    "id": "2027-01-08-esma-non-mica-stablecoin-deadline",
@@ -2023,6 +2114,17 @@
    "caseRef": "",
    "summary": "修正《公司法》，新增數位資產平台與代幣化保管平台兩類規範，2027 年 4 月 8 日施行。",
    "status": "ASIC 10 月 15 日發布 CP 392，意見徵詢至 11 月 27 日。"
+  },
+  {
+   "id": "canada-stablecoin-act",
+   "type": "議題",
+   "court": "OTHER",
+   "forum": "加拿大財政部、加拿大銀行",
+   "name": "加拿大《穩定幣法》施行",
+   "nameOriginal": "Canada Stablecoin Act and Stablecoin Regulations",
+   "caseRef": "",
+   "summary": "加拿大 2026 年 3 月制定《穩定幣法》，由加拿大銀行負責穩定幣發行人註冊與監理，並以施行條例規定準備資產、贖回與禁止付息等要求。",
+   "status": "財政部 10 月 24 日預告《穩定幣條例》草案，意見徵詢至 12 月 23 日，目標 2027 年秋季施行。"
   }
  ],
  "archives": []
