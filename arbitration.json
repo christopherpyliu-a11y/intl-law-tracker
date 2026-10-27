@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-27T07:06:28+08:00",
-  "lastRunLocal": "2026-10-27 07:06",
+  "lastRun": "2026-10-27T22:59:28+08:00",
+  "lastRunLocal": "2026-10-27 22:59",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 2 則：商務仲裁 1（案件動態 1）、投資仲裁 1（案件動態 1）",
+  "lastRunNote": "新增 1 則：投資仲裁 1（法院裁判 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -2326,7 +2326,9 @@
     "挪威",
     "PCA"
    ],
-   "related": [],
+   "related": [
+    "2026-10-26-arb-ddc-naftogaz-russia-jurisdiction"
+   ],
    "sources": [
     {
      "label": "Aftenposten 報導（挪威文）",
@@ -3064,6 +3066,69 @@
     }
    ],
    "addedAt": "2026-10-27T07:06:28+08:00"
+  },
+  {
+   "id": "2026-10-26-arb-ddc-naftogaz-russia-jurisdiction",
+   "court": "COURT",
+   "field": "investment",
+   "kind": "法院裁判",
+   "caseId": "naftogaz-v-russia",
+   "jurisdiction": "美國",
+   "outlet": "美國哥倫比亞特區聯邦地方法院（依新聞報導）",
+   "outletCode": "DDC",
+   "date": "2026-10-26",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "美國華府聯邦地院駁回俄羅斯豁免抗辯，Naftogaz 約 50 億美元克里米亞判斷之確認程序得以續行",
+   "shortTitle": "美國法院：俄羅斯不能躲過 Naftogaz 執行訴訟",
+   "point": "法院不採俄國「雙方之間根本沒有仲裁協議」的主張，確認程序繼續進行",
+   "titleOriginal": "NJSC Naftogaz of Ukraine et al. v. Russian Federation, Civ. A. No. 23-1828 (JDB) (D.D.C.) – ruling on Russia's motion to dismiss",
+   "caseRef": "Civ. A. No. 23-1828 (D.D.C.)",
+   "tldr": "烏克蘭國營能源公司 Naftogaz 因克里米亞資產遭奪取，在海牙仲裁取得對俄羅斯逾 42 億美元（加計利息約 50 億美元）的判斷，並在美國聲請確認。據 Law360 報導，華府聯邦地院已駁回俄國以「沒有仲裁協議」為由主張主權豁免的抗辯，案件將繼續審理。",
+   "memo": "據 Law360 於 2026 年 10 月 26 日報導，美國哥倫比亞特區聯邦地方法院就 Naftogaz 等烏克蘭能源公司依紐約公約聲請確認其對俄羅斯聯邦之克里米亞投資仲裁判斷（本金逾 42 億美元）一案，駁回俄羅斯以雙方間不存在仲裁協議為由所提之管轄權抗辯，認定其不得依外國主權豁免法免於本件確認程序，案件續行。",
+   "context": "Naftogaz 及其子公司主張俄羅斯於 2014 年併吞克里米亞後奪取其在當地的資產，依俄烏雙邊投資協定提起仲裁（PCA Case No. 2017-16，仲裁地海牙）。仲裁庭先作成認定管轄權與責任的部分判斷，並於 2023 年 4 月作成逾 42 億美元的最終判斷。\n俄羅斯在荷蘭法院聲請撤銷：荷蘭最高法院曾就管轄範圍問題發回，對最終判斷的撤銷程序仍在海牙法院進行中。Naftogaz 則在多國聲請執行，本站先前已報導挪威奧斯陸法院准予假扣押俄國房產。\n在美國，Naftogaz 於 2023 年依紐約公約向華府聯邦地院聲請確認判斷（Civ. A. No. 23-1828，John D. Bates 法官）。俄羅斯提出駁回聲請，主張外國主權豁免法（FSIA）仲裁例外的前提——仲裁協議——並不存在，法院因而欠缺管轄權。2026 年 7 月 17 日，法院駁回俄國停止訴訟的聲請，恢復審理該駁回聲請；法院當時指出，依哥倫比亞特區巡迴上訴法院 P&ID 案見解，外國法院撤銷判斷屬實體抗辯而非管轄障礙，且美國最高法院已於 2026 年 6 月 29 日駁回有關 FSIA 仲裁例外的兩件移審聲請。",
+   "facts": [
+    "Naftogaz 等烏克蘭能源公司於 2023 年在華府聯邦地院聲請確認其對俄羅斯的最終仲裁判斷。",
+    "俄羅斯聲請以欠缺管轄權為由駁回，主張雙方間沒有仲裁協議，FSIA 仲裁例外不適用。",
+    "法院於 2026 年 7 月駁回俄國停止訴訟聲請，並排定補充書狀期限。",
+    "Law360 於 2026 年 10 月 26 日報導，法院已駁回俄羅斯的駁回聲請。"
+   ],
+   "issues": [
+    "俄羅斯是否得依 FSIA 主張豁免，或本件符合 FSIA 第 1605(a)(6) 條仲裁例外？",
+    "仲裁例外是否要求法院先確認仲裁協議存在，以及就此應審查到何種程度？"
+   ],
+   "holding": "據 Law360 報導，法院駁回俄羅斯的駁回聲請，不採其關於雙方間不存在仲裁協議的主張，本件確認程序得以續行。\n本網頁助理尚未取得本次裁定原文，法院就仲裁例外的具體論理未能確認。",
+   "significance": "本案是 Naftogaz 在美國追索俄國資產的關鍵一步：通過管轄權門檻後，程序將進入是否確認判斷的實體階段，俄國仍可提出紐約公約第 5 條抗辯，並可能就管轄權裁定上訴。海牙法院對最終判斷的撤銷程序結果，也可能影響後續確認。",
+   "editorNote": "本網頁助理 註：本則依 Law360 報導標題與摘要撰寫，尚未取得判決原文；報導未明載裁定日期，故裁判日期留空。背景與 2026 年 7 月 17 日停止訴訟裁定的內容取自 CourtListener 公開的該裁定全文。Law360 稱求償約 50 億美元，判斷本金逾 42 億美元，差額應為利息。",
+   "tags": [
+    "承認與執行",
+    "紐約公約",
+    "主權豁免",
+    "FSIA",
+    "克里米亞",
+    "俄羅斯",
+    "烏克蘭",
+    "美國",
+    "PCA",
+    "雙邊投資協定"
+   ],
+   "related": [
+    "2026-10-22-arb-oslo-naftogaz-russia-attachment"
+   ],
+   "sources": [
+    {
+     "label": "美國哥倫比亞特區聯邦地院 2026 年 7 月 17 日駁回停止訴訟裁定（CourtListener）",
+     "url": "https://www.courtlistener.com/opinion/10932411/njsc-naftogaz-of-ukraine-v-russian-federation/",
+     "official": false
+    },
+    {
+     "label": "Law360 報導",
+     "url": "https://www.law360.com/articles/2542479/russia-can-t-duck-5b-ukraine-energy-co-award-suit",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-27T22:59:28+08:00"
   }
  ],
  "agenda": [
@@ -3282,12 +3347,12 @@
    "type": "案件",
    "court": "COURT",
    "field": "investment",
-   "forum": "常設仲裁法院（PCA）、荷蘭及挪威等國法院",
+   "forum": "常設仲裁法院（PCA）、荷蘭、挪威及美國等國法院",
    "name": "Naftogaz 訴俄羅斯（克里米亞資產判斷之執行）",
    "nameOriginal": "NJSC Naftogaz of Ukraine and others v. Russian Federation",
    "caseRef": "PCA Case No. 2017-16",
    "summary": "Naftogaz 就克里米亞資產遭奪取，依俄烏雙邊投資協定取得 2023 年海牙判斷，俄羅斯在荷蘭聲請撤銷，Naftogaz 在多國聲請執行。",
-   "status": "奧斯陸地方法院准予假扣押俄國在奧斯陸五處房產，俄羅斯表示將提出異議。"
+   "status": "美國華府聯邦地院據報駁回俄國管轄權抗辯，確認程序續行；奧斯陸法院已准假扣押俄國房產，海牙撤銷程序仍在進行。"
   },
   {
    "id": "devas-v-india",
