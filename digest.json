@@ -1,11 +1,220 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-22T15:35:12+08:00",
-  "lastRunLocal": "2026-10-22 15:35",
-  "lastRunNote": "建立第一期每週重點（2026 年 10 月 12 日至 18 日）。"
+  "lastRun": "2026-10-27T11:06:00+08:00",
+  "lastRunLocal": "2026-10-27 11:06",
+  "lastRunNote": "補寫每週重點（10 月 19 日至 25 日）：國際公法 15 則、國際仲裁法 30 則、跨國鎮壓 18 則、Fintech Law 8 則"
  },
  "issues": [
+  {
+   "id": "2026-10-19",
+   "from": "2026-10-19",
+   "to": "2026-10-25",
+   "published": "2026-10-27",
+   "title": "本週重點｜10 月 19 日至 25 日",
+   "lead": "本週國際公法仍以美國制裁 ICC 的後續為主，歐洲議會把沙卡洛夫獎頒給 ICC；國際仲裁法方面，新加坡上訴法院駁回西班牙的豁免抗辯，布魯塞爾法院卻以歐盟法撤銷對西班牙的扣押。跨國鎮壓方面，黃逸豪遭撞案起訴 5 人，檢方定性為中國跨境鎮壓；Fintech Law 方面，OCC 發布 GENIUS Act 穩定幣最終規則。",
+   "sections": [
+    {
+     "section": "pil",
+     "count": 15,
+     "summary": "本週國際公法延續美國制裁 ICC 的主線：歐盟高峰會要求美國撤回制裁，歐洲議會把沙卡洛夫獎頒給 ICC，Kallas 隨即訪問法院。ICC 本身有哥倫比亞自行移交的上訴與杜特蒂案的審前準備；歐洲人權法院大法庭作成今年第二件第 16 號議定書諮詢意見，柬泰海域調解也確定互信措施。",
+     "highlights": [
+      {
+       "itemId": "2026-10-20-ecthr-p16-luxembourg-lawyers",
+       "note": "大法庭答覆盧森堡：要求律師本人到場可以，但缺席不等於放棄辯護，至少上訴時應考慮延期或准由代理人辯護。"
+      },
+      {
+       "itemId": "2026-10-19-other-cambodia-thailand-cbm",
+       "note": "UNCLOS 強制調解第二度實際運作，柬泰在邊境衝突後同意互信措施，並將成立技術小組談劃界。"
+      },
+      {
+       "itemId": "2026-10-22-icc-colombia-self-referral",
+       "note": "卸任政府想約束繼任政府的罕見自行移交遭預審分庭駁回，檢察官上訴主張應由其先行評估。"
+      },
+      {
+       "itemId": "2026-10-22-other-sakharov-icc-awarded",
+       "note": "歐洲議會把最高人權獎頒給受美國制裁的 ICC，Kallas 隔天訪問法院；《阻斷法規》仍未啟動。"
+      },
+      {
+       "itemId": "2026-10-23-icc-dela-rosa-bounty",
+       "note": "杜特蒂審判開始前，菲律賓懸賞緝捕第二名被通緝的掃毒要角；其律師質疑懸賞欠缺國內法依據。"
+      }
+     ]
+    },
+    {
+     "section": "arb",
+     "count": 30,
+     "summary": "投資仲裁的執行戰線是本週主線：新加坡上訴法院駁回西班牙的豁免抗辯，布魯塞爾法院卻以歐盟法撤銷對西班牙的扣押，英國與挪威法院在 Yukos、Naftogaz 對俄執行案中也有進展。英國上訴法院讓 RAKIA 對印度的仲裁續行，Cerro Verde 案判賠約 1.41 億美元；商務仲裁方面，德國聯邦最高法院准許對仲裁人告知訴訟，Kashagan 仲裁也有階段性結果。",
+     "highlights": [
+      {
+       "itemId": "2026-10-19-arb-sgca-nextera-spain-immunity",
+       "note": "新加坡最高審級與英、澳一致：加入 ICSID 公約即不得以豁免阻擋判斷登記，但查封財產仍須另過執行豁免。"
+      },
+      {
+       "itemId": "2026-10-22-arb-ewca-rakia-india-jurisdiction",
+       "note": "取消供應契約直接影響 RAKIA 的持股，英國上訴法院維持撤銷無管轄權判斷，案件回到仲裁庭審理實體。"
+      },
+      {
+       "itemId": "2026-10-23-arb-brussels-rreef-spain-eurocontrol-attachment-lifted",
+       "note": "與美、英、澳、新法院的走向相反，布魯塞爾法院以歐盟法拒絕執行歐盟內部 ICSID 判斷並撤銷扣押。"
+      },
+      {
+       "itemId": "2026-10-21-arb-smm-cerro-verde-peru-award",
+       "note": "與 Freeport 案涉及同一礦場與稅捐爭議卻結果不同；仲裁庭多數判賠約 1.41 億美元，秘魯可聲請撤銷。"
+      },
+      {
+       "itemId": "2026-10-19-arb-bgh-third-party-notice-arbitrator",
+       "note": "勝訴方可在撤銷程序中對仲裁人告知訴訟以保全求償；但評論者指出，仲裁人責任仍受相當保護。"
+      },
+      {
+       "itemId": "2026-10-22-arb-kashagan-12bn-claims-time-barred",
+       "note": "哈薩克對 Kashagan 財團約 120 億美元的成本請求被認定提出過遲，其餘約 80 億美元仍在審理。"
+      }
+     ]
+    },
+    {
+     "section": "tnr",
+     "count": 18,
+     "summary": "台灣是本週焦點：黃逸豪遭撞案起訴 5 人，檢方定性為中國跨境鎮壓，行政院、國安局與最高檢同週宣示加強保護與偵辦，並研議修正《反滲透法》。其他地區有泰國特赦兩名維吾爾人待遣返、倫敦伊朗人監視記者案被告作證、俄羅斯公布首批「公民死亡」名單，人權團體也指埃及拘押約 125 名海外異議者親屬。",
+     "highlights": [
+      {
+       "itemId": "2026-10-21-tnr-taiwan-huang-yi-hao-indictment",
+       "note": "檢方明確以中國跨境鎮壓定性並求處重刑；政院、國安局與最高檢同週宣示加強偵辦，並研修《反滲透法》。"
+      },
+      {
+       "itemId": "2026-10-22-tnr-thailand-uyghurs-pardoned",
+       "note": "2014 年被拘的維吾爾人中兩人獲特赦待遣返，若送回中國，將是泰國繼 2025 年後再度遣返。"
+      },
+      {
+       "itemId": "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony",
+       "note": "倫敦審理中的被告作證稱受伊朗聯絡人指示傷害記者，但主張因家人受威脅被迫，並刻意讓行動失敗。"
+      },
+      {
+       "itemId": "2026-10-23-tnr-russia-civil-death-registry",
+       "note": "「公民死亡」法首度實際點名，霍多爾科夫斯基等 12 名流亡者的在俄存款遭凍結、無法辦理領事業務。"
+      },
+      {
+       "itemId": "2026-10-22-tnr-hrw-tajik-boboev-sentenced",
+       "note": "德國 6 月遣返的塔吉克反對派人士被判 17 年，人權觀察要求德國說明為何不顧風險警告仍予遣返。"
+      },
+      {
+       "itemId": "2026-10-22-tnr-fh-tnr-watch-southeast-asia",
+       "note": "自由之家記錄的 2025 年 126 件實體跨國鎮壓約一半在東南亞，並以越新黨與寮國運動者兩案為例。"
+      }
+     ]
+    },
+    {
+     "section": "fin",
+     "count": 8,
+     "summary": "美國 OCC 發布 GENIUS Act 第一份施行規則，距 2027 年 1 月生效不到三個月。歐盟理事會公布 PSD3 第一讀會立場，英國 FCA 就加密資產監理範圍與 DeFi 指引徵詢意見；亞洲方面，金管會說明虛擬資產子法時程，滙豐港元穩定幣經 PayMe 上線，馬來西亞與泰國央行加入新加坡 BLOOM 計畫。",
+     "highlights": [
+      {
+       "itemId": "2026-10-21-fin-occ-genius-act-final-rule",
+       "note": "GENIUS Act 第一份正式施行規則：準備資產須隨時足額、兩個營業日內贖回，2027 年 1 月 18 日生效。"
+      },
+      {
+       "itemId": "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline",
+       "note": "彭金隆表示九項子法明年第一季前一起公布，穩定幣發行子法仍在跨部會協商；五家銀行試辦虛擬資產保管。"
+      },
+      {
+       "itemId": "2026-10-23-fin-council-psd3-first-reading-position",
+       "note": "PSD3 進入正式通過前的程序，將取代 PSD2 並整併電子貨幣指令，同時修正 MiCA 與交割終局性指令。"
+      },
+      {
+       "itemId": "2026-10-21-fin-fca-cp26-36-perimeter-guidance",
+       "note": "英國新制申請窗口已開，FCA 說明技術服務等新增除外規定；同日另就 DeFi 風險管理發布指引草案。"
+      },
+      {
+       "itemId": "2026-10-23-fin-hsbc-redcoin-payme-launch",
+       "note": "香港首批持牌穩定幣發行人之一的滙豐，透過 PayMe 讓逾 330 萬用戶分批啟用港元穩定幣錢包。"
+      }
+     ]
+    }
+   ],
+   "ahead": [
+    {
+     "date": "2026-10-27",
+     "section": "arb",
+     "court": "LAW",
+     "title": "香港仲裁法改革諮詢截止",
+     "note": "律政司公布專家工作小組建議，包括仲裁協議準據法預設為仲裁地法、仲裁庭簡易處分權、撤銷期限延長等。",
+     "url": "https://www.info.gov.hk/gia/general/202609/28/P2026092800357.htm"
+    },
+    {
+     "date": "2026-10-28",
+     "section": "fin",
+     "court": "FATF",
+     "title": "FATF 全體會議（巴黎，10 月 28 日至 30 日）",
+     "note": "英國擔任主席後的首次全會；會後公布成果。",
+     "url": ""
+    },
+    {
+     "date": "2026-11-10",
+     "section": "pil",
+     "court": "ITLOS",
+     "title": "阿根廷訴英國：臨時措施言詞辯論（11 月 10–11 日）",
+     "note": "庭長 10 月 20 日命令訂定；詳細時程另行公布，全程網路直播。",
+     "url": "https://www.itlos.org/fileadmin/itlos/documents/press_releases_english/PR_402_EN.pdf"
+    },
+    {
+     "date": "2026-11-12",
+     "section": "fin",
+     "court": "EBA",
+     "title": "USDC 開始適用重大電子貨幣代幣雙重監理",
+     "note": "EBA 接手自有資金、準備資產、流動性與復原贖回計畫之監理。",
+     "url": "https://eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union"
+    },
+    {
+     "date": "2026-11-18",
+     "section": "fin",
+     "court": "FCA",
+     "title": "FCA 加密資產監理範圍指引（CP26/36）與 DeFi 指引（GC26/7）意見徵詢截止",
+     "note": "最終指引預計 2027 年 1 月發布。",
+     "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-36-cryptoasset-perimeter-guidance"
+    },
+    {
+     "date": "2026-11-20",
+     "section": "tnr",
+     "court": "IN",
+     "title": "Nikhil Gupta 謀殺錫克族運動者 Pannun 未遂案量刑（紐約南區聯邦法院）",
+     "note": "依 2026 年 8 月報導，量刑日由 9 月 25 日延至 11 月 20 日上午 10 時；日期可能再變動。",
+     "url": "https://www.freepressjournal.in/world/gurpatwant-pannun-assassination-plot-us-court-delays-nikhil-gupta-sentencing-to-november-20"
+    },
+    {
+     "date": "2026-11-30",
+     "section": "pil",
+     "court": "ICC",
+     "title": "杜特蒂危害人類罪審判開庭",
+     "note": "第三審判分庭。",
+     "url": "https://www.icc-cpi.int/news/situation-philippines-rodrigo-roa-duterte-fit-stand-trial"
+    },
+    {
+     "date": "2026-11-30",
+     "section": "pil",
+     "court": "ICC",
+     "title": "國際刑事法院締約國大會第 25 屆會議（至 12 月 7 日）",
+     "note": "因美國簽證限制，由紐約改在海牙舉行；將改選六名法官並審議預算",
+     "url": "https://asp.icc-cpi.int/"
+    },
+    {
+     "date": "2026-11-30",
+     "section": "tnr",
+     "court": "CN",
+     "title": "第 94 屆國際刑警組織（INTERPOL）大會在香港舉行",
+     "note": "11 月 30 日至 12 月 3 日，香港會議展覽中心；首次在香港舉辦。人權團體關注政治性紅色通緝與對海外港人懸紅議題。",
+     "url": "https://www.interpol.int/News-and-Events/Events/2026/94th-INTERPOL-General-Assembly"
+    },
+    {
+     "date": "2026-12-07",
+     "section": "fin",
+     "court": "SEC",
+     "title": "SEC 加密資產保管規則草案意見徵詢截止",
+     "note": "File No. S7-2026-35。",
+     "url": "https://www.sec.gov/rules-regulations/2026/10/s7-2026-35"
+    }
+   ],
+   "note": "本期由本網頁助理依本站 2026 年 10 月 19 日至 25 日收錄的動態整理；各則下方的短評是本網頁助理的觀察，非來源內容。完整內容與出處請點入各則。"
+  },
   {
    "id": "2026-10-12",
    "from": "2026-10-12",
