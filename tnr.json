@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-27T23:23:21+08:00",
-  "lastRunLocal": "2026-10-27 23:23",
+  "lastRun": "2026-10-28T07:13:51+08:00",
+  "lastRunLocal": "2026-10-28 07:13",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：中國 1（政府措施 1）、盧安達 1（事件 1）、巴基斯坦 1（研究報告 1）、其他（坦尚尼亞）1（事件 1）"
+  "lastRunNote": "新增 1 則：其他（坦尚尼亞）1（事件 1）"
  },
  "items": [
   {
@@ -232,7 +232,8 @@
    ],
    "related": [
     "2026-10-22-tnr-hrw-uganda-rwandan-dissident-killed",
-    "2026-10-16-tnr-omct-fidh-east-africa-report"
+    "2026-10-16-tnr-omct-fidh-east-africa-report",
+    "2026-10-27-tnr-mwaipaya-kenya-govt-response"
    ],
    "sources": [
     {
@@ -2299,6 +2300,72 @@
     }
    ],
    "addedAt": "2026-10-24T07:14:57+08:00"
+  },
+  {
+   "id": "2026-10-27-tnr-mwaipaya-kenya-govt-response",
+   "court": "OTHER",
+   "kind": "事件",
+   "caseId": "mwaipaya-kenya-abduction",
+   "jurisdiction": "肯亞",
+   "outlet": "The Chanzo",
+   "outletCode": "",
+   "date": "2026-10-27",
+   "eventDate": "2026-10-27",
+   "importance": 1,
+   "author": "",
+   "title": "坦尚尼亞運動者 Mwaipaya 肯亞失蹤案：肯亞政府稱未接獲正式報案，東非法律與公民團體施壓兩國說明下落",
+   "shortTitle": "肯亞政府稱未接 Mwaipaya 報案",
+   "point": "路透社卻稱見到 10 月 26 日的警方失蹤紀錄，兩者差異未獲解釋",
+   "titleOriginal": "Mwaipaya Disappearance: East African Legal Bodies Press Kenya and Tanzania as Answers Remain Elusive",
+   "caseRef": "",
+   "tldr": "坦尚尼亞反對派運動者 Twaha Mwaipaya 在肯亞被擄走兩天後仍下落不明。肯亞政府發言人辦公室說還沒收到正式報案、正在關注；但路透社報導看到警方已登錄他失蹤。坦尚尼亞駐肯亞高級專員公署也說沒接到相關通報，區域律師與公民團體則持續要求兩國說清楚。",
+   "memo": "依 The Chanzo 2026 年 10 月 27 日報導，坦尚尼亞反對黨 Chadema 運動者 Twaha Mwaipaya 於同年 10 月 25 日在肯亞 Machakos 郡遭擄走後仍下落不明。肯亞政府發言人辦公室於 10 月 27 日向 BBC 斯瓦希里語台表示未接獲正式報案、正持續關注；惟路透社稱已見警方於 10 月 26 日登錄之失蹤紀錄。坦尚尼亞駐奈洛比高級專員公署亦稱未接獲通報。烏干達律師公會及泛非團結網絡（PASNET）等要求查明下落、獨立調查並追究責任，迄未見人身保護令聲請。",
+   "context": "Mwaipaya 曾任 Chadema 青年部（BAVICHA）全國動員協調人，國際特赦組織肯亞分會於 10 月 25 日首先發出警訊，指他在 Kamulu 搭乘計程車時遭分乘三輛車的人帶走（見相關前則）。\nThe Chanzo 引用肯亞憲法第 29 條（禁止任意剝奪人身自由與酷刑），並指出公平審判權與人身保護令屬不得限制的權利。",
+   "facts": [
+    "肯亞政府發言人辦公室 10 月 27 日向 BBC 斯瓦希里語台表示，未接獲正式報案，正在關注此事。",
+    "路透社報導稱見到警方 10 月 26 日登錄 Mwaipaya 失蹤的紀錄；The Chanzo 指出此與發言人說法的差異未獲解釋。",
+    "坦尚尼亞駐奈洛比高級專員公署向 BBC 表示未接獲相關通報；The Chanzo 10 月 27 日查核時，該公署官方管道無公開聲明，坦尚尼亞亦未公開表示要求其返國、對其提出指控或請求引渡。",
+    "另有坦尚尼亞媒體報導該國駐肯亞使館就「擄人指控」發出聲明，但未證實擄人說法；聲明全文未見。",
+    "泛非團結網絡（PASNET）10 月 26 日在奈洛比召開記者會，籲肯亞調查人員追查目擊者描述的車輛，並稱肯亞不應成為區域擄人中心。",
+    "The Chanzo 未能確認警方是否已立案偵查；肯亞國家警察署及刑事調查局截至 10 月 27 日無公開聲明，亦未見人身保護令聲請。"
+   ],
+   "issues": [
+    "肯亞政府對境內外國異議人士遭擄的說明與警方紀錄不一，是否影響其調查義務的履行？",
+    "在無引渡請求的情況下，如人員遭移交坦尚尼亞，是否構成強迫失蹤與規避引渡程序？"
+   ],
+   "holding": "・肯亞政府：未接正式報案，持續關注。\n・路透社：見到 10 月 26 日警方失蹤紀錄。\n・坦尚尼亞駐肯亞高級專員公署：未接獲通報。\n・烏干達律師公會、PASNET、Linda Mwananchi、Chadema：要求說明下落、獨立調查與追責。",
+   "significance": "兩國官方仍未正面回應，下落不明的時間持續拉長。後續觀察肯亞是否正式立案、是否有人身保護令聲請，以及 Mwaipaya 是否在坦尚尼亞境內現身羈押。",
+   "editorNote": "本網頁助理 註：本則依 The Chanzo 2026 年 10 月 27 日報導，路透社與 BBC 的內容係轉引自該報導；坦尚尼亞使館聲明部分依 Tanzania Insight 報導，未能取得聲明全文。目前仍無來源指認行為人。eventDate 為肯亞政府發言人回應 BBC 之日。",
+   "tags": [
+    "跨國鎮壓",
+    "坦尚尼亞",
+    "肯亞",
+    "擄人",
+    "強迫失蹤",
+    "Chadema",
+    "東非"
+   ],
+   "related": [
+    "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction"
+   ],
+   "sources": [
+    {
+     "label": "The Chanzo 報導",
+     "url": "https://thechanzo.com/2026/10/27/mwaipaya-disappearance-east-african-legal-bodies-press-kenya-and-tanzania-as-answers-remain-elusive",
+     "official": false
+    },
+    {
+     "label": "Tanzania Insight 報導（坦尚尼亞使館聲明）",
+     "url": "https://tanzaniainsight.com/tanzania-embassy-issues-statement-on-mwaipaya-abduction-in-nairobi/",
+     "official": false
+    },
+    {
+     "label": "The Citizen 報導",
+     "url": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-following-up-on-alleged-abduction-of-tanzanian-activist-in-kenya-5647142",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-28T07:13:51+08:00"
   }
  ],
  "agenda": [
@@ -2433,7 +2500,7 @@
    "nameOriginal": "Abduction of Twaha Mwaipaya in Kenya",
    "caseRef": "",
    "summary": "坦尚尼亞反對黨 Chadema 前青年幹部 Mwaipaya 於 2026 年 10 月 25 日在肯亞 Machakos 郡遭不明人士擄走，人權團體擔憂屬跨國鎮壓。",
-   "status": "截至 10 月 27 日下落不明，肯亞與坦尚尼亞當局未公開回應。"
+   "status": "截至 10 月 27 日仍下落不明；肯亞政府稱未接正式報案，坦尚尼亞駐肯亞使館稱未獲通報。"
   }
  ]
 }
