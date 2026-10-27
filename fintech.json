@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-27T23:31:19+08:00",
-  "lastRunLocal": "2026-10-27 23:31",
+  "lastRun": "2026-10-28T07:30:22+08:00",
+  "lastRunLocal": "2026-10-28 07:30",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：亞太與其他 1（加拿大草案諮詢 1）"
+  "lastRunNote": "新增 3 則：美國 2（監理指引 1、政策動態 1）、歐盟 1（草案諮詢 1）"
  },
  "items": [
   {
@@ -482,7 +482,8 @@
    "related": [
     "2026-10-06-fin-ecb-cipollone-digital-euro-2029",
     "2026-10-09-fin-council-misp-esma-supervision",
-    "2026-10-06-fin-uk-digit-lead-managers"
+    "2026-10-06-fin-uk-digit-lead-managers",
+    "2026-10-09-fin-esma-ccp-tokenised-collateral-cfe"
    ],
    "sources": [
     {
@@ -1543,7 +1544,9 @@
    ],
    "related": [
     "2026-10-05-fin-cftc-anprm-ctx-cam",
-    "2026-10-01-fin-sec-crypto-custody-proposal"
+    "2026-10-01-fin-sec-crypto-custody-proposal",
+    "2026-10-23-fin-sec-fy2027-exam-priorities",
+    "2026-10-26-fin-okxice-issuer-objections"
    ],
    "sources": [
     {
@@ -1869,6 +1872,207 @@
     }
    ],
    "addedAt": "2026-10-27T23:31:19+08:00"
+  },
+  {
+   "id": "2026-10-09-fin-esma-ccp-tokenised-collateral-cfe",
+   "court": "ESMA",
+   "kind": "草案諮詢",
+   "caseId": "",
+   "jurisdiction": "歐盟",
+   "outlet": "歐洲證券及市場管理局（ESMA）",
+   "outletCode": "ESMA",
+   "date": "2026-10-09",
+   "eventDate": "2026-10-09",
+   "importance": 1,
+   "author": "",
+   "title": "ESMA 就中央交易對手（CCP）接受代幣化擔保品徵詢市場意見，檢視現行制度是否足以因應",
+   "shortTitle": "ESMA 徵詢 CCP 代幣化擔保品意見",
+   "point": "不預設須另立新制，意見徵詢至 2027 年 1 月 15 日",
+   "titleOriginal": "Call for Evidence on central counterparty (CCP) collateral tokenisation",
+   "caseRef": "ESMA91-1505572268-4934",
+   "tldr": "結算機構（CCP）收取的保證金與擔保品，未來可能以代幣化資產或代幣化現金交付。ESMA 向市場蒐集意見，想了解現行 EU 擔保品規則能否直接套用，還是會產生法律、市場或營運上的新問題。",
+   "memo": "歐洲證券及市場管理局於 2026 年 10 月 9 日發布「中央交易對手擔保品代幣化」意見徵詢文件（ESMA91-1505572268-4934），就代幣化資產及代幣化現金於中央交易對手擔保品全生命週期之運用，徵詢法律、市場、營運及基礎設施面之意見，並評估現行歐盟擔保品規範及監理期待是否足以適用，或代幣化擔保品是否引發重大問題；意見徵詢期限至 2027 年 1 月 15 日，ESMA 將於 2027 年第一季評估回饋後決定後續措施。",
+   "context": "歐盟 EMIR 對 CCP 可接受的擔保品種類、評價與流動性設有規範。隨著代幣化證券與 DLT 結算（如歐元體系 Pontes）逐步上線，市場開始探討以代幣化資產或代幣化現金繳交保證金的可行性。\nESMA 已將代幣化列為 2027 年監理工作重點之一，並於 10 月 28 日舉辦代幣化研討會。",
+   "facts": [
+    "ESMA 於 2026 年 10 月 9 日發布意見徵詢文件，文號 ESMA91-1505572268-4934。",
+    "範圍涵蓋代幣化對 CCP 擔保品生命週期的影響、資產與現金代幣化的主要模式、不同使用模式的法律問題，以及市場風險與營運韌性。",
+    "ESMA 表明本次徵詢不預設代幣化需要全新的擔保品制度。",
+    "意見徵詢期限為 2027 年 1 月 15 日；ESMA 將於 2027 年第一季評估回饋。"
+   ],
+   "issues": [
+    "現行 EU 擔保品規範能否適用於代幣化資產與代幣化現金？",
+    "代幣化擔保品在壓力情境下能否及時變現，其法律確定性與營運韌性如何確保？"
+   ],
+   "holding": "・檢視代幣化對 CCP 擔保品收受、評價、移轉與返還等全生命週期的影響。\n・區分資產代幣化與現金代幣化的主要模式，探討不同使用模式的法律考量。\n・評估市場風險與營運韌性問題。\n・核心問題：現行制度是否合適，或代幣化擔保品是否在既有 EU 規範下引發重大問題。",
+   "significance": "結果將影響 EU 結算機構能否、以及在何種條件下接受代幣化資產與代幣化現金作為保證金。ESMA 將於 2027 年第一季依回饋及其他代幣化工作決定是否採取進一步措施；有意參與者應於 2027 年 1 月 15 日前提出意見。",
+   "editorNote": "本網頁助理 註：ESMA 新聞頁面未能直接開啟，發布日期、文號、範圍與期限取自 Global Regulation Tomorrow（Norton Rose Fulbright）之整理及文件檔名。本則雖發布於前次執行之前，因先前未收錄，故於本次補錄。",
+   "tags": [
+    "代幣化",
+    "擔保品",
+    "中央交易對手",
+    "EMIR",
+    "ESMA",
+    "歐盟"
+   ],
+   "related": [
+    "2026-10-21-fin-ecb-cipollone-pontes-appia"
+   ],
+   "sources": [
+    {
+     "label": "ESMA 新聞稿",
+     "url": "https://www.esma.europa.eu/press-news/esma-news/esma-seeks-evidence-use-tokenised-collateral-central-clearing",
+     "official": true
+    },
+    {
+     "label": "ESMA 意見徵詢文件全文（PDF）",
+     "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA91-1505572268-4934_-_Call_for_evidence_tokenisation.pdf",
+     "official": true
+    },
+    {
+     "label": "Global Regulation Tomorrow 摘要",
+     "url": "https://www.regulationtomorrow.com/2026/10/esma-call-for-evidence-ccp-collateral-tokenisation/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-28T07:30:22+08:00"
+  },
+  {
+   "id": "2026-10-23-fin-sec-fy2027-exam-priorities",
+   "court": "SEC",
+   "kind": "監理指引",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "美國證券交易委員會（SEC）",
+   "outletCode": "SEC",
+   "date": "2026-10-23",
+   "eventDate": "2026-10-23",
+   "importance": 1,
+   "author": "",
+   "title": "SEC 公布 2027 會計年度檢查重點，首度將代幣化列入結算機構高風險領域並關注超級智慧（SI）",
+   "shortTitle": "SEC 2027 年檢查重點納入代幣化",
+   "point": "代幣化列為結算機構高風險領域，SCI 檢查亦關注超級智慧",
+   "titleOriginal": "SEC Announces Fiscal Year 2027 Examination Priorities",
+   "caseRef": "Press Release No. 2026-109",
+   "tldr": "SEC 檢查部門每年公布下一年度的檢查重點。2027 年版首次把「代幣化」列為檢查結算機構時的高風險項目，也會檢查交易所等關鍵系統如何因應證券代幣化；另外大幅增加對「超級智慧」等先進 AI 的關注，例如 AI 生成的網路釣魚與深偽詐騙。",
+   "memo": "美國證券交易委員會檢查部門於 2026 年 10 月 23 日公布 2027 會計年度檢查重點（新聞稿 2026-109），於結算機構部分將代幣化與營運等並列為高風險檢查領域，於 Regulation SCI 部分明列證券代幣化、超級智慧、延長交易時間及量子運算為新興趨勢；另將檢視業者運用超級智慧於詐欺防制、網路安全及身分盜用防制之政策與程序。檢查重點文件未直接提及加密資產。",
+   "context": "SEC 檢查部門每年公布檢查重點，揭示其對受監理機構（投資顧問、券商、結算機構、SCI 實體等）的檢查方向。依媒體報導，2026 年版並未列入代幣化。\nSEC 已於 9 月 17 日發布代幣化股票「創新豁免」，並於 1 月 28 日發布代幣化證券職員聲明。",
+   "facts": [
+    "SEC 於 2026 年 10 月 23 日以新聞稿 2026-109 公布 2027 會計年度檢查重點。",
+    "結算機構部分：依 Dodd-Frank 法第八章，系統重要結算機構每年至少檢查一次；高風險領域包括營運與代幣化。",
+    "Regulation SCI 部分：新興趨勢包括超級智慧、證券代幣化、延長交易時間與量子運算，並檢視對雲端及第三方供應商的依賴。",
+    "新興金融科技部分：關注 AI 生成釣魚訊息、深偽語音與影像，以及 AI 於詐欺防制中的運用。",
+    "依 Debevoise 整理，檢查重點文件未使用「加密資產」或「數位資產」字樣。"
+   ],
+   "issues": [
+    "SEC 將以何種標準檢查結算機構處理代幣化證券的風險？",
+    "「超級智慧」作為檢查用語，其範圍與一般 AI 有何區別？"
+   ],
+   "holding": "・結算機構：將代幣化列為與違約管理、復原與退場、營運並列的高風險檢查領域。\n・Regulation SCI：檢查 SCI 實體如何因應證券代幣化、超級智慧、延長交易時間及量子運算。\n・新興技術：檢視業者運用超級智慧的監控政策，以及演算法建議是否符合投資人屬性。\n・身分盜用防制：要求更新計畫以因應超級智慧與憑證遭竊風險。",
+   "significance": "代幣化首度成為 SEC 檢查重點，顯示代幣化證券已從規則制定進入檢查實務；結算機構與 SCI 實體應準備相關控制與文件。檢查重點未提加密資產，與前幾年的寫法不同，值得留意。",
+   "editorNote": "本網頁助理 註：「2026 年版未列入代幣化」係依媒體報導及 Debevoise 分析，本網頁助理未逐一比對前一年度文件。",
+   "tags": [
+    "代幣化",
+    "人工智慧",
+    "檢查重點",
+    "結算機構",
+    "SEC",
+    "美國"
+   ],
+   "related": [
+    "2026-10-05-fin-wilmerhale-sec-innovation-exemption"
+   ],
+   "sources": [
+    {
+     "label": "SEC 新聞稿（2026-109）",
+     "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+     "official": true
+    },
+    {
+     "label": "SEC 2027 年檢查重點全文（PDF）",
+     "url": "https://www.sec.gov/files/2027-exam-priorities.pdf",
+     "official": true
+    },
+    {
+     "label": "Debevoise & Plimpton 分析",
+     "url": "https://www.debevoise.com/insights/publications/2026/10/secs-2027-exam-priorities-what-registrants",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/sec-tokenization-risks-2027-examination-priorities/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-28T07:30:22+08:00"
+  },
+  {
+   "id": "2026-10-26-fin-okxice-issuer-objections",
+   "court": "SEC",
+   "kind": "政策動態",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "CoinDesk",
+   "outletCode": "CD",
+   "date": "2026-10-27",
+   "eventDate": "2026-10-26",
+   "importance": 1,
+   "author": "",
+   "title": "SEC 創新豁免下首個代幣化股票平台 OKXICE 更新公告：已有 26 家發行公司行使反對權",
+   "shortTitle": "26 家公司拒絕 OKXICE 代幣化其股票",
+   "point": "IBM、Oracle、Intel 等依創新豁免 30 日反對機制退出",
+   "titleOriginal": "Intel, Oracle, IBM join growing list of firms objecting to OKX-ICE tokenized stock plans",
+   "caseRef": "",
+   "tldr": "SEC 9 月的「創新豁免」允許鏈上平台交易第三方發行的代幣化股票，但必須先通知原發行公司，公司 30 天內反對就不能交易。OKX 與洲際交易所（ICE）合資的 OKXICE 10 月 26 日更新公告，顯示已有 26 家公司反對，包括微軟、Alphabet、高盛、IBM、Oracle、Intel 等。",
+   "memo": "依 CoinDesk 2026 年 10 月 27 日報導，OKX 與洲際交易所合資之代幣化證券交易場所 OKXICE 於 2026 年 10 月 26 日更新公開通知，揭露依美國證券交易委員會 2026 年 9 月 17 日創新豁免令之發行人通知及 30 日書面反對機制，已有 26 家發行公司反對其第三方代幣化股票於該場所交易，新增者包括 IBM、Oracle、Intel 及 IonQ；依豁免條件，經發行人適時反對之股票不得於該場所交易。",
+   "context": "SEC 於 2026 年 9 月 17 日發布代幣化股票創新豁免令，期限至 2031 年 9 月 17 日。第三方發行的代幣化股票，場所須先通知原發行公司並等待至少 30 個日曆日；公司於期間內書面反對者不得交易，場所須於五個營業日內更新公告。\nOKXICE 於 10 月 4 日首次公告，列出 62 家公司的 63 檔股票，計畫於 OKX 的 XLayer 區塊鏈上以許可制 Uniswap v4 流動性池交易。",
+   "facts": [
+    "OKXICE 於 2026 年 10 月 26 日發布更新公告，反對的發行公司由 10 月 23 日的 22 家增至 26 家。",
+    "新增反對者為 IBM、Oracle、Intel 與 IonQ；先前反對者包括微軟、Alphabet、高盛、博通、Verizon、富國銀行、Arm、Intuit、Moderna、思科、Marvell 等。",
+    "依 CoinDesk 統計，原名單 62 家公司中已有 23 家（約 37%）反對。",
+    "公告未說明各公司反對理由，亦未載明上線日期。",
+    "依 crypto.news 報導，SIFMA 於 10 月 19 日致函 SEC，主張應改為須取得發行人積極同意，並建議集中反對機制與 90 日反對期間。"
+   ],
+   "issues": [
+    "發行人反對權是否使第三方代幣化股票的商業模式難以成立？",
+    "應採「未反對即可交易」或「須積極同意」機制？"
+   ],
+   "holding": "・創新豁免的發行人通知與 30 日反對機制首次大規模運作。\n・經適時反對的股票不得在該場所交易；未反對者在符合其他條件下可交易。\n・反對不影響發行公司自行發行代幣化股票。",
+   "significance": "大型上市公司普遍行使反對權，顯示發行人對第三方代幣化其股票有所保留，可能影響 SEC 未來正式規則採「反對」或「同意」模式。後續留意 OKXICE 實際上線、SEC 對 SIFMA 建議的回應，以及其他平台的申請。",
+   "editorNote": "本網頁助理 註：本則依 CoinDesk、Unchained 報導及 OKXICE 公告整理；反對公司名單以報導所列為準，本網頁助理未逐一核對公告全部內容。SIFMA 意見函內容取自 crypto.news 報導。",
+   "tags": [
+    "代幣化",
+    "代幣化股票",
+    "創新豁免",
+    "OKXICE",
+    "SEC",
+    "美國"
+   ],
+   "related": [
+    "2026-10-05-fin-wilmerhale-sec-innovation-exemption"
+   ],
+   "sources": [
+    {
+     "label": "OKXICE 公開通知（2026 年 10 月 26 日，PDF）",
+     "url": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.10.26.pdf",
+     "official": false
+    },
+    {
+     "label": "CoinDesk 報導",
+     "url": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+     "official": false
+    },
+    {
+     "label": "Unchained 報導",
+     "url": "https://unchainedcrypto.com/oracle-ibm-and-intel-have-opted-out-of-okx-ice-stock-tokens-venues-own-notice-shows/",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/ibm-oracle-intel-okxice-tokenized-stock-objections-26/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-28T07:30:22+08:00"
   }
  ],
  "agenda": [
@@ -1973,6 +2177,16 @@
    "caseId": "mica-stablecoin-supervision"
   },
   {
+   "id": "2027-01-15-esma-ccp-tokenised-collateral-deadline",
+   "date": "2027-01-15",
+   "court": "ESMA",
+   "title": "ESMA CCP 代幣化擔保品意見徵詢截止",
+   "note": "ESMA 預定 2027 年第一季評估回饋。",
+   "url": "https://www.esma.europa.eu/press-news/esma-news/esma-seeks-evidence-use-tokenised-collateral-central-clearing",
+   "relatedId": "2026-10-09-fin-esma-ccp-tokenised-collateral-cfe",
+   "caseId": ""
+  },
+  {
    "id": "2027-01-18-occ-genius-act-effective",
    "date": "2027-01-18",
    "court": "OCC",
@@ -2014,7 +2228,7 @@
    "nameOriginal": "US crypto market structure (CLARITY Act; SEC and CFTC rulemaking)",
    "caseRef": "H.R. 3633",
    "summary": "眾議院 2025 年 7 月通過 CLARITY Act，參議院 2026 年 9 月 15 日未能終結辯論；SEC 與 CFTC 改以各自的規則制定與豁免推進加密資產市場監理。",
-   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）。"
+   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 已有 26 家發行公司行使反對權。"
   },
   {
    "id": "icba-v-occ-trust-charters",
