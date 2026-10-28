@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-28T07:01:12+08:00",
-  "lastRunLocal": "2026-10-28 07:01",
+  "lastRun": "2026-10-28T23:01:17+08:00",
+  "lastRunLocal": "2026-10-28 23:01",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 2 則：商務仲裁 2（立法動態 1、實務評論 1）；投資仲裁本次未發現新動態",
+  "lastRunNote": "新增 2 則：商務仲裁 1（案件動態 1）、投資仲裁 1（仲裁判斷 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -3263,6 +3263,145 @@
     }
    ],
    "addedAt": "2026-10-28T07:01:12+08:00"
+  },
+  {
+   "id": "2026-10-27-arb-rotalin-moldova-ect-award",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "investment",
+   "caseId": "rotalin-v-moldova",
+   "jurisdiction": "摩爾多瓦",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-10-27",
+   "eventDate": "2026-10-02",
+   "importance": 2,
+   "author": "",
+   "title": "ICSID 附加機制仲裁庭駁回 Rotalin 依能源憲章條約對摩爾多瓦的請求，認定天然氣管制措施未違反投資保障",
+   "shortTitle": "Rotalin 訴摩爾多瓦：ECT 求償全數駁回",
+   "point": "天然氣價格上限與市場管制未違反能源憲章條約，投資人須負擔全部仲裁費用",
+   "titleOriginal": "RTI Rotalin Gas Trading AG and Rotalin Gaz Trading S.R.L. v. Republic of Moldova (ICSID Case No. ARB(AF)/22/4), Award",
+   "caseRef": "ICSID Case No. ARB(AF)/22/4",
+   "tldr": "一家列支敦斯登天然氣貿易商及其摩爾多瓦子公司，主張摩爾多瓦的零售價格上限與市場管制讓投資血本無歸，依能源憲章條約求償。仲裁庭在 2026 年 10 月 2 日駁回全部請求，認為問題主要出在投資人自己的經營行為，並要投資人負擔全部仲裁費用。",
+   "memo": "依 ICSID 附加機制仲裁規則組成之仲裁庭（主任仲裁人 Maxi Scherer，仲裁人 Inka Hanefeld、Jean Engelmayer Kalicki）於 2026 年 10 月 2 日就 RTI Rotalin Gas Trading AG 等訴摩爾多瓦案（ICSID Case No. ARB(AF)/22/4）作成仲裁判斷，認定摩爾多瓦於區域能源危機期間採取之零售價格上限及市場管制措施未違反能源憲章條約之投資保障義務，駁回申請人逾 2,410 萬歐元之損害賠償請求，並駁回撤銷能源主管機關約 197 萬歐元罰鍰之請求，命申請人負擔全部法律及行政費用。",
+   "context": "申請人為列支敦斯登公司 RTI Rotalin Gas Trading AG 及其摩爾多瓦子公司 Rotalin Gaz Trading S.R.L.，在摩爾多瓦從事天然氣供應業務。兩者於 2022 年 6 月依能源憲章條約（ECT）提起仲裁，ICSID 於 2022 年 8 月 3 日登錄，適用 ICSID 附加機制仲裁規則（摩爾多瓦雖為 ICSID 公約締約國，但申請人之一為列支敦斯登公司，列支敦斯登非公約締約國）。\n仲裁庭於 2022 年 12 月組成；2023 年 10 月決定將管轄權異議併入實體審理，並曾就申請人兩次暫時性措施聲請及其費用擔保聲請作成決定；2024 年 12 月在日內瓦舉行管轄權與實體言詞辯論。",
+   "facts": [
+    "申請人主張，摩爾多瓦對零售天然氣價格設定上限並採取其他市場管制，侵蝕其投資並阻礙市場自由化，求償逾 2,410 萬歐元（摩爾多瓦媒體報導約 4.71 億列伊）。",
+    "摩爾多瓦國家能源管制署（ANRE）曾對 Rotalin Gaz Trading 處以約 197 萬歐元罰鍰，申請人並請求仲裁庭撤銷該罰鍰。",
+    "仲裁庭於 2026 年 10 月 2 日作成判斷；摩爾多瓦官方於 10 月 7 日對外說明結果。"
+   ],
+   "issues": [
+    "區域能源危機期間的價格上限與市場管制措施，是否違反能源憲章條約第 10 條等投資保障義務（含公平公正待遇）。",
+    "投資人所受損失應歸因於地主國措施，還是投資人自身行為。",
+    "仲裁費用之分擔。"
+   ],
+   "holding": "依摩爾多瓦媒體報導：仲裁庭認定摩爾多瓦在區域能源衝擊期間採取的管制措施未違反能源憲章條約對外國投資人的保障，駁回全部損害賠償請求（with prejudice），亦駁回撤銷能源管制署罰鍰的請求，罰鍰維持有效。\n費用：申請人須負擔全部法律及行政費用。\n依 IAReporter 標題：仲裁庭將申請人的困境主要歸咎於其自身行為。",
+   "significance": "本案為能源危機期間地主國價格管制措施的又一則地主國勝訴判斷。因適用附加機制規則，判斷不適用 ICSID 公約第 52 條之撤銷程序，而須向仲裁地法院聲請撤銷；GAR 報導申請人表示可能提起撤銷程序。",
+   "editorNote": "本網頁助理 註：本則依摩爾多瓦國營媒體 Moldova 1（2026 年 10 月 7 日）、GAR 與 IAReporter（2026 年 10 月 27 日刊出判斷內容分析）之公開部分撰寫，尚未取得判斷原文；GAR 與 IAReporter 全文需訂閱，僅能看到標題與摘要。本站依 IAReporter 報導日期列入；判斷結果首次見報為 2026 年 10 月 6 日至 7 日。\n本網頁助理 註：求償金額來源不一：Moldova 1 稱逾 2,410 萬歐元，另有媒體標題稱「6,200 萬美元的爭議」；截至本次更新，ICSID 案件網頁仍顯示案件審理中，最後一筆程序紀錄為 2026 年 1 月 17 日雙方提出費用陳述。\n以下為本網頁助理補充，非來源內容：仲裁地未見於公開資料；言詞辯論在日內瓦舉行，不代表仲裁地即為日內瓦。",
+   "tags": [
+    "ICSID",
+    "ICSID附加機制",
+    "能源憲章條約",
+    "摩爾多瓦",
+    "列支敦斯登",
+    "天然氣",
+    "價格管制",
+    "公平公正待遇",
+    "仲裁費用"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 案件資料頁",
+     "url": "https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB%28AF%29%2F22%2F4",
+     "official": true
+    },
+    {
+     "label": "Moldova 1 報導（2026-10-07）",
+     "url": "https://moldova1.md/p/87092/moldova-defeats-24m-arbitration-claim-by-gas-suppliers",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導（判斷內容）",
+     "url": "https://www.iareporter.com/articles/uncovered-icsid-tribunal-finds-no-breach-of-ect-in-gas-market-dispute-with-moldova-pinning-claimants-troubles-largely-on-their-own-conduct/",
+     "official": false
+    },
+    {
+     "label": "GAR 報導",
+     "url": "https://globalarbitrationreview.com/article/moldova-beats-gas-distributors-ect-claim",
+     "official": false
+    },
+    {
+     "label": "italaw 案件頁",
+     "url": "https://www.italaw.com/cases/10263",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-28T23:01:17+08:00"
+  },
+  {
+   "id": "2026-10-26-arb-dalia-leviathan-lcia-claim",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "commercial",
+   "caseId": "dalia-v-leviathan-partners",
+   "jurisdiction": "以色列",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-10-26",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "以色列電力業者 Dalia 就 67 億美元 Leviathan 天然氣供應契約遭終止，向 LCIA 對 NewMed 與 Ratio 提起仲裁",
+   "shortTitle": "Dalia 就 Leviathan 供氣契約提 LCIA 仲裁",
+   "point": "賣方以先決條件未成就終止 20 年契約，Dalia 主張競爭主管機關已如期核准，終止無效",
+   "titleOriginal": "LCIA hears claim over multibillion Israeli gas supply deal; Israeli Power Producer Launches Arbitration vs Chevron's Leviathan Partners",
+   "caseRef": "",
+   "tldr": "以色列電力公司 Dalia 原本與地中海 Leviathan 氣田的兩家以色列合夥人簽了 20 年供氣契約，預估總值約 67 億美元。賣方 9 月以先決條件沒在期限內成就為由終止契約，Dalia 認為競爭主管機關其實已如期放行，於是向倫敦國際仲裁院（LCIA）提起仲裁，請求確認終止無效。",
+   "memo": "以色列電力業者 Dalia Energies Ltd 於 2026 年 10 月間向倫敦國際仲裁院（LCIA）對 Leviathan 氣田合夥人 NewMed Energy LP 及 Ratio Energies LP 提起仲裁，爭執雙方 20 年期天然氣供應契約（預估總收入約 67 億美元）之終止效力。賣方於 2026 年 9 月 25 日以先決條件未於約定期限內成就為由終止契約；Dalia 主張以色列競爭主管機關已於約定期間內核准該交易，契約已依約生效，請求確認終止通知違約或違法而無效，並保留依契約或準據法請求其他救濟之權利。賣方否認其主張，認為終止合法。",
+   "context": "Leviathan 為以色列外海地中海大型氣田，由 Chevron 擔任作業者（持股 39.66%），NewMed Energy 持股 45.34%，Ratio Energies 持股 15%。\n2026 年 5 月，NewMed 與 Ratio 與 Dalia 簽訂 20 年供氣契約，供應 Dalia 兩座尚未興建的複循環電廠（Ashdod 與 Tzafit，各約 850MW）。契約生效以取得融資及以色列競爭主管機關核准等先決條件為前提。\n仲裁地、準據法及仲裁庭組成，公開資料未見。",
+   "facts": [
+    "契約自 2030 年起每年供氣最多約 13 億立方公尺，2034 或 2035 年起增至約 17 億立方公尺；Globes 報導價格約每百萬英熱單位 4.7 美元，2041 年可重新議價（上下 10%）。",
+    "賣方依 Delek 集團子公司 5 月 20 日公告，預估契約總收入約 67 億美元，其中約 50 億美元歸 NewMed。",
+    "NewMed 於 2026 年 9 月 25 日公告其與 Ratio 終止契約，理由為約定期限屆滿時先決條件（融資核准及競爭主管機關核准）未成就；Dalia 隨即表示終止無效。",
+    "Dalia 已向 LCIA 提起仲裁；GAR 與 Rigzone 於 2026 年 10 月 26 日報導，提起日期未見公開。",
+    "NewMed 與 Ratio 表示終止通知合法，契約已經終止。"
+   ],
+   "issues": [
+    "契約先決條件（競爭主管機關核准、融資核准）是否已於約定期限內成就。",
+    "賣方終止通知是否違反契約或準據法而無效。"
+   ],
+   "holding": "仲裁程序剛開始，尚無程序決定或判斷。Dalia 請求確認終止通知違反契約、構成違約或違反準據法而無效，並主張競爭主管機關已在約定期間內核准交易，契約已依約生效；亦可能依契約或準據法請求其他救濟。",
+   "significance": "本案涉及以色列最大氣田之一的長期國內供氣安排，金額龐大，也牽動 Dalia 兩座新電廠的興建計畫。後續觀察重點包括仲裁庭組成、是否聲請暫時性措施，以及雙方是否另行和解或重新議約。",
+   "editorNote": "本網頁助理 註：本則依 GAR 報導摘要（全文需訂閱）、Rigzone 與 Globes 報導撰寫；Rigzone 所述 Dalia 主張依其向證券交易所提出之文件。仲裁提起日期、仲裁地與準據法均未見公開資料。\n本網頁助理 註：Globes 9 月 27 日報導稱，產業消息認為競爭主管機關態度大致正面但尚未表態；Dalia 則在仲裁中主張主管機關已如期核准，兩者時間點不同，尚待後續資料釐清。",
+   "tags": [
+    "LCIA",
+    "以色列",
+    "天然氣",
+    "長期供氣契約",
+    "契約終止",
+    "先決條件",
+    "能源"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "GAR 報導",
+     "url": "https://globalarbitrationreview.com/article/lcia-hears-claim-over-multibillion-israeli-gas-supply-deal",
+     "official": false
+    },
+    {
+     "label": "Rigzone 報導",
+     "url": "https://www.rigzone.com/news/israeli_power_producer_launches_arbitration_vs_chevrons_leviathan_partners-26-oct-2026-184927-article/",
+     "official": false
+    },
+    {
+     "label": "Globes 報導（契約終止）",
+     "url": "https://en.globes.co.il/en/article-Leviathan-partners-cancel-67b-deal-with-Dalia-Energy-1001557639",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-28T23:01:17+08:00"
   }
  ],
  "agenda": [
@@ -3571,6 +3710,30 @@
    "caseRef": "",
    "summary": "墨西哥 América Móvil 指控智利與競爭對手 WOM 的 5G 建設和解協議構成歧視性待遇，依投資條約向智利發出爭端通知。",
    "status": "智利於 2026 年 10 月第一週收到爭端通知，90 日協商期進行中，尚未提起仲裁。"
+  },
+  {
+   "id": "rotalin-v-moldova",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID（附加機制）",
+   "name": "Rotalin 訴摩爾多瓦（天然氣管制案）",
+   "nameOriginal": "RTI Rotalin Gas Trading AG and Rotalin Gaz Trading S.R.L. v. Republic of Moldova",
+   "caseRef": "ICSID Case No. ARB(AF)/22/4",
+   "summary": "列支敦斯登天然氣貿易商及其摩爾多瓦子公司依能源憲章條約，主張摩爾多瓦的價格上限與市場管制損害其投資。",
+   "status": "仲裁庭於 2026 年 10 月 2 日駁回全部請求並命申請人負擔費用，申請人表示可能聲請撤銷。"
+  },
+  {
+   "id": "dalia-v-leviathan-partners",
+   "type": "案件",
+   "court": "NEWS",
+   "field": "commercial",
+   "forum": "倫敦國際仲裁院（LCIA）",
+   "name": "Dalia 訴 NewMed、Ratio（Leviathan 供氣契約）",
+   "nameOriginal": "Dalia Energies Ltd v. NewMed Energy LP and Ratio Energies LP",
+   "caseRef": "",
+   "summary": "以色列電力業者 Dalia 爭執 Leviathan 氣田合夥人終止 20 年、約 67 億美元天然氣供應契約的效力。",
+   "status": "Dalia 已於 2026 年 10 月向 LCIA 提起仲裁，請求確認終止無效。"
   }
  ]
 }
