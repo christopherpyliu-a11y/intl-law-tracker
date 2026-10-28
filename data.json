@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-28T07:11:20+08:00",
-  "lastRunLocal": "2026-10-28 07:11",
+  "lastRun": "2026-10-28T23:03:31+08:00",
+  "lastRunLocal": "2026-10-28 23:03",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 3 則：ICJ 1、ICC 2"
+  "lastRunNote": "新增 1 則：ICC 1"
  },
  "items": [
   {
@@ -3905,7 +3905,8 @@
    "related": [
     "2026-10-21-icc-duterte-incident-57",
     "2026-10-08-icc-duterte-fitness",
-    "2026-10-27-icc-duterte-defence-rule68-2b"
+    "2026-10-27-icc-duterte-defence-rule68-2b",
+    "2026-10-28-icc-duterte-clrv-rule68-2b"
    ]
   },
   {
@@ -4420,6 +4421,70 @@
    ],
    "addedAt": "2026-10-28T07:11:20+08:00",
    "related": [
+    "2026-10-23-icc-duterte-rule68-requests",
+    "2026-10-28-icc-duterte-clrv-rule68-2b"
+   ]
+  },
+  {
+   "id": "2026-10-28-icc-duterte-clrv-rule68-2b",
+   "court": "ICC",
+   "kind": "程序進展",
+   "caseId": "icc-duterte",
+   "date": "2026-10-28",
+   "eventDate": "2026-10-27",
+   "importance": 1,
+   "title": "杜特蒂案：被害人共同法律代理人支持檢察官聲請，主張三名證人的先前錄製證詞可不經到庭而採用",
+   "shortTitle": "杜特蒂案被害人代理人挺檢方採用證詞",
+   "point": "主張三名證人陳述不涉被告本人行為、具可信度，可依規則第 68 條第 2 項 b 款採用",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte – Common Legal Representatives of Victims' observations on the Prosecution request under rule 68(2)(b)",
+   "caseRef": "ICC-01/21-01/25",
+   "tldr": "檢察官想直接採用三名證人先前的錄製陳述，讓他們不必出庭作證。杜特蒂的律師前一天已反對其中兩人。10 月 27 日，代表被害人的律師則表態支持檢方，認為這些陳述談的是中呂宋的警方殺人事件、不是杜特蒂本人的行為，且是自願作成、可信，採用可節省審判時間。法官還沒決定。",
+   "memo": "國際刑事法院杜特蒂案被害人共同法律代理人 Gilbert Andres、Joel Butuyan 及 Paolina Massidda 於 2026 年 10 月 27 日向第三審判分庭提出意見書，支持檢察官依《程序及證據規則》第 68 條第 2 項 b 款，於證人 P-1370、P-1393 及 P-1416 不到庭之情形下採用其先前錄製證詞，理由為該等陳述主要涉及中呂宋地區之殺人事件及危害人類罪之脈絡要件，屬第三項罪狀範圍而非被告本人之行為，且係於調查中自願作成而具可信度，採用有助於審判迅速及證人保護。辯護方已於前一日反對其中二人部分。審判分庭尚未裁定。",
+   "context": "杜特蒂被控於掃毒戰爭中犯下謀殺及謀殺未遂等危害人類罪，審判預定 2026 年 11 月 30 日開始。檢察官除依《程序及證據規則》第 68 條第 3 項聲請採用多名到庭證人的先前錄製證詞外，另依第 68 條第 2 項 b 款聲請在三名證人不到庭的情形下採用其陳述（見本案前則）。\n辯護方已於 10 月 26 日反對其中 P-1393、P-1416 兩人部分，主張二人陳述涉及獎金與第三項罪狀事件等核心爭點，必須到庭接受詰問；對 P-1370 則不表反對。本件為被害人方在同一爭點上的意見。",
+   "facts": [
+    "檢察官聲請依第 68 條第 2 項 b 款，採用證人 P-1370、P-1393、P-1416 的先前錄製證詞及相關文件，免除其到庭。",
+    "辯護方於 2026 年 10 月 26 日反對 P-1393、P-1416 部分，不反對 P-1370 部分。",
+    "被害人共同法律代理人於 2026 年 10 月 27 日提出約八頁的意見書，請求審判分庭准許檢察官的聲請。",
+    "依報導，意見書指出相關陳述主要涉及中呂宋地區被指稱的法外處決，與危害人類罪的脈絡要件及第三項罪狀所指殺害涉毒嫌疑人的政策有關。"
+   ],
+   "issues": [
+    "《程序及證據規則》第 68 條第 2 項 b 款的要件：證詞是否涉及被告本人的行為與行止、是否具充分可信度，以及採用是否損及被告權利。",
+    "被害人參與訴訟的權利（《羅馬規約》第 68 條第 3 項）與被告詰問權（第 67 條第 1 項第 e 款）、審判效率之間的平衡。"
+   ],
+   "holding": "這是被害人方對檢察官聲請提出的意見，不是法院裁判。依報導，被害人代理人的主要理由為：\n・相關陳述看來並不涉及杜特蒂本人的行為，而是佐證其他證人的說法，主要關於危害人類罪的脈絡要件。\n・陳述涉及中呂宋地區的殺人事件，屬第三項罪狀範圍。\n・陳述是在檢察官於菲律賓調查期間自願錄製，具充分可信度，採用不致損害被告權利。\n・採用符合被害人享有公正、迅速審判的利益，並可節省法院時間與資源、保護證人。\n審判分庭尚未就檢察官聲請、辯護方的反對及被害人意見作出裁定。",
+   "significance": "檢、辯、被害人三方已就 P-1393、P-1416 兩名證人是否須到庭表明立場。審判分庭的裁定將顯示其在杜特蒂年邁、有意限制開庭時數的情況下，如何權衡審判效率與被告的詰問權，並影響 11 月 30 日開審後的證據範圍。",
+   "editorNote": "本網頁助理 註：本則依 GMA News 與 Daily Tribune 報導撰寫，未能取得國際刑事法院公開的被害人意見書，也無法讀取國際刑事法院官方網站；titleOriginal 為本網頁助理依報導內容擬定的描述，並非文件正式名稱。GMA News 報導未載明所依據的條文，Daily Tribune 報導則稱為第 68 條第 2 項 b 款，與辯護方回應所涉聲請一致。",
+   "tags": [
+    "國際刑事法院",
+    "菲律賓",
+    "杜特蒂",
+    "危害人類罪",
+    "掃毒戰爭",
+    "先前錄製證詞",
+    "規則第68條",
+    "證據",
+    "被害人參與"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院新聞稿：杜特蒂具受審能力（背景）",
+     "url": "https://www.icc-cpi.int/news/situation-philippines-rodrigo-roa-duterte-fit-stand-trial",
+     "official": true
+    },
+    {
+     "label": "GMA News 報導",
+     "url": "https://gmanetwork.com/news/topstories/nation/1007425/icc-victims-ask-chamber-to-admit-witness-testimony-vs-rodrigo-duterte/story",
+     "official": false
+    },
+    {
+     "label": "Daily Tribune 報導",
+     "url": "https://tribune.net.ph/2026/10/28/duterte-icc-trial-victims-defend-recorded-testimonies",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-28T23:03:31+08:00",
+   "related": [
+    "2026-10-27-icc-duterte-defence-rule68-2b",
     "2026-10-23-icc-duterte-rule68-requests"
    ]
   }
@@ -4667,7 +4732,7 @@
    "nameOriginal": "The Prosecutor v. Rodrigo Roa Duterte",
    "caseRef": "ICC-01/21",
    "summary": "菲律賓前總統杜特蒂被控三項危害人類罪。",
-   "status": "已認定具受審能力；檢辯雙方正就採用證人先前錄製證詞攻防，狀態會議訂於 11 月 2 日，審判預定於 2026 年 11 月 30 日開始。"
+   "status": "已認定具受審能力；檢、辯及被害人方正就採用證人先前錄製證詞攻防，狀態會議訂於 11 月 2 日，審判預定於 2026 年 11 月 30 日開始。"
   },
   {
    "id": "icc-afghanistan",
