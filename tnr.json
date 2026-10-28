@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-28T23:15:59+08:00",
-  "lastRunLocal": "2026-10-28 23:15",
+  "lastRun": "2026-10-29T07:19:27+08:00",
+  "lastRunLocal": "2026-10-29 07:19",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：中國 1（政府措施 1）、其他（坦尚尼亞）1（司法案件 1）"
+  "lastRunNote": "新增 4 則：中國 2（司法案件 1、立法動態 1）、伊朗 1（司法案件 1）、其他（坦尚尼亞）1（調查報導 1）"
  },
  "items": [
   {
@@ -234,7 +234,8 @@
     "2026-10-22-tnr-hrw-uganda-rwandan-dissident-killed",
     "2026-10-16-tnr-omct-fidh-east-africa-report",
     "2026-10-27-tnr-mwaipaya-kenya-govt-response",
-    "2026-10-28-tnr-mwaipaya-habeas-corpus"
+    "2026-10-28-tnr-mwaipaya-habeas-corpus",
+    "2026-10-28-tnr-afp-kenya-dissident-refuge"
    ],
    "sources": [
     {
@@ -743,7 +744,8 @@
     "革命衛隊"
    ],
    "related": [
-    "2026-10-06-tnr-london-iran-international-trial"
+    "2026-10-06-tnr-london-iran-international-trial",
+    "2026-10-27-tnr-iran-intl-trial-prosecution-cross"
    ],
    "sources": [
     {
@@ -865,7 +867,8 @@
     "2026-10-21-tnr-taiwan-huang-yi-hao-indictment",
     "2026-10-23-tnr-taiwan-supreme-prosecutors-crackdown",
     "2026-10-25-tnr-taiwan-hk-residency-revocation",
-    "2026-10-27-tnr-taiwan-mofa-2p1r"
+    "2026-10-27-tnr-taiwan-mofa-2p1r",
+    "2026-10-26-tnr-taiwan-tnr-bills-legislature"
    ],
    "sources": [
     {
@@ -1749,7 +1752,8 @@
    "related": [
     "2026-10-21-tnr-taiwan-huang-yi-hao-indictment",
     "2026-10-22-tnr-taiwan-councils-motions",
-    "2026-10-22-tnr-taiwan-ey-candidate-protection"
+    "2026-10-22-tnr-taiwan-ey-candidate-protection",
+    "2026-10-26-tnr-taiwan-tnr-bills-legislature"
    ],
    "sources": [
     {
@@ -1865,7 +1869,8 @@
    ],
    "related": [
     "2026-10-08-tnr-reuters-iran-hunt-abroad",
-    "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony"
+    "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony",
+    "2026-10-27-tnr-iran-intl-trial-prosecution-cross"
    ],
    "sources": [
     {
@@ -2349,7 +2354,8 @@
    ],
    "related": [
     "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction",
-    "2026-10-28-tnr-mwaipaya-habeas-corpus"
+    "2026-10-28-tnr-mwaipaya-habeas-corpus",
+    "2026-10-28-tnr-afp-kenya-dissident-refuge"
    ],
    "sources": [
     {
@@ -2482,7 +2488,8 @@
    ],
    "related": [
     "2026-10-27-tnr-mwaipaya-kenya-govt-response",
-    "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction"
+    "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction",
+    "2026-10-28-tnr-afp-kenya-dissident-refuge"
    ],
    "sources": [
     {
@@ -2492,6 +2499,267 @@
     }
    ],
    "addedAt": "2026-10-28T23:15:59+08:00"
+  },
+  {
+   "id": "2026-10-09-tnr-thailand-bai-zhaodong-extradition",
+   "court": "CN",
+   "kind": "司法案件",
+   "caseId": "bai-zhaodong-thailand-extradition",
+   "jurisdiction": "泰國",
+   "outlet": "無國界記者、保護衛士（Safeguard Defenders）",
+   "outletCode": "SD",
+   "date": "2026-10-09",
+   "eventDate": "2026-10-09",
+   "importance": 2,
+   "author": "",
+   "title": "泰國應中國請求啟動引渡聯合國認定難民的中國調查記者 Bai Zhaodong，曼谷法院駁回其對羈押的異議",
+   "shortTitle": "泰國啟動引渡中國記者 Bai Zhaodong ",
+   "point": "法院隔日駁回羈押異議，引渡聽證訂於 2027 年 1 月 25 日",
+   "titleOriginal": "RSF, Safeguard Defenders urge Thailand to halt deportation as extradition process begins for Chinese journalist; Thai court rules Chinese journalist Bai Zhaodong's arbitrary detention lawful",
+   "caseRef": "",
+   "tldr": "長年報導中國官員貪腐、已獲聯合國難民署認定為難民的中國記者 Bai Zhaodong，自 2026 年 1 月起在泰國遭拘留，原本已安排前往第三國。10 月 8 日泰國依中國請求啟動引渡程序，隔天法院駁回他對羈押的異議。人權團體擔心他若被送回中國會遭迫害。",
+   "memo": "依無國界記者與保護衛士 2026 年 10 月 8 日聲明及 Manushya 基金會同年 10 月 9 日聲明，經聯合國難民署認定為難民之中國調查記者Bai Zhaodong，於 10 月 8 日在未事先通知本人及律師之情形下被解送泰國法院，泰方依中國之引渡請求啟動程序並將其移押曼谷候審監獄；10 月 9 日法院駁回其就繼續羈押提出之異議。依 Manushya 基金會所述，中方係以勒索及行賄罪名請求引渡。引渡聽證訂於 2027 年 1 月 25 日。人權團體主張此舉違反不遣返原則，要求停止引渡並准其前往第三國安置。",
+   "context": "Bai Zhaodong 為資深中國調查記者，長年報導中共官員貪腐，2023 年離開中國後抵達泰國，並獲聯合國難民署認定為難民。依無國界記者所述，他自 2026 年 1 月起被關押於曼谷移民拘留中心，等候前往已同意收容的第三國，但泰國當局兩度阻止他搭機離境。\n聯合國人權專家 2026 年 8 月曾發布新聞稿，促請泰國不得將他送回中國。泰國近年曾將維吾爾人、越南及柬埔寨異議人士遣返原籍國，屢遭批評為配合跨國鎮壓（參見本站泰國維吾爾人相關各則）。",
+   "facts": [
+    "依無國界記者與保護衛士，10 月 8 日 Bai Zhaodong 在本人與律師未獲事先通知下被帶到曼谷 Ratchada 刑事法院，法院裁定將他移押曼谷候審監獄，等候引渡程序。",
+    "依法新社（經 China-Global South Project 轉載），Bai Zhaodong 的律師稱泰國當局已依中國請求啟動引渡程序。",
+    "依 Manushya 基金會，10 月 9 日曼谷南區刑事法院認定繼續羈押合法，並稱法院表示中方引渡請求「有理由」；中方據稱以勒索與行賄罪名請求引渡，Manushya 稱該等罪名係捏造的報復。",
+    "引渡聽證訂於 2027 年 1 月 25 日。",
+    "無國界記者、保護衛士、Manushya 基金會、人權觀察等團體要求停止引渡、遵守不遣返原則並讓他前往第三國安置。"
+   ],
+   "issues": [
+    "對經聯合國難民署認定之難民，泰國依中國刑事罪名請求進行引渡，是否違反泰國《防止酷刑及強迫失蹤法》及國際法上之不遣返原則？",
+    "以一般刑事罪名（勒索、行賄）包裝之引渡請求，如何審查其是否為政治性追訴？",
+    "長期移民拘留及阻止前往第三國安置，是否構成任意拘留？"
+   ],
+   "holding": "・10 月 8 日：泰國依中國請求啟動引渡程序，Bai Zhaodong 被移押曼谷候審監獄。\n・10 月 9 日：法院駁回其對羈押的異議，認定繼續羈押合法。\n・中方指控：據 Manushya 基金會稱為勒索與行賄。\n・下一步：2027 年 1 月 25 日引渡聽證。",
+   "significance": "這是泰國以正式引渡程序處理中國對已獲難民認定之異議記者請求的案例，結果將影響東南亞國家如何回應中國以刑事罪名追捕海外批評者。後續觀察 1 月引渡聽證、律師是否另提救濟，以及第三國安置能否實現。",
+   "editorNote": "本網頁助理 註：本則發生於 10 月 8 日至 9 日，本站先前未收錄，本次補登。各來源對法院名稱記載不一：無國界記者稱 10 月 8 日解送 Ratchada 刑事法院，Manushya 基金會稱 10 月 9 日作出裁定者為曼谷南區刑事法院；法新社轉載稿稱裁定在「週五」（即 10 月 9 日）。中方所指罪名僅見於 Manushya 基金會聲明，本網頁助理未見中方或泰方官方說明。本網頁助理未見可靠來源載明其中文姓名，故以英文拼音表示。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "泰國",
+    "引渡",
+    "難民",
+    "不遣返原則",
+    "記者",
+    "移民拘留",
+    "保護衛士"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "聯合國人權專家新聞稿（2026 年 8 月）",
+     "url": "https://www.ohchr.org/en/press-releases/2026/08/un-experts-urge-thailand-not-return-human-rights-defender-bai-zhaodong-china",
+     "official": true
+    },
+    {
+     "label": "無國界記者與保護衛士聲明原文",
+     "url": "https://rsf.org/en/rsf-safeguard-defenders-urge-thailand-halt-deportation-extradition-process-begins-chinese",
+     "official": false
+    },
+    {
+     "label": "Manushya 基金會聲明",
+     "url": "https://www.manushyafoundation.org/post/human-rights-alert-thai-court-rules-chinese-journalist-bai-zhaodong-s-arbitrary-detention-lawful-t",
+     "official": false
+    },
+    {
+     "label": "法新社報導（China-Global South Project 轉載）",
+     "url": "https://chinaglobalsouth.com/2026/10/10/chinese-journalist-bai-zhaodong-extradition-thailand/",
+     "official": false
+    },
+    {
+     "label": "HRIC 每週簡報",
+     "url": "https://news.hrichina.org/p/hric-weekly-brief-880",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-29T07:19:27+08:00"
+  },
+  {
+   "id": "2026-10-26-tnr-taiwan-tnr-bills-legislature",
+   "court": "CN",
+   "kind": "立法動態",
+   "caseId": "taiwan-tnr-response",
+   "jurisdiction": "台灣",
+   "outlet": "公視新聞網",
+   "outletCode": "",
+   "date": "2026-10-26",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "政院、陸委會與民進黨團提出近 30 個國安法、反滲透法修正版本反制跨境鎮壓，民眾黨提 1 案、國民黨未提案",
+   "shortTitle": "反跨境鎮壓修法朝野提案出爐",
+   "point": "執政方近 30 個版本，民眾黨 1 案加重洩密刑責，國民黨未提；藍委質疑誰來界定",
+   "titleOriginal": "政院提修國安、反滲透法 反制中共跨境鎮壓；中國跨境鎮壓案件頻傳 綠、白營提案修國安法",
+   "caseRef": "",
+   "tldr": "為了處理黃逸豪遭撞、矢板明夫遇襲等被認為是中國跨境鎮壓的案件，行政院、陸委會和民進黨團已提出近 30 個修改《國家安全法》和《反滲透法》的版本；民眾黨提了一案，國民黨還沒提。民進黨立委說相關法案已被在野黨在程序委員會擋下超過 1,300 次。",
+   "memo": "依公視新聞網 2026 年 10 月 26 日報導，行政院、大陸委員會及民主進步黨團就《國家安全法》及《反滲透法》共提出近 30 個修正版本，以因應跨境鎮壓案件；台灣民眾黨團提出《國家安全法》修正案一案，擬加重對中國大陸、香港、澳門或境外敵對勢力洩密之刑責；中國國民黨團未提出版本。民進黨立委陳培瑜稱相關法案已遭在野黨於程序委員會阻擋逾 1,300 次；國民黨立委牛煦庭則質疑跨境鎮壓之界定權限恐影響民主原則。",
+   "context": "台灣近月陸續處理被指與中國有關的跨境鎮壓案件，包括脫口秀演員黃逸豪遭假車禍撞傷（新北地檢署 10 月 21 日起訴 5 人）、矢板明夫在台中演講遭攻擊、立委沈伯洋遭跟監。陸委會 10 月 8 日表示修法方向應使跨境鎮壓「單獨成罪」，行政院 10 月 22 日指示研修《反滲透法》（見本案相關各則）。",
+   "facts": [
+    "行政院、陸委會與民進黨團合計提出近 30 個《國家安全法》與《反滲透法》修正版本。",
+    "民進黨立委陳培瑜稱相關法案已被在野黨在程序委員會阻擋超過 1,300 次，盼本會期與在野黨團合作。",
+    "民眾黨團提出《國家安全法》修正案 1 案，加重向中國大陸、香港、澳門及境外敵對勢力洩密的刑責。",
+    "國民黨團未提出相關修法版本；國民黨立委牛煦庭質疑「誰來界定」跨境鎮壓，擔心由特定人士界定會影響民主原則。",
+    "台大政治系副教授陳世民認為即使無法訂定外國代理人法，至少可比照《反滲透法》立法並加重刑責；學者並指以個資法等輕罪處理難收嚇阻之效。"
+   ],
+   "issues": [
+    "跨境鎮壓作為獨立犯罪之構成要件應如何明確界定，以兼顧罪刑明確性與言論、結社自由？",
+    "受境外敵對勢力指示或委託從事跟監、恐嚇者，現行《反滲透法》與《國家安全法》涵蓋不足之處。",
+    "立法程序上朝野分歧對修法時程之影響。"
+   ],
+   "holding": "・執政方：行政院、陸委會、民進黨團近 30 個版本（國安法、反滲透法）。\n・民眾黨：國安法修正 1 案，加重洩密刑責。\n・國民黨：未提案，質疑界定權限。\n・進度：民進黨稱多次遭程序委員會阻擋；報導未說明各版本具體條文。",
+   "significance": "朝野對反跨境鎮壓立法的立場差異已具體化，將決定台灣能否在 11 月 28 日地方選舉前後補上法律漏洞。後續觀察行政院版本是否送立法院、程序委員會能否排入議程，以及具體構成要件與刑度。",
+   "editorNote": "本網頁助理 註：本則依公視新聞網 10 月 26 日兩則報導，本站先前未收錄，本次補登；報導未列出各版本條文、刑度與送案日期，「1,300 次」為陳培瑜說法，未經查證。自由時報亦有同題報導，本網頁助理未能讀取全文。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "台灣",
+    "修法",
+    "反滲透法",
+    "國家安全法",
+    "行政院",
+    "陸委會"
+   ],
+   "related": [
+    "2026-10-22-tnr-taiwan-ey-candidate-protection",
+    "2026-10-08-tnr-taiwan-mac-standalone-offence"
+   ],
+   "sources": [
+    {
+     "label": "公視新聞網報導：政院提修國安、反滲透法",
+     "url": "https://news.pts.org.tw/article/832941",
+     "official": false
+    },
+    {
+     "label": "公視新聞網報導：綠、白營提案修國安法",
+     "url": "https://news.pts.org.tw/article/833048",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-29T07:19:27+08:00"
+  },
+  {
+   "id": "2026-10-27-tnr-iran-intl-trial-prosecution-cross",
+   "court": "IR",
+   "kind": "司法案件",
+   "caseId": "iran-intl-london-trial",
+   "jurisdiction": "英國",
+   "outlet": "伊朗國際台（Iran International）",
+   "outletCode": "",
+   "date": "2026-10-27",
+   "eventDate": "2026-10-27",
+   "importance": 1,
+   "author": "",
+   "title": "英國伊朗監視記者案檢方稱另兩名被告明知協助伊朗情報機關、拍攝記者住址以備攻擊；Sepahvand 承認 15 萬英鎊報酬以傷害記者為條件",
+   "shortTitle": "伊朗監視記者案檢方指被告明知備襲",
+   "point": "兩被告承認拍攝住址但稱不知為伊朗情報工作；Sepahvand 認報酬以傷人為條件",
+   "titleOriginal": "Prosecutor says defendants filmed journalists' addresses to plan attacks",
+   "caseRef": "",
+   "tldr": "倫敦審理的伊朗人監視記者案中，檢方 10 月 27 日主張兩名被告明知是在幫伊朗情報機關，拍下伊朗國際台記者相關住址的照片和影片，為攻擊做準備。兩人承認去過、拍過，但說不知道是在替伊朗情報做事。前一天主要被告 Sepahvand 受詰問時承認，要求的 15 萬英鎊報酬以傷害記者為條件，但堅稱從未打算動手。",
+   "memo": "依伊朗國際台 2026 年 10 月 27 日報導，英國伍利奇刑事法院審理之 Mostafa Sepahvand、Farhad Javadi Manesh 及 Shapoor Qalehali Khani Noori 違反英國《國家安全法》案中，檢方於同日主張被告明知係協助伊朗情報機關，拍攝伊朗國際台記者 Mojtaba Pourmohsen、Kambiz Hosseini 相關住址之照片及影片以準備攻擊；Javadi Manesh 及 Noori 承認前往及拍攝，惟否認知悉係協助伊朗情報機關。Sepahvand 於前一日受詰問時承認其要求之 15 萬英鎊報酬以傷害記者為條件，惟稱意在拖延革命衛隊、無意實施攻擊並主張受脅迫。三名被告均否認犯罪，審理續行。",
+   "context": "三名伊朗籍男子被控依英國《國家安全法》協助伊朗情報機關，蒐集伊朗國際台記者 Mojtaba Pourmohsen 與 Kambiz Hosseini 的資訊，為嚴重暴力做準備，檢方稱 Sepahvand 預定實施攻擊。案件於 2026 年 10 月初開審，Sepahvand 10 月下旬作證稱受伊朗聯絡人指示傷人，但主張受脅迫並刻意破壞行動（見相關前則）。",
+   "facts": [
+    "依報導，10 月 26 日（週一）Sepahvand 接受檢辯雙方詰問；檢察官為 Bill Emlyn Jones。",
+    "Sepahvand 承認其提出的 15 萬英鎊報酬以傷害一名記者為條件，但稱要價是為了拖住革命衛隊，從未打算動手；他稱因痛恨該組織而欺騙對方，並因家人受威脅才參與；他否認曾見到或傷害任何記者。",
+    "檢方不接受其受脅迫及刻意草率跟監的說法。",
+    "10 月 27 日（週二）檢方主張兩名被告明知協助伊朗情報機關，以拍攝記者相關住址的照片與影片準備攻擊。",
+    "Javadi Manesh 與 Noori 承認前往相關地點並拍照錄影，但稱不知道是在協助伊朗情報機關。三人均否認犯罪。"
+   ],
+   "issues": [
+    "英國《國家安全法》協助外國情報機關罪中「明知」要件之證明：被告承認拍攝行為但否認知悉委託者身分。",
+    "受脅迫抗辯能否成立，以及家屬在本國受威脅之證據評價。"
+   ],
+   "holding": "・檢方主張：被告明知協助伊朗情報機關，拍攝記者住址以備攻擊。\n・Javadi Manesh、Noori：承認拍攝，否認知情。\n・Sepahvand：承認報酬以傷人為條件，主張受脅迫、無意攻擊。\n・審理續行，報導未載結辯或判決日期。",
+   "significance": "本案爭點已集中在被告是否「明知」為伊朗情報工作與受脅迫抗辯，陪審團的認定將影響英國以《國家安全法》追訴代理人型跨國鎮壓的門檻。後續觀察結辯與陪審團裁決。",
+   "editorNote": "本網頁助理 註：本則所述為檢辯雙方主張與被告證詞，法院尚未認定事實。報導未說明 10 月 27 日檢方陳述是否為結辯，亦未明確指出「兩名被告」為何人；依上下文應指 Javadi Manesh 與 Noori，屬本網頁助理推定。eventDate 依報導所稱「週二」推定為 10 月 27 日。",
+   "tags": [
+    "跨國鎮壓",
+    "伊朗",
+    "英國",
+    "伊朗國際台",
+    "國家安全法",
+    "監視記者",
+    "家屬施壓",
+    "革命衛隊"
+   ],
+   "related": [
+    "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony",
+    "2026-10-06-tnr-london-iran-international-trial"
+   ],
+   "sources": [
+    {
+     "label": "伊朗國際台報導",
+     "url": "https://www.iranintl.com/en/202610271521",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-29T07:19:27+08:00"
+  },
+  {
+   "id": "2026-10-28-tnr-afp-kenya-dissident-refuge",
+   "court": "OTHER",
+   "kind": "調查報導",
+   "caseId": "mwaipaya-kenya-abduction",
+   "jurisdiction": "肯亞",
+   "outlet": "法新社（France 24 轉載）",
+   "outletCode": "",
+   "date": "2026-10-28",
+   "eventDate": "",
+   "importance": 2,
+   "author": "Joris Fioriti（法新社）",
+   "title": "法新社：Mwaipaya 遭擄時同行的 Chadema 幹部 Margwe 稱掙脫逃走，肯亞作為東非異議者避風港的地位受跨境擄人威脅",
+   "shortTitle": "法新社：同行者稱掙脫擄人者逃離",
+   "point": "Margwe 稱兩人遭擄前曾收網路威脅；特赦組織憂肯亞與鄰國合作跨境鎮壓",
+   "titleOriginal": "Cross-border abductions threaten Kenya's status as dissident refuge",
+   "caseRef": "",
+   "tldr": "法新社訪問了 Mwaipaya 被擄走時同車的坦尚尼亞反對黨幹部 Margwe。他說三名蒙面持槍男子逼停計程車，他打倒一人後逃脫，而兩人事前都在網路上收到「奈洛比很近、會來抓你們」的威脅。報導並整理近年東非異議者在肯亞遭擄的多起案例，國際特赦組織擔心肯亞與鄰國合作打壓異議者。",
+   "memo": "依法新社 2026 年 10 月 28 日報導，坦尚尼亞反對黨 Chadema 青年幹部 Twaha Mwaipaya 於同年 10 月 25 日在肯亞 Machakos 郡搭乘計程車時，遭一輛四輪驅動車逼停，三名蒙面持槍男子將其帶走，迄今下落不明；同行之 Chadema 社群媒體負責人 Apolinary Boniface Margwe 稱其擊倒一名襲擊者後脫逃，並稱二人事前曾於社群媒體遭坦尚尼亞人士威脅。肯亞警方發言人稱不知悉本案，肯亞外交部未回應。國際特赦組織肯亞分會主任 George Morara 表示憂慮肯亞與鄰國勾結從事跨境鎮壓。",
+   "context": "Mwaipaya 曾於 2022 年因批評政府在坦尚尼亞入獄，遭擄前曾在社群媒體批評總統 Samia Suluhu Hassan。肯亞政府 10 月 27 日稱未接正式報案，人權團體 Vocal Africa 已向肯亞高等法院聲請人身保護令（見本案相關前則）。\n肯亞長期是東非異議人士的避難地，但近年多起擄人案動搖此一地位。",
+   "facts": [
+    "依同行者 Margwe 的說法，一輛四輪驅動車把計程車逼離道路，三名蒙面持槍男子下車；他擊倒一名襲擊者後掙脫逃走，Mwaipaya 被帶走。",
+    "Margwe 為 Chadema 社群媒體負責人，2025 年 10 月坦尚尼亞選舉前為躲避暴力擄人而逃往肯亞，已躲藏一年多；他稱兩人都曾在社群媒體收到威脅，對方說「奈洛比很近」、會來抓他們，並表示非常擔心自身安全。",
+    "Mwaipaya 的律師稱擄人案正在調查中；肯亞警方發言人向法新社稱不知悉此案，肯亞外交部未回應；報導未載坦尚尼亞方面回應。",
+    "坦尚尼亞人權運動者 Maria Sarungi（2025 年 1 月曾在奈洛比遭擄、數小時後獲釋）稱 Hassan 在肯亞的「惡名昭彰的死亡小隊」是幕後黑手。",
+    "報導整理的其他案例：烏干達反對派領袖 Kizza Besigye 在奈洛比遭擄（肯亞外長 Musalia Mudavadi 2025 年 5 月承認曾與烏干達當局合作），之後在烏干達受叛國罪審判；2024 年 10 月四名具難民身分的土耳其人在奈洛比遭擄並被強制送回土耳其；2026 年 6 月一名揭發南蘇丹貪腐的南蘇丹男子被帶回南蘇丹，數週後重新出現在肯亞。",
+    "國際特赦組織肯亞分會主任 George Morara 表示擔心肯亞與鄰國「勾結」以便利跨境鎮壓。"
+   ],
+   "issues": [
+    "東道國安全機關涉入或默許鄰國擄走在其境內之異議者，是否構成強迫失蹤及違反不遣返原則？",
+    "區域國家間非正式安全合作取代引渡程序之問題。"
+   ],
+   "holding": "・新事證：同行者 Margwe 首度公開敘述擄人經過與事前威脅。\n・官方回應：肯亞警方稱不知悉，外交部未回應。\n・背景：報導列舉 Besigye、四名土耳其難民、南蘇丹男子等在肯亞遭擄或移送案例。\n・指控：Sarungi 指坦尚尼亞「死亡小隊」所為；此為指控，未經證實。",
+   "significance": "目擊者證詞可能成為人身保護令程序與後續調查的重要依據；報導也顯示 Mwaipaya 案並非孤例，而是東非國家在肯亞境內追捕異議者的模式之一。後續觀察高等法院裁定與肯亞警方是否回應。",
+   "editorNote": "本網頁助理 註：報導稱 Mwaipaya 於「週日」遭擄，與前則特赦組織所稱 10 月 25 日（週日）一致；地點本則依法新社寫為 Machakos 郡，前則 Citizen Digital 寫為 Kamulu，兩者相鄰。坦尚尼亞反對派指控總統於 2025 年選舉期間下令殺害數千人一節為指控，未經證實。",
+   "tags": [
+    "跨國鎮壓",
+    "坦尚尼亞",
+    "肯亞",
+    "擄人",
+    "強迫失蹤",
+    "Chadema",
+    "東非",
+    "烏干達",
+    "土耳其"
+   ],
+   "related": [
+    "2026-10-28-tnr-mwaipaya-habeas-corpus",
+    "2026-10-27-tnr-mwaipaya-kenya-govt-response",
+    "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction"
+   ],
+   "sources": [
+    {
+     "label": "法新社報導（France 24 轉載）",
+     "url": "https://www.france24.com/en/live-news/20261028-cross-border-abductions-threaten-kenya-s-status-as-dissident-refuge",
+     "official": false
+    },
+    {
+     "label": "法新社報導（Yahoo 新聞轉載）",
+     "url": "https://www.yahoo.com/news/world/articles/cross-border-abductions-threaten-kenyas-102524226.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-29T07:19:27+08:00"
   }
  ],
  "agenda": [
@@ -2514,6 +2782,16 @@
    "url": "https://www.interpol.int/News-and-Events/Events/2026/94th-INTERPOL-General-Assembly",
    "relatedId": "",
    "caseId": ""
+  },
+  {
+   "id": "2027-01-25-cn-bai-zhaodong-extradition-hearing",
+   "date": "2027-01-25",
+   "court": "CN",
+   "title": "泰國法院審理中國對記者 Bai Zhaodong 之引渡請求",
+   "note": "曼谷；依無國界記者與 Manushya 基金會所述日期，可能變動。",
+   "url": "https://rsf.org/en/rsf-safeguard-defenders-urge-thailand-halt-deportation-extradition-process-begins-chinese",
+   "relatedId": "2026-10-09-tnr-thailand-bai-zhaodong-extradition",
+   "caseId": "bai-zhaodong-thailand-extradition"
   }
  ],
  "archives": [],
@@ -2571,7 +2849,7 @@
    "nameOriginal": "R v Sepahvand, Javadi Manesh and Noori (Woolwich Crown Court)",
    "caseRef": "",
    "summary": "三名伊朗男子被控依英國《國家安全法》協助伊朗情報機關，監視伊朗國際台記者與一名英國律師。",
-   "status": "審理中；被告 Sepahvand 10 月下旬作證承認跟監但主張受脅迫，三名被告均否認犯罪。"
+   "status": "審理中；10 月 27 日檢方主張被告明知協助伊朗情報機關，兩名被告承認拍攝住址但否認知情，Sepahvand 主張受脅迫，三人均否認犯罪。"
   },
   {
    "id": "pretoria-tibet-office-attacks",
@@ -2626,7 +2904,18 @@
    "nameOriginal": "Abduction of Twaha Mwaipaya in Kenya",
    "caseRef": "",
    "summary": "坦尚尼亞反對黨 Chadema 前青年幹部 Mwaipaya 於 2026 年 10 月 25 日在肯亞 Machakos 郡遭不明人士擄走，人權團體擔憂屬跨國鎮壓。",
-   "status": "截至 10 月 28 日仍下落不明；Vocal Africa 已向肯亞高等法院聲請人身保護令，要求警方與國家情報局交人，法院尚未裁定。"
+   "status": "截至 10 月 28 日仍下落不明；同行者 Margwe 稱掙脫逃離，Vocal Africa 已向肯亞高等法院聲請人身保護令，法院尚未裁定。"
+  },
+  {
+   "id": "bai-zhaodong-thailand-extradition",
+   "type": "案件",
+   "court": "CN",
+   "forum": "泰國刑事法院",
+   "name": "中國記者 Bai Zhaodong 泰國引渡案",
+   "nameOriginal": "Extradition of Bai Zhaodong from Thailand to China",
+   "caseRef": "",
+   "summary": "經聯合國難民署認定為難民的中國調查記者 Bai Zhaodong 自 2026 年 1 月起在泰國遭拘留，中國請求引渡，泰國於同年 10 月啟動引渡程序。",
+   "status": "法院 10 月 9 日駁回其羈押異議，現押於曼谷候審監獄；引渡聽證訂於 2027 年 1 月 25 日。"
   }
  ]
 }
