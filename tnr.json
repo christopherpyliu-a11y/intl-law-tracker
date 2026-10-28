@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-28T07:13:51+08:00",
-  "lastRunLocal": "2026-10-28 07:13",
+  "lastRun": "2026-10-28T23:15:59+08:00",
+  "lastRunLocal": "2026-10-28 23:15",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：其他（坦尚尼亞）1（事件 1）"
+  "lastRunNote": "新增 2 則：中國 1（政府措施 1）、其他（坦尚尼亞）1（司法案件 1）"
  },
  "items": [
   {
@@ -233,7 +233,8 @@
    "related": [
     "2026-10-22-tnr-hrw-uganda-rwandan-dissident-killed",
     "2026-10-16-tnr-omct-fidh-east-africa-report",
-    "2026-10-27-tnr-mwaipaya-kenya-govt-response"
+    "2026-10-27-tnr-mwaipaya-kenya-govt-response",
+    "2026-10-28-tnr-mwaipaya-habeas-corpus"
    ],
    "sources": [
     {
@@ -1195,7 +1196,8 @@
     "2026-10-08-tnr-taiwan-mac-standalone-offence",
     "2026-10-22-tnr-taiwan-nsb-crime-links",
     "2026-10-16-tnr-taiwan-cib-warning",
-    "2026-10-22-tnr-taiwan-ey-candidate-protection"
+    "2026-10-22-tnr-taiwan-ey-candidate-protection",
+    "2026-10-28-tnr-tao-denies-huang-yi-hao"
    ],
    "sources": [
     {
@@ -2346,7 +2348,8 @@
     "東非"
    ],
    "related": [
-    "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction"
+    "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction",
+    "2026-10-28-tnr-mwaipaya-habeas-corpus"
    ],
    "sources": [
     {
@@ -2366,6 +2369,129 @@
     }
    ],
    "addedAt": "2026-10-28T07:13:51+08:00"
+  },
+  {
+   "id": "2026-10-28-tnr-tao-denies-huang-yi-hao",
+   "court": "CN",
+   "kind": "政府措施",
+   "caseId": "huang-yi-hao-attacks",
+   "jurisdiction": "台灣",
+   "outlet": "中央社",
+   "outletCode": "CNA",
+   "date": "2026-10-28",
+   "eventDate": "2026-10-28",
+   "importance": 2,
+   "author": "",
+   "title": "國台辦否認對相聲演員黃逸豪跨境鎮壓、稱屬選舉抹黑；陸委會回應「不承認不令人意外」並列舉多起案例",
+   "shortTitle": "國台辦否認黃逸豪遭撞案涉跨境鎮壓",
+   "point": "陳斌華稱「子虛烏有」、批修法推「兩國論」；陸委會列五案反駁",
+   "titleOriginal": "相聲演員黃逸豪疑遭中共跨境鎮壓 國台辦否認／對台跨境鎮壓陸喊「栽贓」 陸委會：不承認不令人意外",
+   "caseRef": "",
+   "tldr": "新北地檢署起訴 5 人假車禍撞傷黃逸豪、指幕後是中國人士「K」之後，中國國台辦首度公開回應，說「跨境鎮壓」完全是捏造，是民進黨選前抹黑，也反對台灣為此修法。陸委會則回說加害者本來就不會承認，並列出賴總統家人遭監控等案例，表示會依法追究。",
+   "memo": "依中央社 2026 年 10 月 28 日報導，中華人民共和國國務院台灣事務辦公室發言人陳斌華於同日例行記者會稱，所謂黃逸豪遭「跨境鎮壓」之說完全子虛烏有，係民進黨當局選前操弄，並指陸委會研擬之防制跨境鎮壓修法意在推動「兩國論」。陸委會同日回應稱加害者不承認並不意外，列舉賴清德總統家屬遭監控、副總統蕭美琴座車遭策劃衝撞、立委沈伯洋遭監控、矢板明夫遭攻擊及本案等事例，表示將依法追究。新北地檢署已於同年 10 月 21 日以重傷害未遂等罪起訴 5 名被告。",
+   "context": "脫口秀演員黃逸豪因表演中嘲諷習近平，2026 年 5 月演出場地遭潑灑穢物，9 月 11 日在新北住處附近遭車輛蓄意撞傷。新北地檢署 10 月 21 日起訴 5 人，指其受綽號「K」的中國人士出資指使（見相關前則）。\n檢方並指出現行《反滲透法》未能完整涵蓋跟監、傷害等行為；陸委會副主委兼發言人梁文傑 10 月 22 日表示，政府正研議修正《反滲透法》以填補漏洞。",
+   "facts": [
+    "國台辦發言人陳斌華 10 月 28 日上午例行記者會回應本案，稱「跨境鎮壓」之說完全子虛烏有、「謠言不可能掩蓋事實」。",
+    "陳斌華指民進黨每逢選舉就抹黑大陸以謀取選票，並稱陸委會研擬的修法實為推動「台獨」與「兩國論」；他也反對將陸劇等一般文化產品與「跨境鎮壓」敘事掛鉤。",
+    "陸委會同日回應，指加害者從不承認犯行，國台辦否認不令人意外。",
+    "陸委會列舉其認為指向中共的事例：賴清德總統家屬遭監控、副總統蕭美琴出訪時座車遭策劃衝撞、立委沈伯洋遭監控、印太戰略智庫執行長矢板明夫遭攻擊，以及黃逸豪遭假車禍撞傷。",
+    "陸委會表示不容境外勢力以暴力或恐嚇壓制台灣人民言論自由，將依法追究跨境鎮壓案件。"
+   ],
+   "issues": [
+    "在被指使者身處中國境內、所屬國否認涉入的情況下，台灣如何追究幕後指使者的刑事責任？",
+    "跨境鎮壓是否應於《反滲透法》或其他法律中單獨成罪，以涵蓋跟監、蒐集個資與傷害等行為？"
+   ],
+   "holding": "・國台辦（陳斌華）：「跨境鎮壓」子虛烏有，是民進黨選舉操弄；修法意在推動「兩國論」。\n・陸委會：加害者不會承認；列舉五起事例，表示將依法追究。\n・新北地檢署（10 月 21 日）：以重傷害未遂及違反《個人資料保護法》等罪起訴 5 人，指其受中國人士「K」出資指使。",
+   "significance": "這是中國官方首次就本案公開表態，雙方說法對立。後續觀察新北地方法院審理進度、檢方能否進一步查明「K」的身分，以及行政院是否提出《反滲透法》修正草案。",
+   "editorNote": "本網頁助理 註：國台辦說法依中央社北京 10 月 28 日上午報導及 ETtoday 同日報導；陸委會回應依中央社同日傍晚報導。路透社亦報導國台辦否認，但本網頁助理未能讀取其全文。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "台灣",
+    "黃逸豪",
+    "國台辦",
+    "陸委會",
+    "反滲透法",
+    "言論自由"
+   ],
+   "related": [
+    "2026-10-21-tnr-taiwan-huang-yi-hao-indictment"
+   ],
+   "sources": [
+    {
+     "label": "中央社報導（國台辦否認）",
+     "url": "https://www.cna.com.tw/news/acn/202610280071.aspx",
+     "official": false
+    },
+    {
+     "label": "中央社報導（陸委會回應）",
+     "url": "https://www.cna.com.tw/news/acn/202610280264.aspx",
+     "official": false
+    },
+    {
+     "label": "ETtoday 報導",
+     "url": "https://www.ettoday.net/news/20261028/3262095.htm",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-28T23:15:59+08:00"
+  },
+  {
+   "id": "2026-10-28-tnr-mwaipaya-habeas-corpus",
+   "court": "OTHER",
+   "kind": "司法案件",
+   "caseId": "mwaipaya-kenya-abduction",
+   "jurisdiction": "肯亞",
+   "outlet": "Citizen Digital",
+   "outletCode": "",
+   "date": "2026-10-28",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "肯亞人權團體 Vocal Africa 向高等法院聲請人身保護令，要求警方與情報機關交出遭擄坦尚尼亞運動者 Mwaipaya",
+   "shortTitle": "Vocal Africa 為 Mwaipaya 聲請人身保護令",
+   "point": "要求警察總長與情報局長 24 小時內交人，並保全沿線監視器與邊境紀錄",
+   "titleOriginal": "Vocal Africa wants police, NIS chiefs summoned over missing Tanzanian activist",
+   "caseRef": "",
+   "tldr": "坦尚尼亞反對派運動者 Twaha Mwaipaya 在肯亞被擄走後仍下落不明，肯亞人權團體 Vocal Africa 已向肯亞高等法院緊急聲請人身保護令，要求警方和國家情報局在 24 小時內把人帶到法院，並保全可能拍到行蹤的監視器、車牌辨識與邊境出入紀錄。法院尚未裁定。",
+   "memo": "依 Citizen Digital 2026 年 10 月 28 日報導，肯亞人權團體 Vocal Africa 以人權工作者 Hussein Khalid 之宣誓書為據，向肯亞高等法院緊急聲請人身保護令，請求傳喚警察總長 Douglas Kanja 及國家情報局局長 Noordin Haji，於 24 小時內將同年 10 月 25 日在 Kamulu 遭擄之坦尚尼亞運動者 Twaha Mwaipaya 解送到庭並出示羈押依據、無條件釋放、禁止未經法院許可予以逮捕，並命保全奈洛比—蒙巴薩公路沿線監視器、車牌辨識、通訊及邊境出入紀錄，於 14 日內完成獨立調查。法院尚未裁定。",
+   "context": "Mwaipaya 為坦尚尼亞反對黨 Chadema 前青年幹部，國際特赦組織肯亞分會稱他於 10 月 25 日在 Kamulu 搭計程車時遭分乘三輛車的人帶走。10 月 27 日肯亞政府稱未接正式報案，但路透社稱見到警方失蹤紀錄（見相關前則）。\n人身保護令是要求羈押機關將被拘禁者帶到法院、由法院審查拘禁合法性的程序；前則報導時尚未見有人提出聲請。",
+   "facts": [
+    "Vocal Africa 向肯亞高等法院提出緊急人身保護令聲請，附人權工作者 Hussein Khalid 的宣誓書；必要時並請求將 Mwaipaya 解送至 Milimani 高等法院刑事值班庭。",
+    "聲請要求傳喚警察總長 Douglas Kanja 與國家情報局（NIS）局長 Noordin Haji，於 24 小時內將 Mwaipaya 帶到法院，並出示任何授權羈押的令狀或法院命令。",
+    "聲請並請求：到庭後無條件釋放；在本案判決前未經法院許可不得逮捕或羈押他；保全並提出 Kamulu 一帶奈洛比—蒙巴薩公路的監視器、車牌辨識、收費站、行動通訊與車輛追蹤紀錄；保全邊境出入紀錄；14 日內完成獨立調查並提出報告；認定案件緊急並先行單方審理。",
+    "失蹤報案已在 Ruai 警察局登錄（OB 47/25/10/2026）。",
+    "報導指出，法院尚未就聲請作出決定，相關指控亦未經獨立證實。"
+   ],
+   "issues": [
+    "肯亞安全機關是否參與或知悉擄人，並負有依人身保護令說明與交人的義務？",
+    "若 Mwaipaya 已被移送坦尚尼亞，是否構成規避引渡程序的非法移送與強迫失蹤？"
+   ],
+   "holding": "・聲請人：Vocal Africa（宣誓人 Hussein Khalid）。\n・相對人：警察總長 Douglas Kanja、國家情報局局長 Noordin Haji 等安全機關。\n・聲請內容：24 小時內解送到庭、無條件釋放、禁止未經許可逮捕、保全監視器與通訊及邊境紀錄、14 日內獨立調查。\n・進度：法院尚未裁定，報導未載案號與開庭日期。",
+   "significance": "這是本案首見的司法行動，將迫使肯亞警方與情報機關在法庭上說明是否拘禁或知悉 Mwaipaya 下落。後續觀察高等法院是否核發命令、相對人的答辯，以及坦尚尼亞方面是否承認羈押。",
+   "editorNote": "本網頁助理 註：本則依 Citizen Digital 2026 年 10 月 28 日報導；Capital FM、Eastleigh Voice 等亦有報導，但本網頁助理未能讀取全文。報導未載聲請提出的確切日期，故 eventDate 留空。另 Nation 報導標題稱有團體將失蹤與「擄人小組」連結，本網頁助理未能讀取內容。目前仍無來源指認行為人身分。",
+   "tags": [
+    "跨國鎮壓",
+    "坦尚尼亞",
+    "肯亞",
+    "擄人",
+    "強迫失蹤",
+    "人身保護令",
+    "Chadema",
+    "東非"
+   ],
+   "related": [
+    "2026-10-27-tnr-mwaipaya-kenya-govt-response",
+    "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction"
+   ],
+   "sources": [
+    {
+     "label": "Citizen Digital 報導",
+     "url": "https://citizen.digital/article/vocal-africa-wants-police-nis-chiefs-summoned-over-missing-tanzanian-activist-n392895",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-28T23:15:59+08:00"
   }
  ],
  "agenda": [
@@ -2401,7 +2527,7 @@
    "nameOriginal": "Attacks on comedian Huang Yi-hao",
    "caseRef": "",
    "summary": "曾在表演中嘲諷習近平的脫口秀演員黃逸豪，2026 年 5 月演出場地遭潑灑穢物、9 月本人遭蓄意撞傷，檢方認定係受中國人士指使。",
-   "status": "新北地檢署 10 月 21 日就撞人案起訴 5 人並全數羈押；台北地檢署 9 月 29 日已就潑漆案起訴 2 人。"
+   "status": "新北地檢署 10 月 21 日就撞人案起訴 5 人並全數羈押；台北地檢署 9 月 29 日已就潑漆案起訴 2 人；中國國台辦 10 月 28 日否認涉入。"
   },
   {
    "id": "taiwan-tnr-response",
@@ -2495,12 +2621,12 @@
    "id": "mwaipaya-kenya-abduction",
    "type": "案件",
    "court": "OTHER",
-   "forum": "",
+   "forum": "肯亞高等法院",
    "name": "坦尚尼亞運動者 Twaha Mwaipaya 肯亞遭擄案",
    "nameOriginal": "Abduction of Twaha Mwaipaya in Kenya",
    "caseRef": "",
    "summary": "坦尚尼亞反對黨 Chadema 前青年幹部 Mwaipaya 於 2026 年 10 月 25 日在肯亞 Machakos 郡遭不明人士擄走，人權團體擔憂屬跨國鎮壓。",
-   "status": "截至 10 月 27 日仍下落不明；肯亞政府稱未接正式報案，坦尚尼亞駐肯亞使館稱未獲通報。"
+   "status": "截至 10 月 28 日仍下落不明；Vocal Africa 已向肯亞高等法院聲請人身保護令，要求警方與國家情報局交人，法院尚未裁定。"
   }
  ]
 }
