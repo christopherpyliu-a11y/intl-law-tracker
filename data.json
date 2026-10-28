@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-28T23:03:31+08:00",
-  "lastRunLocal": "2026-10-28 23:03",
+  "lastRun": "2026-10-29T07:03:50+08:00",
+  "lastRunLocal": "2026-10-29 07:03",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 1 則：ICC 1"
+  "lastRunNote": "新增 1 則：美洲人權法院 1"
  },
  "items": [
   {
@@ -4487,6 +4487,56 @@
     "2026-10-27-icc-duterte-defence-rule68-2b",
     "2026-10-23-icc-duterte-rule68-requests"
    ]
+  },
+  {
+   "id": "2026-10-28-iacthr-nicaragua-flores-castillo-pm",
+   "court": "IACtHR",
+   "kind": "裁定",
+   "caseId": "",
+   "date": "2026-10-28",
+   "eventDate": "",
+   "importance": 2,
+   "title": "美洲人權法院命尼加拉瓜保護 Flores Castillo 案相關三名女性並說明其下落",
+   "shortTitle": "美洲人權法院命尼加拉瓜交代母女下落",
+   "point": "臨時措施要求保障生命與人身自由、解除隔離並促成家人團聚",
+   "titleOriginal": "Corte IDH: medidas provisionales respecto de Nicaragua (caso relativo a Santos Sebastián Flores Castillo y familia)",
+   "caseRef": "",
+   "tldr": "美洲人權法院在一件審理中、涉及尼加拉瓜反對人士 Flores Castillo 家屬的案件中下令臨時措施，要求尼加拉瓜保障其妹妹 E.J.F.C. 與兩名女兒的生命和人身自由，並立即正式說明兩人下落。代理人指稱兩人自 2025 年 3 月遭國家人員帶走後下落不明。",
+   "memo": "美洲人權法院於 2026 年 10 月 28 日公布對尼加拉瓜之臨時措施，係應 Santos Sebastián Flores Castillo 案代理人之聲請，命尼加拉瓜保障 E.J.F.C. 及其二名女兒之生命、人身完整與自由及兒童保護權利，解除任何隱匿其下落或限制自由之措施，終止其幼女之隔離狀態並提供教育、醫療與心理支持，採取措施促成家人團聚，並立即正式報告二人之下落與現況。",
+   "context": "本案為美洲人權法院審理中之個案，涉及已故尼加拉瓜人 Santos Sebastián Flores Castillo 及其家屬。依報導，Flores Castillo 曾公開指控總統奧蒂嘉（Daniel Ortega）於 2005 年對其當時未成年之妹妹 E.J.F.C. 施以性暴力；其後於 2013 年被判處 15 年徒刑，申訴方主張該程序係報復性之羅織，Flores Castillo 於 2021 年 11 月 8 日在 La Modelo 監獄羈押中死亡。\n美洲人權法院自 2022 年起即宣告尼加拉瓜就保護在押反對人士之先前臨時措施處於「藐視」（desacato）狀態；據報導，尼加拉瓜此後未回應法院命令，亦未指派代表出席聽證。",
+   "facts": [
+    "代理人主張，E.J.F.C. 與其女 C.M.F.（13 歲）於 2025 年 3 月 21 日遭國家人員自住處帶走，此後下落不明。",
+    "代理人主張，次女 M.M.F.（8 歲）在家中受國家持續監控，約兩年未就學，自 2026 年 5 月起與家人斷絕聯繫。",
+    "美洲人權法院應代理人聲請作成臨時措施，並於 2026 年 10 月 28 日對外公布。"
+   ],
+   "issues": [
+    "是否符合《美洲人權公約》第 63 條第 2 項臨時措施之要件（極端嚴重、急迫、避免不可回復之損害）",
+    "國家對下落不明者之生命權、人身自由與兒童權利之保護義務（公約第 4、5、7、19 條）"
+   ],
+   "holding": "依報導，法院命尼加拉瓜：\n・保障 E.J.F.C.、C.M.F. 與 M.M.F. 之生命、人身完整與自由，以及家庭與兒童保護權利；\n・解除任何隱匿 E.J.F.C. 與 C.M.F. 下落或限制其自由之措施；\n・終止 M.M.F. 之隔離狀態，確保其受教育、醫療、休閒及心理社會照顧；\n・採取必要措施使母女三人團聚；\n・立即以正式方式報告 E.J.F.C. 與 C.M.F. 之下落與現況。",
+   "significance": "此為美洲人權法院針對尼加拉瓜疑似強迫失蹤情事之又一臨時措施；鑑於尼加拉瓜長期不履行法院命令，後續履行監督與向美洲國家組織大會之報告值得關注。",
+   "editorNote": "本網頁助理 註：本則依 EFE 通訊社報導（經 ABC Color、Infobae 轉載）撰寫，尚未取得美洲人權法院決議原文或官方新聞稿，決議作成日期不詳；性暴力、失蹤與刑事程序遭羅織等內容均為代理人之指控，法院尚未就實體作成認定。條文對應為本網頁助理補充。",
+   "tags": [
+    "美洲人權法院",
+    "尼加拉瓜",
+    "臨時措施",
+    "強迫失蹤",
+    "兒童權利",
+    "第63條"
+   ],
+   "sources": [
+    {
+     "label": "Infobae（EFE）報導",
+     "url": "https://www.infobae.com/america/agencias/2026/10/28/corte-idh-ordena-a-nicaragua-proteger-a-supuesta-victima-de-abuso-sexual-de-daniel-ortega/",
+     "official": false
+    },
+    {
+     "label": "ABC Color（EFE）報導",
+     "url": "https://www.abc.com.py/internacionales/2026/10/28/corte-idh-ordena-a-nicaragua-proteger-a-supuesta-victima-de-abuso-sexual-de-daniel-ortega/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-29T07:03:50+08:00"
   }
  ],
  "agenda": [
