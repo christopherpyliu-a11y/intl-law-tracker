@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-28T23:51:02+08:00",
-  "lastRunLocal": "2026-10-28 23:51",
+  "lastRun": "2026-10-29T07:30:25+08:00",
+  "lastRunLocal": "2026-10-29 07:30",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 6 則：美國 3（司法案件 1、政策動態 2）、英國 1（草案諮詢 1）、亞太與其他 2（草案諮詢 1、研究報告 1）"
+  "lastRunNote": "新增 2 則（補登 10 月上中旬漏收動態）：亞太與其他 2（草案諮詢 1、監理指引 1）；本次期間內未發現其他新動態"
  },
  "items": [
   {
@@ -780,7 +780,8 @@
     "國際"
    ],
    "related": [
-    "2026-10-12-fin-fsb-global-stablecoin-monitoring"
+    "2026-10-12-fin-fsb-global-stablecoin-monitoring",
+    "2026-10-15-fin-hkma-art-responsible-ai"
    ],
    "sources": [
     {
@@ -2448,6 +2449,136 @@
     }
    ],
    "addedAt": "2026-10-28T23:51:02+08:00"
+  },
+  {
+   "id": "2026-10-01-fin-kr-fsc-tokenised-securities-rules",
+   "court": "KR",
+   "kind": "草案諮詢",
+   "caseId": "kr-tokenised-securities",
+   "jurisdiction": "南韓",
+   "outlet": "南韓金融委員會（FSC）",
+   "outletCode": "FSC-KR",
+   "date": "2026-10-01",
+   "eventDate": "2026-10-01",
+   "importance": 2,
+   "author": "",
+   "title": "南韓金融委員會預告代幣化證券發行與流通配套子法修正，擬於 2027 年 2 月 4 日施行",
+   "shortTitle": "南韓預告代幣化證券配套規則",
+   "point": "2027 年 2 月 4 日施行，意見徵詢至 11 月 11 日",
+   "titleOriginal": "FSC Proposes Rules Change to Pave Way for Tokenization of Securities Issuance and Circulation",
+   "caseRef": "",
+   "tldr": "南韓金融委員會公布代幣化證券（股票、債券、基金及部分碎片化投資商品）的配套規則草案，規定負責在區塊鏈上登記與管理證券帳戶的機構須具備多少資本與人力、分散式帳本應由誰共同參與，並限制散戶在場外交易平台的年度買入額度。新制預定 2027 年 2 月 4 日上路。",
+   "memo": "南韓金融委員會（FSC）於 2026 年 10 月 1 日公布代幣化證券發行與流通之下位法規修正預告，意見徵詢期間為 2026 年 10 月 2 日至 11 月 11 日，預定自 2027 年 2 月 4 日施行。依草案，發行代幣化證券並直接管理客戶帳戶之帳戶管理機構應具備自有資本 40 億韓元及帳戶管理、內部控制與資訊專業人員；作為電子登記之分散式帳本須由韓國證券存託院及至少二家帳戶管理機構共同參與，且不得直接收取帳本使用費；散戶於每一場外交易平台之年度淨買入以 1 億韓元為限。",
+   "context": "南韓於 2026 年稍早完成立法，承認以分散式帳本為基礎之證券電子登記，金融委員會並於 2026 年 9 月 4 日發布證券發行與流通數位轉型及代幣化政策路線圖。本次預告為落實該立法之下位法規修正。",
+   "facts": [
+    "金融委員會於 2026 年 10 月 1 日發布新聞稿，意見徵詢期間為 10 月 2 日至 11 月 11 日。",
+    "適用範圍包括股票、債券、基金及特定碎片化投資證券（如連結不動產租金或音樂著作收益之信託受益權代幣）。",
+    "發行代幣化證券並直接管理客戶帳戶之帳戶管理機構，應具備自有資本 40 億韓元，並配置帳戶管理、內部控制專業人員各至少 1 名及資訊人員至少 2 名（依 Asia Asset Management 報導）。",
+    "作為電子登記之分散式帳本，須由韓國證券存託院（KSD）及至少二家帳戶管理機構共同參與，且不得直接收取帳本使用費。",
+    "散戶於每一場外交易平台之年度淨買入上限為 1 億韓元；並擬新增債務證券之場外交易平台許可單位。",
+    "新制預定於 2027 年 2 月 4 日施行，尚待金融委員會決議、法制審查及國務會議通過。"
+   ],
+   "issues": [
+    "要求韓國證券存託院與至少二家帳戶管理機構參與每一條帳本，是否實際限制可使用之區塊鏈數量？",
+    "散戶購買上限與場外交易平台許可分類，如何兼顧投資人保護與市場流動性？"
+   ],
+   "holding": "・帳戶管理機構：自有資本 40 億韓元，並須配置帳戶管理、內控及資訊專業人員。\n・分散式帳本：須有韓國證券存託院及至少二家帳戶管理機構參與；帳本具公共登記性質，不得直接收費。\n・投資人保護：散戶於每一場外交易平台年度淨買入以 1 億韓元為限。\n・場外交易平台：除未上市股票及非金錢信託受益權外，擬增設債務證券許可單位。",
+   "significance": "南韓為亞洲少數以專法將代幣化證券納入既有電子登記體系的法域，配套規則定案後即可於 2027 年 2 月上路；後續應觀察意見徵詢後對帳本參與要求的調整，以及業界對多鏈運用限制的反應。",
+   "editorNote": "本網頁助理 註：本則為補登，金融委員會於 2026 年 10 月 1 日發布，先前執行時未收錄。金融委員會英文新聞稿頁面本次無法開啟，資本、人員與購買上限等細節取自 Asia Asset Management 與 Ledger Insights 報導；Ledger Insights 並報導業界對帳本參與要求有所反彈。",
+   "tags": [
+    "代幣化",
+    "代幣化證券",
+    "分散式帳本",
+    "南韓金融委員會",
+    "南韓"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "南韓金融委員會新聞稿（英文）",
+     "url": "https://www.fsc.go.kr/eng/pr010101/87834",
+     "official": true
+    },
+    {
+     "label": "南韓金融委員會代幣化路線圖新聞稿（2026 年 9 月 4 日）",
+     "url": "https://www.fsc.go.kr/eng/pr010101/87653",
+     "official": true
+    },
+    {
+     "label": "Asia Asset Management 報導",
+     "url": "https://www.asiaasset.com/regulation-compliance/korea-plans-tokenised-securities-rules/",
+     "official": false
+    },
+    {
+     "label": "Ledger Insights 報導",
+     "url": "https://www.ledgerinsights.com/koreas-financial-services-commission-publishes-draft-tokenization-rules/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-29T07:30:25+08:00"
+  },
+  {
+   "id": "2026-10-15-fin-hkma-art-responsible-ai",
+   "court": "HKMA",
+   "kind": "監理指引",
+   "caseId": "",
+   "jurisdiction": "香港",
+   "outlet": "香港金融管理局（HKMA）",
+   "outletCode": "HKMA",
+   "date": "2026-10-15",
+   "eventDate": "2026-10-15",
+   "importance": 2,
+   "author": "",
+   "title": "香港金管局推出「ART」框架並發布負責任採用人工智慧監理指引，將就代理型 AI 治理發表討論文件",
+   "shortTitle": "香港金管局推出銀行業 AI「ART」框架",
+   "point": "發布負責任採用 AI 監理指引，代理型 AI 治理討論文件將出",
+   "titleOriginal": "HKMA announces \"ART\" Framework to promote responsible A.I. adoption",
+   "caseRef": "",
+   "tldr": "香港金管局以「問責、韌性、信任」（ART）為主軸，推出銀行業採用 AI 的整體框架：發布新版監理指引、與數碼港及香港大學建置 AI 訓練資料共享平台，並預告將就能自主執行多步驟任務的「代理型 AI」提出監理討論文件。",
+   "memo": "香港金融管理局於 2026 年 10 月 15 日公布以問責（Accountability）、韌性（Resilience）及信任（Trust）為核心之「ART」框架，促進銀行業負責任採用人工智慧，內容包括：依第二期生成式 AI 沙盒經驗發布「負責任採用人工智慧監理指引」；與數碼港及香港大學合作建置以資料品質為核心之 AI 訓練資料共享平台；透過 GenA.I. Sandbox++ 測試代理型 AI 應用，並將發表代理型 AI 治理監理架構討論文件，探討以意圖為基礎之問責、重要 AI 代理登錄及有效介入機制。",
+   "context": "香港金管局自 2024 年起與數碼港合辦生成式 AI 沙盒，第二期於 2025 年 10 月公布，GenA.I. Sandbox++ 首批參與者於 2026 年 8 月 27 日公布；金管局並於 2025 年 11 月發布「金融科技 2030」策略。",
+   "facts": [
+    "金管局於 2026 年 10 月 15 日公布 ART 框架，同日起與數碼港合辦為期兩日之「Finance + A.I. Forum」。",
+    "框架包括三項措施：發布最新「負責任採用人工智慧監理指引」、建置 AI 訓練資料共享平台、透過 GenA.I. Sandbox++ 進一步測試代理型 AI。",
+    "金管局稱第二期生成式 AI 沙盒逾六成用例探索代理型 AI，例如在既定邊界與控制下自動規劃與執行多步驟任務。",
+    "代理型 AI 治理討論文件將探討以意圖為基礎之問責、重要 AI 代理登錄及有效介入機制，發布時間未公布。",
+    "金管局副總裁阮國恒表示，從生成式 AI 走向代理型 AI 是銀行業創新的重要新階段，並強調須搭配有效的人為監督。"
+   ],
+   "issues": [
+    "代理型 AI 自主執行交易或流程時，銀行應如何界定與承擔責任？",
+    "「重要 AI 代理登錄」制度若實施，登錄門檻與監理效果如何？"
+   ],
+   "holding": "・監理指引：發布最新「負責任採用人工智慧監理指引」，納入生成式 AI 沙盒第二期之經驗。\n・資料基礎：與數碼港及香港大學合建 AI 訓練資料共享平台，以資料品質保證為核心設計原則。\n・代理型 AI：透過 GenA.I. Sandbox++ 測試，並將發表監理討論文件，探討意圖為基礎之問責、重要 AI 代理登錄及有效介入機制。",
+   "significance": "香港金管局是少數明確就代理型 AI 提出監理方向的金融監理機關，後續討論文件可能提出登錄或介入要求；可與 FSB 同日定稿的 AI 健全實務一併觀察。",
+   "editorNote": "本網頁助理 註：本則為補登，金管局於 2026 年 10 月 15 日發布，先前執行時未收錄。新聞稿未載通函編號，亦未說明監理指引的具體要求，本則未摘述指引內容。新聞稿標題作「Trust」，副總裁引言則作「Resiliency」，兩者僅用字差異。",
+   "tags": [
+    "人工智慧",
+    "代理型 AI",
+    "監理沙盒",
+    "香港金管局",
+    "香港"
+   ],
+   "related": [
+    "2026-10-15-fin-fsb-ai-sound-practices-final"
+   ],
+   "sources": [
+    {
+     "label": "香港金管局新聞稿（ART 框架）",
+     "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261015-3/",
+     "official": true
+    },
+    {
+     "label": "香港金管局新聞稿（GenA.I. Sandbox++ 首批參與者）",
+     "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260827-3/",
+     "official": true
+    },
+    {
+     "label": "FinTech Global 報導",
+     "url": "https://fintech.global/2026/10/23/hkmas-art-framework-sets-rules-for-agentic-ai-in-banking/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-29T07:30:25+08:00"
   }
  ],
  "agenda": [
@@ -2470,6 +2601,16 @@
    "url": "",
    "relatedId": "",
    "caseId": ""
+  },
+  {
+   "id": "2026-11-11-kr-tokenised-securities-comment-deadline",
+   "date": "2026-11-11",
+   "court": "KR",
+   "title": "南韓代幣化證券配套子法意見徵詢截止",
+   "note": "南韓時間；金融委員會預告草案。",
+   "url": "https://www.fsc.go.kr/eng/pr010101/87834",
+   "relatedId": "2026-10-01-fin-kr-fsc-tokenised-securities-rules",
+   "caseId": "kr-tokenised-securities"
   },
   {
    "id": "2026-11-12-eba-usdc-dual-supervision",
@@ -2590,6 +2731,16 @@
    "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
    "relatedId": "2026-10-21-fin-occ-genius-act-final-rule",
    "caseId": "genius-act-implementation"
+  },
+  {
+   "id": "2027-02-04-kr-tokenised-securities-effective",
+   "date": "2027-02-04",
+   "court": "KR",
+   "title": "南韓代幣化證券制度預定施行",
+   "note": "尚待金融委員會決議、法制審查及國務會議通過，日期可能變動。",
+   "url": "https://www.fsc.go.kr/eng/pr010101/87834",
+   "relatedId": "2026-10-01-fin-kr-fsc-tokenised-securities-rules",
+   "caseId": "kr-tokenised-securities"
   },
   {
    "id": "2027-02-28-fca-application-window-closes",
@@ -2745,6 +2896,17 @@
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
    "status": "CFTC 10 月 9 日以規則劃定事件合約與博弈界線，10 月 26 日起訴猶他州（第十件對州訴訟）；新澤西州聲請最高法院審理尚待決定。"
+  },
+  {
+   "id": "kr-tokenised-securities",
+   "type": "議題",
+   "court": "KR",
+   "forum": "南韓金融委員會",
+   "name": "南韓代幣化證券制度",
+   "nameOriginal": "Korea tokenised securities framework",
+   "caseRef": "",
+   "summary": "南韓立法承認分散式帳本證券電子登記後，金融委員會發布路線圖並訂定配套子法，建立代幣化證券發行與場外流通制度。",
+   "status": "金融委員會 10 月 1 日預告配套子法，意見徵詢至 11 月 11 日，預定 2027 年 2 月 4 日施行。"
   }
  ],
  "archives": []
