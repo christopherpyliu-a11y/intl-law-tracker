@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-28T07:30:22+08:00",
-  "lastRunLocal": "2026-10-28 07:30",
+  "lastRun": "2026-10-28T23:51:02+08:00",
+  "lastRunLocal": "2026-10-28 23:51",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：美國 2（監理指引 1、政策動態 1）、歐盟 1（草案諮詢 1）"
+  "lastRunNote": "新增 6 則：美國 3（司法案件 1、政策動態 2）、英國 1（草案諮詢 1）、亞太與其他 2（草案諮詢 1、研究報告 1）"
  },
  "items": [
   {
@@ -365,7 +365,8 @@
     "英國"
    ],
    "related": [
-    "2026-10-21-fin-fca-gc26-7-defi-guidance"
+    "2026-10-21-fin-fca-gc26-7-defi-guidance",
+    "2026-10-23-fin-fca-cp26-38-financial-crime-guide"
    ],
    "sources": [
     {
@@ -422,7 +423,8 @@
     "英國"
    ],
    "related": [
-    "2026-10-21-fin-fca-cp26-36-perimeter-guidance"
+    "2026-10-21-fin-fca-cp26-36-perimeter-guidance",
+    "2026-10-06-fin-adgm-fsra-defi-guidance-cp"
    ],
    "sources": [
     {
@@ -1029,7 +1031,7 @@
    "id": "2026-10-09-fin-cftc-event-contracts-swap-definition",
    "court": "CFTC",
    "kind": "法規發布",
-   "caseId": "",
+   "caseId": "us-prediction-markets-preemption",
    "jurisdiction": "美國",
    "outlet": "美國商品期貨交易委員會（CFTC）",
    "outletCode": "CFTC",
@@ -1066,7 +1068,9 @@
     "CFTC",
     "美國"
    ],
-   "related": [],
+   "related": [
+    "2026-10-27-fin-cftc-sues-utah-prediction-markets"
+   ],
    "sources": [
     {
      "label": "CFTC 新聞稿（9309-26）",
@@ -1713,7 +1717,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-21-fin-occ-genius-act-final-rule"
+    "2026-10-21-fin-occ-genius-act-final-rule",
+    "2026-10-26-fin-occ-ripple-trust-bank-final"
    ],
    "sources": [
     {
@@ -2073,6 +2078,376 @@
     }
    ],
    "addedAt": "2026-10-28T07:30:22+08:00"
+  },
+  {
+   "id": "2026-10-27-fin-cftc-sues-utah-prediction-markets",
+   "court": "CFTC",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國猶他州",
+   "outlet": "Cointelegraph",
+   "outletCode": "CT",
+   "date": "2026-10-27",
+   "eventDate": "2026-10-26",
+   "importance": 2,
+   "author": "",
+   "title": "CFTC 向猶他州聯邦地方法院起訴猶他州及其檢察總長，主張州政府限制 CFTC 監理之交易所提供事件合約侵害聯邦專屬管轄",
+   "shortTitle": "CFTC 起訴猶他州 捍衛預測市場管轄",
+   "point": "10 月 26 日提告，為 CFTC 第十件對州政府的預測市場訴訟",
+   "titleOriginal": "CFTC Files Lawsuit Against Utah Over Prediction Markets",
+   "caseRef": "CFTC Release No. 9315-26",
+   "tldr": "猶他州上週以違反州賭博法為由控告預測市場業者 Kalshi，要求返還最多 6,000 萬美元利潤。CFTC 隨即反過來告猶他州，主張這些事件合約是聯邦法上的「交換」，只能由 CFTC 監理，州政府不能阻止受 CFTC 監理的交易所提供。",
+   "memo": "依 Cointelegraph 2026 年 10 月 27 日報導，美國商品期貨交易委員會（CFTC）於同年 10 月 26 日向猶他州聯邦地方法院起訴猶他州及其檢察總長 Derek Brown，主張系爭事件合約屬《商品交易法》所稱之交換，並於 CFTC 監理之指定契約市場（DCM）交易，猶他州限制 DCM 提供經 CFTC 核准之商品，妨礙國會所建立之聯邦衍生性商品監理架構；本件係猶他州起訴 Kalshi 請求返還至多 6,000 萬美元不法利潤後一週提起，為 CFTC 對州政府提起之第十件同類訴訟。",
+   "context": "預測市場業者 Kalshi 等提供運動、政治等事件合約，多州以違反州賭博法為由採取行動，聯邦上訴法院之間已有歧見：第三巡迴法院傾向支持聯邦法優先，第六、第九巡迴法院則判決州政府可依賭博法規範。\nCFTC 主席 Selig 多次主張 CFTC 對預測市場有專屬管轄權；CFTC 於 10 月 9 日以暫行最終規則將州許可之運動投注與賭場遊戲排除於交換定義之外，同時提案明定事件合約屬交換。\n新澤西州已於 9 月請求聯邦最高法院審理其與 Kalshi 的案件，最高法院尚未決定是否受理。",
+   "facts": [
+    "CFTC 於 2026 年 10 月 26 日向猶他州聯邦地方法院（中區）起訴，10 月 27 日公開。",
+    "被告為猶他州及檢察總長 Derek Brown。",
+    "猶他州前一週起訴 Kalshi 及其關係企業，指其提供非法賭博、構成公共妨害，請求返還至多 6,000 萬美元利潤（屬請求金額，非判決或罰款）。",
+    "依 The Block 報導，此為 CFTC 第十件控告州政府的訴訟，先前對象包括亞利桑那、康乃狄克、伊利諾、紐約、威斯康辛、明尼蘇達、羅德島、新墨西哥與肯塔基州。",
+    "Kalshi 發言人表示，單一州不應對全國性衍生性商品市場享有否決權。"
+   ],
+   "issues": [
+    "《商品交易法》是否默示排除州賭博法對 DCM 上市事件合約的適用？",
+    "聯邦監理機關得否以原告身分起訴州政府，請求禁止州法執行？",
+    "各巡迴法院歧見是否將促使最高法院介入？"
+   ],
+   "holding": "・CFTC 主張：系爭事件合約屬《商品交易法》之交換，由 CFTC 監理之 DCM 提供，州政府限制 DCM 提供經核准商品，妨礙聯邦監理架構，並規避國會使聯邦法優先之意旨。\n・依報導，CFTC 請求禁止猶他州執行相關州法措施。\n・CFTC 主席 Selig 表示，國會賦予 CFTC 作為此類市場唯一聯邦監理者的職責，CFTC 將捍衛其對商品衍生性商品的專屬管轄。",
+   "significance": "CFTC 由支持業者的「法院之友」轉為直接對州政府提告的策略持續擴大，州與聯邦對預測市場的管轄衝突更趨尖銳。後續應注意猶他州的答辯、法院是否核發暫時性禁制令，以及最高法院對新澤西州聲請的處理。",
+   "editorNote": "本網頁助理 註：本則依 Cointelegraph、The Block 與 crypto.news 報導整理；CFTC 新聞稿連結取自 Cointelegraph 報導，本網頁助理未能直接開啟該頁面，起訴狀案號亦未見於上述報導。另依 The Block 轉述路透社，CFTC 同日亦被報導正調查 Polymarket 是否違反 2022 年和解，該項報導未經官方證實。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先",
+    "CFTC",
+    "Kalshi",
+    "猶他州",
+    "美國"
+   ],
+   "related": [
+    "2026-10-09-fin-cftc-event-contracts-swap-definition"
+   ],
+   "sources": [
+    {
+     "label": "CFTC 新聞稿（9315-26）",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+     "official": true
+    },
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets",
+     "official": false
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/cftc-sues-utah-prediction-markets-10-states/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-28T23:51:02+08:00"
+  },
+  {
+   "id": "2026-10-26-fin-occ-ripple-trust-bank-final",
+   "court": "OCC",
+   "kind": "政策動態",
+   "caseId": "icba-v-occ-trust-charters",
+   "jurisdiction": "美國",
+   "outlet": "Ripple",
+   "outletCode": "RIPPLE",
+   "date": "2026-10-26",
+   "eventDate": "2026-10-26",
+   "importance": 1,
+   "author": "",
+   "title": "Ripple 宣布取得 OCC 最終核准設立全國性信託銀行，將管理 RLUSD 穩定幣準備資產",
+   "shortTitle": "Ripple 信託銀行獲 OCC 最終核准",
+   "point": "2025 年 12 月附條件核准後約十個月，將託管 RLUSD 準備",
+   "titleOriginal": "OCC Grants Final Approval for Ripple National Trust Bank",
+   "caseRef": "",
+   "tldr": "加密支付公司 Ripple 表示，美國貨幣監理署（OCC）已最終核准其設立 Ripple National Trust Bank。這家聯邦監理的信託銀行將管理其美元穩定幣 RLUSD 的準備資產並提供數位資產保管，但 RLUSD 仍由紐約州監理的信託公司發行。",
+   "memo": "依 Ripple 公司 2026 年 10 月 26 日公告，美國貨幣監理署（OCC）已最終核准其設立全國性信託銀行 Ripple National Trust Bank，完成 2025 年 12 月附條件核准後之籌設程序；該行將管理支應 RLUSD 穩定幣之隔離準備資產、擔任準備資產之擔保受託人，並於開業後提供數位資產受託保管服務；RLUSD 仍由紐約州金融服務署監理之 Standard Custody & Trust Company 發行。",
+   "context": "OCC 於 2025 年 12 月附條件核准 Ripple、Circle、Paxos、Fidelity Digital Assets 與 BitGo 等加密業者申設全國性信託銀行；Circle 已於 2026 年 7 月取得最終核准。\n美國獨立社區銀行家協會（ICBA）於 2026 年 10 月 2 日起訴 OCC，主張其無權為不從事受託業務的業者核發信託銀行執照。",
+   "facts": [
+    "Ripple 於 2026 年 10 月 26 日宣布取得最終核准，銀行設於紐約市。",
+    "核准業務：管理 RLUSD 隔離準備資產、擔任準備資產擔保受託人、數位資產受託保管。",
+    "RLUSD 於 2024 年 12 月推出，市值約 25 億至 26 億美元，主要準備託管機構為 BNY。",
+    "公告未載明開業日期與資本額。"
+   ],
+   "issues": [
+    "全國性信託銀行執照用於穩定幣準備管理與保管，是否符合《國家銀行法》對受託業務的界定？",
+    "ICBA 訴訟對已取得最終核准之業者有何影響？"
+   ],
+   "holding": "・OCC 最終核准 Ripple National Trust Bank 設立，完成附條件核准後的籌設程序。\n・銀行業務限於準備資產管理、擔保受託與數位資產保管；穩定幣發行人維持不變。\n・Ripple 表示將與 OCC、紐約州金融服務署等機關配合 GENIUS Act 架構之施行。",
+   "significance": "繼 Circle 之後，又一家加密業者完成 OCC 信託銀行籌設，使穩定幣準備資產可置於聯邦監理之信託銀行。ICBA 訴 OCC 案的結果將決定此類執照的合法性。",
+   "editorNote": "本網頁助理 註：最終核准日期與業務範圍依 Ripple 公告及 Decrypt 報導，本網頁助理未在 OCC 網站找到對應的公告文件。",
+   "tags": [
+    "信託執照",
+    "穩定幣",
+    "OCC",
+    "Ripple",
+    "RLUSD",
+    "GENIUS Act",
+    "美國"
+   ],
+   "related": [
+    "2026-10-02-fin-icba-sues-occ-trust-charters"
+   ],
+   "sources": [
+    {
+     "label": "Ripple 公告",
+     "url": "https://ripple.com/ripple-press/ripple-receives-final-occ-approval-to-establish-national-trust-bank/",
+     "official": false
+    },
+    {
+     "label": "Decrypt 報導",
+     "url": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
+     "official": false
+    },
+    {
+     "label": "OCC 2025 年 12 月附條件核准文件（PDF）",
+     "url": "https://www.occ.treas.gov/news-issuances/news-releases/2025/nr-occ-2025-125b.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-28T23:51:02+08:00"
+  },
+  {
+   "id": "2026-10-28-fin-dtc-tokenization-service-live",
+   "court": "SEC",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "crypto.news",
+   "outletCode": "CN",
+   "date": "2026-10-28",
+   "eventDate": "2026-10-28",
+   "importance": 2,
+   "author": "",
+   "title": "DTC 依 SEC 無異議函上線證券代幣化服務，首批 34 檔股票、ETF 與美國公債可轉為代幣",
+   "shortTitle": "DTC 證券代幣化服務依 SEC 無異議函上線",
+   "point": "首批 34 檔證券、20 家參與者，代幣與 DTC 託管證券一比一對應",
+   "titleOriginal": "DTCC launches tokenization service with 20 major firms",
+   "caseRef": "SEC 無異議函（2025 年 12 月 11 日）",
+   "tldr": "美國證券集中保管機構 DTC 正式推出代幣化服務：參與者可把在 DTC 託管的股票、ETF 與美國公債轉成區塊鏈上的代幣，代幣背後一對一對應真實證券，權利與保障不變。這是 SEC 2025 年 12 月發出無異議函後首次正式運作。",
+   "memo": "依 crypto.news 等 2026 年 10 月 28 日報導，美國存託信託公司（DTC）於同日依美國證券交易委員會（SEC）2025 年 12 月 11 日所發為期三年之無異議函，正式上線證券代幣化服務，首批涵蓋 34 檔羅素 1000 成分股、主要指數 ETF 及美國公債，已有 20 家參與者簽約；代幣由 DTC 以一比一持有之基礎證券支應並維持原有權利及投資人保障，僅得於登記錢包間移轉，目前運行於 Canton Network 及 DTCC 私有 Besu 鏈。",
+   "context": "SEC 交易與市場部門於 2025 年 12 月 11 日對 DTC 發出無異議函，允許其在受控生產環境中，為 DTC 參與者將特定高流動性託管證券代幣化，期間三年。\nSEC 另於 2026 年 10 月以創新豁免開放代幣化 NMS 股票之鏈上交易，首個平台 OKXICE 已有多家發行公司依豁免條件提出反對。",
+   "facts": [
+    "服務於 2026 年 10 月 28 日上線。",
+    "首批 34 檔證券，依 DTCC 發言人向 CoinDesk 表示，合計市值約 30 兆美元。",
+    "20 家參與者簽約，包括 JPMorgan、Citi、Fidelity、Citadel Securities、Bank of America、Morgan Stanley、State Street、UBS 等。",
+    "轉換限於營業時間，目標 15 分鐘內完成；代幣化後可全天候於登記錢包間移轉，但不延長交易所交易時間。",
+    "2027 年規劃加入 Stellar 與 Circle 的 Arc 鏈，並擴及公司行動、數位現金結算與擔保品用途。"
+   ],
+   "issues": [
+    "在無異議函而非正式規則下運作的代幣化服務，其法律確定性與三年期滿後的安排為何？",
+    "代幣僅能於登記錢包間移轉，對公開鏈互通與投資人保護的平衡為何？"
+   ],
+   "holding": "・DTC 以一比一持有基礎證券，並維持官方持有紀錄；代幣持有人享有與原證券相同的權利與保障。\n・僅 DTC 合格參與者可鑄造代幣，移轉須經登記錢包並受合規限制。\n・適用範圍限於無異議函所列之羅素 1000 成分股、主要指數 ETF 與美國公債。",
+   "significance": "美國核心證券基礎設施首次在 SEC 監理許可下實際運作代幣化，可能成為傳統證券上鏈的主要路徑之一，並與 SEC 創新豁免下的交易平台模式形成對照。後續應注意參與者與證券範圍擴大、公開鏈整合，以及 SEC 對代幣化證券的正式規則。",
+   "editorNote": "本網頁助理 註：DTCC 新聞稿網頁本網頁助理未能開啟，上線細節依 crypto.news 與 Bitcoin Foundation 新聞整理；兩者對公開鏈計畫的描述略有不同（crypto.news 稱 Stellar 預計 2027 年上半年整合）。",
+   "tags": [
+    "代幣化",
+    "證券代幣化",
+    "無異議函",
+    "SEC",
+    "DTCC",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "DTCC 2025 年 12 月無異議函說明",
+     "url": "https://www.dtcc.com/news/2025/december/11/paving-the-way-to-tokenized-dtc-custodied-assets",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/dtcc-launches-tokenization-service-with-20-major-firms/",
+     "official": false
+    },
+    {
+     "label": "Bitcoin Foundation 新聞報導",
+     "url": "https://bitcoinfoundation.org/news/blockchain-news/dtcc-launches-tokenization-for-34-securities-worth-30-trillion/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-28T23:51:02+08:00"
+  },
+  {
+   "id": "2026-10-23-fin-fca-cp26-38-financial-crime-guide",
+   "court": "FCA",
+   "kind": "草案諮詢",
+   "caseId": "uk-cryptoasset-regime",
+   "jurisdiction": "英國",
+   "outlet": "英國金融行為監理總署（FCA）",
+   "outletCode": "FCA",
+   "date": "2026-10-23",
+   "eventDate": "2026-10-23",
+   "importance": 1,
+   "author": "",
+   "title": "FCA 發布 CP26/38，擬修正《金融犯罪指南》納入加密資產業者之洗錢防制與制裁遵循期待",
+   "shortTitle": "FCA 擬將加密資產納入金融犯罪指南",
+   "point": "區塊鏈分析、非託管錢包強化審查與旅行規則，意見至 12 月 24 日",
+   "titleOriginal": "CP26/38: Financial Crime Guide updates",
+   "caseRef": "CP26/38",
+   "tldr": "英國加密資產業者 2027 年 10 月起須取得 FCA 許可。FCA 提出修正《金融犯罪指南》，說明這些業者在客戶審查、交易監控、旅行規則與制裁上應如何做，例如使用區塊鏈分析工具、對非託管錢包與混幣服務加強審查。",
+   "memo": "英國金融行為監理總署（FCA）於 2026 年 10 月 23 日發布諮詢文件 CP26/38，擬修正《金融犯罪指南》，因應《2026 年加密資產規則》自 2027 年 10 月 25 日施行，就加密資產業者之風險評估、客戶盡職調查、持續監控、強化盡職調查（含非託管錢包、混幣服務及隱私幣）、旅行規則及金融與貿易制裁遵循提出監理期待，並要求穩定幣發行人於贖回前完成客戶盡職調查；意見徵詢至 2026 年 12 月 24 日。",
+   "context": "英國加密資產新制依《2000 年金融服務與市場法（加密資產）規則 2026》，自 2027 年 10 月 25 日起施行，申請期間為 2026 年 9 月 30 日至 2027 年 2 月 28 日。\n英國 2025 年國家風險評估將加密資產洗錢風險評為高、資恐風險評為中。",
+   "facts": [
+    "CP26/38 於 2026 年 10 月 23 日發布，意見期限 2026 年 12 月 24 日。",
+    "修正範圍另包括詐欺、資武擴散、資料安全、金融犯罪系統與控制、洗錢與資恐，以及金融與貿易制裁。",
+    "FCA 認為修正僅釐清既有期待，預期不生重大成本；指南屬非拘束性一般指引。"
+   ],
+   "issues": [
+    "區塊鏈分析與鏈上監控成為監理期待後，中小型新進業者的遵循成本為何？",
+    "對非英國發行之合格穩定幣與非託管錢包的強化審查如何落實風險基礎方法？"
+   ],
+   "holding": "・風險評估：考量客戶使用之加密服務所在法域，以及匿名性、隱私與去中心化帶來的風險。\n・客戶審查與監控：運用區塊鏈分析支援盡職調查與持續監控；穩定幣發行人應於上架與贖回時完成盡職調查，未完成前不得贖回。\n・強化審查：涉及非託管錢包、混幣服務或隱私幣之交易應採強化盡職調查。\n・旅行規則：應收集、驗證並傳送匯款人與受款人資訊，資訊缺漏應風險基礎處理，持續違規須向 FCA 通報。\n・制裁：更新風險評估、篩檢、規避偵測與凍結通報，並釐清 OFSI、OTSI、HMRC 與 FCA 的分工。\n・不良實務例：機械式設定交易「跳數」門檻、持續監控未使用區塊鏈分析。",
+   "significance": "這是 FCA 為加密資產新制申請者準備的金融犯罪遵循藍圖，申請者應據以設計控制措施。最終指南將以政策聲明發布。",
+   "editorNote": "",
+   "tags": [
+    "加密資產",
+    "洗錢防制",
+    "旅行規則",
+    "制裁",
+    "FCA",
+    "英國"
+   ],
+   "related": [
+    "2026-10-21-fin-fca-cp26-36-perimeter-guidance"
+   ],
+   "sources": [
+    {
+     "label": "FCA 諮詢文件頁面（CP26/38）",
+     "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-38-financial-crime-guide-updates",
+     "official": true
+    },
+    {
+     "label": "FCA 諮詢文件全文（PDF）",
+     "url": "https://www.fca.org.uk/publication/consultation/cp26-38.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-28T23:51:02+08:00"
+  },
+  {
+   "id": "2026-10-06-fin-adgm-fsra-defi-guidance-cp",
+   "court": "OTHER",
+   "kind": "草案諮詢",
+   "caseId": "",
+   "jurisdiction": "阿拉伯聯合大公國阿布達比全球市場（ADGM）",
+   "outlet": "阿布達比全球市場金融服務監理局（FSRA）",
+   "outletCode": "FSRA",
+   "date": "2026-10-06",
+   "eventDate": "2026-10-06",
+   "importance": 1,
+   "author": "",
+   "title": "ADGM 金融服務監理局發布第 5 號諮詢文件，徵詢受監理機構參與 DeFi 之風險管理指引",
+   "shortTitle": "ADGM 徵詢 DeFi 風險管理指引",
+   "point": "不新增 DeFi 業務類別，著重受監理機構治理，意見至 11 月 30 日",
+   "titleOriginal": "ADGM FSRA invites industry feedback on proposed DeFi Risk Management Guidance (Consultation Paper No. 5 of 2026)",
+   "caseRef": "Consultation Paper No. 5 of 2026",
+   "tldr": "阿布達比國際金融中心 ADGM 的監理機關提出指引草案，說明持牌機構若使用或接觸去中心化金融（DeFi）協定，要怎麼做風險管理：先確認業務在許可範圍內，再由董事會與指定主管負責，並管好智能合約、預言機、跨鏈橋與客戶資產等風險。",
+   "memo": "阿布達比全球市場金融服務監理局（FSRA）於 2026 年 10 月 6 日發布 2026 年第 5 號諮詢文件，擬訂定 DeFi 風險管理指引，適用於與 DeFi 協定及場所往來之授權機構及認可機構，就風險管理與治理、盡職調查與監控、金融犯罪控制、事件通報、紀錄保存、人員能力及客戶資產保護提出監理期待，不新增 DeFi 受監理業務或協定認可制度；意見徵詢至 2026 年 11 月 30 日。",
+   "context": "FSRA 先前曾發布 DeFi 討論文件。本次指引置於現行架構內，聚焦於受監理機構本身能否證明其 DeFi 參與受到治理與控制。",
+   "facts": [
+    "諮詢文件於 2026 年 10 月 6 日發布，意見期限 2026 年 11 月 30 日，以電子郵件提交。",
+    "適用對象為授權機構（Authorised Persons）與認可機構（Recognised Bodies）。"
+   ],
+   "issues": [
+    "受監理機構參與無中介者的 DeFi 協定時，責任應如何歸屬？",
+    "全天候運作的鏈上活動如何落實即時監控與事件通報？"
+   ],
+   "holding": "・許可範圍優先：重大 DeFi 活動須在其金融服務許可範圍內，否則不論風險抵減措施如何均不得進行；新型或重大參與應事先諮詢 FSRA。\n・治理：董事會核定 DeFi 策略與風險胃納，並指定高階主管負責。\n・基礎設施風險：保管與金鑰管理、智能合約、協定治理、預言機與跨鏈橋。\n・資產性質：使用 DeFi 不改變資產的法律或監理性質，包括法幣參考代幣、代幣化權利與包裝或跨鏈資產。\n・客戶資產保護規則完全適用，監控須能於非營業時間運作。",
+   "significance": "ADGM 選擇以機構層面的風險管理指引而非新業務類別規範 DeFi，與英國 FCA GC26/7 的 DeFi 指引方向相近，可供比較。",
+   "editorNote": "本網頁助理 註：指引內容細節依 Clyde & Co 2026 年 10 月 21 日分析整理，FSRA 公告僅列出涵蓋領域。",
+   "tags": [
+    "DeFi",
+    "ADGM",
+    "FSRA",
+    "阿聯",
+    "阿布達比"
+   ],
+   "related": [
+    "2026-10-21-fin-fca-gc26-7-defi-guidance"
+   ],
+   "sources": [
+    {
+     "label": "ADGM 公告（FSRA 諮詢文件第 5 號）",
+     "url": "https://www.adgm.com/media/announcements/adgm-fsra-invites-industry-feedback-on-proposed-defi-risk-management-guidance",
+     "official": true
+    },
+    {
+     "label": "Clyde & Co 分析",
+     "url": "https://www.clydeco.com/en/insights/2026/10/fsra-draws-the-line-how-adgm-expects-firms-to-mana",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-28T23:51:02+08:00"
+  },
+  {
+   "id": "2026-10-07-fin-afm-dnb-tokenisation-report",
+   "court": "OTHER",
+   "kind": "研究報告",
+   "caseId": "",
+   "jurisdiction": "荷蘭",
+   "outlet": "荷蘭中央銀行（DNB）",
+   "outletCode": "DNB",
+   "date": "2026-10-07",
+   "eventDate": "2026-10-07",
+   "importance": 1,
+   "author": "",
+   "title": "荷蘭金融市場管理局與荷蘭中央銀行發布代幣化證券研究，指荷蘭法未允許純代幣形式之證券並呼籲釐清法制",
+   "shortTitle": "荷蘭監理機關呼籲建立代幣化法制",
+   "point": "現行財產法不允許原生代幣化證券，雙重登記削弱效益",
+   "titleOriginal": "AFM en DNB pleiten voor duidelijk juridisch kader voor tokenisatie",
+   "caseRef": "",
+   "tldr": "荷蘭兩大金融監理機關研究後發現，荷蘭法律目前不允許證券完全以區塊鏈代幣形式發行與移轉，業者只好同時維持鏈上與傳統兩套登記，既沒效率又有法律不確定性。它們呼籲政府、監理機關與業界盡快研究是否修法。",
+   "memo": "荷蘭金融市場管理局（AFM）與荷蘭中央銀行（DNB）於 2026 年 10 月 7 日發布代幣化證券聯合研究，指出歐盟法及荷蘭法雖未禁止分散式帳本技術，惟荷蘭現行法制欠缺證券僅以代幣形式存在之依據，原生代幣化尚不可行，市場多採鏈上與傳統登記並存之混合架構，致效率受限並生登記法律效力之不確定；兩機關建議政府、監理機關與市場參與者及時共同研議，依具體案例判斷究應釐清現行規範或修正《民法典》及《證券轉帳法》（Wge）。",
+   "context": "歐盟 DLT 試行制度在各會員國一體適用，但代幣化證券的財產法定性仍由各國國內法決定，各國差異持續存在。",
+   "facts": [
+    "研究於 2026 年 10 月 7 日由 DNB 公布。",
+    "研究指出市場多採雙重登記的混合架構。",
+    "兩機關警告若未及時提供法律明確性，投資與市場基礎設施可能移往法制較明確的國家。"
+   ],
+   "issues": [
+    "證券原生代幣化應透過釐清現行法或修正民法典與證券轉帳法達成？",
+    "國內財產法差異如何與歐盟層級的代幣化政策協調？"
+   ],
+   "holding": "・歐盟法與荷蘭法不排除 DLT，但荷蘭法不允許證券完全以代幣形式發行、持有與移轉。\n・混合架構的雙重登記限制效率，並使代幣登記的法律意義不明確。\n・建議政府、監理機關與市場參與者共同後續研議，並與歐盟倡議協調；以具體使用案例決定是否修法。",
+   "significance": "代幣化證券的障礙不只在金融監理，也在國內財產法。荷蘭監理機關的研究顯示，歐盟會員國可能須修正民商法才能支持原生代幣化，值得與其他國家（包括台灣）的代幣化法制比較。",
+   "editorNote": "本網頁助理 註：本網頁助理未能開啟 AFM 網頁，內容依 DNB 新聞與 Global Regulation Tomorrow 2026 年 10 月 12 日整理。",
+   "tags": [
+    "代幣化",
+    "證券代幣化",
+    "DLT",
+    "AFM",
+    "DNB",
+    "荷蘭",
+    "歐盟"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "DNB 新聞（AFM 與 DNB 呼籲代幣化法制）",
+     "url": "https://www.dnb.nl/nieuws-voor-de-sector/betalingsverkeer-2026/afm-en-dnb-pleiten-voor-duidelijk-juridisch-kader-voor-tokenisatie/",
+     "official": true
+    },
+    {
+     "label": "AFM／DNB 代幣化研究報告（英文 PDF）",
+     "url": "https://www.dnb.nl/media/khkdlvcg/708345_2600352_dnb_brochure-tokenisatie-dnb-afm_eng_tg.pdf",
+     "official": true
+    },
+    {
+     "label": "Global Regulation Tomorrow 分析",
+     "url": "https://www.regulationtomorrow.com/2026/10/afm-and-dnb-report-on-tokenised-securities/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-28T23:51:02+08:00"
   }
  ],
  "agenda": [
@@ -2137,6 +2512,16 @@
    "caseId": ""
   },
   {
+   "id": "2026-11-30-other-adgm-defi-guidance-deadline",
+   "date": "2026-11-30",
+   "court": "OTHER",
+   "title": "ADGM FSRA DeFi 風險管理指引（CP 5/2026）意見徵詢截止",
+   "note": "以電子郵件提交 FSRA。",
+   "url": "https://www.adgm.com/media/announcements/adgm-fsra-invites-industry-feedback-on-proposed-defi-risk-management-guidance",
+   "relatedId": "2026-10-06-fin-adgm-fsra-defi-guidance-cp",
+   "caseId": ""
+  },
+  {
    "id": "2026-12-07-sec-custody-comment-deadline",
    "date": "2026-12-07",
    "court": "SEC",
@@ -2165,6 +2550,16 @@
    "url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html",
    "relatedId": "2026-10-24-fin-canada-draft-stablecoin-regulations",
    "caseId": "canada-stablecoin-act"
+  },
+  {
+   "id": "2026-12-24-fca-cp26-38-deadline",
+   "date": "2026-12-24",
+   "court": "FCA",
+   "title": "FCA 金融犯罪指南修正（CP26/38）意見徵詢截止",
+   "note": "最終指南將以政策聲明發布。",
+   "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-38-financial-crime-guide-updates",
+   "relatedId": "2026-10-23-fin-fca-cp26-38-financial-crime-guide",
+   "caseId": "uk-cryptoasset-regime"
   },
   {
    "id": "2027-01-08-esma-non-mica-stablecoin-deadline",
@@ -2239,7 +2634,7 @@
    "nameOriginal": "Independent Community Bankers of America v. Office of the Comptroller of the Currency (D.D.C.)",
    "caseRef": "",
    "summary": "美國獨立社區銀行家協會主張 OCC 核發不從事受託業務之全國性信託銀行執照（多為加密資產業者）逾越《國家銀行法》授權。",
-   "status": "ICBA 於 2026 年 10 月 2 日起訴；OCC 表示不評論進行中訴訟。"
+   "status": "ICBA 於 2026 年 10 月 2 日起訴；OCC 不評論訴訟，並於 10 月 26 日最終核准 Ripple 信託銀行（依 Ripple 公告）。"
   },
   {
    "id": "mica-stablecoin-supervision",
@@ -2294,7 +2689,7 @@
    "nameOriginal": "UK cryptoasset regulatory regime",
    "caseRef": "",
    "summary": "依《2000 年金融服務與市場法（加密資產）規則 2026》，新的加密資產活動自 2027 年 10 月 25 日起納入監理，FCA 陸續發布政策聲明與指引。",
-   "status": "申請期間 2026 年 9 月 30 日至 2027 年 2 月 28 日；CP26/36 與 GC26/7 意見徵詢至 11 月 18 日。"
+   "status": "申請期間 2026 年 9 月 30 日至 2027 年 2 月 28 日；CP26/36 與 GC26/7 意見徵詢至 11 月 18 日，金融犯罪指南修正（CP26/38）至 12 月 24 日。"
   },
   {
    "id": "hk-stablecoin-tokenisation",
@@ -2339,6 +2734,17 @@
    "caseRef": "",
    "summary": "加拿大 2026 年 3 月制定《穩定幣法》，由加拿大銀行負責穩定幣發行人註冊與監理，並以施行條例規定準備資產、贖回與禁止付息等要求。",
    "status": "財政部 10 月 24 日預告《穩定幣條例》草案，意見徵詢至 12 月 23 日，目標 2027 年秋季施行。"
+  },
+  {
+   "id": "us-prediction-markets-preemption",
+   "type": "議題",
+   "court": "CFTC",
+   "forum": "CFTC、聯邦與州法院",
+   "name": "美國預測市場聯邦與州管轄之爭",
+   "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
+   "caseRef": "",
+   "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
+   "status": "CFTC 10 月 9 日以規則劃定事件合約與博弈界線，10 月 26 日起訴猶他州（第十件對州訴訟）；新澤西州聲請最高法院審理尚待決定。"
   }
  ],
  "archives": []
