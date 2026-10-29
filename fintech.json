@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-29T23:32:23+08:00",
-  "lastRunLocal": "2026-10-29 23:32",
+  "lastRun": "2026-10-30T07:38:15+08:00",
+  "lastRunLocal": "2026-10-30 07:38",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：美國 1（執法案件 1）"
+  "lastRunNote": "新增 2 則：美國 1（政策動態 1）、英國 1（執法案件 1）"
  },
  "items": [
   {
@@ -298,7 +298,8 @@
    "related": [
     "2026-10-16-fin-florida-stablecoin-law-in-force",
     "2026-10-02-fin-icba-sues-occ-trust-charters",
-    "2026-10-24-fin-canada-draft-stablecoin-regulations"
+    "2026-10-24-fin-canada-draft-stablecoin-regulations",
+    "2026-10-27-fin-occ-community-banks-stablecoin-issuers"
    ],
    "sources": [
     {
@@ -2663,6 +2664,148 @@
     }
    ],
    "addedAt": "2026-10-29T23:32:23+08:00"
+  },
+  {
+   "id": "2026-10-27-fin-occ-community-banks-stablecoin-issuers",
+   "court": "OCC",
+   "kind": "政策動態",
+   "caseId": "genius-act-implementation",
+   "jurisdiction": "美國",
+   "outlet": "Unchained",
+   "outletCode": "UC",
+   "date": "2026-10-27",
+   "eventDate": "2026-10-26",
+   "importance": 1,
+   "author": "",
+   "title": "OCC 鼓勵社區銀行依 GENIUS Act 申請成為許可支付型穩定幣發行人，並說明申請尚未開放",
+   "shortTitle": "OCC 鼓勵社區銀行發行穩定幣",
+   "point": "申請待 OMB 核准表格後開放，2027 年 1 月 18 日後未獲許可發行即屬違法",
+   "titleOriginal": "OCC Invites Community Banks to Seek Stablecoin Issuer Approval Before Applications Open",
+   "caseRef": "OCC Bulletin 2026-51",
+   "tldr": "美國貨幣監理署（OCC）在發布穩定幣最終規則後，公開呼籲社區銀行考慮自己或透過子公司發行穩定幣，並發布社區銀行專用說明。不過申請窗口還沒開，要等聯邦預算管理局核准申請表格後才會公告受理。署長 Gould 隔天也公開重申，銀行與非銀行發行人適用同一套標準。",
+   "memo": "依 Unchained 2026 年 10 月 27 日報導，美國貨幣監理署（OCC）於 2026 年 10 月 26 日公開鼓勵社區銀行直接或透過子公司依《GENIUS Act》申請成為許可支付型穩定幣發行人，並發布社區銀行說明資料；OCC 表示申請及豁免請求須待聯邦管理及預算局（OMB）核准相關資訊蒐集後始公告受理，受理後 30 日內認定申請是否實質完備，並於認定後 120 日內作成決定；依 OCC Bulletin 2026-51，2027 年 1 月 18 日後未經許可發行支付型穩定幣將涉刑事責任。署長 Gould 於 10 月 27 日演說重申最終規則對銀行與非銀行發行人適用相同標準。",
+   "context": "OCC 於 2026 年 10 月 21 日發布 GENIUS Act 施行最終規則，與該法同於 2027 年 1 月 18 日生效。社區銀行業界先前擔心穩定幣普及會造成存款流失，社區銀行公會（ICBA）並已就 OCC 核發信託銀行執照提起訴訟。\nOCC 將此次呼籲連結到其「社區銀行復興」（Community Bank Comeback）系列措施。",
+   "facts": [
+    "OCC 於 2026 年 10 月 26 日在其 X 帳號發文，鼓勵社區銀行或其子公司考慮申請成為許可支付型穩定幣發行人。",
+    "OCC 發布社區銀行說明資料，稱穩定幣普及對社區銀行存款的影響仍不確定，各方估計差異很大。",
+    "OCC 目前尚未受理申請或豁免請求，須待 OMB 核准申請表格所涉資訊蒐集後，以新聞稿公告開放。",
+    "OCC 收到申請後 30 日內認定是否實質完備，認定後 120 日內作成決定。",
+    "豁免原則上給予已在美國營運且已提出實質完備申請者；可給予銀行的穩定幣子公司，但不給予直接發行的受保銀行。",
+    "檢查頻率依規模區分：大型發行人每 12 個月全面檢查，特定小型發行人可適用 18 至 24 個月週期。",
+    "署長 Jonathan Gould 於 10 月 27 日演說中重申支持社區銀行參與，並稱規則對銀行與非銀行發行人適用相同標準。"
+   ],
+   "issues": [
+    "社區銀行以子公司或直接發行穩定幣，在豁免與監理上待遇不同，如何選擇架構？",
+    "申請窗口開放時點取決於 OMB 程序，距 2027 年 1 月 18 日生效日的時間是否足夠？",
+    "穩定幣普及對社區銀行存款基礎的影響仍有爭議。"
+   ],
+   "holding": "・OCC 呼籲社區銀行直接或透過子公司申請成為許可支付型穩定幣發行人。\n・申請與豁免請求待 OMB 核准表格後公告受理；受理後 30 日內認定完備性，再 120 日內決定。\n・豁免原則上限於已在美國營運並已提出實質完備申請者；直接發行的受保銀行不適用豁免。\n・最終規則重申發行人不得支付利息或收益，OCC 將在申請審查中關注遵循情形。\n・檢查頻率依發行人規模調整，部分小型發行人可延長至 18 至 24 個月。",
+   "significance": "OCC 試圖讓社區銀行也成為穩定幣發行人，以回應存款流失疑慮並與非銀行發行人競爭。接下來應留意 OCC 公告開放申請的時點、首批申請者名單，以及 FDIC、聯準會對其所監理銀行的對應規則。",
+   "editorNote": "本網頁助理 註：本則依 Unchained 與 Lowenstein Sandler 2026 年 10 月 29 日 Crypto Brief 整理；OCC 社區銀行說明資料、Bulletin 2026-51 與 Gould 演說稿網址取自上述報導，本網頁助理未能直接開啟 OCC 網站核對內容。",
+   "tags": [
+    "穩定幣",
+    "GENIUS Act",
+    "社區銀行",
+    "OCC",
+    "美國"
+   ],
+   "related": [
+    "2026-10-21-fin-occ-genius-act-final-rule"
+   ],
+   "sources": [
+    {
+     "label": "OCC 社區銀行說明資料（PDF）",
+     "url": "https://www.occ.gov/topics/charters-and-licensing/genius-act/community-bank-fact-sheet.pdf",
+     "official": true
+    },
+    {
+     "label": "OCC Bulletin 2026-51（豁免與申請指引）",
+     "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-51.html",
+     "official": true
+    },
+    {
+     "label": "OCC 署長 Gould 演說稿（10 月 27 日，PDF）",
+     "url": "https://www.occ.gov/news-issuances/speeches/2026/pub-speech-2026-94.pdf",
+     "official": true
+    },
+    {
+     "label": "Lowenstein Sandler Crypto Brief 分析（10 月 29 日）",
+     "url": "https://www.lowenstein.com/news-insights/newsletters/crypto-brief-october-29-2026",
+     "official": false
+    },
+    {
+     "label": "Unchained 報導",
+     "url": "https://unchainedcrypto.com/occ-invites-community-banks-to-seek-stablecoin-issuer-approval-before-applications-open/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-30T07:38:15+08:00"
+  },
+  {
+   "id": "2026-10-29-fin-fca-htx-settlement",
+   "court": "FCA",
+   "kind": "執法案件",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "Unchained",
+   "outletCode": "UC",
+   "date": "2026-10-29",
+   "eventDate": "2026-10-27",
+   "importance": 2,
+   "author": "",
+   "title": "FCA 與 HTX 就違法加密資產金融推廣訴訟和解，HTX 承諾至 2031 年不得向英國消費者推廣",
+   "shortTitle": "FCA 與 HTX 和解違法推廣訴訟",
+   "point": "高等法院 10 月 27 日作成合意命令，HTX 承諾至 2031 年 10 月 21 日",
+   "titleOriginal": "HTX Gives the High Court a Five-Year Pledge on UK Crypto Promotions as FCA Case Settles",
+   "caseRef": "",
+   "tldr": "英國金融行為監理總署（FCA）去年起訴加密貨幣交易所 HTX（前身為火幣），指其違法向英國民眾推廣服務。雙方已和解，法院作成合意命令，HTX 承諾五年內不再故意違法向英國消費者推廣，並撤出英國；和解不代表 HTX 承認違法。",
+   "memo": "依 Unchained 2026 年 10 月 29 日報導，英國金融行為監理總署（FCA）就其於 2025 年 10 月 21 日對 Huobi Global S.A.（HTX）提起之違反英國金融推廣規範訴訟，與 HTX 於 2026 年 10 月 16 日簽訂和解協議，英格蘭及威爾斯高等法院於 2026 年 10 月 27 日作成合意之 Tomlin 命令停止訴訟程序，和解條件保密且不為費用裁定；HTX 承諾於 2031 年 10 月 21 日前不故意違反英國法律向英國消費者推廣加密資產服務。FCA 表示 HTX 正撤出英國，和解不構成任何人承認責任或不法行為，法院亦未就 FCA 之指控作成判斷。",
+   "context": "英國自 2023 年 10 月起將加密資產納入金融推廣制度，未經授權的境外業者不得向英國消費者推廣。FCA 於 2025 年 10 月 21 日對 HTX 提起民事訴訟，並於 2026 年 2 月 10 日公開，是 FCA 首度就加密資產違法推廣對境外交易所提起訴訟的案例之一。\n英國新的加密資產監理制度申請期間為 2026 年 9 月 30 日至 2027 年 2 月 28 日。",
+   "facts": [
+    "FCA 於 2025 年 10 月 21 日對 Huobi Global S.A.（HTX）提起訴訟，指控違反英國金融推廣規範，並於 2026 年 2 月 10 日公開。",
+    "雙方於 2026 年 10 月 16 日簽訂和解協議；同日 HTX 公告英國帳戶依「英國撤出安排」維持限制。",
+    "高等法院 Deputy Master Holden 於 2026 年 10 月 27 日作成合意之 Tomlin 命令，停止訴訟程序，和解條件保密，不為費用裁定。",
+    "HTX 承諾於 2031 年 10 月 21 日前，不故意違反英國法律向英國消費者推廣加密資產服務。",
+    "FCA 執法處長 Steve Smart 表示 HTX 正撤出英國，不能再鎖定英國消費者；FCA 表示和解不代表任何人承認責任或不法行為。"
+   ],
+   "issues": [
+    "FCA 對未經授權的境外加密資產交易所，透過民事訴訟與承諾取得境外執行效果的可行性。",
+    "以保密和解結案、法院未作實體判斷，對金融推廣規範的先例價值有限。"
+   ],
+   "holding": "・FCA 主張：HTX 違反英國金融推廣規範，向英國消費者推廣加密資產服務。\n・結果：雙方和解，法院以 Tomlin 合意命令停止訴訟，條件保密，不為費用裁定。\n・承諾：HTX 於 2031 年 10 月 21 日前不故意違法向英國消費者推廣加密資產服務。\n・法院未就 FCA 指控作成判斷，和解不構成承認責任。",
+   "significance": "本案顯示 FCA 願以訴訟方式處理境外交易所違法推廣，並以撤出英國與長期承諾作為結果。英國新加密資產制度即將施行，未取得授權的業者向英國消費者推廣的風險將更高；應留意 FCA 是否對其他境外平台採取類似行動。",
+   "editorNote": "本網頁助理 註：本則依 Unchained 報導整理；報導所附 FCA 新聞稿與合意命令網址，本網頁助理未能直接開啟核對。報導未提供案號。",
+   "tags": [
+    "加密資產",
+    "金融推廣",
+    "HTX",
+    "FCA",
+    "英國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "FCA 新聞稿（HTX 和解）",
+     "url": "https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions",
+     "official": true
+    },
+    {
+     "label": "高等法院合意命令全文（Tomlin Order，PDF）",
+     "url": "https://www.fca.org.uk/publication/documents/tomlin-order-deputy-master-holden-27-october-2026.pdf",
+     "official": true
+    },
+    {
+     "label": "FCA 關於 HTX 訴訟之聲明",
+     "url": "https://www.fca.org.uk/news/statements/htx-huobi-legal-proceedings",
+     "official": true
+    },
+    {
+     "label": "Unchained 報導",
+     "url": "https://unchainedcrypto.com/htx-gives-the-high-court-a-five-year-pledge-on-uk-crypto-promotions-as-fca-case-settles/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-30T07:38:15+08:00"
   }
  ],
  "agenda": [
@@ -2697,6 +2840,16 @@
    "caseId": "kr-tokenised-securities"
   },
   {
+   "id": "2026-11-11-fsb-turkiye-crypto-peer-review",
+   "date": "2026-11-11",
+   "court": "FSB",
+   "title": "FSB 公布土耳其加密資產建議落實同儕檢視報告",
+   "note": "依 FSB 10 月通訊預告，包括穩定幣；日期可能調整。",
+   "url": "https://mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-october-2026-20261028",
+   "relatedId": "",
+   "caseId": ""
+  },
+  {
    "id": "2026-11-12-eba-usdc-dual-supervision",
    "date": "2026-11-12",
    "court": "EBA",
@@ -2705,6 +2858,16 @@
    "url": "https://eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union",
    "relatedId": "2026-10-14-fin-eba-usdc-significant-emt",
    "caseId": "mica-stablecoin-supervision"
+  },
+  {
+   "id": "2026-11-16-fsb-g20-cross-border-payments-progress",
+   "date": "2026-11-16",
+   "court": "FSB",
+   "title": "FSB 公布 G20 跨境支付路線圖 2026 年綜合進度報告",
+   "note": "依 FSB 10 月通訊預告；FSB 全會同期於 11 月 16 至 17 日舉行。",
+   "url": "https://mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-october-2026-20261028",
+   "relatedId": "",
+   "caseId": ""
   },
   {
    "id": "2026-11-18-fca-cp26-36-gc26-7-deadline",
@@ -2847,7 +3010,7 @@
    "nameOriginal": "Implementation of the GENIUS Act (payment stablecoins)",
    "caseRef": "Pub. L. No. 119-27",
    "summary": "2025 年 7 月 18 日簽署的 GENIUS Act 建立聯邦支付型穩定幣制度，各聯邦監理機關與各州須訂定施行規則，發行量較小者可選擇州監理。",
-   "status": "OCC 10 月 21 日發布最終規則；GENIUS Act 與該規則於 2027 年 1 月 18 日生效，洗錢防制與制裁規則另訂；佛州州制度已於 10 月 1 日施行。"
+   "status": "OCC 10 月 21 日發布最終規則並鼓勵社區銀行申請發行，申請窗口待 OMB 核准表格後開放；GENIUS Act 與該規則於 2027 年 1 月 18 日生效，洗錢防制與制裁規則另訂。"
   },
   {
    "id": "us-crypto-market-structure",
