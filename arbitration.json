@@ -1,13 +1,198 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-29T23:18:33+08:00",
-  "lastRunLocal": "2026-10-29 23:18",
+  "lastRun": "2026-10-30T07:01:29+08:00",
+  "lastRunLocal": "2026-10-30 07:01",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 4 則：商務仲裁 2（法院裁判 1、評論 1）、投資仲裁 2（法院裁判 1、案件動態 1）",
+  "lastRunNote": "新增 3 則：商務仲裁 2（法院裁判 1、評論 1）、投資仲裁 1（案件動態 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
+  {
+   "id": "2026-10-29-arb-msd-ecuador-settlement",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "常設仲裁法院（PCA）案件（依新聞報導）",
+   "outletCode": "PCA",
+   "date": "2026-10-29",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "厄瓜多據報支付約 5,300 萬美元予 Merck Sharp & Dohme，了結拒絕正義投資仲裁判斷",
+   "shortTitle": "厄瓜多付約 5,300 萬美元了結 Merck 仲裁案",
+   "point": "源於 2003 年 150 萬美元的廠房買賣糾紛，仲裁庭認定厄瓜多法院拒絕正義",
+   "titleOriginal": "Merck Sharp & Dohme (I.A.) LLC v. Republic of Ecuador (PCA, UNCITRAL) — settlement of award; GAR: \"Ecuador settles with US pharma investor over denial of justice\"",
+   "caseRef": "",
+   "tldr": "美國藥廠 Merck Sharp & Dohme（MSD）多年前依美國－厄瓜多投資協定控告厄瓜多，主張厄瓜多法院處理其商業糾紛的方式構成「拒絕正義」並勝訴。據報導，厄瓜多已支付約 5,300 萬美元了結這筆仲裁判斷，一宗原本只值 150 萬美元的廠房買賣糾紛，二十多年後讓國家付出數十倍代價。",
+   "memo": "據 Global Arbitration Review 於 2026 年 10 月 28 日及厄瓜多媒體於翌日報導，厄瓜多已支付約 5,300 萬美元予 Merck Sharp & Dohme，以了結雙方依 1993 年美國－厄瓜多雙邊投資協定、適用 UNCITRAL 仲裁規則並由常設仲裁法院管理之仲裁所生判斷。該案源於 MSD 於 2003 年擬以約 150 萬美元出售當地藥廠予 NIFA（後更名 Prophar）未果所生之國內訴訟；仲裁庭於 2018 年認定厄瓜多法院構成拒絕正義，並於 2020 年作成終局判斷，厄瓜多其後向荷蘭法院聲請撤銷未果。報導未揭露付款日期及金額組成。",
+   "context": "2003 年，Merck Sharp & Dohme（MSD）擬將其在厄瓜多的藥廠以約 150 萬美元出售予當地企業 NIFA（後更名 Prophar），交易未成。NIFA 隨後在厄瓜多法院起訴 MSD，案件在國內法院纏訟多年。\nMSD 於 2011 年依 1993 年美國－厄瓜多雙邊投資協定提起仲裁，主張厄瓜多法院處理該訴訟的方式構成拒絕正義。仲裁適用 UNCITRAL 仲裁規則，由常設仲裁法院（PCA）管理，仲裁地為海牙。",
+   "facts": [
+    "仲裁庭於 2018 年認定厄瓜多法院之處理構成拒絕正義，2020 年作成終局判斷；厄瓜多媒體於 2021 年報導判賠金額約 4,400 萬美元。",
+    "厄瓜多曾向荷蘭法院聲請撤銷相關仲裁判斷，據報於 2021 年遭駁回。",
+    "GAR 於 2026 年 10 月 28 日報導，厄瓜多已支付約 5,300 萬美元了結該判斷；厄瓜多媒體 El Oriente 及 Diligence 於 10 月 29 日轉述。"
+   ],
+   "issues": [
+    "國內法院對外國投資人訴訟之處理，何時構成雙邊投資協定下之拒絕正義（公平公正待遇／有效救濟義務）。",
+    "地主國履行投資仲裁判斷之方式與時程。"
+   ],
+   "holding": "據報導，厄瓜多支付約 5,300 萬美元，了結本案仲裁判斷所生之給付義務，國際爭端因此告終。報導未說明付款日期，亦未區分本金、利息與費用。",
+   "significance": "本案是以國內司法程序為對象之拒絕正義求償中，少數由投資人勝訴並實際獲得給付者。據報支付金額約為原買賣價金的三十餘倍，顯示國內訴訟延宕或不當處理對國家可能造成的財政風險。和解付款後，本案應無後續程序。",
+   "editorNote": "本網頁助理 註：本則依 GAR 報導摘要（全文需訂閱）及厄瓜多媒體 El Oriente、Diligence 之轉述撰寫，尚未取得官方公告或和解文件；付款日期不明。2021 年厄瓜多媒體所稱判賠約 4,400 萬美元，與本次報導之約 5,300 萬美元不同，差額可能包含利息與費用，但來源未說明。協定名稱、PCA 管理及仲裁地依 Primicias 2021 年報導。",
+   "tags": [
+    "拒絕正義",
+    "雙邊投資協定",
+    "PCA",
+    "UNCITRAL",
+    "厄瓜多",
+    "美國",
+    "和解",
+    "製藥"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "GAR 報導（需訂閱）",
+     "url": "https://globalarbitrationreview.com/article/ecuador-settles-us-pharma-investor-over-denial-of-justice",
+     "official": false
+    },
+    {
+     "label": "El Oriente 報導（西班牙文）",
+     "url": "https://www.eloriente.com/articulo/ecuador-paga-cerca-de-us-53-millones-a-merck-para-cerrar-disputa-arbitral/59911",
+     "official": false
+    },
+    {
+     "label": "Diligence Diario 2026 年 10 月 29 日（西班牙文）",
+     "url": "https://www.diligence.ec/p/diligence-diario-29-de-octubre-de-410",
+     "official": false
+    },
+    {
+     "label": "Primicias 2021 年判斷報導（西班牙文）",
+     "url": "https://www.primicias.ec/noticias/economia/ecuador-pierde-fallo-merck-arbitraje/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-30T07:01:29+08:00"
+  },
+  {
+   "id": "2026-10-28-arb-insc-royal-construction-execution",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "印度",
+   "outlet": "印度最高法院",
+   "outletCode": "INSC",
+   "date": "2026-10-28",
+   "eventDate": "2026-10-28",
+   "importance": 2,
+   "author": "",
+   "title": "印度最高法院：仲裁判斷 24 年仍未執行完畢，請法律委員會研議加速執行仲裁判斷的改革",
+   "shortTitle": "印度最高法院請法律委員會研議加速執行仲裁判斷",
+   "point": "2002 年判斷至今仍在執行程序；法院拒絕以「澄清」名義監督執行，改要求制度檢討",
+   "titleOriginal": "M/s Royal Construction Company Pvt. Ltd. v. M/s National Projects Construction Corporation, 2026 INSC 1167",
+   "caseRef": "2026 INSC 1167",
+   "tldr": "一件 2002 年作成、以伊拉克第納爾計價的仲裁判斷，二十多年後雙方仍在德里高等法院為執行爭執。印度最高法院拒絕替執行法院「澄清」付款爭議，表示這些問題應由執行法院處理；但法院也直言仲裁的成效要看勝訴方能否及時拿到錢，因此請印度法律委員會全面檢討仲裁判斷的執行制度。",
+   "memo": "印度最高法院（Vikram Nath、Sandeep Mehta、Aparesh Kumar Singh 三位大法官）於 2026 年 10 月 28 日就 Royal Construction v National Projects Construction Corporation 案（2026 INSC 1167）駁回聲請人之澄清聲請，並終結其對德里高等法院中間裁定之上訴，認為最高法院前就認證法律問題所為之判決範圍已盡，不得藉澄清名義監督他院之執行程序，抵銷、扣除等爭議應由執行法院審理。法院並以本件 2002 年 8 月 10 日之仲裁判斷逾 24 年仍未執行完畢為由，請印度法律委員會研究仲裁判斷之承認與執行制度，包括債務人財產揭露、執行方法之協調、重複異議之處理及執行時程，並比較外國立法，評估內國與外國仲裁判斷應否適用不同程序。",
+   "context": "本案仲裁依印度 1940 年仲裁法提起，於 2002 年 8 月 10 日作成判斷，金額以伊拉克第納爾計價；報導稱爭議源於國際仲裁。印度最高法院於 2015 年 2 月 24 日恢復判斷之效力。\n德里高等法院獨任法官於 2017 年准許債務人以契約日匯率以印度盧比清償，合議庭於 2019 年廢棄該裁定，並認證匯率換算基準日之法律問題上訴最高法院；最高法院於 2023 年 10 月 10 日就此作成判決。其後執行程序在德里高等法院停滯，債務人主張已於 2009 年依法院命令支付本金；高等法院於 2026 年 2 月 16 日准許雙方向最高法院聲請澄清。",
+   "facts": [
+    "仲裁判斷作成於 2002 年 8 月 10 日，以伊拉克第納爾計價，至今執行程序仍未終結。",
+    "債務人 National Projects Construction Corporation 為國營事業，主張已於 2009 年依高等法院命令支付本金；雙方就已付、已領款項之調整與抵銷仍有爭議。",
+    "德里高等法院於 2026 年 2 月 16 日准許雙方向最高法院聲請澄清，聲請人據此向最高法院提出聲請並對高等法院中間裁定提起上訴。"
+   ],
+   "issues": [
+    "最高法院於就認證法律問題作成判決後，得否以「澄清」名義介入他院之執行程序。",
+    "1996 年仲裁與調解法第 36 條下仲裁判斷執行程序之實效與制度改革。"
+   ],
+   "holding": "・澄清聲請：最高法院就 2023 年認證法律問題之管轄已因判決而窮盡，不得藉澄清擴張至與該問題無關之事實爭議（如已存入及提領之金額），更不能監督他院之執行程序；執行中之問題應由執行法院及其上級法院處理。聲請駁回，上訴終結，債務人得於執行法院提出抵銷、調整等一切異議。\n・制度檢討：法院指出，仲裁的成效不僅在於判斷作成之速度或撤銷事由之限縮，更在於勝訴方能否於合理期間內實現判斷。本件自 1940 年仲裁法時代延續至今，印度施行 1996 年法已近三十年，執行延宕仍然存在。\n・請法律委員會研究：債務人財產之辨識與揭露、各種執行方法之協調、重複或拖延性異議之處理（同時保障正當異議），以及執行程序之完成時程；並比較外國執行制度，評估內國與外國仲裁判斷應採不同程序或在適當保障下採共同架構，必要時提出立法或程序改革建議。書記處應將判決送交法律委員會主席。",
+   "significance": "印度近年透過修法與判例限縮法院對仲裁判斷的介入，本判決則將焦點轉向執行階段：判斷作成後的執行延宕長期是外國當事人在印度執行仲裁判斷的主要障礙。法律委員會的研究可能促成第 36 條執行程序及相關民事訴訟程序之修正，值得在印度有執行需求的當事人留意；報導未提及委員會的報告期限。",
+   "editorNote": "本網頁助理 註：本則依 Bar and Bench、Verdictum 及 Indian Masterminds 報導撰寫，尚未取得判決原文；判決日期依 Indian Masterminds 所載（Bar and Bench 於同日報導）。報導未說明本件仲裁地及判斷屬內國或外國判斷。",
+   "tags": [
+    "印度",
+    "承認與執行",
+    "仲裁判斷執行",
+    "法律委員會",
+    "國營事業",
+    "伊拉克"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Bar and Bench 報導",
+     "url": "https://www.barandbench.com/news/supreme-court-asks-law-commission-to-propose-reforms-for-speedy-execution-of-arbitral-awards",
+     "official": false
+    },
+    {
+     "label": "Verdictum 判決評析",
+     "url": "https://www.verdictum.in/supreme-court/ms-royal-construction-company-pvt-ltd-v-ms-national-projects-construction-corporation-2026-insc-1167-article-134-a-constitution-of-india-1624765",
+     "official": false
+    },
+    {
+     "label": "Indian Masterminds 報導",
+     "url": "https://indianmasterminds.com/news/supreme-court-arbitral-award-enforcement-246513",
+     "official": false
+    },
+    {
+     "label": "LiveLaw 報導",
+     "url": "https://www.livelaw.in/supreme-court/supreme-court-asks-law-commission-to-recommend-measures-for-speedy-execution-of-arbitral-awards-556365",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-30T07:01:29+08:00"
+  },
+  {
+   "id": "2026-10-28-arb-kab-dwl-dwm-right-to-be-heard",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "新加坡",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-10-28",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Eungkyung Jo、Sarthak Malhotra（Bae, Kim & Lee）",
+   "title": "仲裁庭援引雙方都沒主張的契約條款，何時侵害陳述權？——新加坡 DWL v DWM 案評析",
+   "shortTitle": "仲裁庭自行援引未主張條款，算違反正當程序嗎？",
+   "point": "作者指出新加坡法院以「可預見性」從寬認定，但若擴張解釋恐掏空陳述權保障",
+   "titleOriginal": "When Does a Tribunal's Reasoning Become a Breach of the Right to Be Heard? Lessons from Singapore",
+   "caseRef": "[2026] SGHC 179",
+   "tldr": "仲裁庭在判斷中用了兩方都沒提過的兩個契約條款來解釋合約，敗訴方以「沒有機會表示意見」為由聲請撤銷。新加坡高等法院駁回，認為解釋契約時參酌全文其他條款是可以預見的。作者認同結論，但提醒這個標準不宜放得太寬，並建議仲裁庭遇到可能影響結果的新論點時，先問一下當事人。",
+   "memo": "Eungkyung Jo 與 Sarthak Malhotra 於 Kluwer Arbitration Blog 撰文評析新加坡高等法院 DWL v DWM 案（[2026] SGHC 179），該案仲裁庭援引雙方均未主張之契約第 45.6 條及第 54 條，認定制裁條款於停工後仍然存續，法院駁回逾越權限及違反自然正義之撤銷聲請，認合理當事人可預見仲裁庭就契約為整體解釋。作者認為該結論係基於爭點與所引條款之緊密關聯，若將可預見性解釋過寬，將使陳述權保障流於形式；並建議仲裁庭就可能影響結果之未主張論點，宜先徵詢當事人意見。",
+   "context": "新加坡法院審查仲裁判斷是否違反自然正義，通常採 Soh Beng Tee v Fairmount（2007 年上訴法院）之標準：合理當事人能否預見仲裁庭所採「類型」之推理；須有明顯偏離當事人主張之情形，並造成實際不利益，始構成違反。\n本文評析之 DWL v DWM 案，涉及能源電廠設備供應契約。契約簽訂後，針對 X 國的制裁擴大，契約第 27B 條要求供應商依買方選擇申請主管機關許可或修改設備。買方扣留里程碑款項後，供應商停止履約，雙方爭執第 27B 條在停工後是否仍然有效。",
+   "facts": [
+    "仲裁庭認定第 27B 條於停工後仍存續，其理由主要依據雙方均未援引之第 45.6 條及第 54 條。",
+    "敗訴之供應商以仲裁庭逾越權限及違反自然正義為由聲請撤銷，新加坡高等法院均予駁回。",
+    "法院另表示，就良好實務而言，仲裁庭或許應先提出上述條款之相關性再予援用。"
+   ],
+   "issues": [
+    "仲裁庭依據未經當事人主張之契約條款作成判斷，是否逾越提付仲裁之範圍。",
+    "此種推理是否違反自然正義（陳述權），以及 Soh Beng Tee 案之可預見性標準如何適用。"
+   ],
+   "holding": "・管轄範圍：法院整體觀察提付仲裁之範圍，未經主張但與受請求爭點緊密相關之條款，仍在仲裁範圍內（與 WRP Asia Pacific v Grant Thornton [2025] SGHC 198 一致）；仲裁庭無須拘泥於訴狀之架構。\n・陳述權：解釋契約時參酌未被援引之其他條款，可謂合理當事人應可預期，而非僅屬可預見；買方主張應整體解釋契約，供應商因而已受通知。法院區分「仲裁庭必須給予的機會」與「當事人自己沒有把握的機會」，本件屬後者。\n・作者評析：可預見性如解釋過寬，任何與受解釋條款相關之條文都可被視為可預見，契約爭議中的陳述權保障將大幅縮減；本案結論應理解為取決於爭點與所引條款之緊密事實關聯，而非一般性規則。作者並以 AKN v ALC [2015] SGCA 18 對照：仲裁庭在最後一天提出需不同證據之新理論，即構成違反自然正義。\n・實務建議：仲裁庭不必將每一推理步驟都交付當事人，亦應避免「正當程序恐懼症」，但對可能影響結果之未主張論點，宜提出針對性問題；律師則應意識到，以契約整體結構為論據，會擴大仲裁庭可合理援引之條款範圍，並預作因應。",
+   "significance": "作者結論是：新加坡法院對仲裁庭依未主張條款推理仍採高度尊重，但界線取決於所引條款與爭點的關聯程度，以及是否需要新的證據。對在新加坡仲裁的當事人而言，最穩妥的作法是主動處理對造或仲裁庭可能援引的相關條款。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：本則依部落格文章撰寫，尚未取得 [2026] SGHC 179 判決原文，判決日期不明。",
+   "tags": [
+    "新加坡",
+    "撤銷仲裁判斷",
+    "正當程序",
+    "自然正義",
+    "陳述權",
+    "制裁"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 文章",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/when-does-a-tribunals-reasoning-become-a-breach-of-the-right-to-be-heard-lessons-from-singapore/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-30T07:01:29+08:00"
+  },
   {
    "id": "2026-10-21-arb-hsf-icc-2026-banking-disputes",
    "court": "OTHER",
