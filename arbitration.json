@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-29T07:11:42+08:00",
-  "lastRunLocal": "2026-10-29 07:11",
+  "lastRun": "2026-10-29T23:18:33+08:00",
+  "lastRunLocal": "2026-10-29 23:18",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 1 則：商務仲裁 1（學術評論 1）；投資仲裁本次未發現新動態",
+  "lastRunNote": "新增 4 則：商務仲裁 2（法院裁判 1、評論 1）、投資仲裁 2（法院裁判 1、案件動態 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -2329,7 +2329,8 @@
     "PCA"
    ],
    "related": [
-    "2026-10-26-arb-ddc-naftogaz-russia-jurisdiction"
+    "2026-10-26-arb-ddc-naftogaz-russia-jurisdiction",
+    "2026-10-29-arb-norway-naftogaz-professor-molchanov"
    ],
    "sources": [
     {
@@ -3116,7 +3117,8 @@
     "雙邊投資協定"
    ],
    "related": [
-    "2026-10-22-arb-oslo-naftogaz-russia-attachment"
+    "2026-10-22-arb-oslo-naftogaz-russia-attachment",
+    "2026-10-29-arb-norway-naftogaz-professor-molchanov"
    ],
    "sources": [
     {
@@ -3465,6 +3467,277 @@
     }
    ],
    "addedAt": "2026-10-29T07:11:42+08:00"
+  },
+  {
+   "id": "2026-10-28-arb-uksc-prestige-spain-france-damages",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "英國最高法院",
+   "outletCode": "UKSC",
+   "date": "2026-10-28",
+   "eventDate": "2026-10-28",
+   "importance": 3,
+   "author": "",
+   "title": "英國最高法院：西班牙與法國違反仲裁義務屬違約，仲裁人可判命其賠償威望號保險人的損害",
+   "shortTitle": "英國最高法院恢復威望號案對西、法的賠償判斷",
+   "point": "第三人援引契約權利即受仲裁條款拘束，違反者負契約責任，仲裁庭得判命損害賠償",
+   "titleOriginal": "The Kingdom of Spain and another (Respondents) v The London Steam-Ship Owners' Mutual Insurance Association Limited (Appellant) No 2 [2026] UKSC 36",
+   "caseRef": "[2026] UKSC 36; UKSC/2025/0034",
+   "tldr": "2002 年威望號油輪在西班牙外海沉沒後，西班牙與法國沒有依保險單約定到倫敦仲裁，而是在西班牙法院直接向船東保險人求償。倫敦仲裁人判命兩國賠償保險人因此受到的損害，上訴法院認為仲裁人無權這樣判；英國最高法院推翻上訴法院，認定兩國違反的是契約上的仲裁義務，仲裁人可以判賠，判斷大致維持。",
+   "memo": "英國最高法院於 2026 年 10 月 28 日就 Kingdom of Spain v London Steam-Ship Owners' Mutual Insurance Association (No 2) 案（[2026] UKSC 36）准許保險人之上訴，認定西班牙與法國依附條件利益原則援引保險契約之直接請求權，即受其中倫敦仲裁條款拘束，其於西班牙法院訴追之行為屬違反契約上之仲裁義務，而非衡平法上義務，仲裁庭得判命普通法上之損害賠償；就尚未發生之將來損失，得以既已發生之違約為基礎作成附條件給付。法院並認上訴法院就因果關係及國際禮讓之審查逾越仲裁法第 69 條上訴範圍，爰確認仲裁判斷，僅刪除「衡平」用語並增列契約責任基礎之記載，不發回仲裁庭。",
+   "context": "2002 年 11 月，油輪威望號（Prestige）在西班牙外海沉沒，造成西班牙與法國海岸污染。船東的防護與補償保險人 London Steam-Ship Owners' Mutual Insurance Association（下稱保險人）所承保之保險單訂有「先付後賠」（pay to be paid）條款及倫敦仲裁條款。\n西班牙與法國依西班牙刑法第 117 條賦予第三人之直接請求權，在西班牙刑事附帶民事程序中向保險人求償。2019 年 3 月 1 日西班牙法院之執行裁定，確認對西班牙約 23.55 億歐元、對法國約 1.17 億歐元之責任，以保險單 10 億美元限額為上限。\n英國方面，先前的仲裁判斷與法院裁判已認定兩國之直接請求應交付倫敦仲裁，且兩國就英國仲裁程序不享有國家豁免。其後 Sir Peter Gross（西班牙部分）與 Dame Elizabeth Gloster（法國部分）兩位仲裁人以兩國違反「衡平法上之仲裁義務」為由，判命兩國給付「衡平補償」（equitable compensation）。英國上訴法院於 2024 年（[2024] EWCA Civ 1536）認為仲裁人無此權限，撤銷相關部分；保險人上訴至最高法院。",
+   "facts": [
+    "保險單含「先付後賠」條款及倫敦仲裁條款；西班牙與法國未參加仲裁，而在西班牙法院就保險人之責任取得判決。",
+    "仲裁人判命兩國賠償保險人已發生之損失，並就將來可能因執行西班牙判決所生之損失作成給付命令；Gross 仲裁人另以代替禁制令之損害賠償為名判賠，該部分先經 Butcher 法官撤銷。",
+    "上訴法院以附條件利益原則僅具「防禦性」、判賠將規避高等法院法第 50 條限制、損失係由西班牙法院不適用先付後賠條款所致，以及國際禮讓等理由，撤銷衡平補償部分。",
+    "最高法院於 2026 年 6 月 22、23 日言詞辯論，由 Lord Leggatt 與 Lord Burrows 撰寫主筆判決，Lord Lloyd-Jones、Lord Doherty、Lord Snowden 同意。"
+   ],
+   "issues": [
+    "非原始契約當事人之第三人援引契約權利時所負之仲裁義務，性質上屬契約義務或衡平法上義務。",
+    "仲裁庭得否對違反該義務之國家判命金錢賠償，以及就尚未發生之將來損失得否作成附條件給付。",
+    "上訴法院審酌因果關係與國際禮讓，是否逾越 1996 年英國仲裁法第 69 條就法律問題上訴之範圍。",
+    "1978 年國家豁免法第 13 條第 2 項第 a 款對禁制令及代替禁制令之損害賠償的限制（此部分未再上訴）。"
+   ],
+   "holding": "・義務性質：主張契約利益之第三人，就其仲裁條款而言視同契約當事人，違反仲裁義務即屬違約；將之稱為「衡平法上義務」源自 The Jay Bola 案之類比，係屬誤解。正確之金錢救濟為普通法上之損害賠償，而非衡平補償。\n・上訴法院四項理由均不成立：附條件利益原則可作為積極請求之基礎；高等法院法第 50 條係新增法院判賠權限，並未排除其他既有之判賠權；仲裁人就因果關係之認定無可指摘，西班牙法院之判決並非損失之唯一原因；仲裁判斷亦不妨礙外國法院承認或執行西班牙判決。\n・上訴範圍：因果關係與國際禮讓並非仲裁庭受請求判斷之問題，亦不在准許上訴之理由內，上訴法院不應審酌。\n・將來損失：損害賠償不得就尚未發生之違約判給，故原判斷以預防性（quia timet）為基礎者不能成立；但兩國既已違約，且很可能造成將來損失，仲裁庭得作成附條件給付——如保險人因西班牙判決被執行而須支付一定金額，兩國應給付同額予保險人。\n・結論：准許上訴，確認仲裁判斷，惟增列以違反契約義務為法律基礎之記載（文字由雙方協議），並刪除 Gloster 仲裁人第二部分判斷宣示中「衡平」一詞；無發回仲裁庭之必要。",
+   "significance": "本判決釐清英國法下非簽署人受仲裁條款拘束時之責任性質：違反仲裁義務即為違約，仲裁庭可判命損害賠償，國家亦不例外，對以外國訴訟規避倫敦仲裁之當事人形成實質財務風險。判決同時確認附條件給付可處理將來損失，並重申第 69 條上訴僅限於仲裁庭受請求判斷之法律問題。實際上，保險人可據以對抗西班牙判決之執行；兩國在西班牙或其他國家執行其判決時，將面臨同額反向給付義務。",
+   "editorNote": "本網頁助理 註：本則依英國最高法院判決網頁撰寫；判決未載明具體賠償金額。西班牙媒體報導西班牙在西班牙法院請求約 8.55 億歐元，與判決所載西班牙判決確認之責任金額口徑不同，本則以判決為準。",
+   "tags": [
+    "英國",
+    "西班牙",
+    "法國",
+    "仲裁協議",
+    "非簽署人",
+    "附條件利益原則",
+    "損害賠償",
+    "國家豁免",
+    "英國仲裁法第69條",
+    "海事保險"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "英國最高法院判決",
+     "url": "https://supremecourt.uk/cases/judgments/uksc-2025-0034",
+     "official": true
+    },
+    {
+     "label": "英國上訴法院 2024 年判決（[2024] EWCA Civ 1536）",
+     "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2024/1536",
+     "official": true
+    },
+    {
+     "label": "Solicitor News 報導",
+     "url": "https://solicitornews.co.uk/uk-supreme-court-arbitration-ruling-prestige-oil-spill/",
+     "official": false
+    },
+    {
+     "label": "Demócrata 報導（西班牙）",
+     "url": "https://www.democrata.es/en/courts/the-british-supreme-court-upholds-that-the-insurer-of-the-prestige-be-compensated-by-spain/",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review 標題報導",
+     "url": "https://globalarbitrationreview.com/news",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-29T23:18:33+08:00"
+  },
+  {
+   "id": "2026-10-28-arb-korea-accepts-elliott-remittal-award",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "韓國法務部（依新聞報導）",
+   "outletCode": "KMOJ",
+   "date": "2026-10-28",
+   "eventDate": "2026-10-28",
+   "importance": 2,
+   "author": "",
+   "title": "南韓政府決定不在英國法院挑戰 Elliott 發回後的仲裁判斷，三星合併案投資爭端歷時八年落幕",
+   "shortTitle": "南韓不再挑戰 Elliott 仲裁判斷",
+   "point": "發回後仲裁庭仍判賠 4,849 萬美元本金加利息，總額約 1,530 億韓元",
+   "titleOriginal": "Elliott Associates, L.P. v. Republic of Korea (PCA Case No. 2018-51) — Korea decides not to challenge award on remission",
+   "caseRef": "PCA Case No. 2018-51",
+   "tldr": "美國避險基金 Elliott 主張南韓政府不當介入國民年金對 2015 年三星物產合併案的投票，依韓美自貿協定提起仲裁。仲裁判斷經英國法院部分撤銷並發回後，仲裁庭 9 月再次判南韓賠償；南韓法務部 10 月 28 日宣布不再向英國法院聲請撤銷，將支付含利息約 1,530 億韓元。",
+   "memo": "依韓國媒體報導，南韓法務部於 2026 年 10 月 28 日宣布，就 Elliott Associates 依韓美自由貿易協定投資章節提起之仲裁（PCA Case No. 2018-51，仲裁地倫敦），不對仲裁庭於 2026 年 9 月 30 日發回後作成之判斷向英國法院聲請撤銷。該判斷認定南韓政府介入國民年金公團就 2015 年三星物產與第一毛織合併案之表決，與 Elliott 之損失具因果關係，判命賠償本金約 4,849 萬美元及遲延利息，總額約 1,530 億韓元。",
+   "context": "Elliott 原為三星物產股東，主張南韓政府（青瓦台及保健福祉部）不當影響國民年金公團（NPS）對 2015 年三星物產與第一毛織合併案的表決，使其投資受損，2018 年 7 月依韓美自由貿易協定提起投資仲裁，由常設仲裁法院（PCA）管理，仲裁地為倫敦。\n仲裁庭 2023 年 6 月作成判斷，認定南韓應負責，經 2023 年 9 月更正後判賠約 4,850 萬美元（Elliott 原請求約 7.7 億美元）。南韓於 2023 年 7 月依英國仲裁法向倫敦高等法院挑戰管轄權，高等法院 2024 年 8 月駁回，上訴法院 2025 年 7 月改判支持南韓並發回；高等法院 2026 年 2 月認定國民年金公團非國家機關，但維持仲裁庭對總統府及保健福祉部行為之管轄權，將案件發回同一仲裁庭。",
+   "facts": [
+    "同一仲裁庭於 2026 年 9 月 30 日作成發回後判斷，認定總統府與保健福祉部之行為與 Elliott 損失具因果關係，再判本金約 4,849 萬美元及遲延利息。",
+    "南韓法務部 10 月 28 日表示，經檢視判斷並徵詢相關部會、代理律師及外部專家意見，衡量撤銷成功可能性與續行訴訟成本後，決定不再聲請撤銷。",
+    "政府新聞稿所載總額約 1,530 億韓元；Elliott 同日聲明稱總額約 1.13 億美元，各媒體換算為 1.07 億至 1.14 億美元不等。"
+   ],
+   "issues": [
+    "發回後判斷就因果關係之認定，以及南韓是否依英國仲裁法第 67 條或第 68 條再行挑戰。"
+   ],
+   "holding": "本則為南韓政府之程序決定，非新的裁判。依報導，南韓接受發回後判斷，將支付本金約 4,849 萬美元及遲延利息；報導未載明利率、仲裁費用分擔及給付時程。",
+   "significance": "南韓放棄撤銷後，Elliott 案的仲裁與英國法院程序實質終結，南韓須依判斷給付。本案中英國法院以國民年金公團非國家機關為由部分撤銷判斷，是投資條約仲裁中國家歸責與管轄範圍的重要先例；發回後判賠金額未因此減少，亦顯示仲裁庭認為損失可歸因於政府機關本身的行為。",
+   "editorNote": "本網頁助理 註：本則依 Korea JoongAng Daily、首爾經濟及亞洲經濟（Aju Press）報導及 Global Arbitration Review 標題撰寫，尚未取得韓國法務部新聞稿及發回後判斷原文；PCA 案號依 PCA 案件頁面記載。美元總額各來源因匯率換算不同而有差異（1.07 億至 1.14 億美元）。",
+   "tags": [
+    "PCA",
+    "南韓",
+    "美國",
+    "自由貿易協定",
+    "國家歸責",
+    "發回仲裁庭",
+    "英國仲裁法第67條",
+    "三星",
+    "損害賠償"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "PCA 案件頁面",
+     "url": "https://pca-cpa.org/en/cases/197",
+     "official": true
+    },
+    {
+     "label": "Korea JoongAng Daily 報導",
+     "url": "https://www.koreajoongangdaily.com/korea/korea-drops-eightyear-elliott-dispute-over-samsung-merger-accepts-113-million-payout-to-us-hedge-fund/12943392",
+     "official": false
+    },
+    {
+     "label": "首爾經濟（Seoul Economic Daily）報導",
+     "url": "https://en.sedaily.com/society/2026/10/28/korea-accepts-34-million-arbitration-award-to-elliott-ends",
+     "official": false
+    },
+    {
+     "label": "Aju Press 報導",
+     "url": "https://www.ajupress.com/view/20261028160630961",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review 報導（訂閱）",
+     "url": "https://globalarbitrationreview.com/article/south-korea-says-it-wont-challenge-hedge-funds-award",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-29T23:18:33+08:00"
+  },
+  {
+   "id": "2026-10-29-arb-norway-naftogaz-professor-molchanov",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "investment",
+   "caseId": "naftogaz-v-russia",
+   "jurisdiction": "挪威",
+   "outlet": "The Barents Observer",
+   "outletCode": "BO",
+   "date": "2026-10-29",
+   "eventDate": "2026-10-28",
+   "importance": 2,
+   "author": "",
+   "title": "挪威法院駁回俄國煤礦公司解除扣押之請求，Naftogaz 在斯瓦巴扣押的俄國研究船續予扣押",
+   "shortTitle": "挪威法院維持扣押俄國研究船",
+   "point": "聲請人 Arktikugol 非船舶所有人、租約已屆期，無權請求解除扣押",
+   "titleOriginal": "Professor Molchanov to remain under arrest (Nord-Troms og Senja tingrett, 28 October 2026)",
+   "caseRef": "",
+   "tldr": "烏克蘭 Naftogaz 為執行 2023 年對俄羅斯的克里米亞資產仲裁判斷，9 月在斯瓦巴群島扣押俄國研究船 Professor Molchanov。俄國國營煤礦公司 Arktikugol 請求解除扣押，挪威地方法院以其不是船東、租約已到期為由駁回，並命其負擔 Naftogaz 的律師費。",
+   "memo": "依 The Barents Observer 報導，挪威 Nord-Troms og Senja 地方法院於 2026 年 10 月 28 日駁回俄國國營企業 Arktikugol 請求解除 Naftogaz 集團於斯瓦巴群島 Barentsburg 港對俄國研究船 Professor Molchanov 所為扣押之聲請，理由為 Arktikugol 非該船所有人，其租船契約亦已於 10 月 15 日屆期，欠缺當事人適格；法院並指出俄羅斯聯邦作為本案債務人，得自行聲請撤銷保全處分，另命 Arktikugol 於兩週內負擔 Naftogaz 方律師費 288.2 萬挪威克朗。",
+   "context": "Naftogaz 及其子公司就 2014 年俄羅斯併吞克里米亞後其資產遭奪取，依烏俄雙邊投資協定提起仲裁，2023 年取得海牙仲裁判斷，俄羅斯在荷蘭聲請撤銷，Naftogaz 則在多國聲請執行。本站先前已報導奧斯陸法院准許假扣押俄國在奧斯陸的房產，以及美國華府聯邦地院駁回俄國管轄權抗辯。\n2026 年 9 月初，俄國研究船 Professor Molchanov 應 Naftogaz 聲請在斯瓦巴群島 Barentsburg 港遭扣押，船上人員其後遣返俄國。",
+   "facts": [
+    "Arktikugol 主張該船對俄國在斯瓦巴的聚落補給至關重要，原定今年往返俄國本土與斯瓦巴十趟。",
+    "法院認定 Arktikugol 雖曾租用該船，惟租約已於 10 月 15 日屆期，且其非船舶所有人。",
+    "法院指出俄羅斯為原程序之被告，有充分機會自行聲請解除保全處分。",
+    "報導另稱 Naftogaz 亦已扣押斯瓦巴 Longyearbyen 的 Russkiy Dom 觀光中心、62 部雪上摩托車及 15 部汽車。"
+   ],
+   "issues": [
+    "非所有人之前租船人是否有權請求解除為執行投資仲裁判斷而對船舶所為之扣押。"
+   ],
+   "holding": "法院駁回 Arktikugol 之聲請，扣押續行；理由為聲請人非所有人、租約已屆期，欠缺請求解除之適格。法院命 Arktikugol 全額負擔烏克蘭公司方之律師費 288.2 萬挪威克朗，限兩週內給付。",
+   "significance": "本裁定未處理國家豁免等實體問題，而係以程序適格駁回；俄羅斯若欲解除扣押，須自行出面，可能因此須就主權豁免或判斷效力表明立場。挪威已成為 Naftogaz 執行行動的重要戰場（奧斯陸房產與斯瓦巴資產），荷蘭撤銷程序的結果仍可能影響各國執行。",
+   "editorNote": "本網頁助理 註：本則依 The Barents Observer 報導及 Global Arbitration Review 標題撰寫，尚未取得挪威法院裁定原文。The Barents Observer 稱 2023 年判斷金額為 42 億美元另加利息與費用，GAR 標題則稱約 50 億美元判斷，差異可能來自是否計入利息。",
+   "tags": [
+    "Naftogaz",
+    "俄羅斯",
+    "烏克蘭",
+    "挪威",
+    "克里米亞",
+    "扣押",
+    "承認與執行",
+    "PCA"
+   ],
+   "related": [
+    "2026-10-22-arb-oslo-naftogaz-russia-attachment",
+    "2026-10-26-arb-ddc-naftogaz-russia-jurisdiction"
+   ],
+   "sources": [
+    {
+     "label": "The Barents Observer 報導",
+     "url": "https://www.thebarentsobserver.com/news/professor-molchanov-to-remain-under-arrest/460821",
+     "official": false
+    },
+    {
+     "label": "斯瓦巴總督府公告：俄國船舶在斯瓦巴遭扣押（2026 年 9 月）",
+     "url": "https://www.sysselmesteren.no/en/news/2026/09/russian-ship-seized-in-svalbard/",
+     "official": true
+    },
+    {
+     "label": "Global Arbitration Review 標題報導",
+     "url": "https://globalarbitrationreview.com/news",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-29T23:18:33+08:00"
+  },
+  {
+   "id": "2026-10-28-arb-dj-hanoi-court-decision-33-siac-awards",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "越南",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-10-28",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Le Thanh Hieu（慶應義塾大學 LL.M. 候選人，前 LNT & Partners）",
+   "title": "河內人民法院第 33 號決定拒絕承認兩件 SIAC 判斷：作者認為實體審查界線合乎國際實務，但公共政策仍被過度擴張",
+   "shortTitle": "越南法院拒認 SIAC 判斷，公共政策過寬？",
+   "point": "作者指出法院自限不審實體，卻幾乎把任何違反越南法都當成違反基本原則",
+   "titleOriginal": "Hanoi People's Court Decision No. 33/2026/QDPT-KDTM: Clarifying Vietnamese Law Governing Recognition and Enforcement of Foreign Arbitral Awards",
+   "caseRef": "Decision No. 33/2026/QDPT-KDTM",
+   "tldr": "兩名韓國買家依股權買賣契約在 SIAC 仲裁中兩度勝訴，向越南法院聲請承認都遭拒。作者分析河內人民法院上訴庭的第 33 號決定：法院說不會重審實體、但可以檢查仲裁庭如何得出結論，作者認為這部分與國際實務一致；但法院對「越南法基本原則」的解釋太寬，讓外國判斷在越南的執行仍難以預測。",
+   "memo": "Le Thanh Hieu於 Daily Jus 撰文分析河內人民法院上訴庭第 33/2026/QDPT-KDTM 號決定。該案兩名韓國買受人就越南 VMG Media 出售 VNPT Epay 股權之爭議，先後取得兩件 SIAC 仲裁判斷，均遭越南法院拒絕承認。作者指出，法院闡明民事訴訟法第 458 條第 4 項禁止重新審理實體，但不妨礙審查仲裁庭形成結論之過程，此與國際實務大致相符；惟法院就第 459 條第 2 項第 b 款「越南法基本原則」採擴張解釋，並與同條第 1 項第 d 款重疊，幾使任何違反越南法之情形均構成拒絕事由，有違紐約公約限縮拒絕事由之意旨。",
+   "context": "越南為紐約公約締約國，外國仲裁判斷之承認與執行規定於 2015 年民事訴訟法第 35 章。民事訴訟法第 458 條第 4 項禁止法院審查爭議實體，第 459 條則列舉拒絕承認之事由，其中第 2 項第 b 款為違反「越南法基本原則」（越南法上之公共政策事由）。作者引述統計，2005 至 2014 年約半數承認聲請成功；司法部資料顯示民事訴訟法施行後，82 件外國判斷中仍有逾 30 件遭拒。",
+   "facts": [
+    "越南 VMG Media JSC 將其持有之支付中介業者 VNPT Epay 股權出售予兩名韓國買受人；VNPT Epay 董事其後遭刑事追訴。",
+    "第一件 SIAC 判斷認定 VMG 違反股權買賣契約及新加坡法；河內人民高等法院於 2023 年以第 09/2023/HS-PT 號決定拒絕承認。",
+    "第一件仲裁進行中，越南稅務機關就 VMG 持股期間 VNPT Epay 之活動查核並補徵鉅額稅捐；買受人另提第二件 SIAC 仲裁，仲裁庭依第一件判斷之認定，命 VMG 補償該等稅捐，河內人民法院亦拒絕承認。",
+    "上訴庭於第 33 號決定中，就第一審法院對損害賠償原則之檢視是否構成實體審查表示意見。文章未載明決定日期及確切主文。"
+   ],
+   "issues": [
+    "民事訴訟法第 458 條第 4 項禁止審查實體之界線，以及法院得否審查仲裁庭推理過程（並涉第 439 條第 8 項）。",
+    "第 459 條第 2 項第 b 款「越南法基本原則」之內涵，及其與第 459 條第 1 項第 d 款（程序不符約定或仲裁地法）之關係。"
+   ],
+   "holding": "・法院見解：第 458 條第 4 項禁止法官重新審理爭議或評斷仲裁庭認定是否正確，但不禁止依程序及法定要件審查判斷，包括仲裁協議效力、仲裁人選任、仲裁庭組成與程序、判斷是否逾越交付範圍、判斷是否遭撤銷或停止、可仲裁性及公共政策。\n・法院認為得整體審查仲裁庭如何得出結論；第一審檢視損害賠償原則但未重新評價其正確性，與第 458 條第 4 項無違。\n・法院並稱「越南法基本原則」應參照民事訴訟法、其他越南法、仲裁程序、仲裁地法、越南締結之條約及司法實務認定。\n・作者評價：實體審查之界線大致與 UNCITRAL 紐約公約指南、ICC 國別程序指南及德國實務一致，以實質重審為目的之抗辯應予駁回。\n・作者批評：公共政策部分延續擴張解釋，將幾乎所有違反越南國內法之情形納入基本原則，並與第 459 條第 1 項第 d 款重疊，與紐約公約限縮拒絕事由之目的相悖。",
+   "significance": "作者結論：越南法院表態不重審實體值得肯定，但違反越南法的主張仍可能經由公共政策事由被吸收，外國判斷在越南的執行仍不易預測；在越南有執行需求的當事人應及早規劃執行策略。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：本則依 Daily Jus 文章撰寫，尚未取得第 33 號決定原文；文章未載明決定日期、判斷金額及仲裁地（文中援引新加坡法），故 eventDate 留空。",
+   "tags": [
+    "越南",
+    "新加坡",
+    "韓國",
+    "SIAC",
+    "紐約公約",
+    "承認與執行",
+    "公共政策",
+    "實體審查"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Daily Jus 評論文章",
+     "url": "https://dailyjus.com/world/2026/10/hanoi-peoples-court-decision-no-33-2026-qdpt-kdtm-clarifying-vietnamese-law-governing-recognition-and-enforcement-of-foreign-arbitral-awards",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-29T23:18:33+08:00"
   }
  ],
  "agenda": [
@@ -3688,7 +3961,7 @@
    "nameOriginal": "NJSC Naftogaz of Ukraine and others v. Russian Federation",
    "caseRef": "PCA Case No. 2017-16",
    "summary": "Naftogaz 就克里米亞資產遭奪取，依俄烏雙邊投資協定取得 2023 年海牙判斷，俄羅斯在荷蘭聲請撤銷，Naftogaz 在多國聲請執行。",
-   "status": "美國華府聯邦地院據報駁回俄國管轄權抗辯，確認程序續行；奧斯陸法院已准假扣押俄國房產，海牙撤銷程序仍在進行。"
+   "status": "挪威地方法院 2026 年 10 月 28 日維持斯瓦巴俄國研究船之扣押；美國華府聯邦地院駁回俄國管轄權抗辯，奧斯陸房產假扣押續行，海牙撤銷程序仍在進行。"
   },
   {
    "id": "devas-v-india",
