@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-29T07:30:25+08:00",
-  "lastRunLocal": "2026-10-29 07:30",
+  "lastRun": "2026-10-29T23:32:23+08:00",
+  "lastRunLocal": "2026-10-29 23:32",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則（補登 10 月上中旬漏收動態）：亞太與其他 2（草案諮詢 1、監理指引 1）；本次期間內未發現其他新動態"
+  "lastRunNote": "新增 1 則：美國 1（執法案件 1）"
  },
  "items": [
   {
@@ -2125,7 +2125,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-09-fin-cftc-event-contracts-swap-definition"
+    "2026-10-09-fin-cftc-event-contracts-swap-definition",
+    "2026-10-28-fin-utah-criminal-charges-kalshi"
    ],
    "sources": [
     {
@@ -2579,6 +2580,89 @@
     }
    ],
    "addedAt": "2026-10-29T07:30:25+08:00"
+  },
+  {
+   "id": "2026-10-28-fin-utah-criminal-charges-kalshi",
+   "court": "US",
+   "kind": "執法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國猶他州",
+   "outlet": "Deseret News",
+   "outletCode": "DN",
+   "date": "2026-10-28",
+   "eventDate": "2026-10-28",
+   "importance": 2,
+   "author": "",
+   "title": "猶他州檢察總長對預測市場業者 Kalshi 及其兩名共同創辦人提起 14 項刑事追訴，指控其非法推廣線上賭博",
+   "shortTitle": "猶他州對 Kalshi 及創辦人提起刑事追訴",
+   "point": "13 項重罪、1 項輕罪，距 CFTC 起訴猶他州僅兩天",
+   "titleOriginal": "Utah files criminal charges against Kalshi and its founders",
+   "caseRef": "",
+   "tldr": "猶他州檢察總長認為 Kalshi 的運動事件合約就是賭博，派調查員以猶他州帳戶下注後，對公司和兩位共同創辦人提出刑事告訴，創辦人可能面臨徒刑。這是繼亞利桑那州之後，第二個對 Kalshi 動用刑法的州，而 CFTC 兩天前才剛起訴猶他州，主張州政府無權管。",
+   "memo": "依 Deseret News 2026 年 10 月 28 日報導，美國猶他州檢察總長 Derek Brown 於同日在鹽湖城州法院對預測市場業者 Kalshi 及其共同創辦人 Tarek Mansour、Luana Lopes Lara 提起刑事追訴，計有不法活動型態罪（二級重罪）1 項、線上賭博推廣罪（三級重罪）12 項及一般賭博推廣罪（A 級輕罪）1 項，事實基礎為州調查員於 2026 年 9 月以猶他州帳戶就職業及大學運動賽事事件合約下單；本件係猶他州 10 月 20 日對 Kalshi 提起民事訴訟、美國商品期貨交易委員會（CFTC）10 月 26 日起訴猶他州主張聯邦專屬管轄之後提出。Kalshi 主張其為聯邦監理之交易所，州政府不應享有否決權。",
+   "context": "Kalshi 為受 CFTC 監理之指定契約市場（DCM），提供運動、政治等事件合約。Kalshi 於 2026 年 2 月在聯邦法院起訴猶他州，請求禁止州政府執行賭博法；依 Deseret News 報導，聯邦地方法院法官 Robert J. Shelby 於 8 月 4 日認定猶他州賭博法適用於 Kalshi 的運動事件合約，且 Kalshi 所援引之聯邦法不排除州法執行，Kalshi 其後聲請上訴期間禁制令亦遭駁回。\n猶他州於 10 月 20 日對 Kalshi 提起民事訴訟；CFTC 於 10 月 26 日起訴猶他州（見相關條目），主張聯邦法明示及默示排除州賭博法對事件合約之適用。\n亞利桑那州已於 2026 年 3 月對 Kalshi 提起刑事追訴，該案遭聯邦法院禁止進行，州政府正上訴中。",
+   "facts": [
+    "猶他州檢察總長 Derek Brown 於 2026 年 10 月 28 日（星期三）於鹽湖城州法院提出刑事追訴。",
+    "被告為 Kalshi 及共同創辦人 Tarek Mansour（執行長）、Luana Lopes Lara（營運長）。",
+    "罪名共 14 項：不法活動型態罪 1 項（二級重罪）、線上賭博推廣罪 12 項（三級重罪）、一般賭博推廣罪 1 項（A 級輕罪）。",
+    "依報導，州調查員於 2026 年 9 月 13 日開立帳戶，11 天內就 NFL、MLB、猶他大學對猶他州立大學美式足球賽及皇家鹽湖城足球賽等下單約 12 筆；起訴指 Kalshi 每筆收取 3 至 78 美分手續費。",
+    "猶他州 10 月 20 日的 63 頁民事起訴狀主張，Kalshi 於 2026 年 2 月至 10 月 19 日間自猶他州帳戶獲利 3,050 萬至 6,110 萬美元（屬州政府主張）。",
+    "Kalshi 發言人稱本案為「瘋狂的越權」、「明顯是政治操作」，並表示不影響其進行中的聯邦訴訟。"
+   ],
+   "issues": [
+    "州政府得否對 CFTC 監理之 DCM 及其經營者適用州刑法上的賭博罪？",
+    "《商品交易法》對州賭博法的排除效力，是否及於州刑事追訴？",
+    "CFTC 對猶他州的訴訟若獲暫時性救濟，是否影響州刑事程序的進行？"
+   ],
+   "holding": "・指控內容：Kalshi 及兩名創辦人於猶他州推廣線上賭博，並允許州臥底調查員以猶他州帳戶就運動賽事下注，構成不法活動型態及賭博推廣等罪。\n・猶他州立場：Kalshi 的事件合約與傳統運動簽注「無從區別」；Brown 表示「在猶他州，無論下注、經營或推廣，賭博都是違法的」，並稱聯邦法院已認定州賭博法適用於 Kalshi。\n・Kalshi 立場：其為聯邦監理之交易所，單一州不應對其享有否決權，並將在法院結束本案。\n・刑事追訴僅為指控，尚未經法院審理認定。",
+   "significance": "這是繼亞利桑那州之後第二個對 Kalshi 提起刑事追訴的州，且首度對創辦人個人提出重罪指控，使州與聯邦對預測市場的管轄衝突由民事禁制層次升高至刑事層次。後續應注意 CFTC 是否在其對猶他州的訴訟中請求禁止刑事程序、聯邦法院對亞利桑那州刑事案的上訴結果，以及最高法院對新澤西州聲請案的處理。",
+   "editorNote": "本網頁助理 註：本則依 Deseret News、KUER 與 The Block 報導整理；本網頁助理未找到猶他州檢察總長辦公室就刑事追訴發布的官方新聞稿，起訴書係取自路透社轉載之 PDF，案號與承審法院名稱未見於上述報導。各報導對罪名數描述略有出入（Deseret News 標題稱「十餘項重罪」，內文列 13 項重罪及 1 項輕罪），本則採內文分項。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先",
+    "刑事追訴",
+    "Kalshi",
+    "猶他州",
+    "CFTC",
+    "美國"
+   ],
+   "related": [
+    "2026-10-27-fin-cftc-sues-utah-prediction-markets"
+   ],
+   "sources": [
+    {
+     "label": "CFTC 新聞稿（9315-26，起訴猶他州）",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+     "official": true
+    },
+    {
+     "label": "猶他州檢察總長辦公室：民事起訴 Kalshi 頁面（10 月 20 日）",
+     "url": "https://attorneygeneral.utah.gov/utah-sues-kalshi/",
+     "official": true
+    },
+    {
+     "label": "刑事起訴書全文（路透社轉載 PDF）",
+     "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/akpellzyxvr/10282026utah_kalshi.pdf",
+     "official": false
+    },
+    {
+     "label": "Deseret News 報導",
+     "url": "https://www.deseret.com/sports/2026/10/28/utah-files-criminal-charges-kalshi-illegal-gambling-promotion-cftc-sues-utah-block-laws/",
+     "official": false
+    },
+    {
+     "label": "KUER 報導",
+     "url": "https://www.kuer.org/politics-government/2026-10-28/kalshi-prediction-market-utah-gambling-criminal-charges",
+     "official": false
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-29T23:32:23+08:00"
   }
  ],
  "agenda": [
@@ -2895,7 +2979,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "CFTC 10 月 9 日以規則劃定事件合約與博弈界線，10 月 26 日起訴猶他州（第十件對州訴訟）；新澤西州聲請最高法院審理尚待決定。"
+   "status": "CFTC 10 月 26 日起訴猶他州（第十件對州訴訟）；猶他州 10 月 28 日對 Kalshi 及兩名創辦人提起刑事追訴；新澤西州聲請最高法院審理尚待決定。"
   },
   {
    "id": "kr-tokenised-securities",
