@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-30T23:02:10+08:00",
-  "lastRunLocal": "2026-10-30 23:02",
+  "lastRun": "2026-10-31T07:08:24+08:00",
+  "lastRunLocal": "2026-10-31 07:08",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 3 則：商務仲裁 2（評論 2）、投資仲裁 1（仲裁判斷 1）",
+  "lastRunNote": "新增 5 則：商務仲裁 3（法院裁判 1、案件動態 1、評論 1）、投資仲裁 2（法院裁判 1、仲裁判斷 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -2176,7 +2176,9 @@
     "LCIA",
     "ICC"
    ],
-   "related": [],
+   "related": [
+    "2026-10-29-arb-ukraine-mod-body-armour-enforcement"
+   ],
    "sources": [
     {
      "label": "Daily Jus：Defence Disputes in Arbitration（2026-10-21）",
@@ -4106,6 +4108,327 @@
     }
    ],
    "addedAt": "2026-10-29T23:18:33+08:00"
+  },
+  {
+   "id": "2026-10-29-arb-ddc-marseille-kliniken-equatorial-guinea-remand",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "marseille-kliniken-v-equatorial-guinea",
+   "jurisdiction": "美國",
+   "outlet": "美國哥倫比亞特區聯邦地方法院",
+   "outletCode": "DDC",
+   "date": "2026-10-29",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "發回更審後，美國哥倫比亞特區聯邦地方法院依瑞士法解釋爭端解決條款，認定不須先在赤道幾內亞法院起訴，再度承認 Marseille-Kliniken 的蘇黎世仲裁判斷",
+   "shortTitle": "美國法院再度執行對赤道幾內亞的醫院判斷",
+   "point": "依瑞士法解釋條款，不須先在當地法院訴訟，約 738 萬歐元判斷獲承認",
+   "titleOriginal": "Marseille-Kliniken AG v. Republic of Equatorial Guinea, No. 20-cv-3572 (RJL) (D.D.C.), Memorandum Opinion (October 2026)",
+   "caseRef": "No. 1:20-cv-03572-RJL; SCAI Case No. 600413-2015",
+   "tldr": "瑞士公司 Marseille-Kliniken 替赤道幾內亞經營公立醫院，雙方翻臉後在蘇黎世仲裁勝訴。赤道幾內亞主張契約要求先到該國法院打官司才能仲裁。美國上訴法院去年要求地院自己解釋條款；地院這次依瑞士法認定沒有這種前置要求，再次准許在美國執行判斷。",
+   "memo": "美國哥倫比亞特區聯邦地方法院 Leon 法官於 2026 年 10 月就 Marseille-Kliniken AG v. Republic of Equatorial Guinea 案，於哥倫比亞特區巡迴上訴法院發回後作成判決，准予承認蘇黎世仲裁判斷（約 738 萬歐元及利息、費用）。法院認為當事人選定蘇黎世為仲裁地，推定以瑞士法解釋爭端解決條款；依瑞士法應採維持仲裁協議有效之解釋，西班牙文及德文版本均未要求先於赤道幾內亞法院起訴，故無紐約公約第 5 條第 1 項 (c) 款拒絕承認之事由。",
+   "context": "Marseille-Kliniken 為瑞士公司，依 2009 年管理契約經營赤道幾內亞 Bata 市的公立醫院。雙方關係破裂後，赤道幾內亞封鎖醫院資訊系統。契約的爭端解決條款有西班牙文與德文兩個版本，提及先行協商、赤道幾內亞法院及蘇黎世商會仲裁。\n第二次蘇黎世仲裁（瑞士國際仲裁規則，SCAI Case No. 600413-2015）仲裁庭駁回「須先在當地法院訴訟」的抗辯，於 2017 年判命赤道幾內亞給付約 738 萬歐元及利息、費用。\n地院於 2023 年承認判斷，但哥倫比亞特區巡迴上訴法院於 2025 年 9 月 23 日撤銷發回：上訴法院認為此一當地訴訟要求屬於應由法院判斷的「可仲裁性」問題，契約也未明確授權仲裁人決定，因此地院不應尊重仲裁庭的解釋，而須自行解釋條款。",
+   "facts": [
+    "發回後，雙方就條款的準據法、解釋方法及赤道幾內亞外國投資法是否要求用盡當地救濟提出攻防，並接受兩種語言版本的譯文。",
+    "西班牙文版本大意為：協商不成時當事人將訴諸赤道幾內亞法院，一方不同意時「得」請求蘇黎世商會仲裁；德文版本則表述為在訴諸赤道幾內亞法院之前先尋求和解，並同意於蘇黎世商會仲裁。",
+    "判決書於 2026 年 10 月 28 日簽署、10 月 29 日登錄並公開（Dkt. #47），同日另有命令。"
+   ],
+   "issues": [
+    "解釋仲裁條款應適用何國法律：美國法、赤道幾內亞法或仲裁地瑞士法。",
+    "系爭條款是否要求先在赤道幾內亞法院訴訟，始得提付仲裁。",
+    "判斷是否因超出仲裁協議範圍而依紐約公約第 5 條第 1 項 (c) 款拒絕承認。"
+   ],
+   "holding": "・準據法：法院不採美國《衝突法整編》路徑，也不採赤道幾內亞主張；認為當事人選定蘇黎世為仲裁地，推定瑞士仲裁法為仲裁協議之準據法（援引 Karaha Bodas 案及 BG Group 案），並指出赤道幾內亞先前書狀也曾主張適用瑞士法。依瑞士國際私法第 178 條第 2 項，條款解釋屬程序問題，適用瑞士法；另以最密切關聯原則作為備位理由，亦指向瑞士。\n・條款解釋：依瑞士法應優先採取使仲裁協議有效的解釋。兩種語言版本都包含提付仲裁的合意，即使採赤道幾內亞援引的西班牙文版本，也看不出須先經當地訴訟。法院指出瑞士法允許參酌契約外證據，但未以申請人執行長的證詞作為決定性依據。\n・其他抗辯：赤道幾內亞未主張仲裁協議依瑞士法無效，也未主張適用國際法上的用盡當地救濟原則；其援引的赤道幾內亞強行規定，法院認為不適用。\n・結論：紐約公約拒絕承認事由應從嚴解釋、由抗辯方負舉證責任；條款既不要求先行訴訟，即無第 5 條第 1 項 (c) 款事由。法院准予承認判斷。",
+   "significance": "本案顯示美國法院在國家與投資人間契約仲裁中，可能將「先行訴訟」條件定性為法院應自行審查的可仲裁性問題，而解釋時以仲裁地法為主。判決未計算利息及最終金額；赤道幾內亞可再向哥倫比亞特區巡迴上訴法院上訴。",
+   "editorNote": "本網頁助理 註：本則依法院判決書（govinfo 公開版本）撰寫。判決書簽署日為 2026 年 10 月 28 日，登錄與公開日為 10 月 29 日，故裁判日期欄留空。判斷金額依判決書為 7,380,611 歐元；italaw 摘要記為約 730 萬歐元、上訴法院判決則換算為逾 900 萬美元。\n以下為本網頁助理補充，非來源內容：IAReporter 於 10 月 30 日以「美國法院再度執行對赤道幾內亞的判斷，認瑞士法下無當地訴訟要求」為題報導本案。",
+   "tags": [
+    "承認與執行",
+    "紐約公約",
+    "赤道幾內亞",
+    "瑞士",
+    "美國",
+    "仲裁協議",
+    "可仲裁性",
+    "國家契約",
+    "主權豁免"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "美國哥倫比亞特區聯邦地方法院判決（PDF，govinfo）",
+     "url": "https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_20-cv-03572/pdf/USCOURTS-dcd-1_20-cv-03572-1.pdf",
+     "official": true
+    },
+    {
+     "label": "govinfo 本案判決一覽",
+     "url": "https://www.govinfo.gov/app/details/USCOURTS-dcd-1_20-cv-03572/context",
+     "official": true
+    },
+    {
+     "label": "哥倫比亞特區巡迴上訴法院 2025 年判決（PDF）",
+     "url": "https://media.cadc.uscourts.gov/opinions/docs/2025/09/23-7169-2136443.pdf",
+     "official": true
+    },
+    {
+     "label": "IAReporter 報導",
+     "url": "https://www.iareporter.com/articles/us-court-again-enforces-commercial-award-against-equatorial-guinea-seeing-no-local-litigation-requirement-under-swiss-law/",
+     "official": false
+    },
+    {
+     "label": "italaw 案件頁面（含仲裁判斷）",
+     "url": "https://www.italaw.com/cases/14422",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T07:08:24+08:00"
+  },
+  {
+   "id": "2026-10-27-arb-mys-hc-mulia-stay-pending-icsid-refused",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "investment",
+   "caseId": "tjandranegara-v-malaysia",
+   "jurisdiction": "馬來西亞",
+   "outlet": "馬來西亞高等法院",
+   "outletCode": "MYHC",
+   "date": "2026-10-27",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "馬來西亞高等法院拒絕因印尼投資人對馬來西亞的 ICSID 仲裁而停止國營公司就 Exchange 106 大樓股權提起的契約訴訟",
+   "shortTitle": "馬來西亞法院拒因 ICSID 仲裁停止國營公司訴訟",
+   "point": "ICSID 公約第 26 條只拘束仲裁當事人，國營公司與 Mulia 間的契約爭議可並行審理",
+   "titleOriginal": "MKD Signature Sdn Bhd v. Mulia International Limited, High Court of Malaya at Kuala Lumpur, Grounds of Decision (Leong Wai Hong J)",
+   "caseRef": "",
+   "tldr": "吉隆坡 106 層高樓 Exchange 106 的股權之爭，一邊是財政部持有的 MKD Signature 在馬來西亞法院告 Mulia 要拿回剩餘股份，另一邊是 Mulia 老闆以東協投資協定在 ICSID 告馬來西亞政府。Mulia 請法院先停下訴訟等仲裁結果，法院拒絕，認為兩者當事人和法律基礎都不同。",
+   "memo": "馬來西亞高等法院 Leong Wai Hong 法官就 MKD Signature Sdn Bhd 訴 Mulia International Limited 案，駁回 Mulia 以 Eka Tjandranegara 對馬來西亞之 ICSID 仲裁（ARB/25/27，依東協全面投資協定）為由停止訴訟之聲請，並命其負擔訴訟費用 10 萬令吉。法院認為 ICSID 公約第 26 條排他效力僅及於仲裁當事人；國家就其他實體行為可能負國際責任，不使該實體成為仲裁協議當事人；兩程序當事人、法律依據及救濟均不同，亦無衝突裁判之重大風險，不構成裁量停止之特殊情事。",
+   "context": "Exchange 106 由 Mulia Property Development（MPD）開發，原由印尼 Mulia 集團旗下 Mulia International（MIL）全資持有。因融資困難，財政部所屬特殊目的公司 MKD Signature 向 HSBC 借款最高 20 億令吉並取得 MPD 51% 股份，MIL 保留 49% 及買回選擇權。\nMIL 未於 2023 年 6 月 26 日期限前行使選擇權或清償貸款，MKD Signature 於 6 月 27 日發出違約通知，並交付 1 令吉支票要求移轉 MIL 其餘 49% 股份，隨後於 2024 年起訴。\nMulia 集團負責人 Eka Tjandranegara 則依 2009 年東協全面投資協定（ACIA）對馬來西亞提起 ICSID 仲裁（ARB/25/27，2025 年 6 月登記），主張直接及間接徵收、違反公平公正待遇（含拒絕正義）及充分保障與安全。",
+   "facts": [
+    "MIL 於 2024 年 10 月 4 日聲請停止訴訟，主張 ICSID 具排他管轄權並援引國際法原則，指本案訴訟是政府以 2 令吉取得整棟大樓的手段。",
+    "MIL 另主張馬來西亞並未就 ICSID 仲裁庭管轄權提出異議，但未以宣誓書等證據證明。",
+    "法院駁回聲請，並命 MIL 給付 MKD Signature 訴訟費用 10 萬令吉。"
+   ],
+   "issues": [
+    "ICSID 公約第 26 條的排他效力，是否及於非仲裁當事人間的國內契約訴訟。",
+    "國營公司行為可能歸屬於國家，是否使其成為國家仲裁協議的當事人。",
+    "法院是否應基於案件管理權限，因平行 ICSID 仲裁而裁量停止訴訟。"
+   ],
+   "holding": "・ICSID 公約第 26 條僅拘束 ICSID 仲裁的當事人（Eka Tjandranegara 與馬來西亞政府），不構成停止 MKD Signature 與 MIL 間爭議的依據。\n・援引 City of London v Sancheti 案，國家可能就其他實體的行為負國際責任，不因此使該實體成為國家仲裁協議的當事人。\n・Attorney-General v Mobil Oil NZ 案的停止訴訟以紐西蘭法定權限為依據，馬來西亞並無相同規定，故不適用。\n・兩程序事實雖重疊，但當事人、法律依據與救濟不同：一為國際法上的條約請求，一為馬來西亞法上的契約請求；援引 Impregilo 案，ICSID 與國內程序可以並行。\n・無特殊情事、不公平、濫用程序或重大裁判衝突風險，不應依案件管理權限裁量停止。",
+   "significance": "本案涉及國營實體在地主國法院主張契約權利、投資人同時以條約仲裁指控國家藉此徵收的典型平行程序。法院拒絕停止，國內訴訟將繼續進行；其結果可能成為 ICSID 仲裁中徵收及拒絕正義主張的事實基礎。MIL 可否上訴，來源未說明。",
+   "editorNote": "本網頁助理 註：本則依 The Edge Malaysia 報導及 Shearn Delamore 事務所（代理 MKD Signature）評析撰寫，尚未取得判決原文。裁判日期來源不一：事務所評析記為 2026 年 9 月 25 日，The Edge 記為 10 月 7 日宣判，IAReporter 所列文件為 10 月 7 日之判決理由書，故裁判日期欄留空。IAReporter 於 10 月 30 日亦有報導。",
+   "tags": [
+    "ICSID",
+    "馬來西亞",
+    "印尼",
+    "停止訴訟",
+    "平行程序",
+    "東協全面投資協定",
+    "ICSID公約第26條",
+    "國營企業",
+    "徵收"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "The Edge Malaysia 報導",
+     "url": "https://theedgemalaysia.com/node/823470",
+     "official": false
+    },
+    {
+     "label": "Shearn Delamore 評析（Conventus Law）",
+     "url": "https://conventuslaw.com/report/malaysia-high-court-refuses-stay-of-contractual-claim-pending-icsid-arbitration/",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導",
+     "url": "https://www.iareporter.com/articles/malaysian-court-refuses-to-stay-proceedings-brought-by-state-owned-company-over-kuala-lumpur-skyscraper-pending-indonesian-investors-icsid-asean-arbitration/",
+     "official": false
+    },
+    {
+     "label": "UNCTAD 投資爭端案件資料",
+     "url": "https://investmentpolicy.unctad.org/investment-dispute-settlement/cases/1423/tjandranegara-v-malaysia",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T07:08:24+08:00"
+  },
+  {
+   "id": "2026-10-30-arb-khalilpour-azerbaijan-fraud-award",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "常設仲裁法院（PCA）",
+   "outletCode": "PCA",
+   "date": "2026-10-30",
+   "eventDate": "2026-09-21",
+   "importance": 2,
+   "author": "",
+   "title": "伊朗投資人 Khalilpour Bahari 依雙邊投資協定對亞塞拜然求償約 8 億美元，仲裁庭認定其偽造文件並駁回請求",
+   "shortTitle": "伊朗投資人對亞塞拜然 8 億美元求償遭駁回",
+   "point": "仲裁庭認定申請人為本案偽造詐欺性文件",
+   "titleOriginal": "Mohammad Reza Khalilpour Bahari v. Republic of Azerbaijan (II), PCA Case No. 2022-49, Award (redacted), 21 September 2026",
+   "caseRef": "PCA Case No. 2022-49",
+   "tldr": "一名伊朗企業家指控亞塞拜然政府以恐嚇手段侵害他的投資，依兩國投資協定求償約 8 億美元。依 UNCITRAL 規則組成的仲裁庭認定他為了打這場仲裁偽造文件，駁回全部請求。",
+   "memo": "依 UNCITRAL 仲裁規則組成、由常設仲裁法院管理之仲裁庭（主任仲裁人 Gabrielle Kaufmann-Kohler，仲裁人 Laurence Shore、Daniel Bethlehem）於 2026 年 9 月 21 日就 Khalilpour Bahari 訴亞塞拜然案（PCA Case No. 2022-49）作成判斷。申請人依 1996 年伊朗—亞塞拜然雙邊投資協定，主張亞塞拜然對其投資進行恐嚇並求償約 8 億美元；仲裁庭認定申請人為本案偽造詐欺性文件，駁回其請求。",
+   "context": "申請人 Mohammad Reza Khalilpour Bahari 為伊朗企業家，在亞塞拜然從事製造業投資，依 1996 年伊朗—亞塞拜然雙邊投資協定提起臨時仲裁，由常設仲裁法院擔任管理機構（PCA Case No. 2022-49，italaw 列為第二案）。\n仲裁庭由 Gabrielle Kaufmann-Kohler 擔任主任仲裁人，申請人選任 Laurence Shore，亞塞拜然選任 Daniel Bethlehem。亞塞拜然於 2023 年 12 月提出管轄權異議及答辯，雙方書狀往來至 2024 年 10 月。",
+   "facts": [
+    "申請人主張亞塞拜然對其發動恐嚇行動，求償約 8 億美元。",
+    "仲裁庭認定申請人為本案偽造詐欺性文件，並駁回請求。",
+    "IAReporter 形容本案程序充滿對立，並刊出 2026 年 9 月 21 日的判斷遮蔽版。"
+   ],
+   "issues": [
+    "申請人提出的證據是否為偽造，以及偽造證據對請求的影響。",
+    "亞塞拜然依 1996 年伊朗—亞塞拜然雙邊投資協定提出的管轄權異議。"
+   ],
+   "holding": "依新聞報導，仲裁庭認定申請人偽造詐欺性文件以支持其請求，並駁回全部請求。判斷理由、費用分擔及是否處理管轄權異議，現有公開資料未說明。",
+   "significance": "本案再次顯示仲裁庭面對證據造假時，可直接以此駁回請求。判斷依 UNCITRAL 規則作成，可能在仲裁地法院面臨撤銷之訴；來源未說明仲裁地或是否已有撤銷程序。",
+   "editorNote": "本網頁助理 註：本則依 GAR 及 IAReporter 的標題、導言與 italaw 案件資料撰寫，尚未取得判斷原文；判斷日期取自 IAReporter 刊載之判斷遮蔽版標示。求償金額 8 億美元依 GAR 導言。費用、理由與各仲裁人意見均待判斷公開後補充。",
+   "tags": [
+    "PCA",
+    "UNCITRAL",
+    "亞塞拜然",
+    "伊朗",
+    "雙邊投資協定",
+    "偽造證據",
+    "詐欺"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "GAR 報導",
+     "url": "https://globalarbitrationreview.com/article/iranian-investors-fraud-sinks-claim-against-azerbaijan",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導",
+     "url": "https://www.iareporter.com/articles/uncitral-tribunal-renders-award-in-acrimonious-arbitration-between-iranian-investor-and-azerbaijan-dismissing-claims-after-finding-that-claimant-fabricated-fraudulent-documents-for-the-purpose-of-the/",
+     "official": false
+    },
+    {
+     "label": "italaw 案件頁面",
+     "url": "https://www.italaw.com/cases/11696",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T07:08:24+08:00"
+  },
+  {
+   "id": "2026-10-29-arb-ukraine-mod-body-armour-enforcement",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-10-29",
+   "eventDate": "2026-10-14",
+   "importance": 1,
+   "author": "",
+   "title": "烏克蘭國防部向美國佛羅里達聯邦法院聲請執行對防彈插板供應商約 700 萬美元的仲裁判斷",
+   "shortTitle": "烏克蘭國防部在美聲請執行防彈插板判斷",
+   "point": "供應商交付的插板未通過彈道測試，判斷金額約 700 萬美元",
+   "titleOriginal": "Ukrainian defence ministry seeks to enforce against body armour supplier",
+   "caseRef": "",
+   "tldr": "烏克蘭國防部 2022 年向佛州公司 JMS Capital Alliance 採購防彈插板，貨品未通過彈道測試，國防部仲裁勝訴後拿不到錢，現向美國聯邦法院聲請執行約 700 萬美元的判斷。",
+   "memo": "烏克蘭國防部於 2026 年 10 月 14 日向美國佛羅里達州南區聯邦地方法院聲請執行其對 JMS Capital Alliance 之仲裁判斷，金額約 700 萬美元。爭議源於 2022 年防彈插板供應契約，國防部主張部分插板未通過彈道測試，逾 4,000 件欠缺品質保證文件；判斷作成於 2023 年。",
+   "context": "俄烏戰爭爆發後，烏克蘭國防部於 2022 年與佛州軍品供應商 JMS Capital Alliance 簽訂防彈插板供應契約。GAR 指出，這是近期多件軍品採購仲裁之一。",
+   "facts": [
+    "國防部主張供應商交付的插板未通過要求的彈道測試，逾 4,000 件欠缺品質保證文件。",
+    "仲裁判斷於 2023 年作成，金額約 700 萬美元。",
+    "國防部由 Holland & Knight 代理，於 2026 年 10 月 14 日提出執行聲請。"
+   ],
+   "issues": [
+    "外國仲裁判斷在美國的承認與執行（紐約公約）。"
+   ],
+   "holding": "國防部請求法院確認並執行判斷；法院尚未作成決定。",
+   "significance": "顯示戰時國防採購爭議逐漸進入仲裁與跨國執行程序；後續觀察供應商是否提出紐約公約抗辯。",
+   "editorNote": "本網頁助理 註：本則依 GAR 導言、Law360 摘要及 Wisevoter 報導撰寫，尚未取得聲請書或判斷原文。仲裁機構、仲裁地及判斷確切日期，現有來源均未說明；法院依 Law360 標示為佛羅里達州南區聯邦地方法院。",
+   "tags": [
+    "承認與執行",
+    "紐約公約",
+    "烏克蘭",
+    "美國",
+    "國防採購",
+    "國家契約"
+   ],
+   "related": [
+    "2026-10-21-arb-dj-defence-disputes"
+   ],
+   "sources": [
+    {
+     "label": "GAR 報導",
+     "url": "https://globalarbitrationreview.com/article/ukrainian-defence-ministry-seeks-enforce-against-body-armour-supplier",
+     "official": false
+    },
+    {
+     "label": "Law360 報導",
+     "url": "https://www.law360.com/articles/2538613/fla-body-armor-dealer-on-the-hook-for-7m-ukraine-says",
+     "official": false
+    },
+    {
+     "label": "Wisevoter 報導",
+     "url": "https://wisevoter.com/world/2026/10/16/ukraine-seeks-enforce-arbitration-award",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T07:08:24+08:00"
+  },
+  {
+   "id": "2026-10-29-arb-dj-tribunal-assistance-verification-gap",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-10-29",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Ali Shah Nawaz Niazi（Freshfields 杜拜辦公室）",
+   "title": "仲裁庭助理的實質協助難以查證：作者主張以功能定義、事前揭露與機密登記簿補上「驗證缺口」",
+   "shortTitle": "判斷到底是誰寫的？仲裁庭助理的驗證缺口",
+   "point": "作者主張建立事前揭露、機密登記與分階段審查，而非全面開放仲裁庭檔案",
+   "titleOriginal": "Who Really Decided the Case? Tribunal Assistance and the Verification Gap in Arbitration",
+   "caseRef": "",
+   "tldr": "仲裁判斷署名的是仲裁人，但背後可能有沒被揭露的助理做研究、寫草稿。當事人懷疑仲裁人把決定權交給助理時，證據都在仲裁庭內部，很難證明。作者建議用功能界定「仲裁庭協助人員」、事先揭露，並設門檻和分階段的查核機制。",
+   "memo": "Ali Shah Nawaz Niazi 於 Daily Jus 撰文指出，仲裁庭秘書或未揭露助理之實質協助難以由當事人查證，現行 ICC 2026 年規則第 44 條、LCIA 規則第 14A 條等多屬事前規範。作者主張以功能定義「仲裁庭協助人員」，於接觸實質資料前揭露身分與職務，向機構提交機密協助登記，於判斷中聲明未委託裁決職能，並設初步證據門檻及分階段審查；僅於未經授權者實質決定爭點時，始依示範法第 34 條第 2 項 (a) 款 (iv) 目或紐約公約第 5 條第 1 項 (d) 款撤銷或拒絕承認。",
+   "context": "仲裁庭秘書與助理的角色長期有爭議。Yukos 案中，俄羅斯曾主張仲裁庭助理實際撰寫大部分判斷；海牙上訴法院於 2020 年認為其工時與撰稿角色本身不足以證明仲裁人委託裁決職能。",
+   "facts": [
+    "作者比較 arbitrateAD 2024 年規則第 19 條、DIAC 2022 年規則、ICC 2026 年規則第 44 條、LCIA 2020 年規則第 14A 條及其指引。",
+    "作者引用南非 Total Support Management 案、Yukos 案、英國 P v Q 案及 Sonatrach v Statoil 案說明界線與舉證困難。"
+   ],
+   "issues": [
+    "仲裁人可接受的協助與不得委託的裁決職能如何區分。",
+    "當事人懷疑不當委託時，如何在保護評議秘密的前提下取得證據。",
+    "未揭露協助人員對判斷效力的影響（示範法第 34 條、紐約公約第 5 條第 1 項 (d) 款）。"
+   ],
+   "holding": "・作者指出問題不在協助本身，而在協助未揭露、經核准的職務悄悄擴張，或助理實際取代仲裁人的判斷。\n・驗證缺口：草稿、指示、後設資料與工時紀錄都在仲裁庭內部，提出異議的一方負舉證責任卻難以接觸證據；但一有指控就開放檔案，又會引發撈證。\n・功能測試：重點是誰評價證據、認定爭議事實與法律、在專家間取捨並決定責任與金額，而非誰執筆。\n・規則比較：arbitrateAD 規則最完整；ICC 2026 年規則第 44 條要求先徵詢當事人並禁止委託裁決；LCIA 規則要求當事人同意秘書及其職務；DIAC 規則無專門規定。作者認為這些規則主要是預防性的。\n・P v Q 案的懷疑源於主任仲裁人誤寄電子郵件，作者指出此類失誤罕見；Sonatrach v Statoil 案中仲裁庭以評議秘密拒絕提出筆記。\n・建議：以功能定義「仲裁庭協助人員」；在接觸實質資料前及職務擴張時揭露；向機構提交機密協助登記（不含仲裁庭見解）；判斷中聲明已揭露且未委託裁決；設具體、客觀可信事實的初步門檻；依序審查登記、有限後設資料，最後才於非公開下審閱草稿。\n・救濟：僅提供允許協助而未揭露，不應當然使判斷無效；嚴重情形是未經授權者實質決定爭點。",
+   "significance": "作者結論：仲裁可以依賴機密評議，但正當性取決於受選任者實際作成決定；機構不必全面開放仲裁庭檔案，而應在有實際證據時提供有針對性的查核方式。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。",
+   "tags": [
+    "仲裁庭秘書",
+    "仲裁人揭露",
+    "撤銷仲裁判斷",
+    "紐約公約",
+    "ICC",
+    "LCIA",
+    "正當程序"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Daily Jus 文章",
+     "url": "https://dailyjus.com/legal-insights/2026/10/who-really-decided-the-case-tribunal-assistance-and-the-verification-gap-in-arbitration",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T07:08:24+08:00"
   }
  ],
  "agenda": [
@@ -4438,6 +4761,30 @@
    "caseRef": "",
    "summary": "以色列電力業者 Dalia 爭執 Leviathan 氣田合夥人終止 20 年、約 67 億美元天然氣供應契約的效力。",
    "status": "Dalia 已於 2026 年 10 月向 LCIA 提起仲裁，請求確認終止無效。"
+  },
+  {
+   "id": "marseille-kliniken-v-equatorial-guinea",
+   "type": "案件",
+   "court": "COURT",
+   "field": "commercial",
+   "forum": "美國哥倫比亞特區聯邦地方法院",
+   "name": "Marseille-Kliniken 訴赤道幾內亞（醫院管理契約判斷之執行）",
+   "nameOriginal": "Marseille-Kliniken AG v. Republic of Equatorial Guinea",
+   "caseRef": "No. 1:20-cv-03572 (D.D.C.); SCAI Case No. 600413-2015",
+   "summary": "瑞士醫院管理公司就 Bata 公立醫院管理契約爭議取得蘇黎世仲裁判斷，於美國聲請承認執行；爭點為契約是否要求先在赤道幾內亞法院訴訟。",
+   "status": "上訴法院 2025 年撤銷發回後，地院於 2026 年 10 月依瑞士法再度准予承認判斷；赤道幾內亞可再上訴。"
+  },
+  {
+   "id": "tjandranegara-v-malaysia",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Tjandranegara 訴馬來西亞（Exchange 106 大樓案）",
+   "nameOriginal": "Eka Tjandranegara v. Malaysia",
+   "caseRef": "ICSID Case No. ARB/25/27",
+   "summary": "印尼投資人依東協全面投資協定，指控馬來西亞財政部藉所屬公司取得 Exchange 106 開發公司全部股權，構成徵收及違反公平公正待遇。",
+   "status": "ICSID 仲裁進行中；馬來西亞高等法院拒絕因仲裁停止財政部所屬公司對 Mulia 的契約訴訟。"
   }
  ]
 }
