@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-30T06:59:43+08:00",
-  "lastRunLocal": "2026-10-30 06:59",
+  "lastRun": "2026-10-30T23:15:23+08:00",
+  "lastRunLocal": "2026-10-30 23:15",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 1 則：ICC 1"
+  "lastRunNote": "新增 2 則：ICJ 1、ICC 1"
  },
  "items": [
   {
@@ -4308,7 +4308,10 @@
      "official": true
     }
    ],
-   "addedAt": "2026-10-28T07:11:20+08:00"
+   "addedAt": "2026-10-28T07:11:20+08:00",
+   "related": [
+    "2026-10-29-icj-president-unga-report"
+   ]
   },
   {
    "id": "2026-10-27-icc-prosecutor-election-launched",
@@ -4488,7 +4491,8 @@
    "addedAt": "2026-10-28T23:03:31+08:00",
    "related": [
     "2026-10-27-icc-duterte-defence-rule68-2b",
-    "2026-10-23-icc-duterte-rule68-requests"
+    "2026-10-23-icc-duterte-rule68-requests",
+    "2026-10-30-icc-duterte-96-victim-applicants"
    ]
   },
   {
@@ -4671,6 +4675,130 @@
    "addedAt": "2026-10-30T06:59:43+08:00",
    "related": [
     "2026-10-23-icc-dela-rosa-bounty"
+   ]
+  },
+  {
+   "id": "2026-10-29-icj-president-unga-report",
+   "court": "ICJ",
+   "kind": "機構動態",
+   "caseId": "",
+   "date": "2026-10-29",
+   "eventDate": "2026-10-29",
+   "importance": 1,
+   "title": "國際法院院長岩澤雄司於聯合國大會第 81 屆會議提出法院年度報告",
+   "shortTitle": "國際法院院長向聯大提出年度報告",
+   "point": "院長於聯大第 29 次全體會議報告法院過去一年工作，講稿已公布於法院網站",
+   "titleOriginal": "Speech by H.E. Judge Iwasawa Yuji, President of the International Court of Justice, on the occasion of the eighty-first session of the United Nations General Assembly",
+   "caseRef": "",
+   "tldr": "國際法院每年都要向聯合國大會報告工作。10 月 29 日，院長岩澤雄司在紐約聯大全體會議上提出今年的報告，法院也發布新聞稿並公開講稿。",
+   "memo": "國際法院院長岩澤雄司於 2026 年 10 月 29 日在聯合國大會第 81 屆會議第 29 次全體會議提出國際法院年度報告，說明法院於報告期間之司法工作；國際法院並於同日發布第 2026/26 號新聞稿，公開英、法文講稿。",
+   "context": "依《國際法院規約》與聯合國大會的慣例，國際法院每年向大會提交年度報告，並由院長於秋季大會全體會議中口頭說明。岩澤雄司自 2025 年 3 月起擔任院長，2025 年 10 月亦曾向第 80 屆大會報告。\n國際法院於前兩日（10 月 27 日）才公布修正《法院規則》第 50、56 條及數項實務指引（見本站前則）。",
+   "facts": [
+    "2026 年 10 月 29 日，岩澤雄司院長於紐約聯合國大會第 81 屆會議第 29 次全體會議提出國際法院年度報告。",
+    "國際法院同日發布第 2026/26 號新聞稿，並於「院長發言」網頁公布英文及法文講稿（PDF）。"
+   ],
+   "issues": [
+    "國際法院與聯合國大會的關係及法院年度報告制度。"
+   ],
+   "holding": "本則為機構動態，非裁判。院長向大會報告法院過去一年的工作；講稿全文見官方來源。",
+   "significance": "院長的年度報告通常會整理法院待決案件數量、過去一年作成的判決、命令與諮詢意見，以及法院面臨的資源與工作量問題，是掌握法院整體動態的重要官方文件。",
+   "editorNote": "本網頁助理 註：本則依國際法院新聞稿列表、「院長發言」網頁及聯合國新聞照片說明撰寫；本次執行未能開啟講稿 PDF，故未摘要講稿內容（如案件數量、個別案件），讀者請直接參閱講稿原文。",
+   "tags": [
+    "國際法院",
+    "聯合國大會",
+    "年度報告",
+    "岩澤雄司"
+   ],
+   "sources": [
+    {
+     "label": "國際法院院長講稿（英文 PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/press-releases/0/000-20261029-sta-01-00-en.pdf",
+     "official": true
+    },
+    {
+     "label": "國際法院新聞稿列表（第 2026/26 號）",
+     "url": "https://www.icj-cij.org/press-releases",
+     "official": true
+    },
+    {
+     "label": "國際法院院長發言列表",
+     "url": "https://www.icj-cij.org/statements-by-the-president",
+     "official": true
+    },
+    {
+     "label": "聯合國新聞照片：大會聽取國際法院報告",
+     "url": "https://media.un.org/photo/en/asset/oun7/oun71159540",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-10-30T23:15:23+08:00",
+   "related": [
+    "2026-10-27-icj-rules-amendments-50-56"
+   ]
+  },
+  {
+   "id": "2026-10-30-icc-duterte-96-victim-applicants",
+   "court": "ICC",
+   "kind": "程序進展",
+   "caseId": "icc-duterte",
+   "date": "2026-10-30",
+   "eventDate": "2026-10-28",
+   "importance": 1,
+   "title": "杜特蒂案：書記官處向第三審判分庭轉送 46 份新的被害人參與申請，涵蓋 96 人，均列為明顯符合被害人資格",
+   "shortTitle": "杜特蒂案再有 96 人申請參與審判",
+   "point": "書記官處將 46 份申請列為「明顯符合」的 A 組，審判分庭尚未決定是否准許",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte – Registry transmission of victims' applications for participation (reported)",
+   "caseRef": "ICC-01/21-01/25",
+   "tldr": "又有將近 100 名掃毒戰爭被害人的家屬申請參加杜特蒂的審判。國際刑事法院書記官處 10 月 28 日把 46 份、涵蓋 96 人的申請送交審判法官，並認為這些人明顯符合被害人資格。之前預審法官已准許 539 人參與。審判將於 11 月 30 日開始。",
+   "memo": "國際刑事法院書記官處於 2026 年 10 月 28 日向第三審判分庭轉送杜特蒂案 46 份被害人參與訴訟申請，涵蓋 96 名申請人，並依 A、B、C 三組分類方式將其列為明顯符合被害人資格之 A 組；申請內容未公開。先前第一預審分庭已准許 539 名被害人參與。審判分庭尚未就是否准許參與作成決定，審判預定於 2026 年 11 月 30 日開始。",
+   "context": "杜特蒂被控於擔任達沃市長及菲律賓總統期間，就掃毒戰爭中的殺人行為犯下危害人類罪。第一預審分庭於 2026 年 4 月確認全部罪狀並將案件移付審判，審判預定 2026 年 11 月 30 日在海牙開始。\n依《羅馬規約》第 68 條第 3 項，被害人得透過共同法律代理人在訴訟中表達意見與關切；書記官處先審查申請，依「A 組（明顯符合）、B 組（明顯不符合）、C 組（無法明確判斷）」分類後送交分庭決定。",
+   "facts": [
+    "依報導，書記官處另收到 46 份被害人參與申請，涵蓋 96 人。",
+    "書記官處於 2026 年 10 月 28 日將上述申請轉送第三審判分庭，並將 96 人均列為 A 組（明顯符合被害人資格）。",
+    "申請內容為機密，未公開。",
+    "第一預審分庭先前已准許 539 名個人申請人參與訴訟。",
+    "依報導，法官先前認定 2011 年 11 月 1 日至 2016 年 6 月 30 日在達沃地區遭謀殺或謀殺未遂的被害人亦屬本案範圍。"
+   ],
+   "issues": [
+    "被害人參與訴訟的要件（《羅馬規約》第 68 條第 3 項、《程序及證據規則》第 85、89 條）。",
+    "書記官處 A、B、C 分類程序與審判分庭的審查。"
+   ],
+   "holding": "本則為程序進展，非裁判。書記官處已將申請送交審判分庭並建議歸入 A 組；審判分庭是否准許這 96 人參與，尚待決定。獲准參與的被害人不一定是檢方證人，而是透過共同法律代理人表達意見，若被告被判有罪，並可能獲得賠償。",
+   "significance": "開審前一個月，參與被害人人數仍在增加，顯示本案被害人規模龐大；審判分庭對新申請的處理，以及被害人代理人在審判中的角色，將影響審判進行與日後的賠償程序。",
+   "editorNote": "本網頁助理 註：本則依 Philstar 與 Manila Times 報導撰寫，未能取得書記官處轉送文件，也無法讀取國際刑事法院官方網站；titleOriginal 為本網頁助理依報導擬定的描述，並非文件正式名稱。報導未說明本次是否另有 B、C 組申請。",
+   "tags": [
+    "國際刑事法院",
+    "菲律賓",
+    "杜特蒂",
+    "危害人類罪",
+    "掃毒戰爭",
+    "被害人參與"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院杜特蒂案被害人資訊頁",
+     "url": "https://www.icc-cpi.int/victims/duterte-case",
+     "official": true
+    },
+    {
+     "label": "國際刑事法院新聞稿：杜特蒂案 11 月 30 日開審實務資訊",
+     "url": "https://icc-cpi.int/news/opening-duterte-trial-30-november-2026-practical-information",
+     "official": true
+    },
+    {
+     "label": "Philstar 報導",
+     "url": "https://www.philstar.com/headlines/2026/10/30/2566663/more-drug-war-victims-kin-want-join-duterte-trial",
+     "official": false
+    },
+    {
+     "label": "Manila Times 報導",
+     "url": "https://www.manilatimes.net/2026/10/30/news/icc-recognizes-96-victims-seeking-participation-in-duterte-trial/2457974",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-30T23:15:23+08:00",
+   "related": [
+    "2026-10-28-icc-duterte-clrv-rule68-2b"
    ]
   }
  ],
@@ -4917,7 +5045,7 @@
    "nameOriginal": "The Prosecutor v. Rodrigo Roa Duterte",
    "caseRef": "ICC-01/21",
    "summary": "菲律賓前總統杜特蒂被控三項危害人類罪。",
-   "status": "已認定具受審能力；檢、辯及被害人方正就採用證人先前錄製證詞攻防，狀態會議訂於 11 月 2 日，審判預定於 2026 年 11 月 30 日開始。"
+   "status": "已認定具受審能力；檢、辯及被害人方正就採用證人先前錄製證詞攻防，另有 96 名被害人新申請參與待審判分庭決定，狀態會議訂於 11 月 2 日，審判預定於 2026 年 11 月 30 日開始。"
   },
   {
    "id": "icc-afghanistan",
