@@ -1,13 +1,196 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-30T07:01:29+08:00",
-  "lastRunLocal": "2026-10-30 07:01",
+  "lastRun": "2026-10-30T23:02:10+08:00",
+  "lastRunLocal": "2026-10-30 23:02",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 3 則：商務仲裁 2（法院裁判 1、評論 1）、投資仲裁 1（案件動態 1）",
+  "lastRunNote": "新增 3 則：商務仲裁 2（評論 2）、投資仲裁 1（仲裁判斷 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
+  {
+   "id": "2026-10-29-arb-ascent-slovenia-ect-award-published",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "斯洛維尼亞",
+   "outlet": "italaw",
+   "outletCode": "ITA",
+   "date": "2026-10-29",
+   "eventDate": "2026-07-07",
+   "importance": 2,
+   "author": "",
+   "title": "Ascent Resources 訴斯洛維尼亞案 ICSID 仲裁判斷公開：仲裁庭肯認管轄權，但認定水力壓裂禁令未違反能源憲章條約，駁回近 6 億歐元請求",
+   "shortTitle": "Ascent 訴斯洛維尼亞：水力壓裂禁令案判斷公開",
+   "point": "仲裁庭駁回歐盟內部等管轄權異議，但認定禁令有合理政策目的，求償全數駁回",
+   "titleOriginal": "Ascent Resources Plc and Ascent Slovenia Ltd v. Republic of Slovenia (ICSID Case No. ARB/22/21), Award of 7 July 2026",
+   "caseRef": "ICSID Case No. ARB/22/21",
+   "tldr": "英國油氣公司 Ascent 主張斯洛維尼亞以環評要求與 2022 年全面禁止水力壓裂，讓它無法開發 Petišovci 氣田，依能源憲章條約求償約 6 億歐元。ICSID 仲裁庭 2026 年 7 月一致駁回全部請求，判斷書近日公開：仲裁庭認為自己有管轄權，但禁令是為了合理的公共政策目的，不構成違約或徵收。",
+   "memo": "ICSID 仲裁庭（主任仲裁人 Raed M. Fathallah，仲裁人 Brigitte Stern、Klaus Reichert）於 2026 年 7 月 7 日就 Ascent Resources Plc 等訴斯洛維尼亞案（ICSID Case No. ARB/22/21）一致作成仲裁判斷，駁回斯洛維尼亞所提違法投資、歐盟內部及變更註冊地濫用程序等管轄權異議，惟認定斯洛維尼亞就 Petišovci 油氣田所採環境影響評估要求及 2022 年礦業法修正全面禁止水力壓裂等措施，未違反能源憲章條約第 10 條公平公正待遇與國民待遇及第 13 條徵收規定，駁回申請人約 5.987 億歐元之損害賠償請求，並命申請人給付斯洛維尼亞 300 萬歐元費用，仲裁費用由雙方平均分擔。該判斷於 2026 年 10 月公開。",
+   "context": "申請人 Ascent Resources Plc（英國）及其子公司 Ascent Slovenia Ltd（馬爾他）自 2007 年起透過收購 Nemmoco 取得斯洛維尼亞東北部 Petišovci 油氣田合資權益，2011 年持分增至 75%，並於 2011 年以水力壓裂方式刺激兩口氣井。\n此後斯洛維尼亞環境署（ARSO）於 2019 年要求就相關作業進行環境影響評估；2022 年 4 月礦業法修正、同年 5 月起全面禁止各類水力壓裂。申請人於 2022 年依能源憲章條約（ECT）及 ICSID 公約提起仲裁（因未取得英國－斯洛維尼亞投資協定下之同意，僅依 ECT 登錄）。言詞辯論於 2025 年 4 月 7 日至 11 日在巴黎舉行。",
+   "facts": [
+    "申請人主張斯洛維尼亞一連串措施阻礙氣田開發，最終以 2022 年水力壓裂全面禁令使投資失去價值，求償約 5.987 億歐元（斯洛維尼亞媒體報導，先前請求金額更高）。",
+    "斯洛維尼亞提出三項管轄權異議：投資違反當地法律、歐盟法排除歐盟內部 ECT 仲裁，以及 Ascent Slovenia 自英屬維京群島遷冊馬爾他構成濫用程序。",
+    "仲裁庭於 2024 年 2 月第 3 號程序令大致駁回斯洛維尼亞之費用擔保聲請。",
+    "仲裁庭於 2026 年 7 月 7 日作成一致判斷，Ascent 於翌日公告；判斷全文於 2026 年 10 月由 italaw 刊出，GAR 於 10 月 29 日報導判斷內容。"
+   ],
+   "issues": [
+    "歐盟內部異議、違法投資及遷冊濫用程序等異議是否排除仲裁庭依 ECT 第 26 條之管轄權。",
+    "環評要求及水力壓裂禁令是否違反 ECT 第 10 條（公平公正待遇、國民待遇）。",
+    "上述措施是否構成 ECT 第 13 條之徵收。",
+    "費用分擔。"
+   ],
+   "holding": "管轄權：仲裁庭駁回斯洛維尼亞全部管轄權異議（包括歐盟內部異議），確認對 ECT 下全部請求有管轄權。\n實體：仲裁庭駁回依 ECT 第 10 條（公平公正待遇與國民待遇）及第 13 條（徵收）提出之全部請求；依 GAR 與 IAReporter 報導，仲裁庭認為水力壓裂禁令與合理、正當的公共政策目的相關聯。\n費用：申請人應給付斯洛維尼亞 300 萬歐元之費用；仲裁費用由雙方平均分擔。",
+   "significance": "本案為歐盟內部 ECT 仲裁中，仲裁庭照例駁回歐盟內部異議、但於實體上支持地主國環境管制的案例，常被引為水力壓裂禁令在國際投資法下的指標性判斷。斯洛維尼亞國家檢察官表示判斷為終局，申請人可用的救濟途徑極少；Ascent 表示仍在檢視判斷，未宣布是否依 ICSID 公約第 52 條聲請撤銷（annulment）。",
+   "editorNote": "本網頁助理 註：本則依 italaw 刊出之判斷全文（本網頁助理僅讀取事實與程序部分，未能完整讀取仲裁庭法律論理）、Ascent 於 2026 年 7 月 8 日之公告、斯洛維尼亞媒體 Žurnal24 報導，以及 GAR（2026 年 10 月 29 日）與 IAReporter 之標題與摘要撰寫；GAR 與 IAReporter 全文需訂閱。本站依判斷公開後之報導日期列入；判斷結果於 2026 年 7 月即已公布。",
+   "tags": [
+    "ICSID",
+    "能源憲章條約",
+    "斯洛維尼亞",
+    "英國",
+    "歐盟內部異議",
+    "水力壓裂",
+    "環境管制",
+    "公平公正待遇",
+    "國民待遇",
+    "徵收",
+    "天然氣",
+    "仲裁費用"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 仲裁判斷全文（PDF，italaw 刊載）",
+     "url": "https://www.italaw.com/sites/default/files/case-documents/ca/N8289/italaw19600287%20-%20Ascent%20v.%20Slovenia%20-%20Award%20-%20July%207%2C%202026.pdf",
+     "official": true
+    },
+    {
+     "label": "Ascent Resources 公告（2026-07-08）",
+     "url": "https://www.investegate.co.uk/announcement/rns/ascent-resources--ast/icsid-tribunal-issues-final-award/9658925",
+     "official": false
+    },
+    {
+     "label": "Žurnal24 報導（斯洛維尼亞文）",
+     "url": "https://www.zurnal24.si/slovenija/arbitraza-zavrnila-skoraj-600-milijonsko-tozbo-ascent-resources-proti-sloveniji-461864",
+     "official": false
+    },
+    {
+     "label": "GAR 報導（2026 年 7 月）",
+     "url": "https://globalarbitrationreview.com/article/slovenia-defeats-claim-over-fracking-ban",
+     "official": false
+    },
+    {
+     "label": "italaw 文件頁",
+     "url": "https://www.italaw.com/cases/documents/14940",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-30T23:02:10+08:00"
+  },
+  {
+   "id": "2026-10-30-arb-kab-yangtze-harmony-arrest-award-enforcement",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "新加坡",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-10-30",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Vedanta Vishwakarma",
+   "title": "新加坡法院在 Yangtze Harmony 案准許以對物判決，就扣押船舶的拍賣價金執行倫敦仲裁判斷，補上海事扣押與仲裁執行之間的缺口",
+   "shortTitle": "船舶扣押後，仲裁判斷能執行拍賣價金嗎？",
+   "point": "作者指出新加坡法院認定停止訴訟只是暫停，可恢復對物訴訟執行未獲清償的判斷",
+   "titleOriginal": "The \"Yangtze Harmony\": Bridging the Enforcement Gap Between Admiralty Arrests and International Arbitration",
+   "caseRef": "[2026] SGHC 3",
+   "tldr": "船舶扣押是「對物」程序，仲裁判斷卻只能「對人」執行；如果船東是只有一艘船的空殼公司，贏了仲裁也拿不到錢。作者介紹新加坡高等法院在 Yangtze Harmony 案准許債權人恢復原先停止的扣押訴訟、取得對物判決，直接從船舶拍賣價金受償，認為這讓海事扣押真正成為仲裁的擔保。",
+   "memo": "Vedanta Vishwakarma 於 Kluwer Arbitration Blog 撰文指出，新加坡高等法院於 Posh Projects Pte Ltd v The \"Yangtze Harmony\"（[2026] SGHC 3）案認定，依國際仲裁法第 6 條所為之停止訴訟僅具暫停效力，法院得依殘餘普通法權限於仲裁判斷未獲清償時解除停止、作成對物判決，並就扣押船舶之拍賣價金執行外國仲裁判斷；作者認為此舉銜接該法第 7 條保全擔保與判斷執行，強化新加坡作為海事仲裁執行地之可預測性，惟受償仍受優先權順位及船舶價值限制。",
+   "context": "本案源於拖帶契約：Posh Projects 約定將船舶自布里斯本拖至新加坡修理，契約訂有倫敦仲裁條款。報酬與延誤費用發生爭議後，Posh 在新加坡提起對物海事訴訟並扣押船舶；法院依新加坡國際仲裁法（IAA）第 6、7 條停止訴訟，交付仲裁，扣押擔保則予保留。\n無人提供替代擔保，法院命令司法拍賣，船舶以約 513 萬新元售出，支付較優先債權後約 297 萬新元留存法院。",
+   "facts": [
+    "Posh 取得兩份倫敦仲裁判斷（約 333 萬美元及 136 萬新元），並已在新加坡登記為對人判決，但仍未獲清償。",
+    "Posh 聲請解除停止訴訟、就判斷金額作成對物判決，並以法院保管之拍賣價金受償；被告未出庭。",
+    "作者指出，新加坡此前並無已公開判決處理「對人仲裁判斷能否對對物程序所保全的擔保執行」之問題。"
+   ],
+   "issues": [
+    "依 IAA 第 6 條停止之海事對物訴訟，於仲裁判斷作成後能否恢復進行。",
+    "對人作成之仲裁判斷，能否轉化為對物判決並就扣押船舶或其拍賣價金執行。",
+    "The \"Rena K\" 原則在 IAA 第 7 條規定下的定位。"
+   ],
+   "holding": "・作者先說明困境：單船公司常無其他資產，扣押船舶是唯一可靠擔保，但扣押屬對物程序，仲裁判斷屬對人性質，兩者程序上不相銜接。\n・IAA 第 6、7 條只規範停止訴訟與保留擔保，未說明判斷作成後如何實現擔保。\n・作者認為 The \"Rena K\" 原則可填補缺口：其「停止期間保留扣押擔保」部分已大致由第 7 條成文化（且不再要求證明被告可能無力清償），「解除停止以對物執行」部分則以普通法殘餘權限形式存續。\n・法院認定停止訴訟僅具暫停效力，對物與對人程序並行，判斷不因此吸收海事訴訟；判斷未獲清償時，法院得解除停止、作成對物判決並准許以拍賣價金受償。\n・作者認為擔保與執行不可分，否則法定保全形同虛設；本案亦顯示新加坡對非新加坡仲裁地之判斷同樣採友善立場。\n・限制：對物判決只能就船舶或其價金受償，仍須依序先行支付執行費用、海事優先權、抵押權等；本案價金即不足清償判斷金額。",
+   "significance": "作者結論：本案為新加坡海事仲裁架構補上「扣押—仲裁—執行」的完整路徑，使燃料供應商、離岸承包商及大宗商品交易商更能倚賴船舶扣押作為仲裁擔保，但並不保證全額受償。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：文章未載明作者所屬機構；本網頁助理未另行閱讀判決原文，判決內容依作者介紹撰寫。",
+   "tags": [
+    "新加坡",
+    "海事仲裁",
+    "船舶扣押",
+    "承認與執行",
+    "停止訴訟",
+    "倫敦仲裁",
+    "國際仲裁法第6條"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 文章",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/the-yangtze-harmony-bridging-the-enforcement-gap-between-admiralty-arrests-and-international-arbitration/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-30T23:02:10+08:00"
+  },
+  {
+   "id": "2026-10-29-arb-kab-moral-rights-california-awards-public-policy",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-10-29",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Larissa Barhebréus（Schjødt；Young California Arbitration）",
+   "title": "娛樂產業的加州仲裁判斷到歐陸執行時，可能因著作人格權屬強制規定而觸及紐約公約公共秩序例外",
+   "shortTitle": "著作人格權會擋下加州娛樂仲裁判斷嗎？",
+   "point": "作者指出以全面放棄人格權為前提的判斷，在法、德、瑞典等大陸法國家較易觸及公共秩序例外",
+   "titleOriginal": "Moral Rights & Public Policy: Enforcing California Arbitration Awards Under the 1958 New York Convention",
+   "caseRef": "",
+   "tldr": "好萊塢合約通常依美國「職務著作」概念，由片商當作者，並要求創作者放棄署名與作品完整性等權利。但法國、德國、瑞典等國把著作人格權視為不可拋棄的強制規定。作者提醒，加州仲裁判斷若建立在這類放棄條款上，到這些國家聲請執行時，可能被以違反公共秩序為由拒絕。",
+   "memo": "Larissa Barhebréus 於 Kluwer Arbitration Blog 撰文指出，紐約公約第 5 條第 2 項第 2 款公共秩序例外雖從嚴解釋，其內容仍取決於執行地國內法；加州娛樂產業契約常以美國職務著作制度及全面放棄著作人格權為基礎，而法國、德國、瑞典等國將著作人格權定位為不可讓與之強制規定，故以此類放棄條款為前提之仲裁判斷在大陸法國家執行時風險較高，工會仲裁判斷並可能另涉第 5 條第 1 項第 4 款程序問題；作者建議於締約時即規劃執行策略。",
+   "context": "紐約公約第 5 條列舉拒絕承認與執行之事由，美國法院自 Parsons & Whittemore 案（2d Cir. 1974）以來從嚴解釋公共秩序例外，僅限違反執行地「最基本的道德與正義觀念」。\n美國依 1988 年伯恩公約施行法，認伯恩公約第 6 條之 2 不具自動執行力，著作人格權僅於視覺藝術家權利法（VARA）有限保護；反之法國智慧財產法典第 L121-1 條以下、德國著作權法第 13、14 條及瑞典著作權法第 3 條均強力保護署名權與完整性權。\n娛樂產業另有編劇、演員、導演工會依團體協約設立之仲裁制度，其判斷在美國依勞資關係法第 301 條（29 U.S.C. § 185）確認。",
+   "facts": [],
+   "issues": [
+    "公共秩序例外（紐約公約第 5 條第 2 項第 2 款）之內容是否因執行地國而異。",
+    "以美國職務著作及全面放棄著作人格權為前提之仲裁判斷，在大陸法國家是否違反公共秩序。",
+    "多層次工會仲裁程序是否較易被認定不符當事人約定（第 5 條第 1 項第 4 款）。"
+   ],
+   "holding": "・作者指出第 5 條拒絕事由雖窄，公共秩序例外的內容卻取決於各執行地國的國內法，並不統一。\n・加州娛樂契約常以職務著作制度使片商成為法定作者，並含全面讓與、放棄署名及允許修改作品等條款；大陸法國家多以實際創作者為原始作者。\n・若判斷以這類放棄有效為前提，可能牴觸外國關於著作人格權之強制規定；法國甚至將著作人格權視為公共秩序之一部。\n・娛樂製作常跨國拍攝，信用署名或分紅爭議的執行可能須外國法院協助。\n・工會仲裁程序依團體協約與內部規範多層構成，較 ICC、JAMS、AAA 規則下的判斷更易被主張不符當事人約定。\n・作者建議：避免無限制的人格權放棄條款、明文保留創作者人格權、妥善約定準據法、將特定請求排除於仲裁之外，或調整損害賠償結構，使判斷不以無效之放棄為前提。",
+   "significance": "作者結論：紐約公約整體仍有效運作，但在涉及大陸法執行地的娛樂爭議中，公共秩序例外是真實風險，且多數大陸法國家尚未實際檢驗此一問題，締約時即應依產業特性規劃執行策略。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。",
+   "tags": [
+    "紐約公約",
+    "公共政策",
+    "承認與執行",
+    "美國",
+    "法國",
+    "德國",
+    "著作人格權",
+    "娛樂產業"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 文章",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/moral-rights-public-policy-enforcing-california-arbitration-awards-under-the-1958-new-york-convention/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-30T23:02:10+08:00"
+  },
   {
    "id": "2026-10-29-arb-msd-ecuador-settlement",
    "court": "NEWS",
