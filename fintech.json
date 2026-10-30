@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-31T00:08:11+08:00",
-  "lastRunLocal": "2026-10-31 00:08",
+  "lastRun": "2026-10-31T07:36:16+08:00",
+  "lastRunLocal": "2026-10-31 07:36",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：亞太與其他 1（政策動態 1）"
+  "lastRunNote": "新增 3 則：英國 1（草案諮詢 1）、國際組織 1（國際標準 1）、美國 1（司法案件 1）"
  },
  "items": [
   {
@@ -1922,7 +1922,8 @@
     "歐盟"
    ],
    "related": [
-    "2026-10-21-fin-ecb-cipollone-pontes-appia"
+    "2026-10-21-fin-ecb-cipollone-pontes-appia",
+    "2026-10-29-fin-boe-ccp-tokenised-collateral-cp"
    ],
    "sources": [
     {
@@ -2127,7 +2128,8 @@
    ],
    "related": [
     "2026-10-09-fin-cftc-event-contracts-swap-definition",
-    "2026-10-28-fin-utah-criminal-charges-kalshi"
+    "2026-10-28-fin-utah-criminal-charges-kalshi",
+    "2026-10-29-fin-kalshi-sues-missouri"
    ],
    "sources": [
     {
@@ -2629,7 +2631,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-27-fin-cftc-sues-utah-prediction-markets"
+    "2026-10-27-fin-cftc-sues-utah-prediction-markets",
+    "2026-10-29-fin-kalshi-sues-missouri"
    ],
    "sources": [
     {
@@ -2867,6 +2870,201 @@
     }
    ],
    "addedAt": "2026-10-31T00:08:11+08:00"
+  },
+  {
+   "id": "2026-10-29-fin-boe-ccp-tokenised-collateral-cp",
+   "court": "BOE",
+   "kind": "草案諮詢",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "英格蘭銀行（BoE）",
+   "outletCode": "BOE",
+   "date": "2026-10-29",
+   "eventDate": "2026-10-29",
+   "importance": 2,
+   "author": "",
+   "title": "英格蘭銀行就中央交易對手接受代幣化擔保品發布諮詢文件及監理聲明草案，意見徵詢至 2027 年 2 月 12 日",
+   "shortTitle": "英格蘭銀行徵詢 CCP 代幣化擔保品",
+   "point": "現行法制不禁止 CCP 收受代幣化合格擔保品，意見至 2027 年 2 月 12 日",
+   "titleOriginal": "Bank of England sets out approach to tokenised collateral in central clearing; Supervisory expectations for CCPs seeking to accept tokenised collateral",
+   "caseRef": "",
+   "tldr": "英國央行（英格蘭銀行）表示，結算所（中央交易對手，CCP）原則上可以收受「代幣化」形式的擔保品，例如上鏈的債券或基金份額，但前提是這些資產在市場動盪時仍能估價、移轉和變現。央行提出監理聲明草案，說明它審查 CCP 申請時會看哪些重點，並徵求各界意見。",
+   "memo": "英格蘭銀行於 2026 年 10 月 29 日發布「尋求收受代幣化擔保品之中央交易對手監理期待」諮詢文件及監理聲明草案，認為現行監理架構並不妨礙中央交易對手收受代幣化形式之合格擔保品，惟該資產須於包括壓力情境在內之情況下仍可估價、移轉及變現，並依「相同風險、相同監理結果」原則審查。草案就流動性與估價、清算終局性與法律確定性、信用與集中度風險、作業韌性及保管等事項提出期待，不新增義務亦不變更合格擔保品範圍。意見徵詢至 2027 年 2 月 12 日。",
+   "context": "英國主管機關近年推動批發金融市場代幣化，包括數位證券沙盒（Digital Securities Sandbox）、數位公債 DIGIT 試點，以及英格蘭銀行與 FCA 於 2026 年 5 月發布之代幣化聯合徵詢。\n英格蘭銀行另正研擬英國 CCP 規則手冊（CCP Rulebook）及相關政策聲明，諮詢文件多處以此為參照；在新規則施行前，擔保品標準仍見於英國版 EMIR 第 46 條及第 49 條。\n歐盟方面，ESMA 已於 2026 年 10 月 9 日就 CCP 代幣化擔保品徵集證據，期限至 2027 年 1 月 15 日。",
+   "facts": [
+    "英格蘭銀行於 2026 年 10 月 29 日發布新聞稿及諮詢文件，附監理聲明草案。",
+    "適用對象為擬收受其已接受擔保品之代幣化形式的英國 CCP，以及被認定具系統重要性之受認可境外 CCP。",
+    "草案不新增義務、不變更合格擔保品清單，亦未訂定折價（haircut）比例。",
+    "意見徵詢期限為 2027 年 2 月 12 日。"
+   ],
+   "issues": [
+    "代幣化擔保品在壓力情境下能否如傳統形式一樣迅速變現，以及其流動性是否應另行評估。",
+    "分散式帳本與中央證券存管機構同時記錄權利時，何者具優先效力及清算終局性何時發生。",
+    "代幣化平台、保管人、錢包提供者等第三方帶來的信用、集中度與作業風險如何納入審查。"
+   ],
+   "holding": "・英格蘭銀行認為現行架構不妨礙 CCP 收受代幣化之合格擔保品，關鍵在於資產於壓力下仍可估價、移轉及變現。\n・流動性與估價：不得假設代幣化擔保品與傳統形式具相同流動性，應考量交易時段與相關需求；無傳統對應資產者應採保守估價。\n・終局性與法律確定性：CCP 應了解移轉何時不可撤銷、所有權在壓力下是否穩固，以及帳本與存管紀錄衝突時何者優先。\n・信用與集中度：除發行人外，應評估對代幣化機構、平台、保管人等之曝險，並合併計算同一發行人之傳統與代幣化曝險。\n・作業韌性與保管：應掌握帳本、協定、智慧合約之變更與金鑰遺失後的復原能力；保證金資產原則上應存放於證券結算系統營運者。\n・CCP 變更擔保品模型屬重大變更者，須事先取得英格蘭銀行許可。",
+   "significance": "本諮詢與 ESMA 對 CCP 代幣化擔保品之徵集證據並行，顯示英國與歐盟監理機關均將代幣化資產納入衍生性商品結算擔保品的路徑具體化。應留意英格蘭銀行 2026 年第四季 CCP 規則手冊之政策回應，以及最終監理聲明之發布時程。",
+   "editorNote": "本網頁助理 註：英格蘭銀行諮詢文件頁面本網頁助理未能直接開啟，關於適用對象、審查程序及個別期待之細節，係參照英格蘭銀行新聞稿及 RegReportingDesk 之整理。",
+   "tags": [
+    "代幣化",
+    "擔保品",
+    "中央交易對手",
+    "EMIR",
+    "英格蘭銀行",
+    "英國"
+   ],
+   "related": [
+    "2026-10-09-fin-esma-ccp-tokenised-collateral-cfe"
+   ],
+   "sources": [
+    {
+     "label": "英格蘭銀行新聞稿",
+     "url": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
+     "official": true
+    },
+    {
+     "label": "英格蘭銀行諮詢文件頁面",
+     "url": "https://www.bankofengland.co.uk/paper/2026/cp/supervisory-expectations-for-ccps-seeking-to-accept-tokenised-collateral",
+     "official": true
+    },
+    {
+     "label": "RegReportingDesk 分析",
+     "url": "https://regreportingdesk.com/boe-tokenised-collateral-central-clearing/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T07:36:16+08:00"
+  },
+  {
+   "id": "2026-10-30-fin-fatf-october-plenary-virtual-assets",
+   "court": "FATF",
+   "kind": "國際標準",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "TokenPost",
+   "outletCode": "TP",
+   "date": "2026-10-30",
+   "eventDate": "2026-10-30",
+   "importance": 2,
+   "author": "",
+   "title": "FATF 英國主席任內首次全會閉幕，各國同意加強因應虛擬資產、詐欺與詐騙園區等金融犯罪威脅",
+   "shortTitle": "FATF 全會同意加強虛擬資產防制",
+   "point": "10 月 30 日閉幕，四國移出灰名單，下次全會 2027 年 2 月",
+   "titleOriginal": "FATF Says Countries Agree to Tackle Virtual-Asset Financial Crime",
+   "caseRef": "",
+   "tldr": "國際洗錢防制組織 FATF 在 10 月底開會，各國同意聯手處理虛擬資產被用於洗錢、詐騙等問題，並要求虛擬資產活動較多的國家加快落實相關標準。會中也將剛果民主共和國、象牙海岸、保加利亞和摩納哥移出加強監控名單（灰名單）。",
+   "memo": "防制洗錢金融行動工作組織（FATF）於 2026 年 10 月 28 日至 30 日舉行英國籍主席 Giles Thomson 任內首次全會。依 FATF 官方社群帳號及 TokenPost 等 2026 年 10 月 30 日報導，各國同意採取全球行動因應虛擬資產、詐欺及詐騙園區等金融犯罪威脅；依 Demócrata 報導，全會並同意加速於虛擬資產活動顯著之法域有效落實 FATF 虛擬資產標準。全會將剛果民主共和國、象牙海岸、保加利亞及摩納哥移出加強監控名單，未新增名單。下次全會訂於 2027 年 2 月。",
+   "context": "FATF 建議第 15 項要求各國對虛擬資產服務提供者（VASP）實施洗錢防制監理，並適用旅行規則。FATF 每年就各國落實情形發布針對性更新，並在近年報告中指出穩定幣遭不法使用及各國監理落差等問題。\n英國籍 Giles Thomson 自 2026 年 7 月起擔任 FATF 主席，詐欺與詐騙列為其任內重點。",
+   "facts": [
+    "FATF 全會於 2026 年 10 月 28 日至 30 日舉行，為 Giles Thomson 擔任主席後首次全會。",
+    "FATF 官方社群帳號 10 月 30 日表示，各國同意採取全球行動因應虛擬資產、詐欺及詐騙園區等金融犯罪威脅。",
+    "依 Demócrata 報導，全會同意加速於虛擬資產活動顯著之法域有效落實虛擬資產標準。",
+    "剛果民主共和國、象牙海岸、保加利亞及摩納哥移出加強監控名單（灰名單），名單由 22 個減為 18 個，未新增法域；高風險名單（黑名單）未變動。",
+    "依 AML UAE 整理，下次全會訂於 2027 年 2 月 22 日至 26 日。"
+   ],
+   "issues": [
+    "FATF 如何具體加速虛擬資產標準落實，是否將對 VASP 活動顯著但落實不足之法域採取更強措施。",
+    "詐騙園區與虛擬資產結合之跨境洗錢，對各國監理與執法合作的要求。"
+   ],
+   "holding": "・各國同意採取全球行動，因應虛擬資產、詐欺及詐騙園區等演變中的金融犯罪威脅。\n・依報導，全會同意加速虛擬資產活動顯著之法域有效落實 FATF 虛擬資產標準，並呼籲強化防範虛擬資產遭濫用於洗錢及資恐。\n・灰名單移除剛果民主共和國、象牙海岸、保加利亞、摩納哥，無新增。",
+   "significance": "FATF 全會結論為各國虛擬資產洗錢防制監理之重要指標，台灣、香港、歐盟等正建置 VASP 專法之法域，均須回應 FATF 對落實標準的要求。應留意 FATF 正式全會結果文件及後續虛擬資產相關報告之具體內容。",
+   "editorNote": "本網頁助理 註：FATF 官方網站之全會結果及灰名單頁面本網頁助理未能開啟，本則依 FATF 官方社群帳號轉載內容及 TokenPost、Demócrata、AML UAE 報導整理；虛擬資產部分之具體決定，媒體報導僅有概括描述，正式文件公布後應再核對。",
+   "tags": [
+    "洗錢防制",
+    "虛擬資產",
+    "灰名單",
+    "FATF",
+    "國際"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "FATF 灰名單公告頁面（2026 年 10 月）",
+     "url": "https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2026.html",
+     "official": true
+    },
+    {
+     "label": "TokenPost 報導",
+     "url": "https://www.tokenpost.com/news/regulation/45144",
+     "official": false
+    },
+    {
+     "label": "Demócrata 報導",
+     "url": "https://www.democrata.es/en/international/the-fatf-removes-the-drc-ivory-coast-bulgaria-and-monaco-from-its-gray-list-of-money-laundering/",
+     "official": false
+    },
+    {
+     "label": "AML UAE 灰名單更新整理",
+     "url": "https://amluae.com/fatf-grey-list-update-october-2026",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T07:36:16+08:00"
+  },
+  {
+   "id": "2026-10-29-fin-kalshi-sues-missouri",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國密蘇里州",
+   "outlet": "DeFi Rate",
+   "outletCode": "DR",
+   "date": "2026-10-29",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "Kalshi 向聯邦法院起訴密蘇里州檢察總長及博弈委員會，請求確認其運動事件合約受 CFTC 專屬管轄",
+   "shortTitle": "Kalshi 起訴密蘇里州 對抗停止令",
+   "point": "繼 Crypto.com、Novig 後第三家起訴密蘇里州的預測市場業者",
+   "titleOriginal": "Kalshi Sues Missouri Attorney General After Cessation Letter",
+   "caseRef": "",
+   "tldr": "密蘇里州檢察總長要求 Kalshi 等預測市場業者取得州運動博弈執照，或封鎖州內民眾交易運動事件合約。Kalshi 拒絕並到聯邦法院提告，主張它受聯邦商品期貨交易委員會（CFTC）專屬監理，州政府不能用賭博法管它。",
+   "memo": "依 DeFi Rate 及 ABC17 News 2026 年 10 月 29 日報導，預測市場業者 Kalshi 向美國密蘇里州東區聯邦地方法院起訴密蘇里州檢察總長 Catherine Hanaway、密蘇里州博弈委員會及其官員，請求確認其指定契約市場之運動事件合約屬 CFTC 專屬管轄，並禁止被告對其適用州賭博法。檢察總長先前致函 Kalshi、Polymarket、Crypto.com 等業者，要求取得州運動博弈執照或封鎖州內使用者，並以 10 月 18 日為提出遵循計畫之期限。Kalshi 主張州法適用違反聯邦憲法最高條款；檢察總長辦公室表示將依法執行。",
+   "context": "Kalshi 為 CFTC 核准之指定契約市場（DCM），提供運動等事件合約。多州以違反州賭博法對預測市場業者採取行動，聯邦法院見解分歧；CFTC 亦已對猶他州等州政府提起訴訟，主張其專屬管轄。\n密蘇里州選民已通過將運動博弈納入州執照及課稅制度。",
+   "facts": [
+    "密蘇里州檢察總長 Hanaway 致函 Kalshi、Polymarket、Crypto.com、Novig、Underdog 及 Robinhood，要求取得州運動博弈執照或封鎖州內使用者存取運動事件合約，並以 10 月 18 日為提出遵循計畫期限。",
+    "Kalshi 於密蘇里州東區聯邦地方法院起訴，被告為檢察總長、密蘇里州博弈委員會及其官員。",
+    "依 DeFi Rate 報導，Crypto.com 與 Novig 已先行起訴密蘇里州官員，Kalshi 為第三家。",
+    "檢察總長辦公室表示將執行州法，並稱相關合約即屬運動博弈。"
+   ],
+   "issues": [
+    "《商品交易法》是否排除州賭博法對 CFTC 監理之交易所事件合約的適用（欄位先占）。",
+    "州政府能否要求聯邦監理之指定契約市場取得州運動博弈執照。"
+   ],
+   "holding": "・Kalshi 主張：其受 CFTC 專屬監理，適用密蘇里州賭博法將侵入國會保留予聯邦的交易所衍生性商品領域，違反聯邦憲法最高條款，並迫使其在違反聯邦法與面臨刑事追訴間擇一。\n・請求：確認其指定契約市場受聯邦法保護且由 CFTC 專屬監理，並禁止檢察總長及博弈委員會對其運動事件合約執行州賭博法。\n・州方立場：相關合約屬運動博弈，依州憲法須受執照及課稅規範。",
+   "significance": "本案使預測市場聯邦先占爭議再添一州，與 CFTC 起訴猶他州、猶他州刑事追訴 Kalshi 等案同步發展。應留意法院是否核發暫時禁制令，以及聯邦最高法院是否受理相關上訴。",
+   "editorNote": "本網頁助理 註：各報導就起訴日期記載不一（ABC17 News 稱「週二」，DeFi Rate 稱「週三」），故未填事件日期；本網頁助理未取得起訴狀及案號。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦先占",
+    "Kalshi",
+    "CFTC",
+    "美國",
+    "密蘇里州"
+   ],
+   "related": [
+    "2026-10-27-fin-cftc-sues-utah-prediction-markets",
+    "2026-10-28-fin-utah-criminal-charges-kalshi"
+   ],
+   "sources": [
+    {
+     "label": "DeFi Rate 報導",
+     "url": "https://defirate.com/news/kalshi-joins-prediction-market-operators-moving-against-missouri/",
+     "official": false
+    },
+    {
+     "label": "ABC17 News 報導",
+     "url": "https://abc17news.com/news/missouri/2026/10/29/kalshi-files-lawsuit-against-missouri-ag-over-cease-and-desist-letter/",
+     "official": false
+    },
+    {
+     "label": "St. Louis Public Radio 報導",
+     "url": "https://www.stlpr.org/news-briefs/2026-10-30/kalshi-taking-missouri-to-court-over-attempts-to-regulate-the-prediction-market",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T07:36:16+08:00"
   }
  ],
  "agenda": [
@@ -2889,6 +3087,16 @@
    "url": "",
    "relatedId": "",
    "caseId": ""
+  },
+  {
+   "id": "2026-11-06-other-brazil-vasp-counterparty-restriction",
+   "date": "2026-11-06",
+   "court": "OTHER",
+   "title": "巴西：受監理機構不得與未獲授權虛擬資產交易對手交易（第 589/2026 號決議）",
+   "note": "依 Marinho de Gusmão 與 Capital Aberto 說明；設有例外規定。",
+   "url": "",
+   "relatedId": "2026-10-29-fin-brazil-psav-authorisation-deadline",
+   "caseId": "br-vasp-authorisation"
   },
   {
    "id": "2026-11-11-kr-tokenised-securities-comment-deadline",
@@ -3051,6 +3259,26 @@
    "caseId": "kr-tokenised-securities"
   },
   {
+   "id": "2027-02-12-boe-ccp-tokenised-collateral-deadline",
+   "date": "2027-02-12",
+   "court": "BOE",
+   "title": "英格蘭銀行 CCP 代幣化擔保品諮詢意見截止",
+   "note": "倫敦時間",
+   "url": "https://www.bankofengland.co.uk/paper/2026/cp/supervisory-expectations-for-ccps-seeking-to-accept-tokenised-collateral",
+   "relatedId": "2026-10-29-fin-boe-ccp-tokenised-collateral-cp",
+   "caseId": ""
+  },
+  {
+   "id": "2027-02-22-fatf-plenary",
+   "date": "2027-02-22",
+   "court": "FATF",
+   "title": "FATF 全會（2027 年 2 月 22 日至 26 日）",
+   "note": "日期依媒體整理，可能變動",
+   "url": "",
+   "relatedId": "2026-10-30-fin-fatf-october-plenary-virtual-assets",
+   "caseId": ""
+  },
+  {
    "id": "2027-02-28-fca-application-window-closes",
    "date": "2027-02-28",
    "court": "FCA",
@@ -3059,16 +3287,6 @@
    "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-36-cryptoasset-perimeter-guidance",
    "relatedId": "",
    "caseId": "uk-cryptoasset-regime"
-  },
-  {
-   "id": "2026-11-06-other-brazil-vasp-counterparty-restriction",
-   "date": "2026-11-06",
-   "court": "OTHER",
-   "title": "巴西：受監理機構不得與未獲授權虛擬資產交易對手交易（第 589/2026 號決議）",
-   "note": "依 Marinho de Gusmão 與 Capital Aberto 說明；設有例外規定。",
-   "url": "",
-   "relatedId": "2026-10-29-fin-brazil-psav-authorisation-deadline",
-   "caseId": "br-vasp-authorisation"
   }
  ],
  "cases": [
@@ -3213,7 +3431,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "CFTC 10 月 26 日起訴猶他州（第十件對州訴訟）；猶他州 10 月 28 日對 Kalshi 及兩名創辦人提起刑事追訴；新澤西州聲請最高法院審理尚待決定。"
+   "status": "CFTC 10 月 26 日起訴猶他州（第十件對州訴訟）；猶他州 10 月 28 日對 Kalshi 及兩名創辦人提起刑事追訴；Kalshi 繼 Crypto.com、Novig 之後起訴密蘇里州；新澤西州聲請最高法院審理尚待決定。"
   },
   {
    "id": "kr-tokenised-securities",
