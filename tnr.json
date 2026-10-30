@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-30T07:19:39+08:00",
-  "lastRunLocal": "2026-10-30 07:19",
+  "lastRun": "2026-10-30T23:16:26+08:00",
+  "lastRunLocal": "2026-10-30 23:16",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：中國 1（司法案件 1）、俄羅斯 1（事件 1）"
+  "lastRunNote": "新增 3 則：其他 1（司法案件 1）、土耳其 1（事件 1）、中國 1（倡議 1）"
  },
  "items": [
   {
@@ -378,7 +378,8 @@
     "移民拘留"
    ],
    "related": [
-    "2026-10-16-tnr-uyghur-groups-rubio-central-asia"
+    "2026-10-16-tnr-uyghur-groups-rubio-central-asia",
+    "2026-10-30-tnr-wuc-thailand-uyghurs-appeal"
    ],
    "sources": [
     {
@@ -2497,7 +2498,8 @@
    "related": [
     "2026-10-27-tnr-mwaipaya-kenya-govt-response",
     "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction",
-    "2026-10-28-tnr-afp-kenya-dissident-refuge"
+    "2026-10-28-tnr-afp-kenya-dissident-refuge",
+    "2026-10-30-tnr-mwaipaya-court-produce-order"
    ],
    "sources": [
     {
@@ -2754,7 +2756,8 @@
    "related": [
     "2026-10-28-tnr-mwaipaya-habeas-corpus",
     "2026-10-27-tnr-mwaipaya-kenya-govt-response",
-    "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction"
+    "2026-10-26-tnr-tanzania-mwaipaya-kenya-abduction",
+    "2026-10-30-tnr-mwaipaya-court-produce-order"
    ],
    "sources": [
     {
@@ -3140,9 +3143,204 @@
     }
    ],
    "addedAt": "2026-10-30T07:19:39+08:00"
+  },
+  {
+   "id": "2026-10-30-tnr-mwaipaya-court-produce-order",
+   "court": "OTHER",
+   "kind": "司法案件",
+   "caseId": "mwaipaya-kenya-abduction",
+   "jurisdiction": "肯亞",
+   "outlet": "Citizen Digital",
+   "outletCode": "",
+   "date": "2026-10-30",
+   "eventDate": "2026-10-30",
+   "importance": 2,
+   "author": "",
+   "title": "肯亞高等法院命警方「不論生死」交出遭擄坦尚尼亞運動者 Mwaipaya，11 月 2 日續審",
+   "shortTitle": "肯亞法院命警方交出 Mwaipaya",
+   "point": "須「不論生死」解送到庭並出示羈押令狀，11 月 2 日上午 11 時續審",
+   "titleOriginal": "Court orders State to produce Tanzanian activist Twaha Mwaipaya 'dead or alive'",
+   "caseRef": "",
+   "tldr": "坦尚尼亞反對派運動者 Twaha Mwaipaya 10 月 25 日在肯亞被擄走後一直下落不明。人權團體聲請人身保護令後，肯亞高等法院法官 10 月 30 日下令警察總長、刑事調查局和 Ruai 警察局，不論他是生是死都要把人帶到法院，並說明為何不應立即釋放。案件 11 月 2 日續審。",
+   "memo": "依 Citizen Digital 及 Kenyans.co.ke 2026 年 10 月 30 日報導，肯亞高等法院（Milimani）法官 Alexander Muteti 就 Vocal Africa 等團體所提人身保護令緊急聲請，命警察總長、刑事調查局及 Ruai 警察局局長將同年 10 月 25 日在 Kamulu 一帶遭擄之坦尚尼亞反對黨 Chadema 青年幹部 Twaha Mwaipaya「不論生死」解送到庭，提出羈押令狀原本並說明不應立即釋放之理由，另傳喚警察總長 Douglas Kanja Kirocho 及 Amin Mohamed Ibrahim 到庭說明；相對人應於 11 月 2 日上午 9 時前提出答辯，同日上午 11 時續審。",
+   "context": "Mwaipaya 為坦尚尼亞主要反對黨 Chadema 青年組織幹部，國際特赦組織肯亞分會稱他 10 月 25 日在 Kamulu 搭計程車時遭人帶走；同行者稱掙脫逃離。肯亞政府稱未接正式報案，路透社則稱見到警方失蹤紀錄。\nVocal Africa 於 10 月 27 日提出人身保護令聲請（見相關前則）。人權團體近年多次指控東非國家互相協助，在他國擄走或遣返異議人士。",
+   "facts": [
+    "法官 Alexander Muteti 認定聲請屬緊急案件，於 10 月 30 日核發命令。",
+    "相對人為警察總長、刑事調查局（DCI）及 Ruai 警察局局長，須將 Mwaipaya「不論生死」帶到法院，提出羈押令狀原本，並說明為何不應立即釋放。",
+    "Douglas Kanja Kirocho 與 Amin Mohamed Ibrahim 被列為關係人，須親自或委任律師到庭說明 Mwaipaya 遭逮捕及羈押的原因。",
+    "相對人與關係人須於 11 月 2 日（週一）上午 9 時前提出並送達答辯；同日上午 11 時續審。",
+    "報導發布時，相對人尚未提出任何回應。"
+   ],
+   "issues": [
+    "肯亞安全機關是否拘禁 Mwaipaya 或知悉其下落，並應依人身保護令交人？",
+    "若 Mwaipaya 已被移交坦尚尼亞，是否構成規避引渡程序的非法移送與強迫失蹤？"
+   ],
+   "holding": "・聲請人：Vocal Africa 等人權團體（10 月 27 日聲請）。\n・命令：警察總長、刑事調查局、Ruai 警察局局長應將 Mwaipaya「不論生死」解送到庭，提出羈押令狀原本並說明不應釋放之理由。\n・傳喚：Douglas Kanja Kirocho、Amin Mohamed Ibrahim 到庭說明逮捕及羈押原因。\n・程序：11 月 2 日上午 9 時前提出答辯，同日上午 11 時續審。",
+   "significance": "這是本案首度有法院命令，肯亞警方須在法庭上交代 Mwaipaya 是否在其手中或已被移交。後續觀察 11 月 2 日相對人的答辯、是否交人，以及坦尚尼亞方面的回應。",
+   "editorNote": "本網頁助理 註：命令日期依 Kenyans.co.ke 所載為 10 月 30 日；Citizen Digital 未載命令日期，但與其他內容一致。報導未載案號。Amin Mohamed Ibrahim 的職稱報導未明載，本則不予推定。",
+   "tags": [
+    "跨國鎮壓",
+    "坦尚尼亞",
+    "肯亞",
+    "擄人",
+    "強迫失蹤",
+    "人身保護令",
+    "Chadema",
+    "東非"
+   ],
+   "related": [
+    "2026-10-28-tnr-mwaipaya-habeas-corpus",
+    "2026-10-28-tnr-afp-kenya-dissident-refuge"
+   ],
+   "sources": [
+    {
+     "label": "Citizen Digital 報導",
+     "url": "https://citizen.digital/article/court-orders-state-to-produce-tanzanian-activist-twaha-mwaipaya-dead-or-alive-n393035",
+     "official": false
+    },
+    {
+     "label": "Kenyans.co.ke 報導",
+     "url": "https://www.kenyans.co.ke/news/129005-court-orders-ig-dci-produce-missing-tanzanian-activist-monday",
+     "official": false
+    },
+    {
+     "label": "The Citizen（坦尚尼亞）報導",
+     "url": "https://www.thecitizen.co.tz/tanzania/news/national/kenyan-court-orders-police-to-produce-missing-tanzanian-activist-dead-or-alive-5652376",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-30T23:16:26+08:00"
+  },
+  {
+   "id": "2026-10-30-tnr-turkey-kurdish-poet-estonia-return",
+   "court": "TR",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "愛沙尼亞、土耳其",
+   "outlet": "斯德哥爾摩自由中心（SCF）",
+   "outletCode": "",
+   "date": "2026-10-30",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "愛沙尼亞駁回庇護、將庫德族詩人 Tekin Ağacık 送回土耳其，依土媒報導他入境即遭拘留並面臨 18 件偵查",
+   "shortTitle": "庫德詩人遭愛沙尼亞遣返土耳其即被拘",
+   "point": "在伊斯坦堡機場遭拘，面臨恐怖組織成員及侮辱總統等 18 件偵查",
+   "titleOriginal": "Turkey detains Kurdish poet over terrorism allegations after Estonia denies asylum, sends him back",
+   "caseRef": "",
+   "tldr": "在愛沙尼亞住了十多年的庫德族詩人兼劇作家 Tekin Ağacık 庇護申請被駁回，被送回土耳其。依土耳其媒體報導，他一抵達伊斯坦堡機場就被拘留，面臨涉嫌加入恐怖組織，以及 17 件與社群貼文（被指侮辱總統或宣傳恐怖主義）有關的偵查。他否認是恐怖分子。",
+   "memo": "依斯德哥爾摩自由中心 2026 年 10 月 30 日轉引土耳其媒體報導，旅居愛沙尼亞逾十年之庫德族詩人 Tekin Ağacık 經愛沙尼亞駁回庇護申請後遭送回土耳其，於伊斯坦堡機場遭警方拘留訊問，預計移送伊斯坦堡警察局反恐部門，其涉及恐怖組織成員罪嫌 1 件及以社群貼文侮辱總統或宣傳恐怖主義 17 件，共 18 件偵查案。當事人否認為恐怖分子，稱貼文旨在揭露庫德族處境。",
+   "context": "土耳其常以反恐或侮辱總統等罪名追訴記者、藝術工作者與人權倡議者，人權團體批評此類案件針對受保護的言論，用以壓制庫德議題的異議聲音。庫德工人黨（PKK）被土耳其及多數西方國家列為恐怖組織，2025 年 5 月宣布解散並終止武裝行動。\n依報導，愛沙尼亞駁回 Ağacık 庇護，據稱與指其為 PKK 成員的指控有關；他今年 1 月曾在塔林法院以認罪協商，因社群貼文被判支持恐怖組織，獲緩刑逾兩年。",
+   "facts": [
+    "Ağacık 自 1996 年投入劇場，以札扎其語（Kirmanckî）寫作劇本，2008 年出版首部詩集，旅居愛沙尼亞逾十年。",
+    "愛沙尼亞駁回其首次庇護申請；他提起上訴並再次申請，當局仍決定將他送回土耳其。",
+    "他於週四深夜抵達伊斯坦堡機場，土耳其媒體週五報導他遭拘留，在機場警察局受訊問，預計移送伊斯坦堡警察局反恐部門。",
+    "依土媒報導，他面臨 18 件偵查：1 件涉恐怖組織成員，17 件涉社群貼文侮辱總統艾爾段或宣傳恐怖主義。",
+    "他否認是恐怖分子，稱貼文旨在讓外界注意庫德族面臨的問題。",
+    "報導未見愛沙尼亞或土耳其官方回應。"
+   ],
+   "issues": [
+    "在明知當事人將因言論在原籍國受追訴下予以遣返，是否符合《歐洲人權公約》與不遣返原則？",
+    "以社群貼文追訴「侮辱總統」「宣傳恐怖主義」是否構成對言論自由的不當限制？"
+   ],
+   "holding": "・愛沙尼亞：駁回庇護申請及後續申請，將當事人送回土耳其。\n・土耳其：機場拘留、訊問，預計移送反恐部門；18 件偵查。\n・當事人：否認恐怖分子指控。\n・官方回應：報導未見。",
+   "significance": "本案顯示歐洲國家的庇護與遣返決定，可能讓流亡異議者直接落入原籍國以反恐名義發動的追訴。後續觀察土耳其是否聲請羈押、起訴，以及人權團體對愛沙尼亞決定的反應。",
+   "editorNote": "本網頁助理 註：本則僅依斯德哥爾摩自由中心報導整理，該中心轉引 Artı Gerçek、Mezopotamya Ajansı、Yeni Yaşam 等土耳其媒體及 bianet、愛沙尼亞公共廣播 ERR，未見官方說明；報導未載確切遣返與拘留日期（「週四深夜」抵達、「週五」報導拘留），故 eventDate 留空。斯德哥爾摩自由中心為關注土耳其人權的倡議組織。以下為本網頁助理補充，非來源內容：本案的直接行為是愛沙尼亞依其庇護程序作成的遣返決定，是否歸類為跨國鎮壓有討論空間，本站因其涉及流亡異議者被送回後即遭追訴而收錄。",
+   "tags": [
+    "跨國鎮壓",
+    "土耳其",
+    "愛沙尼亞",
+    "庫德族",
+    "遣返",
+    "庇護",
+    "侮辱總統",
+    "反恐法"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "斯德哥爾摩自由中心報導",
+     "url": "https://stockholmcf.org/turkey-detains-kurdish-poet-over-terrorism-allegations-after-estonia-denies-asylum-sends-him-back",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-30T23:16:26+08:00"
+  },
+  {
+   "id": "2026-10-30-tnr-wuc-thailand-uyghurs-appeal",
+   "court": "CN",
+   "kind": "倡議",
+   "caseId": "thailand-uyghur-detainees",
+   "jurisdiction": "泰國",
+   "outlet": "亞洲國際新聞社（ANI）轉發世界維吾爾代表大會聲明",
+   "outletCode": "",
+   "date": "2026-10-30",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "世界維吾爾代表大會警告泰國遣返兩名維吾爾人「迫在眉睫」，籲第三國接收在泰五人",
+   "shortTitle": "世維會警告泰國即將遣返兩維吾爾人",
+   "point": "稱遣返將使泰國淪為種族滅絕共犯，籲歐盟、聯合國施壓並由第三國安置五人",
+   "titleOriginal": "World Uyghur Congress warns of imminent 2 Uyghur men deportations from Thailand to China",
+   "caseRef": "",
+   "tldr": "泰國特赦兩名被關多年的維吾爾男子並移到移民拘留中心後，世界維吾爾代表大會發表聲明說他們隨時可能被送回中國，回去恐遭酷刑或強迫失蹤。該會要求泰國不要遣返，並請第三國接收仍在泰國的五名維吾爾人。",
+   "memo": "依 ANI 2026 年 10 月 30 日轉發世界維吾爾代表大會新聞稿，該會指出兩名維吾爾男子獲泰國特赦後於 10 月 21 日移送移民拘留設施，遣返中國迫在眉睫；其屬 2014 年在泰馬邊境遭拘約 300 人中仍在泰國之五人。該會主張遣返將違反《公民與政治權利國際公約》、《禁止酷刑公約》及《保護所有人免遭強迫失蹤國際公約》，主席 Turgunjan Alawdun 稱泰國恐成種族滅絕共犯，並籲第三國安置五人、歐盟及聯合國向泰國施壓。",
+   "context": "2014 年約 300 名維吾爾人在泰馬邊境被拘，泰國 2015 年將其中百餘人遣返中國，2025 年 2 月再遣返約 40 人；世維會稱五人死於拘留中，被遣返者家屬至今無法聯繫。\n本網站 10 月 22 日已收錄法新社關於兩人獲特赦、去向待國家安全會議決定的報導（見相關前則）。",
+   "facts": [
+    "世維會稱兩人獲王室特赦，10 月 21 日自一般羈押處所移至移民拘留設施，遣返迫在眉睫。",
+    "兩人屬 2014 年遭拘約 300 名維吾爾人中仍在泰國的五人。",
+    "世維會稱 2015 年被遣返的 100 人與 2025 年被遣返的約 40 人，家屬均無法聯繫、未獲生存證明；另有五人死於拘留中。",
+    "世維會援引《公民與政治權利國際公約》、《禁止酷刑公約》與《保護所有人免遭強迫失蹤國際公約》，主張遣返將違反泰國的國際義務。",
+    "主席 Turgunjan Alawdun 稱遣返恐使泰國成為對維吾爾人種族滅絕的共犯。",
+    "世維會籲第三國為五人提供安置，並請歐盟、聯合國及各國政府向泰國施壓。",
+    "報導未見泰國或中國政府回應，兩人姓名未公開。"
+   ],
+   "issues": [
+    "將維吾爾人遣返中國是否違反不遣返原則及泰國已批准之公約義務？",
+    "第三國安置是否能成為泰國避免再次遣返爭議的出路？"
+   ],
+   "holding": "・世維會主張：遣返迫在眉睫，違反國際人權義務，泰國恐成種族滅絕共犯。\n・訴求：不得遣返；第三國安置五人；歐盟、聯合國及各國施壓。\n・官方回應：報導未見。",
+   "significance": "兩人去向仍待泰國國安會決定，倡議團體正爭取第三國安置。後續觀察泰國決定、是否有國家表態接收，以及聯合國專家是否介入。",
+   "editorNote": "本網頁助理 註：本則依 ANI 轉發的世維會新聞稿（The Tribune 刊登，並註明不對內容負責），屬倡議團體主張。Khaosod English 同日另有標題為國際特赦組織秘書長呼籲泰國勿向中國讓步的報導，本網頁助理未能讀取內容，故未納入。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "泰國",
+    "維吾爾",
+    "遣返",
+    "不遣返原則",
+    "第三國安置",
+    "世界維吾爾代表大會"
+   ],
+   "related": [
+    "2026-10-22-tnr-thailand-uyghurs-pardoned"
+   ],
+   "sources": [
+    {
+     "label": "The Tribune 刊登 ANI 稿（世維會聲明）",
+     "url": "https://tribuneindia.com/news/china/world-uyghur-congress-warns-of-imminent-2-uyghur-men-deportations-from-thailand-to-china",
+     "official": false
+    },
+    {
+     "label": "Awaz The Voice 報導",
+     "url": "https://www.awazthevoice.in/world-news/thailand-china-deportation-threat-looms-over-two-uyghur-men-70153.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-30T23:16:26+08:00"
   }
  ],
  "agenda": [
+  {
+   "id": "2026-11-02-other-mwaipaya-habeas-hearing",
+   "date": "2026-11-02",
+   "court": "OTHER",
+   "title": "Mwaipaya 人身保護令案續審（肯亞高等法院）",
+   "note": "奈洛比 Milimani 高等法院，上午 11 時（當地時間）；相對人須於上午 9 時前提出答辯，日期可能變動。",
+   "url": "https://citizen.digital/article/court-orders-state-to-produce-tanzanian-activist-twaha-mwaipaya-dead-or-alive-n393035",
+   "relatedId": "2026-10-30-tnr-mwaipaya-court-produce-order",
+   "caseId": "mwaipaya-kenya-abduction"
+  },
   {
    "id": "2026-11-12-cn-wanying-zhang-pretrial",
    "date": "2026-11-12",
@@ -3293,7 +3491,7 @@
    "nameOriginal": "Uyghur detainees in Thailand (2014 group)",
    "caseRef": "",
    "summary": "2014 年在泰國被拘留的 300 多名維吾爾人中仍留在泰國者的去向；泰國曾於 2015 年及 2025 年將部分人遣返中國。",
-   "status": "兩名因 2020 年脫逃案服刑者獲特赦，10 月 21 日移至曼谷移民拘留中心，遣返中國或第三國待國安會決定；另三人仍在監。"
+   "status": "兩名獲特赦者 10 月 21 日移至曼谷移民拘留中心，去向待國安會決定；世維會 10 月 30 日警告遣返迫在眉睫，籲第三國安置在泰五人。"
   },
   {
    "id": "mwaipaya-kenya-abduction",
@@ -3304,7 +3502,7 @@
    "nameOriginal": "Abduction of Twaha Mwaipaya in Kenya",
    "caseRef": "",
    "summary": "坦尚尼亞反對黨 Chadema 前青年幹部 Mwaipaya 於 2026 年 10 月 25 日在肯亞 Machakos 郡遭不明人士擄走，人權團體擔憂屬跨國鎮壓。",
-   "status": "截至 10 月 28 日仍下落不明；同行者 Margwe 稱掙脫逃離，Vocal Africa 已向肯亞高等法院聲請人身保護令，法院尚未裁定。"
+   "status": "仍下落不明；肯亞高等法院 10 月 30 日命警察總長等「不論生死」將其解送到庭並出示羈押令狀，11 月 2 日續審。"
   },
   {
    "id": "bai-zhaodong-thailand-extradition",
