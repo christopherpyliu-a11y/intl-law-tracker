@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-30T07:38:15+08:00",
-  "lastRunLocal": "2026-10-30 07:38",
+  "lastRun": "2026-10-31T00:08:11+08:00",
+  "lastRunLocal": "2026-10-31 00:08",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：美國 1（政策動態 1）、英國 1（執法案件 1）"
+  "lastRunNote": "新增 1 則：亞太與其他 1（政策動態 1）"
  },
  "items": [
   {
@@ -2806,6 +2806,67 @@
     }
    ],
    "addedAt": "2026-10-30T07:38:15+08:00"
+  },
+  {
+   "id": "2026-10-29-fin-brazil-psav-authorisation-deadline",
+   "court": "OTHER",
+   "kind": "政策動態",
+   "caseId": "br-vasp-authorisation",
+   "jurisdiction": "巴西",
+   "outlet": "Finsiders Brasil",
+   "outletCode": "FINS",
+   "date": "2026-10-29",
+   "eventDate": "2026-10-30",
+   "importance": 2,
+   "author": "",
+   "title": "巴西央行虛擬資產服務商授權過渡申請期限 10 月 30 日屆至，依報導截至前一日約 38 家業者提出申請",
+   "shortTitle": "巴西加密業者授權申請期限屆至",
+   "point": "既有業者須於 10 月 30 日前提出第一階段申請，否則 30 日內停業",
+   "titleOriginal": "Licença para cripto: 38 empresas pedem autorização ao BC",
+   "caseRef": "Resolução BCB nº 519/2025；Resolução BCB nº 520/2025；Instrução Normativa BCB nº 704/2026",
+   "tldr": "巴西中央銀行對加密貨幣交易所等虛擬資產服務商改採許可制。今年 2 月新制生效前已在營運的業者，必須在 10 月 30 日前送出第一階段申請，才能在審查期間繼續營業；沒有申請的業者須在期限後 30 日內停止服務。依巴西媒體報導，截至 10 月 29 日約有 38 家業者申請，遠低於央行原先預估的約 100 家，已有多家業者撤出巴西。",
+   "memo": "依 Finsiders Brasil 2026 年 10 月 29 日報導及巴西法律事務所分析，巴西中央銀行依第 14,478/2022 號法律及第 519/2025 號、第 520/2025 號決議（2026 年 2 月 2 日生效）建立虛擬資產服務商（SPSAV）許可制度；於 2026 年 2 月 2 日前已營運之業者，應依第 704/2026 號規範指令於 2026 年 10 月 30 日前提出第一階段授權申請，始得於審查期間繼續營運，逾期未申請者依第 520/2025 號決議第 88 條第 7 項應於期限後 30 日內停止提供虛擬資產服務。依同報導，截至 10 月 29 日約 38 家業者提出申請（該數字來自民間監測，非央行官方統計），央行原預估約 100 家；另依第 589/2026 號決議，受監理金融機構自 2026 年 11 月 6 日起不得與未獲授權之虛擬資產交易對手進行特定交易。",
+   "context": "巴西於 2022 年制定第 14,478 號法律，作為虛擬資產服務的法律框架，並由第 11,563/2023 號總統令指定巴西中央銀行為主管機關。央行於 2025 年 11 月發布第 519、520、521 號決議，規範虛擬資產服務商的授權程序、設立與營運要求，於 2026 年 2 月 2 日生效。\n新制採兩階段審查：第一階段核可後，業者須於 60 日內補提第二階段文件，央行得依申請延長最多 60 日。最低資本依業務類型約為 1,080 萬至 3,720 萬巴西里爾。",
+   "facts": [
+    "2026 年 2 月 2 日前已在巴西營運的虛擬資產服務商，須依第 704/2026 號規範指令於 2026 年 10 月 30 日前提出第一階段授權申請。",
+    "如期申請者得於審查期間繼續營運，但不等同取得授權；逾期未申請者依第 520/2025 號決議第 88 條第 7 項，須於期限後 30 日內停止服務。",
+    "依 Finsiders Brasil 引述民間監測資料，截至 10 月 29 日約有 38 家業者申請，包括 Binance、OKX、Bybit、Ripple、Mercado Bitcoin 等；央行官網先前僅列出 7 家申請人；央行原預估約 100 家。",
+    "依同報導，央行已駁回一件申請；Itaú、Inter、Nubank 等銀行則以通知程序表明將提供加密服務；Revolut、Bitso 等業者已撤出或縮減巴西業務。",
+    "依第 589/2026 號決議，受監理機構自 2026 年 11 月 6 日起，原則上不得與未獲授權的虛擬資產交易對手進行或協助特定交易。"
+   ],
+   "issues": [
+    "以申請期限作為市場篩選機制，對未申請業者的停業執行與消費者資產移轉如何處理。",
+    "銀行以通知程序、非銀行業者以許可程序進入市場，兩者監理強度是否一致。"
+   ],
+   "holding": "・既有業者：10 月 30 日前提出第一階段申請，審查期間得續營，但不得於該期間另增受監理業務類別。\n・逾期未申請：期限後 30 日內停止提供虛擬資產服務。\n・後續程序：第一階段核可後 60 日內提交第二階段文件；最終駁回者於通知後 30 日內執行退場措施。\n・金融機構：自 11 月 6 日起原則上不得與未獲授權的虛擬資產交易對手交易（第 589/2026 號決議）。",
+   "significance": "巴西是拉丁美洲最大的加密資產市場之一，此期限是新許可制實際篩選市場的第一關，申請家數明顯低於預期，顯示合規成本與資本門檻已促成市場整併。應留意央行公布的官方申請統計、第一階段核可結果，以及 11 月 6 日金融機構往來限制的施行情形。",
+   "editorNote": "本網頁助理 註：本則依 Finsiders Brasil、Capital Aberto 報導及 Marinho de Gusmão 事務所分析整理，本網頁助理未能取得巴西中央銀行就本期限發布的官方新聞稿。Finsiders Brasil 報導標題與內文稱 38 家，但其摘要列點稱 22 家，報導本身未說明差異；38 家之數字來自民間監測工具，非央行官方統計。",
+   "tags": [
+    "加密資產",
+    "虛擬資產服務商",
+    "執照",
+    "巴西中央銀行",
+    "巴西"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Finsiders Brasil 報導（38 家業者申請）",
+     "url": "https://finsidersbrasil.com.br/regulamentacao/licenca-para-cripto-38-empresas-pedem-autorizacao-ao-bc/",
+     "official": false
+    },
+    {
+     "label": "Marinho de Gusmão 分析（授權期限與過渡規則）",
+     "url": "https://www.marinhodegusmao.com.br/en/publicacoes/brazil-vasp-authorization-deadline-transition-rules-2026",
+     "official": false
+    },
+    {
+     "label": "Capital Aberto 報導",
+     "url": "https://capitalaberto.com.br/regulacao/2026/10/prazo-do-bc-aperta-cerco-sobre-ativos-virtuais",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T00:08:11+08:00"
   }
  ],
  "agenda": [
@@ -2998,6 +3059,16 @@
    "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-36-cryptoasset-perimeter-guidance",
    "relatedId": "",
    "caseId": "uk-cryptoasset-regime"
+  },
+  {
+   "id": "2026-11-06-other-brazil-vasp-counterparty-restriction",
+   "date": "2026-11-06",
+   "court": "OTHER",
+   "title": "巴西：受監理機構不得與未獲授權虛擬資產交易對手交易（第 589/2026 號決議）",
+   "note": "依 Marinho de Gusmão 與 Capital Aberto 說明；設有例外規定。",
+   "url": "",
+   "relatedId": "2026-10-29-fin-brazil-psav-authorisation-deadline",
+   "caseId": "br-vasp-authorisation"
   }
  ],
  "cases": [
@@ -3154,6 +3225,17 @@
    "caseRef": "",
    "summary": "南韓立法承認分散式帳本證券電子登記後，金融委員會發布路線圖並訂定配套子法，建立代幣化證券發行與場外流通制度。",
    "status": "金融委員會 10 月 1 日預告配套子法，意見徵詢至 11 月 11 日，預定 2027 年 2 月 4 日施行。"
+  },
+  {
+   "id": "br-vasp-authorisation",
+   "type": "議題",
+   "court": "OTHER",
+   "forum": "巴西中央銀行",
+   "name": "巴西虛擬資產服務商許可制施行",
+   "nameOriginal": "Brazil SPSAV authorisation regime (Law 14,478/2022; BCB Resolutions 519/520/521)",
+   "caseRef": "",
+   "summary": "巴西中央銀行依第 14,478/2022 號法律及 2025 年 11 月發布的決議，對虛擬資產服務商實施許可制，2026 年 2 月 2 日生效。",
+   "status": "既有業者第一階段申請期限已於 2026 年 10 月 30 日屆至，依報導約 38 家申請；金融機構往來限制將於 11 月 6 日施行。"
   }
  ],
  "archives": []
