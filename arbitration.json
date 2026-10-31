@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-31T07:08:24+08:00",
-  "lastRunLocal": "2026-10-31 07:08",
+  "lastRun": "2026-10-31T23:01:46+08:00",
+  "lastRunLocal": "2026-10-31 23:01",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 5 則：商務仲裁 3（法院裁判 1、案件動態 1、評論 1）、投資仲裁 2（法院裁判 1、仲裁判斷 1）",
+  "lastRunNote": "新增 3 則：商務仲裁 1（學術評論 1）、投資仲裁 2（案件動態 2）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -4429,6 +4429,205 @@
     }
    ],
    "addedAt": "2026-10-31T07:08:24+08:00"
+  },
+  {
+   "id": "2026-10-31-arb-kab-icca-awards-series-scc-awards",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "瑞典",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-10-31",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Stephan Schill（ICCA 出版品總編輯、阿姆斯特丹大學）",
+   "title": "ICCA 判斷彙編 2026 年新收錄五份 SCC 仲裁判斷：涉及仲裁容許性、競合仲裁條款與制裁下的付款義務",
+   "shortTitle": "ICCA 判斷彙編新收五份 SCC 判斷",
+   "point": "作者指出其中多份判斷處理制裁影響下的付款機制與不可抗力，實務上愈來愈常見",
+   "titleOriginal": "Editor's Picks: Five Previously Unpublished SCC Awards in the ICCA Awards Series 2026",
+   "caseRef": "",
+   "tldr": "國際商務仲裁理事會（ICCA）的判斷彙編新收錄五份過去未公開、以斯德哥爾摩為仲裁地的 SCC 判斷。總編輯介紹其中重點：仲裁容許性依仲裁地法判斷、兩份契約約定不同仲裁機構時以哪一份為準，以及受制裁影響的契約付款問題。",
+   "memo": "Stephan Schill 於 Kluwer Arbitration Blog 撰文介紹 ICCA 判斷彙編 2026 年新收錄之五份斯德哥爾摩商會（SCC）仲裁判斷，指出：合資清算案仲裁庭認仲裁容許性專依仲裁地法決定，不適用專案所在國強制規定，並依瑞典法適用十年消滅時效；物流服務案仲裁庭依瑞典仲裁法第 48 條認採購單之 SCC 條款優先於一般條款之 ICC 條款，「盡量協商」前置要件因過於模糊而不具拘束力；另兩份判斷依 2017 年 SCC 規則第 51 條第 5 項處理代墊預付費用之返還，最終判斷則處理制裁導致付款機制失靈、英國法上合意禁反言及以其他幣別付款之義務。",
+   "context": "ICCA 判斷彙編（ICCA Awards Series）由國際商務仲裁理事會編輯、Kluwer 出版，收錄經合作機構提供並去識別化的仲裁判斷，SCC 為合作機構之一。\n本文為彙編總編輯介紹 2026 年版新收錄的五份 SCC 判斷，均以斯德哥爾摩為仲裁地。",
+   "facts": [
+    "第一份判斷涉及天然資源專案合資事業在一方未同意下遭清算，且使用偽造簽名與公司印章；當事人選擇瑞典法為準據法。",
+    "第二份為管轄權決定：物流服務採購單約定 SCC 仲裁、斯德哥爾摩為仲裁地，但一般採購條件約定在他處進行 ICC 仲裁。",
+    "第三組為兩份依 2017 年 SCC 仲裁規則第 51 條第 5 項作成的判斷，處理申請人代墊被申請人應繳預付費用後請求返還。",
+    "第四份為同一採購單爭議的最終判斷：被申請人以預付款保證、指定帳戶條件及申請人前母公司受制裁構成不可抗力等理由拒絕付款。"
+   ],
+   "issues": [
+    "仲裁容許性應依何國法律判斷，專案所在國強制規定或公司準據法是否應予適用。",
+    "兩份契約文件約定不同仲裁機構與仲裁地時，何者優先；瑞典仲裁法第 48 條對仲裁協議準據法的規定。",
+    "多層次爭議解決條款中「盡量協商」之前置要件是否具拘束力。",
+    "代墊預付費用返還判斷的作成時機與例外，制裁違法性抗辯能否阻止返還，以及其利息屬程序或實體問題。",
+    "制裁導致契約付款機制失靈時，付款義務是否仍存在；英國法上合意禁反言；是否負有透過非受制裁管道以其他幣別付款的義務。"
+   ],
+   "holding": "・合資清算案：仲裁庭認定仲裁容許性專依仲裁地法決定，拒絕適用專案所在國強制規定，也不採合資事業公司準據法支配協議之主張；依瑞典法適用時效法十年時效，而非合夥法三年時效。作者認為其仲裁容許性論述特別值得注意。\n・物流服務案管轄權：仲裁協議依瑞典仲裁法第 48 條適用瑞典法，採購單之 SCC 條款優先；「盡量協商」要件過於模糊而無法執行，仲裁庭有管轄權。作者認為對起草及執行多層次、競合仲裁條款具實務參考價值。\n・預付費用判斷：說明何時應作成返還判斷及有限例外，並審酌制裁違法性抗辯；預付費用利息屬程序問題，依仲裁地法決定，即使契約準據法為英國法。\n・最終判斷：處理付款機制何時崩解、英國法上合意禁反言，以及透過非受制裁管道以其他幣別付款的義務。作者指出此類問題在受制裁影響的商業關係中愈來愈常出現。",
+   "significance": "作者認為這批判斷為制裁環境下的契約履行、仲裁容許性準據法及競合仲裁條款提供了少見的公開實例。判斷全文刊於 Kluwer Arbitration 資料庫（須訂閱）。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。\n本網頁助理 註：作者為 ICCA 出版品總編輯，本文係介紹其主編之彙編；判斷全文須訂閱，本網頁助理未閱讀判斷原文。文章標題稱五份判斷，內文將兩份預付費用判斷合併介紹；第一份及最終判斷之結果，文章未完整說明。",
+   "tags": [
+    "SCC",
+    "ICCA",
+    "瑞典",
+    "仲裁容許性",
+    "仲裁協議準據法",
+    "競合仲裁條款",
+    "多層次爭議解決條款",
+    "制裁",
+    "不可抗力",
+    "預付費用",
+    "公開仲裁判斷"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 文章",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/editors-picks-five-previously-unpublished-scc-awards-in-the-icca-awards-series-2026/",
+     "official": false
+    },
+    {
+     "label": "ICCA 判斷彙編介紹",
+     "url": "https://www.arbitration-icca.org/icca-awards-series",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T23:01:46+08:00"
+  },
+  {
+   "id": "2026-10-30-arb-osumi-switzerland-security-costs-denied",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "osumi-v-switzerland",
+   "jurisdiction": "瑞士",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-10-30",
+   "eventDate": "2026-10-02",
+   "importance": 2,
+   "author": "",
+   "title": "瑞士信貸 AT1 債券 ICSID 仲裁：仲裁庭駁回瑞士要求日本投資人提供費用擔保及改由其負擔預付費用之聲請",
+   "shortTitle": "瑞信 AT1 債券仲裁：瑞士費用擔保聲請遭駁回",
+   "point": "瑞士以債券持有人拒絕合併審理為由要求擔保並轉移預付費用，仲裁庭不採",
+   "titleOriginal": "Hiroshi Osumi v. Swiss Confederation (ICSID Case No. ARB/26/1), Procedural Order No. 3 (advances on costs and security for costs), 2 October 2026",
+   "caseRef": "ICSID Case No. ARB/26/1",
+   "tldr": "瑞士信貸 2023 年被救援時，監理機關把 AT1 債券全數註銷。一名日本債券持有人依日瑞經濟夥伴協定在 ICSID 控告瑞士。瑞士要求他先提供費用擔保，並改由他負擔預付的仲裁費用，理由是他拒絕和其他債券持有人的案件合併審理；仲裁庭據報駁回這兩項聲請，案件繼續進行。",
+   "memo": "依 ICSID 案件程序紀錄，Osumi 訴瑞士案（ICSID Case No. ARB/26/1）仲裁庭（主任仲裁人 Marinn Carlson，仲裁人 Peter Turner、Gabriel Bottini）於 2026 年 10 月 2 日作成第 3 號程序令，處理瑞士所提訴訟費用擔保及預付費用分擔之聲請。申請人為日本籍瑞士信貸 AT1 債券持有人，依日本—瑞士自由貿易及經濟夥伴協定，就瑞士金融市場監理局 2023 年 3 月命令全數註銷 AT1 債券提起仲裁。依 IAReporter 報導，瑞士以申請人拒絕與其他債券持有人程序合併為由提出前揭聲請，均遭駁回。",
+   "context": "2023 年 3 月 19 日瑞士信貸遭緊急併購時，瑞士金融市場監理局（FINMA）命令將其額外第一類資本（AT1）債券全數註銷。瑞士聯邦行政法院於 2025 年 10 月認定該註銷欠缺充分契約及法律依據，FINMA 已上訴，判決尚未確定。\n日本籍投資人 Hiroshi Osumi 依 2009 年日本—瑞士自由貿易及經濟夥伴協定提起 ICSID 仲裁，ICSID 於 2026 年 1 月 7 日登錄，仲裁庭於 5 月 21 日組成，仲裁地為巴黎。報導指申請人代理律師 Mori Hamada & Matsumoto 代表更多亞洲債券持有人。\n依 ICSID 紀錄，瑞士於 2026 年 8 月 3 日聲請訴訟費用擔保及預付費用相關請求，雙方書狀往來至 9 月 7 日。",
+   "facts": [
+    "瑞士於 2026 年 8 月 3 日提出訴訟費用擔保聲請及預付費用聲請，申請人於 8 月 24 日提出意見，雙方再各提書狀至 9 月 7 日。",
+    "仲裁庭於 2026 年 10 月 2 日作成第 3 號程序令處理上述聲請；ICSID 網站未公開程序令全文。",
+    "IAReporter 於 10 月 30 日報導，仲裁庭駁回瑞士之費用擔保及轉移預付費用聲請；瑞士之聲請係以 AT1 債券持有人拒絕合併審理為依據。",
+    "第 2 號程序令規定言詞辯論不公開、多數書狀保密。"
+   ],
+   "issues": [
+    "ICSID 仲裁規則（2022）第 53 條訴訟費用擔保之要件。",
+    "申請人拒絕與其他類似請求合併審理，可否作為命其提供擔保或改由其負擔全部預付費用之理由。"
+   ],
+   "holding": "依 IAReporter 標題，仲裁庭駁回瑞士之訴訟費用擔保聲請，以及以申請人拒絕合併程序為由轉移預付費用分擔之聲請。仲裁庭理由及是否保留日後費用分配，現有公開資料未說明。",
+   "significance": "這是瑞士信貸 AT1 債券註銷引發的首批投資條約仲裁之一，也是瑞士少見的被訴案件。費用擔保遭駁回後案件進入實體書狀階段；依先前報導，瑞士須於 2026 年 11 月中旬表明是否聲請分階段審理先決異議。",
+   "editorNote": "本網頁助理 註：本則依 ICSID 案件程序紀錄（確認程序令日期與聲請內容）及 IAReporter 報導標題撰寫，尚未取得第 3 號程序令原文；駁回結果與「拒絕合併」理由僅見於 IAReporter 標題，詳細理由待程序令公開後補充。後續時程依 2026 年 8 月一則新聞報導，可能已變動。",
+   "tags": [
+    "ICSID",
+    "瑞士",
+    "日本",
+    "瑞士信貸",
+    "AT1 債券",
+    "金融監理",
+    "訴訟費用擔保",
+    "預付費用",
+    "合併審理",
+    "經濟夥伴協定"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 案件頁面（程序紀錄）",
+     "url": "https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB%2F26%2F1",
+     "official": true
+    },
+    {
+     "label": "IAReporter 報導",
+     "url": "https://www.iareporter.com/articles/icsid-tribunal-rejects-switzerlands-requests-for-security-for-costs-and-shifting-of-costs-advances-based-on-at1-bondholders-refusal-to-consolidate-proceedings/",
+     "official": false
+    },
+    {
+     "label": "Mori Hamada & Matsumoto 提起仲裁公告",
+     "url": "https://www.morihamada.com/en/notices/122681",
+     "official": false
+    },
+    {
+     "label": "案件程序背景報導（2026 年 8 月）",
+     "url": "https://bilaterals.org/credit-suisse-at1-arbitration-moves-behind-closed-doors-as-switzerland-s-paper",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T23:01:46+08:00"
+  },
+  {
+   "id": "2026-10-30-arb-spain-vm-solar-jerez-annulment",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "vm-solar-jerez-v-spain",
+   "jurisdiction": "西班牙",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-10-30",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "西班牙向 ICSID 聲請撤銷德國太陽能投資人 VM Solar Jerez 依能源憲章條約取得的仲裁判斷",
+   "shortTitle": "西班牙聲請撤銷 VM Solar Jerez 判斷",
+   "point": "2026 年 6 月 30 日判斷源於再生能源補貼改革，判賠金額尚未公開",
+   "titleOriginal": "VM Solar Jerez GmbH v. Kingdom of Spain (ICSID Case No. ARB/19/30), Award of 30 June 2026; Spain's application for annulment",
+   "caseRef": "ICSID Case No. ARB/19/30",
+   "tldr": "德國太陽能公司 VM Solar Jerez 因西班牙削減再生能源補貼，依能源憲章條約提起 ICSID 仲裁，2026 年 6 月取得判斷。西班牙依例聲請撤銷，這是西班牙一系列再生能源案件中的又一件。",
+   "memo": "依 ICSID 案件紀錄及 IAReporter 報導，西班牙已就 VM Solar Jerez 訴西班牙案（ICSID Case No. ARB/19/30）之仲裁判斷向 ICSID 聲請撤銷。本案係德國投資人依能源憲章條約，就西班牙再生能源補貼制度改革提起之仲裁，仲裁庭（主任仲裁人 Michael Collins，仲裁人 Guido Santiago Tawil、Ioana Knoll-Tudor）於 2025 年 5 月 14 日作成管轄權、責任及損害賠償原則之決定，並於 2026 年 6 月 30 日作成判斷；判賠金額尚未公開。",
+   "context": "VM Solar Jerez GmbH 為德國公司，投資西班牙太陽能發電。西班牙自 2010 年起修改並於 2013–2014 年改採新的再生能源報酬制度，引發數十件能源憲章條約仲裁。\n本案於 2019 年 10 月 4 日由 ICSID 登錄。西班牙曾兩度聲請仲裁人迴避（2020 年針對 Tawil、2022 年針對全體仲裁庭），均遭 ICSID 行政理事會主席駁回。2024 年 2 月在倫敦舉行管轄權、實體及損害言詞辯論；2025 年 5 月 14 日仲裁庭就管轄權、責任及損害賠償原則作成決定，之後進入計算階段。2026 年 5 月部分申請人撤回，程序於 5 月 19 日宣告終結，6 月 30 日作成判斷。",
+   "facts": [
+    "ICSID 案件頁面記載仲裁庭於 2026 年 6 月 30 日作成判斷，案件狀態為已終結。",
+    "2026 年 5 月 19 日第 11 號程序令記錄 M Solar Verwaltungs GmbH 等四家公司及 Helmut Vorndran 依 ICSID 公約第 44 條部分撤回。",
+    "ICSID 近期案件動態於 2026 年 10 月 29 日列出本案更新；IAReporter 於 10 月 30 日報導西班牙聲請撤銷判斷。"
+   ],
+   "issues": [
+    "西班牙依 ICSID 公約第 52 條聲請撤銷判斷之理由（尚未公開）。",
+    "撤銷程序期間判斷之執行是否暫停。"
+   ],
+   "holding": "判斷內容與判賠金額未公開。依 ICSID 案件頁面，仲裁庭先於 2025 年 5 月 14 日就管轄權、責任及損害賠償原則作成決定，再於 2026 年 6 月 30 日作成判斷。西班牙已聲請撤銷，撤銷理由尚未公開。",
+   "significance": "西班牙對再生能源案件的不利判斷幾乎一律聲請撤銷，並常同時請求暫停執行。ICSID 將組成特別委員會審理；投資人能否在撤銷期間於美國、英國、澳洲等地執行，取決於是否准予暫停執行。",
+   "editorNote": "本網頁助理 註：本則依 ICSID 案件頁面與 IAReporter 報導標題撰寫，尚未取得判斷原文；撤銷聲請日期、理由及判賠金額均未公開，ICSID 近期動態 10 月 29 日之條目推測與撤銷聲請有關，但頁面未標示事件類型，故 eventDate 留空。",
+   "tags": [
+    "ICSID",
+    "西班牙",
+    "德國",
+    "能源憲章條約",
+    "西班牙再生能源",
+    "太陽能",
+    "撤銷（annulment）",
+    "第52條"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 案件頁面（程序紀錄）",
+     "url": "https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB%2F19%2F30",
+     "official": true
+    },
+    {
+     "label": "IAReporter 報導",
+     "url": "https://www.iareporter.com/articles/spain-applies-for-annulment-of-solar-jerez-award/",
+     "official": false
+    },
+    {
+     "label": "italaw 案件頁面",
+     "url": "https://www.italaw.com/cases/8416",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T23:01:46+08:00"
   }
  ],
  "agenda": [
@@ -4785,6 +4984,30 @@
    "caseRef": "ICSID Case No. ARB/25/27",
    "summary": "印尼投資人依東協全面投資協定，指控馬來西亞財政部藉所屬公司取得 Exchange 106 開發公司全部股權，構成徵收及違反公平公正待遇。",
    "status": "ICSID 仲裁進行中；馬來西亞高等法院拒絕因仲裁停止財政部所屬公司對 Mulia 的契約訴訟。"
+  },
+  {
+   "id": "osumi-v-switzerland",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Osumi 訴瑞士（瑞士信貸 AT1 債券註銷案）",
+   "nameOriginal": "Hiroshi Osumi v. Swiss Confederation",
+   "caseRef": "ICSID Case No. ARB/26/1",
+   "summary": "日本籍債券持有人依日本—瑞士經濟夥伴協定，就 2023 年瑞士監理機關命令全數註銷瑞士信貸 AT1 債券向瑞士求償。",
+   "status": "仲裁庭於 2026 年 10 月駁回瑞士之訴訟費用擔保及預付費用聲請，案件進入實體書狀階段。"
+  },
+  {
+   "id": "vm-solar-jerez-v-spain",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "VM Solar Jerez 訴西班牙（再生能源補貼案）",
+   "nameOriginal": "VM Solar Jerez GmbH v. Kingdom of Spain",
+   "caseRef": "ICSID Case No. ARB/19/30",
+   "summary": "德國太陽能投資人依能源憲章條約，就西班牙再生能源補貼制度改革求償。",
+   "status": "仲裁庭於 2026 年 6 月 30 日作成判斷，西班牙已聲請撤銷。"
   }
  ]
 }
