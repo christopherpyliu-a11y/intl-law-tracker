@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-31T07:36:16+08:00",
-  "lastRunLocal": "2026-10-31 07:36",
+  "lastRun": "2026-10-31T23:32:10+08:00",
+  "lastRunLocal": "2026-10-31 23:32",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：英國 1（草案諮詢 1）、國際組織 1（國際標準 1）、美國 1（司法案件 1）"
+  "lastRunNote": "新增 2 則：台灣 1（政策動態 1）、美國 1（政策動態 1）"
  },
  "items": [
   {
@@ -544,7 +544,8 @@
     "台灣"
    ],
    "related": [
-    "2026-10-10-fin-taiwan-fsc-stablecoin-joint-venture-plan"
+    "2026-10-10-fin-taiwan-fsc-stablecoin-joint-venture-plan",
+    "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody"
    ],
    "sources": [
     {
@@ -1427,7 +1428,8 @@
    ],
    "related": [
     "2026-10-01-fin-sec-crypto-custody-proposal",
-    "2026-10-05-fin-wilmerhale-sec-innovation-exemption"
+    "2026-10-05-fin-wilmerhale-sec-innovation-exemption",
+    "2026-10-30-fin-cftc-selig-binance-hack-registration"
    ],
    "sources": [
     {
@@ -3065,6 +3067,146 @@
     }
    ],
    "addedAt": "2026-10-31T07:36:16+08:00"
+  },
+  {
+   "id": "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody",
+   "court": "TW",
+   "kind": "政策動態",
+   "caseId": "taiwan-vasp-act",
+   "jurisdiction": "台灣",
+   "outlet": "工商時報",
+   "outletCode": "CTEE",
+   "date": "2026-10-31",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "幣安遭駭約 63 億美元，央行與金管會提醒投資人慎選平台，金管會稱將從嚴訂定虛擬資產保管子法並於年底前預告",
+   "shortTitle": "金管會：保管子法從嚴、年底前預告",
+   "point": "幣安遭駭約 63 億美元後，央行提醒慎選境外平台",
+   "titleOriginal": "幣安疑遭駭 央行、金管會示警",
+   "caseRef": "",
+   "tldr": "全球最大加密貨幣交易所幣安 10 月 29 日至 30 日間遭駭，影響金額約 63 億美元。依工商時報報導，央行提醒民眾幣安不是在台灣登記的合規平台，要慎選交易平台；金管會則表示，正在擬定的《虛擬資產服務法》子法會提高保管業者的資本額、營業保證金等門檻，預計年底前公開預告。",
+   "memo": "依工商時報 2026 年 10 月 31 日報導，境外虛擬資產交易平台 Binance 於 2026 年 10 月 29 日至 30 日間發生資安事件，影響金額約 63 億美元。中央銀行表示虛擬資產主要由金管會監理，Binance 非於我國完成登記之合規平台，提醒投資人慎選平台並注意出金風險；金管會表示將以保障客戶權益優先及儘速對外揭露資訊為原則處理類似事件，並將於依《虛擬資產服務法》研訂之子法中，就保管業者之實收資本額、營業保證金及保管資產規模等從嚴規範，預計於年底前預告。",
+   "context": "《虛擬資產服務法》2026 年 6 月 30 日三讀，金管會研訂九項子法，主委彭金隆 10 月 19 日表示預計 2027 年第一季前公布，其中包括虛擬資產保管相關規範。\n依 Al Jazeera 及 Cointelegraph 報導，Binance 10 月 29 日晚間起約 20 分鐘內遭轉出約 63 億美元資產，為史上最大加密資產竊案；區塊鏈分析公司 TRM Labs 與 Chainalysis 研判為北韓駭客組織 TraderTraitor 所為，Binance 則稱尚未認定責任歸屬。Tether、Circle 等穩定幣發行人凍結相關代幣，Binance 稱已凍結約 30 億美元並將以公司資金承擔損失。",
+   "facts": [
+    "依工商時報報導，比特幣 10 月 30 日一度跌破 7.7 萬美元；Binance 稱影響金額約 63 億美元。",
+    "央行官員表示事件疑始於工程師筆電遭入侵，駭客轉出錢包資金；並稱遭轉移資金大部分已遭凍結，部分可望追回。",
+    "央行表示虛擬資產主要由金管會監理，Binance 為境外平台、非我國登記之合規業者，央行可掌握程度有限。",
+    "央行提醒：境外平台可能代為保管投資人資產，出金須審慎；加密資產交易完成後通常無法撤回，資金難以追回，並易遭詐騙集團利用。",
+    "金管會表示 Binance 尚未正式說明事件原因；對國內虛擬資產服務業者，將以保障客戶權益優先、儘速對外揭露資訊為處理原則。",
+    "金管會表示子法將從嚴規範保管業者之實收資本額、營業保證金及保管資產規模，已徵詢 VASP 公會、業者、銀行公會及個別銀行意見，預計年底前預告。"
+   ],
+   "issues": [
+    "子法對虛擬資產保管業者的資本、保證金及保管規模門檻如何訂定，是否足以因應大規模資安事件。",
+    "國內投資人使用未於我國登記之境外平台時，主管機關可採取之保護措施有限。"
+   ],
+   "holding": "・央行：Binance 非我國合規登記平台，投資人應慎選平台、審慎評估出金風險，並留意加密資產交易不可逆而遭詐騙利用之風險。\n・金管會：處理類似事件以保障客戶權益優先、儘速揭露資訊為原則。\n・金管會：《虛擬資產服務法》子法將提高保管業者之實收資本額、營業保證金及保管資產規模等要求，預計年底前預告。",
+   "significance": "本則顯示金管會將子法預告時程定於 2026 年底前，且保管業務規範將因本次事件受到更多關注。應留意子法預告草案中保管業者的具體資本與保證金數額，以及 Binance 恢復提領與後續追討進展。",
+   "editorNote": "本網頁助理 註：央行與金管會說法係依工商時報報導，本網頁助理未查得官方新聞稿；Binance 事件之時間、金額及責任歸屬依 Al Jazeera、Cointelegraph 等媒體報導，各方數字略有出入（約 63 億至 64 億美元）。",
+   "tags": [
+    "虛擬資產服務法",
+    "虛擬資產保管",
+    "加密資產",
+    "資安事件",
+    "Binance",
+    "金管會",
+    "中央銀行",
+    "台灣"
+   ],
+   "related": [
+    "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline",
+    "2026-10-30-fin-cftc-selig-binance-hack-registration"
+   ],
+   "sources": [
+    {
+     "label": "工商時報報導",
+     "url": "https://www.ctee.com.tw/news/20261031700087-439901",
+     "official": false
+    },
+    {
+     "label": "蕃新聞（品傳媒）報導",
+     "url": "https://n.yam.com/Article/20261031952847",
+     "official": false
+    },
+    {
+     "label": "Al Jazeera 報導（事件經過）",
+     "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T23:32:10+08:00"
+  },
+  {
+   "id": "2026-10-30-fin-cftc-selig-binance-hack-registration",
+   "court": "CFTC",
+   "kind": "政策動態",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "The National",
+   "outletCode": "TN",
+   "date": "2026-10-30",
+   "eventDate": "2026-10-30",
+   "importance": 1,
+   "author": "",
+   "title": "CFTC 主席 Selig 稱幣安遭駭印證加密市場監理之必要，盼讓相關交易所向 CFTC 註冊；阿布達比 FSRA 表示正監控事件",
+   "shortTitle": "CFTC 主席以幣安遭駭力推加密監理",
+   "point": "Selig 盼交易所向 CFTC 註冊；ADGM 的 FSRA 稱正監控事件",
+   "titleOriginal": "US CFTC boss says Binance hack 'proves his point' about need for crypto market regulations",
+   "caseRef": "",
+   "tldr": "幣安遭駭約 63 億美元後，美國商品期貨交易委員會（CFTC）主席 Selig 在電視訪談中說，這正好證明 CFTC 本月提出加密市場監理方案的理由，他希望讓這類交易所能到 CFTC 註冊、受美國規則保護。阿布達比金融監理機關 FSRA 也表示知悉並正在監控。",
+   "memo": "依 The National 2026 年 10 月 30 日報導，CFTC 主席 Michael Selig 於同日接受 CNBC 訪問時表示，Binance 於 10 月 29 日至 30 日間遭未經授權轉出約 63 億美元資產之事件，印證 CFTC 於 2026 年 10 月就加密資產市場提出監理規範之必要，並表示希望使相關交易所得向 CFTC 註冊。另依 Khaleej Times 同日報導，阿布達比全球市場金融服務監理局（FSRA）表示已知悉 Binance 涉及未經授權提領資產之資安事件，並持續監控。",
+   "context": "CFTC 2026 年 10 月 5 日發布加密資產交易與市場（Regulation CTX／CAM）預先規則制定通知，意見徵詢至 12 月 14 日；參議院 9 月 15 日未能就 CLARITY Act 終結辯論。\nBinance 為境外交易平台，其集團部分業務受阿布達比全球市場（ADGM）FSRA 監理。依媒體報導，該事件影響約 63 億美元，為史上最大加密資產竊案，區塊鏈分析公司研判為北韓駭客組織 TraderTraitor 所為。",
+   "facts": [
+    "依 The National 報導，Selig 於 10 月 30 日在 CNBC《Squawk on the Street》節目中表示，事件「證明」CFTC 本月提出加密市場規範的論點。",
+    "Selig 稱加密市場大致仍未受監理、欠缺美國式保障，且資金移動遠快於傳統市場；並希望讓這些交易所能向 CFTC 註冊。",
+    "報導未提及 CFTC 宣布具體新措施。",
+    "依 Khaleej Times 報導，FSRA 10 月 30 日表示已知悉涉及「未經授權提領資產」之資安事件並持續監控；依 Cointelegraph 報導，Binance 稱其事件前即每週向 FSRA 申報公司資金。",
+    "依 Al Jazeera 報導，Binance 稱已凍結約 30 億美元（其中逾 23 億美元由 Tether 與 Circle 凍結），並將以公司資金承擔損失。"
+   ],
+   "issues": [
+    "境外加密交易所可否及如何向 CFTC 註冊，以納入美國投資人保護機制。",
+    "穩定幣發行人凍結代幣的能力在重大竊案中的角色與法律依據。"
+   ],
+   "holding": "・Selig 主張：本案印證加密市場欠缺監理保障，CFTC 本月提出之規範方向正確。\n・Selig 表示：希望建立讓相關交易所向 CFTC 註冊之途徑，以降低類似事件風險；報導未說明資格或程序。\n・FSRA：知悉事件並持續監控，報導未提及具體監理措施。",
+   "significance": "本案可能成為 CFTC 推動 Regulation CTX／CAM 及境外平台註冊路徑的論據，並影響 CLARITY Act 後續討論。應留意 12 月 14 日預先通知意見截止前之公眾意見，以及美國執法機關是否正式認定責任歸屬。",
+   "editorNote": "本網頁助理 註：Selig 談話係依 The National 對 CNBC 訪談之報導，本網頁助理未查得 CFTC 官方新聞稿或聲明全文；FSRA 說法依 Khaleej Times 報導，未查得 FSRA 原始聲明。",
+   "tags": [
+    "加密資產",
+    "市場結構",
+    "資安事件",
+    "Binance",
+    "CFTC",
+    "FSRA",
+    "美國",
+    "阿拉伯聯合大公國"
+   ],
+   "related": [
+    "2026-10-05-fin-cftc-anprm-ctx-cam",
+    "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody"
+   ],
+   "sources": [
+    {
+     "label": "The National 報導",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/30/trump-binance-hack-cftc-selig-crypto/",
+     "official": false
+    },
+    {
+     "label": "CNBC 訪談影片",
+     "url": "https://www.cnbc.com/video/2026/10/30/cftc-chair-on-binance-hack-these-are-unregulated-offshare-exchanges.html",
+     "official": false
+    },
+    {
+     "label": "Khaleej Times 報導（FSRA 聲明）",
+     "url": "https://www.khaleejtimes.com/business/uae-fsra-statement-binance-63-billion-security-breach",
+     "official": false
+    },
+    {
+     "label": "Cointelegraph 即時報導",
+     "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T23:32:10+08:00"
   }
  ],
  "agenda": [
@@ -3310,7 +3452,7 @@
    "nameOriginal": "US crypto market structure (CLARITY Act; SEC and CFTC rulemaking)",
    "caseRef": "H.R. 3633",
    "summary": "眾議院 2025 年 7 月通過 CLARITY Act，參議院 2026 年 9 月 15 日未能終結辯論；SEC 與 CFTC 改以各自的規則制定與豁免推進加密資產市場監理。",
-   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 已有 26 家發行公司行使反對權。"
+   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 已有 26 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。"
   },
   {
    "id": "icba-v-occ-trust-charters",
@@ -3398,7 +3540,7 @@
    "nameOriginal": "Taiwan Virtual Asset Service Act and subsidiary regulations",
    "caseRef": "",
    "summary": "《虛擬資產服務法》2026 年 6 月 30 日三讀、7 月 22 日公布，金管會研訂九項子法，包括穩定幣發行許可與管理。",
-   "status": "彭金隆 10 月 19 日表示九項子法預計 2027 年第一季前公布；穩定幣子法仍在跨部會協商。"
+   "status": "金管會表示九項子法預計 2027 年第一季前公布，並於幣安遭駭後稱將從嚴規範保管業者、年底前預告子法（依工商時報 10 月 31 日報導）；穩定幣子法仍在跨部會協商。"
   },
   {
    "id": "au-digital-assets-framework",
