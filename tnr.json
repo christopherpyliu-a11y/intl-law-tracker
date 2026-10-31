@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-31T07:20:10+08:00",
-  "lastRunLocal": "2026-10-31 07:20",
+  "lastRun": "2026-10-31T23:14:35+08:00",
+  "lastRunLocal": "2026-10-31 23:14",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：中國 1（倡議 1）"
+  "lastRunNote": "新增 2 則：中國 1（事件 1）、印度 1（事件 1）"
  },
  "items": [
   {
@@ -3397,6 +3397,128 @@
     }
    ],
    "addedAt": "2026-10-31T07:20:10+08:00"
+  },
+  {
+   "id": "2026-10-30-tnr-gyal-lo-canada-lawsuit-papers",
+   "court": "CN",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "加拿大",
+   "outlet": "Phayul",
+   "outletCode": "",
+   "date": "2026-10-30",
+   "eventDate": "2026-09-23",
+   "importance": 2,
+   "author": "",
+   "title": "依西藏倡議團體 Tibet Action 指控，中國以雲南師範大學名義對旅加藏人學者 Gyal Lo 提起訴訟，文件送達其多倫多住所",
+   "shortTitle": "旅加藏人學者 Gyal Lo 收中國訴訟文件",
+   "point": "文件 9 月 23 日送達其多倫多住所，當時他正在日內瓦向聯合國作證",
+   "titleOriginal": "Dr. Gyal Lo faces threat of Chinese lawsuit in Canada over his advocacy",
+   "caseRef": "",
+   "tldr": "長期揭露西藏寄宿學校制度的藏人教育社會學者 Gyal Lo，2021 年逃到加拿大。倡議團體 Tibet Action 說，一宗以他前雇主雲南師範大學名義在中國提起的訴訟文件，9 月 23 日被送到他多倫多家中，交給他太太，研判中國可能想在加拿大執行中國法院的判決。目前加拿大並無對他的訴訟。",
+   "memo": "依 Phayul 2026 年 10 月 30 日報導（引述 Tibet Action），旅居加拿大之藏人教育社會學者 Gyal Lo 前任教於雲南師範大學，因公開批評西藏寄宿學校制度遭解職，2021 年 1 月移居加拿大。2026 年 9 月 23 日其於日內瓦向聯合國作證期間，一宗以雲南師範大學名義提起之訴訟文件送達其多倫多住所，由其妻收受。Tibet Action 認此舉顯示中國有意於加拿大聲請執行中國法院判決，並籲加拿大政府提供保護；報導未載法院、訴之聲明或中方回應，加拿大境內目前無相關訴訟繫屬。",
+   "context": "Gyal Lo 為藏人教育社會學者，曾任雲南師範大學教育社會學教授，長期研究並批評中國在西藏推行的寄宿學校制度，認其使藏人兒童與家庭分離、削弱藏語與文化認同。\n依報導，他因公開批評受中國當局注意而遭解職，在準備爭取復職期間獲警告人身安全堪虞，遂於 2021 年 1 月移居加拿大，此後持續在國際場合發言。",
+   "facts": [
+    "依 Tibet Action，一宗以雲南師範大學名義提起之訴訟相關文件，於 2026 年 9 月 23 日送達 Gyal Lo 多倫多住所，由其妻收受。",
+    "文件送達時，Gyal Lo 正在日內瓦向聯合國作證。",
+    "報導未載明受理法院或訴訟請求內容。",
+    "Tibet Action 稱加拿大境內目前並無對其提起之訴訟，但文件顯示中國有意在加拿大執行中國法院判決。",
+    "Tibet Action 另指控其在西藏的親屬遭騷擾、中國官媒攻擊其學術研究，並疑其在多倫多與日內瓦遭監視。",
+    "Gyal Lo 表示中國政府永遠無法讓他噤聲，將持續就藏人兒童相關政策發聲。",
+    "報導未見中國政府、雲南師範大學或加拿大當局回應。"
+   ],
+   "issues": [
+    "以母國民事訴訟及跨境送達作為對海外批評者施壓之手段，是否構成法律工具型跨國鎮壓？",
+    "外國法院判決在加拿大聲請承認與執行時，加拿大法院能否以公共政策或程序正義為由拒絕？",
+    "文件選在當事人赴聯合國作證期間送達，是否涉及對聯合國人權機制合作者的報復？"
+   ],
+   "holding": "・依 Tibet Action：以雲南師範大學名義提起之訴訟文件 9 月 23 日送達 Gyal Lo 多倫多住所。\n・Tibet Action 研判：中國有意在加拿大尋求執行中國判決；加拿大目前無相關訴訟。\n・其他指控：西藏親屬遭騷擾、官媒抹黑、疑遭監視。\n・Gyal Lo 回應：不會停止倡議。\n・Tibet Action 呼籲加拿大政府保護 Gyal Lo 並譴責此一法律行動。\n・中方：報導未載回應。",
+   "significance": "若屬實，這是以民事訴訟與跨境送達方式對海外藏人學者施壓的案例，值得觀察是否有人在加拿大法院聲請承認中國判決，以及加拿大政府是否回應。",
+   "editorNote": "本網頁助理 註：本則主要事實均來自 Tibet Action 之說法，Phayul 報導未見獨立查證，亦未載法院與訴訟內容；印度 ANI 社 10 月 31 日轉發之稿件內容相同。eventDate 為文件送達日。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "西藏",
+    "加拿大",
+    "濫訴",
+    "家屬施壓",
+    "監視",
+    "報復行為"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Phayul 報導",
+     "url": "https://phayul.com/dr-gyal-lo-faces-threat-of-chinese-lawsuit-in-canada-over-his-advocacy/",
+     "official": false
+    },
+    {
+     "label": "ANI 報導（The Tribune 轉載）",
+     "url": "https://www.tribuneindia.com/news/world/china-intensifies-transnational-intimidation-as-tibetan-scholar-faces-legal-pressure-in-canada",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T23:14:35+08:00"
+  },
+  {
+   "id": "2026-10-29-tnr-surrey-sikh-activist-arson",
+   "court": "IN",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "加拿大",
+   "outlet": "加拿大通訊社（The Canadian Press）",
+   "outletCode": "",
+   "date": "2026-10-29",
+   "eventDate": "2026-10-28",
+   "importance": 1,
+   "author": "",
+   "title": "加拿大卑詩省素里錫克族獨立運動人士 Narinder Singh Randhawa 住處外車輛遭縱火，警方調查中、動機未明",
+   "shortTitle": "加拿大錫克運動者住處外車輛遭縱火",
+   "point": "Randhawa 4 月曾獲警方「警告義務」通知其生命受威脅，本次動機未明",
+   "titleOriginal": "Police investigate arson attack on car outside home of Sikh independence activist",
+   "caseRef": "",
+   "tldr": "在加拿大素里市組織卡利斯坦（錫克族獨立）集會的 Narinder Singh Randhawa，住家外一輛車在深夜被燒、一輛巴士遭破壞。警方說嫌犯徒步逃離，動機還不清楚；他今年 4 月曾被警方告知生命有立即危險。報導沒有指稱這次攻擊與印度有關。",
+   "memo": "依加拿大通訊社 2026 年 10 月 29 日報導，加拿大卑詩省素里市警方於同週三晚間 11 時 45 分接獲報案，錫克族獨立運動人士 Narinder Singh Randhawa 住處外一輛汽車遭焚燬、一輛巴士遭破壞，警方以疑似縱火偵辦，認嫌犯徒步逃逸，動機尚未查明。Randhawa 曾於 2026 年 4 月收受素里警方之「警告義務」（duty to warn）通知，告知其生命面臨立即威脅。錫克正義組織籲警方以恐怖攻擊偵辦；報導未指稱本案與印度政府有關。",
+   "context": "2023 年錫克族獨立運動領袖 Hardeep Singh Nijjar 在素里遭槍殺，時任加拿大總理杜魯道稱有可信指控將其與印度政府特工連結，印度否認。\n此後加拿大警方多次向錫克族運動人士發出「警告義務」通知。現任總理卡尼今年訪問印度，被問及印度是否在加拿大從事外國干預與跨國鎮壓時未正面回答。",
+   "facts": [
+    "警方於週三晚間 11 時 45 分接獲報案，於 Randhawa 素里中區住處外發現一輛汽車起火，另有一輛巴士遭破壞。",
+    "警方以疑似縱火偵辦，認為嫌犯徒步逃離，尚未判定動機。",
+    "Randhawa 曾組織卡利斯坦運動集會；4 月曾收到素里警方「警告義務」通知，告知其生命面臨立即威脅。",
+    "Randhawa 向加通社表示，警方曾暗示其所受威脅可能與他的倡議及參與抗議有關。",
+    "錫克正義組織（Sikhs For Justice）通報此事並要求警方以恐怖主義案件偵辦，稱當天溫哥華有抗議活動。",
+    "報導未指稱本次攻擊與印度政府有關，亦未見印度回應。"
+   ],
+   "issues": [
+    "在動機未明時，此類攻擊能否及如何評估為跨國鎮壓？",
+    "「警告義務」通知後，加拿大警方對受威脅者的後續保護是否足夠？",
+    "加拿大與印度關係修復，是否影響對錫克族社群所受威脅的處理？"
+   ],
+   "holding": "・事件：Randhawa 住處外汽車遭縱火、巴士遭破壞，嫌犯徒步逃逸。\n・警方：疑似縱火，動機未明，調查中。\n・背景：Randhawa 4 月曾獲生命威脅之警告義務通知。\n・錫克正義組織：要求以恐怖主義偵辦。\n・印度：報導未見回應，亦未指稱涉入。",
+   "significance": "此案發生在 Nijjar 遇害地素里，且被害人先前已獲生命威脅警告，後續應觀察警方是否查明動機或嫌犯，以及是否與外國指使有關。",
+   "editorNote": "本網頁助理 註：本則列於「印度」領域，係因報導將事件置於錫克族運動人士在加拿大遭受威脅、加國曾指控印度涉入 Nijjar 案的脈絡中；警方未認定動機，報導亦未指稱印度涉入本案。「週三」依報導發布日推為 2026 年 10 月 28 日。",
+   "tags": [
+    "跨國鎮壓",
+    "印度",
+    "加拿大",
+    "錫克族",
+    "卡利斯坦",
+    "縱火",
+    "警告義務"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "加拿大通訊社報導（Lethbridge Herald 轉載）",
+     "url": "https://lethbridgeherald.com/news/national-news/2026/10/29/police-investigate-arson-attack-on-car-outside-home-of-sikh-independence-activist/",
+     "official": false
+    },
+    {
+     "label": "加拿大通訊社報導（Energeticcity 轉載）",
+     "url": "https://energeticcity.ca/2026/10/29/police-investigate-arson-attack-on-car-outside-home-of-sikh-independence-activist/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T23:14:35+08:00"
   }
  ],
  "agenda": [
