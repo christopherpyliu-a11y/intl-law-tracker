@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-10-31T07:14:18+08:00",
-  "lastRunLocal": "2026-10-31 07:14",
+  "lastRun": "2026-10-31T23:04:26+08:00",
+  "lastRunLocal": "2026-10-31 23:04",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：ECtHR 1、EJIL 評論 1"
+  "lastRunNote": "新增 1 則：ICC 1"
  },
  "items": [
   {
@@ -4799,7 +4799,8 @@
    ],
    "addedAt": "2026-10-30T23:15:23+08:00",
    "related": [
-    "2026-10-28-icc-duterte-clrv-rule68-2b"
+    "2026-10-28-icc-duterte-clrv-rule68-2b",
+    "2026-10-31-icc-duterte-waiver-status-conference"
    ]
   },
   {
@@ -4919,6 +4920,59 @@
     }
    ],
    "addedAt": "2026-10-31T07:14:18+08:00"
+  },
+  {
+   "id": "2026-10-31-icc-duterte-waiver-status-conference",
+   "court": "ICC",
+   "kind": "程序進展",
+   "caseId": "icc-duterte",
+   "date": "2026-10-31",
+   "eventDate": "2026-10-29",
+   "importance": 1,
+   "title": "杜特蒂案：被告放棄出席 11 月 2 日第五次狀態會議，第三審判分庭准許並命辯方提出簽名切結",
+   "shortTitle": "杜特蒂放棄出席狀態會議",
+   "point": "審判分庭 10 月 29 日准許，由律師代為處理議程上的程序事項",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte – waiver of the right to be present at the fifth status conference (reported)",
+   "caseRef": "ICC-01/21-01/25",
+   "tldr": "杜特蒂表示不出席 11 月 2 日的開審前程序會議，交由律師代為處理。國際刑事法院審判法官已同意，辯方也在 10 月 30 日交出他簽名的放棄出席書面。這只是程序安排，不影響 11 月 30 日開審。",
+   "memo": "國際刑事法院第三審判分庭於 2026 年 10 月 29 日准許杜特蒂放棄出席訂於 2026 年 11 月 2 日舉行之第五次狀態會議，並命辯方提出經被告簽名之放棄出席書面；辯方已於同年 10 月 30 日提出。被告指示辯護律師代為處理會議議程所列程序事項及會中提出之其他事項。審判仍預定於 2026 年 11 月 30 日開始。",
+   "context": "杜特蒂被控於擔任達沃市長及菲律賓總統期間，就掃毒戰爭中的殺人行為犯下危害人類罪，第一預審分庭已確認全部罪狀並移付審判，審判預定 2026 年 11 月 30 日在海牙開始。\n開審前，第三審判分庭以狀態會議處理證據開示、證人證詞採用、被害人參與等準備事項；檢、辯及被害人代理人近日正就依《程序及證據規則》第 68 條採用證人先前證詞進行書狀攻防。",
+   "facts": [
+    "依報導，杜特蒂於 2026 年 10 月 28 日通知分庭，表示欲放棄出席第五次狀態會議。",
+    "第三審判分庭（審判長 Joanna Korner，法官 Keebong Paek、Nicolas Guillou）於 10 月 29 日准許，並命辯方提出經被告簽名的放棄出席書面。",
+    "辯方於 10 月 30 日向分庭提出已簽名的放棄出席書面。",
+    "杜特蒂指示律師代為處理議程上的程序事項及會中可能提出的其他事項。",
+    "第五次狀態會議訂於 2026 年 11 月 2 日舉行。"
+   ],
+   "issues": [
+    "被告於審前程序放棄在場權（《羅馬規約》第 63 條、第 67 條第 1 項 d 款）。"
+   ],
+   "holding": "審判分庭准許被告放棄出席第五次狀態會議；報導未提及分庭就其他事項作成決定。",
+   "significance": "屬程序性安排，不影響審判期日。11 月 2 日狀態會議預料將處理開審前尚待解決的事項，例如先前證詞的採用與新一批被害人參與申請。",
+   "editorNote": "本網頁助理 註：本則依 Manila Times 報導撰寫，未能取得分庭命令或辯方書狀原文，也無法讀取國際刑事法院官方網站；titleOriginal 為本網頁助理依報導擬定的描述，並非文件正式名稱。以下為本網頁助理補充，非來源內容：「issues」所列規約條文及「significance」所稱狀態會議可能處理的事項，係本網頁助理依本案先前進展所作的推論。",
+   "tags": [
+    "國際刑事法院",
+    "菲律賓",
+    "杜特蒂",
+    "危害人類罪",
+    "狀態會議"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院杜特蒂案頁面",
+     "url": "https://www.icc-cpi.int/philippines/duterte",
+     "official": true
+    },
+    {
+     "label": "Manila Times 報導",
+     "url": "https://www.manilatimes.net/2026/10/31/news/duterte-waives-appearance-at-icc-status-conference/2458657",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-10-31T23:04:26+08:00",
+   "related": [
+    "2026-10-30-icc-duterte-96-victim-applicants"
+   ]
   }
  ],
  "agenda": [
@@ -5049,10 +5103,10 @@
    "id": "2026-11-02-icc-duterte-status-conference",
    "date": "2026-11-02",
    "court": "ICC",
-   "title": "杜特蒂案審前狀態會議",
-   "note": "第三審判分庭；日期僅見於菲律賓媒體報導。",
+   "title": "杜特蒂案第五次狀態會議",
+   "note": "第三審判分庭；被告已放棄出席，由律師代理。日期僅見於菲律賓媒體報導。",
    "url": "",
-   "relatedId": "2026-10-23-icc-duterte-rule68-requests",
+   "relatedId": "2026-10-31-icc-duterte-waiver-status-conference",
    "caseId": "icc-duterte"
   },
   {
@@ -5164,7 +5218,7 @@
    "nameOriginal": "The Prosecutor v. Rodrigo Roa Duterte",
    "caseRef": "ICC-01/21",
    "summary": "菲律賓前總統杜特蒂被控三項危害人類罪。",
-   "status": "已認定具受審能力；檢、辯及被害人方正就採用證人先前錄製證詞攻防，另有 96 名被害人新申請參與待審判分庭決定，狀態會議訂於 11 月 2 日，審判預定於 2026 年 11 月 30 日開始。"
+   "status": "已認定具受審能力；第五次狀態會議訂於 11 月 2 日（被告已放棄出席），先前證詞採用與 96 名被害人新申請尚待審判分庭決定，審判預定於 2026 年 11 月 30 日開始。"
   },
   {
    "id": "icc-afghanistan",
