@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-01T23:28:06+08:00",
-  "lastRunLocal": "2026-11-01 23:28",
+  "lastRun": "2026-11-02T07:25:44+08:00",
+  "lastRunLocal": "2026-11-02 07:25",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：美國 1（政策動態 1）"
+  "lastRunNote": "新增 2 則：美國 2（執法案件 1、實務評論 1）"
  },
  "items": [
   {
@@ -3116,7 +3116,8 @@
    ],
    "related": [
     "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline",
-    "2026-10-30-fin-cftc-selig-binance-hack-registration"
+    "2026-10-30-fin-cftc-selig-binance-hack-registration",
+    "2026-10-31-fin-fbi-binance-tradertraitor-blocklist"
    ],
    "sources": [
     {
@@ -3183,7 +3184,8 @@
    ],
    "related": [
     "2026-10-05-fin-cftc-anprm-ctx-cam",
-    "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody"
+    "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody",
+    "2026-10-31-fin-fbi-binance-tradertraitor-blocklist"
    ],
    "sources": [
     {
@@ -3342,6 +3344,131 @@
     }
    ],
    "addedAt": "2026-11-01T23:28:06+08:00"
+  },
+  {
+   "id": "2026-10-31-fin-fbi-binance-tradertraitor-blocklist",
+   "court": "US",
+   "kind": "執法案件",
+   "caseId": "binance-2026-hack-response",
+   "jurisdiction": "美國",
+   "outlet": "CoinDesk",
+   "outletCode": "CD",
+   "date": "2026-10-31",
+   "eventDate": "2026-10-31",
+   "importance": 2,
+   "author": "",
+   "title": "FBI 認定北韓 TraderTraitor 為幣安 63 億美元駭案主謀，公布 628 個洗錢地址並呼籲 DeFi 與虛擬資產業者封鎖相關交易",
+   "shortTitle": "FBI 認定北韓駭幣安、籲業者封鎖地址",
+   "point": "公布 628 個地址，點名 THORNode、RPC 節點與 DeFi 服務配合封鎖",
+   "titleOriginal": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+   "caseRef": "",
+   "tldr": "美國聯邦調查局（FBI）10 月 31 日正式認定，幣安約 63 億美元的被駭案是北韓駭客組織 TraderTraitor 所為，並公布 600 多個用來洗錢的區塊鏈地址，請 DeFi 協議、節點營運者、即時兌換服務和區塊鏈分析公司等業者封鎖與這些地址有關的交易。",
+   "memo": "依 CoinDesk 及 Hackread 2026 年 10 月 31 日報導，美國聯邦調查局（FBI）於同日發布通知，認定 2026 年 10 月 29 日前後發生之幣安約 63 億美元虛擬資產遭竊案係北韓駭客組織 TraderTraitor 所為，並公布其用以洗錢之 628 個地址（以太坊 608 個、比特幣 19 個、Solana 1 個），呼籲 THORNode 營運者、RPC 節點營運者、即時兌換服務、DeFi 服務、區塊鏈分析業者及其他虛擬資產服務提供者封鎖涉及上開地址或其衍生資金之交易。依報導，通知未伴隨美國財政部外國資產管制辦公室（OFAC）之制裁指定。",
+   "context": "幣安於 2026 年 10 月 29 日前後遭駭，損失約 63 億美元（各報導數字介於 60 億至 64 億美元），為史上最大宗加密資產竊案；區塊鏈分析業者早已將其連結至北韓。\nCFTC 主席 Selig 已藉此事件呼籲交易所向 CFTC 註冊，台灣金管會與央行亦提醒民眾慎選境外平台並表示將從嚴規範保管業者。\nTraderTraitor 一般被認為屬北韓 Lazarus Group 旗下單位，FBI 過去在 Bybit 等大型駭案亦曾公布地址並呼籲業者封鎖。",
+   "facts": [
+    "FBI 於 2026 年 10 月 31 日（週六）發布通知，依報導係與美國特勤局（USSS）及國稅局刑事調查處（IRS-CI）共同發布或共同調查。",
+    "通知認定北韓 TraderTraitor 為竊案主謀，竊案發生於 2026 年 10 月 29 日前後。",
+    "依 Hackread 報導，通知列出 628 個地址：以太坊 608 個、比特幣 19 個、Solana 1 個；CoinDesk 報導為逾 600 個以太坊地址、近 20 個比特幣地址及 1 個 Solana 地址。",
+    "FBI 呼籲 THORNode 營運者、RPC 節點營運者、即時兌換服務、DeFi 服務、區塊鏈分析業者及其他虛擬資產服務提供者封鎖涉及上開地址及其衍生資金之交易，並預期駭客將利用兌換服務與 DeFi 工具持續洗錢。",
+    "依 CoinDesk 報導，穩定幣發行人已凍結逾 24 億美元遭竊資金；幣安稱已補足約九成遭竊資產並恢復提款。",
+    "報導未提及 OFAC 制裁或財政部其他措施。"
+   ],
+   "issues": [
+    "FBI 的封鎖呼籲對無中心營運者的 DeFi 協議、節點營運者是否具有法律拘束力？未配合者是否可能面臨制裁或洗錢防制責任？",
+    "去中心化跨鏈兌換服務是否應被納入虛擬資產服務提供者（VASP）之洗錢防制義務範圍？",
+    "後續是否將由 OFAC 對相關地址作出制裁指定，使封鎖成為法定義務？"
+   ],
+   "holding": "・FBI 認定北韓 TraderTraitor 為幣安駭案主謀。\n・公布 628 個洗錢地址（以太坊 608、比特幣 19、Solana 1）。\n・呼籲 THORNode 與 RPC 節點營運者、即時兌換、DeFi 服務、區塊鏈分析業者及其他 VASP 封鎖涉及上開地址及其衍生資金之交易。\n・預期駭客將持續利用兌換服務及 DeFi 工具洗錢，並請知情者向 IC3 或 FBI 地方分局通報。",
+   "significance": "本案為 FBI 首度針對規模達數十億美元的竊案，公開點名 DeFi 基礎設施（含節點營運者）配合封鎖，凸顯去中心化服務在洗錢防制上的定位問題，亦可能影響美國市場結構立法與 CFTC 註冊路徑的討論。後續應觀察 OFAC 是否將地址列入制裁名單、THORChain 等協議是否配合，以及各國監理機關對境外交易所的後續措施。",
+   "editorNote": "本網頁助理 註：FBI 官方網站拒絕自動讀取，本則依 CoinDesk、Hackread 及 CryptoTicker 報導整理；共同發布機關及地址數量依各報導略有出入，以 Hackread 所列數字為準。",
+   "tags": [
+    "洗錢防制",
+    "加密資產",
+    "DeFi",
+    "北韓",
+    "幣安",
+    "FBI",
+    "美國"
+   ],
+   "related": [
+    "2026-10-30-fin-cftc-selig-binance-hack-registration",
+    "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody",
+    "2026-10-31-fin-efri-binance-stablecoin-freeze-analysis"
+   ],
+   "sources": [
+    {
+     "label": "CoinDesk 報導",
+     "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+     "official": false
+    },
+    {
+     "label": "Hackread 報導（地址數量）",
+     "url": "https://hackread.com/fbi-crypto-wallet-addresses-north-korea-binance-hack/",
+     "official": false
+    },
+    {
+     "label": "CryptoTicker 報導",
+     "url": "https://cryptoticker.io/en/binance-hack-fbi-blocklist-addresses/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-02T07:25:44+08:00"
+  },
+  {
+   "id": "2026-10-31-fin-efri-binance-stablecoin-freeze-analysis",
+   "court": "US",
+   "kind": "實務評論",
+   "caseId": "binance-2026-hack-response",
+   "jurisdiction": "美國；歐盟",
+   "outlet": "European Funds Recovery Initiative（EFRI）",
+   "outletCode": "EFRI",
+   "date": "2026-10-31",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Elfriede Sixt（EFRI）",
+   "title": "EFRI 評析幣安駭案中的穩定幣凍結：發行人有能力凍結，但法律依據與受害人取得管道仍欠明確",
+   "shortTitle": "評論：幣安駭案凸顯穩定幣凍結法律依據",
+   "point": "Tether 與 Circle 約 40 分鐘內凍結約 18 億美元，但未說明法律依據",
+   "titleOriginal": "Thirty-seven minutes: the Binance freezes show what stablecoin issuers can do, and who gets access to it",
+   "caseRef": "",
+   "tldr": "維也納的投資人求償組織 EFRI 發文分析，幣安被駭後穩定幣發行人很快就凍結了大筆贓款，證明技術上做得到；但凍結的法律依據沒有公開說明，一般詐騙受害人也很難得到同樣快速的協助。作者主張美歐應建立受害人可用的快速凍結管道與司法審查機制。",
+   "memo": "本則為評論。歐洲基金追償倡議組織（EFRI）Elfriede Sixt 於 2026 年 10 月 31 日發表評析，指出幣安於 10 月 29 日遭駭後，Tether 及 Circle 約於 40 分鐘內、在無法院命令下凍結約 18 億美元穩定幣，惟未說明法律依據；美國 GENIUS Act 第 4(a)(6)(B) 條僅要求發行人具備遵循合法命令之技術能力，是否得或應主動凍結尚無明文，歐盟 MiCA 亦無相應規定。作者主張美歐應建立受害人快速凍結管道、公開證據標準並設置司法審查及返還程序。",
+   "context": "美國 GENIUS Act 要求支付型穩定幣發行人具備依「合法命令」凍結、扣押或拒絕交易的技術能力，並授權財政部訂定封鎖、凍結程序規則；依 OCC 施行規則，法律於 2027 年 1 月 18 日生效。\n歐盟 MiCA 對電子貨幣代幣發行人未設類似之凍結能力規定；歐盟資產追回與沒收指令（Directive (EU) 2024/1260）轉置期限為 2026 年 11 月 23 日。\n幣安於 2026 年 10 月 29 日前後遭駭約 63 億美元，FBI 已認定為北韓 TraderTraitor 所為。",
+   "facts": [
+    "作者稱 Tether 與 Circle 於駭案發生後約 40 分鐘內凍結約 18 億美元遭竊穩定幣，當時尚無任何法院命令。",
+    "作者指出首波凍結未公開說明法律依據，而 Circle 過去曾拒絕在無執法機關或法院請求下凍結。",
+    "作者援引 GENIUS Act 第 2(16) 條、第 4(a)(5) 條及第 4(a)(6)(B) 條，以及美國國會研究處對發行人是否得主動凍結未有明文之說明。",
+    "作者援引 MiCA 第 48、49、55 條及第 94(3) 條，以及 Directive (EU) 2024/1260 第 11 條。",
+    "文中以美國俄亥俄州比特幣竊案及 EFRI 經手之歐洲調查令案件（228 日始獲回覆）說明一般受害人取得凍結之困難。"
+   ],
+   "issues": [
+    "穩定幣發行人在無法院或主管機關命令下主動凍結代幣，法律依據為何？是否需受司法審查？",
+    "GENIUS Act 施行後，財政部的封鎖凍結程序規則應否規範發行人主動凍結及受害人請求？",
+    "MiCA 修正檢討是否應增訂電子貨幣代幣的凍結能力與程序規定？"
+   ],
+   "holding": "・凍結「能力」不等於凍結的「法律依據」，也不決定資金歸屬；三者應分開討論。\n・GENIUS Act 僅要求遵循最終法院或機關命令的技術能力，未明文賦予或課予主動凍結權義務。\n・MiCA 無相應規定，監理機關請求凍結權限限於市場濫用任務。\n・快速凍結目前主要由大型交易所透過業界合作機制取得，一般受害人缺乏同等管道。\n・建議美歐建立指定的快速通報管道、公開證據標準、要求凍結時說明法律依據並設司法審查與返還程序。",
+   "significance": "幣安駭案中穩定幣凍結金額龐大，使發行人凍結權限問題從理論走向實務。可觀察美國財政部依 GENIUS Act 訂定的封鎖凍結規則、歐盟 MiCA 檢討，以及 Directive (EU) 2024/1260 於 2026 年 11 月 23 日轉置期限屆至後各國的實施情形。",
+   "editorNote": "本則為評論，內容代表作者個人見解，非官方立場。本網頁助理 註：EFRI 為代表詐騙受害人之非營利組織，文章帶有倡議性質；文中凍結金額為事件初期數字，CoinDesk 其後報導穩定幣發行人凍結總額逾 24 億美元。",
+   "tags": [
+    "穩定幣",
+    "洗錢防制",
+    "GENIUS Act",
+    "MiCA",
+    "幣安",
+    "美國",
+    "歐盟"
+   ],
+   "related": [
+    "2026-10-31-fin-fbi-binance-tradertraitor-blocklist"
+   ],
+   "sources": [
+    {
+     "label": "EFRI 分析",
+     "url": "https://efri.io/thirty-seven-minutes-the-binance-freezes-show-what-stablecoin-issuers-can-do-and-who-gets-access-to-it/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-02T07:25:44+08:00"
   }
  ],
  "agenda": [
@@ -3731,6 +3858,17 @@
    "caseRef": "",
    "summary": "巴西中央銀行依第 14,478/2022 號法律及 2025 年 11 月發布的決議，對虛擬資產服務商實施許可制，2026 年 2 月 2 日生效。",
    "status": "既有業者第一階段申請期限已於 2026 年 10 月 30 日屆至，依報導約 38 家申請；金融機構往來限制將於 11 月 6 日施行。"
+  },
+  {
+   "id": "binance-2026-hack-response",
+   "type": "議題",
+   "court": "OTHER",
+   "forum": "美國聯邦調查局（FBI）、各國金融監理機關",
+   "name": "幣安 2026 年駭案之監理與執法因應",
+   "nameOriginal": "Binance October 2026 hack – regulatory and enforcement response",
+   "caseRef": "",
+   "summary": "幣安於 2026 年 10 月 29 日前後遭竊約 63 億美元虛擬資產，引發各國執法機關追查洗錢及監理機關對境外交易所、保管與穩定幣凍結機制之檢討。",
+   "status": "FBI 10 月 31 日認定北韓 TraderTraitor 為主謀並公布 628 個地址、呼籲業者封鎖；尚未見 OFAC 制裁指定。"
   }
  ],
  "archives": []
