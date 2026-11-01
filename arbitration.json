@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-01T22:58:49+08:00",
-  "lastRunLocal": "2026-11-01 22:58",
+  "lastRun": "2026-11-02T06:59:19+08:00",
+  "lastRunLocal": "2026-11-02 06:59",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 1 則：商務仲裁 1（實務評論 1）",
+  "lastRunNote": "新增 1 則：投資仲裁 1（案件動態 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -4681,6 +4681,79 @@
     }
    ],
    "addedAt": "2026-11-01T22:58:49+08:00"
+  },
+  {
+   "id": "2026-10-29-arb-alamos-v-turkiye-discontinued",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "ICSID",
+   "outletCode": "ICSID",
+   "date": "2026-10-29",
+   "eventDate": "2026-10-16",
+   "importance": 1,
+   "author": "",
+   "title": "Alamos Gold 對土耳其約 10 億美元的金礦投資仲裁正式終止，ICSID 公開仲裁庭的終止程序命令",
+   "shortTitle": "Alamos Gold 訴土耳其金礦仲裁正式終止",
+   "point": "源於 Kirazlı 金礦執照未獲展延，Alamos 出售土耳其資產後撤回約 10 億美元求償",
+   "titleOriginal": "Alamos Gold Holdings Coöperatief U.A. and Alamos Gold Holdings B.V. v. Republic of Türkiye (ICSID Case No. ARB/21/33), Order of Discontinuance (16 October 2026)",
+   "caseRef": "ICSID Case No. ARB/21/33",
+   "tldr": "加拿大礦業公司 Alamos Gold 的荷蘭子公司，因土耳其未展延其 Kirazlı 金礦等礦業執照，依荷蘭與土耳其的雙邊投資協定在 ICSID 求償約 10 億美元。Alamos 已於 2025 年把土耳其礦區賣給土耳其企業，並約定仲裁先暫停、條件達成後終止；ICSID 於 2026 年 10 月 29 日公開了 10 月 16 日的終止程序命令。",
+   "memo": "ICSID 於 2026 年 10 月 29 日公開 Alamos Gold Holdings Coöperatief U.A. 等訴土耳其案（ICSID Case No. ARB/21/33）仲裁庭於 2026 年 10 月 16 日作成之終止程序命令。本案係申請人依荷蘭—土耳其雙邊投資協定，就土耳其於 2019 年 10 月未展延其 Kirazlı 金礦等礦業執照之措施提起，求償金額約 10 億美元。申請人母公司已於 2025 年 9 月宣布以 4.7 億美元將土耳其礦業資產出售予 Nurol 集團，並約定仲裁程序於契約條件達成後永久終止。",
+   "context": "Alamos Gold 為加拿大礦業公司，透過荷蘭子公司在土耳其恰納卡萊省開發 Kirazlı 金礦，另持有 Ağı Dağı、Çamyurt 等金礦計畫。Kirazlı 礦場已進入建設階段，但土耳其政府於 2019 年 10 月未展延相關礦業執照及許可，工程因而停止。\nAlamos 的兩家荷蘭子公司依荷蘭—土耳其雙邊投資協定向 ICSID 提起仲裁（案號 ARB/21/33），據 UNCTAD 投資爭端資料庫記載，求償金額約 10 億美元。\n2025 年 9 月，Alamos 宣布以 4.7 億美元分三期將土耳其礦業資產出售予土耳其 Nurol 集團，並表示仲裁將維持暫停，待契約約定的里程碑達成後永久終止。",
+   "facts": [
+    "申請人為 Alamos Gold Holdings Coöperatief U.A. 與 Alamos Gold Holdings B.V.，被申請人為土耳其共和國。",
+    "爭議措施為土耳其未展延 Kirazlı 金礦等礦業執照及相關許可，導致建設中的礦場停工。",
+    "2025 年 9 月出售協議約定價金 4.7 億美元，於交割時、交割一週年及兩週年分三期支付（各 1.6 億、1.6 億、1.5 億美元），後兩期由銀行保證擔保。",
+    "仲裁庭於 2026 年 10 月 16 日作成終止程序命令，ICSID 於 2026 年 10 月 29 日在其網站「近期案件」頁面公開。"
+   ],
+   "issues": [
+    "投資人出售被爭議之投資並與地主國相關方達成商業安排後，如何依 ICSID 仲裁規則終止仲裁程序。"
+   ],
+   "holding": "仲裁庭作成終止程序命令，本案程序終結。ICSID 公開的資料僅列出命令名稱與日期；Investment Arbitration Reporter 標題報導本案係「附既判力地」（with prejudice）終止，即申請人不得就同一請求再行提起仲裁。",
+   "significance": "本案為以出售資產換取撤回投資仲裁的實例：投資人藉分期價金與銀行保證確保對價，並以仲裁暫停、條件成就後終止作為擔保機制。土耳其另有 ENCORE Investment Group 訴土耳其案（ICSID Case No. ARB/24/46）等案件仍在進行。",
+   "editorNote": "本網頁助理 註：本則依 ICSID「近期案件」頁面所列命令名稱與日期、UNCTAD 投資爭端資料庫及媒體報導撰寫，尚未取得終止程序命令原文；「附既判力終止」一點僅見於 Investment Arbitration Reporter 標題，本網頁助理未能閱讀其全文。出售協議中的「契約里程碑」具體內容，來源未說明。",
+   "tags": [
+    "ICSID",
+    "土耳其",
+    "荷蘭",
+    "雙邊投資協定",
+    "礦業",
+    "金礦",
+    "終止程序",
+    "和解"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 近期案件頁面（列出終止程序命令）",
+     "url": "https://icsid.worldbank.org/cases/recent?type=published",
+     "official": true
+    },
+    {
+     "label": "UNCTAD 投資爭端資料庫案件頁",
+     "url": "https://investmentpolicy.unctad.org/investment-dispute-settlement/cases/1119/alamos-gold-v-turkey",
+     "official": false
+    },
+    {
+     "label": "Investment Arbitration Reporter 新聞標題",
+     "url": "https://www.iareporter.com/news-and-analysis/",
+     "official": false
+    },
+    {
+     "label": "Canadian Mining Journal 報導（爭議背景）",
+     "url": "https://canadianminingjournal.com/featured-article/the-billion-dollar-standoff-alamos-gold-versus-turkiye",
+     "official": false
+    },
+    {
+     "label": "bilaterals.org 轉載：Alamos 出售土耳其資產",
+     "url": "https://isds.bilaterals.org/canada-s-alamos-exits-turkiye?lang=en",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-02T06:59:19+08:00"
   }
  ],
  "agenda": [
