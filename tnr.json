@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-01T07:13:00+08:00",
-  "lastRunLocal": "2026-11-01 07:13",
+  "lastRun": "2026-11-01T23:16:50+08:00",
+  "lastRunLocal": "2026-11-01 23:16",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "本次未發現新動態"
+  "lastRunNote": "新增 1 則：中國 1（事件 1）"
  },
  "items": [
   {
@@ -872,7 +872,8 @@
     "2026-10-25-tnr-taiwan-hk-residency-revocation",
     "2026-10-27-tnr-taiwan-mofa-2p1r",
     "2026-10-26-tnr-taiwan-tnr-bills-legislature",
-    "2026-10-29-tnr-taiwan-ey-anti-infiltration-amendment"
+    "2026-10-29-tnr-taiwan-ey-anti-infiltration-amendment",
+    "2026-10-31-tnr-taiwan-shen-campaign-cyberattack"
    ],
    "sources": [
     {
@@ -3519,6 +3520,79 @@
     }
    ],
    "addedAt": "2026-10-31T23:14:35+08:00"
+  },
+  {
+   "id": "2026-10-31-tnr-taiwan-shen-campaign-cyberattack",
+   "court": "CN",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "台灣",
+   "outlet": "自由時報、亞洲國際新聞社（ANI，轉述台北時報）",
+   "outletCode": "",
+   "date": "2026-10-31",
+   "eventDate": "2026-10-23",
+   "importance": 1,
+   "author": "",
+   "title": "沈伯洋競選團隊稱網站遭境外入侵並灌入逾 7 萬筆假資料，國安局稱正調查疑源自中國的網攻",
+   "shortTitle": "沈伯洋競選網站遭疑似中國網攻",
+   "point": "後門植入、逾 7 萬筆境外假請求；國安局稱聯合調查，可能移送刑事追訴",
+   "titleOriginal": "中共介選？洋流車掃網站上線遭灌7萬筆假資料 沈伯洋競辦緊急排除；China suspected of cyberattacks targeting Taiwan opposition candidate ahead of key elections",
+   "caseRef": "",
+   "tldr": "民進黨台北市長參選人沈伯洋的競選團隊說，自 10 月 23 日起有人利用網站上傳功能的設定漏洞入侵主機、建立假管理員帳號並植入後門；10 月 28 日新上線的活動報名網站又在一小時內遭境外 IP 灌入 7 萬多筆假資料。依 ANI 轉述台北時報，國安局表示正在調查這些疑似源自中國的攻擊，查明後可能追究刑責。來源是否確為中國，目前尚未證實。",
+   "memo": "依自由時報 2026 年 10 月 28 日及亞洲國際新聞社（ANI）同年 10 月 31 日轉述台北時報之報導，民主進步黨台北市長參選人沈伯洋競選總部稱，自同年 10 月 23 日起，攻擊者利用其所架設網站檔案上傳功能之設定缺失取得主機控制權，建立偽裝管理員帳號並植入遠端控制程式，惟未能取得官方網站登入資料；10 月 28 日新上線之「洋流車掃」認養網站並遭境外 IP 注入逾 7 萬筆假資料。國家安全局副局長陳淞麒於立法院委員會表示，相關疑似源自中國之網路攻擊正由情報團隊聯合調查，查明行為人後可能移送刑事程序。攻擊來源尚未經官方確認。",
+   "context": "沈伯洋原為立法委員，2025 年 10 月遭中國重慶市公安局以涉嫌「分裂國家」立案偵查，並名列中國公布的「台獨頑固分子」名單；他目前是民進黨 2026 年台北市長參選人，地方選舉訂於 11 月 28 日舉行。\n行政院 10 月 22 日已要求檢警調對參選人提供專案保護，以防跨境鎮壓（見本站前則）。",
+   "facts": [
+    "自由時報 10 月 28 日報導，沈伯洋競選總部稱自 10 月 23 日起，攻擊者利用數個競辦自建網站的檔案上傳功能設定缺失，取得主機控制權，建立偽裝管理員帳號並植入遠端控制程式。",
+    "競辦稱攻擊者曾搜尋官方網站的登入資料，但官網採獨立架構、遭入侵主機未存放其金鑰或設定檔，因此未遭入侵。",
+    "競辦 10 月 28 日清早發現異常後移除後門、刪除假帳號、更換所有密碼與金鑰並更新系統。",
+    "同日晚間新上線的「洋流車掃」認養網站，約一小時內遭境外 IP 以惡意程式注入逾 7 萬筆假資料；競辦改為須登入方可認養，稱已恢復正常。",
+    "競辦聲明只稱攻擊來自「境外」IP 與主機，未明指中國；自由時報標題以問句提出「中共介選？」。",
+    "ANI 10 月 31 日轉述台北時報稱，國安局副局長陳淞麒在立法院委員會表示，情報團隊正聯合調查疑似源自中國的網攻，查明者可能移送刑事程序。",
+    "報導未見中國官方回應。"
+   ],
+   "issues": [
+    "對特定參選人（且已遭中國立案偵查者）的網路入侵，是否屬數位形式的跨境鎮壓，抑或主要屬選舉干預？",
+    "網路攻擊的歸因標準與證據門檻；在歸因未確定前，政府如何對外說明。",
+    "《刑法》妨害電腦使用罪與《反滲透法》在處理受境外指使之網攻時的適用。"
+   ],
+   "holding": "・競辦：10 月 23 日起網站主機遭入侵並被植入後門，官網未受影響；10 月 28 日認養網站遭境外 IP 灌入逾 7 萬筆假資料，均已排除並強化防護。\n・國安局（依 ANI 轉述台北時報）：正聯合調查疑似源自中國的網攻，查明後可能移送刑事追訴。\n・中國：報導未見回應。",
+   "significance": "這是選前針對一名已遭中國立案偵查之參選人的數位攻擊指控；後續可觀察國安局與檢警是否公布歸因結果或啟動偵查，以及行政院先前宣示的參選人專案保護是否擴及資安層面。",
+   "editorNote": "本網頁助理 註：攻擊來源目前僅為「疑似」中國，競辦本身只稱「境外」；國安局發言係依 ANI 轉述台北時報，本網頁助理未能直接取得台北時報原文或國安局正式資料。另依 ANI 稱攻擊始於「上週五」，與自由時報所載 10 月 23 日相符，eventDate 依自由時報。\n以下為本網頁助理補充，非來源內容：本則涉及選舉干預與跨境鎮壓的交界，因攻擊對象為已遭中國刑事立案的特定個人而收錄。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "台灣",
+    "網路攻擊",
+    "沈伯洋",
+    "選舉",
+    "國安局"
+   ],
+   "related": [
+    "2026-10-22-tnr-taiwan-ey-candidate-protection"
+   ],
+   "sources": [
+    {
+     "label": "自由時報報導",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5622022",
+     "official": false
+    },
+    {
+     "label": "ANI 報導（轉述台北時報）",
+     "url": "https://www.aninews.in/news/world/asia/china-suspected-of-cyberattacks-targeting-taiwan-opposition-candidate-ahead-of-key-elections20261031180012/",
+     "official": false
+    },
+    {
+     "label": "論壇報（The Tribune）轉載 ANI 報導",
+     "url": "https://www.tribuneindia.com/news/china/china-suspected-of-cyberattacks-targeting-taiwan-opposition-candidate-ahead-of-key-elections",
+     "official": false
+    },
+    {
+     "label": "人權觀察 2025 年聲明（背景：中國對沈伯洋立案偵查）",
+     "url": "https://www.hrw.org/zh-hant/news/2025/10/31/china-dubious-criminal-investigation-of-taiwanese-legislator",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-01T23:16:50+08:00"
   }
  ],
  "agenda": [
