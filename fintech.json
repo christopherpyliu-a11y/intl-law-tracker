@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-01T07:30:10+08:00",
-  "lastRunLocal": "2026-11-01 07:30",
+  "lastRun": "2026-11-01T23:28:06+08:00",
+  "lastRunLocal": "2026-11-01 23:28",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：亞太與其他 1（政策動態 1，補錄中國數位人民幣系統升級）"
+  "lastRunNote": "新增 1 則：美國 1（政策動態 1）"
  },
  "items": [
   {
@@ -3047,7 +3047,8 @@
    ],
    "related": [
     "2026-10-27-fin-cftc-sues-utah-prediction-markets",
-    "2026-10-28-fin-utah-criminal-charges-kalshi"
+    "2026-10-28-fin-utah-criminal-charges-kalshi",
+    "2026-10-30-fin-sec-woodcock-prediction-markets"
    ],
    "sources": [
     {
@@ -3270,6 +3271,77 @@
     }
    ],
    "addedAt": "2026-11-01T07:30:10+08:00"
+  },
+  {
+   "id": "2026-10-30-fin-sec-woodcock-prediction-markets",
+   "court": "SEC",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "路透社（Reuters）",
+   "outletCode": "REUTERS",
+   "date": "2026-10-30",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "SEC 執法處長 Woodcock 受訪表示正監控預測市場內線交易與操縱，並稱連結上市公司財報指標的合約可能屬 SEC 管轄",
+   "shortTitle": "SEC 執法處長：預測市場將納入監控",
+   "point": "連結財報指標的合約可能受 SEC 管轄，但無意以執法代替監理",
+   "titleOriginal": "US SEC's top cop says agency is monitoring AI corporate disclosures; Prediction Markets Face SEC Scrutiny Over Fraud, Enforcement Director Says",
+   "caseRef": "",
+   "tldr": "美國證管會（SEC）執法處長 Woodcock 接受媒體訪問時說，SEC 正和 CFTC 一起盯著 Kalshi、Polymarket 這類預測市場，關注內線交易、詐欺和操縱；押注上市公司財報數字的合約可能歸 SEC 管，未來很可能出現執法案件，但他也說不打算用執法來規範這個新產業。",
+   "memo": "依彭博 2026 年 10 月 29 日及路透社 10 月 30 日報導，美國證券交易委員會執法處長 David Woodcock 受訪表示，SEC 執法人員正與政策部門及商品期貨交易委員會（CFTC）共同監控預測市場，關注內線交易、詐欺及市場操縱，並認為以上市公司營運或盈餘指標為標的之合約可能屬 SEC 管轄範圍，預期未來將有執法行動；惟其亦表示 SEC 無意以執法方式規範此一新興產業。上述內容為受訪發言，並非 SEC 正式聲明或規則。",
+   "context": "預測市場（事件合約）目前主要由 CFTC 依《商品交易法》監理，Kalshi 及 Polymarket 美國業務均以 CFTC 指定契約市場身分營運，近來並與多州就博弈管轄爭訟。\n隨業者推出連結個股與公司財報的合約，SEC 與 CFTC 間的管轄劃分問題浮現；SEC 已核准 Cboe 以公司營運表現為標的之二元選擇權，兩會並於 2026 年 6 月就衍生性商品定義的協調共同徵詢意見。\nWoodcock 自 2026 年 5 月起擔任 SEC 執法處長。",
+   "facts": [
+    "彭博於 2026 年 10 月 29 日、路透社於 10 月 30 日先後刊出 Woodcock 的受訪內容。",
+    "Woodcock 表示 SEC 正密切關注預測市場，執法人員與政策部門及 CFTC 合作監控。",
+    "其稱以上市公司關鍵績效或盈餘指標為標的之交易可能落入 SEC 監理範圍，並預期將來會有執法行動。",
+    "被問及是否對未註冊業者提起訴訟時，其表示 SEC 無意以執法代替監理，不希望扼殺創新。",
+    "同一訪問中，其亦表示 SEC 正檢視 AI 公司的公開揭露是否完整說明重大風險。",
+    "報導未指出任何具體公司或新的起訴案件。"
+   ],
+   "issues": [
+    "連結個股或公司財報的事件合約，究屬 CFTC 管轄的交換／期貨，或屬 SEC 管轄的證券型交換或證券？",
+    "預測市場上的內線交易與操縱，應適用證券法的反詐欺條款或商品交易法的反操縱規定？",
+    "SEC 與 CFTC 如何在衍生性商品定義協調工作中處理事件合約？"
+   ],
+   "holding": "・SEC 執法人員與政策部門及 CFTC 共同監控預測市場，重點為內線交易、詐欺及市場操縱。\n・以上市公司營運或盈餘指標為標的之合約，可能屬 SEC 管轄。\n・預期未來將有相關執法行動，但目前未點名任何業者。\n・SEC 無意以執法方式規範預測市場產業，將在「合理之處」介入。",
+   "significance": "此為 SEC 執法高層首次公開表態可能介入預測市場，顯示事件合約除面臨各州博弈法挑戰外，也可能面臨聯邦證券法的管轄主張。後續可觀察 SEC 與 CFTC 衍生性商品定義協調的結果，以及是否出現首件涉及預測市場的 SEC 內線交易案。",
+   "editorNote": "本網頁助理 註：本則依媒體報導整理，屬受訪發言而非 SEC 正式文件；彭博原文未能開啟，內容取自路透社轉載稿及 TokenPost、crypto.news 的轉述。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "內線交易",
+    "SEC",
+    "CFTC",
+    "美國"
+   ],
+   "related": [
+    "2026-10-29-fin-kalshi-sues-missouri"
+   ],
+   "sources": [
+    {
+     "label": "路透社報導（KFGO 轉載）",
+     "url": "https://kfgo.com/2026/10/30/us-secs-top-cop-says-agency-is-monitoring-ai-corporate-disclosures/",
+     "official": false
+    },
+    {
+     "label": "彭博報導",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-29/sec-eyes-manipulation-insider-risk-in-prediction-markets",
+     "official": false
+    },
+    {
+     "label": "TokenPost 報導",
+     "url": "https://www.tokenpost.com/news/regulation/43968",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/sec-prediction-markets-insider-trading-enforcement",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-01T23:28:06+08:00"
   }
  ],
  "agenda": [
