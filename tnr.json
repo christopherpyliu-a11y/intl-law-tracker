@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-02T07:14:04+08:00",
-  "lastRunLocal": "2026-11-02 07:14",
+  "lastRun": "2026-11-03T00:24:09+08:00",
+  "lastRunLocal": "2026-11-03 00:24",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "本次未發現新動態"
+  "lastRunNote": "新增 2 則：其他 1（司法案件 1）、伊朗 1（調查報導 1）"
  },
  "items": [
   {
@@ -3193,7 +3193,8 @@
    ],
    "related": [
     "2026-10-28-tnr-mwaipaya-habeas-corpus",
-    "2026-10-28-tnr-afp-kenya-dissident-refuge"
+    "2026-10-28-tnr-afp-kenya-dissident-refuge",
+    "2026-11-02-tnr-mwaipaya-court-summons-ig"
    ],
    "sources": [
     {
@@ -3593,17 +3594,135 @@
     }
    ],
    "addedAt": "2026-11-01T23:16:50+08:00"
+  },
+  {
+   "id": "2026-11-02-tnr-mwaipaya-court-summons-ig",
+   "court": "OTHER",
+   "kind": "司法案件",
+   "caseId": "mwaipaya-kenya-abduction",
+   "jurisdiction": "肯亞",
+   "outlet": "Kenyans.co.ke",
+   "outletCode": "",
+   "date": "2026-11-02",
+   "eventDate": "2026-11-02",
+   "importance": 2,
+   "author": "",
+   "title": "肯亞警方未依令交出遭擄坦尚尼亞運動者 Mwaipaya，法院傳喚警察總長 Kanja 親自說明是否遭遣送回坦尚尼亞",
+   "shortTitle": "肯亞法院傳喚警察總長說明 Mwaipaya 下落",
+   "point": "國家律師稱人不在警方或刑事調查局手中；警察總長須於 11 月 3 日到庭",
+   "titleOriginal": "Court Summons IG Kanja to Explain Disappearance of Tanzanian Activist Twaha Mwaipaya",
+   "caseRef": "",
+   "tldr": "肯亞法院先前命警方「不論生死」交出 10 月 25 日在肯亞被擄走的坦尚尼亞運動者 Mwaipaya。11 月 2 日開庭時，政府律師說人不在警方手上、調查仍在進行，但沒有交人。法官不滿政府未提出書面宣誓陳述，傳喚警察總長 Kanja 11 月 3 日到庭，說明 Mwaipaya 是否被國家人員不當遣送回坦尚尼亞。",
+   "memo": "依 Kenyans.co.ke 及 Citizen Digital 2026 年 11 月 2 日報導，肯亞高等法院（Milimani）法官 Alexander Muteti 於同日審理 Vocal Africa 就坦尚尼亞運動者 Twaha Mwaipaya 遭擄所提人身保護令聲請。國家律師代表警察總長及刑事調查局局長主張 Mwaipaya 未在其羈押中、調查仍在進行，並請求延期提出調查結果；聲請人代理人 Martha Karua 主張警方怠於調查並已違反交人命令。法院認國家應就此重大案件提出宣誓書，傳喚警察總長 Douglas Kanja 於 11 月 3 日到庭，說明 Mwaipaya 是否遭國家人員不當移出肯亞並遣返坦尚尼亞及其現況；未另傳喚刑事調查局局長。",
+   "context": "Mwaipaya 為坦尚尼亞反對黨 Chadema 青年幹部，依國際特赦組織肯亞分會等指控，於 10 月 25 日在肯亞遭不明人士擄走。Vocal Africa 10 月 27 日聲請人身保護令，法院 10 月 30 日命警察總長、刑事調查局及 Ruai 警察局「不論生死」交人並出示羈押令狀，11 月 2 日續審（見相關前則）。\n人權團體近年多次指控東非國家相互協助，在他國擄走或遣返異議人士。",
+   "facts": [
+    "11 月 2 日續審時，相對人未將 Mwaipaya 解送到庭。",
+    "國家律師 Marwa 代表警察總長及刑事調查局局長反對聲請，稱 Mwaipaya 不在兩機關羈押中、調查仍在進行，並請求給予時間提出調查結果；依 Citizen Digital 報導，國家律師並稱聲請人已放棄交人命令。",
+    "聲請人代理人、人民解放黨領袖 Martha Karua 稱警方 10 月 25 日即獲報，卻稱 10 月 26 日始開始調查，質疑警方怠於處理；並主張警方僅派兩名低階員警出庭不足，兩位首長應親自到庭，且警方已違反交人命令。",
+    "法官 Muteti 表示國家考量案件嚴重性，本應提出宣誓書，並稱涉及外國人人身自由的案件，檢察總長應協助法院。",
+    "法院傳喚警察總長 Douglas Kanja 於 11 月 3 日到庭，說明 Mwaipaya 是否遭國家人員不當移出肯亞並遣返坦尚尼亞，以及其下落；以警察總長統轄警務為由，未另傳喚刑事調查局局長。"
+   ],
+   "issues": [
+    "警方未依人身保護令交人，又未提出宣誓書，是否構成藐視法庭？",
+    "若 Mwaipaya 已被移交坦尚尼亞，是否構成規避引渡程序的非法移送與強迫失蹤？"
+   ],
+   "holding": "・國家立場：Mwaipaya 未在警察總長或刑事調查局羈押中，調查進行中，請求延期提出調查結果。\n・聲請人立場：警方怠於調查、違反交人命令，要求兩位首長親自到庭。\n・法院：國家應就本案提出宣誓書；傳喚警察總長 Kanja 11 月 3 日到庭說明 Mwaipaya 是否遭遣返坦尚尼亞及其下落；不另傳喚刑事調查局局長。",
+   "significance": "法院首度要求警察首長就「是否由國家人員遣送回坦尚尼亞」親自說明，若查明屬實，將成為東非國家合作跨境擄人的重要司法紀錄。後續觀察 11 月 3 日 Kanja 是否到庭及其說明內容。",
+   "editorNote": "本網頁助理 註：Kenyans.co.ke 稱國家律師表示警方 10 月 26 日開始調查，Citizen Digital 則引 Karua 之語稱警方「不能說週五才開始調查」，兩則報導就警方開始調查日期的描述不同。Capital FM 與 allAfrica 相關報導本次無法讀取。",
+   "tags": [
+    "跨國鎮壓",
+    "坦尚尼亞",
+    "肯亞",
+    "擄人",
+    "強迫失蹤",
+    "人身保護令",
+    "Chadema",
+    "東非"
+   ],
+   "related": [
+    "2026-10-30-tnr-mwaipaya-court-produce-order"
+   ],
+   "sources": [
+    {
+     "label": "Kenyans.co.ke 報導",
+     "url": "https://www.kenyans.co.ke/news/129073-court-summons-ig-kanja-explain-disappearance-tanzanian-activist-twaha-mwaipaya",
+     "official": false
+    },
+    {
+     "label": "Citizen Digital 報導",
+     "url": "https://citizen.digital/article/petitioners-want-ig-kanja-dci-amin-in-court-to-explain-tanzanian-activist-whereabouts-n393181",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T00:24:09+08:00"
+  },
+  {
+   "id": "2026-11-02-tnr-iran-telegram-doxxing-uk-exiles",
+   "court": "IR",
+   "kind": "調查報導",
+   "caseId": "",
+   "jurisdiction": "英國、歐洲",
+   "outlet": "Metro（經 Brit Brief 等轉載）",
+   "outletCode": "",
+   "date": "2026-11-01",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "英媒稱親伊朗政府 Telegram 網絡再度公開在英流亡運動者個資，伊朗大使館否認涉入",
+   "shortTitle": "親伊朗頻道再公開英國流亡者個資",
+   "point": "英伊運動者稱電話與生日遭公布並報警；伊朗大使館稱指控「毫無根據」",
+   "titleOriginal": "Iran 'kill list' Telegram pages active again targeting UK exiles",
+   "caseRef": "",
+   "tldr": "英國 Metro 報導，一個被稱為「Bay of Pigs」的親伊朗政府 Telegram 帳號網絡，沉寂數月後又開始公布住在英國與歐洲的伊朗流亡運動者的地址、工作地點等個資，稱他們是「海外叛徒」。一名英伊運動者已向反恐警察報案；伊朗駐英大使館否認涉入。",
+   "memo": "依英國 Metro 報導（經 Brit Brief 2026 年 11 月 1 日及 Linda Ikeji's Blog 11 月 2 日轉載），名為「Bay of Pigs」之親伊朗政府 Telegram 帳號網絡於主頻道停用後，以區域性小型頻道恢復公開在英國及歐洲之伊朗裔運動者住址、行蹤、工作地點及就讀學校等個人資料，並稱其為「海外叛徒」。英伊運動者 Ali Taranssari 稱其電話及出生日期遭公開並收到威脅訊息，已向反恐警察報案。伊朗駐英大使館否認涉入，稱指控毫無根據；該網絡經營者身分及與伊朗當局之關聯尚未證實。",
+   "context": "Metro 於 2026 年 5 月首度報導此網絡，其主頻道其後停止運作。英國政府近年多次指出伊朗相關威脅，已制裁伊斯蘭革命衛隊及逾 550 個伊朗個人與實體；2026 年 4 月伊朗大使館社群貼文引發爭議後，伊朗大使曾遭英國外交部召見。",
+   "facts": [
+    "依報導，該網絡改以區域性小型頻道張貼英國及歐洲運動者的住址、行蹤、工作地點與大學等資料。",
+    "Ali Taranssari 稱自 4 月起即遭鎖定，近日發現電話號碼與出生日期被公布，並收到盼其死亡等威脅訊息；他已向反恐警察報案，稱此為「暗殺名單」。",
+    "監看該頻道的反恐專家 Roger Macmillan 認為極可能受伊朗指示，並稱之為「跨國數位鎮壓」；此評估未經調查機關證實。",
+    "英國反恐警察稱涉及恐怖主義或國安犯罪的指控會交專責人員評估，但未說明是否已立案偵查；內政部稱嚴肅看待伊朗相關威脅。",
+    "伊朗駐英大使館否認涉入，稱指控「毫無根據」，並稱其活動符合《維也納公約》及英、伊法律。"
+   ],
+   "issues": [
+    "在網路公開流亡者個資並煽動敵意，是否構成英國《國家安全法》或其他法律下的犯罪？",
+    "若無法證明與伊朗政府的關聯，主管機關與平台應如何處理此類數位跨國鎮壓？"
+   ],
+   "holding": "・指控：親伊朗政府 Telegram 網絡恢復公開英國及歐洲伊朗流亡運動者個資（人肉搜索）。\n・受害者：Ali Taranssari 稱電話與生日遭公布、收到威脅，已報警。\n・官方：反恐警察稱將評估相關指控；內政部稱嚴肅看待伊朗威脅。\n・伊朗：大使館否認涉入。\n・未證實：網絡經營者身分及與伊朗當局的關聯。",
+   "significance": "人肉搜索與公開「叛徒名單」是伊朗對海外批評者常見的數位施壓手段，可能升高實體攻擊風險。後續觀察英國警方是否立案，以及 Telegram 是否移除相關頻道。",
+   "editorNote": "本網頁助理 註：本則依 Brit Brief 與 Linda Ikeji's Blog 對 Metro 報導的轉述撰寫，本網頁助理未能取得 Metro 原文網址；轉述內容兩者一致。",
+   "tags": [
+    "跨國鎮壓",
+    "伊朗",
+    "英國",
+    "人肉搜索",
+    "數位監控",
+    "威脅"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Brit Brief 轉述 Metro 報導",
+     "url": "https://britbrief.co.uk/crime/cybercrime/iran-kill-list-telegram-pages-active-again-targeting-uk-exiles.html",
+     "official": false
+    },
+    {
+     "label": "Linda Ikeji's Blog 轉述 Metro 報導",
+     "url": "https://www.lindaikejisblog.com/2026/11/irans-kill-list-still-exposing-details-of-traitors-living-in-exile-in-uk.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T00:24:09+08:00"
   }
  ],
  "agenda": [
   {
-   "id": "2026-11-02-other-mwaipaya-habeas-hearing",
-   "date": "2026-11-02",
+   "id": "2026-11-03-other-mwaipaya-ig-appearance",
+   "date": "2026-11-03",
    "court": "OTHER",
-   "title": "Mwaipaya 人身保護令案續審（肯亞高等法院）",
-   "note": "奈洛比 Milimani 高等法院，上午 11 時（當地時間）；相對人須於上午 9 時前提出答辯，日期可能變動。",
-   "url": "https://citizen.digital/article/court-orders-state-to-produce-tanzanian-activist-twaha-mwaipaya-dead-or-alive-n393035",
-   "relatedId": "2026-10-30-tnr-mwaipaya-court-produce-order",
+   "title": "警察總長 Kanja 到庭說明 Mwaipaya 下落（肯亞高等法院）",
+   "note": "奈洛比 Milimani 高等法院；報導未載時間，日期可能變動。",
+   "url": "https://www.kenyans.co.ke/news/129073-court-summons-ig-kanja-explain-disappearance-tanzanian-activist-twaha-mwaipaya",
+   "relatedId": "2026-11-02-tnr-mwaipaya-court-summons-ig",
    "caseId": "mwaipaya-kenya-abduction"
   },
   {
@@ -3767,7 +3886,7 @@
    "nameOriginal": "Abduction of Twaha Mwaipaya in Kenya",
    "caseRef": "",
    "summary": "坦尚尼亞反對黨 Chadema 前青年幹部 Mwaipaya 於 2026 年 10 月 25 日在肯亞 Machakos 郡遭不明人士擄走，人權團體擔憂屬跨國鎮壓。",
-   "status": "仍下落不明；肯亞高等法院 10 月 30 日命警察總長等「不論生死」將其解送到庭並出示羈押令狀，11 月 2 日續審。"
+   "status": "仍下落不明；警方 11 月 2 日未依令交人，國家律師稱人不在警方手中，法院傳喚警察總長 Kanja 於 11 月 3 日到庭說明是否遭遣返坦尚尼亞。"
   },
   {
    "id": "bai-zhaodong-thailand-extradition",
