@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-02T06:59:19+08:00",
-  "lastRunLocal": "2026-11-02 06:59",
+  "lastRun": "2026-11-02T23:13:13+08:00",
+  "lastRunLocal": "2026-11-02 23:13",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 1 則：投資仲裁 1（案件動態 1）",
+  "lastRunNote": "新增 3 則：商務仲裁 2（法院裁判 1、評論 1）、投資仲裁 1（法院裁判 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -300,7 +300,9 @@
     "國營事業",
     "伊拉克"
    ],
-   "related": [],
+   "related": [
+    "2026-11-02-arb-insc-vedanta-ravva-enforcement-slp-dismissed"
+   ],
    "sources": [
     {
      "label": "Bar and Bench 報導",
@@ -2979,7 +2981,8 @@
     "第54條"
    ],
    "related": [
-    "2026-10-19-arb-sgca-nextera-spain-immunity"
+    "2026-10-19-arb-sgca-nextera-spain-immunity",
+    "2026-11-02-arb-ewca-operafund-spain-blasket-assignment"
    ],
    "sources": [
     {
@@ -4754,6 +4757,196 @@
     }
    ],
    "addedAt": "2026-11-02T06:59:19+08:00"
+  },
+  {
+   "id": "2026-11-02-arb-ewca-operafund-spain-blasket-assignment",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "investment",
+   "caseId": "operafund-v-spain",
+   "jurisdiction": "英國",
+   "outlet": "英國上訴法院",
+   "outletCode": "EWCA",
+   "date": "2026-11-02",
+   "eventDate": "2026-11-02",
+   "importance": 3,
+   "author": "",
+   "title": "英國上訴法院維持 ICSID 判斷不得讓與執行：Blasket 不能取代 OperaFund 對西班牙聲請執行",
+   "shortTitle": "英國上訴法院：ICSID 判斷債權受讓人不能接手執行",
+   "point": "Blasket 不得取代原投資人執行對西班牙約 2,930 萬歐元判斷，維持一審見解",
+   "titleOriginal": "OperaFund Eco-Invest SICAV plc and Schwab Holding AG v Kingdom of Spain (Blasket Renewable Investments LLC, appellant), [2026] EWCA Civ 1392",
+   "caseRef": "[2026] EWCA Civ 1392; [2025] EWHC 2874 (Comm); CL-2021-000481",
+   "tldr": "兩家投資人依能源憲章條約在 ICSID 贏得對西班牙約 2,930 萬歐元的仲裁判斷，後來把判斷的權利賣給專門收購判斷債權的 Blasket。英國上訴法院認為，依 ICSID 公約只有仲裁當事人本人可以聲請承認與執行，Blasket 不能在英國的執行程序中取代原投資人。",
+   "memo": "英國上訴法院（Foxton、Lewison、Males 三位法官）於 2026 年 11 月 2 日就 OperaFund 訴西班牙案（[2026] EWCA Civ 1392）駁回 Blasket Renewable Investments 之上訴，維持商事法院 [2025] EWHC 2874 (Comm) 判決，不准 Blasket 依民事訴訟規則第 19.2(4) 條取代原投資人為執行程序之聲請人。法院大致採原審理由，認為依 ICSID 公約第 54 條第 2 項僅仲裁當事人得聲請承認與執行，1966 年仲裁（國際投資爭端）法第 2 條之登記亦未創設可讓與之新權利；並認依現行習慣國際法，條約權利未經義務國同意不得讓與，投資人對地主國之權利亦屬源自條約之國際法權利。",
+   "context": "OperaFund Eco-Invest SICAV 與 Schwab Holding 於 2015 年 7 月依能源憲章條約對西班牙提起 ICSID 仲裁，爭議源於西班牙削減再生能源補貼；仲裁庭於 2019 年 9 月 6 日作成判斷，同年 10 月 28 日更正後確定，判賠約 2,930 萬歐元。\n投資人於英國依 1966 年仲裁（國際投資爭端）法聲請登記判斷，商事法院於 2021 年 9 月 14 日准予登記；西班牙於 2023 年 1 月 6 日聲請撤銷登記，主要援引 1978 年國家豁免法第 1 條第 1 項。投資人於 2024 年 1 月 31 日依瑞士法契約將判斷之一切權利讓與 Blasket，Blasket 於 2024 年 7 月聲請取代原投資人為程序當事人。\n西班牙之豁免異議因等待英國最高法院 Infrastructure Services Luxembourg 訴西班牙案而延後審理；最高法院已於 2026 年 3 月 4 日駁回西班牙上訴（[2026] UKSC 9）。商事法院 HHJ Pelling KC 於 2025 年以 [2025] EWHC 2874 (Comm) 駁回 Blasket 之取代聲請，Blasket 提起上訴，上訴法院於 2026 年 10 月 6、7 日審理。",
+   "facts": [
+    "仲裁判斷作成於 2019 年 9 月 6 日，判命西班牙賠償約 2,930 萬歐元。",
+    "商事法院於 2021 年 9 月 14 日依 1966 年法准予登記判斷；西班牙於 2023 年 1 月以國家豁免等理由聲請撤銷登記。",
+    "原投資人於 2024 年 1 月 31 日依瑞士法契約將判斷之一切權利與利益讓與 Blasket，Blasket 於 2024 年 7 月 25 日聲請取代為聲請人。",
+    "商事法院於 2025 年駁回取代聲請，Blasket 上訴。"
+   ],
+   "issues": [
+    "ICSID 判斷之債權得否讓與，受讓人得否聲請承認與執行（ICSID 公約第 54 條第 2 項）。",
+    "能源憲章條約第 15 條（代位）是否排除判斷之讓與。",
+    "依 1966 年仲裁（國際投資爭端）法第 2 條登記判斷，是否創設得依英國法讓與之新權利。",
+    "依習慣國際法，投資人源自條約之權利得否未經地主國同意而讓與。"
+   ],
+   "holding": "・上訴法院駁回上訴，表示原審在兩項理由上均屬正確，大致採原審之理由，但部分論理不同。\n・ICSID 公約與 1966 年法：原審認為依第 54 條第 2 項僅仲裁當事人得聲請承認與執行，登記程序僅為實施公約之程序機制，並未創設得讓與之英國法權利；上訴法院予以維持。\n・國際法：法院接受依現行習慣國際法，國家間之條約權利未經義務國同意不得讓與；並認為西班牙主張投資人對地主國之權利亦屬源自條約之國際法權利，「頗有說服力」，且學說資料支持尚無國際裁判機構承認判斷利益得以讓與。\n・結果：Blasket 不得取代原投資人；西班牙依國家豁免法聲請撤銷登記之程序仍待審理。",
+   "significance": "這是英國第二審法院首次就 ICSID 判斷之可讓與性表態，對以收購判斷債權方式執行對國家判斷的市場（Blasket 為主要收購者之一）影響重大：受讓人在英國恐只能以原投資人名義或透過其他安排執行。報導未提及是否聲請上訴英國最高法院；原審判決亦與澳洲法院先前相關見解不同，各國執行法院可能出現分歧。",
+   "editorNote": "本網頁助理 註：本則依 Law News 對判決之報導及事務所對一審判決之評析撰寫，尚未取得上訴法院判決原文；報導僅列出法院所整理五項爭點中之三項，上訴法院對能源憲章條約第 15 條及瑞士法問題之論述未見報導。報導未載本件之 ICSID 案號。",
+   "tags": [
+    "ICSID",
+    "西班牙",
+    "英國",
+    "承認與執行",
+    "第54條",
+    "能源憲章條約",
+    "西班牙再生能源",
+    "債權讓與",
+    "國家豁免",
+    "習慣國際法"
+   ],
+   "related": [
+    "2026-10-23-arb-brussels-rreef-spain-eurocontrol-attachment-lifted"
+   ],
+   "sources": [
+    {
+     "label": "Law News 判決報導",
+     "url": "https://www.lawnews.co.uk/legal-news/court-of-appeal-rejects-assignee-s-bid-to-step-into-spain/",
+     "official": false
+    },
+    {
+     "label": "Clifford Chance 一審判決評析",
+     "url": "https://www.cliffordchance.com/insights/resources/blogs/arbitration-insights/2025/12/english-commercial-court-finds-that-icsid-and-ect-awards-are-not-assignable.html",
+     "official": false
+    },
+    {
+     "label": "一審判決 [2025] EWHC 2874 (Comm)（PDF）",
+     "url": "https://arbitration.org/sites/default/files/awards/arb11127.pdf",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-02T23:13:13+08:00"
+  },
+  {
+   "id": "2026-11-02-arb-insc-vedanta-ravva-enforcement-slp-dismissed",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "印度",
+   "outlet": "印度最高法院",
+   "outletCode": "INSC",
+   "date": "2026-11-02",
+   "eventDate": "2026-11-02",
+   "importance": 2,
+   "author": "",
+   "title": "印度最高法院駁回中央政府上訴，Vedanta 與 Ravva Oil 對印度的吉隆坡仲裁判斷得以執行",
+   "shortTitle": "印度最高法院准許執行 Vedanta 對政府的仲裁判斷",
+   "point": "駁回政府「仲裁庭已無權限」等異議，批評拖延執行二十年將使外界不再信任印度",
+   "titleOriginal": "Union of India v. Vedanta Ltd & Ravva Oil (Singapore) Pte Ltd (SLP against Delhi High Court judgment of 1 July 2026)",
+   "caseRef": "",
+   "tldr": "印度政府與 Vedanta 等石油公司就 Ravva 油田的產品分成契約在吉隆坡仲裁，2004 年與 2016 年兩份判斷都對公司有利。德里高等法院今年 7 月准許在印度執行，政府再上訴到最高法院，最高法院認為高等法院沒有錯誤而駁回，並當庭批評政府長期抗拒執行仲裁判斷。",
+   "memo": "印度最高法院（Pardiwala、Manmohan 兩位法官）於 2026 年 11 月 2 日駁回印度中央政府對德里高等法院 2026 年 7 月 1 日判決之特別上訴許可聲請，維持准許執行 Vedanta Ltd 與 Ravva Oil (Singapore) 就 1994 年 Ravva 油田產品分成契約，於吉隆坡仲裁取得之 2004 年部分判斷及 2016 年終局判斷。高等法院已依 1996 年仲裁與調解法第 48 條駁回政府以時效、公共政策及仲裁庭已無權限（functus officio）為由之異議，並命於八週內發還保證金；最高法院認原判決並無法律上錯誤。",
+   "context": "1994 年，印度政府與 ONGC、Videocon Petroleum、Ravva Oil 及 Cairn Energy 組成之財團簽訂產品分成契約，開發克里希納－戈達瓦里盆地之 Ravva 油田；Cairn 之權益其後移轉予 Cairn India 及 Vedanta。雙方就契約下財務分配之計算發生爭議，於馬來西亞吉隆坡仲裁。\n仲裁庭於 2004 年 10 月 12 日作成部分判斷，留待日後計算金額；馬來西亞聯邦法院於 2011 年維持該判斷。2014 年 7 月政府發出要求公司支付約 9,900 萬美元之通知，其後重組之仲裁庭於 2016 年 10 月 26 日作成金額之終局判斷。",
+   "facts": [
+    "仲裁地為吉隆坡，部分判斷作成於 2004 年 10 月 12 日，終局判斷由重組之仲裁庭於 2016 年 10 月 26 日作成。",
+    "爭議涉及政府於 2014 年要求公司支付約 9,900 萬美元。",
+    "德里高等法院 Jasmeet Singh 法官於 2026 年 7 月 1 日駁回政府依第 48 條之異議，認執行聲請未逾時效、仲裁庭仍有權決定未決之計算問題，並命發還公司之銀行保證。",
+    "政府向最高法院聲請特別上訴許可；報導稱其公共政策及時效主張於最高法院並未堅持，主要爭執仲裁庭已無權限。"
+   ],
+   "issues": [
+    "外國仲裁判斷之執行是否罹於時效。",
+    "部分判斷作成後重組之仲裁庭是否已無權限（functus officio）作成計算金額之終局判斷。",
+    "執行是否違反印度公共政策（1996 年仲裁與調解法第 48 條）。"
+   ],
+   "holding": "・最高法院認高等法院已審酌所有相關事項，判決並無法律上錯誤，無介入必要，駁回特別上訴許可聲請。\n・法院質疑政府在判斷已由外國法院審查、作成十年以上後仍抗拒執行，並指出政府一方面倡議仲裁，一方面使判斷在法院纏訟數十年，將損及外界對印度仲裁制度之信任（法官當庭表示「沒有人會信任你們」，此語未載於書面裁定）。",
+   "significance": "德里高等法院准許執行之判決因此確定，政府之異議均遭駁回。本件與日前最高法院請法律委員會檢討仲裁判斷執行制度之判決相呼應，顯示印度最高法院對國家機關拖延執行仲裁判斷的態度轉趨嚴格，對與印度政府或國營事業訂約的外國投資人具參考價值。",
+   "editorNote": "本網頁助理 註：本則依 ETV Bharat、India Legal 及 Law Trend 報導撰寫，尚未取得最高法院裁定原文；各報導對程序名稱有稱上訴、有稱特別上訴許可聲請，依報導引用之裁定文字為後者。報導未載判斷之金額。",
+   "tags": [
+    "印度",
+    "承認與執行",
+    "紐約公約",
+    "國家當事人",
+    "產品分成協議",
+    "石油",
+    "時效",
+    "公共政策",
+    "馬來西亞"
+   ],
+   "related": [
+    "2026-10-28-arb-insc-royal-construction-execution"
+   ],
+   "sources": [
+    {
+     "label": "India Legal 報導",
+     "url": "https://indialegallive.com/constitutional-law-news/courts-news/supreme-court-dismisses-centres-appeal-against-enforcement-of-foreign-arbitral-awards-in-vedanta-ravva-dispute-questions-prolonged-resistance/",
+     "official": false
+    },
+    {
+     "label": "Law Trend 報導",
+     "url": "https://lawtrend.in/supreme-court-dismisses-centres-appeal-against-enforcement-of-arbitral-awards-in-favour-of-vedanta-ravva-oil/",
+     "official": false
+    },
+    {
+     "label": "ETV Bharat 報導",
+     "url": "https://etvbharat.com/en/bharat/supreme-court-dismisses-centres-plea-against-vedanta-arbitration-awards-enn26110206715",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-02T23:13:13+08:00"
+  },
+  {
+   "id": "2026-11-02-arb-kab-dubai-cassation-non-formalistic",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "阿聯酋",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-11-02",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Nayiri Boghossian（Nayiri Boghossian FZE）",
+   "title": "杜拜最高法院放寬適用仲裁法：未簽署的契約仍成立仲裁協議，不知仲裁條款者未喪失抗辯",
+   "shortTitle": "杜拜最高法院不再拘泥仲裁法文字",
+   "point": "作者指出兩件判決以立法目的認定書面要件與妨訴抗辯，顯示法院對仲裁態度轉變",
+   "titleOriginal": "A Non-Formalistic Application of the Law by the Dubai Court of Cassation",
+   "caseRef": "Dubai Court of Cassation Challenge No. 1262/2025 (Commercial); Challenge No. 595/2026 (Commercial)",
+   "tldr": "作者介紹杜拜最高法院兩件判決：一件認為對方自己擬好、寄出但沒簽名的契約，加上參與仲裁的行為，就足以成立書面仲裁協議；另一件認為被告因公司易主而不知有仲裁條款，一知道就在下一次庭期主張，不算放棄仲裁。作者認為法院開始看條文目的而非拘泥文字。",
+   "memo": "Nayiri Boghossian 於 Kluwer Arbitration Blog 撰文指出，杜拜最高法院於第 1262/2025 號案認定，由被聲請人擬具並寄送、未經其簽署之契約，依電子締約及行為推認之意思表示，已足使其中仲裁條款符合 2018 年第 6 號聯邦仲裁法第 7 條之書面要件，駁回撤銷 DIAC 判斷之聲請；於第 595/2026 號案則認定，被告因公司股權變動不知仲裁條款而先為本案答辯，於知悉後之次一庭期即主張仲裁，仍符合第 8 條第 1 項，以無管轄權駁回原告逾 1.4 億迪拉姆之訴。作者認為兩判決係依立法目的而非文字適用法律，顯示阿聯酋法院對仲裁之態度轉變，但仍建議當事人嚴格遵循法定要件。",
+   "context": "阿聯酋 2018 年第 6 號聯邦仲裁法以 UNCITRAL 模範法為基礎。第 7 條規定仲裁協議應以書面為之，否則無效，並列舉簽署文件、書信往來及電子郵件等方式；第 8 條第 1 項規定，被告於本案任何陳述前主張仲裁協議者，法院應駁回訴訟。\n阿聯酋法院過去將仲裁協議視為放棄訴訟權利，對書面要件及妨訴抗辯採嚴格解釋。",
+   "facts": [
+    "第 1262/2025 號案：DIAC 仲裁判斷作成於 2025 年，被聲請人以其未簽署契約、無書面仲裁協議為由聲請撤銷；契約印有其信頭，由其擬具並寄交對方簽署，其亦參與仲裁而未異議。上訴法院駁回撤銷聲請，杜拜最高法院維持。",
+    "第 595/2026 號案：原告於第一審請求逾 1.4 億迪拉姆及利息；被告於 2025 年 9 月 9 日先為本案答辯，原告於 9 月 25 日提出含仲裁條款之契約，被告於 10 月 2 日庭期主張仲裁；被告因公司易主而未持有契約。第一、二審以被告已為本案答辯為由駁回其抗辯，杜拜最高法院廢棄並以無管轄權駁回原告之訴。"
+   ],
+   "issues": [
+    "未經簽署之契約所含仲裁條款，是否符合聯邦仲裁法第 7 條之書面要件。",
+    "被告於知悉仲裁條款前所為之本案答辯，是否構成默示放棄仲裁（第 8 條第 1 項）。"
+   ],
+   "holding": "・書面要件：法院以電子紀錄與書面具同等效力、契約得以電子方式及行為成立、要約與承諾不必在同一文件為由，認定仲裁條款有效。作者指出該契約並不明確符合第 7 條第 2 項 a 款列舉之任一形式，法院改依締約原則及當事人行為認定，符合條文確保合意以書面留存之目的，亦與模範法第 7 條（選項一）相近。\n・妨訴抗辯：法院認放棄須明確且以知悉權利存在為前提；被告不知條款存在而無從主張，知悉後即於次一庭期主張，已符合第 8 條第 1 項。作者指出法院實質上採用「無法主張」之概念，因為當事人只有在知道兩種途徑都存在時才能選擇。\n・作者結論：兩判決顯示杜拜最高法院依立法目的而非文字適用法律；現在斷言法院不再視仲裁為例外尚言之過早，但仲裁協議已不再主要被視為需要法院保護的高風險行為。作者仍建議當事人謹慎遵守仲裁法要件。",
+   "significance": "作者認為阿聯酋法院正由形式主義轉向支持仲裁的解釋方法；對在杜拜（非 DIFC）法院面對仲裁協議成立或妨訴抗辯爭議的當事人具參考價值。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：文章未載兩件判決之作成日期；兩案均涉杜拜法院而非 DIFC 法院，是否屬國際仲裁文章未說明。",
+   "tags": [
+    "阿聯酋",
+    "杜拜",
+    "仲裁協議",
+    "書面要件",
+    "停止訴訟",
+    "默示放棄",
+    "撤銷仲裁判斷",
+    "DIAC"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 文章",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/a-non-formalistic-application-of-the-law-by-the-dubai-court-of-cassation/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-02T23:13:13+08:00"
   }
  ],
  "agenda": [
@@ -5134,6 +5327,18 @@
    "caseRef": "ICSID Case No. ARB/19/30",
    "summary": "德國太陽能投資人依能源憲章條約，就西班牙再生能源補貼制度改革求償。",
    "status": "仲裁庭於 2026 年 6 月 30 日作成判斷，西班牙已聲請撤銷。"
+  },
+  {
+   "id": "operafund-v-spain",
+   "type": "案件",
+   "court": "COURT",
+   "field": "investment",
+   "forum": "英國上訴法院",
+   "name": "OperaFund 訴西班牙（判斷債權讓與與執行）",
+   "nameOriginal": "OperaFund Eco-Invest SICAV plc and Schwab Holding AG v Kingdom of Spain / Blasket Renewable Investments LLC",
+   "caseRef": "[2026] EWCA Civ 1392",
+   "summary": "OperaFund 等依能源憲章條約取得對西班牙約 2,930 萬歐元之 ICSID 判斷，受讓判斷債權的 Blasket 欲在英國取代原投資人執行。",
+   "status": "英國上訴法院於 2026 年 11 月 2 日駁回 Blasket 上訴，認 ICSID 判斷之受讓人不得接手執行；西班牙以國家豁免聲請撤銷登記之程序仍待審理。"
   }
  ]
 }
