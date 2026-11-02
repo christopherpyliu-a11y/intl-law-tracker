@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-03T00:24:09+08:00",
-  "lastRunLocal": "2026-11-03 00:24",
+  "lastRun": "2026-11-03T07:18:10+08:00",
+  "lastRunLocal": "2026-11-03 07:18",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：其他 1（司法案件 1）、伊朗 1（調查報導 1）"
+  "lastRunNote": "新增 1 則：伊朗 1（司法案件 1）"
  },
  "items": [
   {
@@ -748,7 +748,8 @@
    ],
    "related": [
     "2026-10-06-tnr-london-iran-international-trial",
-    "2026-10-27-tnr-iran-intl-trial-prosecution-cross"
+    "2026-10-27-tnr-iran-intl-trial-prosecution-cross",
+    "2026-11-02-tnr-iran-intl-trial-prosecution-closing"
    ],
    "sources": [
     {
@@ -1877,7 +1878,8 @@
    "related": [
     "2026-10-08-tnr-reuters-iran-hunt-abroad",
     "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony",
-    "2026-10-27-tnr-iran-intl-trial-prosecution-cross"
+    "2026-10-27-tnr-iran-intl-trial-prosecution-cross",
+    "2026-11-02-tnr-iran-intl-trial-prosecution-closing"
    ],
    "sources": [
     {
@@ -2698,7 +2700,8 @@
    ],
    "related": [
     "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony",
-    "2026-10-06-tnr-london-iran-international-trial"
+    "2026-10-06-tnr-london-iran-international-trial",
+    "2026-11-02-tnr-iran-intl-trial-prosecution-closing"
    ],
    "sources": [
     {
@@ -3712,6 +3715,64 @@
     }
    ],
    "addedAt": "2026-11-03T00:24:09+08:00"
+  },
+  {
+   "id": "2026-11-02-tnr-iran-intl-trial-prosecution-closing",
+   "court": "IR",
+   "kind": "司法案件",
+   "caseId": "iran-intl-london-trial",
+   "jurisdiction": "英國",
+   "outlet": "伊朗國際台（Iran International）",
+   "outletCode": "",
+   "date": "2026-11-02",
+   "eventDate": "2026-11-02",
+   "importance": 1,
+   "author": "",
+   "title": "英國伊朗監視記者案進入結辯：檢方稱三名被告的跟監「實質協助」伊朗革命衛隊準備攻擊記者，三人均否認犯罪",
+   "shortTitle": "伊朗監視記者案檢方結辯",
+   "point": "檢方稱跟監「實質協助」革命衛隊，指 Sepahvand 為「老練的說謊者」，三人仍否認犯罪",
+   "titleOriginal": "Three men helped IRGC prepare attacks on journalists, UK prosecutor says",
+   "caseRef": "",
+   "tldr": "倫敦伍利奇刑事法院審理的伊朗人監視記者案，11 月 2 日進入結辯。檢方說三名被告對伊朗國際台兩名記者的跟監、拍攝，實質上幫了伊朗革命衛隊準備攻擊，並駁斥主要被告 Sepahvand 受脅迫的說法；三人都否認犯罪，接下來由陪審團判斷。",
+   "memo": "依伊朗國際台 2026 年 11 月 2 日報導，英國伍利奇刑事法院審理之 Mostafa Sepahvand、Farhad Javadi Manesh 及 Shapoor Qalehali Khani Noori 違反英國《國家安全法》案，檢察官 Bill Emlyn Jones 於同日結辯，主張被告對伊朗國際台記者 Mojtaba Pourmohsen 及 Kambiz Hosseini 之跟監實質協助伊朗革命衛隊準備嚴重暴力，並以照片、訊息及手機定位資料指 Noori 為跟監小組成員，另駁斥 Sepahvand 受脅迫及刻意草率跟監之抗辯。三名被告均否認犯罪，Noori 及 Javadi Manesh 稱不知拍攝目的或委託者身分。",
+   "context": "三名伊朗籍男子被控依英國《國家安全法》協助伊朗情報機關，蒐集伊朗國際台記者 Mojtaba Pourmohsen 與 Kambiz Hosseini 的資訊，為嚴重暴力做準備，檢方稱 Sepahvand 預定實施攻擊。案件於 2026 年 10 月初開審；10 月下旬 Sepahvand 作證承認 15 萬英鎊報酬以傷人為條件但主張受脅迫，另兩名被告承認拍攝但否認知情（見相關前則）。",
+   "facts": [
+    "依報導，檢察官 Bill Emlyn Jones 於 11 月 2 日（週一）結辯，稱被告的跟監「實質協助」伊朗革命衛隊。",
+    "檢方以照片、訊息與手機定位資料，指 Noori 是 Sepahvand 跟監小組中受信任的成員。",
+    "檢方舉出的證據包括：2024 年 12 月 12 日深夜傳送一段與 Hosseini 相關住址的影片、多次前往與 Pourmohsen 相關的地區，以及 2025 年 3 月 4 日在泰晤士河畔金斯頓錄製、合計逾三小時的四段影片。",
+    "檢方稱 Sepahvand 是「老練的說謊者」，為金錢及其在伊朗刑案獲得協助而行動，不接受其受脅迫及刻意草率跟監的說法。",
+    "Sepahvand 方面承認 15 萬英鎊報酬以傷害記者為條件，但稱要價是為拖住革命衛隊、無意動手，且因家人受威脅而參與。",
+    "Noori 稱應 Sepahvand 要求拍照錄影，不知用途，亦未懷疑有暴力計畫；他稱 2019 年逃離伊朗、2024 年在英國獲庇護。Javadi Manesh 承認前往並拍攝，但否認知悉協助伊朗情報機關。"
+   ],
+   "issues": [
+    "英國《國家安全法》協助外國情報機關罪中，被告是否「明知」協助外國情報機關之證明。",
+    "受脅迫抗辯能否成立；本身為難民的被告被吸收從事監視同胞，反映跨國鎮壓利用離散社群成員的模式。"
+   ],
+   "holding": "・檢方結辯：三人跟監實質協助革命衛隊準備攻擊，Noori 為跟監小組成員，Sepahvand 為利益行動而非受脅迫。\n・Sepahvand：承認報酬以傷人為條件，主張受脅迫、無意攻擊。\n・Noori、Javadi Manesh：承認拍攝，否認知悉目的或委託者。\n・報導未載辯方結辯、法官指示或裁決日期。",
+   "significance": "本案進入結辯，陪審團裁決將是英國以 2023 年《國家安全法》追訴伊朗針對海外記者之代理人監視的重要判斷。後續觀察辯方結辯與陪審團裁決。",
+   "editorNote": "本網頁助理 註：本則所述為檢方結辯主張與被告抗辯，法院尚未認定事實。唯一來源伊朗國際台為本案被鎖定記者所屬媒體，屬利害關係方報導。eventDate 依報導所稱「週一」推定為 11 月 2 日。",
+   "tags": [
+    "跨國鎮壓",
+    "伊朗",
+    "英國",
+    "伊朗國際台",
+    "國家安全法",
+    "監視記者",
+    "革命衛隊"
+   ],
+   "related": [
+    "2026-10-27-tnr-iran-intl-trial-prosecution-cross",
+    "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony",
+    "2026-10-06-tnr-london-iran-international-trial"
+   ],
+   "sources": [
+    {
+     "label": "伊朗國際台報導",
+     "url": "https://www.iranintl.com/en/202611029406",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T07:18:10+08:00"
   }
  ],
  "agenda": [
@@ -3831,7 +3892,7 @@
    "nameOriginal": "R v Sepahvand, Javadi Manesh and Noori (Woolwich Crown Court)",
    "caseRef": "",
    "summary": "三名伊朗男子被控依英國《國家安全法》協助伊朗情報機關，監視伊朗國際台記者與一名英國律師。",
-   "status": "審理中；10 月 27 日檢方主張被告明知協助伊朗情報機關，兩名被告承認拍攝住址但否認知情，Sepahvand 主張受脅迫，三人均否認犯罪。"
+   "status": "審理中；11 月 2 日進入結辯，檢方主張三名被告跟監實質協助革命衛隊準備攻擊，三人均否認犯罪，待陪審團裁決。"
   },
   {
    "id": "pretoria-tibet-office-attacks",
