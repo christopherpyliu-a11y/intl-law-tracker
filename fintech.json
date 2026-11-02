@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-02T23:55:54+08:00",
-  "lastRunLocal": "2026-11-02 23:55",
+  "lastRun": "2026-11-03T07:30:04+08:00",
+  "lastRunLocal": "2026-11-03 07:30",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：國際組織 1（國際標準 1）、亞太與其他 3（香港政策動態 1、香港草案諮詢 1、泰國草案諮詢 1）"
+  "lastRunNote": "新增 3 則：美國 1（司法案件 1）、英國 1（政策動態 1）、亞太與其他 1（迦納政策動態 1）"
  },
  "items": [
   {
@@ -2132,7 +2132,8 @@
    "related": [
     "2026-10-09-fin-cftc-event-contracts-swap-definition",
     "2026-10-28-fin-utah-criminal-charges-kalshi",
-    "2026-10-29-fin-kalshi-sues-missouri"
+    "2026-10-29-fin-kalshi-sues-missouri",
+    "2026-11-02-fin-illinois-prediction-markets-injunction-appeal"
    ],
    "sources": [
     {
@@ -3052,7 +3053,8 @@
    "related": [
     "2026-10-27-fin-cftc-sues-utah-prediction-markets",
     "2026-10-28-fin-utah-criminal-charges-kalshi",
-    "2026-10-30-fin-sec-woodcock-prediction-markets"
+    "2026-10-30-fin-sec-woodcock-prediction-markets",
+    "2026-11-02-fin-illinois-prediction-markets-injunction-appeal"
    ],
    "sources": [
     {
@@ -3738,6 +3740,183 @@
     }
    ],
    "addedAt": "2026-11-02T23:55:54+08:00"
+  },
+  {
+   "id": "2026-11-02-fin-illinois-prediction-markets-injunction-appeal",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國伊利諾州",
+   "outlet": "RG.org",
+   "outletCode": "RG",
+   "date": "2026-11-02",
+   "eventDate": "2026-10-30",
+   "importance": 2,
+   "author": "",
+   "title": "聯邦地院核發初步禁制令，禁止伊利諾州對 CFTC 監理交易所之事件合約適用州賭博法；伊利諾州當日即上訴第七巡迴法院",
+   "shortTitle": "法院禁止伊利諾州管制預測市場",
+   "point": "10 月 30 日核發初步禁制令，州政府同日上訴第七巡迴法院",
+   "titleOriginal": "Illinois Appeals Prediction Market Injunction to 7th Circuit",
+   "caseRef": "Coinbase Financial Markets, Inc. v. Raoul；KalshiEX LLC v. Raoul（N.D. Ill.）",
+   "tldr": "伊利諾州今年通過法規，要把預測市場當成運動博弈來管（例如限制年齡、限制運動合約）。芝加哥聯邦地院法官認為這些合約多半屬聯邦商品法上的「交換契約」，應由聯邦商品期貨交易委員會（CFTC）管，州法很可能被聯邦法排除，因此先禁止州政府執行；州政府當天就提起上訴。",
+   "memo": "依 RG.org 2026 年 11 月 2 日報導，美國伊利諾州北區聯邦地方法院法官 Martha M. Pacold 於 2026 年 10 月 30 日就 Coinbase Financial Markets、KalshiEX 及聯邦政府分別提起之三件相關訴訟核發初步禁制令，正式化其 10 月 2 日之意見，禁止伊利諾州檢察總長及博弈委員會就於 CFTC 監理交易所交易之交換契約（含運動事件合約）適用《伊利諾州運動博弈法》第 25 條、《伊利諾州博弈法》相關條文及博弈委員會網路投注規則。法院認原告就《商品交易法》先占州法之主張可能勝訴。伊利諾州於同日向聯邦第七巡迴上訴法院提起上訴，上訴本身不停止禁制令效力；當事人應於 11 月 12 日前提出聯合進度報告。",
+   "context": "伊利諾州於 2026 年通過預測市場規範，擬比照運動博弈業者管理，包括封鎖未滿 21 歲交易人、限制運動類合約，並對交易手續費課稅。Kalshi 與其合作夥伴 Coinbase 於同年 6 月起訴請求禁止執行。\n各地聯邦法院對預測市場是否受州賭博法拘束見解分歧：第六巡迴上訴法院及內華達州法院曾作出不利 Kalshi 之判決，CFTC 亦陸續對猶他州等州政府提起訴訟，主張其專屬管轄。",
+   "facts": [
+    "Pacold 法官於 2026 年 10 月 2 日作成意見，並於 10 月 30 日正式核發初步禁制令，涵蓋 Coinbase、KalshiEX 及聯邦政府提起之三件相關訴訟（依 RG.org 報導）。",
+    "受禁止執行之規範包括《伊利諾州運動博弈法》第 25 條、《伊利諾州博弈法》之一條文及伊利諾州博弈委員會網路投注規則，適用範圍限於在 CFTC 監理交易所交易之交換契約，包括運動事件合約。",
+    "Coalition for Fair Markets 與 North American Derivatives Exchange 以參加人身分參與訴訟。",
+    "伊利諾州檢察總長 Kwame Raoul 及博弈委員會成員與執行長於 10 月 30 日向第七巡迴上訴法院提出上訴通知。",
+    "當事人應於 11 月 12 日前提出聯合進度報告；依 Chicago Sun-Times 報導，法院就交易手續費課稅部分暫不裁決。"
+   ],
+   "issues": [
+    "《商品交易法》是否排除州賭博法對 CFTC 監理交易所事件合約之適用（先占）。",
+    "州對預測市場收益課稅與管制市場本身之區分：僅分享收入之課稅是否與聯邦法衝突。",
+    "運動事件合約是否屬《商品交易法》上之交換契約（swap）。"
+   ],
+   "holding": "・法院認原告可能勝訴：多數系爭合約可能屬《商品交易法》上之交換契約，伊利諾州數項法規適用於此類契約時可能遭聯邦法先占。\n・依 Chicago Sun-Times 報導，法官指出這些契約只是「令人覺得有趣的交換契約」；州法規範可販售之商品、地點及對象，與聯邦法衝突。\n・法院駁回州方關於 Coinbase 起訴過遲之抗辯，並表示成癮性等疑慮應由 CFTC 處理，非法院職責。\n・法院暗示僅分享收入之手續費課稅可能不與聯邦法衝突，但管制市場之措施則可能衝突；稅捐部分未經禁止。",
+   "significance": "與第六巡迴上訴法院等不利預測市場業者之判決相對，第七巡迴法院之判斷將加深巡迴法院間歧見，提高聯邦最高法院受理之可能。應留意 11 月 12 日聯合進度報告、第七巡迴法院是否停止禁制令，以及稅捐部分之後續審理。",
+   "editorNote": "本網頁助理 註：本則主要依 RG.org 報導及 Chicago Sun-Times 10 月 5 日報導整理；本網頁助理未取得裁定全文及正式案號，報導亦未指明以聯邦政府名義起訴之機關。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦先占",
+    "Kalshi",
+    "Coinbase",
+    "CFTC",
+    "美國",
+    "伊利諾州"
+   ],
+   "related": [
+    "2026-10-29-fin-kalshi-sues-missouri",
+    "2026-10-27-fin-cftc-sues-utah-prediction-markets"
+   ],
+   "sources": [
+    {
+     "label": "RG.org 分析報導",
+     "url": "https://rg.org/news/prediction-markets/illinois-appeal-prediction-markets-injunction-kalshi-coinbase-cftc",
+     "official": false
+    },
+    {
+     "label": "Chicago Sun-Times 報導（10 月 2 日意見）",
+     "url": "https://chicago.suntimes.com/springfield/2026/10/05/federal-judge-injunction-kalshi-block-illinois-regulations-prediction-markets",
+     "official": false
+    },
+    {
+     "label": "SBC Americas 報導",
+     "url": "https://sbcamericas.com/2026/11/02/illinois-appeal-prediction-markets-law",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T07:30:04+08:00"
+  },
+  {
+   "id": "2026-10-28-fin-uk-stablecoin-tax-treatment",
+   "court": "HMT",
+   "kind": "政策動態",
+   "caseId": "uk-cryptoasset-regime",
+   "jurisdiction": "英國",
+   "outlet": "英國稅務海關總署（HMRC）",
+   "outletCode": "HMRC",
+   "date": "2026-10-28",
+   "eventDate": "2026-10-28",
+   "importance": 2,
+   "author": "",
+   "title": "英國稅務海關總署於秋季預算案更新穩定幣租稅政策文件：合格穩定幣處分免徵資本利得稅，借貸收益比照利息課稅，2027 年 4 月施行",
+   "shortTitle": "英國擬讓合格穩定幣免資本利得稅",
+   "point": "個人自 2027 年 4 月 6 日、公司自 4 月 1 日起適用，須經財政法案通過",
+   "titleOriginal": "Taxation of stablecoins (policy paper, updated 28 October 2026)",
+   "caseRef": "",
+   "tldr": "英國政府打算把用來付款的合格穩定幣在稅上當成「錢」來看：個人賣出或使用時不用繳資本利得稅，借出去賺的類利息收益改按儲蓄所得課稅，公司則依會計帳處理。預計 2027 年 4 月上路，但還要國會通過財政法案。",
+   "memo": "英國稅務海關總署（HMRC）於 2026 年 10 月 28 日配合秋季預算案更新〈穩定幣之課稅〉政策文件（原於 2026 年 7 月 13 日連同法律草案發布）。依該文件，與法定貨幣維持穩定價值、以法幣或其他資產支持、可廣泛取得並設計作為支付工具之合格穩定幣，個人及信託處分時免徵資本利得稅，出借所得之類利息收益按儲蓄所得課稅；公司則納入公司稅之借貸關係規則，依會計處理課稅，並設遞延選擇之過渡規定。個人及信託自 2027 年 4 月 6 日、公司自 2027 年 4 月 1 日起適用。依 Bitcoin.com 報導，相關規定將納入 2026–27 年財政法案，尚待國會通過。",
+   "context": "英國正建立加密資產監理新制，FCA 已完成穩定幣等政策聲明，申請期間自 2026 年 9 月 30 日起。HMRC 於 2026 年 3 月 26 日至 5 月 7 日就穩定幣租稅徵求意見，7 月 13 日發布法律草案及意見摘要。\n現行法下，穩定幣處分原則上屬資本利得稅課稅事件，使以穩定幣支付每筆交易均可能產生申報義務。",
+   "facts": [
+    "政策文件 2026 年 7 月 13 日首次發布，10 月 28 日（秋季預算案當日）更新。",
+    "合格穩定幣定義：相對法定貨幣維持穩定價值、由法幣或其他資產支持、可廣泛取得並設計作為支付工具之加密資產。",
+    "個人及信託：處分免徵資本利得稅；出借之類利息收益按儲蓄所得課稅。",
+    "公司：納入公司稅借貸關係（loan relationship）規則，依會計處理課稅。",
+    "年息所得稅扣繳規則擴及穩定幣債務之類利息收益。",
+    "過渡規定：持有人得選擇將因制度轉換產生之利得、損失或調整遞延至處分時。",
+    "依 Bitcoin.com 報導，同日預算案亦提出自 2027 年 4 月 6 日起，個人轉入或轉出合格加密借貸及流動性池安排時遞延資本利得稅。"
+   ],
+   "issues": [
+    "何種穩定幣構成「合格」穩定幣，與 FCA 合格穩定幣監理定義之銜接。",
+    "穩定幣租稅中性化對英鎊穩定幣支付用途之影響。"
+   ],
+   "holding": "・合格穩定幣於租稅上比照貨幣處理：個人及信託處分免徵資本利得稅。\n・出借合格穩定幣之類利息收益按儲蓄所得課稅，並適用所得稅扣繳規則。\n・公司依借貸關係規則按會計處理課稅。\n・設過渡規定，得選擇遞延轉換時之利得或損失。\n・施行日：個人及信託 2027 年 4 月 6 日；公司 2027 年 4 月 1 日。",
+   "significance": "此為主要法域中少見明確將支付型穩定幣排除於資本利得稅之立法方向，可降低以穩定幣支付之租稅負擔，配合英國穩定幣支付政策。應留意 2026–27 年財政法案之提出與國會審議，以及合格穩定幣定義之最終文字。",
+   "editorNote": "本網頁助理 註：政策文件未指明立法載具；「納入 2026–27 年財政法案」及加密借貸與流動性池遞延課稅之內容，係依 Bitcoin.com 報導。本則屬先前更新漏收之項目，於本次補列。",
+   "tags": [
+    "穩定幣",
+    "租稅",
+    "資本利得稅",
+    "HMRC",
+    "英國",
+    "加密資產"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "HMRC 政策文件全文（Taxation of stablecoins）",
+     "url": "https://www.gov.uk/government/publications/tax-treatment-of-stablecoins/taxation-of-stablecoins",
+     "official": true
+    },
+    {
+     "label": "Bitcoin.com 每週加密法律整理",
+     "url": "https://news.bitcoin.com/regulation-and-legal/this-week-in-crypto-law-november-1-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T07:30:04+08:00"
+  },
+  {
+   "id": "2026-11-02-fin-ghana-stablecoin-directive",
+   "court": "OTHER",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "迦納",
+   "outlet": "Citi Newsroom",
+   "outletCode": "CITI",
+   "date": "2026-11-02",
+   "eventDate": "2026-11-02",
+   "importance": 1,
+   "author": "",
+   "title": "迦納央行總裁表示正研擬穩定幣指令，明定穩定幣活動要求及許可範圍",
+   "shortTitle": "迦納央行研擬穩定幣指令",
+   "point": "依 2025 年《虛擬資產服務提供者法》架構，與證管會、金融情報中心合作",
+   "titleOriginal": "Ghana to introduce dedicated rules for stablecoin operations – BoG Governor",
+   "caseRef": "Act 1154",
+   "tldr": "迦納央行總裁在非洲虛擬資產高峰會上說，央行正在起草專門管穩定幣的指令，會規定哪些穩定幣活動可以做、要符合什麼條件，但還沒公布時程與細節。",
+   "memo": "依 Citi Newsroom 2026 年 11 月 2 日報導，迦納中央銀行總裁 Johnson Asiama 於同日在阿克拉舉行之 2026 年非洲虛擬資產高峰會表示，該行正研擬穩定幣指令，將訂定穩定幣活動之要求並釐清許可之活動範圍，並與迦納證券交易委員會及金融情報中心合作制定監理工具與監督安排。迦納已於 2025 年制定《虛擬資產服務提供者法》（Act 1154），由央行與證券交易委員會分擔監理責任。報導未載明指令發布時程及具體資本、發照或準備資產要求。",
+   "context": "迦納 2025 年《虛擬資產服務提供者法》（Act 1154）建立虛擬資產活動之法律架構，由迦納中央銀行與證券交易委員會分工監理，並設虛擬資產協調委員會供公部門協作。",
+   "facts": [
+    "演說日期：2026 年 11 月 2 日，2026 年非洲虛擬資產高峰會（AVAS），阿克拉。",
+    "央行正起草穩定幣指令，將規定穩定幣活動之要求並釐清許可活動。",
+    "央行與證券交易委員會、金融情報中心合作研擬監理工具與監督安排。",
+    "報導未說明指令發布日期及具體內容。"
+   ],
+   "issues": [
+    "穩定幣指令與 Act 1154 之法律依據關係。",
+    "依風險、規模與複雜度採取比例監理之具體設計。"
+   ],
+   "holding": "・總裁表示並非所有虛擬資產活動風險相同，監理應反映其性質、規模與複雜度。\n・監理不應扼殺創新，但需建立消費者與投資人保護、金融誠信及金融體系信心之保障。\n・穩定幣指令將訂定活動要求並釐清許可範圍。",
+   "significance": "非洲國家陸續建立虛擬資產及穩定幣專法規範。應留意迦納央行公布指令草案或徵詢之時程與內容。",
+   "editorNote": "本網頁助理 註：本則依單一媒體報導整理，本網頁助理未取得迦納央行講稿或官方新聞稿。",
+   "tags": [
+    "穩定幣",
+    "虛擬資產",
+    "迦納央行",
+    "迦納",
+    "非洲"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Citi Newsroom 報導",
+     "url": "https://citinewsroom.com/2026/11/ghana-to-introduce-dedicated-rules-for-stablecoin-operations-bog-govenor",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T07:30:04+08:00"
   }
  ],
  "agenda": [
@@ -3802,6 +3981,16 @@
    "caseId": "mica-stablecoin-supervision"
   },
   {
+   "id": "2026-11-12-us-illinois-prediction-markets-status-report",
+   "date": "2026-11-12",
+   "court": "US",
+   "title": "伊利諾州預測市場案：當事人聯合進度報告期限",
+   "note": "美國伊利諾州北區聯邦地院；依 RG.org 報導。",
+   "url": "https://rg.org/news/prediction-markets/illinois-appeal-prediction-markets-injunction-kalshi-coinbase-cftc",
+   "relatedId": "2026-11-02-fin-illinois-prediction-markets-injunction-appeal",
+   "caseId": "us-prediction-markets-preemption"
+  },
+  {
    "id": "2026-11-16-fsb-g20-cross-border-payments-progress",
    "date": "2026-11-16",
    "court": "FSB",
@@ -3860,6 +4049,16 @@
    "url": "https://www.adgm.com/media/announcements/adgm-fsra-invites-industry-feedback-on-proposed-defi-risk-management-guidance",
    "relatedId": "2026-10-06-fin-adgm-fsra-defi-guidance-cp",
    "caseId": ""
+  },
+  {
+   "id": "2026-11-30-treas-scrc-ifr-comment-deadline",
+   "date": "2026-11-30",
+   "court": "TREAS",
+   "title": "財政部穩定幣認證審查委員會程序暫行最終規則意見徵詢截止",
+   "note": "GENIUS Act 州制度「實質相似」認證程序（Federal Register 2026-19966）；依 Yahoo Finance 報導。",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/treasury-first-genius-act-rule-073833593.html",
+   "relatedId": "",
+   "caseId": "genius-act-implementation"
   },
   {
    "id": "2026-12-07-sec-custody-comment-deadline",
@@ -3970,6 +4169,16 @@
    "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-36-cryptoasset-perimeter-guidance",
    "relatedId": "",
    "caseId": "uk-cryptoasset-regime"
+  },
+  {
+   "id": "2027-04-06-hmt-uk-stablecoin-cgt-exemption",
+   "date": "2027-04-06",
+   "court": "HMT",
+   "title": "英國合格穩定幣免徵資本利得稅預定施行（個人及信託）",
+   "note": "公司自 2027 年 4 月 1 日適用；須經財政法案通過，日期可能變動。",
+   "url": "https://www.gov.uk/government/publications/tax-treatment-of-stablecoins/taxation-of-stablecoins",
+   "relatedId": "2026-10-28-fin-uk-stablecoin-tax-treatment",
+   "caseId": "uk-cryptoasset-regime"
   }
  ],
  "cases": [
@@ -4059,7 +4268,7 @@
    "nameOriginal": "UK cryptoasset regulatory regime",
    "caseRef": "",
    "summary": "依《2000 年金融服務與市場法（加密資產）規則 2026》，新的加密資產活動自 2027 年 10 月 25 日起納入監理，FCA 陸續發布政策聲明與指引。",
-   "status": "申請期間 2026 年 9 月 30 日至 2027 年 2 月 28 日；CP26/36 與 GC26/7 意見徵詢至 11 月 18 日，金融犯罪指南修正（CP26/38）至 12 月 24 日。"
+   "status": "申請期間 2026 年 9 月 30 日至 2027 年 2 月 28 日；CP26/36 與 GC26/7 意見徵詢至 11 月 18 日，金融犯罪指南修正（CP26/38）至 12 月 24 日；HMRC 10 月 28 日確認合格穩定幣自 2027 年 4 月起免徵資本利得稅（待財政法案通過）。"
   },
   {
    "id": "hk-stablecoin-tokenisation",
@@ -4114,7 +4323,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "CFTC 10 月 26 日起訴猶他州（第十件對州訴訟）；猶他州 10 月 28 日對 Kalshi 及兩名創辦人提起刑事追訴；Kalshi 繼 Crypto.com、Novig 之後起訴密蘇里州；新澤西州聲請最高法院審理尚待決定。"
+   "status": "伊利諾州北區聯邦地院 10 月 30 日禁止伊利諾州對 CFTC 監理交易所事件合約適用州賭博法，州政府已上訴第七巡迴法院；CFTC 10 月 26 日起訴猶他州，猶他州 10 月 28 日刑事追訴 Kalshi；新澤西州聲請最高法院審理尚待決定。"
   },
   {
    "id": "kr-tokenised-securities",
