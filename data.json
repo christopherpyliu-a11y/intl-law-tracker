@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-02T07:03:24+08:00",
-  "lastRunLocal": "2026-11-02 07:03",
+  "lastRun": "2026-11-02T23:53:56+08:00",
+  "lastRunLocal": "2026-11-02 23:53",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "本次未發現新動態"
+  "lastRunNote": "新增 1 則：ICC 1"
  },
  "items": [
   {
@@ -4971,7 +4971,8 @@
    ],
    "addedAt": "2026-10-31T23:04:26+08:00",
    "related": [
-    "2026-10-30-icc-duterte-96-victim-applicants"
+    "2026-10-30-icc-duterte-96-victim-applicants",
+    "2026-11-02-icc-duterte-fifth-status-conference"
    ]
   },
   {
@@ -5033,6 +5034,74 @@
     }
    ],
    "addedAt": "2026-11-01T07:04:57+08:00"
+  },
+  {
+   "id": "2026-11-02-icc-duterte-fifth-status-conference",
+   "court": "ICC",
+   "kind": "程序進展",
+   "caseId": "icc-duterte",
+   "date": "2026-11-02",
+   "eventDate": "2026-11-02",
+   "importance": 2,
+   "title": "杜特蒂案第五次（最後一次）狀態會議：審判分庭要求檢方精簡近兩萬項證據清單，並要求被告開審後每日到庭",
+   "shortTitle": "杜特蒂案最後一次狀態會議",
+   "point": "法官要求檢方精簡 19,241 項證據，並表明開審後被告須每日到庭",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte – fifth status conference before Trial Chamber III (reported)",
+   "caseRef": "ICC-01/21-01/25",
+   "tldr": "國際刑事法院審判法官 11 月 2 日開了杜特蒂案開審前的最後一次程序會議。法官認為檢方列出的近兩萬項證據太多、重複，要求挑最有力的；也提醒辯方，11 月 30 日正式開審後杜特蒂原則上每天都要出庭。杜特蒂本人這次經准許未出席。",
+   "memo": "國際刑事法院第三審判分庭於 2026 年 11 月 2 日就檢察官訴杜特蒂案舉行第五次即最後一次狀態會議，被告經准許未出席。審判長 Joanna Korner 要求檢方精簡其 19,241 項證據清單，擇取最具證明力者；並表明審判自 2026 年 11 月 30 日開始後，被告原則上應每日到庭。分庭另就開庭時段安排及開場陳述使用語言等事項聽取意見，審判仍預定於同年 11 月 30 日開始。",
+   "context": "杜特蒂被控於擔任達沃市長及菲律賓總統期間，就掃毒戰爭中的殺人行為犯下三項危害人類罪（謀殺及謀殺未遂），第一預審分庭已確認罪狀並移付審判。第三審判分庭於 10 月 8 日公開的裁定認定其具受審能力，審判預定 2026 年 11 月 30 日在海牙開始。\n開審前，分庭先後舉行五次狀態會議處理準備事項。杜特蒂出席了 9 月 16 日及 10 月 13 日的會議，但於 10 月 28 日表示放棄出席第五次會議，分庭 10 月 29 日准許。近期檢、辯及被害人代理人並就依《程序及證據規則》第 68 條採用證人先前證詞進行書狀攻防。",
+   "facts": [
+    "第三審判分庭（審判長 Joanna Korner）於 2026 年 11 月 2 日在海牙舉行第五次狀態會議，杜特蒂經准許未出席，由辯護律師 Peter Haynes 等人代理。",
+    "依 Manila Times 報導，檢方證據清單共 19,241 項（非證人證據 15,529 項、與證人相關者 3,712 項）；辯方指出確認罪狀階段時僅約 5,000 項。",
+    "檢方表示已刪除約 1 萬項重複資料，所選證據對應審判書狀所列 57 起事件、殺人熱區及第三項罪狀；因不確定哪些證人能到庭，故保留較寬的清單，並表示將檢討可刪減的項目。",
+    "審判長認為多項證據證明同一事實，要求檢方擇取最有力者，並指出辯方仍可接觸其餘資料並自行聲請提出。",
+    "依 Daily Tribune 報導，審判長告知辯方，審判開始後被告原則上須每日到庭；分庭分配檢方至少 150 小時舉證時間。",
+    "同報導稱，被害人首席代理人 Paolina Massidda 請求在開場陳述中以他加祿語引述證人陳述，分庭不准，要求以英語進行。",
+    "關於開庭時段，GMA 報導分庭採用書記官處依專家建議提出的「每節一小時、休息 30 分鐘」安排；Daily Tribune 則報導分庭同意需調整時段，但尚未達成最終共識。"
+   ],
+   "issues": [
+    "審判中證據清單的範圍與精簡（《羅馬規約》第 64 條第 3 項、第 69 條）。",
+    "被告於審判中的在場義務（《羅馬規約》第 63 條第 1 項）。",
+    "審判程序使用語言（《羅馬規約》第 50 條）。"
+   ],
+   "holding": "報導所載分庭於會中表示的意見與決定：\n・要求檢方精簡證據清單，擇取最具證明力者；檢方承諾檢討。\n・表明審判開始後被告原則上須每日到庭。\n・不准被害人代理人以他加祿語進行開場陳述的部分內容。\n・開庭時段安排：見 editorNote 所述報導差異。\n審判仍預定於 2026 年 11 月 30 日開始。",
+   "significance": "這是杜特蒂案開審前最後一次狀態會議，處理了證據規模、被告到庭與開庭時段等實務問題。下一步為 11 月 30 日開審，由檢方及被害人代理人作開場陳述；先前證詞採用聲請與新一批被害人參與申請仍待分庭書面決定。",
+   "editorNote": "本網頁助理 註：本則依 Manila Times、GMA News 及 Daily Tribune 報導撰寫，未能取得會議紀錄或分庭書面決定，也無法讀取國際刑事法院官方網站；titleOriginal 為本網頁助理依報導擬定的描述。各報導對開庭時段的說法不一：GMA 稱分庭已採用一小時一節、休息 30 分鐘的安排，Daily Tribune 稱尚未達成最終共識，本則並陳兩說。「150 小時」舉證時間及開場陳述語言之裁示僅見於 Daily Tribune。以下為本網頁助理補充，非來源內容：「issues」所列規約條文係本網頁助理依議題所作的對應。",
+   "tags": [
+    "國際刑事法院",
+    "菲律賓",
+    "杜特蒂",
+    "危害人類罪",
+    "狀態會議",
+    "證據"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院杜特蒂案頁面",
+     "url": "https://www.icc-cpi.int/philippines/duterte",
+     "official": true
+    },
+    {
+     "label": "Manila Times 報導（證據清單）",
+     "url": "https://www.manilatimes.net/2026/11/02/news/icc-urges-prosecution-to-limit-nearly-20000-evidence-items-in-duterte-case/2459439",
+     "official": false
+    },
+    {
+     "label": "GMA News 報導（開庭時段）",
+     "url": "https://www.gmanetwork.com/news/topstories/nation/1008030/icc-adopts-1-hour-trial-blocks-with-30-minute-breaks-for-duterte-trial/story/",
+     "official": false
+    },
+    {
+     "label": "Daily Tribune 報導（到庭義務）",
+     "url": "https://tribune.net.ph/2026/11/02/icc-mandates-digongs-attendance-in-upcoming-trial-after-skipping-last-status-conference",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-02T23:53:56+08:00",
+   "related": [
+    "2026-10-31-icc-duterte-waiver-status-conference"
+   ]
   }
  ],
  "agenda": [
@@ -5164,9 +5233,9 @@
    "date": "2026-11-02",
    "court": "ICC",
    "title": "杜特蒂案第五次狀態會議",
-   "note": "第三審判分庭；被告已放棄出席，由律師代理。日期僅見於菲律賓媒體報導。",
-   "url": "",
-   "relatedId": "2026-10-31-icc-duterte-waiver-status-conference",
+   "note": "第三審判分庭；被告經准許未出席，由律師代理。已舉行。",
+   "url": "https://www.manilatimes.net/2026/11/02/news/icc-urges-prosecution-to-limit-nearly-20000-evidence-items-in-duterte-case/2459439",
+   "relatedId": "2026-11-02-icc-duterte-fifth-status-conference",
    "caseId": "icc-duterte"
   },
   {
@@ -5188,6 +5257,16 @@
    "url": "https://asp.icc-cpi.int/",
    "relatedId": "2026-10-16-icc-judicial-ethics-code",
    "caseId": "icc-governance"
+  },
+  {
+   "id": "2026-11-09-itlos-argentina-uk-judge-adhoc",
+   "date": "2026-11-09",
+   "court": "ITLOS",
+   "title": "阿根廷訴英國：專案法官宣誓",
+   "note": "漢堡，上午 10 時公開庭期；臨時措施言詞辯論接續於 11 月 10–11 日舉行。",
+   "url": "https://www.itlos.org/en/main/resources/calendar-of-events/",
+   "relatedId": "2026-10-20-itlos-argentina-uk-hearing",
+   "caseId": "argentina-v-uk-sea-lion"
   }
  ],
  "archives": [],
@@ -5278,7 +5357,7 @@
    "nameOriginal": "The Prosecutor v. Rodrigo Roa Duterte",
    "caseRef": "ICC-01/21",
    "summary": "菲律賓前總統杜特蒂被控三項危害人類罪。",
-   "status": "已認定具受審能力；第五次狀態會議訂於 11 月 2 日（被告已放棄出席），先前證詞採用與 96 名被害人新申請尚待審判分庭決定，審判預定於 2026 年 11 月 30 日開始。"
+   "status": "最後一次（第五次）狀態會議已於 11 月 2 日舉行，法官要求檢方精簡證據清單；先前證詞採用與 96 名被害人新申請尚待決定，審判預定於 2026 年 11 月 30 日開始。"
   },
   {
    "id": "icc-afghanistan",
