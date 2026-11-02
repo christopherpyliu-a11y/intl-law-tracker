@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-02T07:25:44+08:00",
-  "lastRunLocal": "2026-11-02 07:25",
+  "lastRun": "2026-11-02T23:55:54+08:00",
+  "lastRunLocal": "2026-11-02 23:55",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：美國 2（執法案件 1、實務評論 1）"
+  "lastRunNote": "新增 4 則：國際組織 1（國際標準 1）、亞太與其他 3（香港政策動態 1、香港草案諮詢 1、泰國草案諮詢 1）"
  },
  "items": [
   {
@@ -174,7 +174,8 @@
     "香港"
    ],
    "related": [
-    "2026-10-26-fin-sfc-tokenised-fund-secondary-trading"
+    "2026-10-26-fin-sfc-tokenised-fund-secondary-trading",
+    "2026-11-02-fin-hkma-ensembletx-24-7-stablecoins"
    ],
    "sources": [
     {
@@ -2565,7 +2566,8 @@
     "香港"
    ],
    "related": [
-    "2026-10-15-fin-fsb-ai-sound-practices-final"
+    "2026-10-15-fin-fsb-ai-sound-practices-final",
+    "2026-11-02-fin-hkma-project-sage-agentic-ai"
    ],
    "sources": [
     {
@@ -2978,7 +2980,9 @@
     "FATF",
     "國際"
    ],
-   "related": [],
+   "related": [
+    "2026-10-30-fin-fatf-virtual-asset-targeted-review"
+   ],
    "sources": [
     {
      "label": "FATF 灰名單公告頁面（2026 年 10 月）",
@@ -3469,6 +3473,271 @@
     }
    ],
    "addedAt": "2026-11-02T07:25:44+08:00"
+  },
+  {
+   "id": "2026-11-02-fin-hkma-ensembletx-24-7-stablecoins",
+   "court": "HKMA",
+   "kind": "政策動態",
+   "caseId": "hk-stablecoin-tokenisation",
+   "jurisdiction": "香港",
+   "outlet": "香港金融管理局（HKMA）",
+   "outletCode": "HKMA",
+   "date": "2026-11-02",
+   "eventDate": "2026-11-02",
+   "importance": 2,
+   "author": "",
+   "title": "香港金管局宣布 EnsembleTX 支援全天候代幣化存款真實交易，並將把受監理穩定幣納入試驗",
+   "shortTitle": "金管局 EnsembleTX 啟動 24/7 代幣化結算",
+   "point": "已完成代幣化外匯基金票據二級市場試交易，下一步納入持牌穩定幣",
+   "titleOriginal": "Hong Kong FinTech Week 2026",
+   "caseRef": "",
+   "tldr": "香港金管局在 2026 年香港金融科技週宣布，其代幣化試驗平台 EnsembleTX 已能讓銀行與客戶以代幣化存款全天候進行真實資金交易，並表示很快會把依《穩定幣條例》受監理的穩定幣也納入試驗。",
+   "memo": "香港金融管理局於 2026 年 11 月 2 日香港金融科技週宣布，Ensemble 計畫之試驗平台 EnsembleTX 進入新階段，支援以代幣化存款進行全天候（24/7）真實價值交易，並已完成認可交易商於二級市場買賣代幣化外匯基金票據之試驗交易；金管局表示將於近期將受監理穩定幣納入試驗範圍，另與數碼港推出 tConnect Launchpad 平台，惟未公布穩定幣試驗之時程與參與者。",
+   "context": "金管局於 2024 年 3 月啟動 Ensemble 計畫，同年 8 月設立沙盒，2025 年 11 月以 EnsembleTX 進入以真實價值交易為主的試驗階段，探索以代幣化存款結算代幣化資產交易。\n香港《穩定幣條例》已於 2025 年施行，滙豐等首批持牌發行人已推出港元穩定幣。此次宣布屬金管局「DART」架構（數據與支付、人工智慧、韌性、代幣化）中代幣化一環。",
+   "facts": [
+    "金管局於 2026 年 11 月 2 日香港金融科技週（第 11 屆，與投資推廣署合辦）發布新聞稿，公布 DART 架構下多項措施。",
+    "EnsembleTX 已支援以代幣化存款進行 24/7 真實價值交易，用例包括全球資金動態配置、代幣化資產組合管理及財資管理。",
+    "認可交易商已完成於二級市場買賣代幣化外匯基金票據之試驗交易，目的在提升二級市場及回購交易效率。",
+    "金管局表示將於近期把受監理穩定幣納入試驗，未公布日期或細節。",
+    "金管局與數碼港推出 tConnect Launchpad，供金融機構、科技公司及數位資產業者驗證用例；依 The Standard 報導，自 11 月 2 日起接受申請。",
+    "依蕃新聞報導，財政司司長陳茂波同日表示，2023 年發行的首批代幣化政府綠色債券結算期已由 T+5 縮短至 T+1。"
+   ],
+   "issues": [
+    "受監理穩定幣與代幣化存款在同一結算平台並存時，兩者的法律性質、結算終局性與風險管理如何區分。",
+    "代幣化外匯基金票據二級市場與回購交易是否需要配套的法律與基礎設施調整。"
+   ],
+   "holding": "・EnsembleTX：支援代幣化存款 24/7 真實價值交易，含跨境用途。\n・代幣化外匯基金票據：完成認可交易商二級市場試驗交易。\n・穩定幣：將於近期將受監理穩定幣納入試驗。\n・tConnect Launchpad：與數碼港合作，促進機構與業者共同驗證代幣化用例。",
+   "significance": "這是香港將央行主導的代幣化存款結算延伸至全天候、並準備讓持牌穩定幣進入同一試驗環境的一步，可觀察穩定幣納入的時程、參與發行人，以及代幣化外匯基金票據是否進一步擴及回購市場。",
+   "editorNote": "本網頁助理 註：金管局另就 Ensemble 發布專題新聞稿，本次未能開啟，細節以總新聞稿與媒體報導為準。",
+   "tags": [
+    "代幣化",
+    "代幣化存款",
+    "穩定幣",
+    "Project Ensemble",
+    "香港金管局",
+    "香港"
+   ],
+   "related": [
+    "2026-10-23-fin-hsbc-redcoin-payme-launch"
+   ],
+   "sources": [
+    {
+     "label": "香港金管局新聞稿（Hong Kong FinTech Week 2026）",
+     "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-3/",
+     "official": true
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/hong-kong-24-7-tokenized-settlement-stablecoin-trials/",
+     "official": false
+    },
+    {
+     "label": "The Standard 報導",
+     "url": "https://www.thestandard.com.hk/finance/article/347196/HKMA-unveils-four-key-areas-of-fintech-initiatives-DART-framework",
+     "official": false
+    },
+    {
+     "label": "蕃新聞報導",
+     "url": "https://n.yam.com/Article/20261102886887",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-02T23:55:54+08:00"
+  },
+  {
+   "id": "2026-11-02-fin-hkma-project-sage-agentic-ai",
+   "court": "HKMA",
+   "kind": "草案諮詢",
+   "caseId": "",
+   "jurisdiction": "香港",
+   "outlet": "香港金融管理局（HKMA）",
+   "outletCode": "HKMA",
+   "date": "2026-11-02",
+   "eventDate": "2026-11-02",
+   "importance": 2,
+   "author": "",
+   "title": "香港金管局推出代理型金融 Project SAGE，並發布銀行使用代理型 AI 討論文件徵詢業界意見",
+   "shortTitle": "金管局推 SAGE 計畫、徵詢代理型 AI 監理",
+   "point": "成立跨界專家小組，討論文件探詢是否需要 AI 代理登錄或「認識你的代理」標準",
+   "titleOriginal": "Hong Kong FinTech Week 2026 – Project SAGE (Securing Agentic Finance with Governance and Enablement)",
+   "caseRef": "",
+   "tldr": "香港金管局推出 Project SAGE，研究讓 AI 代理替客戶辦理金融事務的應用與配套治理，並發布討論文件，請銀行業就如何監理代理型 AI 提供意見，例如是否要建立可信任 AI 代理的登錄制度。",
+   "memo": "香港金融管理局於 2026 年 11 月 2 日宣布推出 Project SAGE（Securing Agentic Finance with Governance and Enablement），並成立跨界別之代理型金融專家小組，涵蓋市場發展與用例、代理身分、互通標準及法律與監理框架四大範疇；同日發布銀行使用代理型 AI 之討論文件，就治理該等應用之監理考量徵詢業界意見，依 The Standard 報導並探詢是否需建立可信任代理之中央登錄或「認識你的代理」標準，新聞稿未載明回覆期限。",
+   "context": "金管局於 2026 年 10 月 15 日公布「ART」框架，更新負責任採用 AI 之監理指引，並預告將就代理型 AI 治理發布討論文件，探討以意圖為基礎之問責、重要 AI 代理登錄及有效介入機制。此次即為該討論文件之發布，並屬金管局 DART 架構中人工智慧一環。",
+   "facts": [
+    "金管局於 2026 年 11 月 2 日香港金融科技週宣布推出 Project SAGE。",
+    "SAGE 涵蓋四大範疇：市場發展與用例探索、代理身分、互通標準、法律與監理框架。",
+    "金管局成立代理型金融專家小組，成員來自金融機構、科技服務商、專業服務公司及學術界，名單未見於報導。",
+    "金管局同日發布銀行使用代理型 AI 之討論文件，徵詢業界對監理考量之意見；新聞稿未載明回覆期限。",
+    "依 The Standard 報導，討論文件探詢是否需要可信任代理之中央登錄或「認識你的代理」（know your agent）標準。",
+    "金管局亦與香港科技大學推出後量子密碼（PQC）工具包，協助銀行規劃轉換。",
+    "依蕃新聞報導，證監會行政總裁梁鳳儀同日表示，證監會擬為持牌機構制定網絡安全框架，並就自主程度較高的 AI 應用發布原則性實務指引。"
+   ],
+   "issues": [
+    "AI 代理代客戶執行交易時，銀行、AI 服務商與客戶之間的責任如何分配。",
+    "是否需要建立 AI 代理身分驗證與登錄制度（「認識你的代理」）。",
+    "既有消費者保護與授權規則如何適用於代理型 AI。"
+   ],
+   "holding": "・Project SAGE：在受控環境中探索代理型金融用例，並同步研擬治理框架。\n・專家小組：跨界別討論互通協定、治理、責任歸屬及消費者保護。\n・討論文件：就銀行使用代理型 AI 之監理考量徵詢意見，包括代理登錄或「認識你的代理」標準（依報導）。\n・PQC 工具包：提供銀行轉換至抗量子密碼之框架與工具。",
+   "significance": "香港是少數由銀行監理機關正式就代理型 AI 提出監理討論文件的法域，結果可能影響 AI 代理在支付與銀行服務中的身分、授權與責任規則；可留意討論文件的回覆期限與後續監理指引。",
+   "editorNote": "本網頁助理 註：SAGE 專題新聞稿與討論文件全文本次未能開啟，討論文件內容細節取自 The Standard 報導；證監會部分為媒體報導之演講內容。",
+   "tags": [
+    "人工智慧",
+    "代理型 AI",
+    "Project SAGE",
+    "香港金管局",
+    "香港證監會",
+    "香港"
+   ],
+   "related": [
+    "2026-10-15-fin-hkma-art-responsible-ai"
+   ],
+   "sources": [
+    {
+     "label": "香港金管局新聞稿（Hong Kong FinTech Week 2026）",
+     "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-3/",
+     "official": true
+    },
+    {
+     "label": "The Standard 報導",
+     "url": "https://www.thestandard.com.hk/finance/article/347196/HKMA-unveils-four-key-areas-of-fintech-initiatives-DART-framework",
+     "official": false
+    },
+    {
+     "label": "Blockchain.News 報導",
+     "url": "https://blockchain.news/news/hkma-launches-project-sage-agentic-finance-expert-group",
+     "official": false
+    },
+    {
+     "label": "蕃新聞報導",
+     "url": "https://n.yam.com/Article/20261102886887",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-02T23:55:54+08:00"
+  },
+  {
+   "id": "2026-10-30-fin-fatf-virtual-asset-targeted-review",
+   "court": "FATF",
+   "kind": "國際標準",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "ComplyAdvantage",
+   "outletCode": "CA",
+   "date": "2026-10-30",
+   "eventDate": "2026-10-30",
+   "importance": 2,
+   "author": "Audrey Langevin（ComplyAdvantage）",
+   "title": "FATF 全會成果：對虛擬資產活動重要之法域啟動重點審查，2027 年 6 月及 10 月公布結果",
+   "shortTitle": "FATF 啟動虛擬資產重點審查",
+   "point": "依客觀標準選定重要法域，2027 年 6 月與 10 月分兩批公布結果",
+   "titleOriginal": "Outcomes FATF Plenary, 28-30 October 2026",
+   "caseRef": "",
+   "tldr": "FATF 在 10 月底全會決定，針對虛擬資產活動規模重要的國家或地區進行重點審查，檢視它們是否確實落實虛擬資產洗錢防制標準，結果將在 2027 年分兩批公布。",
+   "memo": "防制洗錢金融行動工作組織（FATF）於 2026 年 10 月 28 日至 30 日全會決議，為回應 2026 年 4 月部長宣言、加速落實虛擬資產相關標準，將依客觀標準選定虛擬資產部門或活動具重要性之法域進行重點審查（targeted review），並輔以加速追蹤及能力建構；依 ComplyAdvantage 整理，審查結果預定於 2027 年 6 月及 10 月分兩批公布，受審法域名單及選定標準尚未公布。",
+   "context": "FATF 自 2019 年將虛擬資產及虛擬資產服務提供者納入建議第 15 條，並定期發布落實情形之目標更新，但各國落實程度不一。2026 年 4 月 FATF 部長宣言要求加速落實。\n本網站已收錄本次全會之初步結果（加強虛擬資產防制、灰名單異動）；本則補充全會成果文件中有關虛擬資產重點審查之具體安排。",
+   "facts": [
+    "FATF 全會於 2026 年 10 月 28 日至 30 日在巴黎舉行。",
+    "全會決定對虛擬資產部門或活動具重要性之法域進行重點審查，依「客觀標準」選定，標準及名單尚未公布。",
+    "依 ComplyAdvantage 整理，審查結果預定於 2027 年 6 月及 10 月公布，並對受審法域提供加速追蹤與訓練、能力建構。",
+    "越南仍列灰名單，其未完成事項包括虛擬資產與服務提供者監理，須於 2027 年 2 月前展現進展；保加利亞移出灰名單，其完成事項包括虛擬資產服務提供者之市場進入管制。",
+    "黑名單之伊朗反制措施涵蓋虛擬資產服務提供者。",
+    "依蕃新聞報導，日本金融廳於 11 月 2 日轉載 FATF 聲明。"
+   ],
+   "issues": [
+    "哪些法域會被選入重點審查，選定標準是否透明。",
+    "審查結果與灰名單程序之關係，以及未落實法域可能面臨的後果。"
+   ],
+   "holding": "・重點審查：檢視虛擬資產重要法域落實 FATF 虛擬資產標準之情形。\n・時程：2027 年 6 月及 10 月分兩批公布結果（依 ComplyAdvantage）。\n・配套：加速追蹤、訓練及能力建構，協助法域儘速補正缺失。",
+   "significance": "重點審查將把國際壓力集中於主要加密資產中心，台灣、香港、新加坡等虛擬資產活動顯著之法域可能受到檢視；可留意 FATF 公布受審名單與標準，以及 2027 年 2 月全會的後續決定。",
+   "editorNote": "本網頁助理 註：FATF 全會成果官方頁面本次無法開啟，重點審查之時程等細節取自 ComplyAdvantage 整理及媒體報導。",
+   "tags": [
+    "洗錢防制",
+    "虛擬資產",
+    "FATF",
+    "灰名單",
+    "國際"
+   ],
+   "related": [
+    "2026-10-30-fin-fatf-october-plenary-virtual-assets"
+   ],
+   "sources": [
+    {
+     "label": "FATF 全會成果頁面（2026 年 10 月）",
+     "url": "https://www.fatf-gafi.org/en/publications/Fatfgeneral/outcomes-fatf-plenary-october-2026.html",
+     "official": true
+    },
+    {
+     "label": "ComplyAdvantage 分析",
+     "url": "https://complyadvantage.com/insights/fatf-plenary-october-2026-four-grey-list-exits-a-virtual-asset-review-and-a-new-focus-on-scam-compounds/",
+     "official": false
+    },
+    {
+     "label": "蕃新聞報導",
+     "url": "https://n.yam.com/Article/20261102138182",
+     "official": false
+    },
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-02T23:55:54+08:00"
+  },
+  {
+   "id": "2026-10-30-fin-thai-sec-digital-asset-derivatives-licensing",
+   "court": "OTHER",
+   "kind": "草案諮詢",
+   "caseId": "",
+   "jurisdiction": "泰國",
+   "outlet": "The Asian Banker",
+   "outletCode": "TAB",
+   "date": "2026-10-30",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "泰國證券交易委員會徵詢八項草案，擬讓數位資產業者直接申請衍生性商品業務執照",
+   "shortTitle": "泰國證交會徵詢數位資產衍生品執照",
+   "point": "八項公告草案，數位資產業者免另設公司即可申請，依報導意見至 11 月 28 日",
+   "titleOriginal": "Thailand's SEC consults on rules to allow digital asset derivatives",
+   "caseRef": "",
+   "tldr": "泰國證交會提出八項規則草案，讓已持照的數位資產業者可以直接申請經營以數位資產為標的的衍生性商品業務，不必另外成立公司，同時強化交易所與結算機構的財報標準。",
+   "memo": "依 The Asian Banker 2026 年 10 月 30 日報導，泰國證券交易委員會就八項公告草案徵詢公眾意見，擬修正衍生性商品交易所、結算機構及中介機構之執照框架，使數位資產業者得不另設公司而申請衍生性商品業務執照，並強化交易所與結算機構之財務報告標準；其法源為已將數位資產指定為合格標的之《衍生性商品法》（B.E. 2546）。依 Global Regulatory Brief 整理，意見徵詢至 2026 年 11 月 28 日。",
+   "context": "泰國依《衍生性商品法》（B.E. 2546／2003）已將數位資產指定為衍生性商品之合格標的。泰國證交會曾於 2026 年 4 月就讓數位資產業者直接申請衍生性商品執照徵詢意見（截止 5 月 20 日），此次為進一步提出具體公告草案。",
+   "facts": [
+    "依 The Asian Banker 報導（曼谷 10 月 29 日電），泰國證交會就八項公告草案徵詢意見。",
+    "草案涵蓋衍生性商品交易所、結算機構及中介機構之執照框架，使數位資產業者得不另設公司申請衍生性商品業務執照。",
+    "草案亦強化交易所及結算機構之財務報告標準，並使投資人可運用數位資產衍生性商品管理投資組合風險。",
+    "依 Global Regulatory Brief 整理，意見徵詢至 2026 年 11 月 28 日。"
+   ],
+   "issues": [
+    "數位資產交易平台兼營衍生性商品時之利益衝突與風險隔離。",
+    "零售投資人接觸槓桿型數位資產衍生性商品的保護措施。"
+   ],
+   "holding": "・執照：數位資產業者得直接申請衍生性商品業務執照，毋須另設法人。\n・標的：以數位資產作為衍生性商品標的。\n・財報：強化交易所及結算機構之財務報告標準。",
+   "significance": "泰國可望成為少數由境內持牌數位資產業者直接經營受監理加密衍生性商品的亞洲法域，可留意意見徵詢結束後的定案時程與零售投資人限制。",
+   "editorNote": "本網頁助理 註：泰國證交會官方新聞稿本次未能開啟，內容依 The Asian Banker 報導；意見截止日取自 Global Regulatory Brief，eventDate 因官方發布日未能確認而留空。",
+   "tags": [
+    "加密資產",
+    "衍生性商品",
+    "泰國證券交易委員會",
+    "泰國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "The Asian Banker 報導",
+     "url": "https://www.theasianbanker.com/press-releases/thailand-s-sec-consults-on-rules-to-allow-digital-asset-derivatives",
+     "official": false
+    },
+    {
+     "label": "Global Regulatory Brief 整理",
+     "url": "https://globalregulatorybrief.substack.com/p/global-regulatory-brief-4b5",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-02T23:55:54+08:00"
   }
  ],
  "agenda": [
@@ -3561,6 +3830,16 @@
    "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/consultations/cp-392-digital-asset-law-reform-implementation-proposed-standards-and-guidance",
    "relatedId": "2026-10-15-fin-asic-cp392-digital-asset-platforms",
    "caseId": "au-digital-assets-framework"
+  },
+  {
+   "id": "2026-11-28-other-thai-sec-da-derivatives-deadline",
+   "date": "2026-11-28",
+   "court": "OTHER",
+   "title": "泰國證交會數位資產衍生性商品執照草案意見截止",
+   "note": "截止日依 Global Regulatory Brief 整理，未經官方頁面確認",
+   "url": "",
+   "relatedId": "2026-10-30-fin-thai-sec-digital-asset-derivatives-licensing",
+   "caseId": ""
   },
   {
    "id": "2026-11-30-mas-fidrec-deadline",
@@ -3791,7 +4070,7 @@
    "nameOriginal": "Hong Kong stablecoins and tokenised products",
    "caseRef": "Cap. 656",
    "summary": "香港依《穩定幣條例》核發穩定幣發行人牌照，證監會並開放代幣化基金於虛擬資產交易平台次級交易。",
-   "status": "滙豐 RedCoin 10 月 23 日經 PayMe 分階段上線；證監會 10 月 26 日核准首例代幣化公募基金次級交易。"
+   "status": "金管局 11 月 2 日宣布 EnsembleTX 支援 24/7 代幣化存款交易並將納入受監理穩定幣試驗；滙豐 RedCoin 已於 10 月 23 日上線，證監會 10 月 26 日核准首例代幣化公募基金次級交易。"
   },
   {
    "id": "taiwan-vasp-act",
