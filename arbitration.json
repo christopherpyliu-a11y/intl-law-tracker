@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-02T23:13:13+08:00",
-  "lastRunLocal": "2026-11-02 23:13",
+  "lastRun": "2026-11-03T07:01:39+08:00",
+  "lastRunLocal": "2026-11-03 07:01",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 3 則：商務仲裁 2（法院裁判 1、評論 1）、投資仲裁 1（法院裁判 1）",
+  "lastRunNote": "新增 2 則：投資仲裁 2（法院裁判 2）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -4947,6 +4947,157 @@
     }
    ],
    "addedAt": "2026-11-02T23:13:13+08:00"
+  },
+  {
+   "id": "2026-10-29-arb-paris-ca-aratiri-uruguay-award-upheld",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "investment",
+   "caseId": "mehta-v-uruguay-aratiri",
+   "jurisdiction": "法國",
+   "outlet": "巴黎上訴法院（依新聞報導）",
+   "outletCode": "PARCA",
+   "date": "2026-10-29",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "巴黎上訴法院於發回更審後維持烏拉圭勝訴之 Aratirí 礦業仲裁判斷，駁回投資人約 35 億美元案之撤銷聲請",
+   "shortTitle": "Aratirí 案：巴黎法院更審維持烏拉圭勝訴判斷",
+   "point": "投資人撤銷仲裁庭無管轄權判斷之聲請遭駁回，並須負擔烏拉圭逾 400 萬美元費用",
+   "titleOriginal": "Ritika Mehta, Vinita Agarwal and Prenay Agarwal v. Oriental Republic of Uruguay (UNCITRAL, PCA) — Paris Court of Appeal decision on remand (October 2026)",
+   "caseRef": "",
+   "tldr": "英國籍投資人因烏拉圭 Aratirí 鐵礦計畫受挫，依英國與烏拉圭投資協定求償約 35 億美元，但仲裁庭在 2020 年以無管轄權駁回。巴黎上訴法院 2023 年曾撤銷該判斷，法國最高法院 2025 年廢棄後發回；這次重新審理的巴黎上訴法院維持判斷，烏拉圭再度勝訴。",
+   "memo": "巴黎上訴法院於 2026 年 10 月底（烏拉圭總統府與當地媒體所載日期分別為 10 月 28 日及 27 日），就 Ritika Mehta 等人與烏拉圭間依英國—烏拉圭投資協定進行之 UNCITRAL 仲裁（Aratirí 鐵礦案），於法國最高法院廢棄前審撤銷判決並發回後，駁回投資人撤銷 2020 年仲裁判斷之聲請。該判斷認定聲請人僅為持有計畫權益之全權信託受益人，於系爭措施發生時並非受保護投資之權利人，仲裁庭無管轄權。依報導，投資人須償還烏拉圭逾 400 萬美元費用，並另負擔約 30 萬之費用制裁；投資人所請求之損害賠償約 35.36 億美元。",
+   "context": "Aratirí 為 Zamin Ferrous 集團之烏拉圭子公司，2011 年起規劃於 Durazno 及 Florida 開發露天鐵礦，並鋪設輸送管線及在 Rocha 興建港口。投資人主張烏拉圭 2013 年 9 月大型礦業法變更特別稅制與國家分潤等規則，影響計畫。\n具英國國籍之 Ritika Mehta、Vinita Agarwal 與 Prenay Agarwal 依英國—烏拉圭雙邊投資協定，依 UNCITRAL 仲裁規則提起仲裁，由常設仲裁法院（PCA）管理，仲裁庭由 Andrés Rigo Sureda、O. Thomas Johnson 與 Pierre Mayer 組成，求償約 35.36 億美元，為烏拉圭史上最大國際求償。\n仲裁地在巴黎，撤銷訴訟由法國法院管轄。依報導，聲請人另提一件約 40 億美元之 ICSID 求償，因本案撤銷程序而暫停。",
+   "facts": [
+    "2020 年：仲裁庭採納烏拉圭之屬時管轄異議，認定聲請人為開曼群島全權信託之受益人，於被指控之違約發生時並未持有受協定保護之投資，以無管轄權駁回請求，並命聲請人償還烏拉圭逾 400 萬美元費用。",
+    "2023 年 2 月：巴黎上訴法院撤銷上述仲裁判斷，認定仲裁庭有管轄權。",
+    "2025 年 4 月：法國最高法院（Cour de cassation）以上訴法院違反民事訴訟法第 1520 條、實質審查仲裁判斷內容為由，全部廢棄前審判決，發回由不同組成之巴黎上訴法院更審，並命聲請人支付烏拉圭 5,000 歐元。",
+    "2026 年 10 月底：更審之巴黎上訴法院駁回撤銷聲請，維持仲裁判斷；烏拉圭總統府於 10 月 29 日公布結果。"
+   ],
+   "issues": [
+    "全權信託之受益人於措施發生時是否持有英國—烏拉圭投資協定所保護之投資（屬人及屬時管轄）。",
+    "法國撤銷法院審查仲裁庭管轄權認定之範圍（法國民事訴訟法第 1520 條第 1 款）。"
+   ],
+   "holding": "依新聞報導，巴黎上訴法院確認 2020 年仲裁判斷，駁回投資人之撤銷聲請；報導未說明法院之具體理由。\n烏拉圭總統府副秘書長 Jorge Díaz 表示，現任政府更換鑑定人及律師事務所、調整辯護策略，並將向投資人追討費用。",
+   "significance": "本判決使仲裁庭無管轄權之判斷再度確定有效，烏拉圭得請求投資人償還仲裁費用。Díaz 表示投資人仍可能採取其他法律行動；投資人是否再向法國最高法院提起上訴，以及另案 ICSID 求償是否續行，尚待觀察。",
+   "editorNote": "本網頁助理 註：本則依 Infobae（轉載 EFE）、The Rio Times 報導及 IAReporter 標題撰寫，尚未取得判決原文。判決日期，烏拉圭總統府稱 10 月 28 日，當地媒體稱 10 月 27 日，故未填裁判日期。費用制裁金額，Infobae 稱 30 萬歐元，The Rio Times 稱約 30 萬美元。仲裁開始時點，報導分別記載 2017 年宣布、2018 年提起。",
+   "tags": [
+    "烏拉圭",
+    "法國",
+    "撤銷仲裁判斷",
+    "雙邊投資協定",
+    "管轄權",
+    "信託",
+    "礦業",
+    "PCA",
+    "UNCITRAL",
+    "仲裁費用"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Infobae（EFE）報導：烏拉圭在巴黎勝訴",
+     "url": "https://www.infobae.com/america/agencias/2026/10/29/uruguay-gana-en-paris-la-revancha-judicial-a-la-minera-india-aratiri/",
+     "official": false
+    },
+    {
+     "label": "The Rio Times 報導",
+     "url": "https://www.riotimesonline.com/uruguay-wins-paris-ruling-aratiri-us3-5-billion-claim-2026/",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導（訂閱）",
+     "url": "https://www.iareporter.com/articles/uruguay-claims-success-on-remand-in-defending-against-set-aside-of-uncitral-award-that-declined-jurisdiction-over-mining-claim/",
+     "official": false
+    },
+    {
+     "label": "烏拉圭總統府 2025 年 4 月新聞稿（法國最高法院廢棄撤銷判決）",
+     "url": "https://www.gub.uy/presidencia/comunicacion/noticias/beneplacito-tranquilidad-alegria-provoca-gobierno-fallo-sobre-aratiri-segun",
+     "official": true
+    },
+    {
+     "label": "El Observador 報導：法國最高法院 2025 年判決",
+     "url": "https://www.elobservador.com.uy/nacional/el-caso-no-termino-como-sigue-el-arbitraje-aratiri-el-fallo-favorable-uruguay-n5992996/amp",
+     "official": false
+    },
+    {
+     "label": "CIAR Global 報導：2020 年仲裁判斷",
+     "url": "https://ciarglobal.com/el-arbitraje-de-la-minera-aratiri-se-zanja-con-el-triunfo-de-uruguay/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T07:01:39+08:00"
+  },
+  {
+   "id": "2026-11-02-arb-nl-ag-poland-intra-eu-arbitration-termination",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "investment",
+   "caseId": "dutch-investor-v-poland-termination",
+   "jurisdiction": "荷蘭",
+   "outlet": "荷蘭最高法院檢察總長（Parket bij de Hoge Raad）",
+   "outletCode": "PHR",
+   "date": "2026-11-02",
+   "eventDate": "2026-10-30",
+   "importance": 2,
+   "author": "",
+   "title": "荷蘭最高法院檢察總長建議維持命荷蘭投資人終止對波蘭歐盟內部投資仲裁之判決，認歐盟法優先於紐約公約",
+   "shortTitle": "荷蘭檢察總長：應維持命投資人終止對波蘭仲裁",
+   "point": "上訴法院以違反歐盟法為由命終止仲裁，檢察總長意見認歐盟法優先於紐約公約",
+   "titleOriginal": "Conclusie Parket bij de Hoge Raad, 30 oktober 2026, ECLI:NL:PHR:2026:1054 (zaaknr. 25/02606)",
+   "caseRef": "ECLI:NL:PHR:2026:1054; 25/02606",
+   "tldr": "荷蘭阿姆斯特丹上訴法院 2025 年命一名荷蘭投資人終止對波蘭提起的投資仲裁，理由是歐盟成員國之間的投資仲裁違反歐盟法。案件上訴到荷蘭最高法院後，最高法院的檢察總長（提供獨立意見的顧問）建議維持原判，並認為歐盟法比紐約公約優先。最高法院之後才會判決。",
+   "memo": "荷蘭最高法院檢察總長於 2026 年 10 月 30 日就第 25/02606 號案提出結論意見（ECLI:NL:PHR:2026:1054）。本案源於阿姆斯特丹上訴法院 2025 年 4 月 22 日判決，以荷蘭投資人對波蘭提起並繼續進行歐盟內部投資仲裁違反歐盟法及社會上應有之注意義務（荷蘭民法第 6:162 條）為由，命其終止仲裁，並設可達 1,000 萬歐元之強制金。依報導，檢察總長建議維持該命令，認歐盟法優先於紐約公約；本意見對最高法院無拘束力。",
+   "context": "歐盟法院 2018 年 Achmea 案（C-284/16）認定歐盟成員國間雙邊投資協定之仲裁條款違反歐洲聯盟運作條約第 267 條及第 344 條。其後歐盟成員國及部分國內法院進一步以禁訴令等方式阻止投資人繼續歐盟內部投資仲裁。\n本案中，波蘭在荷蘭法院起訴一名荷蘭投資人，請求命其終止對波蘭提起之投資仲裁，並請求確認相關仲裁條款與「時限條款」（horizonclausule，指協定終止後仍延續保護之條款）已失效。阿姆斯特丹上訴法院於 2025 年 4 月 22 日命投資人終止仲裁，違反者須支付可達 1,000 萬歐元之強制金。投資人向荷蘭最高法院提起第三審上訴。\n荷蘭最高法院檢察總長（advocaat-generaal）就上訴案件提出獨立法律意見，供最高法院參考，最高法院不受其拘束。",
+   "facts": [
+    "一名荷蘭投資人對波蘭提起歐盟內部投資仲裁；波蘭在荷蘭法院請求命其終止。",
+    "阿姆斯特丹上訴法院於 2025 年 4 月 22 日命投資人終止仲裁，並定可達 1,000 萬歐元之強制金。",
+    "投資人上訴至荷蘭最高法院（案號 25/02606）；檢察總長於 2026 年 10 月 30 日提出結論意見。"
+   ],
+   "issues": [
+    "提起並繼續歐盟內部投資仲裁，是否因違反歐盟法而構成荷蘭民法第 3:296 條、第 6:162 條所稱違反社會上應有之注意義務，得命終止仲裁。",
+    "相關投資協定之仲裁條款及時限條款是否已失效；其依國際公法之效力如何。",
+    "命終止仲裁是否違反紐約公約及荷蘭仲裁法；歐盟法與紐約公約之優先順序。",
+    "投資人在波蘭國內是否享有充分之權利保護。"
+   ],
+   "holding": "依 IAReporter 報導標題，檢察總長建議維持上訴法院命投資人配合終止歐盟內部仲裁之判決，並認為歐盟法優先於紐約公約。\nBanning 律師事務所轉載之意見摘要列出之爭點包括：Achmea 系列判決、歐洲聯盟運作條約第 267 條及第 344 條、荷蘭仲裁法、紐約公約、仲裁條款依國際公法之效力，以及投資人在波蘭之權利保護。",
+   "significance": "荷蘭為許多投資協定仲裁之仲裁地，也是荷蘭控股公司常用之投資架構所在。若最高法院採納本意見，荷蘭法院命投資人終止歐盟內部仲裁之作法將獲確認，與其他國家法院（如英國、美國、澳洲）承認歐盟內部判斷之立場衝突更趨明顯。最高法院判決日期尚未公布。",
+   "editorNote": "本網頁助理 註：本則依 IAReporter 報導標題、Banning 律師事務所轉載之意見摘要及 IISD Investment Treaty News 2025 年報導撰寫，尚未取得檢察總長意見全文（rechtspraak.nl 連結經本網頁助理讀取時未能顯示本件意見內容）。投資人名稱、相關仲裁之協定、機構及案號、檢察總長姓名及詳細理由均待查證。",
+   "tags": [
+    "荷蘭",
+    "波蘭",
+    "歐盟內部異議",
+    "Achmea",
+    "歐盟法",
+    "紐約公約",
+    "禁訴令",
+    "雙邊投資協定"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "荷蘭最高法院檢察總長結論意見（rechtspraak.nl）",
+     "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI%3ANL%3APHR%3A2026%3A1054&showbutton=true&idx=2",
+     "official": true
+    },
+    {
+     "label": "Banning 律師事務所轉載之意見摘要",
+     "url": "https://www.banning.nl/kennisbank/conclusie-parket-hoge-raad-civiel-recht-eclinlphr20261054-30-oktober-2026-25/02606",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導（訂閱）",
+     "url": "https://www.iareporter.com/articles/dutch-adviser-recommends-upholding-order-that-directed-investor-to-cooperate-in-terminating-intra-eu-arbitration-against-poland-opining-that-eu-law-prevails-over-new-york-convention/",
+     "official": false
+    },
+    {
+     "label": "IISD Investment Treaty News 報導：阿姆斯特丹上訴法院 2025 年判決",
+     "url": "https://www.iisd.org/itn/2025/09/04/dutch-investor-ordered-to-withdraw-intra-eu-arbitration-against-poland/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T07:01:39+08:00"
   }
  ],
  "agenda": [
@@ -5339,6 +5490,30 @@
    "caseRef": "[2026] EWCA Civ 1392",
    "summary": "OperaFund 等依能源憲章條約取得對西班牙約 2,930 萬歐元之 ICSID 判斷，受讓判斷債權的 Blasket 欲在英國取代原投資人執行。",
    "status": "英國上訴法院於 2026 年 11 月 2 日駁回 Blasket 上訴，認 ICSID 判斷之受讓人不得接手執行；西班牙以國家豁免聲請撤銷登記之程序仍待審理。"
+  },
+  {
+   "id": "mehta-v-uruguay-aratiri",
+   "type": "案件",
+   "court": "COURT",
+   "field": "investment",
+   "forum": "巴黎上訴法院",
+   "name": "Mehta 等訴烏拉圭（Aratirí 鐵礦案）",
+   "nameOriginal": "Ritika Mehta, Vinita Agarwal and Prenay Agarwal v. Oriental Republic of Uruguay",
+   "caseRef": "",
+   "summary": "英國籍投資人就 Aratirí 鐵礦計畫依英國—烏拉圭投資協定求償約 35 億美元；仲裁庭 2020 年以無管轄權駁回，其後在法國進行撤銷訴訟。",
+   "status": "巴黎上訴法院於 2026 年 10 月底發回更審後維持仲裁判斷，駁回撤銷聲請；另件 ICSID 求償暫停中。"
+  },
+  {
+   "id": "dutch-investor-v-poland-termination",
+   "type": "案件",
+   "court": "COURT",
+   "field": "investment",
+   "forum": "荷蘭最高法院",
+   "name": "荷蘭投資人被命終止對波蘭仲裁案",
+   "nameOriginal": "Republic of Poland v. Dutch investor (Hoge Raad, zaaknr. 25/02606)",
+   "caseRef": "ECLI:NL:PHR:2026:1054; 25/02606",
+   "summary": "波蘭在荷蘭法院請求命一名荷蘭投資人終止其歐盟內部投資仲裁，阿姆斯特丹上訴法院 2025 年 4 月准許並定強制金。",
+   "status": "檢察總長於 2026 年 10 月 30 日建議維持上訴法院判決，荷蘭最高法院判決待作成。"
   }
  ]
 }
