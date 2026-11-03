@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-03T23:42:54+08:00",
-  "lastRunLocal": "2026-11-03 23:42",
+  "lastRun": "2026-11-04T07:33:42+08:00",
+  "lastRunLocal": "2026-11-04 07:33",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 5 則：台灣 2（草案諮詢 2）、美國 1（監理指引 1）、歐盟 1（政策動態 1）、英國 1（監理指引 1）"
+  "lastRunNote": "新增 2 則：美國 2（政策動態 1、司法案件 1）"
  },
  "items": [
   {
@@ -4250,6 +4250,140 @@
     }
    ],
    "addedAt": "2026-11-03T23:42:54+08:00"
+  },
+  {
+   "id": "2026-11-03-fin-cftc-single-stock-perpetuals",
+   "court": "CFTC",
+   "kind": "政策動態",
+   "caseId": "us-perpetual-futures-jurisdiction",
+   "jurisdiction": "美國",
+   "outlet": "美國商品期貨交易委員會（CFTC）",
+   "outletCode": "CFTC",
+   "date": "2026-11-03",
+   "eventDate": "2026-11-03",
+   "importance": 2,
+   "author": "",
+   "title": "CFTC 主席宣布個股永續期貨視為已核准之證券期貨商品，可於 CFTC 註冊交易所交易",
+   "shortTitle": "CFTC 開放個股永續期貨交易",
+   "point": "依 Regulation 40.3 視為核准之證券期貨，由 CFTC 與 SEC 共同監理",
+   "titleOriginal": "Statement of Chairman Michael S. Selig on perpetual futures on individual equities",
+   "caseRef": "",
+   "tldr": "「永續期貨」是沒有到期日的期貨，原本主要在境外加密貨幣交易所流行。CFTC 今年先讓比特幣永續期貨在美國受監理交易所上市，現在進一步宣布，以個別股票為標的的永續期貨也可以在 CFTC 註冊交易所交易，並同時受證券法規與 SEC 監理。",
+   "memo": "美國商品期貨交易委員會（CFTC）主席 Michael S. Selig 於 2026 年 11 月 3 日發表聲明，宣布以個別股票為標的之永續期貨契約依 CFTC 規則第 40.3 條視為已核准之證券期貨商品，得於 CFTC 註冊交易所交易，並同時適用《商品交易法》及聯邦證券法規，由 CFTC 與證券交易委員會（SEC）依 2000 年《商品期貨現代化法》架構共同監理；依報導，聲明未指明上市交易所及開始交易日期。",
+   "context": "永續期貨源自境外加密資產交易所，無到期日並以資金費率機制使價格貼近現貨。CFTC 於 2026 年稍早核准首檔比特幣永續期貨於其監理之交易所上市，CME 集團隨後起訴，主張永續契約因無到期日應屬交換而非期貨。\n2000 年《商品期貨現代化法》（CFMA）建立以單一證券為標的之「證券期貨」由 CFTC 與 SEC 共同監理之制度；兩機關於 2026 年稍早簽署合作備忘錄。",
+   "facts": [
+    "CFTC 主席 Selig 於 2026 年 11 月 3 日發表聲明。",
+    "依報導，相關契約依 CFTC 規則第 40.3 條視為已核准之證券期貨商品。",
+    "依報導，聲明未指明交易所、適用股票或開始交易日期。",
+    "Selig 表示，此舉是將永續衍生商品「移回境內」，避免投資人轉往境外且常未受監理的平台。"
+   ],
+   "issues": [
+    "無到期日的永續契約能否定性為「期貨」（證券期貨），抑或屬交換、以證券為基礎之交換？",
+    "以自我認證或視為核准方式擴大至證券標的，是否需經 SEC 正式程序？"
+   ],
+   "holding": "・個股永續期貨可於 CFTC 註冊交易所交易，視為已核准之證券期貨商品。\n・商品須同時符合《商品交易法》與聯邦證券法規，由 CFTC 與 SEC 共同監理。\n・CFTC 將此定位為延伸先前加密永續期貨的監理架構，使相關交易回到美國受監理市場。",
+   "significance": "這是加密市場常見的交易工具首度擴及美國個股，CFTC 與傳統證券業者之間的管轄爭議因此升高：同日即有業者團體起訴請求撤銷。後續應留意交易所上市時程、SEC 的立場，以及法院是否暫停交易。",
+   "editorNote": "本網頁助理 註：CFTC 聲明頁面無法開啟，內容依 Finance Magnates、Bitcoin.com News 及 Lowenstein Sandler 整理；第 40.3 條為依報導之法律依據。",
+   "tags": [
+    "永續期貨",
+    "證券期貨",
+    "衍生性商品",
+    "加密資產",
+    "CFTC",
+    "SEC",
+    "美國"
+   ],
+   "related": [
+    "2026-11-03-fin-cma-sues-cftc-stock-perpetuals"
+   ],
+   "sources": [
+    {
+     "label": "CFTC 主席 Selig 聲明（11 月 3 日）",
+     "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement110326",
+     "official": true
+    },
+    {
+     "label": "Finance Magnates 報導",
+     "url": "https://www.financemagnates.com/institutional-forex/cftc-allows-perpetual-futures-to-expand-from-bitcoin-to-individual-stocks/",
+     "official": false
+    },
+    {
+     "label": "Bitcoin.com News 報導",
+     "url": "https://news.bitcoin.com/regulation-and-legal/cftc-breaks-new-ground-equity-perpetual-futures-green-light/",
+     "official": false
+    },
+    {
+     "label": "Lowenstein Sandler FinTech Five（11 月 3 日）分析",
+     "url": "https://www.lowenstein.com/news-insights/newsletters/fintech-five-november-3-2026",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T07:33:42+08:00"
+  },
+  {
+   "id": "2026-11-03-fin-cma-sues-cftc-stock-perpetuals",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-perpetual-futures-jurisdiction",
+   "jurisdiction": "美國",
+   "outlet": "CoinDesk",
+   "outletCode": "CD",
+   "date": "2026-11-03",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "Cboe、Citadel Securities 等組成的 Capital Markets Alliance 於紐約聯邦法院起訴 CFTC，請求撤銷個股永續期貨核准",
+   "shortTitle": "證券業團體起訴 CFTC 撤銷個股永續期貨",
+   "point": "主張屬 SEC 管轄的以證券為基礎之交換，且違反《行政程序法》",
+   "titleOriginal": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+   "caseRef": "",
+   "tldr": "CFTC 宣布開放個股永續期貨後，由 Cboe、Citadel Securities 等傳統金融業者支持的新團體 Capital Markets Alliance 隨即提告，認為這類商品其實是應歸 SEC 管的「以證券為基礎之交換」，CFTC 也沒有說明為何改變立場，請求法院撤銷。",
+   "memo": "依 CoinDesk 2026 年 11 月 3 日報導，Capital Markets Alliance（依其發言人，成員包括 Cboe、Citadel Securities 及 Healthy Markets Association）於紐約南區聯邦地方法院起訴美國商品期貨交易委員會（CFTC），主張 CFTC 核准之個股永續期貨屬應由證券交易委員會管轄之以證券為基礎之交換，且 CFTC 未說明其政策及偏離先前立場之理由，違反《行政程序法》，請求撤銷該政策。",
+   "context": "CFTC 於 2026 年 11 月 3 日宣布個股永續期貨視為已核准之證券期貨商品（見相關條目）。CME 集團先前已就 CFTC 允許加密永續期貨一事起訴，主張無到期日之永續契約屬交換而非期貨。\n美國法禁止向零售投資人銷售以證券為基礎之交換，除非於註冊交易所交易，因此商品定性直接影響零售投資人能否參與。",
+   "facts": [
+    "原告為 Capital Markets Alliance，依其發言人成員包括 Cboe、Citadel Securities 及 Healthy Markets Association。",
+    "依 CoinDesk，起訴法院為紐約南區聯邦地方法院；案號未見報導。",
+    "依 CoinDesk，起訴時間為 11 月 3 日；原告新聞稿網址顯示 11 月 2 日，確切日期待確認。",
+    "美國證券業協會（ASA）亦批評 CFTC 迴避 SEC 管轄及國會對零售銷售以證券為基礎之交換的限制。",
+    "截至報導時，CFTC 未回應。"
+   ],
+   "issues": [
+    "個股永續期貨應定性為證券期貨，或以證券為基礎之交換？",
+    "CFTC 未經說明即改變立場，是否構成《行政程序法》上恣意專斷？"
+   ],
+   "holding": "・原告主張：相關商品屬以證券為基礎之交換，應由 SEC 管轄。\n・原告主張：CFTC 未說明其政策內容及偏離先前立場之理由，違反《行政程序法》。\n・請求：撤銷 CFTC 的核准政策；依 Bloomingbit 報導並請求停止相關交易。",
+   "significance": "本案與 CME 對加密永續期貨的訴訟，將由法院檢驗 CFTC 擴張永續契約的權限，也牽動 CFTC 與 SEC 的管轄分工。應留意原告是否聲請暫時性救濟，以及 SEC 的立場。",
+   "editorNote": "本網頁助理 註：起訴狀與原告新聞稿全文未能開啟，內容依 CoinDesk 與 Bloomingbit 報導整理，均屬原告主張；起訴日期依 CoinDesk 為 11 月 3 日，但原告新聞稿網址日期為 11 月 2 日，故 eventDate 留空。",
+   "tags": [
+    "永續期貨",
+    "證券期貨",
+    "以證券為基礎之交換",
+    "行政程序法",
+    "CFTC",
+    "SEC",
+    "美國"
+   ],
+   "related": [
+    "2026-11-03-fin-cftc-single-stock-perpetuals"
+   ],
+   "sources": [
+    {
+     "label": "CoinDesk 報導",
+     "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+     "official": false
+    },
+    {
+     "label": "Capital Markets Alliance 新聞稿（Business Wire）",
+     "url": "https://www.businesswire.com/news/home/20261102755217/en/Capital-Markets-Alliance-Files-Suit-Challenging-CFTC-Approval-of-Single-Stock-Perpetual-Derivatives",
+     "official": false
+    },
+    {
+     "label": "Bloomingbit 報導",
+     "url": "https://en.bloomingbit.io/feed/news/123584",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T07:33:42+08:00"
   }
  ],
  "agenda": [
@@ -4690,6 +4824,17 @@
    "caseRef": "",
    "summary": "幣安於 2026 年 10 月 29 日前後遭竊約 63 億美元虛擬資產，引發各國執法機關追查洗錢及監理機關對境外交易所、保管與穩定幣凍結機制之檢討。",
    "status": "FBI 10 月 31 日認定北韓 TraderTraitor 為主謀並公布 628 個地址、呼籲業者封鎖；尚未見 OFAC 制裁指定。"
+  },
+  {
+   "id": "us-perpetual-futures-jurisdiction",
+   "type": "議題",
+   "court": "CFTC",
+   "forum": "美國商品期貨交易委員會（CFTC）；紐約南區聯邦地方法院等",
+   "name": "美國永續期貨監理與管轄爭議",
+   "nameOriginal": "US perpetual futures: CFTC approval and jurisdictional challenges",
+   "caseRef": "",
+   "summary": "CFTC 先允許加密資產永續期貨於其註冊交易所上市，再於 2026 年 11 月擴及個股永續期貨，CME 集團及傳統證券業者團體分別起訴，主張相關商品屬交換或以證券為基礎之交換。",
+   "status": "CFTC 11 月 3 日宣布個股永續期貨視為已核准之證券期貨商品，同日 Capital Markets Alliance 於紐約聯邦法院起訴請求撤銷；CME 先前對加密永續期貨的訴訟仍在進行。"
   }
  ],
  "archives": []
