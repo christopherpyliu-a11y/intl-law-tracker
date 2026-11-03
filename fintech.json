@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-03T07:30:04+08:00",
-  "lastRunLocal": "2026-11-03 07:30",
+  "lastRun": "2026-11-03T23:42:54+08:00",
+  "lastRunLocal": "2026-11-03 23:42",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：美國 1（司法案件 1）、英國 1（政策動態 1）、亞太與其他 1（迦納政策動態 1）"
+  "lastRunNote": "新增 5 則：台灣 2（草案諮詢 2）、美國 1（監理指引 1）、歐盟 1（政策動態 1）、英國 1（監理指引 1）"
  },
  "items": [
   {
@@ -546,7 +546,9 @@
    ],
    "related": [
     "2026-10-10-fin-taiwan-fsc-stablecoin-joint-venture-plan",
-    "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody"
+    "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody",
+    "2026-11-03-fin-taiwan-fsc-vasp-draft-subregulations",
+    "2026-11-03-fin-taiwan-fsc-stablecoin-issuance-draft"
    ],
    "sources": [
     {
@@ -784,7 +786,8 @@
    ],
    "related": [
     "2026-10-12-fin-fsb-global-stablecoin-monitoring",
-    "2026-10-15-fin-hkma-art-responsible-ai"
+    "2026-10-15-fin-hkma-art-responsible-ai",
+    "2026-10-19-fin-fca-ai-good-poor-practice"
    ],
    "sources": [
     {
@@ -1020,7 +1023,8 @@
     "台灣"
    ],
    "related": [
-    "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline"
+    "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline",
+    "2026-11-03-fin-taiwan-fsc-stablecoin-issuance-draft"
    ],
    "sources": [
     {
@@ -1315,7 +1319,8 @@
     "歐盟"
    ],
    "related": [
-    "2026-10-21-fin-ecb-cipollone-pontes-appia"
+    "2026-10-21-fin-ecb-cipollone-pontes-appia",
+    "2026-10-30-fin-ecb-digital-euro-network-providers"
    ],
    "sources": [
     {
@@ -2568,7 +2573,8 @@
    ],
    "related": [
     "2026-10-15-fin-fsb-ai-sound-practices-final",
-    "2026-11-02-fin-hkma-project-sage-agentic-ai"
+    "2026-11-02-fin-hkma-project-sage-agentic-ai",
+    "2026-10-19-fin-fca-ai-good-poor-practice"
    ],
    "sources": [
     {
@@ -3123,7 +3129,8 @@
    "related": [
     "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline",
     "2026-10-30-fin-cftc-selig-binance-hack-registration",
-    "2026-10-31-fin-fbi-binance-tradertraitor-blocklist"
+    "2026-10-31-fin-fbi-binance-tradertraitor-blocklist",
+    "2026-11-03-fin-taiwan-fsc-vasp-draft-subregulations"
    ],
    "sources": [
     {
@@ -3917,6 +3924,332 @@
     }
    ],
    "addedAt": "2026-11-03T07:30:04+08:00"
+  },
+  {
+   "id": "2026-11-03-fin-taiwan-fsc-vasp-draft-subregulations",
+   "court": "TW",
+   "kind": "草案諮詢",
+   "caseId": "taiwan-vasp-act",
+   "jurisdiction": "台灣",
+   "outlet": "鉅亨網",
+   "outletCode": "CNYES",
+   "date": "2026-11-03",
+   "eventDate": "2026-11-03",
+   "importance": 3,
+   "author": "",
+   "title": "金管會預告《虛擬資產服務法》授權子法草案：虛擬資產服務商依風險分級訂資本額與營業保證金，既有業者有 12 個月申請期",
+   "shortTitle": "金管會預告虛擬資產服務商子法草案",
+   "point": "交易平台與保管業最低資本 1 億元，全業務 5 億元，預計明年首季施行",
+   "titleOriginal": "金管會預告《虛擬資產服務法》9項子法草案 資本門檻、穩定幣發行規範一次看",
+   "caseRef": "",
+   "tldr": "金管會 11 月 3 日公布《虛擬資產服務法》的配套子法草案，規定虛擬資產業者要拿執照必須有多少資本、繳多少保證金，以及內控、人員、異常交易管理等要求。風險越高的業務門檻越高，現有業者在新制上路後有 12 個月可以申請執照；銀行初期可做兌換、移轉、保管與承銷，但還不能開交易平台。",
+   "memo": "依鉅亨網及經濟日報 2026 年 11 月 3 日報導，金融監督管理委員會於同日預告《虛擬資產服務法》（2026 年 7 月 22 日公布）授權之子法草案，其中證券期貨局主責八項，涵蓋虛擬資產服務商設立、人員資格、內部控制及稽核、財務報告、同業公會及異常交易管理。草案依業務風險分級訂定最低實收資本額及營業保證金：借貸業務新臺幣 2 億元及 5,000 萬元，交易平台及保管業務 1 億元及 3,000 萬元，兌換、移轉及承銷業務 5,000 萬元及 1,000 萬元，經營全部業務者 5 億元及 1.3 億元，兼營者合併計算；保管業者並應於每年 6 月及 12 月底依客戶資產淨額另提列 2.5%。子法預計與母法於 2027 年第一季同時施行，既有業者應於施行後 12 個月內申請許可。",
+   "context": "《虛擬資產服務法》於 2026 年 6 月 30 日三讀、7 月 22 日公布，將虛擬資產服務商由洗錢防制登記制改為許可制，並納入穩定幣發行管理。金管會先前表示九項授權子法將於 2027 年第一季前公布（見本站 10 月 20 日項目），並於幣安熱錢包遭駭後表示將從嚴規範保管業者。\n目前已完成洗錢防制登記的虛擬資產服務商共 11 家（依經濟日報報導），新制施行後須轉換為許可制。",
+   "facts": [
+    "依鉅亨網報導，金管會於 2026 年 11 月 3 日預告子法草案；證期局主責八項，銀行局另提出穩定幣發行許可及管理辦法草案及兩項洗錢防制相關修正。",
+    "資本額與營業保證金（依鉅亨網報導）：借貸業務 2 億元／5,000 萬元；交易平台、保管業務 1 億元／3,000 萬元；兌換、移轉、承銷業務 5,000 萬元／1,000 萬元；全部業務 5 億元／1.3 億元。兼營多項業務者合併計算。",
+    "依經濟日報報導，目前經營平台、兌換、移轉、保管等核心業務者，合計須資本 2.5 億元、保證金 7,000 萬元；無法達標者須縮減業務範圍。",
+    "保管業者應於每年 6 月及 12 月底，就客戶資產淨額（扣除存放金融機構等項目）另提列 2.5%（依鉅亨網報導）。",
+    "證期局副局長黃仲豪表示，子法預計與母法於 2027 年第一季同時施行；既有業者有 12 個月申請期，應於 9 至 12 個月內取得執照，整體過渡期最長約兩年（依鉅亨網報導）。",
+    "申請借貸業務須先經營交易平台至少一年，或經營兌換、保管業務兩年（依鉅亨網報導）。",
+    "依經濟日報報導，銀行初期可申請兌換、移轉、保管、承銷四項業務，兌換與移轉限法人客戶，保管可含質押（staking）；交易平台與借貸業務初期不開放。",
+    "依經濟日報報導，金管會正研議參考電子支付機構規範，限制虛擬資產服務商的保管餘額，以降低集中風險。"
+   ],
+   "issues": [
+    "依業務風險分級的資本與保證金門檻，對中小型既有業者的影響及業務縮減壓力。",
+    "銀行參與虛擬資產業務的範圍（初期不開放交易平台與借貸）是否妥適。",
+    "保管業者額外提列 2.5% 及可能的保管餘額上限，能否有效降低駭客事件等集中風險。"
+   ],
+   "holding": "・分級門檻：依借貸、交易平台與保管、兌換移轉與承銷三級訂定最低實收資本額與營業保證金，兼營者合併計算。\n・保管業者：每半年依客戶資產淨額另提列 2.5%。\n・業務順序：借貸業務須先有交易平台一年或兌換、保管兩年經驗。\n・銀行：初期可做兌換、移轉、保管、承銷，兌換與移轉限法人客戶。\n・過渡：子法預計 2027 年第一季與母法同時施行，既有業者 12 個月內申請許可。",
+   "significance": "這是台灣虛擬資產許可制的第一套具體門檻，將決定 11 家既有登記業者的增資或縮減業務壓力，並為銀行進入虛擬資產業務劃定範圍。應留意預告期間屆滿日、業者意見與定案內容，以及行政院公告施行日期。",
+   "editorNote": "本網頁助理 註：本則依鉅亨網與經濟日報報導整理，未能開啟金管會官方新聞稿或預告全文，條文名稱與預告期間以官方公告為準。報導對子法數目說法不一：鉅亨網標題稱九項子法，但內文列證期局八項、銀行局穩定幣辦法及兩項洗錢防制修正；經濟日報稱證期局發布八項草案。",
+   "tags": [
+    "虛擬資產服務法",
+    "虛擬資產保管",
+    "許可制",
+    "洗錢防制",
+    "金管會",
+    "台灣"
+   ],
+   "related": [
+    "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline",
+    "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody",
+    "2026-11-03-fin-taiwan-fsc-stablecoin-issuance-draft"
+   ],
+   "sources": [
+    {
+     "label": "鉅亨網報導（子法草案與資本門檻）",
+     "url": "https://news.cnyes.com/news/id/6645579",
+     "official": false
+    },
+    {
+     "label": "經濟日報報導（銀行可做四業務、增資期限）",
+     "url": "https://udn.com/news/story/7239/9855302",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T23:42:54+08:00"
+  },
+  {
+   "id": "2026-11-03-fin-taiwan-fsc-stablecoin-issuance-draft",
+   "court": "TW",
+   "kind": "草案諮詢",
+   "caseId": "taiwan-vasp-act",
+   "jurisdiction": "台灣",
+   "outlet": "中央社",
+   "outletCode": "CNA",
+   "date": "2026-11-03",
+   "eventDate": "2026-11-03",
+   "importance": 3,
+   "author": "",
+   "title": "金管會預告「穩定幣發行許可及管理辦法」草案：初期限銀行或金融業主導之合資公司發行，非銀行發行人資本額至少新臺幣 3 億元",
+   "shortTitle": "金管會預告穩定幣發行許可辦法草案",
+   "point": "非銀行發行人須金融業持股過半、資本 3 億元，預告 40 天",
+   "titleOriginal": "穩定幣發行資格 金管會：初期限定銀行或與金融業合資",
+   "caseRef": "",
+   "tldr": "金管會公布台灣穩定幣發行規則草案：初期只有銀行、金控或由金融業持股過半的合資公司能發行，科技業者不能自己單獨發行。穩定幣只能一比一連結新臺幣或單一外幣，準備資產要至少等於流通量，發行人要做實名查核，並能配合司法或警察機關迅速凍結。",
+   "memo": "依中央社 2026 年 11 月 3 日報導，金融監督管理委員會依《虛擬資產服務法》預告「穩定幣發行許可及管理辦法」草案，預告期間 40 日。草案規定得申請發行者為銀行、金融控股公司、銀行或金融控股公司投資之公司及經金管會公告之機構；非銀行發行人最低實收資本額為新臺幣 3 億元，金融業合計持股應逾半數且單一銀行或金融控股公司持股至少 25%。穩定幣以一比一連結新臺幣或單一外幣為限，準備資產按公允價值計算應不低於流通總額並定期經會計師查核；發行人應落實買回者身分查核、內部控制及資訊安全，向金管會及中央銀行申報，並依《洗錢防制法》第 5 條適用金融機構洗錢防制規範。",
+   "context": "《虛擬資產服務法》將穩定幣發行納入許可制，授權金管會訂定發行許可及管理辦法，穩定幣子法先前與中央銀行等部會協商。金管會 10 月曾表示研議開放跨業合資發行穩定幣（見本站 10 月 10 日項目），並稱金融機構最快 2027 年第一季可發行。\n同日金管會亦預告虛擬資產服務商相關子法草案（見相關項目）。",
+   "facts": [
+    "依中央社報導，草案預告期間 40 日；金管會銀行局副局長王允中說明草案內容。",
+    "申請人：銀行、金融控股公司或其投資之公司，以及金管會日後公告之機構；初期以前兩類為主。",
+    "非銀行發行人：最低實收資本額新臺幣 3 億元，須公開發行並專營穩定幣發行及贖回（依鉅亨網報導）；銀行、金控合計持股須逾半數，單一銀行或金控持股至少 25%，架構參考純網銀規範。",
+    "幣別：一比一連結新臺幣或單一外幣。依中央社報導，人民幣、港幣及澳門幣不得作為連結幣別；聯合新聞網報導則稱排除人民幣、港幣及澳幣。",
+    "準備資產以公允價值計算，應不低於流通在外穩定幣總額，並定期由會計師查核。",
+    "發行人須查核購買與買回者身分，建立內控、稽核、營運持續及資安制度，向金管會及央行申報財務業務資料，並能在司法或警察機關要求時迅速限制移轉。",
+    "王允中表示已有數家業者表達發行意願，但尚未提出具體用途與幣別。"
+   ],
+   "issues": [
+    "金融業持股過半的合資要求，是否過度限制非金融業者（如科技或支付業者）參與穩定幣市場。",
+    "排除特定幣別的依據及與《管理外匯條例》的關係。",
+    "準備資產組成、贖回與持有人保護等細節，以及央行在發行許可中的角色。"
+   ],
+   "holding": "・發行人資格：銀行、金控或其投資公司，及金管會公告之機構。\n・非銀行發行人：資本 3 億元、金融業合計持股逾半、單一銀行或金控至少 25%。\n・幣別：一比一連結新臺幣或單一外幣，排除特定幣別。\n・準備：公允價值不低於流通量，定期會計師查核。\n・營運：實名查核、內控與資安、向金管會及央行申報、依法迅速限制移轉。\n・洗錢防制：發行人屬《洗錢防制法》第 5 條之金融機構。",
+   "significance": "這是台灣首次公布穩定幣發行的具體法規草案，採銀行主導模式，與香港、美國允許非銀行發行人的做法不同。應留意 40 日預告期屆滿後的修正、央行意見，以及首批申請者與發行幣別。",
+   "editorNote": "本網頁助理 註：本則依中央社、聯合新聞網、鉅亨網與 NOWnews 報導整理，未能開啟金管會官方預告全文。報導間有出入：持股門檻有「逾 50%」與「51% 以上」兩種說法；排除幣別一說為人民幣、港幣、澳門幣（中央社），一說為人民幣、港幣、澳幣（聯合新聞網），以官方草案為準。依 NOWnews 報導，同日另預告「金融機構防制洗錢辦法」修正草案及銀行等金融機構防制洗錢內控辦法部分條文修正草案。",
+   "tags": [
+    "穩定幣",
+    "虛擬資產服務法",
+    "洗錢防制",
+    "金管會",
+    "中央銀行",
+    "台灣"
+   ],
+   "related": [
+    "2026-10-10-fin-taiwan-fsc-stablecoin-joint-venture-plan",
+    "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline",
+    "2026-11-03-fin-taiwan-fsc-vasp-draft-subregulations"
+   ],
+   "sources": [
+    {
+     "label": "中央社報導",
+     "url": "https://www.cna.com.tw/news/afe/202611030293.aspx",
+     "official": false
+    },
+    {
+     "label": "聯合新聞網報導（發行條件）",
+     "url": "https://udn.com/news/story/7239/9855145",
+     "official": false
+    },
+    {
+     "label": "鉅亨網報導（子法草案一覽）",
+     "url": "https://news.cnyes.com/news/id/6645579",
+     "official": false
+    },
+    {
+     "label": "NOWnews 報導（同日預告之洗錢防制修正）",
+     "url": "https://www.nownews.com/news/6889094",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T23:42:54+08:00"
+  },
+  {
+   "id": "2026-11-03-fin-sec-crypto-faq-governance-control",
+   "court": "SEC",
+   "kind": "監理指引",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "crypto.news",
+   "outletCode": "CNEWS",
+   "date": "2026-11-03",
+   "eventDate": "2026-11-02",
+   "importance": 2,
+   "author": "",
+   "title": "SEC 公司財務部更新加密資產常見問答，新增三題說明代幣治理與「中心化控制方」的判斷",
+   "shortTitle": "SEC 更新加密資產問答 談治理與控制",
+   "point": "代幣持有人一般投票不構成控制群體，可運作的網路未必已去中心化",
+   "titleOriginal": "Who really controls a crypto project? Inside the SEC's new guidance",
+   "caseRef": "Crypto Asset FAQs Q1.4–1.6",
+   "tldr": "SEC 公司財務部的工作人員在加密資產問答中新增三題，說明什麼情況下一個區塊鏈網路仍有「掌控者」：一般代幣持有人一起投票通常不算；但若某人能單方面決定誰能參與、控制驗證者、修改程式碼或撤銷交易，就可能被視為中心化的控制方。網路能正常運作，也不代表已經去中心化。",
+   "memo": "依 crypto.news 及 Crypto News Flash 2026 年 11 月 3 日報導，美國證券交易委員會（SEC）公司財務部於 2026 年 11 月 2 日更新其加密資產常見問答，新增第 1.4 至 1.6 題：分散之代幣持有人就相同提案投票，原則上不因此構成控制群體；對網路存取、驗證者、協定程式碼或交易撤銷具單方權力者，則顯示存在中心化控制方；網路具功能性不當然代表已去中心化。該問答僅為工作人員見解，不具法律效力，委員會未予核准或否准，適用時仍依個案事實判斷，並以 2026 年 3 月 17 日之解釋性規則（Release No. 33-11412）為基礎。",
+   "context": "SEC 於 2026 年 3 月 17 日發布加密資產解釋性規則（Release No. 33-11412；34-105020），提出判斷加密資產是否涉及投資契約的框架；8 月另提出「Regulation Crypto Assets」規則草案。公司財務部以常見問答補充適用細節。\n依 Crypto News Flash 報導，「是否存在中心化控制方」也影響代幣回購能否獲得有利的工作人員處理。",
+   "facts": [
+    "依報導，問答於 2026 年 11 月 2 日更新，新增第 1.4（治理）、1.5（控制）、1.6（分類）題。",
+    "第 1.4 題：分散的代幣持有人就相同提案投票，一般不應僅因此被視為控制群體。",
+    "第 1.5 題：對網路存取、驗證者、協定程式碼或交易撤銷具單方權力，顯示存在中心化控制方；自動化、依規則運作者則相反。",
+    "第 1.6 題：網路可具功能性（代幣依程式運作），但仍未去中心化。",
+    "依 crypto.news 報導，問答亦指出委託投票可能使投票權集中，即使代幣持有看似分散。",
+    "問答僅代表工作人員見解，不改變法律，委員會未核准或否准。"
+   ],
+   "issues": [
+    "治理代幣投票、基金會行政權限與委託投票在證券法「控制」判斷中的地位。",
+    "「功能性」與「去中心化」分離後，專案方何時可主張不再屬於中心化控制方。",
+    "工作人員問答不具法律效力，對市場參與者的實際依賴程度。"
+   ],
+   "holding": "・一般代幣持有人共同投票：原則上不構成控制群體。\n・單方權力指標：控制存取、驗證者、程式碼修改或交易撤銷，指向中心化控制方。\n・功能性不等於去中心化：兩者可並存。\n・性質：工作人員見解，個案判斷，不具法律效力。",
+   "significance": "問答為代幣專案評估是否仍有「中心化控制方」提供較具體的判斷因素，影響證券法適用、代幣回購及交易平台上架評估。應留意 Regulation Crypto Assets 定案時是否吸收相同標準，以及國會市場結構立法的進展。",
+   "editorNote": "本網頁助理 註：本則依 crypto.news 與 Crypto News Flash 報導整理；SEC 問答頁面未能直接開啟，題目內容以 SEC 官方頁面為準。",
+   "tags": [
+    "加密資產",
+    "去中心化",
+    "SEC",
+    "證券法",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "SEC 公司財務部加密資產常見問答頁面",
+     "url": "https://www.sec.gov/about/divisions-offices/division-corporation-finance/faqs-crypto-assets",
+     "official": true
+    },
+    {
+     "label": "crypto.news 分析",
+     "url": "https://crypto.news/who-really-controls-a-crypto-project-inside-the-secs-new-guidance",
+     "official": false
+    },
+    {
+     "label": "Crypto News Flash 報導",
+     "url": "https://www.crypto-news-flash.com/new-sec-crypto-faq-token-buybacks-scrutiny/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T23:42:54+08:00"
+  },
+  {
+   "id": "2026-10-30-fin-ecb-digital-euro-network-providers",
+   "court": "ECB",
+   "kind": "政策動態",
+   "caseId": "eurosystem-digital-euro-tokenisation",
+   "jurisdiction": "歐盟",
+   "outlet": "歐洲中央銀行（ECB）",
+   "outletCode": "ECB",
+   "date": "2026-10-30",
+   "eventDate": "2026-10-30",
+   "importance": 1,
+   "author": "",
+   "title": "歐洲央行選定兩組數位歐元網路服務供應商，負責連接支付服務業者、各國央行與數位歐元平台",
+   "shortTitle": "歐洲央行選定數位歐元網路供應商",
+   "point": "Nexi／德國電信合約 9 月生效，Telefónica／Indra 自 2027 年 5 月起",
+   "titleOriginal": "ECB selects network service providers for the digital euro",
+   "caseRef": "",
+   "tldr": "歐洲央行選出兩組公司，負責數位歐元的「網路連線」，讓銀行、支付業者和各國央行能接上數位歐元平台。第一組已開始支援試點，第二組 2027 年 5 月加入；兩組都要在 2029 年前準備好，但是否真的發行數位歐元，仍待歐洲央行決定與歐盟立法。",
+   "memo": "歐洲中央銀行於 2026 年 10 月 30 日公布，經 2025 年 8 月 27 日啟動之徵選及招標程序，選定兩組數位歐元網路服務供應商，負責連接支付服務業者及各國中央銀行與數位歐元服務平台：第一順位為 Nexi Payments 與 Deutsche Telekom Business Solutions 組成之團隊，合約已於 2026 年 9 月 28 日生效，初期支援試點；第二順位為 Telefónica 與 Indra 組成之團隊，合約自 2027 年 5 月起算。兩者預期於 2029 年前具備支援數位歐元發行之能力，惟仍以歐洲央行管理委員會就下一階段之決定為前提。",
+   "context": "歐元體系 2025 年 10 月進入數位歐元下一階段，2026 年 7 月選定 36 家支付服務業者參與試點，試點營運預計 2027 年下半年起約 12 個月。數位歐元立法仍在歐盟三方協商中，歐洲央行稱最快 2029 年發行。",
+   "facts": [
+    "徵選程序於 2025 年 8 月 27 日啟動，其後進行招標。",
+    "第一順位：Nexi Payments S.p.A 與 Deutsche Telekom Business Solutions GmbH，合約 2026 年 9 月 28 日生效，初期涵蓋試點連線需求。",
+    "第二順位：Telefónica de España、Telefónica Global Solutions 與 Indra 組成之團隊，合約 2027 年 5 月開始。",
+    "提供數位歐元的支付服務業者可擇一供應商連線。",
+    "兩供應商預期 2029 年前可支援數位歐元發行，仍取決於管理委員會決定。"
+   ],
+   "issues": [
+    "數位歐元基礎設施採購進度與立法進程的落差。",
+    "雙供應商安排對營運韌性與歐洲支付自主的意義。"
+   ],
+   "holding": "・選定兩組網路服務供應商，提供支付服務業者、各國央行與數位歐元平台之間的連線。\n・第一順位支援試點，第二順位 2027 年 5 月起提供服務。\n・目標 2029 年前就緒，惟不預斷發行決定。",
+   "significance": "屬數位歐元基礎設施籌備的一步，顯示歐洲央行持續在立法完成前推進技術準備。應留意歐盟數位歐元規則三方協商結果與 2027 年下半年試點啟動。",
+   "editorNote": "",
+   "tags": [
+    "數位歐元",
+    "CBDC",
+    "支付服務",
+    "歐洲央行",
+    "歐盟"
+   ],
+   "related": [
+    "2026-10-06-fin-ecb-cipollone-digital-euro-2029"
+   ],
+   "sources": [
+    {
+     "label": "歐洲央行公告",
+     "url": "https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews261030.en.html",
+     "official": true
+    },
+    {
+     "label": "Ledger Insights 報導",
+     "url": "https://www.ledgerinsights.com/ecb-picks-nexi-and-telefonica-consortia-to-run-digital-euro-network-connections/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T23:42:54+08:00"
+  },
+  {
+   "id": "2026-10-19-fin-fca-ai-good-poor-practice",
+   "court": "FCA",
+   "kind": "監理指引",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "Global Regulation Tomorrow（Norton Rose Fulbright）",
+   "outletCode": "RT",
+   "date": "2026-10-19",
+   "eventDate": "2026-10-19",
+   "importance": 2,
+   "author": "",
+   "title": "英國 FCA 發布金融業運用 AI 之良好做法與待改善事項，說明既有規範如何適用於機器學習、生成式與代理型 AI",
+   "shortTitle": "FCA 發布金融業 AI 良好與不良做法",
+   "point": "不新增規範，要求業者對 AI 產出負責並指定高階經理人",
+   "titleOriginal": "AI in financial services: good practice and areas for improvement",
+   "caseRef": "",
+   "tldr": "英國金融行為監理總署整理業者使用 AI 的好做法與常見缺失，沒有新增規定，而是說明現有的消費者責任、治理問責和營運韌性規範怎麼套用到 AI。重點是：業者對 AI 的結果要負責、要有明確的高階主管負責、人工覆核不能流於形式。",
+   "memo": "英國金融行為監理總署（FCA）於 2026 年 10 月 19 日發布「金融服務業運用 AI：良好做法與待改善事項」，涵蓋機器學習、生成式 AI 及代理型 AI，並明示不創設新義務。文件就消費者責任（Consumer Duty）及弱勢客戶、治理與問責、營運韌性三方面列舉實例，要求業者對其建置、採購或使用之 AI 系統產出負責，於 AI 生命週期採風險基礎治理，指定高階經理人（SMF）負責各使用案例，保存可稽核紀錄，並將 AI 及第三方依賴納入營運韌性規劃；不良做法包括治理未就緒即部署、非正式核准及流於形式之人工覆核。",
+   "context": "英國對金融業 AI 採原則式、以既有規範為基礎的監理方式，未另立 AI 專法。FCA 透過 AI Live Testing 與 Supercharged Sandbox 等計畫與業者互動，並已討論代理型 AI 的監理議題。",
+   "facts": [
+    "發布日期：2026 年 10 月 19 日。",
+    "範圍：機器學習、生成式 AI 與代理型 AI；資料來自產業交流、監理工作與 AI 實驗計畫。",
+    "三大面向：消費者責任與弱勢客戶、治理與問責、營運韌性。",
+    "依 Clifford Chance 分析，良好做法包括以獨立專家小組挑戰 AI 使用案例、將模型風險與第三方管理流程延伸至 AI、對生成式 AI 產出以多項品質指標評估、設定紅黃綠風險門檻。",
+    "依 Clifford Chance 分析，不良做法包括治理就緒前即部署、仰賴非正式核准、僅監測技術表現，以及覆核人員未經審視即接受 AI 產出。",
+    "依 Global Regulation Tomorrow，FCA 高層 Jessica Rusu 另呼籲 AI 提供者以清楚一致的免責說明協助消費者理解 AI 金融資訊的限制。"
+   ],
+   "issues": [
+    "既有 Consumer Duty 與 SM&CR 問責制度是否足以涵蓋代理型 AI 的風險。",
+    "人工覆核如何避免流於形式（自動化偏誤）。",
+    "第三方 AI 供應商集中依賴對營運韌性的影響。"
+   ],
+   "holding": "・定位：不新增義務，說明既有規範如何適用於 AI。\n・責任：業者對其建置、採購或使用之 AI 產出負責。\n・治理：風險基礎、全生命週期治理，指定 SMF 負責並保存可稽核紀錄。\n・消費者：先界定需求與目標市場，測試不同族群結果，揭露 AI 使用及其限制。\n・韌性：盤點 AI 與第三方依賴，部署前壓力測試，備援基礎設施。",
+   "significance": "提供英國金融業 AI 治理的具體監理期待，也可作為其他法域（包括台灣金融業運用 AI 指引）的比較參考。應留意 FCA 後續就代理型 AI 的工作及與 HKMA、FSB 相關成果的互動。",
+   "editorNote": "本網頁助理 註：本則依 Global Regulation Tomorrow 與 Clifford Chance 對 FCA 文件的整理撰寫，FCA 原頁面未直接開啟。",
+   "tags": [
+    "人工智慧",
+    "代理型 AI",
+    "消費者責任",
+    "FCA",
+    "英國"
+   ],
+   "related": [
+    "2026-10-15-fin-fsb-ai-sound-practices-final",
+    "2026-10-15-fin-hkma-art-responsible-ai"
+   ],
+   "sources": [
+    {
+     "label": "FCA 良好與不良做法頁面",
+     "url": "https://www.fca.org.uk/publications/good-poor-practice/ai-financial-services",
+     "official": true
+    },
+    {
+     "label": "Global Regulation Tomorrow 摘要",
+     "url": "https://www.regulationtomorrow.com/2026/10/fca-good-and-poor-practice-ai-in-financial-services-good-practice-and-areas-for-improvement/",
+     "official": false
+    },
+    {
+     "label": "Clifford Chance 分析",
+     "url": "https://www.cliffordchance.com/insights/resources/blogs/regulatory-investigations-financial-crime-insights/2026/10/fca-sets-out-good-and-poor-practice-for-firms-using-ai.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T23:42:54+08:00"
   }
  ],
  "agenda": [
@@ -4257,7 +4590,7 @@
    "nameOriginal": "Digital euro; Pontes and Appia",
    "caseRef": "",
    "summary": "歐元體系推動數位歐元立法與試點，並以 Pontes、Appia 建構代幣化交易的央行貨幣結算基礎設施。",
-   "status": "數位歐元立法三方協商中，目標年底前完成；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成。"
+   "status": "數位歐元立法三方協商中；歐洲央行 10 月 30 日選定兩組網路服務供應商，試點營運預計 2027 年下半年展開；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成。"
   },
   {
    "id": "uk-cryptoasset-regime",
@@ -4290,7 +4623,7 @@
    "nameOriginal": "Taiwan Virtual Asset Service Act and subsidiary regulations",
    "caseRef": "",
    "summary": "《虛擬資產服務法》2026 年 6 月 30 日三讀、7 月 22 日公布，金管會研訂九項子法，包括穩定幣發行許可與管理。",
-   "status": "金管會表示九項子法預計 2027 年第一季前公布，並於幣安遭駭後稱將從嚴規範保管業者、年底前預告子法（依工商時報 10 月 31 日報導）；穩定幣子法仍在跨部會協商。"
+   "status": "金管會 11 月 3 日預告虛擬資產服務商子法及「穩定幣發行許可及管理辦法」草案（穩定幣草案預告 40 日），子法預計與母法於 2027 年第一季施行，既有業者有 12 個月申請期（依媒體報導）。"
   },
   {
    "id": "au-digital-assets-framework",
