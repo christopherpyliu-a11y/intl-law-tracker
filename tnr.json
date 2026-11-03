@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-03T23:16:11+08:00",
-  "lastRunLocal": "2026-11-03 23:16",
+  "lastRun": "2026-11-04T07:13:27+08:00",
+  "lastRunLocal": "2026-11-04 07:13",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：中國 2（政府措施 1、倡議 1）、其他 1（司法案件 1）"
+  "lastRunNote": "新增 1 則：俄羅斯 1（事件 1）"
  },
  "items": [
   {
@@ -2232,7 +2232,8 @@
    ],
    "related": [
     "2026-10-06-tnr-un-sr-russia-nowhere-is-safe",
-    "2026-10-26-tnr-russia-karetnikova-prosecution"
+    "2026-10-26-tnr-russia-karetnikova-prosecution",
+    "2026-11-03-tnr-russia-nevzorov-family-eviction"
    ],
    "sources": [
     {
@@ -3966,6 +3967,60 @@
     }
    ],
    "addedAt": "2026-11-03T23:16:11+08:00"
+  },
+  {
+   "id": "2026-11-03-tnr-russia-nevzorov-family-eviction",
+   "court": "RU",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "俄羅斯",
+   "outlet": "Meduza",
+   "outletCode": "Meduza",
+   "date": "2026-11-03",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "聖彼得堡法院判令流亡記者 Nevzorov 及其妻、子與岳母遷出遭沒收之住宅",
+   "shortTitle": "俄法院判流亡記者 Nevzorov 家人遷出住宅",
+   "point": "住宅前已遭沒收，法院再註銷全家含 83 歲岳母之戶籍登記",
+   "titleOriginal": "St. Petersburg court orders exiled journalist Alexander Nevzorov and his family evicted from their former home",
+   "caseRef": "",
+   "tldr": "俄羅斯流亡記者 Alexander Nevzorov 戰爭開始後離開俄國，已被缺席判刑、列為「外國代理人」，財產也遭沒收。依 Meduza 報導，聖彼得堡一家法院應國家財產管理機關請求，判令他與妻子、兒子和 83 歲岳母遷出原住宅並註銷戶籍登記。",
+   "memo": "依 Meduza 2026 年 11 月 3 日引聖彼得堡法院聯合新聞處報導，聖彼得堡濱海區法院准許俄羅斯聯邦財產管理署之請求，認定流亡記者 Alexander Nevzorov 及其妻 Lidia、其子與 83 歲岳母 Natalia Kolesnikova 已無權使用位於 Lisy Nos 之住宅，判令遷出並註銷其居住登記。該住宅已於 2024 年 12 月經法院宣告買賣無效後沒收；Nevzorov 前遭缺席判處有期徒刑八年，並被列為「外國代理人」。報導未載 Nevzorov 之回應。",
+   "context": "Alexander Nevzorov 為俄羅斯知名記者、前國家杜馬議員，2022 年俄羅斯全面入侵烏克蘭後與妻子 Lidia 離開俄國，長期公開批評戰爭。\n依 Meduza 先前報導，他已因散布有關軍隊之「假消息」遭缺席判處八年徒刑，並被列為「外國代理人」；他與妻子另被認定為「極端主義組織」，在俄財產遭沒收，2025 年春天當局又以兩人公開募款為由立案偵查「資助極端主義」。\n2024 年 12 月，聖彼得堡法院宣告其岳母 Natalia Kolesnikova 於 2023 年 8 月向女兒購得之 Lisy Nos 土地與房屋買賣無效並予沒收。",
+   "facts": [
+    "依 Meduza 2026 年 11 月 3 日報導（消息來源為聖彼得堡法院聯合新聞處），濱海區法院支持聯邦財產管理署之請求。",
+    "法院認定 Nevzorov、其妻、其子及 83 歲岳母已無權使用 Lisy Nos 住宅，判令遷出並註銷該址之居住登記。",
+    "該房地原屬岳母 Kolesnikova，2023 年 8 月自 Lidia 購得，2024 年 12 月遭法院宣告買賣無效並沒收。",
+    "報導未載法院判決日期、適用法條及 Nevzorov 之回應。"
+   ],
+   "issues": [
+    "沒收流亡者財產並延伸及於其在國內之親屬，是否構成以家屬為對象之跨國施壓。",
+    "以「規避」為由宣告親屬間買賣無效，對第三人財產權及正當程序之影響。"
+   ],
+   "holding": "・法院：聖彼得堡濱海區法院准許聯邦財產管理署請求，判令 Nevzorov 一家四人遷出並註銷登記。\n・前案：2024 年 12 月宣告岳母購屋契約無效並沒收房地；Nevzorov 另遭缺席判刑八年、列為外國代理人及「極端主義組織」。\n・回應：報導未載當事人或其律師回應。",
+   "significance": "本案顯示俄羅斯對流亡批評者的處置已由缺席審判與資產沒收延伸至其親屬名下財產與居住權。可留意當事人是否上訴，以及同年施行之「公民死亡」限制名單是否擴及 Nevzorov 等人。",
+   "editorNote": "本網頁助理 註：本則依 Meduza 報導整理，未取得判決原文；判決日期報導未載，故事件日期留空。報導未說明其子及岳母目前是否居住在俄羅斯。",
+   "tags": [
+    "跨國鎮壓",
+    "俄羅斯",
+    "流亡人士",
+    "資產沒收",
+    "家屬施壓",
+    "外國代理人",
+    "缺席審判"
+   ],
+   "related": [
+    "2026-10-23-tnr-russia-civil-death-registry"
+   ],
+   "sources": [
+    {
+     "label": "Meduza 報導",
+     "url": "https://meduza.io/en/news/2026/11/03/st-petersburg-court-orders-exiled-journalist-alexander-nevzorov-and-his-family-evicted-from-their-former-home",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T07:13:27+08:00"
   }
  ],
  "agenda": [
