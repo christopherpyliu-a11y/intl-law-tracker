@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-03T06:59:00+08:00",
-  "lastRunLocal": "2026-11-03 06:59",
+  "lastRun": "2026-11-03T23:10:07+08:00",
+  "lastRunLocal": "2026-11-03 23:10",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "本次未發現新動態"
+  "lastRunNote": "新增 2 則：ICC 1、ICJ 1"
  },
  "items": [
   {
@@ -4096,7 +4096,8 @@
    ],
    "addedAt": "2026-10-27T07:18:14+08:00",
    "related": [
-    "2026-10-09-icc-us-sanctions"
+    "2026-10-09-icc-us-sanctions",
+    "2026-11-02-icc-president-unga-sanctions"
    ]
   },
   {
@@ -4734,7 +4735,8 @@
    ],
    "addedAt": "2026-10-30T23:15:23+08:00",
    "related": [
-    "2026-10-27-icj-rules-amendments-50-56"
+    "2026-10-27-icj-rules-amendments-50-56",
+    "2026-11-02-icc-president-unga-sanctions"
    ]
   },
   {
@@ -5102,6 +5104,131 @@
    "related": [
     "2026-10-31-icc-duterte-waiver-status-conference"
    ]
+  },
+  {
+   "id": "2026-11-02-icc-president-unga-sanctions",
+   "court": "ICC",
+   "kind": "機構動態",
+   "caseId": "us-sanctions-icc",
+   "date": "2026-11-02",
+   "eventDate": "2026-11-02",
+   "importance": 2,
+   "title": "國際刑事法院院長赤根智子以視訊向聯合國大會提出年度報告，譴責美國制裁並呼籲全體會員國捍衛法院",
+   "shortTitle": "ICC 院長視訊向聯大報告並譴責制裁",
+   "point": "因美國制裁無法親赴紐約，呼籲全部 193 個會員國而非僅締約國出手保護法院",
+   "titleOriginal": "ICC President addresses United Nations General Assembly, Calls for renewed support amid threats",
+   "caseRef": "",
+   "tldr": "國際刑事法院每年要向聯合國大會報告工作。今年院長赤根智子因為本人也在美國制裁名單上，只能以視訊方式發言；她說美國的制裁是想阻撓司法，但不會成功，並請所有聯合國會員國一起保護法院。",
+   "memo": "國際刑事法院院長赤根智子於 2026 年 11 月 2 日以視訊方式向聯合國大會提出法院年度報告，指美國對法院法官、檢察官及法院整體之制裁意在阻撓司法、侵害司法獨立，並呼籲全體會員國個別及集體採取具體行動捍衛法院；另指出報告期間有六國通知退出《羅馬規約》，惟退出不解除締約期間所生義務，且對 Netanyahu 及 Gallant 之逮捕令仍待執行。",
+   "context": "國際刑事法院依其與聯合國之《關係協定》，每年向聯合國大會提出年度報告，由院長於大會全體會議說明。2025 年 11 月赤根智子曾親赴紐約報告。\n美國自 2025 年起陸續制裁 ICC 法官與檢察官，2026 年 10 月 9 日進一步將制裁擴及法院整體；其後歐洲議會將沙卡洛夫獎頒予 ICC、歐盟高級代表 Kallas 訪問法院，美國財政部則以一般許可讓法院續用美國科技服務（見本站前則）。",
+   "facts": [
+    "2026 年 11 月 2 日（紐約時間星期一），ICC 院長赤根智子向聯合國大會提出法院年度報告；據美聯社報導，因美國制裁，她以遠端視訊方式發言。",
+    "她指出美國對法院的措施「前所未有」，並特別提到制裁在 10 月 9 日宣布，正是前 ICC 法官 Navi Pillay 獲諾貝爾和平獎的同一天。",
+    "據 TRT World 報導，她表示遭制裁者包括她本人在內共 13 名法官與檢察官；報告期間有六國通知退出《羅馬規約》，此後另有一國啟動退出程序。",
+    "她提及巴勒斯坦情勢中對 Netanyahu 與 Gallant 的逮捕令仍未執行，並強調逮捕令須仰賴國家合作。",
+    "歐盟及其他支持國家在大會發言支持法院；美國國務院未立即回應。"
+   ],
+   "issues": [
+    "非締約國對國際法院（庭）法官與檢察官實施制裁，與司法獨立及國家主權平等原則的關係。",
+    "退出《羅馬規約》對締約期間所生義務及進行中程序的效果（《羅馬規約》第 127 條）。",
+    "締約國與非締約國對 ICC 的合作義務與逮捕令執行。"
+   ],
+   "holding": "本則為機構動態，非裁判。\n赤根智子主張：制裁的目的是阻撓司法進行，懲罰法官等於威脅司法獨立本身，並衝擊國家主權平等；法院將繼續以獨立、公正的方式履行職權。\n她呼籲全部 193 個聯合國會員國（不限於 125 個締約國）個別及集體採取具體行動保護法院與《羅馬規約》，並指出退出規約不能免除會員期間所生義務，也不影響進行中的程序。",
+   "significance": "這是美國把制裁擴及 ICC 整體後，法院首長首次在聯合國大會正式表態；院長無法親赴紐約本身即顯示制裁對法院對外運作的影響。大會稍後將就歡迎法院報告的決議案表決，各國發言內容可觀察國際社會對制裁的立場分布。",
+   "editorNote": "本網頁助理 註：本則依 Just Security 摘錄之美聯社報導、The New Arab 轉載之美聯社報導及 TRT World 報導撰寫；ICC 官方新聞稿網頁本次無法開啟，故未能核對講稿原文。發言日期係依報導所稱「星期一」及刊登日期推定為 11 月 2 日；13 人、六國退出等數字僅見於 TRT World，未經官方來源核對。",
+   "tags": [
+    "國際刑事法院",
+    "美國制裁",
+    "制裁",
+    "聯合國大會",
+    "年度報告",
+    "退出羅馬規約",
+    "逮捕令",
+    "以色列",
+    "美國"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院新聞稿",
+     "url": "https://www.icc-cpi.int/news/icc-president-addresses-united-nations-general-assembly-calls-renewed-support-amid-threats",
+     "official": true
+    },
+    {
+     "label": "The New Arab 轉載美聯社報導",
+     "url": "https://www.newarab.com/news/icc-president-hits-back-trump-penalties-remote-un-address",
+     "official": false
+    },
+    {
+     "label": "TRT World 報導",
+     "url": "https://www.trtworld.com/article/ac7b51fa772a",
+     "official": false
+    },
+    {
+     "label": "Just Security 每日摘要（11 月 3 日）",
+     "url": "https://www.justsecurity.org/163177/early-edition-november-3-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T23:10:07+08:00",
+   "related": [
+    "2026-10-26-other-icc-us-tech-license",
+    "2026-10-29-icj-president-unga-report"
+   ]
+  },
+  {
+   "id": "2026-11-02-icj-judges-election-2026",
+   "court": "ICJ",
+   "kind": "機構動態",
+   "caseId": "icj-election-2026",
+   "date": "2026-11-02",
+   "eventDate": "2026-11-03",
+   "importance": 2,
+   "title": "安理會與聯合國大會於 11 月 3 日同步選舉五名國際法院法官，九人角逐",
+   "shortTitle": "國際法院五席法官改選，九人角逐",
+   "point": "須同時取得安理會 8 票與大會 97 票，當選者 2027 年 2 月 6 日就任",
+   "titleOriginal": "Election of Five ICJ Judges",
+   "caseRef": "",
+   "tldr": "國際法院 15 名法官每三年改選五名。今年的選舉在 11 月 3 日於紐約舉行，由安理會和聯合國大會分別投票，候選人要在兩邊都過半才能當選；共有九人競逐五個席位，其中兩人是尋求連任的現任法官。",
+   "memo": "聯合國安全理事會與大會訂於 2026 年 11 月 3 日同步但分別選舉國際法院法官五名，候選人計九名（含現任法官 Hmoud 與 Okowa），奈及利亞籍候選人 Elias 已退選；當選須於安理會獲 8 票並於大會獲 97 票之絕對多數，當選者任期九年，自 2027 年 2 月 6 日起算。",
+   "context": "依《國際法院規約》第 4 條、第 8 條至第 12 條，國際法院法官由安理會與大會分別投票選出，候選人須在兩機關均獲絕對多數；兩機關結果不一致時各自續行投票，三次會議後仍有缺額者得召開聯合協商會議（第 12 條）。法官任期九年，每三年改選三分之一。",
+   "facts": [
+    "據 Security Council Report 2026 年 11 月 2 日報導，選舉訂於 11 月 3 日舉行，改選五席。",
+    "候選人九名：Dapo Akande（英國）、François Alabrune（法國）、Mahmoud Daifallah Hmoud（約旦，現任）、Luz del Carmen Ibáñez Carranza（秘魯）、Charles Chernor Jalloh（獅子山）、Rena Lee（新加坡）、Phoebe Okowa（肯亞，現任）、白珍鉉（Jin-Hyun Paik，韓國）、Marcelo Vázquez-Bermúdez（厄瓜多）。",
+    "奈及利亞籍候選人 Taoheed Olufemi Elias 已退出。",
+    "巴西、法國及印度籍現任法官不尋求連任；Hmoud 與 Okowa 的現任任期於 2027 年 2 月 5 日屆滿。"
+   ],
+   "issues": [
+    "《國際法院規約》第 10 條：安理會 8 票、大會 97 票之絕對多數要件。",
+    "兩機關結果不一致時之續行投票及第 12 條聯合協商會議程序。"
+   ],
+   "holding": "本則為選舉前預告，結果尚未產生。\n若任一機關有超過五名候選人獲絕對多數，須續行投票至恰好五人為止；各機關主席在另一機關完成投票前不公布結果。",
+   "significance": "本屆改選將決定 2027 年起國際法院近三分之一的組成，候選人中多人具國際法委員會或國際法學術背景；結果將影響法院審理中的種族滅絕公約案件及諮詢程序的組成。",
+   "editorNote": "本網頁助理 註：本則僅依 Security Council Report 報導撰寫，尚未取得聯合國官方文件；Security Council Report 月報另稱有十名候選人，應係計入已退選之 Elias。韓國候選人中文姓名依其慣用寫法標示。選舉結果將於下次更新時補充。",
+   "tags": [
+    "國際法院",
+    "法官選舉",
+    "聯合國大會",
+    "安理會",
+    "第10條"
+   ],
+   "sources": [
+    {
+     "label": "Security Council Report：五名國際法院法官選舉",
+     "url": "https://www.securitycouncilreport.org/whatsinblue/2026/11/election-of-five-icj-judges.php",
+     "official": false
+    },
+    {
+     "label": "Security Council Report：2026 年 11 月月報概覽",
+     "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-11/overview-95.php",
+     "official": false
+    },
+    {
+     "label": "法國常駐聯合國代表團：Alabrune 參選介紹",
+     "url": "https://onu.delegfrance.org/francois-alabrune-candidate-for-judge-at-the-international-court-of-justice",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T23:10:07+08:00"
   }
  ],
  "agenda": [
@@ -5263,10 +5390,20 @@
    "date": "2026-11-09",
    "court": "ITLOS",
    "title": "阿根廷訴英國：專案法官宣誓",
-   "note": "漢堡，上午 10 時公開庭期；臨時措施言詞辯論接續於 11 月 10–11 日舉行。",
-   "url": "https://www.itlos.org/en/main/resources/calendar-of-events/",
+   "note": "漢堡，上午 10 時公開庭期（ITLOS 第 403 號新聞稿）；臨時措施言詞辯論接續於 11 月 10–11 日舉行。",
+   "url": "https://www.itlos.org/fileadmin/itlos/documents/press_releases_english/PR_403_en.pdf",
    "relatedId": "2026-10-20-itlos-argentina-uk-hearing",
    "caseId": "argentina-v-uk-sea-lion"
+  },
+  {
+   "id": "2026-11-03-icj-judges-election",
+   "date": "2026-11-03",
+   "court": "ICJ",
+   "title": "安理會與聯大選舉國際法院法官五名",
+   "note": "紐約聯合國總部，安理會與大會同步分別投票。",
+   "url": "https://www.securitycouncilreport.org/whatsinblue/2026/11/election-of-five-icj-judges.php",
+   "relatedId": "2026-11-02-icj-judges-election-2026",
+   "caseId": "icj-election-2026"
   }
  ],
  "archives": [],
@@ -5379,7 +5516,7 @@
    "nameOriginal": "U.S. sanctions against the International Criminal Court",
    "caseRef": "",
    "summary": "美國陸續制裁 ICC 官員，2026 年 10 月 9 日擴及法院整體；美國法院訴訟、歐盟保護措施與各國表態同步進行。",
-   "status": "歐洲議會於 2026 年 10 月 22 日將沙卡洛夫獎頒予 ICC，歐盟高級代表 Kallas 次日訪問法院並表示將以外交促美撤回制裁；紐約南區聯邦地院已對部分原告核發初步禁制令，歐盟《阻斷法規》尚未啟動。"
+   "status": "ICC 院長赤根智子於 2026 年 11 月 2 日以視訊向聯大提出年度報告，譴責制裁並呼籲全體會員國捍衛法院；紐約南區聯邦地院已對部分原告核發初步禁制令，歐盟《阻斷法規》尚未啟動。"
   },
   {
    "id": "icc-governance",
@@ -5490,6 +5627,17 @@
    "caseRef": "ICC-01/14-01/18",
    "summary": "國際刑事法院審理中非共和國反巴拉卡（Anti-Balaka）民兵領導人耶卡通與恩蓋索納涉犯戰爭罪及危害人類罪的案件。",
    "status": "上訴程序進行中；上訴分庭於 2026 年 8 月 25 日向當事人提出 11 項法律問題，檢方已於 9 月 30 日回應，尚未作成上訴判決。"
+  },
+  {
+   "id": "icj-election-2026",
+   "type": "議題",
+   "court": "ICJ",
+   "forum": "聯合國安理會／聯合國大會",
+   "name": "2026 年國際法院法官改選",
+   "nameOriginal": "2026 election of five members of the International Court of Justice",
+   "caseRef": "",
+   "summary": "安理會與大會分別投票，改選國際法院五名法官，當選者任期自 2027 年 2 月 6 日起九年。",
+   "status": "選舉訂於 2026 年 11 月 3 日在紐約舉行，九人角逐五席。"
   }
  ]
 }
