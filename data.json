@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-03T23:10:07+08:00",
-  "lastRunLocal": "2026-11-03 23:10",
+  "lastRun": "2026-11-04T07:00:27+08:00",
+  "lastRunLocal": "2026-11-04 07:00",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：ICC 1、ICJ 1"
+  "lastRunNote": "新增 2 則：ICJ 2"
  },
  "items": [
   {
@@ -1013,7 +1013,8 @@
    ],
    "related": [
     "2026-09-14-oj-gambia-myanmar-threshold",
-    "2026-09-28-oj-destroy-group-physically"
+    "2026-09-28-oj-destroy-group-physically",
+    "2026-11-03-icj-gambia-myanmar-judgment-date"
    ],
    "sources": [
     {
@@ -2009,7 +2010,8 @@
    ],
    "related": [
     "2026-09-14-oj-gambia-myanmar-threshold",
-    "2026-10-09-oj-gambia-myanmar-return"
+    "2026-10-09-oj-gambia-myanmar-return",
+    "2026-11-03-icj-gambia-myanmar-judgment-date"
    ],
    "sources": [
     {
@@ -2495,7 +2497,8 @@
    ],
    "related": [
     "2026-09-28-oj-destroy-group-physically",
-    "2026-10-09-oj-gambia-myanmar-return"
+    "2026-10-09-oj-gambia-myanmar-return",
+    "2026-11-03-icj-gambia-myanmar-judgment-date"
    ],
    "sources": [
     {
@@ -5228,7 +5231,151 @@
      "official": false
     }
    ],
-   "addedAt": "2026-11-03T23:10:07+08:00"
+   "addedAt": "2026-11-03T23:10:07+08:00",
+   "related": [
+    "2026-11-03-icj-judges-elected-2026"
+   ]
+  },
+  {
+   "id": "2026-11-03-icj-gambia-myanmar-judgment-date",
+   "court": "ICJ",
+   "kind": "程序進展",
+   "caseId": "gambia-v-myanmar",
+   "date": "2026-11-03",
+   "eventDate": "2026-11-03",
+   "importance": 3,
+   "title": "國際法院宣布將於 11 月 19 日就甘比亞訴緬甸種族滅絕公約案宣示實體判決",
+   "shortTitle": "甘比亞訴緬甸案 11 月 19 日宣判",
+   "point": "將作成終局實體判決，係法院史上第三件國家間種族滅絕案實體判決",
+   "titleOriginal": "Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar: 11 States intervening)",
+   "caseRef": "General List No. 178",
+   "tldr": "聯合國最高法院宣布，將在 11 月 19 日於海牙宣讀甘比亞控告緬甸對羅興亞人犯下種族滅絕的判決。這是終局判決、不能上訴，將回答緬甸是否違反《種族滅絕公約》、須負什麼責任。",
+   "memo": "國際法院於 2026 年 11 月 3 日宣布，將於同年 11 月 19 日在海牙和平宮公開宣示甘比亞訴緬甸（防止及懲治種族滅絕罪公約）案之實體判決。本案由甘比亞於 2019 年 11 月提起，指控緬甸於 2017 年在若開邦北部之軍事行動違反公約；實體言詞辯論已於 2026 年 1 月 29 日終結。判決具拘束力且不得上訴。",
+   "context": "甘比亞於 2019 年 11 月在伊斯蘭合作組織支持下，依《種族滅絕公約》第 9 條對緬甸提起訴訟，指控緬甸軍方 2016 至 2017 年間在若開邦北部對羅興亞人的「清剿行動」構成種族滅絕。法院於 2020 年 1 月指示臨時措施，2022 年 7 月駁回緬甸的初步反對主張。\n實體言詞辯論於 2026 年 1 月 12 日至 29 日舉行；共有 11 國獲准就公約解釋問題參加訴訟，但未參與言詞辯論。本站先前已收錄 Opinio Juris 上有關證明門檻、「消滅群體」意涵與羅興亞人返鄉救濟的評論。",
+   "facts": [
+    "據 DVB 與 HRW 報導，國際法院於 2026 年 11 月 3 日宣布將於 11 月 19 日宣示判決。",
+    "DVB 報導稱宣讀將於格林威治時間 08:00 在海牙和平宮開始，由 15 名法官組成的法庭宣示。",
+    "2017 年的軍事行動導致至少 73 萬名羅興亞人逃往孟加拉。",
+    "甘比亞請求法院確認緬甸實施種族滅絕、共謀種族滅絕、未防止及未懲治種族滅絕，並命緬甸賠償及提供不再犯的保證。",
+    "緬甸主張相關行動係回應「若開羅興亞救世軍」攻擊的反恐措施，否認具種族滅絕意圖，並爭執甘比亞所提證據的證明力。"
+   ],
+   "issues": [
+    "緬甸是否違反《種族滅絕公約》第 1 條、第 3 條至第 6 條所定義務（實施、共謀、未防止、未懲治）。",
+    "國家責任案件中推論種族滅絕特定意圖（dolus specialis）的證明標準。",
+    "違反公約時的救濟方式，包括賠償、不再犯保證與羅興亞人返鄉。"
+   ],
+   "holding": "本則為宣判日期公告，判決內容尚未公布。\n判決為終局且不得上訴；當事國不履行時，他方得依《聯合國憲章》第 94 條第 2 項請求安理會處理。",
+   "significance": "這將是國際法院史上第三件國家間種族滅絕案件的實體判決（前兩件為波士尼亞訴塞爾維亞、克羅埃西亞訴塞爾維亞）。法院如何處理特定意圖的推論標準，預料將影響審理中的南非訴以色列案。",
+   "editorNote": "本網頁助理 註：本則依 DVB 與 Human Rights Watch 報導撰寫；撰寫時國際法院網站本案頁面尚未顯示宣判日期之新聞稿，故未能核對官方公告及確切開庭時間。國際法院宣判通常於海牙當地上午舉行，DVB 所稱格林威治時間 08:00 與當地時間之換算，待官方新聞稿確認。",
+   "tags": [
+    "國際法院",
+    "種族滅絕公約",
+    "甘比亞",
+    "緬甸",
+    "羅興亞人",
+    "特定意圖",
+    "宣判"
+   ],
+   "sources": [
+    {
+     "label": "國際法院本案頁面",
+     "url": "https://www.icj-cij.org/case/178",
+     "official": true
+    },
+    {
+     "label": "國際法院新聞稿：實體言詞辯論終結（2026-01-29，PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/178/178-20260129-pre-01-00-en.pdf",
+     "official": true
+    },
+    {
+     "label": "DVB 報導",
+     "url": "https://english.dvb.no/icj-sets-date-for-landmark-gambia-v-myanmar-ruling-over-rohingya-genocide/",
+     "official": false
+    },
+    {
+     "label": "Human Rights Watch 問答",
+     "url": "https://www.hrw.org/news/2026/11/03/questions-and-answers-international-court-of-justice-judgment-in-myanmar-genocide",
+     "official": false
+    },
+    {
+     "label": "Bangkok Post 報導",
+     "url": "https://www.bangkokpost.com/world/3348440/top-un-court-to-rule-nov-19-on-myanmarrohingya-genocide-case",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T07:00:27+08:00",
+   "related": [
+    "2026-09-14-oj-gambia-myanmar-threshold",
+    "2026-09-28-oj-destroy-group-physically",
+    "2026-10-09-oj-gambia-myanmar-return"
+   ]
+  },
+  {
+   "id": "2026-11-03-icj-judges-elected-2026",
+   "court": "ICJ",
+   "kind": "機構動態",
+   "caseId": "icj-election-2026",
+   "date": "2026-11-03",
+   "eventDate": "2026-11-03",
+   "importance": 2,
+   "title": "安理會與聯合國大會選出國際法院法官，英國 Akande、新加坡 Lee 當選，肯亞 Okowa 連任",
+   "shortTitle": "國際法院改選：Akande、Lee 當選",
+   "point": "Lee 成首位新加坡籍法官，Okowa 經多輪投票擊敗秘魯候選人連任",
+   "titleOriginal": "Election of five members of the International Court of Justice (2026)",
+   "caseRef": "",
+   "tldr": "聯合國在 11 月 3 日改選國際法院五名法官。英國的 Dapo Akande 與新加坡的 Rena Lee 當選，肯亞的 Phoebe Okowa 經過幾輪僵持後連任；新任期自 2027 年 2 月起九年。",
+   "memo": "聯合國安全理事會與大會於 2026 年 11 月 3 日同步選舉國際法院法官五名。據報導，英國籍 Dapo Akande 與新加坡籍 Rena Lee 當選，Lee 於大會獲 151 票、於安理會獲 13 票；肯亞籍現任法官 Phoebe Okowa 經多輪投票後擊敗秘魯籍候選人連任。當選者任期九年，自 2027 年 2 月 6 日起算。",
+   "context": "本屆改選五席，九人參選；巴西、法國及印度籍現任法官不尋求連任，約旦籍 Hmoud 與肯亞籍 Okowa 尋求連任。依《國際法院規約》第 10 條，候選人須同時在安理會獲 8 票、在大會獲 97 票。英國自 2017 年 Greenwood 法官連任失利後即無本國籍法官。",
+   "facts": [
+    "選舉於 2026 年 11 月 3 日在紐約聯合國總部舉行。",
+    "Dapo Akande（英國）當選。",
+    "Rena Lee（新加坡）於大會獲 191 票中的 151 票、安理會 15 票中的 13 票當選，為首位新加坡籍國際法院法官。",
+    "Phoebe Okowa（肯亞）經數輪投票後，在最後一輪以大會 183 票、安理會 13 票擊敗秘魯籍候選人 Ibáñez Carranza 連任。",
+    "據肯亞媒體報導，Jalloh（獅子山）及厄瓜多、韓國籍候選人在最後一輪前退選。"
+   ],
+   "issues": [
+    "《國際法院規約》第 10 條：安理會與大會雙重絕對多數要件。",
+    "《國際法院規約》第 9 條：法院整體應代表世界各大文化及主要法系。"
+   ],
+   "holding": "已確認當選：Akande（英國）、Lee（新加坡）、Okowa（肯亞，連任）。\n其餘兩席當選人尚未取得可靠來源確認。",
+   "significance": "英國重返國際法院，新加坡首度有本國籍法官。新組成自 2027 年 2 月 6 日起生效，將參與審理中的南非訴以色列等種族滅絕公約案件及其他訴訟。",
+   "editorNote": "本網頁助理 註：本則依 Goody Feed、Arbiterz、AOL 及 Kenyan Foreign Policy 等媒體報導撰寫，尚未取得聯合國新聞稿或會議紀錄；其餘兩名當選人（推測為法國 Alabrune 與約旦 Hmoud，但未經證實）及完整票數，待官方資料公布後補充。Okowa 擊敗之秘魯候選人姓名為本網頁助理依候選人名單推定。",
+   "tags": [
+    "國際法院",
+    "法官選舉",
+    "聯合國大會",
+    "安理會",
+    "第10條",
+    "英國",
+    "新加坡",
+    "肯亞"
+   ],
+   "sources": [
+    {
+     "label": "Goody Feed：Rena Lee 當選報導",
+     "url": "https://goodyfeed.com/rena-lee-becomes-first-singaporean-elected-as-international-court-of-justice-judge/",
+     "official": false
+    },
+    {
+     "label": "Kenyan Foreign Policy：Okowa 連任報導",
+     "url": "https://kenyanforeignpolicy.com/kenyas-okowa-wins-icj-seat-after-tense-un-deadlock/",
+     "official": false
+    },
+    {
+     "label": "Arbiterz：Akande 當選報導",
+     "url": "https://arbiterz.com/nigerian-trained-british-lawyer-dapo-akande-elected-to-un-international-court-of-justice/",
+     "official": false
+    },
+    {
+     "label": "AOL 報導",
+     "url": "https://www.aol.co.uk/articles/british-lawyer-dapo-akande-elected-210939000.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T07:00:27+08:00",
+   "related": [
+    "2026-11-02-icj-judges-election-2026"
+   ]
   }
  ],
  "agenda": [
@@ -5404,6 +5551,16 @@
    "url": "https://www.securitycouncilreport.org/whatsinblue/2026/11/election-of-five-icj-judges.php",
    "relatedId": "2026-11-02-icj-judges-election-2026",
    "caseId": "icj-election-2026"
+  },
+  {
+   "id": "2026-11-19-icj-gambia-myanmar-judgment",
+   "date": "2026-11-19",
+   "court": "ICJ",
+   "title": "甘比亞訴緬甸（種族滅絕公約案）實體判決宣示",
+   "note": "海牙和平宮；據 DVB 報導於格林威治時間 08:00 開始，確切時間待法院公告。",
+   "url": "https://www.icj-cij.org/case/178",
+   "relatedId": "2026-11-03-icj-gambia-myanmar-judgment-date",
+   "caseId": "gambia-v-myanmar"
   }
  ],
  "archives": [],
@@ -5439,7 +5596,7 @@
    "nameOriginal": "Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar)",
    "caseRef": "",
    "summary": "甘比亞指控緬甸對羅興亞人的行為違反《防止及懲治種族滅絕罪公約》。",
-   "status": "實體辯論已於 2026 年 1 月 29 日結束，法院評議中。"
+   "status": "法院已宣布於 2026 年 11 月 19 日宣示實體判決。"
   },
   {
    "id": "drc-v-rwanda",
@@ -5637,7 +5794,7 @@
    "nameOriginal": "2026 election of five members of the International Court of Justice",
    "caseRef": "",
    "summary": "安理會與大會分別投票，改選國際法院五名法官，當選者任期自 2027 年 2 月 6 日起九年。",
-   "status": "選舉訂於 2026 年 11 月 3 日在紐約舉行，九人角逐五席。"
+   "status": "2026 年 11 月 3 日選舉完成，Akande、Lee 當選，Okowa 連任；其餘當選人待官方確認。"
   }
  ]
 }
