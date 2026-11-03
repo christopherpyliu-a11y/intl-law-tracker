@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-03T23:05:31+08:00",
-  "lastRunLocal": "2026-11-03 23:05",
+  "lastRun": "2026-11-04T07:00:30+08:00",
+  "lastRunLocal": "2026-11-04 07:00",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 2 則：商務仲裁 2（案件動態 1、機構 1）",
+  "lastRunNote": "新增 1 則：投資仲裁 1（案件動態 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -5220,6 +5220,83 @@
     }
    ],
    "addedAt": "2026-11-03T07:01:39+08:00"
+  },
+  {
+   "id": "2026-11-02-arb-apmc-v-usa-keystone-award",
+   "court": "NEWS",
+   "field": "investment",
+   "kind": "案件動態",
+   "caseId": "apmc-v-usa",
+   "jurisdiction": "美國",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-02",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "亞伯達省石油行銷委員會就 Keystone XL 管線案對美國提起的 NAFTA 遺留仲裁，據報已作成仲裁判斷而終結",
+   "shortTitle": "Keystone XL 案：亞伯達對美國仲裁作成判斷",
+   "point": "約 10 億美元求償據報以判斷終結，結果與理由尚未公開",
+   "titleOriginal": "Alberta Petroleum Marketing Commission v. United States of America (ICSID Case No. UNCT/23/4)",
+   "caseRef": "ICSID Case No. UNCT/23/4",
+   "tldr": "加拿大亞伯達省的省營機構「石油行銷委員會」（APMC）因美國拜登政府撤銷 Keystone XL 輸油管線許可，依 NAFTA 遺留投資條款對美國求償約 10 億美元。專業媒體 IAReporter 報導此案已作成仲裁判斷而結束，但勝敗與理由目前尚未公開。",
+   "memo": "依 IAReporter 2026 年 11 月 2 日報導，加拿大亞伯達省石油行銷委員會（APMC）依 NAFTA 及 USMCA 附件 14-C 遺留投資請求，就美國撤銷 Keystone XL 管線許可所提之 UNCITRAL 仲裁（ICSID 管理，案號 UNCT/23/4，仲裁地華盛頓特區，仲裁庭主任仲裁人 Campbell McLachlan），已作成終結程序之仲裁判斷；判斷日期、結果、理由及費用分擔尚未公開。",
+   "context": "Keystone XL 是由 TC Energy 興建、自加拿大亞伯達省輸送原油至美國的管線計畫。美國總統拜登於 2021 年 1 月就任當日撤銷該管線的跨境許可，計畫隨後終止。亞伯達省政府先前以省營機構 APMC 投資並支持此計畫。\nAPMC 於 2022 年 2 月 9 日提出爭端通知，主張美國違反 NAFTA 第 11 章義務，媒體報導其求償金額約 10 億美元。案件依 NAFTA 與 USMCA 附件 14-C 的「遺留投資請求」機制，適用 1976 年 UNCITRAL 仲裁規則，由 ICSID 擔任管理機構，仲裁地為華盛頓特區；仲裁庭由 Campbell A. McLachlan（主任仲裁人）、Stephen L. Drymer 與 Sean D. Murphy 組成。\n仲裁庭於 2024 年 8 月 7 日以第 4 號程序令同意美國聲請，將其管轄權抗辯先行審理（分階段審理），並於 2025 年 9 月 8 日至 10 日舉行公開的管轄權言詞辯論；加拿大與墨西哥依 NAFTA 第 1128 條提出非爭端締約方意見。\nTC Energy 自己就同一管線提起的 150 億美元 NAFTA 遺留仲裁，已於 2024 年 7 月遭仲裁庭以無管轄權駁回。",
+   "facts": [
+    "2021 年 1 月，美國撤銷 Keystone XL 管線的跨境許可。",
+    "2022 年 2 月 9 日，APMC 向美國提出 NAFTA 爭端通知。",
+    "2024 年 8 月 7 日，仲裁庭同意就美國管轄權抗辯分階段審理。",
+    "2025 年 9 月 8 日至 10 日，仲裁庭舉行管轄權言詞辯論。",
+    "2026 年 11 月 2 日，IAReporter 報導本案已作成仲裁判斷而終結。"
+   ],
+   "issues": [
+    "APMC 作為省營機構，是否屬於 NAFTA 第 11 章所稱之「投資人」（媒體及評論曾討論此問題）。",
+    "USMCA 附件 14-C 遺留投資請求的時間範圍，是否涵蓋 NAFTA 終止後、2021 年發生之措施。"
+   ],
+   "holding": "IAReporter 僅於標題報導本案「以仲裁判斷終結」；判斷日期、結果、理由與費用分擔，截至本則撰寫時均未見公開來源，italaw 案件頁面亦尚未刊登判斷。",
+   "significance": "本案是 Keystone XL 管線撤銷所引發的第二件 NAFTA 遺留投資仲裁，也涉及地方政府機構能否以投資人身分對外國提起條約仲裁的問題。判斷公開後，將可看出仲裁庭對附件 14-C 時間範圍及國營（省營）機構投資人資格的見解；仲裁地為華盛頓特區，敗訴方可考慮在美國法院聲請撤銷仲裁判斷。",
+   "editorNote": "本網頁助理 註：本則依 IAReporter 2026 年 11 月 2 日報導之標題撰寫，報導全文為付費內容，尚未取得仲裁判斷原文；案件背景依 italaw 案件頁面、ICSID 公開聲明及媒體報導撰寫。求償金額約 10 億美元係依 GAR 報導標題。\n以下為本網頁助理補充，非來源內容：本案經分階段審理，僅就管轄權進行言詞辯論，程序隨判斷終結，推測仲裁庭可能已接受美國的管轄權抗辯，但來源並未說明，仍待判斷公開確認。",
+   "tags": [
+    "ICSID",
+    "UNCITRAL",
+    "NAFTA",
+    "USMCA",
+    "遺留投資請求",
+    "管轄權",
+    "Keystone XL",
+    "美國",
+    "加拿大",
+    "亞伯達"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 公開言詞辯論通知（2025 年 8 月）",
+     "url": "https://icsid.worldbank.org/news-and-events/news-releases/alberta-petroleum-marketing-commission-v-united-states-america-icsid",
+     "official": true
+    },
+    {
+     "label": "italaw 案件頁面（APMC v. United States）",
+     "url": "https://www.italaw.com/cases/11109",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導（付費）",
+     "url": "https://www.iareporter.com/articles/nafta-legacy-arbitration-brought-by-albertas-petroleum-marketing-commission-against-the-usa-over-cancellation-of-keystone-xl-pipeline-concludes-with-award/",
+     "official": false
+    },
+    {
+     "label": "GAR 報導：Alberta seeks US$1 billion from US in NAFTA claim",
+     "url": "https://globalarbitrationreview.com/article/alberta-seeks-us1-billion-us-over-thwarted-pipeline",
+     "official": false
+    },
+    {
+     "label": "CBC 報導：TC Energy 的 Keystone XL 求償遭駁回（2024）",
+     "url": "https://www.cbc.ca/news/canada/calgary/bakx-kxl-tc-energy-alberta-nafta-1.7265034",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T07:00:30+08:00"
   }
  ],
  "agenda": [
@@ -5658,6 +5735,18 @@
    "caseRef": "No. 24-3005 (3d Cir.); No. 23-1175-CFC (D. Del.); No. 26A376 (U.S.)",
    "summary": "智利醫院特許公司 SCMS 持對義大利營造商 Astaldi 的聖地牙哥仲裁判斷（據報約 1.4 億美元），以 Webuild 為 Astaldi 權利繼受人為由，在德拉瓦州以 Webuild 子公司股份為準對物管轄基礎聲請執行。",
    "status": "第三巡迴上訴法院已撤銷駁回並發回審理權利繼受問題；Webuild 已向聯邦最高法院聲請調卷審查。"
+  },
+  {
+   "id": "apmc-v-usa",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID（UNCITRAL 規則）",
+   "name": "亞伯達石油行銷委員會訴美國（Keystone XL）",
+   "nameOriginal": "Alberta Petroleum Marketing Commission v. United States of America",
+   "caseRef": "ICSID Case No. UNCT/23/4",
+   "summary": "亞伯達省營機構 APMC 就美國撤銷 Keystone XL 管線許可，依 NAFTA 遺留投資條款求償約 10 億美元。",
+   "status": "據 IAReporter 2026 年 11 月 2 日報導已作成終結程序之仲裁判斷，結果尚未公開。"
   }
  ]
 }
