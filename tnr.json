@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-03T07:18:10+08:00",
-  "lastRunLocal": "2026-11-03 07:18",
+  "lastRun": "2026-11-03T23:16:11+08:00",
+  "lastRunLocal": "2026-11-03 23:16",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：伊朗 1（司法案件 1）"
+  "lastRunNote": "新增 3 則：中國 2（政府措施 1、倡議 1）、其他 1（司法案件 1）"
  },
  "items": [
   {
@@ -2885,7 +2885,8 @@
    "related": [
     "2026-10-22-tnr-taiwan-ey-candidate-protection",
     "2026-10-26-tnr-taiwan-tnr-bills-legislature",
-    "2026-10-30-tnr-taiwan-jrf-tnr-press-conference"
+    "2026-10-30-tnr-taiwan-jrf-tnr-press-conference",
+    "2026-11-03-tnr-taiwan-nsb-anti-infiltration-report"
    ],
    "sources": [
     {
@@ -3320,7 +3321,8 @@
     "世界維吾爾代表大會"
    ],
    "related": [
-    "2026-10-22-tnr-thailand-uyghurs-pardoned"
+    "2026-10-22-tnr-thailand-uyghurs-pardoned",
+    "2026-11-03-tnr-manushya-thailand-uyghurs-alert"
    ],
    "sources": [
     {
@@ -3643,7 +3645,8 @@
     "東非"
    ],
    "related": [
-    "2026-10-30-tnr-mwaipaya-court-produce-order"
+    "2026-10-30-tnr-mwaipaya-court-produce-order",
+    "2026-11-03-tnr-mwaipaya-ig-kanja-denies"
    ],
    "sources": [
     {
@@ -3773,6 +3776,196 @@
     }
    ],
    "addedAt": "2026-11-03T07:18:10+08:00"
+  },
+  {
+   "id": "2026-11-03-tnr-mwaipaya-ig-kanja-denies",
+   "court": "OTHER",
+   "kind": "司法案件",
+   "caseId": "mwaipaya-kenya-abduction",
+   "jurisdiction": "肯亞",
+   "outlet": "Court Helicopter",
+   "outletCode": "",
+   "date": "2026-11-03",
+   "eventDate": "2026-11-03",
+   "importance": 2,
+   "author": "",
+   "title": "肯亞警察總長 Kanja 依法院傳喚到庭，否認警方涉及擄走坦尚尼亞運動者 Mwaipaya",
+   "shortTitle": "肯亞警察總長到庭否認擄走 Mwaipaya",
+   "point": "稱 Mwaipaya 從未在警方羈押、不在任何警所，失蹤案仍在 Ruai 警局調查",
+   "titleOriginal": "IG Kanja Denies Police Involvement in Disappearance of Tanzanian Opposition Activist Twaha Mwaipaya",
+   "caseRef": "",
+   "tldr": "坦尚尼亞運動者 Mwaipaya 10 月 25 日在肯亞被擄走後仍下落不明。肯亞警察總長 Kanja 依法院命令親自出庭，表示警察及其所屬單位都沒有參與擄人，也從未把他關在任何警察單位，失蹤報案仍在調查中。報導未提及法院有新的裁示。",
+   "memo": "依 Court Helicopter 2026 年 11 月 3 日報導，肯亞警察總長 Douglas Kanja 依奈洛比 Milimani 高等法院法官 Alexander Muteti 之傳喚，就 Vocal Africa 為坦尚尼亞運動者 Twaha Mwaipaya 所提人身保護令聲請親自到庭，陳稱警察及其所屬單位均未參與據稱於 2026 年 10 月 25 日在 Machakos 郡 Kamulu 發生之擄人行為，Mwaipaya 從未在警方羈押，亦未拘禁於任何警察機關，失蹤人口案已於 Ruai 警察局立案調查中。報導未載法院就本次到庭另為裁示或續審期日。",
+   "context": "Mwaipaya 為坦尚尼亞反對黨 Chadema 青年動員協調人及人權捍衛者，依人權團體指控於 10 月 25 日在肯亞遭不明人士擄走。法院 10 月 30 日命警方「不論生死」交人，11 月 2 日因國家未提出宣誓書且未說明是否遭國家人員移出肯亞，傳喚警察總長本人到庭（見相關前則）。\n肯亞國家人權委員會、公民團體及 Chadema 均對此案表達關切。",
+   "facts": [
+    "警察總長 Kanja 依法官 Muteti 指示親自出庭。",
+    "Kanja 稱警察及其指揮下所有單位均未參與據稱的擄人行為。",
+    "Kanja 稱 Mwaipaya 從未在警方羈押中，也未被拘禁於全國任何警察局或其他警察設施。",
+    "Kanja 稱已有人向 Ruai 警察局報案失蹤，調查仍在進行。",
+    "報導未提及法院本次另有新的命令，也未載明續審日期；聲請人代理人 Martha Karua 對 Kanja 說法的回應未見報導。"
+   ],
+   "issues": [
+    "警方否認羈押後，法院能否進一步要求查明 Mwaipaya 是否經由國家人員或其他機關（如情報機關、移民機關）移出肯亞？",
+    "人身保護令程序在國家否認羈押時，對強迫失蹤的救濟效果如何？"
+   ],
+   "holding": "・警察總長立場：警方及所屬單位未參與擄人，Mwaipaya 未曾在警方羈押或任何警察設施，失蹤案調查中。\n・法院：報導未載本次新的裁示，僅稱法院預期將繼續審究事件經過。\n・聲請人：Vocal Africa 由資深律師 Martha Karua 代理，報導未載其回應。",
+   "significance": "警察首長親自到庭否認，使焦點轉向其他可能涉入的機關及是否已被送回坦尚尼亞。後續觀察法院是否命其他機關（如國家情報局）說明或要求提出調查報告，以及 Mwaipaya 的下落。",
+   "editorNote": "本網頁助理 註：Court Helicopter 報導未寫明到庭日期；eventDate 係依法院 11 月 2 日命警察總長 11 月 3 日到庭及報導同日刊出推定。Capital FM、TV47 同主題報導本次無法讀取。",
+   "tags": [
+    "跨國鎮壓",
+    "坦尚尼亞",
+    "肯亞",
+    "擄人",
+    "強迫失蹤",
+    "人身保護令",
+    "Chadema",
+    "東非"
+   ],
+   "related": [
+    "2026-11-02-tnr-mwaipaya-court-summons-ig"
+   ],
+   "sources": [
+    {
+     "label": "Court Helicopter 報導",
+     "url": "https://courthelicopter.co.ke/ig-kanja-denies-police-involvement-in-disappearance-of-tanzanian-opposition-activist-twaha-mwaipaya/",
+     "official": false
+    },
+    {
+     "label": "The Chanzo 報導（11 月 2 日庭期）",
+     "url": "https://thechanzo.com/2026/11/03/kenyan-court-demands-answers-beyond-police-denial-in-mwaipayas-case",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T23:16:11+08:00"
+  },
+  {
+   "id": "2026-11-03-tnr-taiwan-nsb-anti-infiltration-report",
+   "court": "CN",
+   "kind": "政府措施",
+   "caseId": "taiwan-tnr-response",
+   "jurisdiction": "台灣",
+   "outlet": "中央社",
+   "outletCode": "CNA",
+   "date": "2026-11-03",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "國安局書面報告：現行法對中共跨國鎮壓刑度輕、難追幕後，已啟動《反滲透法》等修法加重處罰",
+   "shortTitle": "國安局：啟動修反滲透法加重跨國鎮壓罰則",
+   "point": "現多以傷害、恐嚇、組織犯罪及個資法起訴，嚇阻有限且無法追究境外指揮者",
+   "titleOriginal": "國安局：啟動反滲透法等修法程序 加重跨國鎮壓罰則",
+   "caseRef": "",
+   "tldr": "國安局送交立法院的書面報告指出，目前跨國鎮壓案件只能用傷害、恐嚇等罪起訴，刑度輕、也抓不到境外下令的人。政府已啟動修法，擬擴大《反滲透法》等法律，處罰或加重處罰受境外敵對勢力指示、委託或資助，在台跟監、騷擾、威脅或攻擊他人的行為。立法院司法及法制委員會 11 月 5 日將就此舉行專題報告。",
+   "memo": "依中央社 2026 年 11 月 3 日報導，國家安全局為立法院司法及法制委員會訂於同年 11 月 5 日舉行之「跨境鎮壓對我國民主法治及人民基本權利之侵害與法律防制機制」專題報告提出書面報告，指出現行跨國鎮壓案件多依刑法傷害罪、恐嚇罪及組織犯罪防制條例、個人資料保護法起訴，刑度偏輕、嚇阻有限，且欠缺追究境外指揮者之法律工具；政府已啟動修法程序，研議擴充《反滲透法》等法規範圍，就受境外敵對勢力指示、委託或資助在台從事危害人身自由及安全行為者予以處罰或加重刑罰。",
+   "context": "台灣近期接連發生疑似受中國指使的跟監與攻擊事件，其中黃逸豪遭撞案已起訴 5 人。陸委會 10 月主張跨境鎮壓應單獨成罪，行政院 10 月 29 日表示將提《反滲透法》修正草案，立法院朝野亦各有提案（見本案件其他各則）。\n立法院司法及法制委員會 11 月 5 日邀法務部、陸委會、司法院、外交部、內政部及國安局專題報告。",
+   "facts": [
+    "國安局已將書面報告送交立法院，供 11 月 5 日司法及法制委員會專題報告使用。",
+    "報告稱境外勢力跨國鎮壓案件持續增加。",
+    "報告稱現行案件多以刑法傷害、恐嚇罪及組織犯罪防制條例、個人資料保護法起訴，刑度較輕、嚇阻有限，且缺乏追究國家級幕後主導者與境外指揮者的法律工具。",
+    "政府已啟動修法程序，研議擴充《反滲透法》等法規防制範圍，對受境外敵對勢力指示、委託或資助，在台從事跟監、騷擾、威脅或暴力攻擊者予以處罰或加重罰則；報導未載條文、刑度或時程。",
+    "報告比較外國立法：美國 2025 年「跨國鎮壓政策法案」、2026 年「停止跨國鎮壓法案」均未完成立法；德國今年新增刑法第 87a 條，處罰受外國勢力委託在德犯罪者及下令者；英國、加拿大亦已通過或推動立法。",
+    "國安情報團隊與檢察機關已建立專案協作機制，加強預警、保護潛在受害者、追查境外指使者身分、跨境金流與在台犯罪網絡，並強化邊境管理、清查黑幫及不肖徵信業者與中國的關聯。"
+   ],
+   "issues": [
+    "以擴充《反滲透法》處理跨國鎮壓，是否足以涵蓋網路騷擾、名譽或經濟損害等手法，抑或應另立專屬罪名？",
+    "如何在不過度擴張的前提下界定「受境外敵對勢力指示、委託或資助」的構成要件與證明方式？",
+    "對身處中國的境外指揮者，修法能否實際追訴？"
+   ],
+   "holding": "・現況評估：現行罪名刑度輕、嚇阻有限，無法追究國家級幕後主導者與境外指揮者。\n・修法方向：擴充《反滲透法》等法規，處罰或加重處罰受境外敵對勢力指示、委託或資助而危害人身自由與安全的行為。\n・執法措施：情報與檢察專案協作、預警與被害人保護、追查金流與在地協力網絡、清查黑幫與徵信業者。\n・比較法：美國法案尚未完成立法；德國刑法新增第 87a 條；英國、加拿大已立法或推動中。",
+   "significance": "國安局首度在送交立法院的正式報告中說明修法方向與比較法依據，與行政院先前宣布的《反滲透法》修正相互呼應。觀察 11 月 5 日專題報告中各部會說法、行政院草案條文何時公布，以及與朝野既有提案如何整合。",
+   "editorNote": "本網頁助理 註：報導未載書面報告送交日期，故 eventDate 留空；大紀元同日報導內容相同。Taipei Times 11 月 3 日英文報導本次無法讀取。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "台灣",
+    "反滲透法",
+    "修法",
+    "國安局",
+    "立法院",
+    "協力者"
+   ],
+   "related": [
+    "2026-10-29-tnr-taiwan-ey-anti-infiltration-amendment"
+   ],
+   "sources": [
+    {
+     "label": "中央社報導",
+     "url": "https://www.cna.com.tw/news/aipl/202611030184.aspx",
+     "official": false
+    },
+    {
+     "label": "大紀元報導",
+     "url": "https://www.epochtimes.com/b5/26/11/3/n14882117.htm",
+     "official": false
+    },
+    {
+     "label": "Taipei Times 報導",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/03/2003867090",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T23:16:11+08:00"
+  },
+  {
+   "id": "2026-11-03-tnr-manushya-thailand-uyghurs-alert",
+   "court": "CN",
+   "kind": "倡議",
+   "caseId": "thailand-uyghur-detainees",
+   "jurisdiction": "泰國",
+   "outlet": "Manushya 基金會",
+   "outletCode": "",
+   "date": "2026-11-03",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "Manushya 基金會警告泰國恐將兩名維吾爾人送回中國，指中國大使已會晤泰國國安會、外洩備忘錄稱中方要求遣返全部五人",
+   "shortTitle": "人權團體：中方要求泰國遣返五名維吾爾人",
+   "point": "依 Manushya 指控，中國大使 10 月 27 日會晤國安會，另有國家表示願接收",
+   "titleOriginal": "HUMAN RIGHTS ALERT: Will Thailand send two Uyghur men back to China and deepen its complicity in their persecution?",
+   "caseRef": "",
+   "tldr": "泰國人權團體 Manushya 基金會發出警訊：兩名 2014 年起被泰國拘押、今年獲特赦的維吾爾人，目前關在曼谷移民拘留中心等候遣送，兩人都表示不願回中國。該團體稱中國大使 10 月 27 日與泰國國安會會面，外洩內部備忘錄顯示中方要求把剩下五人全部送回；另據稱已有國家願意接收。",
+   "memo": "依 Manushya 基金會 2026 年 11 月 3 日發布之人權警訊，2014 年 3 月遭泰國拘押之維吾爾人中兩人經 2026 年 5 月 28 日特赦後，於同年 10 月 21 日移送曼谷 Suan Phlu 移民拘留中心待遣送，兩人均向律師表示不願返回中國，其律師及泰國國家人權委員會自移送後均未獲准會見。該基金會稱中國駐泰大使於 10 月 27 日會晤泰國國家安全會議，外洩內部備忘錄載中方要求遣返其餘五人，並稱泰國外交部代表表示已有國家願接收，要求泰國停止強制遣返並安置於第三國。",
+   "context": "2014 年泰國拘押 300 多名逃離中國的維吾爾人，2015 年及 2025 年 2 月（40 人）分別將部分人遣返中國。仍在泰國的五人中，有兩人於 2020 年脫逃被捕後遭判刑至 2029 年，今年經特赦後移至移民拘留中心（見本案件其他各則）。\n依 Manushya 說明，2026 年 8 月 28 日起施行的規定允許第三國請求移交，但申請期限短。",
+   "facts": [
+    "兩名男子 2014 年 3 月與 300 多名維吾爾人一同遭泰國拘押，其中一人當時為兒童；仍被拘押的五人中有兩人當時 16 歲。",
+    "2026 年 5 月 28 日特赦令使兩人符合釋放條件，10 月 21 日自監獄移至曼谷 Suan Phlu 移民拘留中心待遣送。",
+    "兩人均向律師表示不願回中國；律師及泰國國家人權委員會自移送後未獲准會見。",
+    "依 Manushya 稱，中國大使 10 月 27 日會晤泰國國家安全會議，外洩內部備忘錄稱中國大使館要求遣返其餘全部五人。",
+    "依 Manushya 稱，外交部代表表示已有一國願意接收兩人。",
+    "Khaosod English 11 月 1 日報導標題稱國會議員 Kannavee 敦促政府勿將五名維吾爾人送回中國（本網頁助理未能讀取內文）。"
+   ],
+   "issues": [
+    "將不願返國的維吾爾人遣返中國是否違反禁止酷刑公約及習慣國際法上的不遣返原則？",
+    "8 月 28 日新規定的第三國移交申請期限過短，是否使遣返中國成為預設結果？"
+   ],
+   "holding": "・Manushya 要求：停止強制遣返兩人及其餘三人；給予律師、國家人權委員會及聯合國難民署會見權並允許與家屬聯繫；個別風險評估與完整庇護程序；尊重當事人在律師在場下的知情決定；安置於第三國，避免期限屆滿即預設遣返中國；落實國家人權委員會 2025 年 10 月建議並修正遣送規定；促中國允許獨立監督 2025 年遭遣返的 40 人並公開其下落。",
+   "significance": "若外洩備忘錄屬實，顯示中國直接向泰國國安會施壓要求遣返全部五人，而第三國接收的選項已出現。後續觀察泰國國安會的決定與時點，以及聯合國與各國的反應。",
+   "editorNote": "本網頁助理 註：中國大使會晤與外洩備忘錄內容均為 Manushya 基金會的說法，泰國政府與中國大使館的回應未見報導。發布日期依該頁面中繼資料判斷。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "泰國",
+    "維吾爾",
+    "遣返",
+    "不遣返原則",
+    "第三國安置"
+   ],
+   "related": [
+    "2026-10-30-tnr-wuc-thailand-uyghurs-appeal"
+   ],
+   "sources": [
+    {
+     "label": "Manushya 基金會人權警訊原文",
+     "url": "https://www.manushyafoundation.org/post/human-rights-alert-will-thailand-send-two-uyghur-men-back-to-china-and-deepen-its-complicity-i",
+     "official": false
+    },
+    {
+     "label": "Khaosod English 報導（Kannavee）",
+     "url": "https://www.khaosodenglish.com/politics/2026/11/01/kannavee-urges-government-not-to-return-five-uyghurs-to-china/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T23:16:11+08:00"
   }
  ],
  "agenda": [
@@ -3785,6 +3978,16 @@
    "url": "https://www.kenyans.co.ke/news/129073-court-summons-ig-kanja-explain-disappearance-tanzanian-activist-twaha-mwaipaya",
    "relatedId": "2026-11-02-tnr-mwaipaya-court-summons-ig",
    "caseId": "mwaipaya-kenya-abduction"
+  },
+  {
+   "id": "2026-11-05-cn-taiwan-legislature-tnr-hearing",
+   "date": "2026-11-05",
+   "court": "CN",
+   "title": "立法院司法及法制委員會「跨境鎮壓」專題報告",
+   "note": "邀法務部、陸委會、司法院、外交部、內政部及國安局報告；日期依中央社報導，可能變動。",
+   "url": "https://www.cna.com.tw/news/aipl/202611030184.aspx",
+   "relatedId": "2026-11-03-tnr-taiwan-nsb-anti-infiltration-report",
+   "caseId": "taiwan-tnr-response"
   },
   {
    "id": "2026-11-12-cn-wanying-zhang-pretrial",
@@ -3859,7 +4062,7 @@
    "nameOriginal": "Taiwan's response to China-linked transnational repression",
    "caseRef": "",
    "summary": "台灣政府對受中國指使的跟監、恐嚇與暴力事件的偵辦、警示與修法動向。",
-   "status": "行政院 10 月 29 日稱將盡速提出《反滲透法》修正草案，處罰受境外敵對勢力指使跟監、騷擾、威脅者，條文尚未公開；民間司改會等團體 10 月 30 日另籲增訂專屬罪名與外國代理人登記制；立法院朝野提案均未三讀。"
+   "status": "行政院 10 月 29 日稱將提《反滲透法》修正草案；國安局 11 月 3 日書面報告稱已啟動修法，擬處罰或加重處罰受境外敵對勢力指使危害人身安全者，條文尚未公開；立法院司法及法制委員會 11 月 5 日專題報告，朝野提案均未三讀。"
   },
   {
    "id": "viet-tan-cambodia-abduction",
@@ -3936,7 +4139,7 @@
    "nameOriginal": "Uyghur detainees in Thailand (2014 group)",
    "caseRef": "",
    "summary": "2014 年在泰國被拘留的 300 多名維吾爾人中仍留在泰國者的去向；泰國曾於 2015 年及 2025 年將部分人遣返中國。",
-   "status": "兩名獲特赦者 10 月 21 日移至曼谷移民拘留中心，去向待國安會決定；世維會 10 月 30 日警告遣返迫在眉睫，籲第三國安置在泰五人。"
+   "status": "兩名獲特赦者 10 月 21 日起拘於曼谷移民拘留中心，去向待國安會決定；依 Manushya 11 月 3 日指控，中國大使 10 月 27 日會晤國安會要求遣返全部五人，另有國家表示願接收。"
   },
   {
    "id": "mwaipaya-kenya-abduction",
@@ -3947,7 +4150,7 @@
    "nameOriginal": "Abduction of Twaha Mwaipaya in Kenya",
    "caseRef": "",
    "summary": "坦尚尼亞反對黨 Chadema 前青年幹部 Mwaipaya 於 2026 年 10 月 25 日在肯亞 Machakos 郡遭不明人士擄走，人權團體擔憂屬跨國鎮壓。",
-   "status": "仍下落不明；警方 11 月 2 日未依令交人，國家律師稱人不在警方手中，法院傳喚警察總長 Kanja 於 11 月 3 日到庭說明是否遭遣返坦尚尼亞。"
+   "status": "仍下落不明；警察總長 Kanja 11 月 3 日到庭否認警方涉案或羈押，稱失蹤案調查中，報導未載續審日期。"
   },
   {
    "id": "bai-zhaodong-thailand-extradition",
