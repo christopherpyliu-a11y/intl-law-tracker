@@ -1,13 +1,135 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-03T07:01:39+08:00",
-  "lastRunLocal": "2026-11-03 07:01",
+  "lastRun": "2026-11-03T23:05:31+08:00",
+  "lastRunLocal": "2026-11-03 23:05",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 2 則：投資仲裁 2（法院裁判 2）",
+  "lastRunNote": "新增 2 則：商務仲裁 2（案件動態 1、機構 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
+  {
+   "id": "2026-11-02-arb-webuild-scotus-quasi-in-rem-petition",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "commercial",
+   "caseId": "scms-v-webuild",
+   "jurisdiction": "美國",
+   "outlet": "Law360（依新聞報導）",
+   "outletCode": "L360",
+   "date": "2026-11-02",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "Webuild 請求美國聯邦最高法院審理：法院能否僅因被告在州內有財產，就受理外國仲裁判斷的執行聲請",
+   "shortTitle": "Webuild 請美國最高法院釐清外國判斷執行管轄",
+   "point": "第三巡迴法院認為被告在州內有財產即可受理，Webuild 主張仍須最低限度接觸",
+   "titleOriginal": "Webuild S.p.A. v. Sociedad Concesionaria Metropolitana de Salud S.A. (petition for a writ of certiorari, U.S. Supreme Court); below: Sociedad Concesionaria Metropolitana de Salud S.A. v. Webuild S.p.A., No. 24-3005 (3d Cir. May 18, 2026)",
+   "caseRef": "No. 24-3005 (3d Cir.); No. 23-1175-CFC (D. Del.); No. 26A376 (U.S.)",
+   "tldr": "智利醫院特許公司在智利仲裁中贏了義大利營造商 Astaldi 約 1.4 億美元，再到美國德拉瓦州向接手 Astaldi 業務的 Webuild 請求執行，理由是 Webuild 在當地有子公司股份。上訴法院認為光是財產在州內，法院就有權受理；Webuild 現在請最高法院推翻這個見解。",
+   "memo": "義大利營造商 Webuild S.p.A. 已向美國聯邦最高法院聲請調卷審查（certiorari），挑戰美國第三巡迴上訴法院 2026 年 5 月 18 日於 Sociedad Concesionaria Metropolitana de Salud S.A. v. Webuild S.p.A. 案之判決。該判決援引 Shaffer v. Heitner 案註 36，認為依紐約公約聲請執行已確定之外國仲裁判斷時，法院得僅以債務人在法院地之財產（Webuild 所持德拉瓦州子公司股份）行使準對物管轄，無須具備最低限度接觸，並發回地方法院審認 Webuild 是否為判斷債務人 Astaldi 之權利繼受人。系爭判斷係智利聖地牙哥仲裁調解中心作成，金額據報約 1.4 億美元。",
+   "context": "本案源於智利聖地牙哥一所公立醫院的特許工程。智利公共工程部於 2014 年將醫院設計、興建與營運特許授予 Astaldi 集團，特許權其後移轉給智利公司 Sociedad Concesionaria Metropolitana de Salud（SCMS），SCMS 再與義大利營造商 Astaldi 的智利分公司簽訂設計施工契約。SCMS 於 2019 年 1 月終止契約，雙方在智利聖地牙哥仲裁調解中心（CAM Santiago）仲裁，SCMS 勝訴；智利上訴法院其後減縮損害賠償，但其餘維持。\nAstaldi 自 2018 年起在義大利進行重整（concordato），由 Webuild 注資並取得控制權，Webuild 於 2021 年 8 月取得 Astaldi 大部分業務，據報包括本醫院專案的資產與負債。Webuild 本身並非仲裁判斷所載的債務人。\nSCMS 依美國聯邦仲裁法及紐約公約向德拉瓦聯邦地方法院聲請執行，並以 Webuild 持有的德拉瓦州子公司股份作為準對物（quasi in rem）管轄的基礎。地方法院於 2024 年 9 月以欠缺對人管轄權駁回。",
+   "facts": [
+    "第三巡迴上訴法院（Shwartz、Matey、Fisher 法官，Fisher 法官主筆）於 2026 年 5 月 18 日撤銷地方法院的駁回裁定並發回。",
+    "上訴法院於 2026 年 6 月 30 日駁回 Webuild 的重新審理及全院審理聲請。",
+    "Webuild 於 2026 年 9 月向聯邦最高法院提出延長聲請調卷審查期間的申請（No. 26A376），其後提出調卷審查聲請；Law360 於 2026 年 11 月 2 日報導此事。"
+   ],
+   "issues": [
+    "依紐約公約聲請承認與執行外國仲裁判斷時，法院可否僅憑債務人在法院地有財產而行使準對物管轄，無須符合 Shaffer v. Heitner 案的最低限度接觸要求。",
+    "Shaffer 案註 36（對已經法院判決確定之債務，得在債務人財產所在地執行）是否及於仲裁判斷。",
+    "非判斷所載當事人的權利繼受爭議，應否在管轄階段一併審理。"
+   ],
+   "holding": "・第三巡迴上訴法院見解：Shaffer 案註 36 容許債權人在債務人有財產的任何州收取已經確定的債務；仲裁判斷與法院判決同樣是在公平程序後作成、具有既判力的義務，沒有理由區別對待。紐約公約課予美國法院執行判斷的義務，因此可僅以債務人財產在法院地作為管轄基礎，不要求財產與原爭議有關聯。\n・權利繼受：Webuild 是否須為 Astaldi 的債務負責，與管轄問題密不可分，地方法院應先認定，而不能以 Webuild 非判斷當事人為由駁回。\n・Webuild 的聲請：據 Law360 報導，Webuild 請求最高法院釐清法院能否僅以被告在州內的財產受理外國判斷執行案件；Webuild 先前聲請重新審理時即主張本判決加深各巡迴法院間的見解分歧。",
+   "significance": "若最高法院受理並推翻，判斷債權人在美國對與當地無其他關聯的外國債務人聲請執行時，將更難以財產所在作為管轄依據；若不受理，第三巡迴法院（涵蓋德拉瓦州）的見解將使在德拉瓦設有子公司的外國集團較易成為執行對象。案件同時發回德拉瓦地方法院審理 Webuild 是否為 Astaldi 的權利繼受人。",
+   "editorNote": "本網頁助理 註：本則依第三巡迴上訴法院判決（Justia 公開版本）、聯邦最高法院案卷中 No. 26A376 申請附件、Gibson Dunn 評析及 Law360 報導標題與摘要撰寫，尚未取得調卷審查聲請書全文，提出日期及案號待確認，故事件日期欄留空。判斷金額約 1.4 億美元係依 Law360 報導；判決書未載明金額。",
+   "tags": [
+    "承認與執行",
+    "紐約公約",
+    "美國",
+    "準對物管轄",
+    "對人管轄",
+    "權利繼受",
+    "智利",
+    "營建爭議"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "美國第三巡迴上訴法院判決（Justia）",
+     "url": "https://law.justia.com/cases/federal/appellate-courts/ca3/24-3005/24-3005-2026-05-18.html",
+     "official": false
+    },
+    {
+     "label": "美國聯邦最高法院案卷：No. 26A376 申請附件（PDF）",
+     "url": "https://www.supremecourt.gov/DocketPDF/26/26A376/424689/20260917144949812_Exs.%20A-C.pdf",
+     "official": true
+    },
+    {
+     "label": "Law360 報導（2026-11-02）",
+     "url": "https://www.law360.com/internationalarbitration/articles/2545340/webuild-asks-justices-to-clarify-foreign-award-jurisdiction",
+     "official": false
+    },
+    {
+     "label": "Gibson Dunn 評析",
+     "url": "https://www.gibsondunn.com/third-circuit-confirms-district-courts-authority-and-obligation-to-resolve-jurisdictional-disputes-in-arbitral-award-enforcement-disputes/",
+     "official": false
+    },
+    {
+     "label": "CourtListener 判決",
+     "url": "https://www.courtlistener.com/opinion/10860703/sociedad-concesionaria-metropolitana-de-salud-sa-v-webuild-spa/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-03T23:05:31+08:00"
+  },
+  {
+   "id": "2026-11-02-arb-icc-court-president-selection",
+   "court": "INST",
+   "kind": "機構動態",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "ICC 國際商會",
+   "outletCode": "ICC",
+   "date": "2026-11-02",
+   "eventDate": "2026-11-02",
+   "importance": 1,
+   "author": "",
+   "title": "ICC 啟動下任國際仲裁院院長遴選，2026 年底前受理申請，2027 年 6 月任命",
+   "shortTitle": "ICC 啟動國際仲裁院下任院長遴選",
+   "point": "申請至 12 月 31 日截止，由獨立遴選委員會推薦，2027 年 7 月上任",
+   "titleOriginal": "ICC launches selection process for next ICC Court President",
+   "caseRef": "",
+   "tldr": "國際商會（ICC）國際仲裁院現任院長 Claudia Salomon 即將做滿第二任，ICC 公開徵求下一任院長人選。有意者可在 2026 年底前申請，由獨立委員會篩選推薦，最後由 ICC 世界理事會在 2027 年 6 月任命。",
+   "memo": "國際商會（ICC）於 2026 年 11 月 2 日宣布啟動國際仲裁院 2027 至 2030 年任期院長之遴選程序，受理申請期間為 2026 年 11 月 2 日至 12 月 31 日。申請案由 Justin D'Agostino 擔任主席之獨立遴選委員會依核定之資格條件審查、擬定短名單並面談，預計於 2027 年 3 月中旬提出附理由之推薦，經 ICC 執行委員會於同年 4 月初審議後，由世界理事會於 2027 年 6 月 30 日前任命，新任院長於 2027 年 7 月仲裁院改組時就任。現任院長 Claudia Salomon 正值第二任即最後一任任期。",
+   "context": "ICC 國際仲裁院是 ICC 仲裁的管理機關，負責確認或任命仲裁人、處理迴避聲請、核閱判斷草稿等。院長領導仲裁院並對外代表 ICC 仲裁。現任院長 Claudia Salomon 於 2021 年就任，為首位女性院長，目前為第二任也是最後一任任期。仲裁院成員每三年改組一次，下一次在 2027 年 7 月。\n上一次院長遴選同樣採公開申請及獨立遴選委員會的模式。",
+   "facts": [
+    "受理申請期間：2026 年 11 月 2 日至 12 月 31 日。",
+    "遴選委員會由 Justin D'Agostino 擔任主席，成員包括 Juan Fernández-Armesto、Yas Banifatemi、Chiann Bao、Rebecca Enonchong、Eduardo Damião Gonçalves 及 ICC 秘書長 John W.H. Denton。",
+    "預定時程：2027 年 3 月中旬提出推薦；2027 年 4 月初執行委員會審議；2027 年 6 月世界理事會任命（預計 6 月 30 日前）。"
+   ],
+   "issues": [
+    "ICC 國際仲裁院院長的遴選程序、資格條件與時程。"
+   ],
+   "holding": "・程序：申請先依核定的人選條件篩選，合格者進入短名單，再經最終面談與評議。\n・推薦：遴選委員會向 ICC 執行委員會的提名及人力資源委員會提出附理由的推薦，由執行委員會決定向世界理事會推薦的人選。\n・任命：世界理事會任命新任院長，任期 2027 至 2030 年，於 2027 年 7 月仲裁院改組時就任。\n・ICC 網站另公布申請資訊及遴選委員會職權範圍。",
+   "significance": "新任院長將主導 2026 年新版 ICC 仲裁規則施行初期的實務運作，以及仲裁院在人工智慧、多元性與透明度等議題上的政策方向。有意申請者須於 2026 年 12 月 31 日前提出。",
+   "editorNote": "本網頁助理 註：本則依 ICC 官方新聞稿撰寫。\n以下為本網頁助理補充，非來源內容：Claudia Salomon 於 2021 年就任及為首位女性院長之背景，以及仲裁院可能面臨的政策議題，非新聞稿內容。",
+   "tags": [
+    "ICC",
+    "ICC 國際仲裁院",
+    "機構治理",
+    "院長遴選"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICC 新聞稿",
+     "url": "https://iccwbo.org/news-publications/news/icc-launches-selection-process-for-next-icc-court-president/",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-03T23:05:31+08:00"
+  },
   {
    "id": "2026-10-29-arb-ascent-slovenia-ect-award-published",
    "court": "AWARD",
@@ -5139,6 +5261,16 @@
    "url": "https://uncitral.un.org/en/working_groups/3/investor-state",
    "relatedId": "2026-10-16-arb-uncitral-wg3-55th-session",
    "caseId": "isds-reform-wg3"
+  },
+  {
+   "id": "2026-12-31-inst-icc-court-president-applications",
+   "date": "2026-12-31",
+   "court": "INST",
+   "title": "ICC 國際仲裁院下任院長遴選申請截止",
+   "note": "2027–2030 年任期；遴選委員會預計 2027 年 3 月中旬提出推薦，世界理事會於 2027 年 6 月任命",
+   "url": "https://iccwbo.org/news-publications/news/icc-launches-selection-process-for-next-icc-court-president/",
+   "relatedId": "2026-11-02-arb-icc-court-president-selection",
+   "caseId": ""
   }
  ],
  "archives": [],
@@ -5514,6 +5646,18 @@
    "caseRef": "ECLI:NL:PHR:2026:1054; 25/02606",
    "summary": "波蘭在荷蘭法院請求命一名荷蘭投資人終止其歐盟內部投資仲裁，阿姆斯特丹上訴法院 2025 年 4 月准許並定強制金。",
    "status": "檢察總長於 2026 年 10 月 30 日建議維持上訴法院判決，荷蘭最高法院判決待作成。"
+  },
+  {
+   "id": "scms-v-webuild",
+   "type": "案件",
+   "court": "COURT",
+   "field": "commercial",
+   "forum": "美國聯邦最高法院、第三巡迴上訴法院、德拉瓦聯邦地方法院",
+   "name": "SCMS 訴 Webuild（智利醫院工程判斷之美國執行）",
+   "nameOriginal": "Sociedad Concesionaria Metropolitana de Salud S.A. v. Webuild S.p.A.",
+   "caseRef": "No. 24-3005 (3d Cir.); No. 23-1175-CFC (D. Del.); No. 26A376 (U.S.)",
+   "summary": "智利醫院特許公司 SCMS 持對義大利營造商 Astaldi 的聖地牙哥仲裁判斷（據報約 1.4 億美元），以 Webuild 為 Astaldi 權利繼受人為由，在德拉瓦州以 Webuild 子公司股份為準對物管轄基礎聲請執行。",
+   "status": "第三巡迴上訴法院已撤銷駁回並發回審理權利繼受問題；Webuild 已向聯邦最高法院聲請調卷審查。"
   }
  ]
 }
