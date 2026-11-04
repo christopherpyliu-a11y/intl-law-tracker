@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-04T23:06:30+08:00",
-  "lastRunLocal": "2026-11-04 23:06",
+  "lastRun": "2026-11-05T06:59:51+08:00",
+  "lastRunLocal": "2026-11-05 06:59",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 4 則：商務仲裁 3（案件動態 1、法院裁判 1、評論 1）、投資仲裁 1（評論 1）",
+  "lastRunNote": "新增 1 則：商務仲裁 1（仲裁判斷 1）、投資仲裁 0",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -4421,7 +4421,9 @@
     "偽造證據",
     "詐欺"
    ],
-   "related": [],
+   "related": [
+    "2026-11-04-arb-acelor-v-peru-icc-award"
+   ],
    "sources": [
     {
      "label": "GAR 報導",
@@ -5527,6 +5529,78 @@
     }
    ],
    "addedAt": "2026-11-04T23:06:30+08:00"
+  },
+  {
+   "id": "2026-11-04-arb-acelor-v-peru-icc-award",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "ICC 國際商會",
+   "outletCode": "ICC",
+   "date": "2026-11-04",
+   "eventDate": "2026-10-26",
+   "importance": 2,
+   "author": "",
+   "title": "法籍人士 Acelor 依所稱「和解協議」在 ICC 對秘魯求償 75 億美元，仲裁庭認定協議係偽造並駁回請求",
+   "shortTitle": "秘魯在 ICC 擊退 75 億美元求償",
+   "point": "仲裁庭認定作為求償依據的和解協議係偽造，申請人須負擔全部仲裁費用",
+   "titleOriginal": "Charles Max Damien Acelor v. Republic of Peru, ICC Case No. 27059/PDP, Final Award of 26 October 2026",
+   "caseRef": "ICC Case No. 27059/PDP",
+   "tldr": "一名曾因協助秘魯前情報首長 Montesinos 非法販售武器給哥倫比亞游擊隊而服刑 15 年的法國人，拿出一份據稱由秘魯官員簽署、承認國家侵害其人權的「和解協議」，在國際商會（ICC）仲裁中向秘魯索賠 75 億美元。仲裁庭認定這份文件是偽造的，駁回請求，並命他負擔仲裁費用及秘魯約 220 萬美元的律師費。",
+   "memo": "國際商會（ICC）仲裁庭（仲裁地倫敦）於 2026 年 10 月 26 日就 Acelor 訴秘魯案（ICC Case No. 27059）作成終局判斷。申請人主張秘魯違反其與國家代表成立之和解協議，請求約 75 億美元及利息；仲裁庭認定該和解協議並非真正文件，所稱簽署官員之參與亦未獲證明，駁回申請人請求，並命申請人負擔全部仲裁費用，另償還秘魯律師費用 2,192,771 美元及 93,214 秘魯索爾。",
+   "context": "申請人 Charles Max Damien Acelor 為法國籍人士，2006 年與秘魯前總統藤森謙也之情報顧問 Vladimiro Montesinos 等 35 人，因 1999 年自約旦購入步槍轉售哥倫比亞革命武裝力量（FARC）一案被判刑，Acelor 服刑 15 年。\n申請人自 2023 年起向秘魯求償，依據為一份據稱由當時的超國家事務特別檢察官 Carlos Reaño Balarezo 簽署、並蓋有普卡帕（Pucallpa）一間公證人事務所印章的「和解協議」，內容承認國家在其羈押、定罪與服刑期間侵害其權利。申請人於 2024 年依該協議在國際商會提起仲裁，仲裁地為倫敦。\n秘魯由司法及人權部公共檢察署（Procuraduría Pública del Minjusdh）負責答辯，委任 Orrick, Herrington & Sutcliffe (UK) LLP 為外部律師。本案並非依投資條約提起，而係以所稱國家契約為據，故歸入商務仲裁。",
+   "facts": [
+    "申請人主張秘魯未履行其與國家代表成立之和解協議，請求約 75 億美元及利息與其他請求；秘魯媒體指此金額超過秘魯國家預算的一成。",
+    "申請人於 2024 年提出多名前官員及國會議員的宣誓聲明，主張歷屆政府曾考慮賠償申請人。",
+    "秘魯提出鑑識報告，指稱文件上歸於 Reaño 的簽名係自其他文件擷取後置入，公證印章亦非真實。",
+    "仲裁庭於 2026 年 10 月 26 日作成判斷，秘魯司法及人權部於 11 月 4 日公布。另有針對申請人的刑事告訴在秘魯國內法院進行中。"
+   ],
+   "issues": [
+    "作為求償依據的和解協議是否真實，以及所稱簽署官員是否確有參與。",
+    "若和解協議並非真實，是否存在有效的仲裁協議，仲裁庭是否有管轄權。",
+    "仲裁費用及當事人律師費用的分擔。"
+   ],
+   "holding": "依秘魯官方公布，仲裁庭認定和解協議並非真正文件，申請人所稱官員之參與亦未獲證明，駁回申請人全部請求。\n《El Comercio》引述判斷，指仲裁庭將關鍵證據描述為以數位方式構造、嵌入經竄改簽名影像的文件，並認定欠缺有效仲裁協議，仲裁庭對申請人請求無管轄權。\n費用方面，申請人須負擔全部仲裁費用（《El Comercio》報導 ICC 仲裁費用約 140 萬美元），並償還秘魯律師費用 2,192,771 美元及 93,214 秘魯索爾，另加利息。",
+   "significance": "本案為近期又一件仲裁庭以證據偽造為由駁回對國家巨額請求的案例，並以申請人負擔全部費用收場。仲裁地為倫敦，申請人若欲挑戰判斷，須依英國仲裁法向英國法院提起；秘魯則可依紐約公約就費用部分請求執行。秘魯國內針對申請人的刑事程序仍在進行。",
+   "editorNote": "本網頁助理 註：本則依秘魯官方公報 El Peruano 刊載之司法及人權部公布內容及《El Comercio》、Infobae（EFE）報導撰寫，尚未取得判斷原文。案號依 El Peruano 為 27059，《El Comercio》記為 27059/PDP。來源對和解協議的日期說法不一（《El Comercio》記為 2022 年 1 月 25 日，EFE 記為 2022 年 8 月 25 日），本則未採用特定日期。官方公布稱請求遭駁回，《El Comercio》則引述判斷稱仲裁庭因欠缺有效仲裁協議而無管轄權，兩者並陳。IAReporter 亦於 11 月 4 日報導，但內容需訂閱，未予引用。",
+   "tags": [
+    "ICC",
+    "秘魯",
+    "法國",
+    "國家契約",
+    "偽造證據",
+    "仲裁費用",
+    "管轄權",
+    "倫敦"
+   ],
+   "related": [
+    "2026-10-30-arb-khalilpour-azerbaijan-fraud-award"
+   ],
+   "sources": [
+    {
+     "label": "秘魯官方公報 El Peruano：司法及人權部公共檢察署公布勝訴判斷",
+     "url": "https://elperuano.pe/noticia/308336-procuraduria-publica-del-minjusdh-obtiene-laudo-favorable-para-el-estado-peruano-en-arbitraje-internacional",
+     "official": true
+    },
+    {
+     "label": "El Comercio 報導（含判斷內容與費用）",
+     "url": "https://elcomercio.pe/lima/arbitraje-peru-charles-acelor-documentos-falsos-carlos-reano-minjus-procuraduria-supranacional-vladimiro-montesinos-noticia/",
+     "official": false
+    },
+    {
+     "label": "Infobae（EFE）報導",
+     "url": "https://www.infobae.com/america/agencias/2026/11/04/peru-gana-litigio-a-exsocio-frances-de-montesinos-que-reclamaba-7500-millones-de-dolares/",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導（需訂閱）",
+     "url": "https://www.iareporter.com/articles/peru-claims-victory-in-icc-case-lodged-by-french-individual/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T06:59:51+08:00"
   }
  ],
  "agenda": [
