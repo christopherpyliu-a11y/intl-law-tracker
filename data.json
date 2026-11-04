@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-04T07:00:27+08:00",
-  "lastRunLocal": "2026-11-04 07:00",
+  "lastRun": "2026-11-04T23:17:54+08:00",
+  "lastRunLocal": "2026-11-04 23:17",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：ICJ 2"
+  "lastRunNote": "新增 5 則：ICC 1、ECtHR 2、其他 1、Opinio Juris 評論 1；補正國際法院改選當選人"
  },
  "items": [
   {
@@ -3913,7 +3913,8 @@
     "2026-10-21-icc-duterte-incident-57",
     "2026-10-08-icc-duterte-fitness",
     "2026-10-27-icc-duterte-defence-rule68-2b",
-    "2026-10-28-icc-duterte-clrv-rule68-2b"
+    "2026-10-28-icc-duterte-clrv-rule68-2b",
+    "2026-11-03-icc-duterte-rule68-3-new-requests"
    ]
   },
   {
@@ -4157,7 +4158,8 @@
    ],
    "addedAt": "2026-10-27T07:18:14+08:00",
    "related": [
-    "2026-10-09-ejil-icc-judicial-vetting"
+    "2026-10-09-ejil-icc-judicial-vetting",
+    "2026-11-03-oj-icc-ethics-code-binding-caution"
    ]
   },
   {
@@ -4433,7 +4435,8 @@
    "addedAt": "2026-10-28T07:11:20+08:00",
    "related": [
     "2026-10-23-icc-duterte-rule68-requests",
-    "2026-10-28-icc-duterte-clrv-rule68-2b"
+    "2026-10-28-icc-duterte-clrv-rule68-2b",
+    "2026-11-03-icc-duterte-rule68-3-new-requests"
    ]
   },
   {
@@ -5105,7 +5108,8 @@
    ],
    "addedAt": "2026-11-02T23:53:56+08:00",
    "related": [
-    "2026-10-31-icc-duterte-waiver-status-conference"
+    "2026-10-31-icc-duterte-waiver-status-conference",
+    "2026-11-03-icc-duterte-rule68-3-new-requests"
    ]
   },
   {
@@ -5175,7 +5179,8 @@
    "addedAt": "2026-11-03T23:10:07+08:00",
    "related": [
     "2026-10-26-other-icc-us-tech-license",
-    "2026-10-29-icj-president-unga-report"
+    "2026-10-29-icj-president-unga-report",
+    "2026-11-02-other-unga-icc-report-resolution"
    ]
   },
   {
@@ -5318,28 +5323,29 @@
    "date": "2026-11-03",
    "eventDate": "2026-11-03",
    "importance": 2,
-   "title": "安理會與聯合國大會選出國際法院法官，英國 Akande、新加坡 Lee 當選，肯亞 Okowa 連任",
+   "title": "安理會與聯合國大會選出國際法院法官：英國 Akande、法國 Alabrune、新加坡 Lee 當選，約旦 Hmoud、肯亞 Okowa 連任",
    "shortTitle": "國際法院改選：Akande、Lee 當選",
    "point": "Lee 成首位新加坡籍法官，Okowa 經多輪投票擊敗秘魯候選人連任",
    "titleOriginal": "Election of five members of the International Court of Justice (2026)",
    "caseRef": "",
    "tldr": "聯合國在 11 月 3 日改選國際法院五名法官。英國的 Dapo Akande 與新加坡的 Rena Lee 當選，肯亞的 Phoebe Okowa 經過幾輪僵持後連任；新任期自 2027 年 2 月起九年。",
-   "memo": "聯合國安全理事會與大會於 2026 年 11 月 3 日同步選舉國際法院法官五名。據報導，英國籍 Dapo Akande 與新加坡籍 Rena Lee 當選，Lee 於大會獲 151 票、於安理會獲 13 票；肯亞籍現任法官 Phoebe Okowa 經多輪投票後擊敗秘魯籍候選人連任。當選者任期九年，自 2027 年 2 月 6 日起算。",
+   "memo": "聯合國安全理事會與大會於 2026 年 11 月 3 日同步選舉國際法院法官五名，英國籍 Dapo Akande、法國籍 François Alabrune、新加坡籍 Rena Lee 當選，約旦籍 Mahmoud Daifallah Hmoud 及肯亞籍 Phoebe Okowa 連任；兩機關各經三輪投票始產生結果。據報導，Lee 於大會獲 151 票、於安理會獲 13 票，Okowa 經多輪投票後擊敗秘魯籍候選人。當選者任期九年，自 2027 年 2 月 6 日起算。",
    "context": "本屆改選五席，九人參選；巴西、法國及印度籍現任法官不尋求連任，約旦籍 Hmoud 與肯亞籍 Okowa 尋求連任。依《國際法院規約》第 10 條，候選人須同時在安理會獲 8 票、在大會獲 97 票。英國自 2017 年 Greenwood 法官連任失利後即無本國籍法官。",
    "facts": [
     "選舉於 2026 年 11 月 3 日在紐約聯合國總部舉行。",
     "Dapo Akande（英國）當選。",
     "Rena Lee（新加坡）於大會獲 191 票中的 151 票、安理會 15 票中的 13 票當選，為首位新加坡籍國際法院法官。",
     "Phoebe Okowa（肯亞）經數輪投票後，在最後一輪以大會 183 票、安理會 13 票擊敗秘魯籍候選人 Ibáñez Carranza 連任。",
-    "據肯亞媒體報導，Jalloh（獅子山）及厄瓜多、韓國籍候選人在最後一輪前退選。"
+    "據肯亞媒體報導，Jalloh（獅子山）及厄瓜多、韓國籍候選人在最後一輪前退選。",
+    "新華社報導五名當選人為 Akande（英國）、Alabrune（法國）、Hmoud（約旦，連任）、Lee（新加坡）及 Okowa（肯亞，連任），安理會與大會各經三輪投票始產生結果。"
    ],
    "issues": [
     "《國際法院規約》第 10 條：安理會與大會雙重絕對多數要件。",
     "《國際法院規約》第 9 條：法院整體應代表世界各大文化及主要法系。"
    ],
-   "holding": "已確認當選：Akande（英國）、Lee（新加坡）、Okowa（肯亞，連任）。\n其餘兩席當選人尚未取得可靠來源確認。",
+   "holding": "當選：Akande（英國）、Alabrune（法國）、Lee（新加坡）；連任：Hmoud（約旦）、Okowa（肯亞）。",
    "significance": "英國重返國際法院，新加坡首度有本國籍法官。新組成自 2027 年 2 月 6 日起生效，將參與審理中的南非訴以色列等種族滅絕公約案件及其他訴訟。",
-   "editorNote": "本網頁助理 註：本則依 Goody Feed、Arbiterz、AOL 及 Kenyan Foreign Policy 等媒體報導撰寫，尚未取得聯合國新聞稿或會議紀錄；其餘兩名當選人（推測為法國 Alabrune 與約旦 Hmoud，但未經證實）及完整票數，待官方資料公布後補充。Okowa 擊敗之秘魯候選人姓名為本網頁助理依候選人名單推定。",
+   "editorNote": "本網頁助理 註：本則原依 Goody Feed、Arbiterz、AOL 及 Kenyan Foreign Policy 等媒體報導撰寫；其餘兩名當選人 Alabrune 與 Hmoud 已於 11 月 4 日依新華社報導補正。尚未取得聯合國新聞稿或會議紀錄，完整票數待官方資料公布。Okowa 擊敗之秘魯候選人姓名為本網頁助理依候選人名單推定。",
    "tags": [
     "國際法院",
     "法官選舉",
@@ -5348,7 +5354,9 @@
     "第10條",
     "英國",
     "新加坡",
-    "肯亞"
+    "肯亞",
+    "法國",
+    "約旦"
    ],
    "sources": [
     {
@@ -5370,11 +5378,317 @@
      "label": "AOL 報導",
      "url": "https://www.aol.co.uk/articles/british-lawyer-dapo-akande-elected-210939000.html",
      "official": false
+    },
+    {
+     "label": "新華社報導：五名法官當選",
+     "url": "https://english.news.cn/20261104/0635d3fba5b44960a52ff7aa5a8897c9/c.html",
+     "official": false
     }
    ],
    "addedAt": "2026-11-04T07:00:27+08:00",
    "related": [
     "2026-11-02-icj-judges-election-2026"
+   ]
+  },
+  {
+   "id": "2026-11-02-other-unga-icc-report-resolution",
+   "court": "OTHER",
+   "kind": "機構動態",
+   "caseId": "us-sanctions-icc",
+   "date": "2026-11-02",
+   "eventDate": "2026-11-02",
+   "importance": 2,
+   "title": "聯合國大會以 93 票贊成、13 票反對、36 票棄權通過決議，歡迎國際刑事法院年度報告並譴責對法院的威脅與干預",
+   "shortTitle": "聯大表決通過 ICC 年度報告決議",
+   "point": "93 票贊成、13 票反對、36 票棄權，決議譴責對法院及其人員的威脅、攻擊與干預",
+   "titleOriginal": "Report of the International Criminal Court (draft resolution A/81/L.11) – General Assembly, 81st session, 33rd and 34th plenary meetings",
+   "caseRef": "A/81/L.11",
+   "tldr": "聯合國大會每年都會就國際刑事法院的工作報告通過一項決議。今年在美國把制裁擴及法院整體後，決議除歡迎報告外，也譴責對法院和法院人員的威脅與干預，但須經記名表決，有 13 國反對、36 國棄權，顯示各國立場分歧。",
+   "memo": "聯合國大會於 2026 年 11 月 2 日第 81 屆會議第 33、34 次全體會議審議國際刑事法院 2025 年 8 月 1 日至 2026 年 7 月 31 日之年度報告，並以記錄表決 93 票贊成、13 票反對、36 票棄權通過決議草案 A/81/L.11。該決議歡迎法院報告，譴責對法院及其人員之威脅、攻擊與干預，呼籲各國在逮捕、取證及刑罰執行方面與法院合作，並鼓勵非締約國加入《羅馬規約》。",
+   "context": "國際刑事法院依其與聯合國之《關係協定》每年向聯合國大會提出工作報告，大會隨後就報告通過決議。\n美國自 2025 年起陸續制裁 ICC 法官與檢察官（共 13 人），並於 2026 年 10 月 9 日將制裁擴及法院整體；ICC 院長赤根智子因此僅能於 11 月 2 日以視訊向大會報告（見本站前則）。",
+   "facts": [
+    "2026 年 11 月 2 日，聯合國大會第 81 屆會議第 33、34 次全體會議（上、下午）審議國際刑事法院年度報告，報告期間為 2025 年 8 月 1 日至 2026 年 7 月 31 日。",
+    "ICC 院長赤根智子以視訊方式發言，表示因美國制裁而處於「非常情況」，並警告懲罰法官即威脅司法獨立本身。",
+    "大會主席 Khalilur Rahman（孟加拉）強調應尊重聯合國與法院各自的法律架構，並表示對法院的不同看法也應被聽見。",
+    "歐盟、南非、加拿大、巴西與烏克蘭等支持法院並譴責制裁；俄羅斯與以色列指責法院越權，俄羅斯代表呼籲各國投票反對；巴勒斯坦與緬甸強調嚴重罪行的究責；日本呼籲對話；中國指出今年有多個締約國宣布退出《羅馬規約》。",
+    "聯合國新聞稿並提及，莫斯科法院於 2025 年 12 月 12 日缺席判處九名 ICC 經選任官員三年半至 15 年徒刑。",
+    "大會以記錄表決 93 票贊成、13 票反對、36 票棄權通過決議草案 A/81/L.11。"
+   ],
+   "issues": [
+    "聯合國大會對國際刑事法院的政治支持，與非締約國對法院採取制裁等單方強制措施之間的關係。",
+    "各國依《羅馬規約》第九編（國際合作與司法協助）所負合作義務，以及非締約國的合作。"
+   ],
+   "holding": "本則為聯合國大會決議，非裁判。\n決議內容（依聯合國新聞稿）：歡迎法院報告；譴責對法院及其人員的威脅、攻擊與干預；呼籲各國在逮捕、證據及刑罰執行方面與法院合作；鼓勵非締約國加入《羅馬規約》。\n表決結果：93 票贊成、13 票反對、36 票棄權。",
+   "significance": "這是美國將制裁擴及 ICC 整體後，聯合國大會首度就法院表態。決議雖獲通過，但反對與棄權合計 49 票，顯示國際社會對法院的支持遠非一致；12 月初的締約國大會第 25 屆會議將接續處理制裁與法院運作問題。",
+   "editorNote": "本網頁助理 註：本則依聯合國新聞稿 GA/12804 撰寫；該新聞稿未列出各國投票情形，也未說明提案國及決議文是否明文提及「制裁」，本則因此不予陳述。以下為本網頁助理補充，非來源內容：過去數年類似決議的表決情形本則未予核對，故未作比較。",
+   "tags": [
+    "國際刑事法院",
+    "美國制裁",
+    "聯合國大會",
+    "年度報告",
+    "決議",
+    "國際合作",
+    "美國",
+    "俄羅斯",
+    "以色列"
+   ],
+   "sources": [
+    {
+     "label": "聯合國新聞稿 GA/12804（大會審議 ICC 報告）",
+     "url": "https://press.un.org/en/2026/ga12804.doc.htm",
+     "official": true
+    },
+    {
+     "label": "聯合國影音：大會聽取 ICC 報告",
+     "url": "https://media.un.org/photo/en/asset/oun7/oun71160032",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-04T23:17:54+08:00",
+   "related": [
+    "2026-11-02-icc-president-unga-sanctions"
+   ]
+  },
+  {
+   "id": "2026-11-03-icc-duterte-rule68-3-new-requests",
+   "court": "ICC",
+   "kind": "程序進展",
+   "caseId": "icc-duterte",
+   "date": "2026-11-03",
+   "eventDate": "2026-11-02",
+   "importance": 1,
+   "title": "杜特蒂案：檢察官再就七名證人聲請依規則第 68 條第 3 項採用先前錄製證詞，辯方反對免除另一名證人出庭",
+   "shortTitle": "杜特蒂案：檢方再就七名證人聲請採用證詞",
+   "point": "證詞涉及「PRRD 名單」、栽贓槍毒與捏造警方報告，檢方稱可省下至少 12 小時主詰問",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte – Prosecution requests pursuant to rule 68(3) (P-1097, P-1170, P-1318; P-1136, P-1345, P-1391, P-1404) and Defence response (public redacted versions)",
+   "caseRef": "ICC-01/21-01/25",
+   "tldr": "杜特蒂審判 11 月 30 日開始前，檢察官又提出兩件聲請，希望法官准許直接採用七名證人先前的陳述，證人仍要出庭並接受辯方詰問。這些證詞描述警方在死者旁栽放槍枝毒品、捏造報告、領取獎金，以及針對「名單」上人物的行動。辯方則反對讓另一名證人完全不出庭。法官尚未決定。",
+   "memo": "國際刑事法院檢察官於 2026 年 11 月 2 日前後在杜特蒂案向第三審判分庭提出二件聲請，請求依《程序及證據規則》第 68 條第 3 項准許採用證人 P-1097、P-1170、P-1318 及 P-1136、P-1345、P-1391、P-1404 之先前錄製陳述，內容涉及「村里清查」殺人、「PRRD 名單」、栽贓及捏造警方報告與獎金；檢察官估計可節省至少 12 小時主詰問時間，並表示將再提出八件同類聲請。辯護方則反對依同條第 2 項免除證人 P-1357 出庭。審判分庭尚未裁定，審判預定 2026 年 11 月 30 日開始。",
+   "context": "檢察官自 2026 年 10 月起陸續依《程序及證據規則》第 68 條第 3 項聲請採用證人先前錄製陳述（證人仍須到庭、同意採用並接受詰問），另依同條第 2 項 b 款聲請在證人不出庭的情況下採用部分陳述（見本案前則）。\n第三審判分庭已於 11 月 2 日舉行最後一次狀態會議，審判預定 11 月 30 日開始。",
+   "facts": [
+    "據 GMA News 報導，檢察官於 11 月 2 日提出聲請（公開刪節版），請求採用 P-1097（「村里清查」殺人及在部分死者身上放置警告牌）、P-1170（杜特蒂公開指控涉毒、其後被列入「PRRD 名單」者）、P-1318（「雙管行動」與「村里清查」殺人，包括偽裝成「拒捕反抗」的殺人、栽贓與掩蓋）的先前陳述；檢方表示將再提出八件第 68 條第 3 項聲請。",
+    "同日公開的辯方回應，反對依第 68 條第 2 項採用 P-1357（達沃死亡部隊）的陳述，認為無實質新內容；辯方另表示無意詰問 P-1357，也不詰問 P-0024。",
+    "另一件同日公開、為檢方第六件同類聲請，涉及 P-1136（針對被視為「高價值目標」的地方官員）、P-1345（馬尼拉「One Time Big Time」行動、栽放毒品槍枝、對批評者「赤色標籤」）、P-1391（毒品觀察名單、捏造的警方報告、付費線民與獎金，涉及第 21 與第 30 號事件）、P-1404（村里清查、多種觀察名單、內政部要求每月更新名單、Kian delos Santos 遇害後續）。",
+    "檢方估計若准許，四名證人的主詰問可由約 16 小時減為 4 小時，另各約 1 小時補充詢問，至少節省 12 小時。",
+    "審判長 Joanna Korner 法官並請雙方就庭內保護措施及期限明確性提出建議。"
+   ],
+   "issues": [
+    "《程序及證據規則》第 68 條第 3 項（證人到庭時採用先前錄製證詞）與第 2 項（證人不到庭時採用）的要件差異，及其與被告詰問權（《羅馬規約》第 67 條第 1 項第 e 款）的平衡。",
+    "警方行動模式、觀察名單與獎金證據對證明國家政策（《羅馬規約》第 7 條第 2 項第 a 款）及被告知情與故意的意義。"
+   ],
+   "holding": "本則為當事人聲請與回應，非法院裁判。審判分庭尚未裁定。\n若准許，相關證人仍須到庭確認陳述並接受辯方交互詰問，但主詰問時間大幅縮短。",
+   "significance": "檢方陸續以書面陳述取代大部分主詰問，以便在 11 月 30 日開審後加快進度；辯方對不出庭證人的反對，顯示雙方攻防集中在被告與殺人行動之間的連結證據。審判分庭將在開審前後就這些聲請作出決定。",
+   "editorNote": "本網頁助理 註：本則依 GMA News 兩篇報導及 Philstar 報導撰寫，未能取得國際刑事法院公開的聲請文件。報導僅明載 P-1097 等三人聲請於 11 月 2 日提出，P-1136 等四人聲請則稱於 11 月 2 日公開、提出日期未載；eventDate 依前者記載。",
+   "tags": [
+    "國際刑事法院",
+    "菲律賓",
+    "杜特蒂",
+    "危害人類罪",
+    "掃毒戰爭",
+    "先前錄製證詞",
+    "規則第68條",
+    "證據"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院新聞稿：杜特蒂案 11 月 30 日開審",
+     "url": "https://www.icc-cpi.int/news/duterte-case-trial-open-30-november-2026",
+     "official": true
+    },
+    {
+     "label": "GMA News 報導：檢方就「PRRD 名單」證人聲請",
+     "url": "https://www.gmanetwork.com/news/topstories/nation/1008067/icc-prosecutors-want-to-admit-3-pre-recorded-testimonies-on-duterte-s-narco-list/story/",
+     "official": false
+    },
+    {
+     "label": "GMA News 報導：檢方援引捏造的警方報告",
+     "url": "https://www.gmanetwork.com/news/topstories/nation/1008194/icc-prosecutors-cite-fabricated-pnp-drug-war-accounts-in-testimony-bid/story/",
+     "official": false
+    },
+    {
+     "label": "Philstar 報導：檢方聲請採用警方行動模式證詞",
+     "url": "https://www.philstar.com/headlines/2026/11/04/2567812/prosecutors-asks-icc-admit-testimonies-detailing-polices-modus-operandi",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T23:17:54+08:00",
+   "related": [
+    "2026-10-23-icc-duterte-rule68-requests",
+    "2026-10-27-icc-duterte-defence-rule68-2b",
+    "2026-11-02-icc-duterte-fifth-status-conference"
+   ]
+  },
+  {
+   "id": "2026-11-03-ecthr-belarus-border-pushbacks-gc-date",
+   "court": "ECtHR",
+   "kind": "程序進展",
+   "caseId": "ecthr-belarus-border-pushbacks",
+   "date": "2026-11-03",
+   "eventDate": "",
+   "importance": 2,
+   "title": "歐洲人權法院大法庭將於 11 月 24 日就波蘭、拉脫維亞、立陶宛在白俄羅斯邊境推回移民三案宣判",
+   "shortTitle": "白俄邊境推回三案大法庭 11 月 24 日宣判",
+   "point": "涉及未審查庇護即推回白俄羅斯，以及「混合戰」能否正當化集體驅逐",
+   "titleOriginal": "A.R. and Others v. Poland, H.M.M. and Others v. Latvia and C.O.C.G. and Others v. Lithuania – forthcoming Grand Chamber rulings",
+   "caseRef": "",
+   "tldr": "2021 至 2022 年白俄羅斯把大批移民送往歐盟邊境，波蘭、拉脫維亞、立陶宛則把越境者直接推回。三組來自阿富汗、伊拉克與古巴的申請人告到歐洲人權法院，大法庭已在 2025 年 2 月開庭，現宣布 11 月 24 日一併宣判。",
+   "memo": "歐洲人權法院於 2026 年 11 月 3 日宣布，大法庭將於 2026 年 11 月 24 日就 A.R. and Others v. Poland、H.M.M. and Others v. Latvia 及 C.O.C.G. and Others v. Lithuania 三案宣示判決。三案涉及 2021 年夏季至 2022 年夏季間，申請人於白俄羅斯邊境遭即時遣返或滯留邊境，爭點包括《歐洲人權公約》第 2 條、第 3 條及第 4 議定書第 4 條（禁止集體驅逐外國人）之適用。大法庭已於 2025 年 2 月 12 日舉行言詞辯論。",
+   "context": "2021 年夏季起，白俄羅斯被指有計畫地讓移民前往與波蘭、拉脫維亞、立陶宛的邊境，三國以國家安全及「混合戰」為由，實施即時推回並修法限制入境申請。\n三案原由小法庭審理，2024 年依《公約》第 30 條移交大法庭，2025 年 2 月 12 日舉行公開辯論。三國均未依第 15 條聲明緊急情況下減免義務。",
+   "facts": [
+    "A.R. and Others v. Poland：阿富汗籍申請人主張，2021 年 8 月 8 日至 10 月 23 日被困於白俄羅斯與波蘭邊境的臨時營地，其後已返回阿富汗。",
+    "H.M.M. and Others v. Latvia：庫德族伊拉克籍申請人主張，自 2021 年 8 月起在拉脫維亞與白俄羅斯邊境附近遭推回，其後已返回伊拉克。",
+    "C.O.C.G. and Others v. Lithuania：四名古巴籍申請人於 2022 年 3 月至 4 月間多次越過立陶宛與白俄羅斯邊境，2022 年 4 月 13 日入境時被逮捕，其後已獲核發永久居留許可。",
+    "法院於 2026 年 11 月 3 日公告，三案大法庭判決將於 2026 年 11 月 24 日宣示。"
+   ],
+   "issues": [
+    "未審查庇護申請即將申請人推回白俄羅斯，是否違反《公約》第 3 條及第 4 議定書第 4 條（禁止集體驅逐外國人）。",
+    "邊境滯留期間欠缺食物、飲水、庇護與醫療，是否違反第 2 條、第 3 條。",
+    "N.D. and N.T. v. Spain 案「有無真實有效合法入境管道」標準，於第三國刻意將移民「工具化」時應否調整。"
+   ],
+   "holding": "本則為宣判期日公告，判決尚未作成。",
+   "significance": "這是大法庭首次就歐盟東部邊境「移民工具化」與推回政策作成判決，結果將影響波羅的海國家與波蘭的邊境法制，以及歐盟新移民庇護規則的適用；判決預定 11 月 24 日宣示。",
+   "editorNote": "本網頁助理 註：本則依歐洲人權法院 11 月 3 日公告頁面及 2025 年辯論公告撰寫，事實與爭點部分另參考 Strasbourg Observers 2024 年評論。法院公告頁稱波蘭案為「A.R. and Others」，2025 年辯論公告則作「R.A. and Others」，本則依最新公告。公告未載宣判時刻，故 eventDate 留空、期日列於行事曆。",
+   "tags": [
+    "歐洲人權法院",
+    "大法庭",
+    "推回",
+    "集體驅逐",
+    "第3條",
+    "第4議定書第4條",
+    "庇護",
+    "白俄羅斯",
+    "波蘭",
+    "拉脫維亞",
+    "立陶宛"
+   ],
+   "sources": [
+    {
+     "label": "歐洲人權法院公告：大法庭宣判期日",
+     "url": "https://www.echr.coe.int/w/a.r.-and-others-v.-poland-h.m.m.-and-others-v.-latvia-and-c.o.c.g.-and-others-v.-lithuania",
+     "official": true
+    },
+    {
+     "label": "歐洲人權法院公告：大法庭言詞辯論（2025 年）",
+     "url": "https://www.echr.coe.int/w/grand-chamber-hearings-concerning-poland-latvia-and-lithuania",
+     "official": true
+    },
+    {
+     "label": "Strasbourg Observers 評論：大法庭接手白俄邊境推回案",
+     "url": "https://strasbourgobservers.com/2024/09/06/for-better-or-for-worse-grand-chamber-takes-over-cases-concerning-pushbacks-at-the-belarusian-border/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T23:17:54+08:00",
+   "related": []
+  },
+  {
+   "id": "2026-11-02-ecthr-banca-sistema-gc-referral",
+   "court": "ECtHR",
+   "kind": "程序進展",
+   "caseId": "ecthr-banca-sistema",
+   "date": "2026-11-02",
+   "eventDate": "",
+   "importance": 1,
+   "title": "歐洲人權法院受理 Banca Sistema 訴義大利案移送大法庭，涉及破產市政府債務判決長期無法執行",
+   "shortTitle": "Banca Sistema 案移送大法庭",
+   "point": "小法庭曾認定市政府破產致判決逾七年未執行，違反第 6 條與第 1 議定書第 1 條",
+   "titleOriginal": "Banca Sistema S.p.A. v. Italy (application no. 37249/24) – referral to the Grand Chamber",
+   "caseRef": "37249/24",
+   "tldr": "一家收購公部門債權的米蘭公司，取得法院支付命令後，因 Cosenza 市宣告財政破產而多年無法強制執行。小法庭在 2026 年 7 月判義大利敗訴，現在案件被接受移送大法庭重新審理。",
+   "memo": "歐洲人權法院於 2026 年 11 月 2 日公告，Banca Sistema S.p.A. v. Italy 案（申請號 37249/24）之移送大法庭請求經受理。該案小法庭於 2026 年 7 月 16 日判決認定，申請人對 Cosenza 市取得之確定支付命令因該市宣告財政破產而長期無法執行，違反《歐洲人權公約》第 6 條第 1 項及第 1 議定書第 1 條，並命義大利確保國內裁判之執行。案件將由大法庭重新審理。",
+   "context": "申請人為設於米蘭、專門收購私人企業對公部門債權的公司，取得私人企業對 Cosenza 市的債權。\n小法庭於 2026 年 7 月 16 日判決認定違反第 6 條第 1 項（訴諸法院／判決執行）及第 1 議定書第 1 條（財產權），認為確認違反本身已足以填補非財產上損害，命義大利給付 500 歐元費用並確保附表所列國內裁判之執行。\n依《公約》第 43 條，判決後三個月內當事人得請求移送大法庭，由五名法官組成的審查小組決定是否受理。",
+   "facts": [
+    "申請人收購之債權經國內法院核定金額並核發支付命令，於 2018 年至 2023 年間陸續確定、具執行力。",
+    "Cosenza 市部分清償後宣告財政破產，申請人被列入債權人名單，但依國內法不得開始或續行強制執行，執行延宕兩年至七年以上。",
+    "小法庭於 2026 年 7 月 16 日判決認定違反第 6 條第 1 項及第 1 議定書第 1 條。",
+    "法院於 2026 年 11 月 2 日公告，該案移送大法庭之請求經受理。"
+   ],
+   "issues": [
+    "地方政府財政破產程序禁止債權人強制執行，是否構成對確定判決執行權（第 6 條第 1 項）及財產權（第 1 議定書第 1 條）的不當限制。",
+    "國家對地方自治團體債務所負之責任範圍。"
+   ],
+   "holding": "本則為移送大法庭之程序公告，大法庭尚未審理。",
+   "significance": "大法庭可能藉此釐清地方政府破產時債權人權利與公共財政之間的平衡，對義大利及其他有類似地方財政重整制度的國家有廣泛影響。言詞辯論日期尚待公告。",
+   "editorNote": "本網頁助理 註：本則依歐洲人權法院首頁之移送公告及 2026 年 7 月 16 日判決新聞稿撰寫；未能開啟移送公告全文，提出移送請求之一方及審查小組決定日期未經核對，故 eventDate 留空。小法庭表決票數新聞稿未載。",
+   "tags": [
+    "歐洲人權法院",
+    "大法庭",
+    "移送大法庭",
+    "判決執行",
+    "第6條",
+    "第1議定書第1條",
+    "財產權",
+    "義大利"
+   ],
+   "sources": [
+    {
+     "label": "歐洲人權法院公告：Banca Sistema 案移送大法庭",
+     "url": "https://www.echr.coe.int/w/banca-sistema-s.p.a.-v.-italy",
+     "official": true
+    },
+    {
+     "label": "歐洲人權法院新聞稿：2026 年 7 月 16 日判決與裁定（PDF）",
+     "url": "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8592332-12225205&filename=Judgments+and+decisions+of+16.07.2026.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-04T23:17:54+08:00",
+   "related": []
+  },
+  {
+   "id": "2026-11-03-oj-icc-ethics-code-binding-caution",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "icc-governance",
+   "date": "2026-11-03",
+   "eventDate": "",
+   "importance": 1,
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Tuğba Tosun Çobanoğlu（獨立研究者）",
+   "title": "作者認為 ICC 修正後的司法倫理守則明定拘束力是正確起點，但社群媒體審慎義務需配套指引與保護機制",
+   "shortTitle": "ICC 法官倫理守則：審慎義務需配套",
+   "point": "作者認為守則明定拘束力並連結懲戒是好的起點，但須公布數位互動指引並設倫理諮詢窗口",
+   "titleOriginal": "Binding Caution: The ICC's Amended Code of Judicial Ethics and a Bench Under Pressure",
+   "caseRef": "",
+   "tldr": "國際刑事法院法官 10 月修改了倫理守則，要求法官謹慎使用社群媒體，並寫明守則有拘束力、違反可能構成不當行為。作者肯定方向，但認為「按讚」「分享」「追蹤」性質不同，法院應給法官具體指引，並在法官遭美國制裁與網路攻擊的情況下提供保護。",
+   "memo": "Tuğba Tosun Çobanoğlu 於 Opinio Juris 撰文指出，國際刑事法院法官於 2026 年 10 月 16 日生效之《司法倫理守則》修正，新增第 10 條第 3 項社群媒體審慎義務並改寫第 12 條明定守則具拘束力、違反得構成《羅馬規約》第 46 條、第 47 條之不當行為，係正確起點；惟追蹤、分享與按讚性質不同，在法官遭制裁與外部壓力下，法院應公布數位互動指引、設置與懲戒調查分離之倫理諮詢及數位安全窗口，並由院長會議說明對攻擊法官事件之回應標準，相關經費應由締約國負擔。",
+   "context": "國際刑事法院法官於 2026 年 9 月 29 日年度研習會議決修正《司法倫理守則》，10 月 16 日生效（見本站前則）。\n同年 7 月締約國大會首度罷免檢察官 Karim Khan；美國制裁擴及多名法官並於 10 月擴及法院整體。",
+   "facts": [
+    "修正新增第 10 條第 3 項，要求法官審慎使用社群媒體及其他資訊科技，並考量其行為對安全、保安與公眾信賴的影響。",
+    "修正改寫第 12 條，明定守則標準具拘束力，不遵守得構成《羅馬規約》第 46 條、第 47 條及《程序及證據規則》第 24 條、第 25 條之不當行為或違反職責。",
+    "作者引述報導指出，截至 2026 年 8 月，18 名法官中有 9 名遭美國制裁，部分法官已無法使用某些網路服務。"
+   ],
+   "issues": [
+    "司法倫理守則之法律性質，及其與《羅馬規約》第 46 條、第 47 條懲戒程序的連結。",
+    "國際法官使用社群媒體的界限與司法獨立。"
+   ],
+   "holding": "・修正並非憑空創設拘束力，而是將原稱「指引」的守則效力予以明確化；守則仍從屬於規約與規則，第 12 條第 3 項並保留司法獨立。\n・第 10 條第 2 項仍允許法官參與法律議題的公共討論，僅限制就繫屬案件發言。\n・追蹤、分享與按讚性質不同，作者以英國 2024 年一名法官因誤按 LinkedIn「讚」受正式警告為例，說明欠缺細部規則時適用上的不確定。\n・在檢察官遭罷免、懲戒程序受質疑的背景下，穩定規範與可預期程序是懲戒正當性的前提。\n・法官遭制裁與數位封鎖，審慎義務須與保護措施並行。",
+   "significance": "作者建議：（一）參考聯合國毒品和犯罪問題辦公室非拘束性社群媒體指引，公布容許互動的具體示例；（二）設置與申訴調查分離的機密倫理諮詢及數位安全協助窗口；（三）由院長會議說明如何評估法官遭攻擊時的機構回應請求；並由締約國提供經費。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。",
+   "tags": [
+    "國際刑事法院",
+    "司法倫理",
+    "社群媒體",
+    "司法獨立",
+    "懲戒",
+    "美國制裁"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/11/03/binding-caution-the-iccs-amended-code-of-judicial-ethics-and-a-bench-under-pressure/",
+     "official": false
+    },
+    {
+     "label": "國際刑事法院《司法倫理守則》第 4 版（PDF）",
+     "url": "https://www.icc-cpi.int/sites/default/files/2026-10/09.Code-of-Judicial-Ethics-EN-v.4.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-04T23:17:54+08:00",
+   "related": [
+    "2026-10-16-icc-judicial-ethics-code"
    ]
   }
  ],
@@ -5561,6 +5875,16 @@
    "url": "https://www.icj-cij.org/case/178",
    "relatedId": "2026-11-03-icj-gambia-myanmar-judgment-date",
    "caseId": "gambia-v-myanmar"
+  },
+  {
+   "id": "2026-11-24-ecthr-belarus-pushbacks-gc",
+   "date": "2026-11-24",
+   "court": "ECtHR",
+   "title": "白俄羅斯邊境推回三案（波蘭、拉脫維亞、立陶宛）大法庭宣判",
+   "note": "史特拉斯堡人權大樓；宣判時刻待公告",
+   "url": "https://www.echr.coe.int/w/a.r.-and-others-v.-poland-h.m.m.-and-others-v.-latvia-and-c.o.c.g.-and-others-v.-lithuania",
+   "relatedId": "2026-11-03-ecthr-belarus-border-pushbacks-gc-date",
+   "caseId": "ecthr-belarus-border-pushbacks"
   }
  ],
  "archives": [],
@@ -5651,7 +5975,7 @@
    "nameOriginal": "The Prosecutor v. Rodrigo Roa Duterte",
    "caseRef": "ICC-01/21",
    "summary": "菲律賓前總統杜特蒂被控三項危害人類罪。",
-   "status": "最後一次（第五次）狀態會議已於 11 月 2 日舉行，法官要求檢方精簡證據清單；先前證詞採用與 96 名被害人新申請尚待決定，審判預定於 2026 年 11 月 30 日開始。"
+   "status": "檢方於 11 月初再就七名證人聲請採用先前錄製證詞，先前證詞採用與 96 名被害人新申請均待審判分庭決定，審判預定於 2026 年 11 月 30 日開始。"
   },
   {
    "id": "icc-afghanistan",
@@ -5794,7 +6118,29 @@
    "nameOriginal": "2026 election of five members of the International Court of Justice",
    "caseRef": "",
    "summary": "安理會與大會分別投票，改選國際法院五名法官，當選者任期自 2027 年 2 月 6 日起九年。",
-   "status": "2026 年 11 月 3 日選舉完成，Akande、Lee 當選，Okowa 連任；其餘當選人待官方確認。"
+   "status": "2026 年 11 月 3 日選舉完成：Akande（英國）、Alabrune（法國）、Lee（新加坡）當選，Hmoud（約旦）、Okowa（肯亞）連任，2027 年 2 月 6 日就任。"
+  },
+  {
+   "id": "ecthr-belarus-border-pushbacks",
+   "type": "案件",
+   "court": "ECtHR",
+   "forum": "歐洲人權法院大法庭",
+   "name": "白俄羅斯邊境推回三案（波蘭、拉脫維亞、立陶宛）",
+   "nameOriginal": "A.R. and Others v. Poland; H.M.M. and Others v. Latvia; C.O.C.G. and Others v. Lithuania",
+   "caseRef": "",
+   "summary": "三國於 2021 至 2022 年間在白俄羅斯邊境將移民即時推回，申請人主張違反《歐洲人權公約》第 2 條、第 3 條及禁止集體驅逐。",
+   "status": "大法庭已於 2025 年 2 月 12 日辯論，訂於 2026 年 11 月 24 日宣判。"
+  },
+  {
+   "id": "ecthr-banca-sistema",
+   "type": "案件",
+   "court": "ECtHR",
+   "forum": "歐洲人權法院大法庭",
+   "name": "Banca Sistema 訴義大利（破產市政府債務執行案）",
+   "nameOriginal": "Banca Sistema S.p.A. v. Italy",
+   "caseRef": "37249/24",
+   "summary": "債權人對宣告財政破產之 Cosenza 市取得的確定支付命令長年無法執行，是否違反第 6 條第 1 項及第 1 議定書第 1 條。",
+   "status": "小法庭 2026 年 7 月 16 日認定違反，移送大法庭請求已於 11 月初受理，辯論日期未定。"
   }
  ]
 }
