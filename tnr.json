@@ -1,13 +1,189 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-04T23:14:49+08:00",
-  "lastRunLocal": "2026-11-04 23:14",
+  "lastRun": "2026-11-05T07:15:16+08:00",
+  "lastRunLocal": "2026-11-05 07:15",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：中國 2（事件 1、評論 1）"
+  "lastRunNote": "新增 3 則：中國 3（政府措施 2、倡議 1）"
  },
  "items": [
+  {
+   "id": "2026-11-04-tnr-thailand-uyghurs-court-extradition",
+   "court": "CN",
+   "kind": "政府措施",
+   "caseId": "thailand-uyghur-detainees",
+   "jurisdiction": "泰國",
+   "outlet": "路透社、美聯社",
+   "outletCode": "Reuters",
+   "date": "2026-11-04",
+   "eventDate": "2026-11-04",
+   "importance": 2,
+   "author": "",
+   "title": "泰國政府稱中國要求遣返五名維吾爾人須經法院審理，當事人可於法院抗辯；中國外交部未正面回應是否已提出引渡請求",
+   "shortTitle": "泰國：維吾爾人遣返交法院審理",
+   "point": "政府稱五人可在法院抗辯，兩人已委任律師；另三人仍須服刑約一年",
+   "titleOriginal": "China seeks extradition of five Uyghurs from Thailand (Reuters); 2 Uyghur men held in Thailand plead not to be sent back to China (AP)",
+   "caseRef": "",
+   "tldr": "泰國政府表示，中國若要把在泰國關了十多年的五名維吾爾人帶回去，必須走引渡程序並由泰國法院決定，當事人可以在法院為自己辯護。這與 2025 年 2 月泰國直接把 40 名維吾爾人送回中國的做法不同。中國外交部則未說明是否已提出引渡請求。",
+   "memo": "依路透社及美聯社 2026 年 11 月 4 日報導，泰國政府發言人 Ekkapob Pianpises 表示，中國就 2014 年起遭泰國拘押之五名維吾爾人所提遣返要求，將依 1993 年泰中引渡條約交由泰國法院審理，當事人得於法院抗辯，其中兩人已委任律師；國家安全會議秘書長 Chaiyapruek Duangprapat 稱其餘三人尚須因脫逃案服刑約一年。中國外交部發言人毛寧未說明是否已提出引渡請求，僅稱兩國打擊跨境犯罪合作符合兩國法律及國際慣例。",
+   "context": "2014 年 3 月泰國在泰馬邊境拘押 300 多名逃離中國的維吾爾人；2015 年將約 100 人送回中國、170 多人送往土耳其，2025 年 2 月再將 40 人遣返中國，事後外界無法獨立監督其處境。\n仍在泰國的五人因 2020 年脫逃移民拘留所遭判刑，其中兩人 10 月獲特赦後移至曼谷移民拘留中心待遣送（見本案件其他各則）。泰中 1993 年簽訂、1999 年生效的引渡條約規定引渡須經泰國法院。",
+   "facts": [
+    "依路透社報導，泰國政府發言人 Ekkapob Pianpises 稱政府已賦予五人在法院就遣返要求抗辯的權利，兩人已委任律師，由法院決定。",
+    "依路透社報導，國家安全會議秘書長 Chaiyapruek Duangprapat 稱另三人因脫逃案尚須在泰國監獄服刑約一年。",
+    "依美聯社報導，泰國方面表示中國若要遣返兩人須提出正式引渡請求；國安會秘書長稱若法院判決不利當事人，將依條約引渡，若有利則可能安置於他國。",
+    "依美聯社引述知情人士，兩人（26 歲及 35 歲）曾向泰國國家人權委員會辦公室表示不願被送回中國；兩人前一週亦曾發表公開信，其中寫道「我們不是恐怖分子」。",
+    "中國外交部發言人毛寧未說明中國是否已提出引渡請求，僅稱中泰在打擊非法移民等跨境犯罪上的合作遵循兩國法律及國際法或國際慣例。"
+   ],
+   "issues": [
+    "經引渡程序審理是否足以落實不遣返原則，法院能否審酌當事人在中國遭酷刑或迫害的風險？",
+    "政治性或族群性迫害能否在泰中引渡條約下構成拒絕引渡事由？"
+   ],
+   "holding": "・泰國政府：中方遣返要求交由法院依引渡條約審理，當事人可抗辯；兩人已委任律師。\n・國安會：另三人仍須服刑約一年；法院判決不利則依條約引渡，有利則可能前往第三國。\n・當事人：向國家人權委員會辦公室及以公開信表示不願返回中國。\n・中國外交部：未回應是否已提出請求，稱合作依法進行。",
+   "significance": "相較 2025 年 2 月未經司法程序遣返 40 人，本次改由法院審理，當事人至少取得抗辯機會。後續觀察中國是否正式提出引渡請求、法院審理時程，以及 11 月 9 日聯合國人權理事會普遍定期審議泰國時各國的關注。",
+   "editorNote": "本網頁助理 註：路透社標題稱中國尋求引渡五人，美聯社則稱泰國要求中國須提出正式引渡請求，兩者對中方是否已正式提出請求的描述不一。美聯社所稱「週三」依其 11 月 4 日（週三）發稿判斷為事件日期。路透社報導係經 Arab News 轉載取得。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "泰國",
+    "維吾爾",
+    "遣返",
+    "引渡",
+    "不遣返原則"
+   ],
+   "related": [
+    "2026-11-03-tnr-manushya-thailand-uyghurs-alert",
+    "2026-11-04-tnr-hrw-amnesty-thailand-uyghurs"
+   ],
+   "sources": [
+    {
+     "label": "路透社報導（Arab News 轉載）",
+     "url": "https://arabnews.com/world/china-seeks-extradition-of-five-uyghurs-from-thailand-3009854",
+     "official": false
+    },
+    {
+     "label": "美聯社報導",
+     "url": "https://mymotherlode.com/news/asia/11280149/2-uyghur-men-held-in-thailand-plead-not-be-sent-back-to-china.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T07:15:16+08:00"
+  },
+  {
+   "id": "2026-11-04-tnr-hrw-amnesty-thailand-uyghurs",
+   "court": "CN",
+   "kind": "倡議",
+   "caseId": "thailand-uyghur-detainees",
+   "jurisdiction": "泰國",
+   "outlet": "人權觀察、國際特赦組織",
+   "outletCode": "HRW",
+   "date": "2026-11-04",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "人權觀察與國際特赦組織呼籲泰國勿將兩名維吾爾人遣返中國，指泰國外交部曾向國會證實中國大使館 8 月要求遣返",
+   "shortTitle": "人權團體籲泰國勿遣返兩維吾爾人",
+   "point": "人權觀察稱中國大使館 8 月即要求遣返；特赦組織指兩人遭拒見律師",
+   "titleOriginal": "Thailand: Two Uyghurs at Risk of Return to China (HRW, 3 Nov 2026); Thailand: Halt imminent forcible return of two Uyghur men to China (Amnesty, 4 Nov 2026)",
+   "caseRef": "",
+   "tldr": "人權觀察和國際特赦組織先後發表聲明，要求泰國不要把兩名關了十二年的維吾爾人送回中國，改讓他們前往安全的第三國。人權觀察說，泰國外交部官員曾在國會委員會表示，中國大使館早在 8 月就要求把人送回；特赦組織則說兩人移到移民拘留中心後，見不到律師和泰國人權委員會。",
+   "memo": "人權觀察於 2026 年 11 月 3 日、國際特赦組織於同年 11 月 4 日分別發表聲明，就 2014 年起遭泰國拘押、同年 10 月 21 日經特赦移送曼谷 Suan Phlu 移民拘留中心之兩名維吾爾男子，要求泰國不得強制遣返中國並准其前往安全第三國。依人權觀察稱，泰國外交部官員曾向國會委員會表示中國駐泰大使館於 2026 年 8 月要求遣返兩人，泰國移民機關並一再拒絕聯合國難民署接觸；依國際特赦組織稱，兩人移送後遭拒絕會見律師、民間團體及泰國國家人權委員會。",
+   "context": "兩人為 2014 年遭泰國拘押的 300 多名維吾爾人中仍在泰國的五人之二，一人被捕時僅 14 歲；2020 年 1 月因脫逃移民拘留所遭判刑七年，10 月 21 日獲特赦後移至移民拘留中心（見本案件其他各則）。泰國 2025 年 2 月曾應中國大使館 1 月的要求遣返 40 人。",
+   "facts": [
+    "人權觀察稱兩人已向泰國當局表示不同意被送回中國，泰國移民機關多次拒絕聯合國難民署接觸以認定其難民身分。",
+    "人權觀察稱泰國外交部官員曾向國會委員會表示，中國駐曼谷大使館於 2026 年 8 月要求遣返兩人。",
+    "國際特赦組織稱兩人 10 月 21 日移送後，據報遭拒絕會見律師，民間團體及泰國國家人權委員會亦無法接觸。",
+    "兩組織均指出，2025 年 2 月遭遣返的 40 名維吾爾人此後未有可信的獨立監督，下落與處境不明。"
+   ],
+   "issues": [
+    "泰國拒絕難民署接觸及限制律師會見，是否剝奪當事人依不遣返原則主張保護的程序保障？",
+    "中國提供的外交保證能否排除遣返後遭酷刑的實質風險？"
+   ],
+   "holding": "・人權觀察（亞洲部主任 Elaine Pearson）：泰國總理 Anutin Charnvirakul 應停止向中國強制遣返，讓兩人前往安全第三國；各國應在 11 月 9 日聯合國人權理事會審議泰國人權紀錄前向泰國施壓。\n・國際特赦組織（秘書長 Agnès Callamard）：停止遣返計畫、讓兩人會見自選律師、與國際社會合作尋求自願的第三國安置，並釋放兩人；反對依賴中國的外交保證。",
+   "significance": "兩大國際人權組織同時表態，並把焦點放在 11 月 9 日的普遍定期審議；泰國政府 11 月 4 日表示改交法院審理（見相關條目），後續觀察律師會見與難民署接觸是否恢復。",
+   "editorNote": "本網頁助理 註：中國大使館 8 月要求遣返一事，係人權觀察轉述泰國外交部官員在國會委員會的說法；中國政府對兩組織聲明的回應未見報導。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "泰國",
+    "維吾爾",
+    "遣返",
+    "不遣返原則",
+    "第三國安置",
+    "普遍定期審議"
+   ],
+   "related": [
+    "2026-11-03-tnr-manushya-thailand-uyghurs-alert",
+    "2026-11-04-tnr-thailand-uyghurs-court-extradition"
+   ],
+   "sources": [
+    {
+     "label": "人權觀察聲明原文",
+     "url": "https://www.hrw.org/news/2026/11/03/thailand-two-uyghurs-at-risk-of-return-to-china",
+     "official": false
+    },
+    {
+     "label": "國際特赦組織聲明原文",
+     "url": "https://www.amnesty.org/en/latest/news/2026/11/thailand-halt-imminent-forcible-return-of-two-uyghur-men-to-china/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T07:15:16+08:00"
+  },
+  {
+   "id": "2026-11-04-tnr-taiwan-npa-tnr-cases",
+   "court": "CN",
+   "kind": "政府措施",
+   "caseId": "taiwan-tnr-response",
+   "jurisdiction": "台灣",
+   "outlet": "中央社",
+   "outletCode": "CNA",
+   "date": "2026-11-04",
+   "eventDate": "2026-11-04",
+   "importance": 1,
+   "author": "",
+   "title": "警政署稱已偵辦 9 件境外勢力勾結幫派、徵信業者及在地協力者的跨國鎮壓案，其中 4 件已起訴，將溯源追查首謀並加強保護被害人",
+   "shortTitle": "警政署：跨國鎮壓偵辦 9 案起訴 4 案",
+   "point": "境外勢力勾結國內外幫派、徵信業者及協力者；將追查幕後首謀並加強被害人保護",
+   "titleOriginal": "警政署：持續嚴辦選舉假訊息 打擊跨國鎮壓",
+   "caseRef": "",
+   "tldr": "警政署在記者會上說，對在台灣的人進行騷擾、恐嚇、傷害或監控的「跨國鎮壓」行為，警方已經偵辦 9 件，案中境外勢力找了國內外幫派、徵信業者和在地協力者來做，其中 4 件已被檢察官起訴。警方表示會追查幕後首謀和共犯，並加強保護被害人。",
+   "memo": "依中央社 2026 年 11 月 4 日報導，內政部警政署於同日記者會表示，針對以騷擾、恐嚇、傷害及監控等手段侵害在台人士人身安全與言論自由之跨國鎮壓行為，警方已偵辦境外勢力勾結國內外幫派、徵信業者及在地協力者之案件 9 件，其中 4 件經檢察官提起公訴，並稱將溯源追查首謀及共犯、強化被害人保護。報導未載各案細節。",
+   "context": "國安局 11 月 3 日向立法院提出報告，稱現行多以傷害、恐嚇、組織犯罪及個資法起訴跨國鎮壓案，嚇阻有限且難以追究境外指揮者，已啟動修正反滲透法（見本議題其他各則）。已起訴案件包括黃逸豪遭襲案等。\n2026 年 11 月 28 日舉行地方選舉，警政署同場記者會亦說明查處境外介選與選舉假訊息的情形。",
+   "facts": [
+    "記者會由警政署副署長郭士傑及刑事警察局局長邱紹洲出席。",
+    "警方稱已偵辦 9 件境外勢力勾結國內外幫派、徵信業者及在地協力者的跨國鎮壓案，其中 4 件已起訴。",
+    "警方表示將溯源追查首謀及共犯，並強化被害人保護。",
+    "同場說明選舉相關事項：截至 10 月底受理選舉假訊息檢舉 184 件、移送檢方 112 件。"
+   ],
+   "issues": [
+    "以傷害、恐嚇、組織犯罪等一般刑事罪名追訴，能否觸及境外指揮者？",
+    "徵信業者與在地協力者參與監控，現行個資法與徵信業管理是否足以因應？"
+   ],
+   "holding": "・警政署：已偵辦 9 案、起訴 4 案；手法為境外勢力透過國內外幫派、徵信業者及在地協力者實施。\n・對策：溯源追查首謀與共犯，強化被害人保護。",
+   "significance": "這是警方首度公布跨國鎮壓偵辦案件的整體數字，與國安局前一日向立法院的修法報告相呼應。後續觀察立法院專題報告及反滲透法修正草案內容。",
+   "editorNote": "本網頁助理 註：中央社報導未列出 9 件案件的名稱與細節。背景中「已起訴案件包括黃逸豪遭襲案」係依本站既有條目補充，非本則來源內容。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "台灣",
+    "警政署",
+    "刑事警察局",
+    "協力者",
+    "徵信業者"
+   ],
+   "related": [
+    "2026-11-03-tnr-taiwan-nsb-anti-infiltration-report"
+   ],
+   "sources": [
+    {
+     "label": "中央社報導",
+     "url": "https://www.cna.com.tw/news/asoc/202611040140.aspx",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T07:15:16+08:00"
+  },
   {
    "id": "2026-11-04-tnr-cheng-wanjun-taiwan-deported",
    "court": "CN",
@@ -4021,7 +4197,8 @@
     "協力者"
    ],
    "related": [
-    "2026-10-29-tnr-taiwan-ey-anti-infiltration-amendment"
+    "2026-10-29-tnr-taiwan-ey-anti-infiltration-amendment",
+    "2026-11-04-tnr-taiwan-npa-tnr-cases"
    ],
    "sources": [
     {
@@ -4087,7 +4264,9 @@
     "第三國安置"
    ],
    "related": [
-    "2026-10-30-tnr-wuc-thailand-uyghurs-appeal"
+    "2026-10-30-tnr-wuc-thailand-uyghurs-appeal",
+    "2026-11-04-tnr-thailand-uyghurs-court-extradition",
+    "2026-11-04-tnr-hrw-amnesty-thailand-uyghurs"
    ],
    "sources": [
     {
@@ -4178,6 +4357,16 @@
    "url": "https://www.cna.com.tw/news/aipl/202611030184.aspx",
    "relatedId": "2026-11-03-tnr-taiwan-nsb-anti-infiltration-report",
    "caseId": "taiwan-tnr-response"
+  },
+  {
+   "id": "2026-11-09-cn-thailand-upr",
+   "date": "2026-11-09",
+   "court": "CN",
+   "title": "聯合國人權理事會普遍定期審議（UPR）泰國人權紀錄",
+   "note": "日內瓦；人權觀察呼籲各國藉此關注維吾爾人遣返問題。日期依人權觀察聲明，可能變動。",
+   "url": "https://www.hrw.org/news/2026/11/03/thailand-two-uyghurs-at-risk-of-return-to-china",
+   "relatedId": "2026-11-04-tnr-hrw-amnesty-thailand-uyghurs",
+   "caseId": "thailand-uyghur-detainees"
   },
   {
    "id": "2026-11-12-cn-wanying-zhang-pretrial",
@@ -4329,7 +4518,7 @@
    "nameOriginal": "Uyghur detainees in Thailand (2014 group)",
    "caseRef": "",
    "summary": "2014 年在泰國被拘留的 300 多名維吾爾人中仍留在泰國者的去向；泰國曾於 2015 年及 2025 年將部分人遣返中國。",
-   "status": "兩名獲特赦者 10 月 21 日起拘於曼谷移民拘留中心，去向待國安會決定；依 Manushya 11 月 3 日指控，中國大使 10 月 27 日會晤國安會要求遣返全部五人，另有國家表示願接收。"
+   "status": "泰國政府 11 月 4 日表示中方遣返要求將依引渡條約交法院審理，五人可抗辯，其中兩名獲特赦者已委任律師、仍拘於曼谷移民拘留中心，另三人尚須服刑約一年。"
   },
   {
    "id": "mwaipaya-kenya-abduction",
