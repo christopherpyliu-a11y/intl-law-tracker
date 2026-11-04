@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-04T23:52:19+08:00",
-  "lastRunLocal": "2026-11-04 23:52",
+  "lastRun": "2026-11-05T07:30:29+08:00",
+  "lastRunLocal": "2026-11-05 07:30",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 6 則：美國 3（監理指引 1、司法案件 2）、歐盟 1（立法動態 1）、香港 1（立法動態 1）、日本 1（政策動態 1）"
+  "lastRunNote": "新增 4 則：美國 3（司法案件 1、實務評論 1、政策動態 1）、台灣 1（實務評論 1）"
  },
  "items": [
   {
@@ -302,7 +302,8 @@
     "2026-10-16-fin-florida-stablecoin-law-in-force",
     "2026-10-02-fin-icba-sues-occ-trust-charters",
     "2026-10-24-fin-canada-draft-stablecoin-regulations",
-    "2026-10-27-fin-occ-community-banks-stablecoin-issuers"
+    "2026-10-27-fin-occ-community-banks-stablecoin-issuers",
+    "2026-11-04-fin-mayer-brown-occ-genius-final-rule"
    ],
    "sources": [
     {
@@ -3977,7 +3978,8 @@
    "related": [
     "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline",
     "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody",
-    "2026-11-03-fin-taiwan-fsc-stablecoin-issuance-draft"
+    "2026-11-03-fin-taiwan-fsc-stablecoin-issuance-draft",
+    "2026-11-04-fin-pwc-taiwan-vasp-subregs-commentary"
    ],
    "sources": [
     {
@@ -4041,7 +4043,8 @@
    "related": [
     "2026-10-10-fin-taiwan-fsc-stablecoin-joint-venture-plan",
     "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline",
-    "2026-11-03-fin-taiwan-fsc-vasp-draft-subregulations"
+    "2026-11-03-fin-taiwan-fsc-vasp-draft-subregulations",
+    "2026-11-04-fin-pwc-taiwan-vasp-subregs-commentary"
    ],
    "sources": [
     {
@@ -4475,7 +4478,7 @@
    "caseRef": "No. 26-1835；No. 26-2239；No. 26-2297",
    "tldr": "Kalshi 和 Coinbase 主張，它們在 CFTC 監理交易所提供的運動事件合約只受聯邦管轄，州政府不能用賭博法管。它們請上訴法院在上訴期間先暫停紐約州與康乃狄克州的執法，但法院拒絕，也沒有說明理由。上訴本身仍在進行。",
    "memo": "依 Unchained 及 DeFi Rate 2026 年 11 月 4 日報導，美國聯邦第二巡迴上訴法院合議庭（Walker、Jacobs、Bianco 法官）於 2026 年 11 月 3 日以兩頁裁定，駁回 Kalshi 對紐約州博弈主管機關與康乃狄克州消費者保護廳，以及 Coinbase 對康乃狄克州檢察長 William Tong 等三件上訴案之上訴期間禁制令聲請，僅認定聲請人未盡必要之釋明；三案上訴仍繫屬中，《商品交易法》是否優先排除州賭博法之爭點未經實體判斷，兩州得繼續進行執法程序。",
-   "context": "預測市場業者主張，於 CFTC 指定契約市場（DCM）上市之事件合約屬《商品交易法》下 CFTC 專屬管轄，州賭博法因聯邦法優先而不適用。各地聯邦法院見解分歧：伊利諾州北區聯邦地院 10 月 30 日支持業者並核發初步禁制令，另有法院（如 9 月第三巡迴相關判決之報導）認為州得管制。\n紐約州於 7 月在州法院起訴 Kalshi，康乃狄克州檢察長於 8 月起訴 Kalshi；兩州聯邦地院先前均拒絕業者禁制令聲請，業者遂上訴第二巡迴。CFTC 亦已對兩州提起訴訟。",
+   "context": "預測市場業者主張，於 CFTC 指定契約市場（DCM）上市之事件合約屬《商品交易法》下 CFTC 專屬管轄，州賭博法因聯邦法優先而不適用。各地聯邦法院見解分歧：伊利諾州北區聯邦地院 10 月 30 日支持業者並核發初步禁制令，另有法院（如第六巡迴上訴法院 9 月判決及第九巡迴上訴法院）認為州得管制。\n紐約州於 7 月在州法院起訴 Kalshi，康乃狄克州檢察長於 8 月起訴 Kalshi；兩州聯邦地院先前均拒絕業者禁制令聲請，業者遂上訴第二巡迴。CFTC 亦已對兩州提起訴訟。",
    "facts": [
     "第二巡迴合議庭於 2026 年 11 月 3 日作成裁定，合併處理三件上訴之聲請。",
     "依 Unchained 報導，合議庭成員為 John M. Walker Jr.、Dennis Jacobs 與 Joseph F. Bianco 法官。",
@@ -4502,7 +4505,8 @@
     "美國"
    ],
    "related": [
-    "2026-11-02-fin-illinois-prediction-markets-injunction-appeal"
+    "2026-11-02-fin-illinois-prediction-markets-injunction-appeal",
+    "2026-11-04-fin-ninth-circuit-denies-kalshi-rehearing"
    ],
    "sources": [
     {
@@ -4769,6 +4773,251 @@
     }
    ],
    "addedAt": "2026-11-04T23:52:19+08:00"
+  },
+  {
+   "id": "2026-11-04-fin-ninth-circuit-denies-kalshi-rehearing",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國內華達州",
+   "outlet": "CDC Gaming",
+   "outletCode": "CDC",
+   "date": "2026-11-04",
+   "eventDate": "2026-11-04",
+   "importance": 2,
+   "author": "",
+   "title": "美國第九巡迴上訴法院駁回 Kalshi 就內華達州案之重新審理聲請，州得對運動事件合約執行賭博法",
+   "shortTitle": "第九巡迴駁回 Kalshi 重審聲請",
+   "point": "內華達州禁令續行，Kalshi 有 90 日可向最高法院聲請移審",
+   "titleOriginal": "U.S. appeals court denies Kalshi's petition for rehearing in Nevada case",
+   "caseRef": "",
+   "tldr": "Kalshi 在內華達州的官司中，上訴法院 8 月已判它敗訴，認為州政府可以用賭博法管它的運動事件合約。Kalshi 請求重新審理，法院 11 月 4 日一致拒絕，也沒有法官要求全院審理。下一步只剩向美國最高法院聲請。",
+   "memo": "依 CDC Gaming、InGame 及 Sports Betting Dime 2026 年 11 月 4 日報導，美國聯邦第九巡迴上訴法院合議庭於同日一致駁回 Kalshi 就內華達州案提出之合議庭重新審理及全院重新審理聲請，並載明無法官要求就全院審理進行表決；該院先前已維持地方法院解除對內華達州暫時禁制令之裁判，州得對 Kalshi 之運動事件合約執行州博弈法。Kalshi 得於 90 日內向聯邦最高法院聲請核發移審令。",
+   "context": "預測市場業者主張，於 CFTC 指定契約市場上市之事件合約屬《商品交易法》下 CFTC 專屬管轄，州賭博法因聯邦法優先而不適用。內華達州聯邦地院 Andrew Gordon 法官於 2025 年解除先前對內華達州之暫時禁制令，依報導，第九巡迴於 8 月維持該裁判，Kalshi 於 9 月聲請全院重新審理。\n第三巡迴則判決支持 Kalshi、禁止新澤西州執法，新澤西州已向最高法院聲請移審；Robinhood 亦於 9 月就第九巡迴相關判決向最高法院聲請移審。第二巡迴於 11 月 3 日拒絕在上訴期間禁止紐約州與康乃狄克州執法。",
+   "facts": [
+    "第九巡迴合議庭於 2026 年 11 月 4 日一致駁回合議庭重新審理及全院重新審理聲請。",
+    "依報導，裁定載明「無法官要求就是否全院重新審理進行表決」。",
+    "依 Sports Betting Dime 報導，該判決效力及於第九巡迴轄下阿拉斯加、亞利桑那、加州、夏威夷、愛達荷、蒙大拿、內華達、奧勒岡及華盛頓各州。",
+    "依 CDC Gaming 報導，Kalshi 有 90 日可向最高法院聲請移審令；CFTC 10 月 9 日之規則草案與暫行最終規則意見期限為 11 月 18 日。"
+   ],
+   "issues": [
+    "《商品交易法》是否優先排除州賭博法對 DCM 上市運動事件合約之適用？",
+    "第三巡迴與第九巡迴見解分歧，最高法院是否受理並統一見解？"
+   ],
+   "holding": "・聲請：Kalshi 請求合議庭重新審理或全院重新審理第九巡迴 8 月不利判決。\n・裁定：合議庭一致駁回，無法官要求全院表決。\n・效果：內華達州對運動事件合約之禁令維持；Kalshi 須於 90 日內決定是否向最高法院聲請移審。",
+   "significance": "第九巡迴程序已告一段落，與第三巡迴支持業者的判決形成明確的巡迴法院分歧，提高最高法院受理的可能。後續應留意 Kalshi 是否聲請移審、是否與新澤西州案併案處理，以及 CFTC 事件合約規則能否改變優先適用的論據。",
+   "editorNote": "本網頁助理 註：未能取得法院裁定原文，內容依 CDC Gaming、InGame 與 Sports Betting Dime 報導；第九巡迴 8 月判決之日期與案號未經核對。報導另提及 Kalshi 代理律師可能配合第三巡迴案時程，屬報導引述律師推測。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先適用",
+    "Kalshi",
+    "CFTC",
+    "美國內華達州",
+    "美國"
+   ],
+   "related": [
+    "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction"
+   ],
+   "sources": [
+    {
+     "label": "CDC Gaming 報導",
+     "url": "https://cdcgaming.com/u-s-appeals-court-denies-kalshis-petition-for-rehearing-in-nevada-case/",
+     "official": false
+    },
+    {
+     "label": "InGame 報導",
+     "url": "https://www.ingame.com/ninth-circuit-denies-kalshi-rehearing/",
+     "official": false
+    },
+    {
+     "label": "Sports Betting Dime 報導",
+     "url": "https://www.sportsbettingdime.com/news/industry/ninth-circuit-court-of-appeals-denies-kalshi-en-banc-hearing-request/",
+     "official": false
+    },
+    {
+     "label": "Prediction News 報導",
+     "url": "https://predictionnews.com/story/ninth-circuit-denies-kalshi-rehearing-starts-supreme-court-clock",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T07:30:29+08:00"
+  },
+  {
+   "id": "2026-11-04-fin-mayer-brown-occ-genius-final-rule",
+   "court": "OCC",
+   "kind": "實務評論",
+   "caseId": "genius-act-implementation",
+   "jurisdiction": "美國",
+   "outlet": "Mayer Brown",
+   "outletCode": "MB",
+   "date": "2026-11-04",
+   "eventDate": "",
+   "importance": 1,
+   "author": "David L. Beam、Matthew Bisanz、Anna T. Pinedo、Andrew Olmem 等（Mayer Brown）",
+   "title": "Mayer Brown 分析 OCC GENIUS Act 最終規則：贖回、孳息禁止與準備資產要求較草案放寬",
+   "shortTitle": "評論：OCC 穩定幣最終規則較草案放寬",
+   "point": "刪除自動七日贖回延長與孳息推定，即期存款比例降為 5%",
+   "titleOriginal": "OCC Finalizes GENIUS Act Rulemaking",
+   "caseRef": "12 C.F.R. Part 15",
+   "tldr": "律師事務所 Mayer Brown 比較 OCC 10 月 21 日的穩定幣最終規則與 2 月草案，指出多項要求變寬鬆，例如大量贖回不再自動延長付款期、準備資產比例要求降低，但也留下洗錢防制、跨法域發行等待解問題。",
+   "memo": "Mayer Brown 律師事務所於 2026 年 11 月 4 日發表分析，指出美國通貨監理局（OCC）2026 年 10 月 21 日發布、2027 年 1 月 18 日生效之 GENIUS Act 施行最終規則（新增 12 C.F.R. Part 15）大致維持 2026 年 2 月草案架構，但刪除大額贖回之自動七日延長，改採 24 小時內通報並得申請展延；未採納關係企業孳息之可推翻推定；即期存款比例由 10% 降為 5%，並刪除每週流動性 30% 及加權平均到期日 20 日限制；外國發行人須符合四種準備資產存放方式之一。",
+   "context": "GENIUS Act 於 2025 年 7 月 18 日簽署，要求聯邦監理機關訂定支付型穩定幣發行人施行規則。OCC 於 2026 年 2 月提出草案，10 月 21 日發布最終規則，並於 10 月 27 日鼓勵社區銀行申請發行。FDIC、聯準會與財政部之相關規則另行進行。",
+   "facts": [
+    "最終規則於 2026 年 10 月 21 日發布，2027 年 1 月 18 日生效，新增 12 C.F.R. Part 15。",
+    "24 小時內贖回請求逾流通量 10% 時，發行人須於 24 小時內通報 OCC，並得申請展延。",
+    "單一交易對手 40% 上限維持；新設發行人 500 萬美元資本下限不再於三年後失效。",
+    "既有美國發行人於 2027 年 1 月 18 日前提出實質完整申請者，得申請最長 12 個月之裁量豁免。"
+   ],
+   "issues": [
+    "孳息禁止改採個案監控後，透過關係企業或第三方給付收益之安排如何判斷？",
+    "外國發行人之準備資產存放與跨法域發行如何審查？",
+    "洗錢防制與制裁標準、存款保險穿透等尚待其他機關規則補充。"
+   ],
+   "holding": "・作者認為最終規則大致沿用草案，但在贖回、孳息禁止、準備資產分散與資本計算上作出放寬。\n・營運備援資金最多一半可由合格次順位債支應，且須隨時符合，短缺須於 24 小時內通報。\n・外匯風險管理須事先通知並經 OCC 核准，避險僅限降低剩餘風險，不得投機。\n・「客戶」限縮為與發行人直接往來者，次級市場持有人另稱「支付型穩定幣持有人」，影響通知與揭露義務。\n・待解問題包括 BSA／AML 與制裁標準、互通性、跨法域發行、外國制度可比性認定，以及是否限制單一品牌。",
+   "significance": "本文有助於掌握 OCC 最終規則與草案的差異，特別是贖回與孳息禁止的處理方式。後續應留意 FDIC 與聯準會最終規則、財政部洗錢防制規則，以及 2027 年 1 月 18 日生效前的申請與豁免安排。",
+   "editorNote": "本則為評論，內容代表作者個人見解，非官方立場。",
+   "tags": [
+    "穩定幣",
+    "GENIUS Act",
+    "OCC",
+    "支付型穩定幣",
+    "美國"
+   ],
+   "related": [
+    "2026-10-21-fin-occ-genius-act-final-rule"
+   ],
+   "sources": [
+    {
+     "label": "OCC 新聞稿（NR 2026-92）",
+     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+     "official": true
+    },
+    {
+     "label": "Mayer Brown 分析",
+     "url": "https://www.mayerbrown.com/en/insights/publications/2026/11/occ-finalizes-genius-act-rulemaking",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T07:30:29+08:00"
+  },
+  {
+   "id": "2026-11-04-fin-pwc-taiwan-vasp-subregs-commentary",
+   "court": "TW",
+   "kind": "實務評論",
+   "caseId": "taiwan-vasp-act",
+   "jurisdiction": "台灣",
+   "outlet": "中央社",
+   "outletCode": "CNA",
+   "date": "2026-11-04",
+   "eventDate": "",
+   "importance": 1,
+   "author": "郭柏如、吳尚燉（資誠聯合會計師事務所）；李裕勳（普華商務法律事務所）",
+   "title": "資誠評金管會虛擬資產服務商及穩定幣子法草案：業者應加速法遵、財務與治理轉軌",
+   "shortTitle": "評論：資誠籲業者因應虛擬資產子法",
+   "point": "預告期僅 40 日，子法可能今年底或明年初上路，應盡速提意見",
+   "titleOriginal": "金管會公布VASP及穩定幣子法草案 資誠：業者應加速法遵、財務與治理轉軌",
+   "caseRef": "",
+   "tldr": "金管會 11 月 3 日預告虛擬資產業者和穩定幣發行的子法草案後，資誠會計師與普華律師提醒業者：規則已經具體，半年度核閱、年度查核和穩定幣準備資產查核都要準備；預告期比一般短，業者應趕快提出意見並檢查自己的業務和內控。",
+   "memo": "依中央社 2026 年 11 月 4 日刊載之資誠聯合會計師事務所稿件，資誠郭柏如、吳尚燉及普華商務法律事務所李裕勳律師評析金融監督管理委員會 2026 年 11 月 3 日預告之《虛擬資產服務法》授權子法草案，指出草案以業務風險設定資本、保證金與治理要求，並要求半年度核閱、年度查核及穩定幣準備資產定期查核；李律師並認預告期 40 日短於常見之 60 日，子法可能於 2026 年底或 2027 年初施行，建議業者於預告期間提出意見並進行法規適配性分析。",
+   "context": "《虛擬資產服務法》2026 年 7 月 22 日公布。金管會於 11 月 3 日預告八項授權法規命令草案，包括虛擬資產服務商許可、資本、保證金及穩定幣發行許可及管理辦法。",
+   "facts": [
+    "依稿件所載，最低實收資本額為：交換、移轉或承銷業務新臺幣 5,000 萬元；交易平台或保管業務 1 億元；借貸業務 2 億元。",
+    "保管業另須按客戶虛擬資產餘額提存 2.5% 營業保證金。",
+    "非銀行穩定幣發行人最低實收資本額新臺幣 3 億元；穩定幣須與新臺幣或單一外國貨幣一比一連結，準備資產公允價值不得低於流通餘額。",
+    "預告期間 40 日。"
+   ],
+   "issues": [
+    "業者能否在短預告期內完成意見提出與營運轉型？",
+    "穩定幣準備資產之存在、權利歸屬、評價與流動性如何驗證？"
+   ],
+   "holding": "・郭柏如：草案以業務風險為基礎設定資本、保證金與治理要求，並對金融機構漸進開放，兼顧創新與金融穩定。\n・吳尚燉：建議業者盤點會計政策、檢視資產負債認列與衡量、整理客戶資產紀錄、檢視準備資產估值與對帳，並確保系統可產出可查核資料。\n・李裕勳：子法具體化許可條件、人員資格、委外、異常交易、內控內稽與洗錢防制；建議盡速提意見、確認牌照範圍、進行法規適配性分析，並檢視治理、契約、資產隔離與財務內控。",
+   "significance": "本文從會計查核與法遵角度補充子法草案的實務影響。應留意預告期屆滿後金管會的修正與發布時程，以及既有業者的申請過渡安排。",
+   "editorNote": "本則為評論，內容代表作者個人見解，非官方立場。本網頁助理 註：本文為資誠聯合會計師事務所透過中央社財經訊息平台發布之稿件；資本額數字與本站 11 月 3 日相關條目所依報導之敘述方式略有不同，以金管會預告草案原文為準。",
+   "tags": [
+    "虛擬資產服務法",
+    "穩定幣",
+    "虛擬資產保管",
+    "金管會",
+    "台灣"
+   ],
+   "related": [
+    "2026-11-03-fin-taiwan-fsc-vasp-draft-subregulations",
+    "2026-11-03-fin-taiwan-fsc-stablecoin-issuance-draft"
+   ],
+   "sources": [
+    {
+     "label": "中央社財經訊息平台（資誠稿件）",
+     "url": "https://www.cna.com.tw/business/chinese/448938",
+     "official": false
+    },
+    {
+     "label": "經濟日報報導",
+     "url": "https://udn.com/news/story/7239/9856899",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T07:30:29+08:00"
+  },
+  {
+   "id": "2026-11-04-fin-us-midterms-democratic-sweep-crypto",
+   "court": "US",
+   "kind": "政策動態",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-04",
+   "eventDate": "2026-11-03",
+   "importance": 1,
+   "author": "",
+   "title": "美國期中選舉民主黨贏得參眾兩院，依 The Block 報導 CLARITY Act 未來兩年推進可能性低",
+   "shortTitle": "民主黨贏得國會 CLARITY Act 前景轉淡",
+   "point": "Sherrod Brown 勝選，TD Cowen 認法案兩年內難以推進",
+   "titleOriginal": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
+   "caseRef": "H.R. 3633",
+   "tldr": "11 月 3 日美國期中選舉後，依 The Block 報導民主黨同時拿下眾議院和參議院。曾任參議院銀行委員會主席、對加密產業立場較嚴格的 Sherrod Brown 也當選。分析機構預估，已在參議院卡關的加密市場結構法案 CLARITY Act 未來兩年很難過關。",
+   "memo": "依 The Block 2026 年 11 月 4 日報導，美國 2026 年 11 月 3 日期中選舉後，民主黨取得參議院及眾議院多數；前參議院銀行委員會主席 Sherrod Brown 於俄亥俄州參議員補選擊敗 Jon Husted，最快得於 12 月 15 日就任。報導引述 TD Cowen 認為，於參議院 2026 年 9 月未能終結辯論之 CLARITY Act（H.R. 3633）於未來兩年推進之可能性低，並預期民主黨將調查川普家族相關加密事業。",
+   "context": "眾議院於 2025 年 7 月通過加密資產市場結構法案 CLARITY Act，參議院 2026 年 9 月 15 日終結辯論表決以 49 比 50 未通過。此後 SEC 與 CFTC 以規則制定與豁免推進加密資產監理。",
+   "facts": [
+    "依報導，民主黨贏得參眾兩院多數。",
+    "Sherrod Brown 於俄亥俄州補選擊敗 Jon Husted，接任 JD Vance 原參議員任期剩餘部分，最快 12 月 15 日就任。",
+    "依報導，加密產業政治行動委員會於本次選舉支出約 1.7 億美元，其中 Fairshake 約 1.545 億美元。",
+    "眾議院金融服務委員會主席 French Hill 之選情截至報導時尚未確定（依 The Block 另篇報導）。"
+   ],
+   "issues": [
+    "國會多數改變後，加密市場結構立法是否停滯，或須以民主黨可接受之版本重新協商？",
+    "SEC、CFTC 以行政規則推進的加密監理，是否將面臨更多國會監督？"
+   ],
+   "holding": "・選舉結果：依報導民主黨取得兩院多數。\n・立法影響：TD Cowen 預期 CLARITY Act 兩年內難以推進，且可能無法通過產業可支持的版本。\n・監督：報導預期民主黨將調查川普家族加密事業（如 World Liberty Financial）。\n・產業動向：報導稱產業下一階段重點可能轉向稅制與資安。",
+   "significance": "新國會預計 2027 年 1 月開議，委員會主席改由民主黨出任，將影響加密市場結構、穩定幣後續立法與對監理機關的監督。應留意參議院銀行委員會與眾議院金融服務委員會人事，以及 SEC、CFTC 規則制定是否加快。",
+   "editorNote": "本網頁助理 註：本則依 The Block 報導整理，選舉結果以官方認證為準；對 CLARITY Act 前景之判斷為報導引述 TD Cowen 之分析，非官方立場。",
+   "tags": [
+    "CLARITY Act",
+    "加密資產",
+    "市場結構",
+    "美國國會",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "The Block 報導（國會改選對加密產業影響）",
+     "url": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362",
+     "official": false
+    },
+    {
+     "label": "The Block 報導（Sherrod Brown 勝選）",
+     "url": "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
+     "official": false
+    },
+    {
+     "label": "The Block 報導（眾議院易主與 French Hill 選情）",
+     "url": "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T07:30:29+08:00"
   }
  ],
  "agenda": [
@@ -5064,7 +5313,7 @@
    "nameOriginal": "US crypto market structure (CLARITY Act; SEC and CFTC rulemaking)",
    "caseRef": "H.R. 3633",
    "summary": "眾議院 2025 年 7 月通過 CLARITY Act，參議院 2026 年 9 月 15 日未能終結辯論；SEC 與 CFTC 改以各自的規則制定與豁免推進加密資產市場監理。",
-   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 已有 26 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。"
+   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 已有 26 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。"
   },
   {
    "id": "icba-v-occ-trust-charters",
@@ -5185,7 +5434,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "第二巡迴上訴法院 11 月 3 日駁回 Kalshi、Coinbase 對紐約州及康乃狄克州之上訴期間禁制令聲請（上訴仍繫屬）；伊利諾州北區聯邦地院 10 月 30 日則禁止伊利諾州對 CFTC 監理交易所事件合約適用州賭博法，州政府已上訴第七巡迴；CFTC 10 月 26 日起訴猶他州。"
+   "status": "第九巡迴上訴法院 11 月 4 日駁回 Kalshi 內華達州案重新審理聲請，Kalshi 有 90 日可向最高法院聲請移審；第二巡迴 11 月 3 日駁回 Kalshi、Coinbase 對紐約州及康乃狄克州之上訴期間禁制令聲請；伊利諾州北區聯邦地院 10 月 30 日禁止該州適用州賭博法，州政府已上訴第七巡迴。"
   },
   {
    "id": "kr-tokenised-securities",
