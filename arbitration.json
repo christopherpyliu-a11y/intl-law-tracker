@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-04T07:00:30+08:00",
-  "lastRunLocal": "2026-11-04 07:00",
+  "lastRun": "2026-11-04T23:06:30+08:00",
+  "lastRunLocal": "2026-11-04 23:06",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 1 則：投資仲裁 1（案件動態 1）",
+  "lastRunNote": "新增 4 則：商務仲裁 3（案件動態 1、法院裁判 1、評論 1）、投資仲裁 1（評論 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -5297,6 +5297,236 @@
     }
    ],
    "addedAt": "2026-11-04T07:00:30+08:00"
+  },
+  {
+   "id": "2026-11-02-arb-tpg-v-kakao-hkiac-claim",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "commercial",
+   "caseId": "tpg-v-kakao",
+   "jurisdiction": "香港",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-02",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "TPG 以 Kakao 阻擋 Kakao Mobility 美國存託憑證上市、違反股東協議為由，向香港國際仲裁中心提起仲裁",
+   "shortTitle": "TPG 在 HKIAC 對 Kakao 提起仲裁",
+   "point": "主張 Kakao 董事會否決 Kakao Mobility 美國 ADR 上市，違反股東協議的支持義務",
+   "titleOriginal": "US private equity firm files HKIAC claim against Korean tech group (GAR, 2 November 2026); TPG v. Kakao Corp. (HKIAC)",
+   "caseRef": "",
+   "tldr": "美國私募基金 TPG 是韓國叫車平台 Kakao Mobility 的第二大股東，一直想透過上市出場。Kakao 董事會在 2026 年 9 月否決了 Kakao Mobility 在美國發行存託憑證（ADR）的計畫，TPG 認為這違反雙方的股東協議，已向香港國際仲裁中心（HKIAC）提起仲裁。",
+   "memo": "依韓國媒體及 Global Arbitration Review 報導，美國私募基金 TPG 以 Kakao Corp. 董事會於 2026 年 9 月 22 日決議反對 Kakao Mobility 於美國發行存託憑證上市，違反 2017 年投資時所簽股東協議中於首次公開發行未能如期完成時全力支持上市之義務為由，向香港國際仲裁中心（HKIAC）對 Kakao 提起仲裁。TPG 所屬投資人團持有 Kakao Mobility 約 29% 股份，Kakao 持有約 57%。請求內容尚未公開。",
+   "context": "2017 年，TPG 與韓國投資證券、Orix PE 組成投資人團，以約 6,300 億韓元投資 Kakao Mobility，並與控股股東 Kakao 簽訂股東協議；依報導，投資係以 2022 年前上市為前提，協議並約定首次公開發行未於期限內完成時，Kakao 應全力支持上市。投資人團現持有約 29% 股份（大部分由 TPG 持有），Kakao 持有約 57%。\n韓國近年對子公司「重複上市」（母子公司同時上市）加強管制，要求母公司董事會評估對一般股東的影響。TPG 主導的 ADR 上市程序在 2026 年上半年已積極推進。",
+   "facts": [
+    "2026 年 9 月 18 日 Kakao 公告「尚無確定事項」，9 月 22 日董事會決議反對 Kakao Mobility 的美國 ADR 上市計畫，理由包括一般股東利益、淨資產價值折價及美國證券法上的責任風險。",
+    "Edaily 於 2026 年 10 月 30 日報導 TPG 已委任國內外律師完成法律評估，預計最早 11 月向 HKIAC 提出；BigGo 財經同日報導 TPG 已於當日下午提出仲裁。",
+    "TPG 主張：ADR 僅涉既有股份、不發行新股，不會稀釋 Kakao 股東權益；Kakao 也未依重複上市指引設立特別委員會或公布股東影響評估。",
+    "Kakao 表示其決定是在充分討論對一般股東影響後不得不然，並不否認財務投資人回收投資的需求，若上市架構或對一般股東的經濟利益改變可再考慮。"
+   ],
+   "issues": [
+    "股東協議中支持上市（出場）條款的範圍，是否包含以 ADR 形式在美國上市。",
+    "控股股東基於一般股東利益及韓國重複上市管制所為之董事會決議，能否構成違約之正當理由。"
+   ],
+   "holding": "仲裁剛提出，仲裁庭尚未組成；請求金額或救濟內容未見公開報導。",
+   "significance": "本案是私募基金以仲裁處理韓國企業出場爭議的又一例，也牽涉韓國對母子公司重複上市的管制如何影響既有股東協議的履行。後續仲裁庭組成及雙方是否和解值得關注。",
+   "editorNote": "本網頁助理 註：本則依 Global Arbitration Review 標題與摘要（付費內容）及 KED Global、Edaily、BigGo 財經報導撰寫，尚未取得仲裁聲請書。各報導對提出日期說法不一（Edaily 10 月 30 日稱「預計最早 11 月」提出，BigGo 同日稱已於當天下午提出），故未記載事件日期。GAR 內文未點名被申請人，其為 Kakao Corp. 係依韓國媒體報導。",
+   "tags": [
+    "HKIAC",
+    "股東協議",
+    "私募基金",
+    "上市",
+    "南韓",
+    "Kakao",
+    "TPG"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Global Arbitration Review 報導（付費）",
+     "url": "https://globalarbitrationreview.com/article/us-private-equity-firm-files-hkiac-claim-against-korean-tech-group",
+     "official": false
+    },
+    {
+     "label": "KED Global 報導",
+     "url": "https://www.kedglobal.com/private-equity/newsView/ked202611010004",
+     "official": false
+    },
+    {
+     "label": "Edaily 報導（2026-10-30）",
+     "url": "https://en.edaily.co.kr/news/eda202610305701/",
+     "official": false
+    },
+    {
+     "label": "BigGo 財經報導",
+     "url": "https://finance.biggo.com/news/e444488a-dc8e-4ca7-ba38-2712856de639",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T23:06:30+08:00"
+  },
+  {
+   "id": "2026-11-03-arb-oman-supreme-court-london-award-no-jurisdiction",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "阿曼",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-03",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "阿曼最高法院認定阿曼法院無權撤銷以倫敦為仲裁地的 ICC 仲裁判斷，與三年前同一債務人案件的見解不同",
+   "shortTitle": "阿曼最高法院駁回撤銷倫敦判斷之訴",
+   "point": "確認阿曼法院對外國仲裁地判斷的撤銷聲請無管轄權",
+   "titleOriginal": "Omani Supreme Court dismisses challenge to London award (GAR, 3 November 2026)",
+   "caseRef": "",
+   "tldr": "阿曼最高法院表示，仲裁地在倫敦的 ICC 仲裁判斷，阿曼法院沒有權限審理撤銷聲請。這和同一法院三年前在另一件涉及同一判斷債務人的案件中「阿曼法院可以審」的見解不同。",
+   "memo": "依 Global Arbitration Review 報導，阿曼最高法院於近期判決中確認，阿曼法院對以倫敦為仲裁地之 ICC 仲裁判斷之撤銷聲請無管轄權，駁回該撤銷之訴；報導指出此與該院約三年前就涉及同一判斷債務人之另案所採見解不同。當事人、判斷金額及判決日期未公開。",
+   "context": "2023 年，阿曼最高法院曾在 Vijay Tanks 與卡達分包商 Cape East 一案中，以聲請人為阿曼公司、且為仲裁被申請人為由，認定阿曼法院依阿曼仲裁法及民事訴訟法對倫敦仲裁地的 ICC 判斷撤銷聲請有管轄權，廢棄馬斯開特上訴法院以仲裁地在外國為由拒絕審理的裁定並發回（依 Pinsent Masons 報導）。該見解被批評與紐約公約下由仲裁地法院專屬撤銷的原則不符。",
+   "facts": [
+    "依 GAR 標題與摘要，阿曼最高法院確認阿曼法院對以倫敦為仲裁地之 ICC 判斷的撤銷聲請「無管轄權」，駁回該撤銷之訴。",
+    "GAR 指出本件與該院三年前另一件涉及同一判斷債務人的裁判見解不同；報導主題標籤包括能源、石油天然氣、阿曼與卡達。"
+   ],
+   "issues": [
+    "阿曼法院對外國仲裁地作成之仲裁判斷，有無撤銷管轄權（阿曼仲裁法、紐約公約）。"
+   ],
+   "holding": "依 GAR 摘要，最高法院認定阿曼法院無權審理以倫敦為仲裁地之 ICC 判斷的撤銷聲請；判決理由及是否明示變更先前見解，報導可見部分未載。",
+   "significance": "若本判決確立外國仲裁地判斷不得在阿曼聲請撤銷，將修正 2023 年判決所造成的不確定性，使阿曼較符合紐約公約體系下僅得於仲裁地撤銷、於執行地拒絕承認的分工，對在阿曼執行外國判斷的債權人有利。",
+   "editorNote": "本網頁助理 註：本則僅依 Global Arbitration Review 標題與摘要（付費內容）撰寫，尚未取得判決原文，當事人、判斷金額與判決日期均未能查證。2023 年判決內容依 Pinsent Masons 報導。\n以下為本網頁助理補充，非來源內容：GAR 所稱「同一判斷債務人」可能即為 2023 年案件的 Vijay Tanks，但報導可見部分未明言。",
+   "tags": [
+    "阿曼",
+    "ICC",
+    "撤銷仲裁判斷",
+    "仲裁地",
+    "紐約公約",
+    "倫敦",
+    "卡達"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Global Arbitration Review 報導（付費）",
+     "url": "https://globalarbitrationreview.com/article/omani-supreme-court-dismisses-challenge-london-award",
+     "official": false
+    },
+    {
+     "label": "Pinsent Masons Out-Law：2023 年阿曼最高法院前案報導",
+     "url": "https://www.pinsentmasons.com/out-law/news/omani-supreme-court-allows-review-of-london-arbitral-award",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T23:06:30+08:00"
+  },
+  {
+   "id": "2026-11-03-arb-kab-costa-rica-castillo-bozo-panama-set-aside",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "哥斯大黎加",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-11-03",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Mauricio Paris（Ecija Abogados）",
+   "title": "哥斯大黎加首件投資仲裁撤銷案：最高法院以逾期駁回 Castillo Bozo 撤銷對巴拿馬判斷之聲請，2024 年修法已取消投資仲裁排除條款",
+   "shortTitle": "哥斯大黎加首件投資仲裁撤銷案逾期遭駁回",
+   "point": "作者指出舊法排除投資仲裁，改適用國內仲裁法的 15 日期限，聲請逾期不受理",
+   "titleOriginal": "Costa Rica's First Investment Arbitration Set-Aside Proceeding and the End of the Investor-State Exclusion",
+   "caseRef": "Castillo Bozo v. Panama (PCA, UNCITRAL); Sala Primera, Exp. 22-000146-0004-AR, Voto No. 1386-2026",
+   "tldr": "一位投資人在以哥斯大黎加首都聖荷西為仲裁地的條約仲裁中輸給巴拿馬，向哥斯大黎加最高法院聲請撤銷判斷。法院認為當時的國際商務仲裁法明文排除投資仲裁，只能適用國內仲裁法較短的期限，聲請已經逾期，不審實體。作者提醒：選擇仲裁地等於選擇撤銷程序與期限。",
+   "memo": "Mauricio Paris 於 Kluwer Arbitration Blog 撰文指出，哥斯大黎加最高法院第一庭於 2026 年 9 月 10 日以第 1386-2026 號判決，駁回 Leopoldo Castillo Bozo 撤銷其依巴拿馬—多明尼加雙邊投資條約對巴拿馬提起之 UNCITRAL 仲裁判斷（仲裁地聖荷西，2022 年 11 月 8 日作成，駁回全部請求）之聲請。法院認定國際商務仲裁法（第 8937 號法律）第 1 條第 5 項排除條約規範之投資人與國家爭端，應適用國內仲裁法（第 7727 號法律）之較短期限，聲請已逾期，且 2024 年第 10535 號法律刪除該排除規定不溯及既往。作者認為仲裁地之選擇決定撤銷程序法與期限。",
+   "context": "Leopoldo Castillo Bozo（多明尼加與委內瑞拉雙重國籍）於 2019 年依巴拿馬—多明尼加雙邊投資條約，以 UNCITRAL 仲裁規則、由常設仲裁法院（PCA）管理，對巴拿馬提起仲裁，主張巴拿馬保險監理機關接管並清算其持股的 Seguros BBA 構成違法徵收並違反公平公正待遇，請求約 1 億美元。仲裁地為哥斯大黎加聖荷西。\n哥斯大黎加原有兩部仲裁法：國內的「替代性爭端解決法」（Ley RAC，第 7727 號法律）及以 UNCITRAL 模範法為本的「國際商務仲裁法」（LACI，第 8937 號法律），後者第 1 條第 5 項排除受國際協定規範的投資人與國家爭端。2024 年 9 月 18 日第 10535 號法律將兩法整併為單一仲裁法，並刪除該排除規定。",
+   "facts": [
+    "2022 年 11 月 8 日，仲裁庭多數駁回全部請求，並命申請人賠付巴拿馬 659,595.49 美元費用。",
+    "申請人於 2022 年 12 月 15 日依 LACI 第 34 條向最高法院第一庭聲請撤銷。",
+    "巴拿馬於 2023 年 3 月 29 日答辯，主張：LACI 因第 1 條第 5 項不適用；依 Ley RAC 聲請已逾期；聲請實為變相的實體上訴。",
+    "2026 年 9 月 10 日，最高法院第一庭作成第 1386-2026 號判決，認定應適用 Ley RAC，申請人期限已於 2022 年 11 月 30 日屆滿，聲請不受理，未審酌實體。"
+   ],
+   "issues": [
+    "以哥斯大黎加為仲裁地之條約投資仲裁判斷，撤銷程序應適用 LACI 或國內仲裁法（LACI 第 1 條第 5 項）。",
+    "2024 年第 10535 號法律刪除投資仲裁排除規定，是否溯及適用於繫屬中之撤銷程序。"
+   ],
+   "holding": "・作者介紹本案為哥斯大黎加首件投資條約仲裁判斷撤銷程序。\n・法院採巴拿馬第一項主張：LACI 之排除規定適用於本案，撤銷程序應依 Ley RAC 進行。\n・依 Ley RAC 之 15 日期限（文章一處稱營業日），申請人期限於 2022 年 11 月 30 日屆滿，聲請逾期而不受理，法院未審理實體理由。\n・法院承認 2024 年修法已刪除排除規定，但認為不得溯及適用於修法前已繫屬之程序。\n・作者結論：仲裁地的選擇決定程序法與撤銷期限；採模範法的國家仍可能將投資人與國家爭端排除在外，形成陷阱；二元論法制下，投資仲裁可能被置於國內仲裁規範之下。",
+   "significance": "作者認為，2024 年修法後以哥斯大黎加為仲裁地之投資仲裁已納入統一仲裁法，但本案提醒當事人在選擇中美洲仲裁地時，須確認當地法律是否及如何適用於投資人與國家爭端，以免錯失撤銷期限。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：作者於撤銷程序中代理巴拿馬，文章亦揭露撰寫時使用 AI 輔助工具；本則尚未取得哥斯大黎加最高法院判決原文。文章對 Ley RAC 期限的描述在「15 個營業日」與「15 日」之間不一致。",
+   "tags": [
+    "哥斯大黎加",
+    "巴拿馬",
+    "撤銷仲裁判斷",
+    "仲裁地",
+    "UNCITRAL",
+    "PCA",
+    "雙邊投資條約",
+    "撤銷期限",
+    "多明尼加"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 文章",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/costa-ricas-first-investment-arbitration-set-aside-proceeding-and-the-end-of-the-investor-state-exclusion/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T23:06:30+08:00"
+  },
+  {
+   "id": "2026-11-04-arb-kab-brazil-pre-arbitration-evidence",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "巴西",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-11-04",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Pedro Lins、Lorenzo Marino（Mayer Brown）",
+   "title": "仲裁前蒐證在巴西還有路嗎？Bluemoon 案後證據保全須證明急迫，但獨立的文書提出訴訟仍可運用",
+   "shortTitle": "仲裁前在巴西法院蒐證還有哪些路？",
+   "point": "作者指出 Bluemoon 後證據保全限於急迫情形，但獨立文書提出訴訟仍是未被善用的工具",
+   "titleOriginal": "Court Assistance in Pre-Arbitration Evidence Gathering After Zf Automotive and Bluemoon: The Current State of Play in Brazil",
+   "caseRef": "",
+   "tldr": "美國最高法院在 ZF Automotive 案後，仲裁當事人幾乎不能再用美國 §1782 程序蒐證；巴西高等法院在 Bluemoon 案也限縮仲裁前的證據保全，只在證據有滅失之虞時准許。作者整理在巴西仍可用的途徑：針對非仲裁協議當事人的證據保全，以及基於法定或契約資訊權的獨立文書提出訴訟。",
+   "memo": "Pedro Lins 與 Lorenzo Marino 於 Kluwer Arbitration Blog 撰文指出，美國最高法院 ZF Automotive 案後，28 U.S.C. §1782 已難用於協助仲裁；巴西高等法院（STJ）Bluemoon 案則限縮民事訴訟法第 381 條以下仲裁前證據保全，依仲裁法第 22-A 條僅於證據有滅失之虞等急迫情形始得准許，但對非仲裁協議當事人之聲請不受此限。作者主張，基於法定或契約資訊權之獨立文書提出訴訟（民事訴訟法第 396 條以下）為未被善用之工具，惟其門檻仍屬嚴格。",
+   "context": "美國最高法院於 ZF Automotive 案認定 28 U.S.C. §1782 不適用於私人商務仲裁，其後下級法院在 In re Alpene、In re Webuild 等案亦限縮其適用。\n巴西民事訴訟法第 381 條規定三種證據預先調查事由：日後難以調查、有助和解、有助判斷是否起訴；仲裁法第 22-A 條則規定仲裁開始前，當事人得向法院聲請保全或急迫處分。",
+   "facts": [
+    "STJ 於 Bluemoon 案認定，仲裁前依第 381 條預先調查證據，僅在能證明急迫時准許；聖保羅上訴法院採嚴格急迫標準，須證據有滅失之虞。",
+    "STJ 另於 REsp 2.048.065 認定，對仲裁協議以外之第三人聲請者不受 Bluemoon 限制。",
+    "AMCHAM、FIESP/CIESP、CAM-CCBC 等巴西仲裁機構已設有快速的仲裁前證據程序，ICC 則無類似規定。"
+   ],
+   "issues": [
+    "仲裁協議存在時，巴西法院得否及在何條件下協助仲裁前證據調查（民事訴訟法第 381、382 條，仲裁法第 22-A 條）。",
+    "獨立文書提出訴訟（民事訴訟法第 396 條以下）與仲裁庭管轄權的界線。"
+   ],
+   "holding": "・作者指出，美國 §1782 途徑在 ZF Automotive 後已大致關閉，巴西途徑則在 Bluemoon 後收窄，第 381 條三種事由中僅「日後難以調查」一項仍適用於仲裁。\n・外國判斷或命令須先經 STJ 承認方可在巴西執行，此一時程本身可能構成證據滅失風險，從而支持證據保全。\n・巴西證據保全範圍廣，涵蓋文書、證人及勘驗，法院可對第三人命令提出；抗辯不得變相爭執實體，機密及特權並非絕對障礙，不遵守者可受搜索扣押及金錢制裁。\n・獨立文書提出訴訟以法定或契約資訊權為基礎，例如持股 5% 以上股東查閱會計帳冊（公司法第 105 條）或股份買賣契約的報告義務，須先有未獲回應的請求，且權利須明確到法院無須審理實體；作者認為可延伸至合資、股東協議及債務文件。\n・作者結論：兩種途徑門檻都高，且在準據法為外國法的爭議中尚未經實務檢驗，蒐證更仰賴策略與調查顧問。",
+   "significance": "對在巴西有資產或交易對手的仲裁當事人而言，作者整理了 ZF Automotive 與 Bluemoon 之後仍可運用的法院協助途徑及其門檻，可作為仲裁前策略規劃的參考。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：文章未載 ZF Automotive 判決日期；Bluemoon 案依文章所附連結之公告日期為 2023 年 3 月 20 日。",
+   "tags": [
+    "巴西",
+    "證據調查",
+    "§1782",
+    "仲裁前證據保全",
+    "文書提出",
+    "法院協助仲裁",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 文章",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/court-assistance-in-pre-arbitration-evidence-gathering-after-zf-automotive-and-bluemoon-the-current-state-of-play-in-brazil/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T23:06:30+08:00"
   }
  ],
  "agenda": [
@@ -5747,6 +5977,18 @@
    "caseRef": "ICSID Case No. UNCT/23/4",
    "summary": "亞伯達省營機構 APMC 就美國撤銷 Keystone XL 管線許可，依 NAFTA 遺留投資條款求償約 10 億美元。",
    "status": "據 IAReporter 2026 年 11 月 2 日報導已作成終結程序之仲裁判斷，結果尚未公開。"
+  },
+  {
+   "id": "tpg-v-kakao",
+   "type": "案件",
+   "court": "NEWS",
+   "field": "commercial",
+   "forum": "香港國際仲裁中心（HKIAC）",
+   "name": "TPG 訴 Kakao（Kakao Mobility 上市爭議）",
+   "nameOriginal": "TPG v. Kakao Corp. (HKIAC)",
+   "caseRef": "",
+   "summary": "Kakao Mobility 第二大股東 TPG 主張控股股東 Kakao 否決美國 ADR 上市，違反 2017 年股東協議中的上市支持義務。",
+   "status": "TPG 已向 HKIAC 提起仲裁，仲裁庭尚未組成。"
   }
  ]
 }
