@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-04T07:33:42+08:00",
-  "lastRunLocal": "2026-11-04 07:33",
+  "lastRun": "2026-11-04T23:52:19+08:00",
+  "lastRunLocal": "2026-11-04 23:52",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：美國 2（政策動態 1、司法案件 1）"
+  "lastRunNote": "新增 6 則：美國 3（監理指引 1、司法案件 2）、歐盟 1（立法動態 1）、香港 1（立法動態 1）、日本 1（政策動態 1）"
  },
  "items": [
   {
@@ -111,7 +111,9 @@
     "電子貨幣",
     "歐盟"
    ],
-   "related": [],
+   "related": [
+    "2026-11-04-fin-commission-wp2027-withdraw-fida"
+   ],
    "sources": [
     {
      "label": "Global Regulation Tomorrow 報導",
@@ -3795,7 +3797,8 @@
    ],
    "related": [
     "2026-10-29-fin-kalshi-sues-missouri",
-    "2026-10-27-fin-cftc-sues-utah-prediction-markets"
+    "2026-10-27-fin-cftc-sues-utah-prediction-markets",
+    "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction"
    ],
    "sources": [
     {
@@ -4294,7 +4297,8 @@
     "美國"
    ],
    "related": [
-    "2026-11-03-fin-cma-sues-cftc-stock-perpetuals"
+    "2026-11-03-fin-cma-sues-cftc-stock-perpetuals",
+    "2026-11-03-fin-sdny-denies-stock-perps-emergency-relief"
    ],
    "sources": [
     {
@@ -4364,7 +4368,8 @@
     "美國"
    ],
    "related": [
-    "2026-11-03-fin-cftc-single-stock-perpetuals"
+    "2026-11-03-fin-cftc-single-stock-perpetuals",
+    "2026-11-03-fin-sdny-denies-stock-perps-emergency-relief"
    ],
    "sources": [
     {
@@ -4384,6 +4389,386 @@
     }
    ],
    "addedAt": "2026-11-04T07:33:42+08:00"
+  },
+  {
+   "id": "2026-11-04-fin-occ-super-intelligence-framework",
+   "court": "OCC",
+   "kind": "監理指引",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "美國通貨監理局（OCC）",
+   "outletCode": "OCC",
+   "date": "2026-11-04",
+   "eventDate": "2026-11-04",
+   "importance": 2,
+   "author": "",
+   "title": "OCC 發布「超級智慧」監理架構，供檢查人員評估銀行使用 AI 及代理型 AI 之風險與控管",
+   "shortTitle": "OCC 發布銀行 AI 檢查架構",
+   "point": "依用途重大性與自主程度分級，不將 AI 列為獨立風險類別",
+   "titleOriginal": "OCC Issues Supervisory Framework on Bank Use of Super Intelligence",
+   "caseRef": "NR 2026-97；OCC Bulletin 2026-54",
+   "tldr": "美國聯邦銀行監理機關 OCC 發布一份給檢查人員用的參考架構，說明檢查銀行使用 AI（包括能自行執行任務的「代理型」AI）時要看什麼。重點不是模型多先進，而是它能做什麼決定、出錯時後果多嚴重、有沒有人在監督。",
+   "memo": "美國通貨監理局（OCC）於 2026 年 11 月 4 日發布「Super Intelligence: Supervisory Framework」（新聞稿 NR 2026-97；依報導為 OCC Bulletin 2026-54），供檢查人員評估國家銀行、聯邦儲蓄機構及外國銀行聯邦分支機構於一般業務中使用人工智慧及代理型人工智慧之風險與控管。該架構係補充既有模型風險管理、治理、資訊科技、法令遵循及作業風險之監理期待，不構成新的監理要求，不要求銀行另訂 AI 風險胃納，並以用途之重大性、失誤後果、決策權限移轉程度及人工監督程度決定控管強度，社區銀行檢查應依規模與風險調整。",
+   "context": "OCC 先前即透過模型風險管理指引（SR 11-7／OCC Bulletin 2011-12）及第三方風險管理指引規範銀行使用演算法與模型。2026 年美國金融監理機關陸續回應代理型 AI 的發展：SEC 2027 年檢查重點提及超級智慧，CFTC 創新工作小組亦舉辦超級智慧論壇。\n香港金管局於 11 月 2 日推出 SAGE 計畫並徵詢代理型 AI 監理意見，可見各地監理機關正同步處理同一議題。",
+   "facts": [
+    "OCC 於 2026 年 11 月 4 日發布新聞稿 NR 2026-97 及架構文件。",
+    "依報導，相關公告為 OCC Bulletin 2026-54，由資深副署長兼首席國家銀行檢查官 James M. Gallagher 簽署。",
+    "適用於 OCC 監理之國家銀行、聯邦儲蓄機構及外國銀行之聯邦分行與代理機構。",
+    "OCC 表示將隨技術發展及各方意見定期更新該架構。"
+   ],
+   "issues": [
+    "以「風險後果」而非技術複雜度作為分級標準，能否有效涵蓋可自行發動交易的 AI 代理？",
+    "檢查人員參考架構不具拘束力，實務上是否仍會形成事實上的監理期待？"
+   ],
+   "holding": "・架構是給檢查人員的參考工具，並非對銀行的新監理期待或可執行標準。\n・AI 不應被視為獨立的風險類別，銀行無須另訂 AI 風險胃納。\n・檢查應依個別用途的性質與重大性調整，考量失誤或濫用的後果、決策權限移轉給 AI 的程度及人工監督程度。\n・風險分類不取決於技術先進與否：能發動金融交易的簡單代理，風險可能高於僅供內部分析的複雜模型。\n・高風險用途可能需要更嚴格的控管、自主權限限制或更直接的人工監督；社區銀行檢查應依規模、複雜度與風險調整。",
+   "significance": "這是美國銀行監理機關首度就代理型 AI 提出整體檢查方法，採取以既有風險管理框架延伸、按後果分級的路線，而非另立 AI 專章。後續可留意聯準會與 FDIC 是否採取一致做法，以及 OCC 依意見更新架構的時程。",
+   "editorNote": "本網頁助理 註：OCC 新聞稿與架構全文頁面無法開啟，內容依 CDO Magazine 及 Newsroom America 之報導整理；公告編號 2026-54 及簽署人僅見於後者。",
+   "tags": [
+    "人工智慧",
+    "代理型 AI",
+    "模型風險管理",
+    "銀行監理",
+    "OCC",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "OCC 新聞稿（NR 2026-97）",
+     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html",
+     "official": true
+    },
+    {
+     "label": "OCC 監理架構全文（PDF）",
+     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97a.pdf",
+     "official": true
+    },
+    {
+     "label": "CDO Magazine 報導",
+     "url": "https://www.cdomagazine.tech/us-federal-news-bureau/occ-issues-supervisory-framework-for-banks-using-ai-systems",
+     "official": false
+    },
+    {
+     "label": "Newsroom America 報導",
+     "url": "https://newsroomamerica.com/a/Isrm1PTLWSAzbviXyFj1Gsl0T4b/the_framework_is_a_resource_for_examiners_rather_than_a_new_set_of_expectations_for_banks_and_the_occ_says_si_should_not_be_treated_as_a_separate_risk_category.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T23:52:19+08:00"
+  },
+  {
+   "id": "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國",
+   "outlet": "Unchained",
+   "outletCode": "UC",
+   "date": "2026-11-04",
+   "eventDate": "2026-11-03",
+   "importance": 2,
+   "author": "",
+   "title": "美國第二巡迴上訴法院駁回 Kalshi 與 Coinbase 上訴期間禁制令聲請，紐約州與康乃狄克州得繼續對預測市場執法",
+   "shortTitle": "第二巡迴駁回 Kalshi、Coinbase 禁制令",
+   "point": "紐約、康州可續行執法，優先適用爭議留待上訴實體審理",
+   "titleOriginal": "Second Circuit Won't Pause New York, Connecticut Actions Against Kalshi and Coinbase",
+   "caseRef": "No. 26-1835；No. 26-2239；No. 26-2297",
+   "tldr": "Kalshi 和 Coinbase 主張，它們在 CFTC 監理交易所提供的運動事件合約只受聯邦管轄，州政府不能用賭博法管。它們請上訴法院在上訴期間先暫停紐約州與康乃狄克州的執法，但法院拒絕，也沒有說明理由。上訴本身仍在進行。",
+   "memo": "依 Unchained 及 DeFi Rate 2026 年 11 月 4 日報導，美國聯邦第二巡迴上訴法院合議庭（Walker、Jacobs、Bianco 法官）於 2026 年 11 月 3 日以兩頁裁定，駁回 Kalshi 對紐約州博弈主管機關與康乃狄克州消費者保護廳，以及 Coinbase 對康乃狄克州檢察長 William Tong 等三件上訴案之上訴期間禁制令聲請，僅認定聲請人未盡必要之釋明；三案上訴仍繫屬中，《商品交易法》是否優先排除州賭博法之爭點未經實體判斷，兩州得繼續進行執法程序。",
+   "context": "預測市場業者主張，於 CFTC 指定契約市場（DCM）上市之事件合約屬《商品交易法》下 CFTC 專屬管轄，州賭博法因聯邦法優先而不適用。各地聯邦法院見解分歧：伊利諾州北區聯邦地院 10 月 30 日支持業者並核發初步禁制令，另有法院（如 9 月第三巡迴相關判決之報導）認為州得管制。\n紐約州於 7 月在州法院起訴 Kalshi，康乃狄克州檢察長於 8 月起訴 Kalshi；兩州聯邦地院先前均拒絕業者禁制令聲請，業者遂上訴第二巡迴。CFTC 亦已對兩州提起訴訟。",
+   "facts": [
+    "第二巡迴合議庭於 2026 年 11 月 3 日作成裁定，合併處理三件上訴之聲請。",
+    "依 Unchained 報導，合議庭成員為 John M. Walker Jr.、Dennis Jacobs 與 Joseph F. Bianco 法官。",
+    "裁定僅稱聲請人「未盡必要之釋明，證明上訴期間禁制令有其必要」，未附理由。",
+    "依報導，CFTC 曾獲准以法院之友身分就 Kalshi 紐約案聲請陳述意見。",
+    "依報導，紐約州對 Kalshi 之州法院訴訟請求金額可能高達 360 億美元。"
+   ],
+   "issues": [
+    "《商品交易法》是否優先排除州賭博法對 DCM 上市運動事件合約之適用？",
+    "各巡迴法院見解分歧，是否促使最高法院受理相關聲請？"
+   ],
+   "holding": "・聲請：Kalshi 與 Coinbase 請求於上訴期間禁止紐約州、康乃狄克州對 DCM 業者執行州賭博法。\n・裁定：駁回聲請，認定聲請人未盡釋明責任，未說明理由。\n・效果：兩州得續行執法程序；三件上訴仍待實體判決，優先適用爭點未經判斷。",
+   "significance": "此裁定與伊利諾州聯邦地院 10 月 30 日支持業者的禁制令方向相反，使預測市場在不同州面臨不同法律狀態。後續應留意第二巡迴實體判決、業者是否聲請全院審理，以及最高法院對相關聲請的處理。",
+   "editorNote": "本網頁助理 註：未能取得法院裁定原文，內容依 Unchained 與 DeFi Rate 報導；案號依 DeFi Rate 訴訟追蹤頁所載。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先適用",
+    "Kalshi",
+    "Coinbase",
+    "CFTC",
+    "美國紐約州",
+    "美國康乃狄克州",
+    "美國"
+   ],
+   "related": [
+    "2026-11-02-fin-illinois-prediction-markets-injunction-appeal"
+   ],
+   "sources": [
+    {
+     "label": "Unchained 報導",
+     "url": "https://unchainedcrypto.com/second-circuit-wont-pause-new-york-connecticut-actions-against-kalshi-and-coinbase/",
+     "official": false
+    },
+    {
+     "label": "DeFi Rate 報導",
+     "url": "https://defirate.com/news/second-circuit-denies-coinbase-kalshi-temporary-injunctions-in-connecticut-new-york-cases/",
+     "official": false
+    },
+    {
+     "label": "DeFi Rate 預測市場訴訟追蹤",
+     "url": "https://defirate.com/prediction-markets/legal/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T23:52:19+08:00"
+  },
+  {
+   "id": "2026-11-03-fin-sdny-denies-stock-perps-emergency-relief",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-perpetual-futures-jurisdiction",
+   "jurisdiction": "美國",
+   "outlet": "DeFi Rate",
+   "outletCode": "DFR",
+   "date": "2026-11-04",
+   "eventDate": "2026-11-03",
+   "importance": 2,
+   "author": "",
+   "title": "紐約南區聯邦地院駁回業者團體對 CFTC 個股永續期貨之緊急禁制令聲請，但認原告本案勝訴可能性高",
+   "shortTitle": "法院駁回個股永續期貨緊急禁制令",
+   "point": "法官認契約似屬交換而非證券期貨，但原告未證明無法彌補之損害",
+   "titleOriginal": "Federal Court Denies Emergency Injunction Against Stock Perps",
+   "caseRef": "",
+   "tldr": "CFTC 開放個股永續期貨後，由 Cboe、Citadel Securities 等支持的業者團體當天就告上法院，要求緊急叫停。法官拒絕緊急叫停，因為原告沒證明會受到無法挽回的損害；但法官同時表示，這類契約看起來不是 CFTC 可以管的證券期貨，而比較像交換，原告最後勝訴的機會不小。",
+   "memo": "依 DeFi Rate 2026 年 11 月 4 日報導，美國紐約南區聯邦地方法院 Valerie Caproni 法官於 2026 年 11 月 3 日駁回 Capital Markets Alliance 對美國商品期貨交易委員會（CFTC）及其主席 Michael Selig 聲請之緊急禁制令，理由為原告未釋明將受無法彌補之損害；惟法官認原告主張 CFTC 逾越權限之本案勝訴可能性高，並表示個股永續期貨無法構成 CFTC 有權管轄之證券期貨，似符合交換之定義。依報導，原告預計另聲請初步禁制令。",
+   "context": "CFTC 主席 Selig 於 11 月 3 日宣布個股永續期貨依 CFTC 規則視為已核准之證券期貨商品，可於 CFTC 註冊交易所交易；同日 Capital Markets Alliance（成員包括 Cboe Global Markets、Citadel Securities、Healthy Markets Association 等）起訴請求撤銷，主張相關契約屬以證券為基礎之交換，應由 SEC 管轄。\n依《商品交易法》與 2000 年《商品期貨現代化法》，證券期貨由 CFTC 與 SEC 共同監理，以證券為基礎之交換則由 SEC 監理。",
+   "facts": [
+    "法院於 2026 年 11 月 3 日（週二）作成駁回裁定，為原告起訴當日。",
+    "依報導，法官認原告未證明將受無法彌補之損害。",
+    "依報導，法官表示相關契約「不能構成 CFTC 具有法定及規則管轄權的證券期貨」，且「似乎符合交換的定義」。",
+    "依報導，Kalshi 似準備於數日內開始提供個股永續期貨。"
+   ],
+   "issues": [
+    "無到期日的個股永續契約，應定性為證券期貨、交換或以證券為基礎之交換？",
+    "CFTC 以視為核准方式開放此類商品，是否逾越其法定權限？"
+   ],
+   "holding": "・原告聲請：緊急禁止 CFTC 執行對多家交易所個股永續期貨之核准。\n・裁定：駁回緊急禁制令，因原告未釋明無法彌補之損害。\n・本案初步評估：法官認原告主張 CFTC 逾越權限之勝訴可能性高，相關契約似屬交換而非證券期貨。\n・後續：依報導原告將聲請初步禁制令，有機會補強損害之主張。",
+   "significance": "法院雖未叫停交易，但對本案爭點的初步看法明顯不利 CFTC，業者上市個股永續期貨將承受日後被認定違法的風險。後續應留意初步禁制令聲請的審理時程、SEC 是否表態，以及交易所是否如期上市。",
+   "editorNote": "本網頁助理 註：本則僅有 DeFi Rate 一家來源報導裁定內容，其他報導（如 Parameter 11 月 4 日報導）未提及此裁定；DeFi Rate 附有裁定 PDF，但本網頁助理未能開啟核對，案號亦未載明，請以法院卷宗為準。",
+   "tags": [
+    "永續期貨",
+    "證券期貨",
+    "交換",
+    "衍生性商品",
+    "CFTC",
+    "SEC",
+    "美國"
+   ],
+   "related": [
+    "2026-11-03-fin-cma-sues-cftc-stock-perpetuals",
+    "2026-11-03-fin-cftc-single-stock-perpetuals"
+   ],
+   "sources": [
+    {
+     "label": "DeFi Rate 報導",
+     "url": "https://defirate.com/news/stock-perpetuals-survive-first-legal-challenge-court-denies-emergency-injunction/",
+     "official": false
+    },
+    {
+     "label": "駁回裁定（DeFi Rate 轉載，PDF）",
+     "url": "https://dnjaezqrtttgowlgtfwt.supabase.co/storage/v1/object/public/media/media/defirate/5cc7caa9-b8b5-4df7-b14c-4e61da83dbf2/cmainjunctiondenial.pdf",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T23:52:19+08:00"
+  },
+  {
+   "id": "2026-11-04-fin-commission-wp2027-withdraw-fida",
+   "court": "EU",
+   "kind": "立法動態",
+   "caseId": "",
+   "jurisdiction": "歐盟",
+   "outlet": "Global Regulation Tomorrow（Norton Rose Fulbright）",
+   "outletCode": "RT",
+   "date": "2026-11-04",
+   "eventDate": "2026-11-04",
+   "importance": 2,
+   "author": "",
+   "title": "歐盟執委會 2027 年工作計畫擬撤回《金融資料取用規則》（FiDA）開放金融提案",
+   "shortTitle": "執委會擬撤回 FiDA 開放金融提案",
+   "point": "列入 2027 年工作計畫撤回清單，依 MLex 報導於六個月內撤回",
+   "titleOriginal": "European Commission publishes work programme 2027",
+   "caseRef": "IP/26/2321；2023/0205(COD)",
+   "tldr": "歐盟原本打算用 FiDA 建立「開放金融」制度，讓客戶可以把銀行以外的保險、投資、退休金等金融資料分享給第三方業者。這項 2023 年提出的法案在理事會與議會卡關多年，執委會 11 月 4 日公布的 2027 年工作計畫把它列入要撤回的提案。",
+   "memo": "歐盟執委會於 2026 年 11 月 4 日公布 2027 年工作計畫（新聞稿 IP/26/2321），依 Global Regulation Tomorrow 同日整理，將 2023 年提出之《金融資料取用規則》（Financial Data Access Regulation，FiDA，2023/0205(COD)）列為擬撤回之立法提案，並一併撤回歐洲存款保險機制（EDIS）提案；依 MLex 2026 年 11 月 3 日就工作計畫草案之報導，執委會擬於六個月內撤回 FiDA，理由為成員國與歐洲議會因簡化考量致協商停滯。",
+   "context": "FiDA 於 2023 年 6 月與 PSD3／PSR 同時提出，擬在支付帳戶以外建立涵蓋存款、投資、保險、退休金等資料的開放金融架構，並設立金融資料共享機制。協商期間，業界及部分成員國質疑成本與效益，執委會在簡化政策下曾表示將重新評估。\nPSD3／PSR 則持續推進，理事會已於 10 月公布 PSD3 一讀立場。",
+   "facts": [
+    "執委會於 2026 年 11 月 4 日公布 2027 年工作計畫。",
+    "依 Eunews 報導，工作計畫共撤回 18 項提案，EDIS 將由 2027 年第一季的銀行競爭力提案取代。",
+    "依 Global Regulation Tomorrow，FiDA 列入撤回清單。",
+    "依 MLex 取得之草案，FiDA 將於六個月內撤回。"
+   ],
+   "issues": [
+    "撤回 FiDA 後，歐盟開放金融是否改以 PSD3／PSR 或其他簡化方案部分延續？",
+    "撤回須經何種程序，歐洲議會與理事會有無表示異議的空間？"
+   ],
+   "holding": "・執委會將 FiDA 列入 2027 年工作計畫之擬撤回提案。\n・理由（依 MLex 報導）：成員國與議會基於簡化考量致協商停滯。\n・同時撤回 EDIS 等提案，並規劃 2027 年第一季提出銀行簡化與競爭力套案。",
+   "significance": "FiDA 是歐盟開放金融政策的核心立法，撤回代表開放銀行以外的資料共享制度短期內不會在歐盟層級成形，業者需重新評估相關布局。後續應留意執委會正式撤回之時間、議會的反應，以及是否以其他形式提出替代方案。",
+   "editorNote": "本網頁助理 註：執委會新聞稿及工作計畫附件無法開啟；FiDA 列入撤回清單依 Global Regulation Tomorrow 整理，「六個月內撤回」及撤回理由依 MLex 對草案之報導，最終文本可能不同。Eunews 報導未提及 FiDA。",
+   "tags": [
+    "開放金融",
+    "開放銀行",
+    "FiDA",
+    "工作計畫",
+    "歐盟執委會",
+    "歐盟"
+   ],
+   "related": [
+    "2026-10-23-fin-council-psd3-first-reading-position"
+   ],
+   "sources": [
+    {
+     "label": "歐盟執委會新聞稿（IP/26/2321）",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2321",
+     "official": true
+    },
+    {
+     "label": "Global Regulation Tomorrow 分析",
+     "url": "https://www.regulationtomorrow.com/2026/11/european-commission-publishes-work-programme-2027/",
+     "official": false
+    },
+    {
+     "label": "MLex 報導（工作計畫草案）",
+     "url": "https://www.mlex.com/mlex/financial-services/articles/2545816",
+     "official": false
+    },
+    {
+     "label": "Eunews 報導",
+     "url": "https://www.eunews.it/en/2026/11/04/eu-simplification-to-continue-in-2027-commission-withdraws-18-legislative-proposals/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T23:52:19+08:00"
+  },
+  {
+   "id": "2026-11-04-fin-hk-legco-passes-carf-bill",
+   "court": "OTHER",
+   "kind": "立法動態",
+   "caseId": "",
+   "jurisdiction": "香港",
+   "outlet": "香港政府新聞網",
+   "outletCode": "HKGOV",
+   "date": "2026-11-04",
+   "eventDate": "2026-11-04",
+   "importance": 2,
+   "author": "",
+   "title": "香港立法會通過《2026年稅務（修訂）（加密資產申報框架及經修訂的共同匯報標準）條例草案》",
+   "shortTitle": "香港立法會通過加密資產稅務申報法",
+   "point": "2027 年起服務商須蒐集資料，2028 年起與夥伴稅務管轄區交換",
+   "titleOriginal": "加密資產申報法案獲通過",
+   "caseRef": "",
+   "tldr": "香港通過法律落實經合組織（OECD）的「加密資產申報框架」（CARF）：從 2027 年起，加密資產服務商要蒐集客戶的稅務身分等資料並向稅務局申報，香港再從 2028 年起與其他國家交換，讓各國稅務機關掌握跨境加密資產交易。這部法律不開徵新稅。",
+   "memo": "香港立法會於 2026 年 11 月 4 日通過《2026年稅務（修訂）（加密資產申報框架及經修訂的共同匯報標準）條例草案》，於本地落實經濟合作暨發展組織（OECD）之加密資產申報框架（CARF）及經修訂之共同匯報標準（CRS）。依政府新聞稿，CARF 自 2027 年起實施，相關加密資產服務提供者須蒐集指明資料，稅務局自 2028 年起與夥伴稅務管轄區交換；經修訂之 CRS 自 2028 年起實施，並自 2029 年起據以自動交換財務帳戶資料。稅務局將發布指引。",
+   "context": "OECD 於 2023 年公布 CARF，要求加密資產服務提供者就客戶之交易蒐集並申報資料，供各國稅務機關自動交換，同時修訂 CRS 以涵蓋電子貨幣與數位金融商品。香港自 2018 年起依 CRS 每年自動交換財務帳戶資料。\n依第三方整理，本條例草案於 2026 年 5 月 22 日刊憲、6 月 3 日首讀，於《稅務條例》增訂第 8B 部。",
+   "facts": [
+    "立法會於 2026 年 11 月 4 日通過條例草案。",
+    "CARF 自 2027 年起實施，稅務局自 2028 年起交換資料。",
+    "經修訂 CRS 自 2028 年起實施，自 2029 年起按新標準交換。",
+    "依報導，申報資料包括居住地址、稅務居民身分、稅籍編號及出生日期，交易類型包括買賣、兌換及移轉至外部錢包。",
+    "稅務局已成立專責小組提供技術支援。"
+   ],
+   "issues": [
+    "境外加密資產服務商是否因「關聯標準」而須在港登記申報？",
+    "申報義務與個人資料保護之調和。"
+   ],
+   "holding": "・落實 OECD CARF：符合關聯標準的加密資產服務提供者須登記、進行盡職審查並向稅務局申報。\n・修訂 CRS：納入新的數位金融商品並優化申報與盡職審查。\n・資料交換以互惠為原則，並確保保密。\n・依第三方整理：未登記或未申報、違反盡職審查及提供虛假資料者，設有罰金及刑責。",
+   "significance": "香港成為亞洲較早完成 CARF 立法的法域之一，與 2027–2028 年首批交換的國際時程接軌。在港營運之虛擬資產交易平台與服務商須於 2027 年前建置客戶資料蒐集流程；台灣業者如有香港據點或客戶亦應留意。",
+   "editorNote": "本網頁助理 註：登記期限、罰則及刊憲日期係依 RegReporting Desk 之整理，政府新聞稿未載明；條例最終文本以刊憲版本為準。",
+   "tags": [
+    "加密資產",
+    "稅務資訊交換",
+    "CARF",
+    "CRS",
+    "香港立法會",
+    "稅務局",
+    "香港"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "香港政府新聞網：加密資產申報法案獲通過",
+     "url": "https://www.news.gov.hk/chi/2026/11/20261104/20261104_181944_819.html",
+     "official": true
+    },
+    {
+     "label": "香港政府新聞公報",
+     "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400310.htm",
+     "official": true
+    },
+    {
+     "label": "RegReporting Desk 分析",
+     "url": "https://regreportingdesk.com/hong-kong-carf-bill-crypto-asset-reporting/",
+     "official": false
+    },
+    {
+     "label": "36Crypto 報導",
+     "url": "https://36crypto.com/hong-kong-passes-new-crypto-reporting-law-sets-2027-deadline-for-exchanges/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-04T23:52:19+08:00"
+  },
+  {
+   "id": "2026-11-02-fin-japan-fsa-stablecoin-review",
+   "court": "JP",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "日本",
+   "outlet": "日本金融廳",
+   "outletCode": "JFSA",
+   "date": "2026-11-02",
+   "eventDate": "2026-11-02",
+   "importance": 1,
+   "author": "",
+   "title": "日本金融廳研究會檢討穩定幣制度：準備資產、100 萬日圓移轉上限、借貸及銀行發行",
+   "shortTitle": "日本金融廳研議穩定幣制度修正",
+   "point": "檢討 100 萬日圓移轉上限及存款機構直接發行與存款代幣化",
+   "titleOriginal": "デジタル・分散型金融への対応のあり方等に関する研究会（令和8事務年度第2回）事務局説明資料",
+   "caseRef": "",
+   "tldr": "日本金融廳的專家研究會在 11 月 2 日開會，討論是否要修改穩定幣（日本法稱「電子決済手段」）的規則，包括準備資產可以投資什麼、單筆移轉 100 萬日圓的上限、穩定幣借貸要不要管，以及銀行能不能自己直接發行穩定幣或把存款代幣化。目前只是提出議題，尚無結論。",
+   "memo": "日本金融廳於 2026 年 11 月 2 日召開「デジタル・分散型金融への対応のあり方等に関する研究会」2026 事務年度第 2 次會議，事務局資料就《資金決済法》下電子決済手段（穩定幣）提出檢討議題，包括：準備資產運用範圍是否參酌國外規範調整、資金移動業者型穩定幣每次 100 萬日圓移轉上限之妥適性、穩定幣借貸應否納入規範及其與《出資法》存款受入禁止之關係，以及存款取扱金融機構本體發行穩定幣與存款代幣化之定位。資料僅列論點，尚未作成決定。",
+   "context": "日本 2022 年修正《資金決済法》，將法幣連結型穩定幣定為「電子決済手段」，發行人限銀行、資金移動業者及信託公司，並規範仲介業者；2025 年修法放寬準備資產可投資國債及定期存款。2026 年修正《金融商品取引法》將加密資產借貸納入規範，但穩定幣借貸尚無全面規定。\n金融廳 2026 年 7 月公布之金融戰略亦提出推動 AI 時代之鏈上金融。",
+   "facts": [
+    "研究會於 2026 年 11 月 2 日召開，為 2026 事務年度第 2 次會議。",
+    "現行資金移動業者型穩定幣及外國電子決済手段均適用每次 100 萬日圓移轉上限。",
+    "事務局資料以論點形式提出，未作成決定。"
+   ],
+   "issues": [
+    "準備資產規範是否應向美國 GENIUS Act、歐盟 MiCA 等看齊？",
+    "銀行本體發行穩定幣與存款代幣化，應適用何種規範與存款保險處理？",
+    "穩定幣借貸是否構成《出資法》所禁止之受入存款？"
+   ],
+   "holding": "・準備資產：參考國外動向，檢討現行運用方法是否需調整。\n・移轉上限：依資金移動業者規範目的，重新檢討 100 萬日圓上限。\n・借貸：檢討穩定幣借貸之規範方向。\n・銀行發行：重新檢討存款取扱金融機構本體發行穩定幣及存款代幣化之定位。",
+   "significance": "日本可能進一步開放銀行直接發行穩定幣並調整移轉上限，將影響日圓穩定幣與跨境支付的發展。後續應留意研究會的中間整理及是否進入金融審議會修法程序。",
+   "editorNote": "本網頁助理 註：研究會名稱保留日文原名；內容依金融廳事務局說明資料（PDF）整理，未見會議紀錄。",
+   "tags": [
+    "穩定幣",
+    "電子決済手段",
+    "存款代幣",
+    "資金決済法",
+    "日本金融廳",
+    "日本"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "金融廳事務局說明資料（PDF）",
+     "url": "https://www.fsa.go.jp/singi/digital_2026/shiryo/261102/jimukyoku.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-04T23:52:19+08:00"
   }
  ],
  "agenda": [
@@ -4418,16 +4803,6 @@
    "caseId": "br-vasp-authorisation"
   },
   {
-   "id": "2026-11-11-kr-tokenised-securities-comment-deadline",
-   "date": "2026-11-11",
-   "court": "KR",
-   "title": "南韓代幣化證券配套子法意見徵詢截止",
-   "note": "南韓時間；金融委員會預告草案。",
-   "url": "https://www.fsc.go.kr/eng/pr010101/87834",
-   "relatedId": "2026-10-01-fin-kr-fsc-tokenised-securities-rules",
-   "caseId": "kr-tokenised-securities"
-  },
-  {
    "id": "2026-11-11-fsb-turkiye-crypto-peer-review",
    "date": "2026-11-11",
    "court": "FSB",
@@ -4436,6 +4811,16 @@
    "url": "https://mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-october-2026-20261028",
    "relatedId": "",
    "caseId": ""
+  },
+  {
+   "id": "2026-11-11-kr-tokenised-securities-comment-deadline",
+   "date": "2026-11-11",
+   "court": "KR",
+   "title": "南韓代幣化證券配套子法意見徵詢截止",
+   "note": "南韓時間；金融委員會預告草案。",
+   "url": "https://www.fsc.go.kr/eng/pr010101/87834",
+   "relatedId": "2026-10-01-fin-kr-fsc-tokenised-securities-rules",
+   "caseId": "kr-tokenised-securities"
   },
   {
    "id": "2026-11-12-eba-usdc-dual-supervision",
@@ -4566,6 +4951,16 @@
    "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-38-financial-crime-guide-updates",
    "relatedId": "2026-10-23-fin-fca-cp26-38-financial-crime-guide",
    "caseId": "uk-cryptoasset-regime"
+  },
+  {
+   "id": "2027-01-01-other-hk-carf-commencement",
+   "date": "2027-01-01",
+   "court": "OTHER",
+   "title": "香港加密資產申報框架（CARF）開始實施",
+   "note": "相關加密資產服務提供者須開始蒐集指明資料；稅務局自 2028 年起交換資料",
+   "url": "https://www.news.gov.hk/chi/2026/11/20261104/20261104_181944_819.html",
+   "relatedId": "2026-11-04-fin-hk-legco-passes-carf-bill",
+   "caseId": ""
   },
   {
    "id": "2027-01-08-esma-non-mica-stablecoin-deadline",
@@ -4790,7 +5185,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "伊利諾州北區聯邦地院 10 月 30 日禁止伊利諾州對 CFTC 監理交易所事件合約適用州賭博法，州政府已上訴第七巡迴法院；CFTC 10 月 26 日起訴猶他州，猶他州 10 月 28 日刑事追訴 Kalshi；新澤西州聲請最高法院審理尚待決定。"
+   "status": "第二巡迴上訴法院 11 月 3 日駁回 Kalshi、Coinbase 對紐約州及康乃狄克州之上訴期間禁制令聲請（上訴仍繫屬）；伊利諾州北區聯邦地院 10 月 30 日則禁止伊利諾州對 CFTC 監理交易所事件合約適用州賭博法，州政府已上訴第七巡迴；CFTC 10 月 26 日起訴猶他州。"
   },
   {
    "id": "kr-tokenised-securities",
@@ -4834,7 +5229,7 @@
    "nameOriginal": "US perpetual futures: CFTC approval and jurisdictional challenges",
    "caseRef": "",
    "summary": "CFTC 先允許加密資產永續期貨於其註冊交易所上市，再於 2026 年 11 月擴及個股永續期貨，CME 集團及傳統證券業者團體分別起訴，主張相關商品屬交換或以證券為基礎之交換。",
-   "status": "CFTC 11 月 3 日宣布個股永續期貨視為已核准之證券期貨商品，同日 Capital Markets Alliance 於紐約聯邦法院起訴請求撤銷；CME 先前對加密永續期貨的訴訟仍在進行。"
+   "status": "CFTC 11 月 3 日宣布個股永續期貨視為已核准之證券期貨，同日 Capital Markets Alliance 於紐約南區聯邦地院起訴；法院當日駁回緊急禁制令但認原告本案勝訴可能性高（依 DeFi Rate 報導），原告預計聲請初步禁制令；CME 對加密永續期貨之訴訟仍在進行。"
   }
  ],
  "archives": []
