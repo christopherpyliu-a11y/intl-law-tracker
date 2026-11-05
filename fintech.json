@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-05T07:30:29+08:00",
-  "lastRunLocal": "2026-11-05 07:30",
+  "lastRun": "2026-11-05T23:40:31+08:00",
+  "lastRunLocal": "2026-11-05 23:40",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：美國 3（司法案件 1、實務評論 1、政策動態 1）、台灣 1（實務評論 1）"
+  "lastRunNote": "新增 2 則：美國 2（司法案件 1、政策動態 1）"
  },
  "items": [
   {
@@ -3409,7 +3409,8 @@
    "related": [
     "2026-10-30-fin-cftc-selig-binance-hack-registration",
     "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody",
-    "2026-10-31-fin-efri-binance-stablecoin-freeze-analysis"
+    "2026-10-31-fin-efri-binance-stablecoin-freeze-analysis",
+    "2026-11-05-fin-fed-occ-query-banks-binance-hack"
    ],
    "sources": [
     {
@@ -4817,7 +4818,8 @@
     "美國"
    ],
    "related": [
-    "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction"
+    "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction",
+    "2026-11-04-fin-arkansas-ag-sues-kalshi"
    ],
    "sources": [
     {
@@ -5018,6 +5020,119 @@
     }
    ],
    "addedAt": "2026-11-05T07:30:29+08:00"
+  },
+  {
+   "id": "2026-11-04-fin-arkansas-ag-sues-kalshi",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國阿肯色州",
+   "outlet": "crypto.news",
+   "outletCode": "CN",
+   "date": "2026-11-05",
+   "eventDate": "2026-11-04",
+   "importance": 1,
+   "author": "",
+   "title": "阿肯色州檢察總長以未取得賭博執照等理由對 Kalshi 提起州法院訴訟",
+   "shortTitle": "阿肯色州起訴 Kalshi 經營非法賭博",
+   "point": "11 月 4 日於州法院提告，請求返還、民事罰款及補繳賭博稅",
+   "titleOriginal": "Kalshi hit with Arkansas lawsuit over unlicensed sports betting",
+   "caseRef": "Independence County Circuit Court, No. 32CV-26-717",
+   "tldr": "阿肯色州檢察總長控告預測市場業者 Kalshi，指其未取得州賭博執照就讓民眾下注運動等事件，還讓 18 至 20 歲的人參與、沒繳賭博稅，要求法院命其賠償、罰款並停止相關業務。這是又一個州以州賭博法對付 CFTC 監理下預測市場的案件。",
+   "memo": "依 crypto.news 2026 年 11 月 5 日報導，阿肯色州檢察總長 Tim Griffin 於 2026 年 11 月 4 日代表州政府向該州 Independence County 巡迴法院對 KalshiEX LLC 及 Kalshi Inc. 提起訴訟（案號 32CV-26-717），主張其未取得州賭博執照經營賭博、容許 18 至 20 歲使用者參與及未繳納賭博稅，違反《阿肯色州欺騙性交易行為法》並構成不當得利，請求消費者返還、民事罰款、補繳稅款及禁制處分。上開均屬州政府主張，法院尚未判決。",
+   "context": "Kalshi 在 CFTC 監理之指定契約市場提供運動等事件合約，主張依《商品交易法》聯邦法優先適用、州賭博法不得管制；多州則以州賭博法對其採取民事或刑事行動，CFTC 亦對多州提起訴訟捍衛專屬管轄。\n聯邦上訴法院見解分歧：第六巡迴（9 月）及第九巡迴認為州得管制，第二巡迴於 11 月 3 日駁回 Kalshi 與 Coinbase 之上訴期間禁制令聲請，伊利諾州北區聯邦地院則於 10 月 30 日禁止該州適用州賭博法。",
+   "facts": [
+    "起訴日：2026 年 11 月 4 日；法院：阿肯色州 Independence County 巡迴法院（州法院），案號 32CV-26-717。",
+    "原告：阿肯色州檢察總長 Tim Griffin 代表州政府；被告：KalshiEX LLC 與 Kalshi Inc.。",
+    "依 The Block 報導標題，州政府並主張相關賭博活動造成心理健康上的傷害。",
+    "州政府尚未取得任何判決。"
+   ],
+   "issues": [
+    "州政府得否以州消費者保護法及賭博法，規範在 CFTC 指定契約市場上市之事件合約？",
+    "《商品交易法》是否默示排除州法（聯邦優先適用），以及州法院對此問題之判斷是否與聯邦巡迴法院分歧？"
+   ],
+   "holding": "・請求權基礎：多項違反《阿肯色州欺騙性交易行為法》（未領照經營賭博、容許 18 至 20 歲使用者參與、未繳賭博稅），以及不當得利（交易手續費等收入不應保留）。\n・請求內容：消費者返還、民事罰款、補繳稅款，以及限制被訴不法業務之法院命令。",
+   "significance": "阿肯色州加入以州法對 Kalshi 提告之行列，且選擇州法院而非聯邦法院，可能使優先適用爭議更形分散；與第九巡迴已啟動之最高法院移審期限、第七巡迴伊利諾州上訴案並行，最高法院是否受理將是關鍵。",
+   "editorNote": "本網頁助理 註：未能取得阿肯色州檢察總長官方新聞稿或起訴狀，案號與請求內容係依 crypto.news 報導；The Block 亦有報導，但其全文未能開啟。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先適用",
+    "Kalshi",
+    "州檢察總長",
+    "美國阿肯色州",
+    "美國"
+   ],
+   "related": [
+    "2026-11-04-fin-ninth-circuit-denies-kalshi-rehearing"
+   ],
+   "sources": [
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/arkansas-sues-kalshi-illegal-gambling-lawsuit/",
+     "official": false
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-05-arkansas-sues-kalshi-434407",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T23:40:31+08:00"
+  },
+  {
+   "id": "2026-11-05-fin-fed-occ-query-banks-binance-hack",
+   "court": "FED",
+   "kind": "政策動態",
+   "caseId": "binance-2026-hack-response",
+   "jurisdiction": "美國",
+   "outlet": "Bitcoin.com News",
+   "outletCode": "BTC",
+   "date": "2026-11-05",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "依路透社報導，聯準會與 OCC 於幣安駭案後向美國銀行查詢可疑交易與資安弱點",
+   "shortTitle": "Fed、OCC 就幣安駭案向銀行查詢",
+   "point": "依路透報導自 11 月 2 日起詢問可疑交易與資安弱點，屬預防性質",
+   "titleOriginal": "Fed and OCC Probe Bank Security After Binance's $6.3B Hack: Report",
+   "caseRef": "",
+   "tldr": "根據路透社報導，美國聯準會和 OCC 在幣安被駭約 63 億美元後，開始詢問美國銀行有沒有看到相關可疑交易、服務中斷或資安漏洞。報導指出這看起來是預防性查詢，沒有證據顯示美國銀行體系被入侵。",
+   "memo": "依 Bitcoin.com News 2026 年 11 月 5 日轉述路透社同日報導，美國聯邦準備理事會及通貨監理局（OCC）於 2026 年 10 月 29 日幣安遭竊約 63 億美元事件後，自 11 月 2 日起向美國銀行查詢是否發現與該事件相關之可疑交易、服務中斷或資安弱點；路透社未證實美國銀行系統遭波及，並稱查詢似屬預防性質。聯準會與 OCC 均未回應置評。",
+   "context": "幣安於 2026 年 10 月 29 日前後遭竊約 63 億美元，FBI 於 10 月 31 日認定北韓 TraderTraitor 為主謀並公布相關地址。美國銀行監理機關近期陸續放寬銀行從事加密資產業務（含 GENIUS Act 穩定幣發行），本事件使銀行與加密業者間之資安與營運風險受到關注。",
+   "facts": [
+    "依路透社（Stephen Gandel、Nupur Anand）11 月 5 日報導，查詢自 11 月 2 日（週一）開始，消息來源未具名。",
+    "查詢內容：是否發現與駭案相關之可疑交易、服務中斷或資安弱點。",
+    "一名銀行業消息人士稱未出現營運中斷；數家大型銀行自行進行資安診斷。",
+    "聯準會與 OCC 拒絕置評；幣安表示不知悉具體監理機關與銀行之討論，但與各國監理機關保持聯繫。"
+   ],
+   "issues": [
+    "銀行監理機關對加密資產事件之監理通報與資訊蒐集機制為何？",
+    "銀行與加密業者往來（含存款、支付通道及穩定幣準備資產保管）之資安與營運韌性要求是否需強化？"
+   ],
+   "holding": "・監理行動（依報導）：聯準會與 OCC 以非正式查詢方式向受監理銀行蒐集與幣安駭案相關之可疑交易、服務中斷及資安弱點資訊。\n・定性：報導稱屬預防性質，未見正式監理指引或執法行動。",
+   "significance": "顯示美國銀行監理機關將大型加密交易所資安事件視為銀行體系潛在風險來源；後續可觀察是否發布正式之資安或加密業務風險指引，以及是否影響 GENIUS Act 下銀行子公司穩定幣發行之審查重點。",
+   "editorNote": "本則依媒體轉述之路透社報導，聯準會與 OCC 未發布官方文件。本網頁助理 註：未能直接開啟路透社原文，內容取自 Bitcoin.com News 轉述。",
+   "tags": [
+    "加密資產",
+    "銀行監理",
+    "資安",
+    "幣安",
+    "聯準會",
+    "OCC",
+    "美國"
+   ],
+   "related": [
+    "2026-10-31-fin-fbi-binance-tradertraitor-blocklist"
+   ],
+   "sources": [
+    {
+     "label": "Bitcoin.com News 報導（轉述路透社）",
+     "url": "https://news.bitcoin.com/finance/fed-occ-probe-bank-security-after-binance-6-3b-hack-report",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T23:40:31+08:00"
   }
  ],
  "agenda": [
@@ -5434,7 +5549,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "第九巡迴上訴法院 11 月 4 日駁回 Kalshi 內華達州案重新審理聲請，Kalshi 有 90 日可向最高法院聲請移審；第二巡迴 11 月 3 日駁回 Kalshi、Coinbase 對紐約州及康乃狄克州之上訴期間禁制令聲請；伊利諾州北區聯邦地院 10 月 30 日禁止該州適用州賭博法，州政府已上訴第七巡迴。"
+   "status": "阿肯色州檢察總長 11 月 4 日於州法院起訴 Kalshi；第九巡迴上訴法院 11 月 4 日駁回 Kalshi 內華達州案重新審理聲請，Kalshi 有 90 日可向最高法院聲請移審；第二巡迴 11 月 3 日駁回 Kalshi、Coinbase 對紐約州及康乃狄克州之上訴期間禁制令聲請；伊利諾州北區聯邦地院 10 月 30 日禁止該州適用州賭博法，州政府已上訴第七巡迴。"
   },
   {
    "id": "kr-tokenised-securities",
@@ -5467,7 +5582,7 @@
    "nameOriginal": "Binance October 2026 hack – regulatory and enforcement response",
    "caseRef": "",
    "summary": "幣安於 2026 年 10 月 29 日前後遭竊約 63 億美元虛擬資產，引發各國執法機關追查洗錢及監理機關對境外交易所、保管與穩定幣凍結機制之檢討。",
-   "status": "FBI 10 月 31 日認定北韓 TraderTraitor 為主謀並公布 628 個地址、呼籲業者封鎖；尚未見 OFAC 制裁指定。"
+   "status": "FBI 10 月 31 日認定北韓 TraderTraitor 為主謀並公布 628 個地址、呼籲業者封鎖；依路透社報導聯準會與 OCC 自 11 月 2 日起向銀行查詢相關風險；尚未見 OFAC 制裁指定。"
   },
   {
    "id": "us-perpetual-futures-jurisdiction",
