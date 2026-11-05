@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-05T06:59:55+08:00",
-  "lastRunLocal": "2026-11-05 06:59",
+  "lastRun": "2026-11-05T23:03:33+08:00",
+  "lastRunLocal": "2026-11-05 23:03",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 1 則：EJIL 評論 1"
+  "lastRunNote": "新增 2 則：ICC 1、其他 1"
  },
  "items": [
   {
@@ -1288,7 +1288,8 @@
     "2026-10-15-ecthr-president-icc-solidarity",
     "2026-10-19-other-eu-council-icc-protection",
     "2026-10-19-other-sakharov-icc-finalist",
-    "2026-10-26-other-icc-us-tech-license"
+    "2026-10-26-other-icc-us-tech-license",
+    "2026-11-05-other-ngos-cut-ties-icc-sanctions"
    ]
   },
   {
@@ -5447,7 +5448,8 @@
    ],
    "addedAt": "2026-11-04T23:17:54+08:00",
    "related": [
-    "2026-11-02-icc-president-unga-sanctions"
+    "2026-11-02-icc-president-unga-sanctions",
+    "2026-11-05-other-ngos-cut-ties-icc-sanctions"
    ]
   },
   {
@@ -5516,7 +5518,8 @@
    "related": [
     "2026-10-23-icc-duterte-rule68-requests",
     "2026-10-27-icc-duterte-defence-rule68-2b",
-    "2026-11-02-icc-duterte-fifth-status-conference"
+    "2026-11-02-icc-duterte-fifth-status-conference",
+    "2026-11-05-icc-duterte-rule68-tenth-application"
    ]
   },
   {
@@ -5743,6 +5746,127 @@
    "author": "Noam Morris（牛津大學羅德學者）",
    "related": [
     "2026-11-03-icj-judges-elected-2026"
+   ]
+  },
+  {
+   "id": "2026-11-05-other-ngos-cut-ties-icc-sanctions",
+   "court": "OTHER",
+   "kind": "機構動態",
+   "caseId": "us-sanctions-icc",
+   "date": "2026-11-05",
+   "eventDate": "",
+   "importance": 2,
+   "title": "調查報導：至少 20 個人權組織因美國制裁而終止或大幅縮減與國際刑事法院的合作",
+   "shortTitle": "至少 20 個人權團體疏遠 ICC",
+   "point": "Investico 與南德日報調查 100 個組織，部分美國金主明令禁止與法院合作",
+   "titleOriginal": "Human rights organizations breaking ties with ICC in The Hague over U.S. sanctions (Investico / Süddeutsche Zeitung survey)",
+   "caseRef": "",
+   "tldr": "荷蘭調查報導平台 Investico 與德國《南德日報》訪查 100 個非營利組織，發現至少 20 個人權團體因擔心遭美國制裁波及，已停止或大幅減少與國際刑事法院合作。這些團體常是第一線蒐集證言與線索的人，因此可能影響法院的調查工作。",
+   "memo": "據荷蘭調查報導平台 Investico 與德國《南德日報》於 2026 年 11 月 5 日公布之調查，在受訪之 100 個非營利組織中，至少 20 個人權組織已因美國對國際刑事法院之制裁而終止或大幅縮減與法院之合作，其中包括 Human Rights Watch 及 Center for Constitutional Rights；部分組織表示其美國資助者明令禁止與法院合作，未直接受制裁之歐洲組織亦因恐遭連帶制裁而暫停合作。荷蘭外交部表示，荷蘭作為地主國對非政府組織並無特別保護責任，傾向透過歐盟集體回應。",
+   "context": "美國自 2025 年起陸續制裁國際刑事法院的法官與檢察官（共 13 人）及三個巴勒斯坦人權組織，並於 2026 年 10 月將制裁擴及法院整體（見本站 10 月 9 日一則）。其後美國財政部以一般許可讓法院續用美國科技服務，聯合國大會亦於 11 月 2 日通過譴責對法院干預的決議。\n非政府組織在國際刑事程序中常提供現場證言、新證據與當地法律知識，也協助被害人參與程序。",
+   "facts": [
+    "Investico 與《南德日報》訪查 100 個非營利組織，報導於 2026 年 11 月 5 日刊出（荷蘭媒體 NL Times、DutchNews 同日轉述）。",
+    "至少 20 個人權組織已終止或大幅縮減與國際刑事法院的合作；報導認為實際數字可能更高，因許多組織拒絕具名受訪。",
+    "具名者包括 Human Rights Watch 與 Center for Constitutional Rights；Save the Children 荷蘭分會表示正設法尋找繼續與法院合作的可行方式。",
+    "數個組織表示其美國資助者已明令禁止與法院合作；一個德國組織表示無法承擔自身遭制裁、進而危及其他工作的風險。",
+    "前檢察官 Bensouda 表示，這些組織並非代替法院調查，但提供有助於補強證據的線索。",
+    "荷蘭外交部發言人表示，荷蘭作為地主國對保護非政府組織免受制裁影響並無特別責任，較傾向透過歐盟等方式集體回應。"
+   ],
+   "issues": [
+    "非締約國的單方制裁對國際刑事法院調查能力（尤其仰賴民間社會提供線索與證據）的實際影響。",
+    "地主國依《總部協定》保護法院免受干預的義務，是否及於與法院合作的非政府組織。",
+    "歐盟《阻斷法規》等反制措施能否保護歐洲組織與資助者。"
+   ],
+   "holding": "本則為調查報導，非裁判或官方決定。\n報導結論：至少 20 個人權組織已切斷或大幅縮減與法院的合作，部分原因是美國資助者的限制，以及未直接受制裁的歐洲組織擔心遭連帶制裁。\n荷蘭政府回應：地主國不負保護非政府組織的特別責任，偏好歐盟層級的集體回應。報導未載有國際刑事法院本身的回應。",
+   "significance": "美國制裁的效果已從受制裁的個人與法院本身，外溢到為法院提供線索與證人的民間團體，可能削弱法院的調查與被害人參與。這也使歐盟是否啟動《阻斷法規》、以及 12 月初締約國大會第 25 屆會議如何回應，更受關注。",
+   "editorNote": "本網頁助理 註：本則依 NL Times 與 DutchNews 對 Investico／《南德日報》調查的轉述撰寫，未能取得調查原文，調查方法亦未公開說明；除 Human Rights Watch、Center for Constitutional Rights 外，20 個組織的名單未公布。兩則報導對美國制裁法院整體的時程描述不一：DutchNews 稱 10 月已制裁法院整體，NL Times 則稱該制裁將於約五個月後生效，本則未予判斷（可能與制裁的寬限期有關，但無法查證）。",
+   "tags": [
+    "國際刑事法院",
+    "美國制裁",
+    "非政府組織",
+    "民間社會",
+    "阻斷法規",
+    "地主國",
+    "美國",
+    "荷蘭",
+    "德國"
+   ],
+   "sources": [
+    {
+     "label": "NL Times 報導",
+     "url": "https://nltimes.nl/2026/11/05/human-rights-organizations-breaking-ties-icc-hague-us-sanctions",
+     "official": false
+    },
+    {
+     "label": "DutchNews 報導",
+     "url": "https://www.dutchnews.nl/2026/11/human-rights-orgs-cut-ties-with-icc-under-us-sanctions-pressure/",
+     "official": false
+    },
+    {
+     "label": "Dutch Brief 報導",
+     "url": "https://www.dutchbrief.com/p/human-rights-groups-are-cutting-ties",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T23:03:33+08:00",
+   "related": [
+    "2026-10-09-icc-us-sanctions",
+    "2026-11-02-other-unga-icc-report-resolution"
+   ]
+  },
+  {
+   "id": "2026-11-05-icc-duterte-rule68-tenth-application",
+   "court": "ICC",
+   "kind": "程序進展",
+   "caseId": "icc-duterte",
+   "date": "2026-11-05",
+   "eventDate": "2026-11-03",
+   "importance": 1,
+   "title": "杜特蒂案：檢察官提出第十件聲請，請求採用兩名證人關於 Kian delos Santos 案與 Parojinog 案等警方殺人事件的先前錄製證詞",
+   "shortTitle": "杜特蒂案：檢方第十件先前證詞聲請",
+   "point": "涉及 Kian delos Santos 與 Parojinog 遇害事件，以及警方「正當防衛」說法與證據的矛盾",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte – Prosecution's tenth application for the introduction of prior recorded testimony (P-0025, P-1382)",
+   "caseRef": "ICC-01/21-01/25",
+   "tldr": "檢察官再請審判分庭准許直接採用兩名證人先前錄下的證詞，不必讓他們全程到庭作證。證詞涉及警方掃毒行動中的殺人事件，包括轟動一時的少年 Kian delos Santos 遇害案。法官尚未決定。",
+   "memo": "國際刑事法院檢察官於 2026 年 11 月 3 日在檢察官訴杜特蒂案向第三審判分庭提出第十件採用先前錄製證詞之聲請，請求採用證人 P-0025 及 P-1382 之陳述，內容涉及掃毒期間警方殺人事件增加、第 14、30、46、55 號事件（含 Parojinog 及 Kian delos Santos 遇害案）、警方正當防衛主張與證據之矛盾，以及「消滅」犯罪者之政策；審判分庭尚未裁定。",
+   "context": "審判預定於 2026 年 11 月 30 日開始。依《程序及證據規則》第 68 條，審判分庭得在保障被告權利的條件下，准許以先前錄製的證詞代替或補充證人到庭陳述。檢方自 10 月起已陸續提出多件此類聲請，審判分庭已准許部分聲請（見本站先前各則），11 月 2、3 日另有涉及七名證人的聲請。",
+   "facts": [
+    "據 Daily Tribune 報導，檢方聲請日期為 2026 年 11 月 3 日，為其向第三審判分庭提出的第十件採用先前錄製證詞聲請。",
+    "涉及證人 P-0025（女性）與 P-1382（男性），均以代號稱之。",
+    "證詞內容涉及掃毒期間警方殺人事件增加、第 30 號事件（Kian delos Santos 遇害）、第 14 號事件（Reynaldo Parojinog 遇害）及第 46、55 號事件。",
+    "證詞並涉及警方「正當防衛」說法與證據間的矛盾、警方承受的行動壓力、「消滅」犯罪者的政策，以及殺人行為的系統性。",
+    "採用與否須經審判分庭准許。"
+   ],
+   "issues": [
+    "《程序及證據規則》第 68 條第 2 項或第 3 項之採用要件，以及被告詰問權之保障。"
+   ],
+   "holding": "審判分庭尚未裁定。",
+   "significance": "檢方持續以先前證詞精簡審判，聲請數量增加；辯方是否反對及審判分庭如何裁定，將影響 11 月 30 日開審後的證人出庭規模。",
+   "editorNote": "本網頁助理 註：本則僅依 Daily Tribune 報導撰寫，未能取得聲請書公開版本；報導未說明援引第 68 條第 2 項或第 3 項。",
+   "tags": [
+    "國際刑事法院",
+    "杜特蒂",
+    "菲律賓",
+    "掃毒戰爭",
+    "先前錄製證詞",
+    "第68條",
+    "危害人類罪"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院杜特蒂案頁面",
+     "url": "https://www.icc-cpi.int/philippines/duterte",
+     "official": true
+    },
+    {
+     "label": "Daily Tribune 報導",
+     "url": "https://tribune.net.ph/2026/11/05/icc-prosecutors-seek-to-admit-recorded-testimony-involving-kian-de-los-santos-parojinog-killings",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T23:03:33+08:00",
+   "related": [
+    "2026-11-03-icc-duterte-rule68-3-new-requests"
    ]
   }
  ],
@@ -6039,7 +6163,7 @@
    "nameOriginal": "The Prosecutor v. Rodrigo Roa Duterte",
    "caseRef": "ICC-01/21",
    "summary": "菲律賓前總統杜特蒂被控三項危害人類罪。",
-   "status": "檢方於 11 月初再就七名證人聲請採用先前錄製證詞，先前證詞採用與 96 名被害人新申請均待審判分庭決定，審判預定於 2026 年 11 月 30 日開始。"
+   "status": "檢方於 11 月 3 日提出第十件先前證詞聲請，多件同類聲請與 96 名被害人新申請均待審判分庭決定，審判預定於 2026 年 11 月 30 日開始。"
   },
   {
    "id": "icc-afghanistan",
@@ -6061,7 +6185,7 @@
    "nameOriginal": "U.S. sanctions against the International Criminal Court",
    "caseRef": "",
    "summary": "美國陸續制裁 ICC 官員，2026 年 10 月 9 日擴及法院整體；美國法院訴訟、歐盟保護措施與各國表態同步進行。",
-   "status": "ICC 院長赤根智子於 2026 年 11 月 2 日以視訊向聯大提出年度報告，譴責制裁並呼籲全體會員國捍衛法院；紐約南區聯邦地院已對部分原告核發初步禁制令，歐盟《阻斷法規》尚未啟動。"
+   "status": "據 11 月 5 日調查報導，至少 20 個人權組織已因制裁終止或縮減與法院合作；聯大已於 11 月 2 日通過譴責干預法院的決議，歐盟《阻斷法規》仍未啟動。"
   },
   {
    "id": "icc-governance",
