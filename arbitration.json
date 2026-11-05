@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-05T06:59:51+08:00",
-  "lastRunLocal": "2026-11-05 06:59",
+  "lastRun": "2026-11-05T23:05:42+08:00",
+  "lastRunLocal": "2026-11-05 23:05",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 1 則：商務仲裁 1（仲裁判斷 1）、投資仲裁 0",
+  "lastRunNote": "新增 6 則：商務仲裁 4（案件動態 2、法院裁判 1、機構 1）、投資仲裁 2（案件動態 1、評論 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -5601,6 +5601,376 @@
     }
    ],
    "addedAt": "2026-11-05T06:59:51+08:00"
+  },
+  {
+   "id": "2026-11-04-arb-pakistan-etisalat-ptcl-arbitration",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "巴基斯坦",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-04",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "巴基斯坦政府研議依 PTCL 股份買賣協議對阿聯酋電信集團 Etisalat（e&）提起國際仲裁，追討約 8 億美元價金",
+   "shortTitle": "巴基斯坦擬對 Etisalat 提起仲裁",
+   "point": "2005 年 PTCL 民營化價金尚欠約 8 億美元，爭點在 32 筆不動產未過戶",
+   "titleOriginal": "Pakistan weighs claim against UAE telecoms group; Govt weighs options to recover $800m from Etisalat",
+   "caseRef": "",
+   "tldr": "巴基斯坦 2005 年把國營電信公司 PTCL 的 26% 股權和經營權賣給阿聯酋的 Etisalat，價金 25.9 億美元，但至今還有約 8 億美元沒付。Etisalat 以部分不動產沒有過戶為由扣款。巴國政府委員會建議依買賣協議提起國際仲裁，現由總檢察長評估勝算。",
+   "memo": "依巴基斯坦媒體 2026 年 11 月 4 日報導，巴基斯坦政府 2026 年 7 月成立之委員會建議依 2005 年 PTCL 股份買賣協議（SPA）對 Etisalat International Pakistan（現 e&）提起國際仲裁，請求未付價金約 8 億美元、自 2008 年起之機會成本及損害賠償；聯邦內閣已指示總檢察長辦公室評估案件勝算，如認可行，須經總理或聯邦政府核准後始得發出仲裁意向通知。Etisalat 係以 3,246 筆不動產中 32 筆尚未過戶為由保留價金。",
+   "context": "2005 年，巴基斯坦政府將國營電信公司 PTCL 26% 股份及經營權出售予阿聯酋 Etisalat 旗下的 Etisalat International Pakistan，價金 25.9 億美元，已收取約 17.6 億美元。價金之支付與 PTCL 不動產移轉予新經營團隊相連結。\n依民營化部向國會的簡報，3,246 筆不動產中已有 99% 過戶，但仍有 32 筆未完成，Etisalat（現更名 e&）以此為由保留約 8 億美元餘款。自 2015 年起政府多次成立委員會與 Etisalat 談判和解，均未成功。",
+   "facts": [
+    "2026 年 7 月，巴基斯坦政府成立由總理民營化顧問主持、資訊科技部、法務部及總檢察長辦公室代表參與的委員會，建議依股份買賣協議提起國際仲裁，請求未付價金、自 2008 年起的機會成本及損害賠償。",
+    "聯邦內閣決定由總檢察長辦公室依 1973 年《事務規則》第 24 條執行；總檢察長將評估案件實體、勝算與法律影響，若認可行，須取得總理或聯邦政府核准後，始向 Etisalat 發出仲裁意向通知。",
+    "參議院資訊科技委員會與民營化委員會聯席會議以不公開方式討論本案，部分參議員抱怨未能取得股份買賣協議全文。",
+    "報導未指明仲裁機構、仲裁地或準據法，亦未載有 Etisalat 之回應。"
+   ],
+   "issues": [
+    "Etisalat 能否以少數不動產未過戶為由，保留約三成的股份買賣價金。",
+    "巴基斯坦依股份買賣協議之仲裁條款請求價金、機會成本及損害賠償，是否受時效或其他程序要件限制（爭議已持續約 20 年）。"
+   ],
+   "holding": "目前尚未提起仲裁。依報導，委員會建議以國際仲裁追討價金；聯邦內閣已指示總檢察長辦公室評估，民營化部亦已向內閣提出摘要，報導未載內閣對該摘要之決定。",
+   "significance": "本案若進入仲裁，將是以國家（巴基斯坦）為申請人、外國投資人為相對人的契約型商務仲裁，金額約 8 億美元。下一步為總檢察長的評估與政府核准，再發出仲裁意向通知。",
+   "editorNote": "本網頁助理 註：本則依 Dawn、Profit（Pakistan Today）報導撰寫；GAR 同日報導僅能閱讀摘要。報導均未說明股份買賣協議仲裁條款的機構、仲裁地或準據法。以下為本網頁助理補充，非來源內容：由於 25.9 億美元減 17.6 億美元約為 8.3 億美元，報導所稱「約 8 億美元」應為概數。",
+   "tags": [
+    "巴基斯坦",
+    "阿聯酋",
+    "電信",
+    "國家契約",
+    "股份買賣協議",
+    "民營化"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Dawn 報導",
+     "url": "https://www.dawn.com/news/2041937/govt-weighs-options-to-recover-800m-from-etisalat",
+     "official": false
+    },
+    {
+     "label": "Profit（Pakistan Today）報導",
+     "url": "https://profit.pakistantoday.com.pk/2026/11/04/pakistan-considers-international-arbitration-against-etisalat-to-recover-dollar800-million-in-ptcl-dues",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review 報導（需訂閱）",
+     "url": "https://globalarbitrationreview.com/article/pakistan-weighs-claim-against-uae-telecoms-group",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T23:05:42+08:00"
+  },
+  {
+   "id": "2026-11-04-arb-moscow-court-minaeva-challenge-rejected",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "俄羅斯",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-04",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "莫斯科仲裁法院駁回白俄羅斯國營水務公司以英國國籍為由聲請迴避仲裁人",
+   "shortTitle": "莫斯科法院駁回以英國國籍聲請仲裁人迴避",
+   "point": "白俄羅斯國營水務公司主張英國對白俄制裁使英俄雙重國籍仲裁人有利益衝突，未獲採納",
+   "titleOriginal": "Moscow court rejects challenge to arbitrator over UK citizenship (Slutskvodokanal v. Shtang Construction and Engineering, UNCITRAL ad hoc arbitration seated in Moscow)",
+   "caseRef": "",
+   "tldr": "一家白俄羅斯國營水務公司與以色列承包商有工程仲裁，第三名仲裁人同時有俄國和英國國籍。白俄方認為英國制裁白俄，這位仲裁人可能受英國法限制而不中立，要求莫斯科法院將她撤換。依 GAR 報導，法院駁回了這項聲請。",
+   "memo": "依 Global Arbitration Review 2026 年 11 月 4 日報導，莫斯科仲裁法院駁回白俄羅斯國營單一企業 Slutskvodokanal 對 UNCITRAL 臨時仲裁（仲裁地莫斯科）第三仲裁人 Tatiana Minaeva 之迴避聲請。聲請人主要主張該仲裁人具英國國籍，英國對白俄羅斯之制裁將使其在付款、報酬及許可上受限，而與其仲裁職責衝突；並以履歷揭露不完整、先前著述及案件負荷為輔助理由。法院之理由未經公開。",
+   "context": "白俄羅斯國營單一企業 Slutskvodokanal（與 Belkomtekhinvest）於 2021 年與以色列承包商 Shtang Construction and Engineering 簽訂污水處理廠及下水道改建契約。爭議依 UNCITRAL 仲裁規則進行臨時仲裁，仲裁地為莫斯科。\n2026 年 2 月，常設仲裁法院（PCA）秘書長指定杜拜國際仲裁中心（DIAC）為選任機關，DIAC 選任具俄羅斯及英國雙重國籍的 Tatiana Minaeva 為第三仲裁人。Minaeva 拒絕自行迴避，DIAC 亦駁回迴避聲請，白俄方遂依《俄羅斯國際商務仲裁法》第 13 條第 3 項向莫斯科仲裁法院聲請，法院原定 2026 年 9 月 11 日開庭。",
+   "facts": [
+    "聲請人的主要理由為仲裁人的英國國籍：英國對白俄羅斯實施制裁，可能造成付款與報酬限制、許可要求，並使仲裁人對仲裁庭的義務與其國籍國制裁法制發生衝突。",
+    "聲請人另主張仲裁人履歷遺漏若干案件、對自身執業經驗的描述前後不一、曾於 2024 年 7 月撰文討論管轄權異議之放棄（與本案爭點相關），以及案件負荷過重、DIAC 未說明駁回理由。",
+    "依 GAR 報導，莫斯科法院駁回了迴避聲請；報導可公開閱讀的部分未載法院理由及裁定日期。"
+   ],
+   "issues": [
+    "仲裁人具有對聲請人國籍國實施制裁之國家的國籍，是否構成對其公正獨立的正當懷疑（《俄羅斯國際商務仲裁法》第 12 條、第 13 條第 3 項）。",
+    "履歷揭露不完整、先前學術或實務著述及案件負荷，是否足以構成迴避事由。"
+   ],
+   "holding": "依 GAR 報導，莫斯科仲裁法院駁回迴避聲請，Minaeva 續任仲裁人。法院理由未能取得。",
+   "significance": "《生意人報》引述的律師指出，俄羅斯法院曾依所謂「Lugovoy 法」對「不友好國家」國籍之仲裁人採取偏頗推定；本案在仲裁地為莫斯科、仲裁人兼具俄國國籍的情形下駁回以英國國籍為由的迴避聲請，顯示單純國籍及制裁風險未必足以撤換仲裁人。仲裁程序將由原仲裁庭繼續進行。",
+   "editorNote": "本網頁助理 註：本則關於法院駁回之結果，僅依 Global Arbitration Review 2026 年 11 月 4 日報導之公開摘要撰寫，尚未取得裁定原文，亦無法得知法院理由及裁定日期；背景事實及聲請理由依《生意人報》（Kommersant）2026 年 9 月 10 日報導。",
+   "tags": [
+    "仲裁人迴避",
+    "俄羅斯",
+    "白俄羅斯",
+    "以色列",
+    "英國",
+    "制裁",
+    "UNCITRAL",
+    "DIAC",
+    "PCA",
+    "國營事業",
+    "營建爭議"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Global Arbitration Review 報導（需訂閱）",
+     "url": "https://globalarbitrationreview.com/article/moscow-court-rejects-challenge-arbitrator-over-uk-citizenship",
+     "official": false
+    },
+    {
+     "label": "《生意人報》報導：聲請迴避之背景與理由（俄文）",
+     "url": "https://www.kommersant.ru/doc/8941265",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review 先前報導：法院將審理迴避聲請（需訂閱）",
+     "url": "https://globalarbitrationreview.com/article/russian-court-hear-challenge-arbitrator-based-uk-citizenship",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T23:05:42+08:00"
+  },
+  {
+   "id": "2026-11-02-arb-posco-ofac-licence-icc-award-paid",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "南韓",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-02",
+   "eventDate": "2026-07-24",
+   "importance": 2,
+   "author": "",
+   "title": "POSCO 取得美國 OFAC 特別許可，支付俄羅斯煉焦煤買賣爭議之國際仲裁判斷",
+   "shortTitle": "POSCO 獲美國制裁許可，付清俄煤仲裁判斷",
+   "point": "銀行因對俄制裁拒絕匯款，OFAC 於 7 月核發特別許可後，POSCO 於 9 月底付款結案",
+   "titleOriginal": "Korean steelmaker gets US sanctions licence to pay ICC award",
+   "caseRef": "",
+   "tldr": "南韓鋼鐵公司 POSCO 在俄烏戰爭前向俄方買煉焦煤，貨到了，但戰後制裁收緊，銀行不肯匯款。賣方打仲裁勝訴，POSCO 卻因制裁無法付款。POSCO 透過律師向美國財政部海外資產控制辦公室（OFAC）申請特別許可，7 月獲准後於 9 月底付款結案。",
+   "memo": "依南韓媒體及 Global Arbitration Review 報導，POSCO 就戰前向俄方購買之煉焦煤，經國際仲裁庭判命給付未付價金及仲裁費用；因對俄制裁加強致銀行拒絕匯款，POSCO 於 2025 年 12 月向美國財政部海外資產控制辦公室（OFAC）申請特別許可，OFAC 於 2026 年 7 月 24 日（美東時間）核發，POSCO 已於 2026 年 9 月底依判斷付款，爭議終結。判斷日期與金額未公開。",
+   "context": "POSCO 於 2022 年俄羅斯全面入侵烏克蘭前，與俄方賣方簽約購買煉焦煤，賣方已完成出貨。其後對俄制裁加強，銀行拒絕處理付款。國際仲裁庭判命 POSCO 給付未付價金及仲裁費用，但 POSCO 因制裁無法履行。\nGAR 標題稱該判斷為 ICC 判斷；南韓報導未提及仲裁機構。",
+   "facts": [
+    "POSCO 委任南韓律所律村（Yulchon）及美國律所 WilmerHale，於 2025 年 12 月向 OFAC 申請特別許可，其後與 OFAC 往來溝通 12 次；南韓企劃財政部及外交部亦協助向美方說明立場。",
+    "代理人主張，准許支付國際仲裁判斷有助於維護仲裁的實效，並符合美國利益。",
+    "OFAC 於 2026 年 7 月 24 日（美東時間）核發特別許可；南韓媒體稱這是南韓企業在強化後的對俄制裁下取得特別許可的首例。",
+    "POSCO 於 2026 年 9 月底依判斷付款，爭議終結。判斷日期及金額未公開。"
+   ],
+   "issues": [
+    "受制裁影響而無法匯款時，判斷債務人如何取得主管機關許可以履行仲裁判斷。"
+   ],
+   "holding": "OFAC 核發特別許可，准許 POSCO 依仲裁判斷向俄方付款；POSCO 已付款結案。",
+   "significance": "本案顯示制裁並非履行仲裁判斷的絕對障礙：判斷債務人可向制裁主管機關申請特別許可，以國際仲裁判斷的實效作為論據。對仍有俄方交易爭議的亞洲企業，具實務參考價值。",
+   "editorNote": "本網頁助理 註：本則依《Newspim》（2026 年 10 月 21 日，稱「A 公司」）、《週刊韓國》（2026 年 10 月 22 日，指明為 POSCO）報導及 GAR 2026 年 11 月 2 日報導之公開摘要撰寫，尚未取得判斷或許可原文。以下為本網頁助理補充，非來源內容：Koch Boës 律所 2026 年 5 月文章介紹一件新加坡商 S. Trading 對 POSCO 控股及 POSCO（文中以縮寫表示）之 ICC 案（No. 27933/ELU，仲裁地巴黎，2025 年 9 月 18 日作成判斷，仲裁庭認定單純的制裁風險不構成不可抗力），莫斯科仲裁法院並於 2026 年 5 月 15 日准予執行；該案亦涉及煤炭買賣，可能即為本則判斷，但現有來源未能確認兩者為同一案件。",
+   "tags": [
+    "ICC",
+    "南韓",
+    "俄羅斯",
+    "制裁",
+    "OFAC",
+    "仲裁判斷執行",
+    "不可抗力"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "《週刊韓國》報導（韓文）",
+     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7190210",
+     "official": false
+    },
+    {
+     "label": "《Newspim》報導（韓文）",
+     "url": "https://www.newspim.com/news/view/20261021000525",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review 報導（需訂閱）",
+     "url": "https://globalarbitrationreview.com/article/korean-steelmaker-gets-us-sanctions-licence-pay-icc-award",
+     "official": false
+    },
+    {
+     "label": "Koch Boës：ICC 煤炭買賣判斷於莫斯科獲准執行",
+     "url": "https://kdb.legal/en/suspicion-of-control-by-sanctioned-entities-is-not-enough-to-avoid-payment-under-coal-supply-contract-says-icc-tribunal-moscow-arbitrage-court-grants-enforcement/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T23:05:42+08:00"
+  },
+  {
+   "id": "2026-11-04-arb-hkiac-digital-assets-fintech-panel",
+   "court": "INST",
+   "kind": "機構動態",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "香港",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-04",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "香港國際仲裁中心（HKIAC）設立數位資產與金融科技爭議仲裁人名冊並公開徵求申請",
+   "shortTitle": "HKIAC 設數位資產與金融科技仲裁人名冊",
+   "point": "因應加密資產案件增加，首批申請至 2026 年 12 月 31 日截止，須列出相關爭議經驗",
+   "titleOriginal": "HKIAC launches Panel of Arbitrators for Digital Assets and Fintech Disputes",
+   "caseRef": "",
+   "tldr": "香港國際仲裁中心因為處理加密貨幣、區塊鏈和金融科技的案件愈來愈多，新設一份專門的仲裁人名冊，開放申請到今年底。當事人仍可選名冊以外的人當仲裁人。",
+   "memo": "香港國際仲裁中心（HKIAC）於 2026 年 11 月初宣布設立數位資產與金融科技爭議仲裁人名冊，涵蓋區塊鏈、加密貨幣及金融科技爭議。申請人須符合 HKIAC 仲裁人名單資格（五年以上全職仲裁經驗或同等經驗、兩份自行撰寫之判斷及兩封推薦函），並提出相關爭議經驗清單；首批名冊申請期限為 2026 年 12 月 31 日，其後由委任委員會按季審查。名冊不限制當事人或 HKIAC 選任名冊外之仲裁人。",
+   "context": "HKIAC 已設有一般仲裁人名冊與名單，並曾就金融服務（2018 年）及智慧財產權爭議設立專門名冊。此次新名冊係因 HKIAC 涉及數位資產的案件增加而設。",
+   "facts": [
+    "名冊對象為在數位資產、區塊鏈或金融科技爭議具有豐富經驗的仲裁人。",
+    "申請資格：須先符合 HKIAC 仲裁人名單要求，即五年以上全職仲裁經驗或同等經驗（擔任仲裁人、代理人、專家證人等）、兩份自行撰寫之判斷（去識別化，或以其他仲裁文書代替）及兩封推薦函；另須提出匿名化的相關爭議清單（性質、規模、資產類型、擔任角色、是否撰寫判斷），並可附加專業認證或技術委員會資歷等證明。",
+    "既有名冊或名單成員申請時，無須重新提交前三項資料。",
+    "首批申請須於 2026 年 12 月 31 日前以電子郵件提出，委任委員會按季審查。"
+   ],
+   "issues": [],
+   "holding": "HKIAC 設立數位資產與金融科技爭議仲裁人名冊；名冊僅供參考，當事人、共同仲裁人及 HKIAC 仍可選任名冊外人士。",
+   "significance": "HKIAC 以專門名冊回應其數位資產案件增加的情況，供當事人選任具相關經驗的仲裁人參考。有意申請者須於 2026 年底前提出。",
+   "editorNote": "本網頁助理 註：本則依 Conventus Law 轉載之 HKIAC 公告及 GAR 報導摘要撰寫；未能直接開啟 HKIAC 官網公告頁面。公告未提供數位資產案件的統計數字。",
+   "tags": [
+    "HKIAC",
+    "香港",
+    "數位資產",
+    "金融科技",
+    "仲裁人選任",
+    "仲裁機構"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "HKIAC 公告（Conventus Law 轉載）",
+     "url": "https://conventuslaw.com/press-releases/hkiac-launches-panel-of-arbitrators-for-digital-assets-and-fintech-disputes/",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review 報導（需訂閱）",
+     "url": "https://globalarbitrationreview.com/article/hkiac-seeks-arbitrators-digital-assets-and-fintech-disputes",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T23:05:42+08:00"
+  },
+  {
+   "id": "2026-11-04-arb-dj-counterclaims-isds",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-11-04",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Víctor Manuel Barrera Quintanar（獨立執業律師）",
+   "title": "投資仲裁中的國家反請求：作者主張以明確的條約文字處理同意、關聯性與投資人義務，使反請求成為國家追究投資人不當行為的主要工具",
+   "shortTitle": "國家反請求能平衡投資仲裁嗎？",
+   "point": "作者認為同意與關聯性是主要障礙，主張以條約明文及 UNCITRAL 第 10 條草案解決",
+   "titleOriginal": "Balancing the Playfield? Counterclaims in ISDS",
+   "caseRef": "",
+   "tldr": "投資條約通常只規定國家的義務，投資人造成環境污染或行賄時，國家很難在同一仲裁中反過來求償。作者整理歷來案例，說明反請求卡在「投資人是否同意」「與本訴是否相關」「投資人違反哪條法律」三關，主張用更清楚的條約文字來解決。",
+   "memo": "Víctor Manuel Barrera Quintanar 於 Daily Jus 撰文主張，相較於與有過失、違法性抗辯及國內訴訟，反請求是地主國追究投資人不當行為最有力的工具，並具嚇阻作用；其主要障礙為管轄權上的同意（取決於條約爭端解決條款之文字，如 Urbaser 與 Vestey 之對比）、可受理性上的關聯性要求，以及投資人義務之法源不明。作者建議以條約明定同意、關聯性與投資人義務，並以 UNCITRAL 第三工作組第 10 條條文草案及印度—烏茲別克 2024 年 BIT 為方向。",
+   "context": "投資條約傳統上僅課予地主國義務，投資人的不當行為（環境破壞、侵害人權、貪腐）在投資仲裁中多半只能作為抗辯或減額事由。國家反請求可在同一程序中取得賠償，但須跨越管轄、可受理性與準據法等門檻。UNCITRAL 第三工作組已於 2026 年 1 月部分通過關於反請求的第 10 條條文草案。",
+   "facts": [
+    "Copper Mesa 訴厄瓜多案（2016 年）中，投資人涉及對抗議者開槍，賠償僅因與有過失減少 30%。",
+    "Burlington 訴厄瓜多案（2017 年）及 Perenco 訴厄瓜多案（2019 年）中，仲裁庭分別認定投資人應就環境損害負擔約 4,170 萬美元及 5,400 萬美元。",
+    "UNCITRAL 第三工作組 2026 年 1 月部分通過第 10 條條文草案：第 1 項明文允許反請求，並設關聯性與投資人違反對被申請國之法律義務兩項累積要件；第 2 項規定投資人提出請求即構成對反請求的同意（以納入條約條文為前提）。"
+   ],
+   "issues": [
+    "投資人提起仲裁時，是否一併同意國家的反請求（ICSID 公約第 46 條、條約爭端解決條款之文字）。",
+    "反請求與本訴間須有何種關聯性始具可受理性。",
+    "投資人義務的法源：條約、習慣國際法、地主國法、投資契約或軟法。"
+   ],
+   "holding": "・替代手段不足：與有過失（ILC 國家責任條款第 39 條）減額有限；違法性抗辯僅適用於設立投資階段的不法（如 Metal-Tech 案）；國內訴訟造成平行程序且缺乏 ISDS 的執行機制。\n・嚇阻效果：厄瓜多兩案顯示，投資人可能面臨大額賠償，有助促使其遵守環境、勞動、人權及反貪腐規範。\n・管轄權：Urbaser 案認為投資人提出請求即接受整個仲裁要約，包括反請求；寬泛的「與投資有關之一切爭議」條款（Inmaris、Tethyan Copper）可涵蓋反請求，狹窄條款（Vestey）則否；Reisman 在 Roussalis 案的聲明主張應一併考量 ICSID 公約第 46 條，Goetz 案採此見解。但寬泛條款也會招來更多投資人請求，國家可能有所顧慮。\n・可受理性：傳統要求本訴與反請求出自同一法律文件（Klöckner、Grenada Private Power）；Urbaser 案改採較寬的事實關聯標準，以避免裁判歧異。\n・準據法：投資人義務可來自新一代條約（摩洛哥—奈及利亞 2016 年 BIT、印度—烏茲別克 2024 年 BIT）、地主國法（Perenco 案）、投資契約，習慣國際法與聯合國工商企業與人權指導原則則僅能補充。\n・結論：作者主張以明確條約文字處理同意、關聯性與投資人義務，UNCITRAL 第 10 條草案與新一代 BIT 可能帶動更有效率的反請求制度。",
+   "significance": "作者認為反請求可能是國家對投資人不當行為最有力的救濟，但前提是條約明文規定；UNCITRAL 第 10 條草案若納入條約，將使「提出請求即同意反請求」成為規則。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。",
+   "tags": [
+    "反請求",
+    "ISDS改革",
+    "第三工作組",
+    "雙邊投資條約",
+    "管轄權",
+    "厄瓜多",
+    "阿根廷",
+    "人權",
+    "環境管制"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Daily Jus 評論",
+     "url": "https://dailyjus.com/legal-insights/2026/11/balancing-the-playfield-counterclaims-in-isds",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T23:05:42+08:00"
+  },
+  {
+   "id": "2026-11-05-arb-axis-v-guinea-memorial-advance-unpaid",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "axis-v-guinea",
+   "jurisdiction": "",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-05",
+   "eventDate": "2026-09-01",
+   "importance": 1,
+   "author": "",
+   "title": "Axis International 訴幾內亞鋁土礦案：申請人稱已提出約 290 億美元求償之訴狀，幾內亞未繳 ICSID 預付費用",
+   "shortTitle": "Axis 訴幾內亞 290 億美元鋁土礦案進入書狀階段",
+   "point": "申請人稱幾內亞未繳 20 萬美元預付費用、由其代墊，幾內亞則請求分階段審理",
+   "titleOriginal": "Axis International Ltd v. Republic of Guinea (ICSID) — Axis International files Memorial, maintaining its claim of USD 29 billion arbitration as Guinea fails to make the first payment due to World Bank tribunal",
+   "caseRef": "",
+   "tldr": "阿聯酋的 Axis International 在幾內亞博法（Boffa）附近經營鋁土礦，2025 年 5 月礦權被政府撤銷，於是在 ICSID 求償約 290 億美元。Axis 發新聞稿說已在 8 月提出完整訴狀，幾內亞卻沒繳 9 月到期的 20 萬美元仲裁預付費用，由 Axis 代墊；幾內亞則要求先審程序問題。",
+   "memo": "依申請人 Axis International Ltd 於 2026 年 11 月 5 日發布之新聞稿，其依幾內亞—阿聯酋雙邊投資條約及幾內亞 1995 年投資法對幾內亞提起之 ICSID 仲裁，已於 2026 年 8 月提出管轄權、實體及損害額訴狀，主張幾內亞於 2025 年 5 月撤銷其博法鋁土礦開採許可構成徵收，請求逾 280.6 億美元；申請人並稱幾內亞未於 2026 年 9 月 1 日繳納 20 萬美元預付費用，由申請人代墊，幾內亞則聲請分階段審理先決問題。",
+   "context": "Axis International Ltd 為阿聯酋企業，在幾內亞博法地區經營鋁土礦。幾內亞政府於 2025 年 5 月撤銷其採礦許可，理由包括投資不足、將主要作業轉包並收取費用，以及稅務與營運透明度問題；Axis 則主張礦場當時全面運作、2024 年產量約 1,800 萬噸，撤銷係任意且違反投資保護。\nAxis 於 2025 年 12 月向 ICSID 提起仲裁，依據為幾內亞—阿聯酋雙邊投資條約、幾內亞 1995 年投資法及國際法與幾內亞法，求償約 289 億美元；幾內亞礦業部長表示將應訴。",
+   "facts": [
+    "Axis 稱已於 2026 年 8 月提出管轄權、實體及損害額訴狀，附 127 件事實證據、99 件法律依據及專家估價報告，主張損害逾 280.6 億美元（標題稱約 290 億美元）。",
+    "Axis 稱幾內亞未於 2026 年 9 月 1 日繳納應付 ICSID 的 20 萬美元預付費用（行政及仲裁庭費用），由 Axis 代為繳納。",
+    "Axis 稱幾內亞已於 2025 年 12 月自 Axis 先前的作業承包商 SDM 及 GIC 收取至少 2.5 億美元預付款。",
+    "幾內亞以節省費用為由，聲請將先決問題與實體分開審理（分階段審理），Axis 表示反對。",
+    "新聞稿未載 ICSID 案號、仲裁庭組成或程序時程。"
+   ],
+   "issues": [
+    "撤銷採礦許可是否構成違反幾內亞—阿聯酋雙邊投資條約之徵收或其他違反條約義務之行為。",
+    "仲裁庭是否應准許分階段審理先決問題。",
+    "請求金額遠高於申請人所稱投資額時，損害額之計算基礎。"
+   ],
+   "holding": "尚無仲裁庭決定。本則所述為申請人新聞稿的單方說法。",
+   "significance": "本案請求金額約 290 億美元。依申請人說法，下一步是仲裁庭就幾內亞的分階段審理聲請作成決定；申請人已代墊幾內亞未繳的預付費用，程序得以繼續。",
+   "editorNote": "本網頁助理 註：本則主要依申請人 Axis International 透過 GlobeNewswire 發布之新聞稿撰寫，內容為申請人單方說法，未經獨立查證；幾內亞政府立場依 2025 年 12 月 Africa Briefing 報導。未能在 ICSID 網站確認案號。以下為本網頁助理補充，非來源內容：損害請求以未來收益估算，與申請人所稱約 2.5 億美元的投資額差距甚大，此類請求在仲裁實務上常大幅縮減。",
+   "tags": [
+    "ICSID",
+    "幾內亞",
+    "阿聯酋",
+    "雙邊投資條約",
+    "徵收",
+    "礦業",
+    "預付費用",
+    "損害賠償"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Axis International 新聞稿（GlobeNewswire）",
+     "url": "https://www.globenewswire.com/news-release/2026/11/05/3396095/0/en/axis-international-files-memorial-maintaining-its-claim-of-usd-29-billion-arbitration-as-guinea-fails-to-make-the-first-payment-due-to-world-bank-tribunal.html",
+     "official": false
+    },
+    {
+     "label": "Africa Briefing 報導：幾內亞表示將應訴",
+     "url": "https://africabriefing.com/guinea-contests-28-9bn-bauxite-mining-claim/",
+     "official": false
+    },
+    {
+     "label": "GNN Liberia 轉載報導",
+     "url": "https://gnnliberia.com/axis-international-files-memorial-maintaining-its-claim-of-usd-29-billion-arbitration-as-guinea-fails-to-make-the-first-payment-due-to-world-bank-tribunal/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-05T23:05:42+08:00"
   }
  ],
  "agenda": [
@@ -5651,6 +6021,16 @@
    "note": "2027–2030 年任期；遴選委員會預計 2027 年 3 月中旬提出推薦，世界理事會於 2027 年 6 月任命",
    "url": "https://iccwbo.org/news-publications/news/icc-launches-selection-process-for-next-icc-court-president/",
    "relatedId": "2026-11-02-arb-icc-court-president-selection",
+   "caseId": ""
+  },
+  {
+   "id": "2026-12-31-inst-hkiac-digital-assets-panel-applications",
+   "date": "2026-12-31",
+   "court": "INST",
+   "title": "HKIAC 數位資產與金融科技仲裁人名冊首批申請截止",
+   "note": "以電子郵件向 HKIAC 提出；其後由委任委員會按季審查",
+   "url": "https://conventuslaw.com/press-releases/hkiac-launches-panel-of-arbitrators-for-digital-assets-and-fintech-disputes/",
+   "relatedId": "2026-11-04-arb-hkiac-digital-assets-fintech-panel",
    "caseId": ""
   }
  ],
@@ -6063,6 +6443,18 @@
    "caseRef": "",
    "summary": "Kakao Mobility 第二大股東 TPG 主張控股股東 Kakao 否決美國 ADR 上市，違反 2017 年股東協議中的上市支持義務。",
    "status": "TPG 已向 HKIAC 提起仲裁，仲裁庭尚未組成。"
+  },
+  {
+   "id": "axis-v-guinea",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Axis International 訴幾內亞（鋁土礦）",
+   "nameOriginal": "Axis International Ltd v. Republic of Guinea",
+   "caseRef": "",
+   "summary": "阿聯酋企業 Axis International 主張幾內亞 2025 年 5 月撤銷其博法鋁土礦採礦許可構成徵收，依幾內亞—阿聯酋雙邊投資條約及幾內亞投資法求償約 290 億美元。",
+   "status": "申請人稱已於 2026 年 8 月提出訴狀；幾內亞聲請分階段審理，仲裁庭尚未決定。"
   }
  ]
 }
