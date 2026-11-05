@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-05T23:40:31+08:00",
-  "lastRunLocal": "2026-11-05 23:40",
+  "lastRun": "2026-11-06T07:46:53+08:00",
+  "lastRunLocal": "2026-11-06 07:46",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：美國 2（司法案件 1、政策動態 1）"
+  "lastRunNote": "新增 4 則：美國 3（監理指引 1、執法案件 2）、亞太與其他 1（法國立法動態 1）"
  },
  "items": [
   {
@@ -4114,7 +4114,9 @@
     "證券法",
     "美國"
    ],
-   "related": [],
+   "related": [
+    "2026-11-03-fin-sec-canton-coin-no-action"
+   ],
    "sources": [
     {
      "label": "SEC 公司財務部加密資產常見問答頁面",
@@ -5133,6 +5135,273 @@
     }
    ],
    "addedAt": "2026-11-05T23:40:31+08:00"
+  },
+  {
+   "id": "2026-11-03-fin-sec-canton-coin-no-action",
+   "court": "SEC",
+   "kind": "監理指引",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "美國證券交易委員會（SEC）",
+   "outletCode": "SEC",
+   "date": "2026-11-03",
+   "eventDate": "2026-11-03",
+   "importance": 2,
+   "author": "",
+   "title": "SEC 公司財務部就 Canton Coin 發出無異議函，認其屬「數位商品」並對程式化鑄造不建議執法",
+   "shortTitle": "SEC 無異議函認 Canton Coin 屬數位商品",
+   "point": "程式化鑄造免依證券法第 5 條登記，依 3 月解釋首度個案適用",
+   "titleOriginal": "Canton Coin – Response of the Division of Corporation Finance (November 3, 2026)",
+   "caseRef": "Securities Act §5；Exchange Act §12(g)",
+   "tldr": "SEC 公司財務部的幕僚回覆 Canton Network 背後的 Digital Asset 公司：根據公司提供的說明，Canton Coin 屬於 SEC 今年 3 月解釋所稱的「數位商品」，網路參與者依程式規則鑄造代幣時不必辦理證券登記，幕僚也不會建議執法。這是該分類架構首次被用在單一代幣的個案上，但只適用於公司描述的事實。",
+   "memo": "美國證券交易委員會（SEC）公司財務部於 2026 年 11 月 3 日回覆 Digital Asset Holdings, LLC 同年 10 月 30 日之無異議函申請，依據申請人陳述，認 Canton Coin 屬 SEC 2026 年 3 月 17 日加密資產解釋所稱之「數位商品」，並表示 Super Validators、Validators 及應用程式提供者依所述安排以程式化方式鑄造 Canton Coin 而未依《證券法》第 5 條登記或依《證券交易法》第 12(g) 條註冊者，幕僚不建議委員會採取執法行動。該回覆僅為幕僚執法立場，非法律結論，事實或條件不同時得另為判斷。",
+   "context": "SEC 於 2026 年 3 月 17 日發布（CFTC 參與）加密資產適用聯邦證券法之解釋，將加密資產分為數位商品、數位收藏品、數位工具、穩定幣及數位證券等類別，並認數位商品本身非證券，但仍可能作為投資契約之一部分出售。\n公司財務部於 11 月 2 日更新加密資產常見問答，說明廣泛治理參與者通常不構成「中心方」（central party），以及「可運作」與「去中心化」之區別；本無異議函即在此架構下作成。",
+   "facts": [
+    "回覆日期：2026 年 11 月 3 日，由公司財務部副首席法律顧問署名。",
+    "申請人：Digital Asset Holdings, LLC（經律師），申請日 2026 年 10 月 30 日。",
+    "無異議範圍：Super Validators、Validators 及應用程式提供者依申請所述安排程式化鑄造 Canton Coin。",
+    "幕僚所依據之陳述包括：代幣價值源自 Canton Network 之程式化運作及供需，而非他人之管理努力；網路不存在「中心方」。",
+    "依 Disruption Banking 報導，申請人請求確認 Canton Coin「本身非證券」，幕僚回覆僅確認其屬數位商品，未重述該語句。"
+   ],
+   "issues": [
+    "SEC 3 月解釋之「數位商品」分類，如何在個案中依網路治理與價值來源判斷？",
+    "幕僚以申請人陳述為基礎之無異議函，對其他網路參與者及次級市場交易之效力範圍為何？"
+   ],
+   "holding": "・幕僚認同申請人所述，Canton Coin 屬 SEC 3 月解釋所稱之數位商品。\n・對依所述安排程式化鑄造 Canton Coin 而未依證券法第 5 條登記、未依證券交易法第 12(g) 條註冊者，不建議執法。\n・立場僅基於申請人陳述；事實或條件不同可能導致不同結論，且僅表達執法立場而非法律結論。",
+   "significance": "本函為 SEC 3 月代幣分類架構首次以無異議函形式適用於特定代幣，提供其他網路申請個案確認的模式；但在國會改組、CLARITY Act 前景不明之下，此類幕僚立場可被未來委員會改變，法律安定性仍有限。",
+   "editorNote": "本網頁助理 註：SEC 無異議函頁面未能直接開啟，內容依 Lowenstein Sandler 2026 年 11 月 5 日 Crypto Brief、crypto.news 及 Disruption Banking 報導整理；SEC 頁面與申請函連結取自 Lowenstein Sandler 引用。",
+   "tags": [
+    "加密資產",
+    "數位商品",
+    "無異議函",
+    "代幣分類",
+    "Canton Coin",
+    "SEC",
+    "美國"
+   ],
+   "related": [
+    "2026-11-03-fin-sec-crypto-faq-governance-control"
+   ],
+   "sources": [
+    {
+     "label": "SEC 公司財務部無異議函頁面（Canton Coin）",
+     "url": "https://www.sec.gov/rules-regulations/no-action-interpretive-exemptive-letters/division-corporation-finance-no-action/canton-coin-110326",
+     "official": true
+    },
+    {
+     "label": "Digital Asset 申請函全文（PDF）",
+     "url": "https://www.sec.gov/files/corpfin/no-action/canton-incoming-103026.pdf",
+     "official": true
+    },
+    {
+     "label": "Lowenstein Sandler Crypto Brief 分析",
+     "url": "https://www.lowenstein.com/news-insights/newsletters/crypto-brief-november-5-2026",
+     "official": false
+    },
+    {
+     "label": "Disruption Banking 分析",
+     "url": "https://www.disruptionbanking.com/2026/11/05/sec-staff-call-canton-coin-a-digital-commodity-relying-on-digital-assets-own-representations/",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/canton-coin-sec-no-action-relief-digital-commodity/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-06T07:46:53+08:00"
+  },
+  {
+   "id": "2026-11-05-fin-block-doj-aml-settlement",
+   "court": "US",
+   "kind": "執法案件",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "Bitcoin Magazine",
+   "outletCode": "BM",
+   "date": "2026-11-05",
+   "eventDate": "2026-11-03",
+   "importance": 2,
+   "author": "",
+   "title": "Block 於季報揭露與美國司法部就洗錢防制缺失達成原則性和解，擬支付 7.64 億美元並簽署緩起訴協議",
+   "shortTitle": "Block 擬付 7.64 億美元與司法部和解",
+   "point": "Cash App 洗錢防制缺失，《銀行秘密法》刑事指控緩起訴三年",
+   "titleOriginal": "Block (XYZ) Sets Aside $764 Million For DOJ Settlement",
+   "caseRef": "Block, Inc. Form 10-Q（2026 年第三季）",
+   "tldr": "經營 Cash App 的金融科技公司 Block 在 11 月 3 日的季報中說，已和美國司法部原則上談妥和解：為了洗錢防制做得不夠的問題付約 7.64 億美元，司法部則把「未維持有效洗錢防制計畫」的刑事指控暫緩三年。和解還需要最終核准。",
+   "memo": "依 Bitcoin Magazine 2026 年 11 月 5 日報導，Block, Inc. 於 2026 年 11 月 3 日提出之第三季 10-Q 申報文件揭露，其已於同年 10 月與美國司法部就 Cash App 洗錢防制控制缺失之調查達成原則性和解，總額約 9.64 億美元，扣除先前監理和解之 2 億美元抵充後為 7.64 億美元，並以緩起訴協議將其未維持有效洗錢防制計畫而違反《銀行秘密法》之刑事指控暫緩三年。Block 對政府計算方法有爭執，和解尚待最終核准。",
+   "context": "司法部自 2023 年起調查 Cash App 之客戶身分確認與洗錢防制控制，起因為 Hindenburg Research 指控其帳戶灌水及身分驗證薄弱；SEC 曾於 2024 年參與調查，並已於 2026 年 3 月結案不採取執法行動。\n紐約州金融服務署（NYDFS）於 2025 年 4 月就可疑活動警示積壓及比特幣移轉篩檢缺失對 Block 處以 4,000 萬美元罰款；2025 年 1 月另有 8,000 萬美元之多州和解。",
+   "facts": [
+    "揭露日期：2026 年 11 月 3 日提出之第三季 10-Q；原則性和解於 2026 年 10 月達成。",
+    "金額：總額約 9.64 億美元，扣除先前和解抵充 2 億美元後為 7.64 億美元，Block 已全額提列。",
+    "形式：緩起訴協議，刑事指控（未維持有效洗錢防制計畫）暫緩三年；Block 遵守條件者，案件將以不得再訴方式駁回（依 PYMNTS 報導）。",
+    "和解尚待最終核准；Block 表示超過提列金額之損失「合理可能」發生。",
+    "依 PYMNTS 報導，和解金額超過 Block 第三季淨利 5.66 億美元。"
+   ],
+   "issues": [
+    "支付 App 業者之客戶審查與可疑交易監控（含比特幣移轉）未達《銀行秘密法》要求時之刑事責任範圍。",
+    "先前州監理和解金額可否及如何抵充聯邦刑事和解。"
+   ],
+   "holding": "・被指違規：未維持有效之洗錢防制計畫（《銀行秘密法》）。\n・處置：緩起訴協議，期間三年；支付 7.64 億美元（已扣除 2 億美元抵充）。\n・Block 爭執政府計算方法，最終協議尚待核准。",
+   "significance": "此為大型支付金融科技業者因洗錢防制缺失面臨刑事緩起訴之重要案例，金額遠高於先前州監理罰款；Block 正申請工業銀行執照，其法遵紀錄可能影響審查。後續應留意最終協議內容與是否設置獨立監察人。",
+   "editorNote": "本網頁助理 註：司法部尚未發布正式新聞稿，內容依 Block 10-Q（SEC EDGAR）之引述及 Bitcoin Magazine、PYMNTS 報導；本網頁助理未能直接開啟 10-Q 全文。",
+   "tags": [
+    "洗錢防制",
+    "支付服務",
+    "銀行秘密法",
+    "緩起訴協議",
+    "Block",
+    "Cash App",
+    "司法部",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Block 第三季 10-Q 申報文件（SEC EDGAR）",
+     "url": "https://www.sec.gov/Archives/edgar/data/1512673/000162828026069524/xyz-20260930.htm",
+     "official": false
+    },
+    {
+     "label": "Bitcoin Magazine 報導",
+     "url": "https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million",
+     "official": false
+    },
+    {
+     "label": "PYMNTS 報導",
+     "url": "https://www.pymnts.com/legal/aml/2026/block-will-pay-764-million-to-resolve-aml-investigation/",
+     "official": false
+    },
+    {
+     "label": "24/7 Wall St. 報導",
+     "url": "https://247wallst.com/investing/2026/11/04/block-expects-to-pay-764-million-to-settle-a-justice-department-money-laundering-probe/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-06T07:46:53+08:00"
+  },
+  {
+   "id": "2026-11-05-fin-france-self-custody-reporting-amendment",
+   "court": "OTHER",
+   "kind": "立法動態",
+   "caseId": "",
+   "jurisdiction": "法國",
+   "outlet": "FinanceFeeds",
+   "outletCode": "FF",
+   "date": "2026-11-05",
+   "eventDate": "2026-11-03",
+   "importance": 1,
+   "author": "",
+   "title": "法國國民議會通過申報自行保管加密資產（10 萬歐元以上）之預算法修正案，惟收入部分隨後遭全院否決",
+   "shortTitle": "法國眾院通過自託管加密資產申報修正",
+   "point": "門檻 10 萬歐元、罰款上限 1 萬歐元；收入部分 11 月 4 日遭否決",
+   "titleOriginal": "France Approves €100,000 Self-Custodied Crypto Wallet Reporting Proposal, With Fines Up to €10,000",
+   "caseRef": "PLF 2027 修正案 I-2701；《一般稅法典》第 1649 bis C 條",
+   "tldr": "法國國民議會在 2027 年預算法案中通過一項修正：民眾自己保管（不透過交易所等業者）的加密資產，年底市值合計達 10 萬歐元以上就要向稅務機關申報，不申報最高罰 1 萬歐元。不過國民議會隔天就把整個預算「收入部分」否決，送參議院的是政府原始版本，這項修正能否成為法律仍不確定。",
+   "memo": "依 FinanceFeeds 2026 年 11 月 5 日報導，法國國民議會於 2026 年 11 月 3 日以 150 票對 44 票通過 Charles de Courson 議員就 2027 年預算法案提出之第 I-2701 號修正案，擬修正《一般稅法典》第 1649 bis C 條，要求納稅人申報非由加密資產服務提供者保管之錢包，其 12 月 31 日總值達 10 萬歐元以上者，違者最高處 1 萬歐元罰款。惟依 LCP 報導，國民議會於 11 月 4 日晚間以 458 票對 0 票否決預算法案收入部分，移送參議院者為政府原始文本，該修正案尚未成為法律。",
+   "context": "歐盟 DAC8 指令自 2026 年 1 月 1 日起要求加密資產服務提供者向稅務機關申報使用者交易，但不涵蓋使用者自行保管之錢包；本修正案即針對此一缺口。\n《一般稅法典》第 1649 bis C 條現行規定納稅人須申報於境外開立之數位資產帳戶。",
+   "facts": [
+    "2026 年 11 月 3 日國民議會院會以 150 票對 44 票、8 票棄權通過修正案 I-2701（依 FinanceFeeds）。",
+    "申報對象：未經加密資產服務提供者保管之錢包（含硬體及軟體錢包）；門檻為 12 月 31 日總值 10 萬歐元。",
+    "5,000 歐元及 5 萬歐元之門檻提案均遭否決。",
+    "違反申報義務最高罰款 1 萬歐元。",
+    "2026 年 11 月 4 日晚間，國民議會以 458 票對 0 票否決預算法案收入部分，法案以政府原始文本移送參議院（依 LCP）。"
+   ],
+   "issues": [
+    "對自行保管加密資產課以申報義務，與 DAC8 業者申報制度如何銜接？",
+    "該修正案能否在參議院審議或兩院聯席委員會中恢復？"
+   ],
+   "holding": "・修正內容：自行保管加密資產總值達 10 萬歐元者負年度申報義務，違者最高罰 1 萬歐元。\n・立法狀態：收入部分遭國民議會否決，修正案未隨政府原始文本移送參議院；後續須視參議院審議及兩院聯席委員會結果。",
+   "significance": "法國國會已表態支持將自行保管加密資產納入稅務申報，即使本次程序失效，相同內容仍可能在參議院或後續程序重新提出；歐盟其他成員國是否跟進亦值觀察。",
+   "editorNote": "本網頁助理 註：bitcoin.fr 稱收入部分於 11 月 5 日遭否決，LCP 則載為 11 月 4 日晚間，本則依 LCP。未能取得國民議會修正案官方頁面。\n以下為本網頁助理補充，非來源內容：LCP 報導未明言修正案之命運，「修正案未隨原始文本移送」係依移送政府原始文本之程序所推論。",
+   "tags": [
+    "加密資產",
+    "自行保管",
+    "稅務申報",
+    "DAC8",
+    "法國國民議會",
+    "法國",
+    "歐盟"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "FinanceFeeds 報導",
+     "url": "https://financefeeds.com/france-approves-e100000-self-custodied-crypto-wallet-reporting-proposal-with-fines-up-to-e10000/",
+     "official": false
+    },
+    {
+     "label": "bitcoin.fr 報導",
+     "url": "https://bitcoin.fr/actifs-numeriques-lassemblee-nationale-adopte-lamendement-sur-la-declaration-des-portefeuilles-des-100-000-euros/",
+     "official": false
+    },
+    {
+     "label": "LCP 國會頻道報導（收入部分遭否決）",
+     "url": "https://lcp.fr/actualites/budget-2027-l-assemblee-rejette-a-l-unanimite-la-partie-recettes-le-projet-de-loi-de",
+     "official": false
+    },
+    {
+     "label": "Lowenstein Sandler Crypto Brief 分析",
+     "url": "https://www.lowenstein.com/news-insights/newsletters/crypto-brief-november-5-2026",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-06T07:46:53+08:00"
+  },
+  {
+   "id": "2026-10-30-fin-new-jersey-rescinds-coinbase-staking-order",
+   "court": "US",
+   "kind": "執法案件",
+   "caseId": "",
+   "jurisdiction": "美國紐澤西州",
+   "outlet": "Lowenstein Sandler",
+   "outletCode": "LS",
+   "date": "2026-11-05",
+   "eventDate": "2026-10-30",
+   "importance": 1,
+   "author": "",
+   "title": "紐澤西州證券局撤銷 2023 年對 Coinbase 質押服務之 500 萬美元處罰及停止令",
+   "shortTitle": "紐澤西州撤銷對 Coinbase 質押處分",
+   "point": "10 月 30 日撤銷 2023 年 500 萬美元罰款與停止令，不影響日後執法",
+   "titleOriginal": "Notice of Rescission of Summary Penalty and Cease and Desist Order – Coinbase Global, Inc. and Coinbase, Inc.",
+   "caseRef": "",
+   "tldr": "紐澤西州證券局 2023 年曾認為 Coinbase 的質押服務是未登記證券，罰款 500 萬美元並命其停止。現在證券局撤回這項處分，但說明不是就實體問題作判斷，也保留日後再執法的權力。",
+   "memo": "依 Lowenstein Sandler 2026 年 11 月 5 日 Crypto Brief，紐澤西州證券局代理局長 Keith A. Alt 於 2026 年 10 月 30 日撤銷該局 2023 年 6 月 6 日對 Coinbase Global, Inc. 及 Coinbase, Inc. 所為之簡易處罰暨停止令；原處分以其「Coinbase Staking」質押計畫構成證券之要約為由，科處 500 萬美元罰款。撤銷係不影響日後請求（without prejudice）且未就實體為判斷，未說明理由，該局並保留日後執法權限。",
+   "context": "2023 年 6 月 SEC 起訴 Coinbase 同日，多州證券監理機關以質押服務屬未登記證券為由對 Coinbase 採取行動；SEC 已於 2025 年撤回其訴訟，多州亦陸續撤回或和解。",
+   "facts": [
+    "撤銷日期：2026 年 10 月 30 日；簽署者：紐澤西州證券局代理局長 Keith A. Alt。",
+    "被撤銷處分：2023 年 6 月 6 日簡易處罰暨停止令，科處 500 萬美元罰款。",
+    "撤銷為不影響日後請求，未經實體裁決，未說明理由。",
+    "證券局保留日後對 Coinbase 採取執法行動之權限。"
+   ],
+   "issues": [
+    "加密資產質押服務是否構成州證券法上之證券要約，仍未獲解決。"
+   ],
+   "holding": "・撤銷 2023 年對 Coinbase 之簡易處罰暨停止令（含 500 萬美元罰款）。\n・不影響日後請求、未就實體裁決；保留未來執法權限。",
+   "significance": "顯示州證券監理機關對質押服務的執法立場隨聯邦政策轉向而鬆動，但未作實體判斷，質押是否屬證券在州法層面仍存不確定性。",
+   "editorNote": "本網頁助理 註：紐澤西州撤銷通知未能直接開啟，內容依 Lowenstein Sandler 之整理；通知連結取自該文。",
+   "tags": [
+    "加密資產",
+    "質押",
+    "州證券監理",
+    "Coinbase",
+    "美國紐澤西州",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "紐澤西州證券局撤銷通知（PDF）",
+     "url": "https://www.njconsumeraffairs.gov/Actions/Coinbase%20Global%2C%20Inc.%20-%20Notice%20of%20Rescission%20of%20Summary%20Penalty%20and%20Cease%20and%20Desist%20Order%2010%2030%2026.pdf",
+     "official": true
+    },
+    {
+     "label": "Lowenstein Sandler Crypto Brief 分析",
+     "url": "https://www.lowenstein.com/news-insights/newsletters/crypto-brief-november-5-2026",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-06T07:46:53+08:00"
   }
  ],
  "agenda": [
@@ -5428,7 +5697,7 @@
    "nameOriginal": "US crypto market structure (CLARITY Act; SEC and CFTC rulemaking)",
    "caseRef": "H.R. 3633",
    "summary": "眾議院 2025 年 7 月通過 CLARITY Act，參議院 2026 年 9 月 15 日未能終結辯論；SEC 與 CFTC 改以各自的規則制定與豁免推進加密資產市場監理。",
-   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 已有 26 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。"
+   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 已有 26 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。"
   },
   {
    "id": "icba-v-occ-trust-charters",
