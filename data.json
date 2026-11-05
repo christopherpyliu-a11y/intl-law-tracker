@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-05T23:03:33+08:00",
-  "lastRunLocal": "2026-11-05 23:03",
+  "lastRun": "2026-11-06T07:04:31+08:00",
+  "lastRunLocal": "2026-11-06 07:04",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：ICC 1、其他 1"
+  "lastRunNote": "新增 4 則：ICC 2、ECtHR 2"
  },
  "items": [
   {
@@ -5110,7 +5110,8 @@
    "addedAt": "2026-11-02T23:53:56+08:00",
    "related": [
     "2026-10-31-icc-duterte-waiver-status-conference",
-    "2026-11-03-icc-duterte-rule68-3-new-requests"
+    "2026-11-03-icc-duterte-rule68-3-new-requests",
+    "2026-11-06-icc-duterte-55-witness-protection"
    ]
   },
   {
@@ -5866,8 +5867,234 @@
    ],
    "addedAt": "2026-11-05T23:03:33+08:00",
    "related": [
-    "2026-11-03-icc-duterte-rule68-3-new-requests"
+    "2026-11-03-icc-duterte-rule68-3-new-requests",
+    "2026-11-05-icc-duterte-expert-reports-rule68-3"
    ]
+  },
+  {
+   "id": "2026-11-06-icc-duterte-55-witness-protection",
+   "court": "ICC",
+   "kind": "程序進展",
+   "caseId": "icc-duterte",
+   "date": "2026-11-06",
+   "eventDate": "2026-11-05",
+   "importance": 1,
+   "title": "杜特蒂案：檢察官請求審判分庭對 55 名證人採取化名、變聲變臉及不公開審理等保護與特別措施",
+   "shortTitle": "杜特蒂案：檢方請求保護 55 名證人",
+   "point": "含化名、影像與聲音變造及秘密庭，理由包括共同正犯德拉羅薩仍在逃",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte – Prosecution request for in-court protective and special measures (public redacted version)",
+   "caseRef": "ICC-01/21-01/25",
+   "tldr": "審判開始前，檢察官請法官讓 55 名證人作證時用化名、變聲變臉，部分人全程在不公開的法庭作證，並提供心理支持。檢方說這些證人有遭報復的客觀風險，尤其被指為共同正犯的參議員德拉羅薩至今仍未落網。法官尚未決定。",
+   "memo": "國際刑事法院檢察官於 2026 年 11 月 5 日在檢察官訴杜特蒂案向第三審判分庭提出聲請（公開刪節版），依羅馬規約第 64 條、第 68 條及程序及證據規則第 87 條、第 88 條，請求對 55 名證人採取化名、影像與聲音變造、全部或一部不公開審理及心理支持等法庭內保護與特別措施，理由為證人面臨客觀上合理之風險，且被指為共同正犯之德拉羅薩仍在逃；審判分庭尚未裁定。",
+   "context": "杜特蒂被控三項危害人類罪（謀殺及謀殺未遂），審判預定 2026 年 11 月 30 日由第三審判分庭開始。11 月 2 日最後一次狀態會議上，審判長 Korner 要求檢方提出具體時程，檢方表示將於該週五前提出法庭內保護措施建議（見本站先前各則）。\n依羅馬規約第 68 條及程序及證據規則第 87 條（保護措施）、第 88 條（特別措施），審判分庭得在不損及被告權利的前提下保護證人與被害人。",
+   "facts": [
+    "據 GMA News 報導，代理檢察官 Mame Mandiaye Niang 提出日期為 2026 年 11 月 5 日的聲請，並公開刪節版本。",
+    "聲請涵蓋 55 名來自菲律賓及海外的證人，分為六類：菲律賓境內內部人士證人、菲律賓境內犯罪現場證人、另一類經刪節的菲律賓境內證人、居住海外的證人、已納入國際刑事法院保護計畫的證人，以及兩名檢察官辦公室職員（P-1439、P-1440）。",
+    "請求的措施包括化名、臉部與聲音變造、全部或部分不公開審理及心理支持；聲請稱部分高度脆弱證人應全程不公開作證。",
+    "檢方稱部分證人以匿名作為合作條件，並以已公開逮捕令、被指為共同正犯的參議員德拉羅薩仍在逃，主張內部人士證人風險更高。",
+    "P-1439 曾在另一件國際刑事法院程序中以保護措施作證，檢方依法院規程第 42 條第 1 項主張原措施應延續適用。",
+    "檢方預計共倚賴約 78 名證人，其中 69 名預計到庭作證或依規則第 68 條第 3 項採用。"
+   ],
+   "issues": [
+    "羅馬規約第 64 條、第 68 條及程序及證據規則第 87 條、第 88 條：保護與特別措施之要件，以及與被告公開審判權利之平衡。",
+    "法院規程第 42 條第 1 項：其他程序中核定的保護措施是否延續適用。"
+   ],
+   "holding": "審判分庭尚未裁定。",
+   "significance": "證人保護措施的範圍將決定審判有多少部分不公開進行；辯方回應與審判分庭裁定預計在 11 月 30 日開審前作成。",
+   "editorNote": "本網頁助理 註：本則僅依 GMA News 報導撰寫，未能取得聲請書公開刪節版本；報導未載明法院文件編號。",
+   "tags": [
+    "國際刑事法院",
+    "杜特蒂",
+    "菲律賓",
+    "掃毒戰爭",
+    "證人保護",
+    "第68條",
+    "危害人類罪",
+    "德拉羅薩"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院杜特蒂案頁面",
+     "url": "https://www.icc-cpi.int/philippines/duterte",
+     "official": true
+    },
+    {
+     "label": "GMA News 報導",
+     "url": "https://www.gmanetwork.com/news/topstories/nation/1008483/to-protect-55-witnesses-prosecutors-seek-special-measures-during-duterte-s-icc-trial/story/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-06T07:04:31+08:00",
+   "related": [
+    "2026-11-02-icc-duterte-fifth-status-conference"
+   ]
+  },
+  {
+   "id": "2026-11-05-icc-duterte-expert-reports-rule68-3",
+   "court": "ICC",
+   "kind": "程序進展",
+   "caseId": "icc-duterte",
+   "date": "2026-11-05",
+   "eventDate": "",
+   "importance": 1,
+   "title": "杜特蒂案：檢察官聲請採用專家報告，指掃毒行動死亡比例顯示「系統性」法外處決，無法以正當防衛解釋",
+   "shortTitle": "杜特蒂案：檢方聲請採用法外處決專家報告",
+   "point": "專家比較死傷比例後認為殺戮規模無法以正當防衛解釋，屬第十一件第 68 條第 3 項聲請",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte – Prosecution's eleventh application under Rule 68(3) (P-1162, P-1071, P-1078)",
+   "caseRef": "ICC-01/21-01/25",
+   "tldr": "檢察官請法官採用三名專家的報告作為證據。其中一名專家統計掃毒行動中嫌犯死傷與警察死亡的比例，認為死亡人數之多無法用警方「正當防衛」解釋，構成系統性的法外處決。專家仍會到庭接受補充詰問，法官尚未決定。",
+   "memo": "國際刑事法院檢察官在檢察官訴杜特蒂案提出第十一件依程序及證據規則第 68 條第 3 項採用先前錄製證詞之聲請（2026 年 11 月 4 日公開），請求採用專家 P-1162 就掃毒行動死傷比例所作分析及資料集，以及專家 P-1071、P-1078 之共同報告，並由專家到庭接受補充詢問；P-1162 結論認為殺戮規模無法以正當防衛合理解釋，構成系統性法外處決；審判分庭尚未裁定。",
+   "context": "審判預定 2026 年 11 月 30 日開始。檢方為精簡審判，已陸續提出多件依規則第 68 條第 2 項 b 款及第 3 項採用先前錄製證詞的聲請（見本站先前各則）。依第 68 條第 3 項，證人須到庭且不反對採用，並使辯方、被害人代理人及審判分庭有機會詢問。",
+   "facts": [
+    "據 GMA News 報導，本聲請為檢方第十一件依規則第 68 條第 3 項提出的聲請，亦為第 68 條系列聲請中的第十四件，公開版本於 2026 年 11 月 4 日釋出。",
+    "專家 P-1162 比較掃毒行動中嫌犯死亡與受傷人數、警察死亡人數及行動次數，並與國內、區域及國際資料對照，特別著重布拉干省（Bulacan）。",
+    "P-1162 的報告認為上述比例顯示系統性的法外處決，殺戮規模無法以合法的正當防衛合理解釋；其補充報告另將杜特蒂任內死亡人數與艾奎諾三世及小馬可仕任內基準比較，認為顯著超出預期。",
+    "P-1071 與 P-1078 名列國際刑事法院書記官處專家名單，提出共同報告及相關資料；公開文件未說明其專業領域。",
+    "檢方主張該等報告具關聯性、可信性與證明力，且不損及被告權利。"
+   ],
+   "issues": [
+    "程序及證據規則第 68 條第 3 項：專家報告以先前錄製證詞方式採用之要件。",
+    "專家統計分析對危害人類罪「廣泛或有系統之攻擊」及組織政策之證明力。"
+   ],
+   "holding": "審判分庭尚未裁定；報導未提及辯方回應。",
+   "significance": "若獲准採用，專家統計將成為檢方證明掃毒殺戮具系統性的主要證據之一，辯方預計會在詰問時挑戰其方法。",
+   "editorNote": "本網頁助理 註：本則僅依 GMA News 報導撰寫，未能取得聲請書公開版本；報導未載明聲請提出日期及法院文件編號，故 eventDate 留空。",
+   "tags": [
+    "國際刑事法院",
+    "杜特蒂",
+    "菲律賓",
+    "掃毒戰爭",
+    "先前錄製證詞",
+    "第68條",
+    "專家證據",
+    "危害人類罪"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院杜特蒂案頁面",
+     "url": "https://www.icc-cpi.int/philippines/duterte",
+     "official": true
+    },
+    {
+     "label": "GMA News 報導",
+     "url": "https://www.gmanetwork.com/news/topstories/nation/1008437/duterte-at-icc-expert-report-on-systemic-practice-of-ejks-sought-for-admission/story/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-06T07:04:31+08:00",
+   "related": [
+    "2026-11-05-icc-duterte-rule68-tenth-application"
+   ]
+  },
+  {
+   "id": "2026-11-05-ecthr-handziuk-ukraine",
+   "court": "ECtHR",
+   "kind": "判決",
+   "caseId": "",
+   "date": "2026-11-05",
+   "eventDate": "2026-11-05",
+   "importance": 2,
+   "title": "Handziuk（Gandzyuk）等人訴烏克蘭：反貪活動人士遭潑硫酸致死案，法院認定攻擊與國家權力有密切關聯，違反生命權及表現自由",
+   "shortTitle": "烏克蘭活動人士遭潑酸致死案：國家敗訴",
+   "point": "法院認定攻擊為受僱策劃、意在使「公共監督者」噤聲，且與國家權力行使有密切關聯",
+   "titleOriginal": "Gandzyuk and Others v. Ukraine",
+   "caseRef": "",
+   "tldr": "2018 年，烏克蘭赫爾松的反貪活動人士 Kateryna Handziuk 遭人潑硫酸，數月後傷重死亡。她的父母和伴侶告到歐洲人權法院。法院 11 月 5 日認定，這起有人出錢策劃的攻擊和國家權力的行使密切相關，烏克蘭侵害了她的生命權和表現自由，必須賠償家屬。",
+   "memo": "歐洲人權法院於 2026 年 11 月 5 日就 Gandzyuk（Handziuk）等人訴烏克蘭案作成分庭判決，認定反貪活動人士 Kateryna Handziuk 於 2018 年遭潑硫酸致死之攻擊係經策劃並受僱執行，旨在使擔任公共監督角色者噤聲，且有充分、明確而一致之證據顯示其與國家權力之行使或濫用密切關聯，烏克蘭違反生命權及公約第 10 條，並應賠償申請人非財產上損害及費用。",
+   "context": "Kateryna Handziuk 是赫爾松市議會顧問及反貪活動人士，長期揭露地方貪腐。2018 年 7 月 31 日她在住處外遭潑硫酸，同年 11 月 4 日死亡。烏克蘭法院 2019 年判處五名直接行為人，2023 年再以組織攻擊判處 Vladyslav Manher 與 Oleksii Levin 各 10 年徒刑（二人已上訴）。\n家屬於 2021 年 10 月向歐洲人權法院提出申請，主張攻擊由官員為報復其反貪工作而策劃，且國內調查不具實效與獨立性。",
+   "facts": [
+    "2018 年 7 月 31 日，Handziuk 在赫爾松住處大樓入口遭人潑硫酸，同年 11 月 4 日於醫院死亡。",
+    "五名直接行為人於 2019 年被判刑；Manher 與 Levin 於 2023 年以組織攻擊被判 10 年徒刑，二人已上訴。",
+    "申請人為其父母 Viktor 與 Nadiia Handziuk 及伴侶 Serhii Denysov，於 2021 年 10 月提出申請。",
+    "法院認定攻擊係經策劃並付費執行，目的在使擔任「公共監督者」角色之人噤聲。"
+   ],
+   "issues": [
+    "公約第 2 條：國家是否須就與國家權力相關的攻擊負責，以及調查是否有效。",
+    "公約第 10 條：對活動人士的攻擊對表現自由的侵害及寒蟬效應。"
+   ],
+   "holding": "法院認定有充分、明確且一致的證據顯示攻擊與國家權力之行使或濫用密切關聯，國家責任因而成立，違反生命權（新聞報導另稱包括有效調查義務）。\n法院並認定違反第 10 條：此類攻擊客觀上足以使記者、活動人士及公民社會成員心生恐懼，對貪腐與濫權的公共討論產生特別嚴重的寒蟬效應。\n判命賠償非財產上損害（父母及伴侶）與費用 4,000 歐元，須於三個月內給付。",
+   "significance": "判決將國家責任延伸至與國家權力相關的私人攻擊，並強調保護公共監督者的重要性；分庭判決尚未確定，當事人得於三個月內聲請移送大法庭。",
+   "editorNote": "本網頁助理 註：歐洲人權法院官網本案專頁本次無法讀取，本則依法院首頁摘要及烏克蘭媒體報導撰寫。法院首頁稱違反生命權（含有效調查要求）及表現自由；報導未載明申請案號及表決結果。賠償金額報導不一：Censor.net 稱父母合計 4 萬歐元、伴侶 4 萬歐元，LIGA.net 稱父母及伴侶每人各 4 萬歐元，本則未採任一說。法院官方拼法為 Gandzyuk，媒體多作 Handziuk。",
+   "tags": [
+    "第2條",
+    "第10條",
+    "生命權",
+    "表現自由",
+    "寒蟬效應",
+    "國家責任",
+    "烏克蘭"
+   ],
+   "sources": [
+    {
+     "label": "歐洲人權法院案件專頁",
+     "url": "https://www.echr.coe.int/w/gandzyuk-and-others-v.-ukraine",
+     "official": true
+    },
+    {
+     "label": "LIGA.net 報導",
+     "url": "https://news.liga.net/en/society/news/the-echr-ruled-that-ukrainian-authorities-violated-the-right-to-life-and-freedom-of-speech-of-the-murdered-activist-handziuk",
+     "official": false
+    },
+    {
+     "label": "Censor.net 報導",
+     "url": "https://censor.net/en/news/4032263/echr-awards-80-000-to-kateryna-handziuk-s-family",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-06T07:04:31+08:00"
+  },
+  {
+   "id": "2026-11-05-ecthr-alonso-radesca-switzerland",
+   "court": "ECtHR",
+   "kind": "判決",
+   "caseId": "",
+   "date": "2026-11-05",
+   "eventDate": "2026-11-05",
+   "importance": 2,
+   "title": "Alonso Radesca 等人訴瑞士：醫院罷工者遭解僱而不受保護，所依據的「罷工轉為違法」見解無法合理預見，違反公約第 11 條",
+   "shortTitle": "瑞士醫院罷工者遭解僱，違反結社自由",
+   "point": "聯邦法院認定罷工中途轉為違法的見解無法合理預見，剝奪解僱保護而侵害罷工權核心",
+   "titleOriginal": "Alonso Radesca and Others v. Switzerland",
+   "caseRef": "Application no. 38204/19",
+   "tldr": "2012 年底起，瑞士納沙泰爾 La Providence 醫院員工因雇主終止團體協約、準備出售醫院而罷工，參與者全部被解僱。瑞士聯邦法院認為罷工在 2013 年 1 月 23 日後已不是最後手段，因此變成違法。歐洲人權法院 11 月 5 日認為，這種見解事先無從預見，據此讓罷工者失去解僱保護，違反結社自由。",
+   "memo": "歐洲人權法院於 2026 年 11 月 5 日就 Alonso Radesca 等人訴瑞士案（第 38204/19 號）作成分庭判決，認定瑞士聯邦法院以罷工於 2013 年 1 月 23 日後已非最後手段、失其比例性而轉為違法為由，否定納沙泰爾 La Providence 醫院罷工員工之解僱保護，惟無論瑞士聯邦憲法第 28 條文義或國內判例均未明示合法罷工得於該時點轉為違法，該見解欠缺合理可預見性，侵害罷工權之核心，違反公約第 11 條。",
+   "context": "La Providence 醫院雇主為將醫院出售予私人醫療集團 Swiss Medical Network，終止員工團體協約，並擬延長工時、降低薪資。員工自 2012 年底起罷工，參與者遭全數解僱，工會幹部另因在醫院停車場搭帳篷被判侵入罪。\n瑞士聯邦憲法第 28 條保障罷工權，但要求罷工須與勞動關係相關且符合比例原則等要件。瑞士聯邦法院認定，罷工自 2013 年 1 月 23 日起已非最後手段而轉為違法。",
+   "facts": [
+    "申請人為 17 名 La Providence 醫院前員工及 4 名工會幹事。",
+    "雇主為出售醫院終止團體協約，員工因反對延長工時、降低薪資等變更而罷工，參與者遭解僱。",
+    "瑞士聯邦法院認定罷工於 2013 年 1 月 23 日後已非最後手段、失其比例性而違法，申請人因此不受解僱保護。"
+   ],
+   "issues": [
+    "公約第 11 條：罷工權保障，及國內法院對罷工合法性的認定是否具備可預見性。"
+   ],
+   "holding": "法院認定瑞士違反公約第 11 條。\n理由：以一項其對罷工合法性的影響無法合理預見的法律解釋，否定申請人的解僱保護，侵害罷工權的本質；瑞士聯邦憲法第 28 條文義及國內判例均未清楚顯示合法罷工可能於該時點轉為違法。",
+   "significance": "判決確認罷工權受第 11 條保障，且國內法院對罷工何時轉為違法的判斷須具備可預見性；分庭判決尚未確定，當事人得於三個月內聲請移送大法庭。",
+   "editorNote": "本網頁助理 註：歐洲人權法院官網本案專頁本次無法讀取，本則依法院首頁摘要、LFM 報導及瑞士公共服務工會 SSP/VPOD 聲明撰寫；後者係工會立場文章。報導未載明表決結果及賠償金額；罷工起始時間係依背景報導，未經判決原文確認。",
+   "tags": [
+    "第11條",
+    "結社自由",
+    "罷工權",
+    "可預見性",
+    "瑞士"
+   ],
+   "sources": [
+    {
+     "label": "歐洲人權法院案件專頁",
+     "url": "https://www.echr.coe.int/w/alonso-radesca-and-others-v.-switzerland",
+     "official": true
+    },
+    {
+     "label": "LFM 報導",
+     "url": "https://www.lfm.ch/actualite/international/hopital-la-providence-et-greve-illicite-suisse-condamnee/",
+     "official": false
+    },
+    {
+     "label": "SSP/VPOD 工會聲明",
+     "url": "https://ssp-vpod.ch/news/2026/victoire-syndicale-la-cedh-condamne-les-autorites-suisse-pour-violation-du-droit-de-greve/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-06T07:04:31+08:00"
   }
  ],
  "agenda": [
