@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-05T23:05:42+08:00",
-  "lastRunLocal": "2026-11-05 23:05",
+  "lastRun": "2026-11-06T07:17:04+08:00",
+  "lastRunLocal": "2026-11-06 07:17",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 6 則：商務仲裁 4（案件動態 2、法院裁判 1、機構 1）、投資仲裁 2（案件動態 1、評論 1）",
+  "lastRunNote": "新增 3 則：商務仲裁 2（法院裁判 1、評論 1）、投資仲裁 1（案件動態 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -5971,6 +5971,195 @@
     }
    ],
    "addedAt": "2026-11-05T23:05:42+08:00"
+  },
+  {
+   "id": "2026-11-05-arb-kab-georgia-arbitrator-disclosure-challenge",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "喬治亞",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-11-05",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Otar Machaidze（J&T Consulting）",
+   "title": "喬治亞實務：仲裁人未揭露的關係本身不足以迴避，但「未揭露」可成為撤換仲裁人的決定性理由",
+   "shortTitle": "喬治亞法院：未揭露即可撤換仲裁人",
+   "point": "作者指出兩件喬治亞案例中，關係本身未必構成迴避事由，但隱匿不報成為撤換關鍵",
+   "titleOriginal": "Violation of the Duty of Disclosure as a Ground for Challenging an Arbitrator Under Georgian Arbitration Law",
+   "caseRef": "",
+   "tldr": "喬治亞律師分析兩件本國案例：仲裁人和一方律師同為某律師公會理事、或曾在同一法院當法官，這些關係本身不一定讓仲裁人出局，但仲裁人沒有主動說出來，機構與第比利斯法院都因此撤換了仲裁人。作者的建議是：拿不準時就揭露。",
+   "memo": "Otar Machaidze 於 Kluwer Arbitration Blog 撰文指出，喬治亞 2009 年仲裁法第 12 條規定仲裁人負持續揭露義務；2021 年某國內仲裁機構及第比利斯市法院 2025 年 12 月 3 日之裁定，均以仲裁人未揭露其與一方代理人之職務或公會理事關係為由，准許迴避聲請。作者主張揭露門檻低於迴避門檻，未揭露雖非當然構成迴避事由，但於個案中可成為撤換仲裁人之決定性因素，並建議仲裁人有疑義時即應揭露。",
+   "context": "喬治亞 2009 年仲裁法第 12 條規定，存在足以對仲裁人公正性或獨立性產生合理懷疑之情事時，當事人得聲請迴避；仲裁人自被洽詢時起至程序終結止，負有及時揭露此類情事之持續義務。仲裁庭組成瑕疵並為第 42 條第 2 項（撤銷仲裁判斷）及第 45 條第 1 項（拒絕承認與執行）之事由。\n喬治亞仲裁人協會（GAA）倫理守則要求揭露可能影響公正性之財務、個人利益及現在或過去之關係，並規定有疑義時應從寬揭露；惟該守則僅於當事人約定、機構規則援用或會員身分時適用，屬說服性依據。作者亦援引 2024 年 IBA 利益衝突準則及英國最高法院 Halliburton v Chubb [2020] UKSC 48 案。",
+   "facts": [
+    "2021 年某國內機構仲裁案：首席仲裁人與一方代理律師同為某律師專業團體理事會成員，仲裁人未揭露；仲裁庭駁回迴避聲請後，機構內部審查機關區分一般會員與理事會成員，認理事會成員間合作較密切，至少構成應揭露之外觀，准許迴避並撤換首席仲裁人。",
+    "第比利斯市法院 2025 年 12 月 3 日裁定：仲裁人未揭露其與他方代理人曾於同一期間在同一法院擔任法官，且其後曾以律師身分代理同一方當事人之利益；法院認上述情事單獨觀之未必構成迴避事由，但仲裁人未揭露違反 GAA 倫理守則，可能使當事人產生懷疑，因而准許迴避。",
+    "作者揭露其事務所曾在上述兩案代理一方當事人，兩案程序均已終結。"
+   ],
+   "issues": [
+    "仲裁人應揭露之情事範圍與判斷標準（喬治亞仲裁法第 12 條、GAA 倫理守則、IBA 利益衝突準則一般標準 3）。",
+    "違反揭露義務之法律效果為何。",
+    "未揭露是否當然構成撤換仲裁人之事由。"
+   ],
+   "holding": "・作者認為獨立性與公正性是正當程序的核心，揭露義務屬預防性保障，用以維護仲裁判斷的正當性與可執行性。\n・喬治亞仲裁法第 12 條與 UNCITRAL 模範法的取向大致一致；GAA 倫理守則雖非普遍拘束，仍具說服力。\n・揭露與迴避應予區分：揭露門檻較低，某些情事雖不足以單獨構成迴避事由，仍應揭露。\n・在兩件喬治亞案例中，未揭露本身是關鍵，因為它剝奪了當事人評估關係並及時異議的機會。\n・比較法上，IBA 準則一般標準 3(c)、3(g) 與 Halliburton 案均指出未揭露不當然導致撤換；喬治亞實務則顯示在個案中未揭露可成為決定性因素。",
+   "significance": "作者認為喬治亞尚未形成穩定的仲裁人迴避實務，但這兩件決定可能代表從嚴看待未揭露的趨勢。其結論是未揭露不當然構成撤換事由，但可能成為決定性因素；建議仲裁人「有疑義即揭露」，以降低日後迴避及撤銷程序的風險。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：作者揭露其事務所曾在所評兩案中代理一方當事人；文中未載第比利斯市法院裁定案號，2021 年機構案亦未載機構名稱。",
+   "tags": [
+    "仲裁人揭露義務",
+    "仲裁人迴避",
+    "IBA利益衝突準則",
+    "喬治亞",
+    "Halliburton"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 評論",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/violation-of-the-duty-of-disclosure-as-a-ground-for-challenging-an-arbitrator-under-georgian-arbitration-law/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-06T07:17:04+08:00"
+  },
+  {
+   "id": "2026-11-04-arb-belaruskali-v-lithuania-seat-change-refused",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "belaruskali-v-lithuania",
+   "jurisdiction": "瑞士",
+   "outlet": "常設仲裁法院（PCA）",
+   "outletCode": "PCA",
+   "date": "2026-11-04",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "Belaruskali 訴立陶宛 121 億美元投資仲裁：仲裁庭駁回以瑞士制裁為由將仲裁地自日內瓦遷往杜拜或新加坡之聲請",
+   "shortTitle": "Belaruskali 訴立陶宛：仲裁庭拒將仲裁地遷出日內瓦",
+   "point": "瑞士加入對白俄制裁不構成現存的例外情事，仲裁地維持日內瓦，開庭仍在海牙和平宮",
+   "titleOriginal": "OJSC Belaruskali v. The Republic of Lithuania (PCA Case No. 2024-03) — tribunal order rejecting request to change the seat of arbitration",
+   "caseRef": "PCA Case No. 2024-03",
+   "tldr": "白俄羅斯國營鉀肥公司 Belaruskali 因立陶宛停止其鉀肥過境運輸，依兩國投資條約求償約 121 億美元。它主張瑞士 2025 年起跟進制裁白俄，日內瓦已不中立，要求把仲裁地改到杜拜或新加坡。仲裁庭依瑞士法認為只有在原仲裁地已無法正常進行程序的例外情形下才能更換，駁回聲請。",
+   "memo": "依立陶宛媒體報導，PCA 管理之 Belaruskali 訴立陶宛案（PCA Case No. 2024-03，依 1999 年白俄羅斯—立陶宛雙邊投資條約及 1976 年 UNCITRAL 仲裁規則進行，求償約 121 億美元）仲裁庭，於 9 月 16 日以程序命令駁回申請人以瑞士 2025 年 10 月實施對白俄制裁為由、將仲裁地自日內瓦遷至杜拜、新加坡或其他歐盟以外地點之聲請，認依瑞士法僅於現存且重大之例外情事致原仲裁地無法正常進行程序時始得變更，本案未有此等情事；仲裁地維持日內瓦，開庭地點仍為海牙和平宮。",
+   "context": "立陶宛於 2022 年 1 月認定立陶宛鐵路公司與 Belaruskali 之貨運協議無效，Belaruskali 鉀肥經立陶宛過境運輸自 2022 年 2 月 1 日起停止。Belaruskali 於 2024 年依 1999 年白俄羅斯—立陶宛促進及保護投資協定第 8 條提起 UNCITRAL 仲裁（1976 年規則），由 PCA 管理，求償約 120.9 億美元。\n仲裁庭由 Gabrielle Kaufmann-Kohler（首席）、Azzedine Kettani（申請人選任）及 Zachary Douglas KC（立陶宛選任）組成；依 2024 年 PCA 新聞稿，程序命令第 2 號已定仲裁地為日內瓦。",
+   "facts": [
+    "Belaruskali 於 7 月 6 日聲請將仲裁地改至杜拜、新加坡或其他歐盟以外之中立地點，主張瑞士自 2025 年 10 月實施之制裁措施影響仲裁判斷可執行性，使瑞士不再中立。",
+    "立陶宛於 7 月 21 日反對，主張變更仲裁地僅限例外情形，聲請距制裁實施已約八個月而屬遲延，且程序進行中變更將造成重大干擾。",
+    "仲裁庭於 9 月 16 日以程序命令駁回聲請；立陶宛媒體於 10 月底至 11 月 4 日報導此一決定。",
+    "開庭地點維持海牙和平宮，申請人未聲請變更開庭地點。"
+   ],
+   "issues": [
+    "仲裁程序開始後，得否因仲裁地國之制裁措施變更已確定之仲裁地（瑞士法上之標準）。",
+    "聲請變更所依據之例外情事須為現存者，抑或得基於未來不確定之影響。"
+   ],
+   "holding": "仲裁庭適用瑞士法，認變更仲裁地僅於出現重大例外情事，致在原仲裁地無法適當進行程序時始得為之；且此等情事必須現已存在，不能僅基於未來不確定之可能影響。仲裁庭認定並無足以為避免損及當事人（特別是申請人程序權利）而須變更仲裁地之情事變更，駁回聲請，仲裁地維持日內瓦。",
+   "significance": "本決定顯示仲裁地國加入制裁，本身不當然構成變更仲裁地的理由；受制裁國家或企業若擔憂仲裁地法院的中立性，仍須證明程序已實際無法適當進行。案件將在日內瓦仲裁地、海牙開庭的架構下繼續進行實體程序。",
+   "editorNote": "本網頁助理 註：本則依立陶宛公共廣播 LRT（引 BNS）、reform.news 及 Nasha Niva 報導撰寫，尚未取得程序命令原文，PCA 網站亦未見相關新聞稿（PCA 案件文件網站拒絕自動讀取）。報導稱決定作成於「9 月 16 日」但未載年份，依前後文應為 2026 年，故裁判日期欄留空。仲裁庭組成、條約及仲裁規則依 2024 年 9 月 16 日 PCA 新聞稿。Nasha Niva 報導稱案件原由「瑞士 PCA」審理，與實際情況（PCA 管理、仲裁地日內瓦）表述不同。",
+   "tags": [
+    "PCA",
+    "UNCITRAL",
+    "仲裁地",
+    "制裁",
+    "白俄羅斯",
+    "立陶宛",
+    "雙邊投資條約",
+    "瑞士"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "PCA 新聞稿：審理範圍書與程序命令（2024 年，PDF）",
+     "url": "https://docs.pca-cpa.org/2024/09/58f147ca-2024-03-20240916-pca-press-release.pdf",
+     "official": true
+    },
+    {
+     "label": "LRT（立陶宛公共廣播）報導",
+     "url": "https://lrt.lt/naujienos/verslas/4/3103023/atmestas-belaruskalij-prasymas-gince-su-lietuva-iskelti-arbitrazo-vieta-is-zenevos",
+     "official": false
+    },
+    {
+     "label": "reform.news 報導",
+     "url": "https://reform.news/en/belaruskali-fails-to-secure-transfer-of-arbitration-proceedings-against-lithuania-to-a-neutral-country",
+     "official": false
+    },
+    {
+     "label": "Nasha Niva 報導",
+     "url": "https://nashaniva.com/en/407862",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-06T07:17:04+08:00"
+  },
+  {
+   "id": "2026-10-13-arb-brazil-stj-foreign-award-annulment-admitted",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "brazil-stj-resp-2224272",
+   "jurisdiction": "巴西",
+   "outlet": "巴西高等法院",
+   "outletCode": "STJ",
+   "date": "2026-10-13",
+   "eventDate": "2026-10-06",
+   "importance": 2,
+   "author": "",
+   "title": "巴西高等法院：當事人約定巴西法為仲裁程序準據法並以聖保羅法院為撤銷管轄法院時，巴西法院得受理撤銷紐約仲裁地判斷之訴",
+   "shortTitle": "巴西法院可撤銷紐約仲裁地的判斷",
+   "point": "當事人選定巴西仲裁法為程序法並約定聖保羅法院管轄，依紐約公約第5條第1項(e)款即可受理",
+   "titleOriginal": "Superior Tribunal de Justiça, Terceira Turma, REsp 2.224.272/SP (rel. Min. Nancy Andrighi), julgado em 6 de outubro de 2026",
+   "caseRef": "REsp 2.224.272/SP",
+   "tldr": "一宗巴西銀行股權買賣爭議在紐約進行仲裁，但契約約定仲裁程序適用巴西仲裁法，撤銷之訴由聖保羅法院管轄。聖保羅邦法院認為外國判斷只能在高等法院承認程序中審查，不受理撤銷之訴；巴西高等法院一致廢棄，認為巴西法院可以受理，案件發回續審。",
+   "memo": "巴西高等法院（STJ）第三庭於 2026 年 10 月 6 日就 REsp 2.224.272/SP 一致判決，廢棄聖保羅邦法院不受理撤銷外國仲裁判斷之訴之判決，認仲裁地雖在紐約，惟當事人約定以巴西仲裁法為仲裁程序準據法並以聖保羅法院為撤銷之訴管轄法院，依紐約公約第 5 條第 1 項(e)款及民事訴訟法第 22 條第 3 款，巴西法院有管轄權，且撤銷與承認係不同審查程序，撤銷之訴不以判斷先經承認為前提；案件發回聖保羅邦法院審理撤銷理由。",
+   "context": "本案源於一家巴西銀行控制權出售予中國銀行集團的股權買賣交易。依律所評析，爭議依 ICC 仲裁規則在紐約仲裁，契約約定仲裁程序適用巴西仲裁法（1996 年第 9.307 號法律），並約定仲裁以外事項（包括撤銷之訴）由聖保羅法院管轄。\n巴西法制下，外國仲裁判斷原則上僅能在高等法院（STJ）之承認程序中審查（仲裁法第 34 條、第 38 條第 6 款）；撤銷判斷之管轄原則上屬仲裁地法院。買方已另向 STJ 特別庭聲請承認該判斷（HDE 8.716）。",
+   "facts": [
+    "賣方向聖保羅法院提起撤銷仲裁判斷之訴；一審承認巴西有管轄權，但駁回撤銷請求。",
+    "聖保羅邦法院（TJSP）二審認外國判斷之效力只能在 STJ 承認程序中審查，以程序理由駁回。",
+    "STJ 第三庭於 2026 年 9 月 1 日開始審理，Ricardo Villas Bôas Cueva 大法官請求閱卷後暫停，10 月 6 日續審並一致作成判決，判決於 10 月 9 日公告。",
+    "判斷之作成日期與金額未公開。"
+   ],
+   "issues": [
+    "仲裁地在外國時，巴西法院得否受理撤銷仲裁判斷之訴（紐約公約第 5 條第 1 項(e)款「依據其法律作成判斷之國家」之解釋）。",
+    "當事人約定之巴西管轄條款是否違反公共秩序、主權或專屬管轄規定（民事訴訟法第 22 條第 3 款）。",
+    "撤銷之訴是否以判斷先經 STJ 承認為前提。"
+   ],
+   "holding": "主筆大法官 Nancy Andrighi 認為，審查判斷效力原則上屬仲裁地法院，巴西對外國判斷通常僅於承認程序中審查；惟本案有兩項特別因素：當事人選定巴西法為仲裁程序法，並合意由聖保羅法院管轄。紐約公約第 5 條第 1 項(e)款所稱「依據其法律作成判斷之國家」，指仲裁程序準據法所屬國，故選定巴西仲裁法即為巴西法院受理撤銷之訴開啟可能；民事訴訟法亦承認依當事人合意之管轄，本案管轄條款不違反公共秩序、主權或管轄規定。\nCueva 大法官提出協同意見，補充撤銷與承認係兩種不同審查：前者涉及判斷之效力，後者涉及判斷在巴西之執行力；外國判斷不須先經承認始得提起撤銷之訴，且撤銷結果可能影響其後之承認，而非相反。\n第三庭一致廢棄原判決，確認巴西法院有管轄權，發回聖保羅邦法院審理撤銷理由。",
+   "significance": "全球少見非仲裁地法院依紐約公約受理撤銷外國仲裁地判斷之先例。在巴西有交易或資產的當事人須注意：若在外國仲裁地的仲裁中選用巴西法為程序法並約定巴西法院管轄，判斷可能同時面對巴西的撤銷之訴。本案將由聖保羅邦法院審理撤銷理由，STJ 特別庭另有承認程序（HDE 8.716）待決。",
+   "editorNote": "本網頁助理 註：本則依 Migalhas、Conjur 報導及代理原告之 Cescon Barrieu 律所評析撰寫，尚未取得判決全文；當事人名稱、判斷作成日期及金額均未公開。ICC 及紐約仲裁地依律所評析與 IAReporter 標題（2026 年 11 月 5 日）。來源發布日期採律所評析日期，判決公告日為 10 月 9 日。",
+   "tags": [
+    "撤銷仲裁判斷",
+    "紐約公約",
+    "仲裁地",
+    "巴西",
+    "ICC",
+    "承認與執行",
+    "管轄條款"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Migalhas 報導：STJ 判決（含 Cueva 大法官協同意見 PDF 連結）",
+     "url": "https://www.migalhas.com.br/quentes/466022/stj-admite-acao-no-brasil-para-anular-sentenca-arbitral-estrangeira",
+     "official": false
+    },
+    {
+     "label": "Cueva 大法官協同意見書（PDF，Migalhas 轉載）",
+     "url": "https://arq.migalhas.com.br/arquivos/2026/10/38cc8de9_voto-vista-do-resp-2224272-sp.pdf",
+     "official": false
+    },
+    {
+     "label": "Cescon Barrieu 律所評析",
+     "url": "https://cesconbarrieu.com.br/en/brazilian-superior-court-of-justice-admits-annulment-action-against-foreign-arbitral-award/",
+     "official": false
+    },
+    {
+     "label": "Conjur 報導：STJ 開始審理（2026 年 9 月）",
+     "url": "https://conjur.com.br/2026-set-02/stj-avalia-se-juiz-brasileiro-pode-anular-arbitragem-feita-no-exterior/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-06T07:17:04+08:00"
   }
  ],
  "agenda": [
@@ -6455,6 +6644,30 @@
    "caseRef": "",
    "summary": "阿聯酋企業 Axis International 主張幾內亞 2025 年 5 月撤銷其博法鋁土礦採礦許可構成徵收，依幾內亞—阿聯酋雙邊投資條約及幾內亞投資法求償約 290 億美元。",
    "status": "申請人稱已於 2026 年 8 月提出訴狀；幾內亞聲請分階段審理，仲裁庭尚未決定。"
+  },
+  {
+   "id": "belaruskali-v-lithuania",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "常設仲裁法院（PCA）",
+   "name": "Belaruskali 訴立陶宛（鉀肥過境停運）",
+   "nameOriginal": "OJSC Belaruskali v. The Republic of Lithuania",
+   "caseRef": "PCA Case No. 2024-03",
+   "summary": "白俄羅斯國營鉀肥公司依白俄羅斯—立陶宛雙邊投資條約，就立陶宛 2022 年停止其鉀肥過境運輸求償約 121 億美元（UNCITRAL 規則，仲裁地日內瓦）。",
+   "status": "仲裁庭於 9 月駁回申請人以瑞士制裁為由變更仲裁地之聲請，程序續行。"
+  },
+  {
+   "id": "brazil-stj-resp-2224272",
+   "type": "案件",
+   "court": "COURT",
+   "field": "commercial",
+   "forum": "巴西高等法院",
+   "name": "巴西銀行出售案：撤銷紐約仲裁地 ICC 判斷",
+   "nameOriginal": "REsp 2.224.272/SP; HDE 8.716/US",
+   "caseRef": "REsp 2.224.272/SP；HDE 8.716",
+   "summary": "巴西銀行控制權出售予中國銀行集團後的股權買賣爭議，賣方在巴西法院請求撤銷紐約仲裁地 ICC 判斷，買方則向巴西高等法院聲請承認該判斷。",
+   "status": "巴西高等法院 2026 年 10 月確認巴西法院有管轄權，撤銷之訴發回聖保羅邦法院續審；承認程序待決。"
   }
  ]
 }
