@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-06T07:15:55+08:00",
-  "lastRunLocal": "2026-11-06 07:15",
+  "lastRun": "2026-11-07T02:11:38+08:00",
+  "lastRunLocal": "2026-11-07 02:11",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：中國 1（政府措施 1）"
+  "lastRunNote": "新增 3 則：中國 1（研究報告 1）、伊朗 1（司法案件 1）、俄羅斯 1（事件 1）"
  },
  "items": [
   {
@@ -3710,7 +3710,8 @@
    ],
    "related": [
     "2026-10-26-tnr-un-sr-russia-unga-report",
-    "2026-10-26-tnr-russia-karetnikova-prosecution"
+    "2026-10-26-tnr-russia-karetnikova-prosecution",
+    "2026-11-05-tnr-russia-zhanna-nemtsova-in-absentia"
    ],
    "sources": [
     {
@@ -4336,7 +4337,8 @@
    "related": [
     "2026-10-27-tnr-iran-intl-trial-prosecution-cross",
     "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony",
-    "2026-10-06-tnr-london-iran-international-trial"
+    "2026-10-06-tnr-london-iran-international-trial",
+    "2026-11-06-tnr-aidinidis-iran-intl-not-guilty"
    ],
    "sources": [
     {
@@ -4677,6 +4679,223 @@
     }
    ],
    "addedAt": "2026-11-06T07:15:55+08:00"
+  },
+  {
+   "id": "2026-11-06-tnr-safeguard-defenders-liaison-points-report",
+   "court": "CN",
+   "kind": "研究報告",
+   "caseId": "",
+   "jurisdiction": "加拿大、美國、紐西蘭等 91 國",
+   "outlet": "保護衛士（Safeguard Defenders）",
+   "outletCode": "SD",
+   "date": "2026-11-06",
+   "eventDate": "2026-11-06",
+   "importance": 3,
+   "author": "Laura Harth（保護衛士）",
+   "title": "保護衛士新報告指中國「海外警站」未關閉、改以僑團「聯絡點」擴張至 91 國約 1,250 處",
+   "shortTitle": "保護衛士：中國海外警站擴至 91 國",
+   "point": "指 1,247 個僑團「聯絡點」受國內警檢機關運用，約為 2022 年調查的 12 倍",
+   "titleOriginal": "A Formula for Repression",
+   "caseRef": "",
+   "tldr": "人權團體保護衛士 11 月 6 日發表報告，稱 2022 年被揭露的中國「海外警察站」並未真正關閉，而是轉由各地僑聯、同鄉會等統戰組織擔任官方指定的「聯絡點」，目前在至少 91 國約有 1,250 處，加拿大就有 18 處。加拿大公共安全部長表示相關指控尚未經調查、呼籲勿貼標籤；中國大使館未回應媒體詢問。",
+   "memo": "依保護衛士（Safeguard Defenders）2026 年 11 月 6 日發表之報告《A Formula for Repression》及加拿大 CTV 新聞、The Bureau 同日報導，該組織指稱中國於 2022 年遭揭露之海外「警務服務站」並未關閉，而係轉由僑聯等統戰系統社團擔任經官方指定之「聯絡點」，截至 2025 年底已達 1,178 處、目前約 1,247 處，分布於至少 91 國，並由五省逾十個公安機關運用；其中加拿大 18 處。加拿大公共安全部長 Anandasangaree 表示相關指控尚未經調查，皇家騎警稱就外國警站之犯罪活動報告進行調查；中國駐加使館未予回應。",
+   "context": "保護衛士 2022 年發表〈110 Overseas〉等報告，指中國公安機關在 50 餘國設有逾 100 處「海外警察站」，用以「勸返」海外中國公民並監控異議人士，引發多國調查；中國政府稱報告不實、相關據點僅為協助辦理駕照等行政事務的志工站，並稱已關閉。\n美國紐約東區聯邦法院陪審團 2026 年 5 月判定曼哈頓唐人街「警站」經營者 Lu Jianwang 有罪；加拿大皇家騎警曾調查多倫多、蒙特婁、溫哥華五處據點但未起訴，蒙特婁兩個社團其後對聯邦政府提告。",
+   "facts": [
+    "報告由保護衛士中國事務主任 Laura Harth 主筆，依 The Bureau 報導於 11 月 6 日在海牙舉行的對華政策跨國議會聯盟（IPAC）年會發表。",
+    "報告稱經官方指定的海外「聯絡點」由 2015 年底的 73 處增至 2025 年底的 1,178 處，近十年每年新增逾 100 處，目前約 1,247 處，分布至少 91 國；其中 724 處有具體地點，523 處僅見於中國官方統計（依看中國報導）。",
+    "報告稱五個省份逾十個公安機關透過此網絡運作，並指 2024 年底以來有五項國家政策要求進一步擴張。",
+    "報告稱加拿大有 18 處（2022 年為 5 處），分布多倫多、溫哥華、蒙特婁、布羅薩德及渥太華；並引用美國智庫詹姆斯敦基金會數據，指加拿大有 575 個與統戰部相關的組織、美國 967 個、英國 405 個、德國 347 個。",
+    "依看中國報導，報告舉例稱溫州文成縣的海外平台追蹤 70 國 16 萬餘名海外華人，福州官員曾將一名異議人士的個資交給紐約警站經營者。",
+    "加拿大公共安全部長 Gary Anandasangaree 稱相關指控「尚未經調查」，提醒部分社團只是運動或讀書會，勿錯貼標籤；皇家騎警稱正調查與外國警站相關的犯罪活動報告；新民主黨議員關慧貞（Jenny Kwan）要求填補法律漏洞。",
+    "中國駐加拿大大使館未回應 CTV 詢問；北京過去稱 2022 年的報告為不實指控，並稱相關據點已關閉。"
+   ],
+   "issues": [
+    "以僑團「聯絡點」名義執行勸返、監控等公安職能，是否構成在他國領域內未經同意行使警察權而侵害主權？",
+    "居住國如何區分一般僑團活動與受外國政府指揮的監控行為，以免汙名化整體社群？",
+    "外國代理人登記制度（如加拿大 2026 年 8 月上路的外國影響透明登記）能否涵蓋這類網絡？"
+   ],
+   "holding": "・報告主張：2022 年後中國海外警站並未關閉，而是轉入僑聯等統戰社團，以「聯絡點」形式持續並擴張其控制功能。\n・規模：約 1,247 處、至少 91 國，為 2022 年調查的約 12 倍；加拿大 18 處。\n・運作：五省逾十個公安機關透過海外代理人網絡運作；報告並建議海外華人社群通報威脅、謹慎面對監視他人的要求。\n・加拿大政府：指控尚未經調查，呼籲勿妄下結論；皇家騎警調查中。\n・中國：使館未回應；過去否認警站指控。",
+   "significance": "這是保護衛士繼 2022 年後對中國海外警站最大規模的追蹤，並將問題從個別「警站」延伸到整個僑團統戰網絡。後續可留意加拿大、紐西蘭等國是否展開調查，以及加拿大與中國警務合作協議文本是否公開。",
+   "editorNote": "本網頁助理 註：本網頁助理未能在保護衛士網站找到報告原文頁面（其部落格最新文章仍為 10 月 29 日），報告內容依 CTV 新聞、The Bureau 及看中國報導整理；各報導對聯絡點數字表述略有差異（約 1,250 處或 1,247 處）。紐西蘭 Stuff 11 月 7 日亦有相關報導，但本網頁助理僅取得其摘要。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "加拿大",
+    "美國",
+    "紐西蘭",
+    "海外警站",
+    "統戰",
+    "僑團",
+    "勸返",
+    "外國代理人登記"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "CTV 新聞報導",
+     "url": "https://www.ctvnews.ca/canada/article/report-alleges-china-linked-to-18-overseas-police-stations-in-canada/",
+     "official": false
+    },
+    {
+     "label": "CP24 報導（全球擴張）",
+     "url": "https://www.cp24.com/news/canada/2026/11/06/exponential-expansion-of-chinas-illegal-police-stations-across-the-globe-report/",
+     "official": false
+    },
+    {
+     "label": "The Bureau 報導",
+     "url": "https://www.thebureau.news/p/chinas-overseas-police-stations-only",
+     "official": false
+    },
+    {
+     "label": "看中國報導",
+     "url": "https://www.secretchina.com/news/b5/2026/11/07/1107105.html",
+     "official": false
+    },
+    {
+     "label": "Stuff 報導（紐西蘭）",
+     "url": "https://www.stuff.co.nz/nz-news/361056005/how-foreign-government-keeps-watch-its-people-nz-new-report",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T02:11:38+08:00"
+  },
+  {
+   "id": "2026-11-06-tnr-aidinidis-iran-intl-not-guilty",
+   "court": "IR",
+   "kind": "司法案件",
+   "caseId": "aidinidis-iran-intl-surveillance",
+   "jurisdiction": "英國",
+   "outlet": "路透社",
+   "outletCode": "Reuters",
+   "date": "2026-11-06",
+   "eventDate": "2026-11-06",
+   "importance": 2,
+   "author": "",
+   "title": "希臘籍男子被控為伊朗情報機關跟監伊朗國際台記者，在倫敦中央刑事法院答辯無罪",
+   "shortTitle": "希臘男子否認為伊朗跟監記者",
+   "point": "被控依《國家安全法》協助外國情報機關，以藏在襪中的相機監視記者，2027 年 5 月受審",
+   "titleOriginal": "Greek national pleads not guilty in UK court to assisting a foreign intelligence service",
+   "caseRef": "",
+   "tldr": "46 歲希臘籍男子 Ioannis Aidinidis 被控兩度來英國，替伊朗跟監倫敦波斯語電視台「伊朗國際」的一名記者，包括偷拍住址、車牌，並在樹上裝設藏在襪子裡的相機。他 11 月 6 日在倫敦答辯無罪，將羈押至 2027 年 5 月開審。伊朗一向否認在英國策劃攻擊。",
+   "memo": "依路透社 2026 年 11 月 6 日報導，希臘籍男子 Ioannis Aidinidis（46 歲，原居德國慕尼黑）同日於倫敦中央刑事法院（Old Bailey）就違反英國《2023 年國家安全法》第 3 條第 2 項協助外國情報機關罪答辯無罪。檢方指其於 2026 年 4 月、5 月兩度入境英國，對伊朗國際台一名記者進行跟監，拍攝相關住址及車牌，並裝設可將資料傳送境外之隱藏式攝影機；警方認其係為伊朗行事。被告續押，預定 2027 年 5 月審理。伊朗否認涉入在英國之攻擊或陰謀。",
+   "context": "伊朗國際台（Iran International）是設於倫敦、批評伊朗政府的波斯語電視台，2023 年起因死亡威脅由倫敦警察廳全天候保護。該台記者 Pouria Zeraati 2024 年遭刺傷，兩名羅馬尼亞人 2026 年 7 月被判刑；另有奧地利籍男子因偷拍該台總部被判刑，2026 年 8 月該台辦公室遭縱火。\n倫敦另有三名伊朗籍男子被控跟監該台記者的案件正在審理（見本站「伊朗國際台記者遭監視案（英國）」）。",
+   "facts": [
+    "英國反恐警察倫敦分部於 2026 年 5 月 16 日在西薩塞克斯郡依《國家安全法》第 27 條逮捕 Aidinidis，5 月 29 日以協助外國情報機關罪（第 3 條第 2 項）起訴，警方稱相關國家據信為伊朗（依 HSToday 轉載警方聲明）。",
+    "Aidinidis 46 歲，希臘籍、出生於喬治亞，被捕時住在德國慕尼黑。",
+    "檢方指他於 4 月及 5 月兩度到英國，對伊朗國際台一名記者在倫敦及布萊頓的相關地點進行跟監，拍攝住址與車牌，並在樹上裝設藏於襪子內、可將資料傳給「境外不明人士」的攝影機（依 The National、ProtoThema 報導）。",
+    "他 11 月 6 日自 Belmarsh 監獄經視訊出庭，透過俄語通譯答辯無罪，法院諭知續押，預定 2027 年 5 月開審。",
+    "反恐警察倫敦分部主管 Helen Flanagan 5 月表示，警方正向波斯語媒體從業人員提供安全建議。",
+    "伊朗一再否認涉入在英國的攻擊或陰謀。"
+   ],
+   "issues": [
+    "《2023 年國家安全法》協助外國情報機關罪在跨國鎮壓案件的適用與舉證，特別是如何證明被告知悉或意圖為伊朗行事？",
+    "伊朗是否透過第三國籍人士執行對海外記者的監控，以規避追查？"
+   ],
+   "holding": "・起訴罪名：協助外國情報機關（《2023 年國家安全法》第 3 條第 2 項）。\n・檢方指控：兩度入境英國跟監伊朗國際台記者，拍攝住址、車牌並裝設隱藏攝影機。\n・被告：答辯無罪。\n・程序：續押，2027 年 5 月開審。\n・伊朗：一貫否認涉入。",
+   "significance": "本案是英國再一起以《國家安全法》追訴針對伊朗國際台記者監控行為的案件，與另三名伊朗籍被告案並行，顯示伊朗國際台持續成為目標。可留意 2027 年 5 月審理及檢方如何連結被告與伊朗情報機關。",
+   "editorNote": "本網頁助理 註：起訴條文依 HSToday 轉載之英國反恐警察 5 月 29 日聲明；被跟監記者姓名未公開。各報導對出庭法院表述不一（「倫敦法院」或中央刑事法院 Old Bailey）。",
+   "tags": [
+    "跨國鎮壓",
+    "伊朗",
+    "英國",
+    "伊朗國際台",
+    "跟監",
+    "國家安全法",
+    "協助外國情報機關",
+    "記者"
+   ],
+   "related": [
+    "2026-11-02-tnr-iran-intl-trial-prosecution-closing"
+   ],
+   "sources": [
+    {
+     "label": "英國反恐警察聲明（HSToday 轉載）",
+     "url": "https://www.hstoday.us/subject-matter-areas/counterterrorism/man-charged-with-assisting-iranian-intelligence-service-following-counter-terrorism-policing-london-investigation/",
+     "official": false
+    },
+    {
+     "label": "路透社報導（SRN 轉載）",
+     "url": "https://srnnews.com/greek-national-pleads-not-guilty-in-uk-court-to-assisting-a-foreign-intelligence-service",
+     "official": false
+    },
+    {
+     "label": "The National 報導",
+     "url": "https://www.thenationalnews.com/news/uk/2026/11/06/greek-national-to-face-trial-for-spying-on-iranian-journalist-in-uk/",
+     "official": false
+    },
+    {
+     "label": "ProtoThema 報導",
+     "url": "https://en.protothema.gr/2026/11/06/greek-national-accused-of-spying-for-iran-pleads-not-guilty-in-uk-court/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T02:11:38+08:00"
+  },
+  {
+   "id": "2026-11-05-tnr-russia-zhanna-nemtsova-in-absentia",
+   "court": "RU",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "德國",
+   "outlet": "OVD-Info",
+   "outletCode": "",
+   "date": "2026-11-05",
+   "eventDate": "2026-11-05",
+   "importance": 2,
+   "author": "",
+   "title": "莫斯科法院以主持「不受歡迎組織」罪缺席判處旅居德國的涅姆佐夫之女 Zhanna Nemtsova 四年",
+   "shortTitle": "俄缺席判處涅姆佐夫之女四年",
+   "point": "因主持設於德國的涅姆佐夫自由基金會遭判刑，另禁管理網站八年；律師稱她不認罪",
+   "titleOriginal": "Zhanna Nemtsova has been sentenced in absentia to four years in prison for her work at her father's foundation.",
+   "caseRef": "",
+   "tldr": "遇刺的俄羅斯反對派人士涅姆佐夫（Boris Nemtsov）之女 Zhanna Nemtsova 住在德國，主持紀念父親的基金會。俄國 2024 年把基金會列為「不受歡迎組織」，莫斯科法院 11 月 5 日以她繼續主持該組織為由，缺席判她四年徒刑，並禁止她管理網站八年。她的律師表示她不認罪。",
+   "memo": "依 OVD-Info 及塔斯社 2026 年 11 月 5 日報導，莫斯科 Zamoskvoretsky 區法院同日依俄羅斯刑法第 284.1 條第 3 項（組織「不受歡迎組織」活動），缺席判處旅居德國之 Zhanna Nemtsova 一般管制流放營四年，並禁止管理網路資源八年（檢方求處五年及九年），刑期自其在俄被拘或遭引渡時起算。起訴事實為其於設於波昂之涅姆佐夫自由基金會 2024 年被列為不受歡迎組織後仍持續主持該基金會。辯護律師稱其不認罪，並指控方未依法鑑定。",
+   "context": "Zhanna Nemtsova 是 2015 年在克里姆林宮附近遇刺的俄羅斯前副總理、反對派領袖涅姆佐夫之女，同年因受威脅離開俄國，並創立涅姆佐夫自由基金會，資助獨立俄語媒體並提供獎學金。俄國 2024 年將基金會列為「不受歡迎組織」，並將她列為「外國代理人」。\n莫斯科法院 2026 年 7 月底下令缺席羈押她，9 月將她列入國際通緝。",
+   "facts": [
+    "莫斯科 Zamoskvoretsky 區法院 11 月 5 日缺席判處 Nemtsova 一般管制流放營四年，另禁止管理網路資源八年；檢方原求處五年及九年（依 OVD-Info）。",
+    "罪名為俄羅斯刑法第 284.1 條第 3 項，組織「不受歡迎組織」活動；刑期自她在俄國被拘或被引渡時起算（依塔斯社）。",
+    "檢方引用她在蒙特內哥羅布德瓦談論基金會工作的演講錄音，以及她對基金會遭列名的評論，主張她明知仍繼續主持基金會。",
+    "律師 Alexey Tsvetkov 稱檢方未進行必要鑑定、也未提出她主持基金會的文件；OVD-Info 稱她不認罪。",
+    "塔斯社稱她現居德國，基金會設於波昂。"
+   ],
+   "issues": [
+    "以「不受歡迎組織」罪對在境外合法設立之基金會負責人缺席判刑，並配合國際通緝，是否構成對流亡者的跨國法律追緝？",
+    "德國等居住國面對俄國據此提出的引渡或國際刑警請求應如何處理？"
+   ],
+   "holding": "・法院：缺席判處四年及禁管理網站八年。\n・檢方：主張她明知基金會遭列名仍持續主持。\n・辯方：不認罪，指控方未依法鑑定、證據不足。",
+   "significance": "本案延續俄國以「外國代理人」「不受歡迎組織」等規定缺席審判流亡人士的模式，且對象是遇刺反對派領袖的家屬；可留意俄國是否據此請求國際刑警或引渡，以及德國的回應。",
+   "editorNote": "本網頁助理 註：OVD-Info 未載她現居地，現居德國依塔斯社報導；OVD-Info 稱判決最先由 Mediazona 報導。",
+   "tags": [
+    "跨國鎮壓",
+    "俄羅斯",
+    "德國",
+    "缺席審判",
+    "不受歡迎組織",
+    "外國代理人",
+    "通緝",
+    "家屬"
+   ],
+   "related": [
+    "2026-10-29-tnr-russia-svetov-in-absentia-sentence"
+   ],
+   "sources": [
+    {
+     "label": "OVD-Info 報導",
+     "url": "https://ovd.info/en/express-news/2026/11/05/zhanna-nemtsova-has-been-sentenced-absentia-four-years-prison-her-work-her",
+     "official": false
+    },
+    {
+     "label": "塔斯社報導",
+     "url": "https://tass.com/society/2213317",
+     "official": false
+    },
+    {
+     "label": "涅姆佐夫基金會聲明（7 月缺席羈押）",
+     "url": "https://nemtsovfund.org/en/2026/07/russia-orders-arrest-in-absentia-of-zhanna-nemtsova/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T02:11:38+08:00"
   }
  ],
  "agenda": [
@@ -4759,6 +4978,16 @@
    "url": "https://rsf.org/en/rsf-safeguard-defenders-urge-thailand-halt-deportation-extradition-process-begins-chinese",
    "relatedId": "2026-10-09-tnr-thailand-bai-zhaodong-extradition",
    "caseId": "bai-zhaodong-thailand-extradition"
+  },
+  {
+   "id": "tbd-ir-aidinidis-trial",
+   "date": "",
+   "court": "IR",
+   "title": "Aidinidis 為伊朗跟監伊朗國際台記者案開審（英國）",
+   "note": "依路透社報導預定 2027 年 5 月，確切日期未公布，可能變動。",
+   "url": "https://srnnews.com/greek-national-pleads-not-guilty-in-uk-court-to-assisting-a-foreign-intelligence-service",
+   "relatedId": "2026-11-06-tnr-aidinidis-iran-intl-not-guilty",
+   "caseId": "aidinidis-iran-intl-surveillance"
   }
  ],
  "archives": [],
@@ -4916,6 +5145,17 @@
    "caseRef": "",
    "summary": "香港警方自 2023 年起依《香港國安法》及《維護國家安全條例》對身在海外的民主派人士發出通緝令、懸紅，並將部分人列為「潛逃者」、取消護照及禁止資助。",
    "status": "2026 年 11 月 5 日黃之鋒勾結外國勢力案判囚 10 年，判決認定流亡英國的羅冠聰同為主謀；國安處重申對羅冠聰的 100 萬港元懸紅並促其回港自首。"
+  },
+  {
+   "id": "aidinidis-iran-intl-surveillance",
+   "type": "案件",
+   "court": "IR",
+   "forum": "英國中央刑事法院（Old Bailey）",
+   "name": "希臘籍男子 Aidinidis 為伊朗跟監記者案",
+   "nameOriginal": "R v Ioannis Aidinidis",
+   "caseRef": "",
+   "summary": "希臘籍男子 Ioannis Aidinidis 被控依英國《2023 年國家安全法》協助外國情報機關，2026 年 4 月及 5 月兩度入境英國跟監伊朗國際台一名記者，警方認其為伊朗行事。",
+   "status": "2026 年 11 月 6 日答辯無罪，續押，預定 2027 年 5 月開審。"
   }
  ]
 }
