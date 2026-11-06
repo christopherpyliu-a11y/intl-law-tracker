@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-06T23:03:21+08:00",
-  "lastRunLocal": "2026-11-06 23:03",
+  "lastRun": "2026-11-07T07:03:51+08:00",
+  "lastRunLocal": "2026-11-07 07:03",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：ICC 1、EJIL 評論 1"
+  "lastRunNote": "新增 1 則：美洲人權法院 1"
  },
  "items": [
   {
@@ -4552,7 +4552,10 @@
      "official": false
     }
    ],
-   "addedAt": "2026-10-29T07:03:50+08:00"
+   "addedAt": "2026-10-29T07:03:50+08:00",
+   "related": [
+    "2026-11-06-iacthr-nicaragua-la-modelo-pm"
+   ]
   },
   {
    "id": "2026-10-28-ejil-eagle-s-eez-cable-jurisdiction",
@@ -6236,6 +6239,66 @@
    "outlet": "EJIL:Talk!",
    "outletCode": "EJIL",
    "author": "Sebastian von Massow（哥本哈根大學博士後研究員、EJIL:Talk! 副編輯）"
+  },
+  {
+   "id": "2026-11-06-iacthr-nicaragua-la-modelo-pm",
+   "court": "IACtHR",
+   "kind": "裁定",
+   "caseId": "",
+   "date": "2026-11-04",
+   "eventDate": "2026-10-09",
+   "importance": 1,
+   "title": "美洲人權法院下令尼加拉瓜立即釋放關押於 La Modelo 監獄的九名男子",
+   "shortTitle": "美洲人權法院令尼加拉瓜釋放九名囚犯",
+   "point": "認定九人生命與健康面臨極端嚴重、急迫且無法回復的危險，尼國須於 11 月 9 日前提出報告",
+   "titleOriginal": "Medidas provisionales respecto de Nicaragua – Walter José Balmaceda Ruiz y otros (La Modelo)",
+   "caseRef": "",
+   "tldr": "美洲人權法院應美洲人權委員會請求，對尼加拉瓜發布臨時措施，要求立即釋放自 2014 年起被關押的九名男子。法院認為他們在獄中的生活與醫療條件惡劣，生命和健康有立即危險；但這項命令不判斷他們是否有罪。",
+   "memo": "美洲人權法院於 2026 年 10 月 9 日應美洲人權委員會之請求，對尼加拉瓜作成臨時措施決議，命其立即釋放關押於 Jorge Navarro（La Modelo）監獄之 Walter José Balmaceda Ruiz 等九人，並於釋放前提供獨立醫療評估、藥物、飲食及飲水、停止長期隔離與懲戒囚室，且不得對受益人、家屬及代理人報復；理由為受益人生命、健康及人身完整面臨極端嚴重、急迫且無法回復之危險。尼加拉瓜應於 2026 年 11 月 9 日前提出首次報告，其後按月報告。",
+   "context": "九名受益人為自由派社區領袖，於 2014 年 7 月 19 日一支桑定陣線車隊遭襲擊後，於同年 7、8 月間未經法院令狀被捕，2015 年移送 La Modelo 監獄，其後被判處 10 年至 133 年不等之刑。其律師主張渠等遭刑求而被迫自白。\n美洲人權委員會於 2025 年 12 月先對九人發布預防措施（medidas cautelares），其後請求美洲人權法院發布具拘束力之臨時措施。\n據報導，尼加拉瓜自 2022 年起即因不遵守法院臨時措施而被法院宣告處於藐視（desacato）狀態；本站 10 月 28 日亦曾報導法院就另一尼加拉瓜案件發布臨時措施。",
+   "facts": [
+    "2014 年 7 月 19 日，一支桑定陣線車隊遭襲擊；九名男子於同年 7 月至 8 月間未經令狀被捕。",
+    "2015 年九人移送 La Modelo 監獄，分別被判 10 年至 133 年徒刑。",
+    "報導指出囚室缺乏基本生活條件，包括害蟲、飲水與食物不足、無自然光，並有探視限制、威脅、長期隔離與懲戒囚室。",
+    "至少四名受益人據報於 2026 年遭受身體攻擊；多人患有糖尿病、高血壓、腎臟及心臟等慢性病，72 歲的 José Ricardo Cortez Dávila 據報因缺乏醫療而失明。",
+    "José Olivar Meza Raudez 據報已於 2024 年 7 月 27 日服滿 10 年刑期，仍遭羈押。",
+    "2025 年 12 月美洲人權委員會發布預防措施；2026 年 10 月 9 日法院作成臨時措施決議，11 月初經媒體披露。"
+   ],
+   "issues": [
+    "是否符合《美洲人權公約》第 63 條第 2 項臨時措施之要件：極端嚴重、急迫及避免無法回復之損害",
+    "國家對被羈押者生命權（第 4 條）與人身完整權（第 5 條）之保障義務"
+   ],
+   "holding": "・法院認定九人之生命、健康與人身完整面臨極端嚴重、急迫且無法回復損害之危險，並考量尼加拉瓜羈押中死亡之案例（包括曾受臨時措施保護者）。\n・命令：立即釋放九人；釋放生效前，提供每人獨立專業醫療評估並告知結果，提供治療、藥物、足夠食物與飲水、定期放風與日照，停止長期隔離及懲戒囚室，防止攻擊與威脅，保障與家屬及律師之聯繫。\n・就 Meza Raudez，國家須說明其法律地位及刑期屆滿後繼續羈押之依據。\n・禁止對受益人、家屬及代理人因向法院提供資訊而追訴、騷擾或報復。\n・尼加拉瓜應於 2026 年 11 月 9 日前提出首次報告，其後每月報告；代理人一週內、委員會兩週內提出意見。\n・法院強調臨時措施不判斷受益人有罪與否，亦不解決其刑事案件。",
+   "significance": "本件延續美洲人權法院以臨時措施要求釋放尼加拉瓜政治犯的作法。由於尼加拉瓜長期不遵守法院命令，後續關注重點在於 11 月 9 日報告期限屆至時國家是否回應。",
+   "editorNote": "本網頁助理 註：本則依 Infobae（11 月 3–4 日）與 Confidencial（11 月 6 日）報導撰寫，未能讀取法院決議原文與新聞稿；決議日期 10 月 9 日係依 Infobae 報導，Confidencial 未載明決議日期。Confidencial 稱 2014 年事件為「7 月 19 日屠殺」，Infobae 則稱為對桑定車隊之攻擊。條文依據（第 63 條第 2 項）係本網頁助理依臨時措施制度補充，非來源內容。",
+   "tags": [
+    "尼加拉瓜",
+    "臨時措施",
+    "政治犯",
+    "羈押條件",
+    "美洲人權公約"
+   ],
+   "sources": [
+    {
+     "label": "美洲人權法院判例資料庫（決議）",
+     "url": "https://jurisprudencia.corteidh.or.cr/es/vid/1138243628",
+     "official": true
+    },
+    {
+     "label": "Infobae 報導",
+     "url": "https://www.infobae.com/nicaragua/2026/11/04/la-corte-interamericana-ordena-a-nicaragua-liberar-de-inmediato-a-nueve-hombres-recluidos-en-la-modelo/",
+     "official": false
+    },
+    {
+     "label": "Confidencial 報導",
+     "url": "https://confidencial.digital/noticias/corte-idh-ordeno-liberar-a-presos-politicos-condenados-por-la-masacre-del-19-de-julio-de-2014/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T07:03:51+08:00",
+   "related": [
+    "2026-10-28-iacthr-nicaragua-flores-castillo-pm"
+   ]
   }
  ],
  "agenda": [
