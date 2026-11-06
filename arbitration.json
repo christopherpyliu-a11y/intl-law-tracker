@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-07T02:12:06+08:00",
-  "lastRunLocal": "2026-11-07 02:12",
+  "lastRun": "2026-11-07T07:06:22+08:00",
+  "lastRunLocal": "2026-11-07 07:06",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 5 則：商務仲裁 3（法院裁判 1、案件動態 1、評論 1）、投資仲裁 2（案件動態 1、機構 1）",
+  "lastRunNote": "新增 3 則：商務仲裁 2（法院裁判 1、評論 1）、投資仲裁 1（仲裁庭決定 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -6466,6 +6466,198 @@
     }
    ],
    "addedAt": "2026-11-07T02:12:06+08:00"
+  },
+  {
+   "id": "2026-11-06-arb-kab-china-arb-med-mediation-regulations",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "中國大陸",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-11-06",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Zhixing Fu（CIETAC 歐洲仲裁中心）",
+   "title": "中國《商事調解條例》施行後，仲裁與調解的銜接（仲調對接）三種模式何去何從",
+   "shortTitle": "中國商事調解條例後的仲調對接",
+   "point": "作者認為仲裁人兼任調解人仍是主流，條例可能帶動獨立調解人模式",
+   "titleOriginal": "After the Commercial Mediation Regulations: Revisiting the Arb-Med Interface in China",
+   "caseRef": "",
+   "tldr": "中國國務院的《商事調解條例》自 2026 年 5 月 1 日施行，首次專門規範商事調解機構與調解員。CIETAC 歐洲仲裁中心的作者分析，在中國最常見的仍是仲裁庭自己調解，條例可能讓「另找調解人」的國際作法變多；而先和解再申請仲裁取得判斷的作法，跨境執行仍有紐約公約上的疑慮。",
+   "memo": "Zhixing Fu 於 Kluwer Arbitration Blog 撰文指出，中國國務院《商事調解條例》自 2026 年 5 月 1 日施行，雖未直接規範仲調對接，惟藉由規範獨立商事調解機構及調解員，可能提升仲裁程序外調解之公信力。作者分析修正後《仲裁法》第 64 條之仲裁庭調解、第 62 條之和解後依和解內容作成仲裁判斷，以及機構規則所定將仲裁前和解轉為仲裁判斷等三種模式，認為仲裁人兼任調解人之模式仍將居主流，而仲裁前和解轉換之判斷於紐約公約第 1 條第 1 項及第 5 條第 2 項下之跨境執行仍有疑義。",
+   "context": "中國國務院《商事調解條例》自 2026 年 5 月 1 日施行，作者稱其為中國首部專門規範商事調解之行政法規，界定商事調解須由商事調解組織進行（第 2 條），並就調解組織及調解員設定標準（第 8 條、第 12 條）。條例未創設新的國內執行機制，而是重申司法確認、仲裁及公證等既有途徑並加強銜接（第 7 條）；第 23 條規定當事人得依適用之條約向外國主管機關聲請執行，作者認為此為中國日後適用《新加坡調解公約》預作準備（中國 2019 年簽署，尚未批准）。\n修正後《中華人民共和國仲裁法》自 2026 年 3 月 1 日施行，第 61 條要求仲裁庭駁回基於虛構事實或惡意串通之請求，第 62 條、第 64 條分別規範和解及仲裁庭調解。",
+   "facts": [
+    "《商事調解條例》自 2026 年 5 月 1 日施行，未直接規範仲裁與調解之銜接。",
+    "作者引述 CIETAC 資料，2025 年約 22% 案件經仲裁庭調解結案。",
+    "CIETAC 規則第 47 條第 10 項、北京仲裁委員會 2025 年調解仲裁快速規則及深圳國際仲裁院（SCIA）規則第 49 條第 2 項，均允許將仲裁前達成之和解轉為仲裁判斷。"
+   ],
+   "issues": [
+    "仲裁庭兼任調解人（《仲裁法》第 64 條）與國際上分由不同人調解之作法（如 SIAC/SIMC Arb-Med-Arb 議定書）之利弊。",
+    "當事人於仲裁程序開始後和解，請求仲裁庭依和解內容作成判斷（《仲裁法》第 62 條）。",
+    "將仲裁前已達成之和解轉為仲裁判斷，於紐約公約第 1 條第 1 項（「爭議」要件）及第 5 條第 2 項(a)(b)款（可仲裁性、公共政策）下能否跨境承認與執行。"
+   ],
+   "holding": "・作者將中國的仲調對接分為三種模式，並以條例施行為契機重新檢視。\n・模式一（仲裁庭調解）最常見：依《仲裁法》第 64 條，調解成功可作成調解書或依和解作成判斷，兩者國內效力相同，但只有仲裁判斷能到境外執行；費用結構與中國審理方式使和解多在審理終結前後發生。國際實務則擔心仲裁人接觸和解立場後影響實體判斷。\n・模式二（另由調解人調解）為國際主流，《仲裁法》第 62 條亦允許，但在中國少見，原因之一是獨立調解欠缺規範；條例填補此缺口，此模式可能增加。\n・模式三（仲裁前和解轉為判斷）在中國實務被接受，雖《仲裁法》未明文，但機構規則有規定；仲裁人主要審查真實性以防虛假或串通（第 61 條）。跨境執行則可能因紐約公約「爭議」要件及第 5 條第 2 項遭質疑，實務上常在和解接近定案、爭議仍存在時即提起仲裁。",
+   "significance": "作者結論：條例不太可能取代仲裁人兼任調解人之模式，但可能促使當事人更多採用獨立調解人及調解前置條款；待《新加坡調解公約》對中國廣泛適用後，和解協議可直接跨境執行，減少轉為仲裁判斷之需求；在此之前，將和解轉為仲裁判斷仍是中國的實際途徑。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：作者任職於 CIETAC 歐洲仲裁中心；文中所引條例及《仲裁法》條號依作者所述，本網頁助理未另行核對條文原文。",
+   "tags": [
+    "中國大陸",
+    "調解",
+    "仲調對接",
+    "CIETAC",
+    "新加坡調解公約",
+    "紐約公約",
+    "和解"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 評論",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/after-the-commercial-mediation-regulations-revisiting-the-arb-med-interface-in-china/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T07:06:22+08:00"
+  },
+  {
+   "id": "2026-11-06-arb-sea-search-armada-colombia-interventions-rejected",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "investment",
+   "caseId": "sea-search-armada-v-colombia",
+   "jurisdiction": "哥倫比亞",
+   "outlet": "常設仲裁法院（PCA）",
+   "outletCode": "PCA",
+   "date": "2026-11-06",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "聖荷西號沉船仲裁案：仲裁庭駁回西班牙、原住民族及一家復業美國公司的參加聲請",
+   "shortTitle": "沉船案仲裁庭駁回西班牙等參加聲請",
+   "point": "Sea Search-Armada 依美哥貿易促進協定求償約 200 億美元，第三方均不得參加",
+   "titleOriginal": "Sea Search-Armada, LLC v. Republic of Colombia (PCA Case No. 2023-37) — decision on requests to intervene (reported by IAReporter, 6 Nov 2026)",
+   "caseRef": "PCA Case No. 2023-37",
+   "tldr": "美國公司 Sea Search-Armada 主張自己發現了 1708 年沉沒的西班牙聖荷西號大帆船，依美國－哥倫比亞貿易促進協定控告哥倫比亞，要求分得一半寶藏。據 IAReporter 報導，仲裁庭已拒絕西班牙、原住民族團體及一家復業的美國公司加入程序。",
+   "memo": "依 IAReporter 2026 年 11 月 6 日報導，Sea Search-Armada, LLC 依美國－哥倫比亞貿易促進協定對哥倫比亞提起之仲裁（PCA Case No. 2023-37），仲裁庭已駁回西班牙、原住民族及一家復業美國公司參加程序之聲請。本案申請人主張其發現聖荷西號沉船，請求分得沉船寶藏價值之半數，報導估計爭議金額約 200 億美元；案件現處證據階段。",
+   "context": "Sea Search-Armada（SSA）主張其於 1980 年代發現 1708 年沉沒於卡塔赫納外海之西班牙大帆船聖荷西號（San José），並據此主張分得半數寶藏；哥倫比亞否認 SSA 發現該沉船。SSA 於 2022 年 12 月依美國－哥倫比亞貿易促進協定（TPA）第 10 章提起仲裁，由常設仲裁法院（PCA）管理（PCA Case No. 2023-37）。\n既往程序：仲裁庭曾於 2023 年 12 月 30 日就西班牙以非爭端當事方身分參加之聲請作成決定，2024 年 2 月 16 日就哥倫比亞依 TPA 第 10.20.5 條提出之先決異議作成決定，2024 年 6 月就 SSA 之暫時性措施聲請作成決定並核發證據保全議定書。據 2026 年 9 月報導，案件處於文件調閱階段，申請金額約 30 兆哥倫比亞披索（約 200 億美元）。",
+   "facts": [
+    "IAReporter 2026 年 11 月 6 日報導：仲裁庭駁回西班牙、原住民族（Indigenous nations）及一家復業之美國公司參加仲裁程序之聲請。",
+    "PCA 案件網頁截至本次查核尚未刊載此項決定。"
+   ],
+   "issues": [
+    "第三人（包括主張沉船所有權之西班牙、主張文化遺產權利之原住民族及主張權利之美國公司）得否參加依 TPA 第 10 章進行之投資仲裁。"
+   ],
+   "holding": "據報導，仲裁庭駁回上述三方之參加聲請。決定理由、作成日期及是否允許其以書面意見（法庭之友）方式提出意見，報導標題未載明。",
+   "significance": "此決定使程序維持在 SSA 與哥倫比亞兩造之間，西班牙對沉船之主張不在本案處理。案件仍在證據階段，尚無審理期日公布。",
+   "editorNote": "本網頁助理 註：本則依 IAReporter 2026 年 11 月 6 日報導之標題及摘要撰寫，全文須訂閱，尚未取得仲裁庭決定原文，決定日期及理由均不明；PCA 案件文件網站拒絕自動讀取，PCA 案件頁面亦未見此項決定。背景依 PCA 案件頁面、italaw 及 Colombia One 2026 年 9 月 15 日報導。",
+   "tags": [
+    "PCA",
+    "哥倫比亞",
+    "西班牙",
+    "美國",
+    "自由貿易協定",
+    "第三人參加",
+    "水下文化資產",
+    "UNCITRAL"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "PCA 案件頁面（PCA Case No. 2023-37）",
+     "url": "https://pca-cpa.org/en/cases/300/",
+     "official": true
+    },
+    {
+     "label": "IAReporter 報導",
+     "url": "https://www.iareporter.com/articles/tribunal-hearing-sunken-galleon-arbitration-against-colombia-rejects-requests-to-intervene-by-spain-indigenous-nations-and-revived-us-company/",
+     "official": false
+    },
+    {
+     "label": "italaw 案件文件",
+     "url": "https://www.italaw.com/cases/10859",
+     "official": false
+    },
+    {
+     "label": "Colombia One 報導（2026 年 9 月）",
+     "url": "https://colombiaone.com/2026/09/15/colombia-san-jose-galleon-battle/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T07:06:22+08:00"
+  },
+  {
+   "id": "2026-11-06-arb-ddc-perimetral-ani-stay-refused",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "perimetral-v-ani",
+   "jurisdiction": "美國",
+   "outlet": "美國哥倫比亞特區聯邦地方法院（依新聞報導）",
+   "outletCode": "DDC",
+   "date": "2026-11-06",
+   "eventDate": "2026-11-05",
+   "importance": 1,
+   "author": "",
+   "title": "美國法院拒絕暫停對哥倫比亞國家基礎建設局的公路仲裁判斷執行程序",
+   "shortTitle": "美國法院拒停對哥國基建局判斷執行",
+   "point": "哥倫比亞國家基礎建設局上訴與撤銷程序仍在進行，地院仍續行承認程序",
+   "titleOriginal": "Perimetral Oriental de Bogotá S.A.S. v. Agencia Nacional de Infraestructura et al., No. 1:25-cv-01099 (D.D.C.), Order of 5 November 2026",
+   "caseRef": "No. 1:25-cv-01099 (D.D.C.); No. 26-7189 (D.C. Cir.); ICDR Case No. 1-20-0015-3123",
+   "tldr": "波哥大東環公路特許公司打贏對哥倫比亞國家基礎建設局（ANI）的仲裁，正在美國法院聲請承認判斷。ANI 已上訴，並另外聲請撤銷判斷，請求法院先停下程序；據報導，法院在 11 月 5 日拒絕暫停。",
+   "memo": "依 IAReporter 報導，美國哥倫比亞特區聯邦地方法院於 2026 年 11 月 5 日就 Perimetral Oriental de Bogotá S.A.S. 聲請承認對哥倫比亞國家基礎建設局（ANI）之 ICDR 仲裁判斷一案，駁回暫停程序之聲請，雖 ANI 就地院 2026 年 8 月 14 日駁回其管轄異議之裁定已向哥倫比亞特區巡迴上訴法院上訴，且另有撤銷仲裁判斷程序繫屬。該判斷係 2024 年 12 月 18 日作成，命 ANI 賠償約 1.3 兆哥倫比亞披索並提前終止特許契約。",
+   "context": "Perimetral Oriental de Bogotá S.A.S.（POB）為哥倫比亞第四代（4G）公路特許計畫「波哥大東環」（Sesquilé 至 Cáqueza）之特許公司，股東包括 Shikun & Binui。南段第 4、5 功能單元因環境問題停工，POB 對 ANI 提起 ICDR 仲裁（ICDR Case No. 1-20-0015-3123）。仲裁庭於 2024 年 12 月 18 日作成部分終局判斷（管轄、責任及損害），2025 年 3 月 7 日就澄清聲請作成決定。哥國媒體報導賠償額約 1.3 兆披索，IAReporter 則以約 3 億美元稱之。\n2025 年 4 月 11 日，POB 向美國哥倫比亞特區聯邦地方法院聲請承認判斷，並以 ANI 及哥倫比亞共和國為相對人。地院 2026 年 8 月 14 日駁回 ANI 之駁回聲請，但以哥倫比亞享有豁免為由駁回對國家之請求（不影響再行起訴），並准 POB 修正訴狀。ANI 於 2026 年 9 月 15 日向哥倫比亞特區巡迴上訴法院上訴（No. 26-7189）。",
+   "facts": [
+    "地院 2026 年 8 月 14 日裁定駁回 ANI 之駁回聲請，就哥倫比亞部分則予駁回（without prejudice）。",
+    "ANI 於 2026 年 9 月 15 日提起上訴。",
+    "據 IAReporter 報導，地院於 2026 年 11 月 5 日拒絕在上訴及撤銷程序進行期間暫停承認程序。"
+   ],
+   "issues": [
+    "承認外國仲裁判斷之程序，是否應因相對人就管轄裁定提起之上訴及另行繫屬之撤銷程序而暫停（紐約公約第 6 條）。"
+   ],
+   "holding": "據報導，地院拒絕暫停程序。裁定理由及撤銷程序繫屬之法院，報導標題與摘要未載明。",
+   "significance": "承認程序將在地院續行；ANI 對管轄裁定之上訴仍在巡迴上訴法院審理，哥倫比亞部分則視 POB 是否修正訴狀而定。",
+   "editorNote": "本網頁助理 註：本則依 IAReporter 2026 年 11 月 6 日報導之標題與摘要撰寫，全文須訂閱，尚未取得 11 月 5 日裁定原文；IAReporter 文件區列有該裁定，但本網頁助理未能開啟。2026 年 8 月 14 日裁定內容依 italaw 所刊文件頁面之摘要，上訴資訊依 Justia 卷宗。判斷金額來源說法不一（約 1.3 兆哥倫比亞披索／約 3 億美元），仲裁地未見來源載明。本案為契約仲裁，相對人為國家機構，依本站分類列為商務仲裁。",
+   "tags": [
+    "承認與執行",
+    "紐約公約",
+    "哥倫比亞",
+    "美國",
+    "ICDR",
+    "國營事業",
+    "國家豁免",
+    "停止訴訟",
+    "營建爭議"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "美國哥倫比亞特區聯邦地方法院 2026 年 8 月 14 日裁定（italaw）",
+     "url": "https://www.italaw.com/cases/documents/15124",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導",
+     "url": "https://www.iareporter.com/articles/us-court-refuses-to-stay-proceedings-seeking-enforcement-of-highway-award-against-colombian-state-agency-despite-pending-appeal-and-set-aside-bid/",
+     "official": false
+    },
+    {
+     "label": "IAReporter 案件頁",
+     "url": "https://www.iareporter.com/arbitration-cases/perimetra-oriental-de-bogota-v-agencia-nacional-de-infraestructura-of-colombia/",
+     "official": false
+    },
+    {
+     "label": "哥倫比亞特區巡迴上訴法院卷宗（Justia）",
+     "url": "https://dockets.justia.com/docket/circuit-courts/cadc/26-7189",
+     "official": false
+    },
+    {
+     "label": "Portafolio 報導（2024 年判斷）",
+     "url": "https://www.portafolio.co/economia/infraestructura/concesion-perimetral-oriental-de-bogota-sera-indemnizada-con-1-3-billones-620252",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T07:06:22+08:00"
   }
  ],
  "agenda": [
@@ -6998,6 +7190,30 @@
    "caseRef": "ICSID Case No. ARB/15/35",
    "summary": "E.ON 就西班牙調降再生能源補貼依能源憲章條約提起 ICSID 仲裁，2024 年 1 月獲判賠償。",
    "status": "E.ON 於 2026 年 11 月向美國哥倫比亞特區聯邦地院聲請執行約 3.14 億歐元判斷。"
+  },
+  {
+   "id": "sea-search-armada-v-colombia",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "常設仲裁法院（PCA）",
+   "name": "Sea Search-Armada 訴哥倫比亞（聖荷西號沉船）",
+   "nameOriginal": "Sea Search-Armada, LLC v. Republic of Colombia",
+   "caseRef": "PCA Case No. 2023-37",
+   "summary": "美國公司 Sea Search-Armada 主張發現 1708 年沉沒之聖荷西號，依美國－哥倫比亞貿易促進協定請求分得半數寶藏，金額據報約 200 億美元。",
+   "status": "仲裁庭駁回西班牙、原住民族及一家美國公司之參加聲請，案件處於證據階段。"
+  },
+  {
+   "id": "perimetral-v-ani",
+   "type": "案件",
+   "court": "COURT",
+   "field": "commercial",
+   "forum": "美國哥倫比亞特區聯邦地方法院；ICDR",
+   "name": "波哥大東環公路特許公司訴哥倫比亞國家基礎建設局（判斷承認）",
+   "nameOriginal": "Perimetral Oriental de Bogotá S.A.S. v. Agencia Nacional de Infraestructura",
+   "caseRef": "ICDR Case No. 1-20-0015-3123; No. 1:25-cv-01099 (D.D.C.); No. 26-7189 (D.C. Cir.)",
+   "summary": "公路特許公司就 4G 特許契約停工損失對 ANI 取得約 1.3 兆哥倫比亞披索之 ICDR 判斷，並在美國聲請承認。",
+   "status": "地院 2026 年 11 月 5 日拒絕暫停承認程序；ANI 對管轄裁定之上訴仍繫屬於巡迴上訴法院。"
   }
  ]
 }
