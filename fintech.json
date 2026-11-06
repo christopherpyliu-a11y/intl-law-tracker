@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-06T07:46:53+08:00",
-  "lastRunLocal": "2026-11-06 07:46",
+  "lastRun": "2026-11-07T02:24:21+08:00",
+  "lastRunLocal": "2026-11-07 02:24",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：美國 3（監理指引 1、執法案件 2）、亞太與其他 1（法國立法動態 1）"
+  "lastRunNote": "新增 6 則：美國 2（監理指引 2）、歐盟 1（立法動態 1）、英國 1（政策動態 1）、亞太與其他 2（奈及利亞法規發布 1、希臘立法動態 1）"
  },
  "items": [
   {
@@ -112,7 +112,8 @@
     "歐盟"
    ],
    "related": [
-    "2026-11-04-fin-commission-wp2027-withdraw-fida"
+    "2026-11-04-fin-commission-wp2027-withdraw-fida",
+    "2026-11-04-fin-council-adopts-psd3-psr-first-reading"
    ],
    "sources": [
     {
@@ -3920,7 +3921,9 @@
     "迦納",
     "非洲"
    ],
-   "related": [],
+   "related": [
+    "2026-11-06-fin-nigeria-cbn-virtual-asset-regulations"
+   ],
    "sources": [
     {
      "label": "Citi Newsroom 報導",
@@ -4509,7 +4512,8 @@
    ],
    "related": [
     "2026-11-02-fin-illinois-prediction-markets-injunction-appeal",
-    "2026-11-04-fin-ninth-circuit-denies-kalshi-rehearing"
+    "2026-11-04-fin-ninth-circuit-denies-kalshi-rehearing",
+    "2026-11-05-fin-cftc-impartial-access-geofencing"
    ],
    "sources": [
     {
@@ -4632,7 +4636,8 @@
     "歐盟"
    ],
    "related": [
-    "2026-10-23-fin-council-psd3-first-reading-position"
+    "2026-10-23-fin-council-psd3-first-reading-position",
+    "2026-11-04-fin-council-adopts-psd3-psr-first-reading"
    ],
    "sources": [
     {
@@ -4821,7 +4826,8 @@
    ],
    "related": [
     "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction",
-    "2026-11-04-fin-arkansas-ag-sues-kalshi"
+    "2026-11-04-fin-arkansas-ag-sues-kalshi",
+    "2026-11-05-fin-cftc-impartial-access-geofencing"
    ],
    "sources": [
     {
@@ -5323,7 +5329,9 @@
     "法國",
     "歐盟"
    ],
-   "related": [],
+   "related": [
+    "2026-11-05-fin-greece-crypto-capital-gains-tax"
+   ],
    "sources": [
     {
      "label": "FinanceFeeds 報導",
@@ -5402,6 +5410,369 @@
     }
    ],
    "addedAt": "2026-11-06T07:46:53+08:00"
+  },
+  {
+   "id": "2026-11-05-fin-cftc-impartial-access-geofencing",
+   "court": "CFTC",
+   "kind": "監理指引",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國",
+   "outlet": "美國商品期貨交易委員會（CFTC）",
+   "outletCode": "CFTC",
+   "date": "2026-11-05",
+   "eventDate": "2026-11-05",
+   "importance": 3,
+   "author": "",
+   "title": "CFTC 發布指定契約市場「公平近用」解釋，認定依州別限制交易違反聯邦規範並要求 30 日內恢復全國服務或說明",
+   "shortTitle": "CFTC 要求預測市場停止依州封鎖",
+   "point": "30 日內恢復全國服務或說明不可行理由，與多起法院裁判衝突",
+   "titleOriginal": "CFTC Issues Impartial Access Requirements Interpretation",
+   "caseRef": "Release No. 9323-26；17 CFR Part 38；Regulation 38.151(b)",
+   "tldr": "Kalshi 等預測市場因多州法院禁令，已對部分州的使用者關閉服務。CFTC 現在發布解釋，認為依使用者所在州別限制交易違反聯邦「公平近用」要求，要求交易所 30 日內恢復全國服務，或向 CFTC 說明做不到的原因，使業者夾在聯邦監理機關與法院之間。",
+   "memo": "美國商品期貨交易委員會（CFTC）於 2026 年 11 月 5 日發布關於指定契約市場（DCM）公平近用要求之解釋（新聞稿 9323-26），依《商品交易法》第 5(d)(2)、5(d)(9) 條核心原則及 CFTC 規則第 38.151(b) 條，認定 DCM 原則上不得依境內合格參與者之所在地限制其交易，並應採取合理措施確保中介機構不施加此類地理限制；依新聞稿，DCM 應於 30 日內停止違反該要求之境內地理限制，或向市場監督處說明無法遵循之理由，CFTC 將依個案事實考量是否採取行動。",
+   "context": "多州以州賭博法限制於 CFTC 監理之交易所交易的運動及事件合約；第二、第九巡迴上訴法院及多個州法院近期作成不利預測市場業者的裁判，Kalshi 已在內華達、華盛頓、密西根等州實施地理封鎖。\nCFTC 主張其對指定契約市場具專屬管轄，已對猶他州等十個州政府提起訴訟。依 CoinDesk 報導，CFTC 目前僅由主席 Selig 一名委員組成。",
+   "facts": [
+    "CFTC 於 2026 年 11 月 5 日發布新聞稿 9323-26 及解釋性指引全文。",
+    "依新聞稿，DCM 應於 30 日內停止違反公平近用要求之境內地理限制，或向市場監督處說明不可行理由；對中介機構亦須於 30 日內確認其未妨礙公平近用。",
+    "解釋性指引文件格式為擬刊登聯邦公報之版本，標示仍可能作技術性修正。",
+    "依 CoinDesk 報導，Better Markets 批評 CFTC 立場「毫無根據」；Kalshi 未回應是否遵循。"
+   ],
+   "issues": [
+    "CFTC 的解釋能否對抗聯邦上訴法院與州法院已核發之禁令？業者遵循 CFTC 是否構成藐視法院？",
+    "《商品交易法》公平近用要求是否及於因州法禁止而實施的地理限制？",
+    "僅由一名委員作成的解釋之程序正當性。"
+   ],
+   "holding": "・法律依據：CEA 第 5(d)(2) 條（核心原則 2）、第 5(d)(9) 條（核心原則 9）及規則 38.151(b)、(c)。\n・近用標準應以財務與營運健全為基礎，標準須事先公開並一致適用，同類參與者間不得差別待遇。\n・CEA 及 CFTC 規則原則上不允許 DCM 依美國境內合格參與者之所在地限制近用。\n・理由：地理限制可能使參與者移動至受限地區時無法管理部位或補繳保證金，並降低流動性、擴大買賣價差、分割市場；選舉市場尤其敏感。\n・DCM 應採取合理措施確保期貨經紀商等中介機構不施加違反公平近用之地理限制。\n・依新聞稿：30 日內停止或說明不可行理由；CFTC 依個案考量是否採取行動。",
+   "significance": "這是 CFTC 在預測市場州聯邦之爭中最直接的監理動作，將使已依法院禁令封鎖部分州的業者面臨兩難。30 日期限約於 12 月上旬屆至；應留意業者回應、各州與法院反應，以及是否引發新的訴訟。",
+   "editorNote": "本網頁助理 註：新聞稿未載明 30 日期限之具體日期；解釋性指引全文本身未提及 30 日要求、州法院命令或部落土地問題，30 日要求出自新聞稿。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "公平近用",
+    "CFTC",
+    "Kalshi",
+    "美國"
+   ],
+   "related": [
+    "2026-11-04-fin-ninth-circuit-denies-kalshi-rehearing",
+    "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction"
+   ],
+   "sources": [
+    {
+     "label": "CFTC 新聞稿（9323-26）",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9323-26",
+     "official": true
+    },
+    {
+     "label": "CFTC 公平近用解釋性指引全文（PDF）",
+     "url": "https://www.cftc.gov/media/14841/DCMImpartialAccessInterpretiveGuidance110526/download",
+     "official": true
+    },
+    {
+     "label": "CoinDesk 報導",
+     "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T02:24:21+08:00"
+  },
+  {
+   "id": "2026-11-05-fin-cftc-dco-trust-company-settlement",
+   "court": "CFTC",
+   "kind": "監理指引",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "美國商品期貨交易委員會（CFTC）",
+   "outletCode": "CFTC",
+   "date": "2026-11-05",
+   "eventDate": "2026-11-05",
+   "importance": 1,
+   "author": "",
+   "title": "CFTC 結算風險處發布無異議函，允許衍生性商品結算機構透過信託公司辦理每日結算",
+   "shortTitle": "CFTC 允結算機構用信託公司結算",
+   "point": "信託公司須比照結算銀行規範；函中指州信託公司為主要數位資產保管機構",
+   "titleOriginal": "CFTC Staff Addresses Use of Trust Companies for Daily Settlements",
+   "caseRef": "Release No. 9322-26；CFTC Staff Letter No. 26-30",
+   "tldr": "CFTC 規則要求結算機構與「銀行」辦理每日資金結算。CFTC 幕僚應 Nodal Clear 請求，表示若結算機構把信託公司當作結算銀行一樣管理，就不會建議執法，為信託公司（包括從事數位資產保管者）進入衍生性商品結算鏈開路。",
+   "memo": "美國商品期貨交易委員會（CFTC）結算及風險處於 2026 年 11 月 5 日應 Nodal Clear, LLC 之請求發布第 26-30 號幕僚函，就衍生性商品結算機構（DCO）透過信託公司與結算會員辦理每日結算，表示於該 DCO 將信託公司視同結算銀行而遵循規則第 39.14(c) 及 (d) 條之條件下，不建議 CFTC 就其未符規則第 39.14 條「結算銀行」須為銀行之定義採取執法行動；該立場以請求人陳述為基礎，對委員會無拘束力。",
+   "context": "CFTC 規則第 39.14 條規範 DCO 之每日結算，並將「結算銀行」定義為銀行。依該函，州監理之信託公司（例如受紐約州金融服務署監理者）為主要數位資產保管機構之一，數位資產亦可能作為保證金擔保品。",
+   "facts": [
+    "請求人 Nodal Clear 之請求函日期為 2026 年 10 月 29 日，CFTC 於 11 月 5 日回覆。",
+    "無異議立場涵蓋規則第 39.14(c)、(d) 條；函中並提及 CEA 第 4d 條、規則第 1.20 條及第 22 部之客戶資產保護。",
+    "函中未提及穩定幣或 OCC 信託執照。"
+   ],
+   "issues": [
+    "信託公司是否應被視為與銀行相當的結算機構？",
+    "客戶資產隔離規定如何適用於信託公司？"
+   ],
+   "holding": "・DCO 得使用信託公司辦理與結算會員之每日結算，但須將該信託公司視同結算銀行，遵循規則第 39.14(c)、(d) 條。\n・立場以請求人陳述為基礎，事實變更可能影響結論；結算及風險處得附條件、修改、暫停或終止。\n・不免除其他規定之遵循，對委員會無拘束力。",
+   "significance": "隨 OCC 核准多家加密業者取得信託銀行執照，以及州信託公司在數位資產保管的角色擴大，本函為信託公司參與衍生性商品結算提供先例，值得留意是否有其他 DCO 援用或 CFTC 修正規則定義。",
+   "editorNote": "以下為本網頁助理補充，非來源內容：本函與加密資產直接關聯有限，收錄理由在於其承認信託公司（含數位資產保管業者）於結算體系之角色。",
+   "tags": [
+    "信託公司",
+    "數位資產保管",
+    "結算",
+    "無異議函",
+    "CFTC",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "CFTC 新聞稿（9322-26）",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9322-26",
+     "official": true
+    },
+    {
+     "label": "CFTC 幕僚函 26-30 全文（PDF）",
+     "url": "https://www.cftc.gov/csl/26-30/download",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-07T02:24:21+08:00"
+  },
+  {
+   "id": "2026-11-06-fin-nigeria-cbn-virtual-asset-regulations",
+   "court": "OTHER",
+   "kind": "法規發布",
+   "caseId": "ng-cbn-virtual-asset-regime",
+   "jurisdiction": "奈及利亞",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-06",
+   "eventDate": "2026-11-05",
+   "importance": 2,
+   "author": "",
+   "title": "奈及利亞中央銀行發布非證券類虛擬資產營運規則，建立穩定幣發行執照制並禁止演算法穩定幣",
+   "shortTitle": "奈及利亞央行發布穩定幣執照規則",
+   "point": "11 月 5 日生效，外幣穩定幣資本額 150 億奈拉，既有業者 180 日內申請",
+   "titleOriginal": "Regulations for the Operations of Non-Security Virtual Assets in Nigeria",
+   "caseRef": "",
+   "tldr": "奈及利亞央行發布新規則，把不屬於證券的虛擬資產（特別是穩定幣）納入執照管理：奈拉穩定幣與外幣穩定幣分別發照，每一種代幣發行前都要經央行核准，演算法穩定幣全面禁止。既有業者有 180 天可以申請執照。",
+   "memo": "依 The Block 及 crypto.news 2026 年 11 月 6 日報導，奈及利亞中央銀行發布《奈及利亞非證券類虛擬資產營運規則》，自 2026 年 11 月 5 日生效，區分奈拉計價（第一類）及外幣計價（第二類）穩定幣發行執照，每一代幣發行前須經央行書面核准，外幣穩定幣僅得由在奈及利亞設立並持有外幣發行人執照之公司向當地人提供；依報導，第一類及第二類發行人最低實收資本分別為 100 億及 150 億奈拉，準備資產須一比一全額支應並另提至少 2% 緩衝；演算法穩定幣禁止發行；既有業者應於 180 日內申請執照。",
+   "context": "奈及利亞證券交易委員會依 2025 年《投資及證券法》監理屬於證券之數位資產；本規則由中央銀行就非證券類虛擬資產、支付及外匯相關活動建立監理框架，適用於在奈及利亞境內從事、以奈及利亞使用者為對象或影響其支付體系、金融部門或外匯市場之活動。",
+   "facts": [
+    "規則於 2026 年 11 月 5 日生效（依報導）。",
+    "執照類別包括奈拉計價發行人執照（第一類）、外幣發行人執照（第二類）、其他服務執照或許可，以及存款貨幣代幣執照等。",
+    "依 crypto.news 報導：第二類發行人最低實收資本 150 億奈拉、第一類 100 億奈拉、其他受監理服務商 10 億奈拉；準備資產每日與負債核對，另提至少 2% 緩衝。",
+    "規則全文規定第二類發行人須維持營運流動性（1,000 萬美元、在地負債 15% 及 30 日壓力贖回需求）。",
+    "禁止代幣包括演算法穩定幣、主要以其他虛擬資產擔保之法幣參考代幣、無可執行面額贖回權之代幣，以及受制裁者發行之代幣。",
+    "既有業者須於 30 日內向央行登記、60 日內開始申報，180 日內提出完整申請；依報導，未經許可營業罰款至少 1 億奈拉，另按日至少 100 萬奈拉。"
+   ],
+   "issues": [
+    "央行與證券交易委員會間就虛擬資產的管轄劃分。",
+    "外幣穩定幣（如美元穩定幣）的在地化發行要求對境外發行人的影響。",
+    "執照門檻與過渡期限是否足以讓既有業者轉型。"
+   ],
+   "holding": "・範圍：非證券類虛擬資產活動，具域外效力（以奈及利亞使用者為對象者亦適用）。\n・執照：奈拉穩定幣與外幣穩定幣分別發照，兼營須事前核准；每一代幣須經書面核准（分類、參考貨幣、準備安排、名稱、代號及支援之區塊鏈）。\n・準備：一比一全額支應，收到準備資產前不得鑄造；第一類於央行開立準備存款帳戶，須經核准之獨立會計師出具準備證明。\n・禁止：演算法穩定幣、主要以虛擬資產擔保之代幣、無面額贖回權之代幣等；穩定幣不得表彰為存款或受存款保險保障。\n・洗錢防制：客戶審查、制裁篩檢、交易監控及旅行規則。\n・過渡：既有業者 180 日內申請，逾期未申請須停止受監理活動。",
+   "significance": "奈及利亞為非洲加密資產使用量最大的市場之一，本規則是繼迦納之後非洲又一個全面的穩定幣執照制度。應留意 180 日申請期限（約 2027 年 5 月初）、首批執照核發，以及外幣穩定幣在地化要求對境外發行人的影響。",
+   "editorNote": "本網頁助理 註：資本額、2% 緩衝及罰款金額取自 crypto.news 報導；本網頁助理閱讀之規則全文前段未見資本額數字，規則文號與發布日期亦未能確認。180 日期限之日期係依報導所述生效日推算。",
+   "tags": [
+    "穩定幣",
+    "虛擬資產",
+    "執照",
+    "洗錢防制",
+    "奈及利亞央行",
+    "奈及利亞"
+   ],
+   "related": [
+    "2026-11-02-fin-ghana-stablecoin-directive"
+   ],
+   "sources": [
+    {
+     "label": "奈及利亞央行規則全文（PDF）",
+     "url": "https://www.cbn.gov.ng/Out/2026/CCD/REGULATIONS%20FOR%20THE%20OPERATIONS%20OF%20NON-SECURITY%20VIRTUAL%20ASSETS%20IN%20NIGERIA.pdf",
+     "official": true
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/nigeria-central-bank-stablecoin-rules-algorithmic-ban/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T02:24:21+08:00"
+  },
+  {
+   "id": "2026-11-04-fin-council-adopts-psd3-psr-first-reading",
+   "court": "EU",
+   "kind": "立法動態",
+   "caseId": "eu-psd3-psr",
+   "jurisdiction": "歐盟",
+   "outlet": "Global Regulation Tomorrow（Norton Rose Fulbright）",
+   "outletCode": "RT",
+   "date": "2026-11-04",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "歐盟理事會於第一讀會通過第三號支付服務指令（PSD3）與支付服務規則（PSR），待歐洲議會全會通過",
+   "shortTitle": "歐盟理事會一讀通過 PSD3 與 PSR",
+   "point": "兩案待歐洲議會全會通過後刊登公報，PSD2 與電子貨幣指令將廢止",
+   "titleOriginal": "PSD3 and PSR – Council of EU adopts texts at first reading",
+   "caseRef": "ST 8535 2026 REV 1 ADD 1；ST 8543 2026 REV 1 ADD 1",
+   "tldr": "歐盟支付法制改革再進一步：理事會已正式以第一讀會立場通過 PSD3 與 PSR 兩部新法。接下來只差歐洲議會在全會表決通過，就能刊登公報，取代現行 PSD2。",
+   "memo": "依 Norton Rose Fulbright 之 Global Regulation Tomorrow 2026 年 11 月 4 日報導，歐盟理事會已發布聲明，確認於第一讀會通過內部市場支付服務及電子貨幣服務指令（PSD3，文件 ST 8535 2026 REV 1 ADD 1）及支付服務規則（PSR，文件 ST 8543 2026 REV 1 ADD 1）之文字；兩案尚待歐洲議會於全會通過，PSD3 將廢止《第二號支付服務指令》及《電子貨幣指令》。",
+   "context": "執委會於 2023 年 6 月提出 PSD3 與 PSR。理事會與歐洲議會於 2025 年 11 月達成政治協議，妥協文字於 2026 年 4 月公布；理事會於 10 月 23 日公布 PSD3 第一讀會立場，準備正式通過。\nPSD3 規範支付機構與電子貨幣機構之授權與監理，須由會員國轉化；PSR 直接適用，涵蓋行為規範、透明度、開放銀行與詐欺防制。",
+   "facts": [
+    "Global Regulation Tomorrow 報導，理事會於 2026 年 10 月 29 日發布聲明，確認於第一讀會通過兩案文字。",
+    "兩案文字原於 10 月 23 日公布。",
+    "下一步為歐洲議會全會通過。"
+   ],
+   "issues": [
+    "議會第二讀會表決時程及公報刊登日。",
+    "PSD3 轉化期限與 PSR 適用日。"
+   ],
+   "holding": "・程序：理事會於第一讀會通過 PSD3 與 PSR 文字。\n・PSD3 將修正交割終局性指令與 MiCA，並廢止 PSD2 與電子貨幣指令。\n・PSR 為直接適用之規則，處理詐欺責任分配、開放銀行近用及收費透明度等。",
+   "significance": "歐洲議會全會通過後即完成立法，接下來應留意公報刊登日、轉化與適用期限，以及 EBA 的大量第二層技術標準。執委會同時擬撤回開放金融（FiDA）提案，PSR 的開放銀行規定將成為短期內歐盟資料近用的主要依據。",
+   "editorNote": "本網頁助理 註：理事會聲明與新聞稿本網頁助理未能直接開啟；Global Regulation Tomorrow 稱理事會於 10 月 29 日發布確認通過之聲明，另一則二手報導稱 11 月 2 日通過，來源不一致，故裁判／事件日期留空。",
+   "tags": [
+    "PSD3",
+    "PSR",
+    "支付服務",
+    "開放銀行",
+    "電子貨幣",
+    "歐盟"
+   ],
+   "related": [
+    "2026-10-23-fin-council-psd3-first-reading-position",
+    "2026-11-04-fin-commission-wp2027-withdraw-fida"
+   ],
+   "sources": [
+    {
+     "label": "理事會第一讀會立場文件：PSD3（PDF）",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-8535-2026-REV-1-ADD-1/en/pdf",
+     "official": true
+    },
+    {
+     "label": "理事會第一讀會立場文件：PSR（PDF）",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-8543-2026-REV-1-ADD-1/en/pdf",
+     "official": true
+    },
+    {
+     "label": "Global Regulation Tomorrow 報導",
+     "url": "https://www.regulationtomorrow.com/2026/11/psd3-and-psr-council-of-eu-adopts-texts-at-first-reading/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T02:24:21+08:00"
+  },
+  {
+   "id": "2026-11-04-fin-boe-rpib-consultation-response",
+   "court": "BOE",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "英格蘭銀行（Bank of England）",
+   "outletCode": "BOE",
+   "date": "2026-11-04",
+   "eventDate": "2026-11-04",
+   "importance": 1,
+   "author": "",
+   "title": "英格蘭銀行發布零售支付基礎設施委員會（RPIB）新一代零售支付基礎設施設計諮詢回應",
+   "shortTitle": "英格蘭銀行回應新一代零售支付設計諮詢",
+   "point": "收到 121 份意見，支持「薄核心」分層架構，藍圖 2027 年春交予產業",
+   "titleOriginal": "Response to the RPIB consultation on the Design of the Future Retail Payments Infrastructure",
+   "caseRef": "",
+   "tldr": "英國正在重新設計全國零售支付的底層系統。英格蘭銀行整理 121 份意見後表示，多數人支持只做「薄核心」、讓民間在上層競爭創新的分層架構；接下來會與業界共同撰寫藍圖，2027 年春交給業界主導的建置公司。",
+   "memo": "英格蘭銀行於 2026 年 11 月 4 日發布零售支付基礎設施委員會（RPIB）就新一代零售支付基礎設施設計諮詢之回應，共收 121 份意見（機構 110 份、個人 11 份），多數支持以「薄核心」為平台之單一模組化分層架構，核心並將透過英格蘭銀行即時總額清算服務協調以央行貨幣完成最終清算；依回應，2026 年 11 月至 2027 年春將與業界共同擬定藍圖，並於 2027 年春交予業界主導之建置公司負責細部設計、採購與建置。",
+   "context": "英國政府《國家支付願景》設立 RPIB，負責規劃取代現行 Faster Payments 與 Bacs 等系統之新一代零售支付基礎設施。RPIB 於 2026 年 6 月 25 日發布設計諮詢，意見期限 9 月 11 日。",
+   "facts": [
+    "回應於 2026 年 11 月 4 日發布，共 121 份意見。",
+    "回應所列為現階段高階設計提案，將持續精進。",
+    "詐欺防制、資料共享、目錄與別名服務等共用服務是否置於核心，仍待決定。",
+    "部分意見提及區塊鏈支付及代幣化存款是否須經新基礎設施清算，回應未作決定；不同形式貨幣間以面額互通獲強力支持。"
+   ],
+   "issues": [
+    "代幣化存款、穩定幣等新型貨幣如何與新零售支付核心互通？",
+    "帳戶對帳戶（A2A）銷售點支付的商業誘因。"
+   ],
+   "holding": "・架構：單一模組化分層架構，「薄核心」作為創新平台，保留民間競爭空間。\n・清算：核心協調以央行貨幣透過 RTGS 清算，多數產品層安排可維持預存資金淨額清算。\n・時程：2026 年 11 月至 2027 年春共同擬定藍圖；2027 年春交予業界主導之建置公司。\n・相關工作：支付願景交付委員會（PVDC）角色分工文件、延長 RTGS 營運時間諮詢。",
+   "significance": "新一代零售支付基礎設施將決定英國帳戶對帳戶支付、開放銀行支付及未來代幣化貨幣的互通方式。應留意 2027 年春的藍圖內容，以及其與數位英鎊決策、系統性穩定幣制度的銜接。",
+   "editorNote": "",
+   "tags": [
+    "支付服務",
+    "支付基礎設施",
+    "開放銀行",
+    "代幣化存款",
+    "英格蘭銀行",
+    "英國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "英格蘭銀行諮詢回應頁面",
+     "url": "https://www.bankofengland.co.uk/paper/2026/cp/response-to-the-rpib-consultation",
+     "official": true
+    },
+    {
+     "label": "Global Regulation Tomorrow 報導",
+     "url": "https://www.regulationtomorrow.com/2026/11/boe-response-to-the-rpib-consultation-on-the-design-of-the-future-retail-payments-infrastructure/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T02:24:21+08:00"
+  },
+  {
+   "id": "2026-11-05-fin-greece-crypto-capital-gains-tax",
+   "court": "OTHER",
+   "kind": "立法動態",
+   "caseId": "",
+   "jurisdiction": "希臘",
+   "outlet": "路透社（經 Yahoo Finance 轉載）",
+   "outletCode": "RTRS",
+   "date": "2026-11-05",
+   "eventDate": "2026-11-05",
+   "importance": 1,
+   "author": "",
+   "title": "希臘國會通過加密資產資本利得稅法，稅率 10%、每年 500 歐元以下免稅",
+   "shortTitle": "希臘國會通過加密資產 10% 資本利得稅",
+   "point": "每年 500 歐元以下免稅，施行細則及稽核規定將於數週內公布",
+   "titleOriginal": "Greek parliament approves 10% tax on cryptocurrency gains",
+   "caseRef": "",
+   "tldr": "希臘國會通過第一套完整的加密資產課稅規定：加密資產買賣獲利課 10% 資本利得稅，每年 500 歐元以內免稅。財政部表示會在幾週內公布施行細則與透明、稽核規定。",
+   "memo": "依路透社 2026 年 11 月 5 日報導，希臘國會於同日通過法案，對加密資產資本利得課徵 10% 稅率，每年 500 歐元以下之資本利得免稅，為希臘首部完整之加密資產課稅法制；依財政部官員表示，施行指令及透明度與稽核規定將於未來數週內發布。",
+   "context": "希臘政府於 2026 年 6 月曾提出 15% 稅率構想，10 月草案降為 10%。歐盟各國加密資產稅制未統一，依路透社報導稅率介於 8% 至 30%。歐盟 DAC8 指令要求加密資產服務商自 2026 年起蒐集使用者交易資料以供稅務資訊交換。",
+   "facts": [
+    "希臘國會於 2026 年 11 月 5 日（星期四）通過法案（依路透社報導）。",
+    "稅率 10%，每年 500 歐元以下資本利得免稅。",
+    "施行指令及透明度、稽核規定將於數週內公布。",
+    "依報導，多數投資人使用境外平台，稅收規模難以估計。"
+   ],
+   "issues": [
+    "境外平台交易之申報與稽核如何落實？",
+    "質押、DeFi 收益等其他加密資產所得之課稅方式。"
+   ],
+   "holding": "・對加密資產資本利得課徵 10% 稅率。\n・每年 500 歐元以下之資本利得免稅。\n・施行細則、透明度與稽核規定由財政部另行發布。",
+   "significance": "希臘加入法國、英國等近期調整加密資產稅制的歐洲國家行列。應留意施行指令內容、適用起始日，以及其與 DAC8 資料交換的銜接。",
+   "editorNote": "本網頁助理 註：法案全文與希臘國會官方資料本網頁助理未能取得；路透社報導未說明施行日期及質押、DeFi 收益之處理，部分二手報導所述其他稅率未經確認，故未收錄。",
+   "tags": [
+    "加密資產",
+    "稅制",
+    "資本利得稅",
+    "DAC8",
+    "希臘",
+    "歐盟"
+   ],
+   "related": [
+    "2026-11-05-fin-france-self-custody-reporting-amendment"
+   ],
+   "sources": [
+    {
+     "label": "路透社報導（Yahoo Finance 轉載）",
+     "url": "https://uk.finance.yahoo.com/news/greek-parliament-approves-10-tax-155235738.html",
+     "official": false
+    },
+    {
+     "label": "The Crypto Basic 每日整理",
+     "url": "https://thecryptobasic.com/2026/11/05/tcb-daily-edition-what-happened-in-crypto-on-november-5-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T02:24:21+08:00"
   }
  ],
  "agenda": [
@@ -5546,6 +5917,16 @@
    "caseId": "genius-act-implementation"
   },
   {
+   "id": "2026-12-05-cftc-impartial-access-30-day",
+   "date": "2026-12-05",
+   "court": "CFTC",
+   "title": "CFTC 公平近用解釋：指定契約市場停止依州別封鎖或提出說明之 30 日期限",
+   "note": "依 11 月 5 日新聞稿之 30 日推算，CFTC 未載明具體日期，可能有出入",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9323-26",
+   "relatedId": "2026-11-05-fin-cftc-impartial-access-geofencing",
+   "caseId": "us-prediction-markets-preemption"
+  },
+  {
    "id": "2026-12-07-sec-custody-comment-deadline",
    "date": "2026-12-07",
    "court": "SEC",
@@ -5674,6 +6055,16 @@
    "url": "https://www.gov.uk/government/publications/tax-treatment-of-stablecoins/taxation-of-stablecoins",
    "relatedId": "2026-10-28-fin-uk-stablecoin-tax-treatment",
    "caseId": "uk-cryptoasset-regime"
+  },
+  {
+   "id": "2027-05-04-other-nigeria-vasp-application-deadline",
+   "date": "2027-05-04",
+   "court": "OTHER",
+   "title": "奈及利亞央行虛擬資產規則：既有業者申請執照之 180 日期限",
+   "note": "依報導之 11 月 5 日生效日推算 180 個日曆日，日期可能有出入",
+   "url": "https://www.cbn.gov.ng/Out/2026/CCD/REGULATIONS%20FOR%20THE%20OPERATIONS%20OF%20NON-SECURITY%20VIRTUAL%20ASSETS%20IN%20NIGERIA.pdf",
+   "relatedId": "2026-11-06-fin-nigeria-cbn-virtual-asset-regulations",
+   "caseId": "ng-cbn-virtual-asset-regime"
   }
  ],
  "cases": [
@@ -5741,7 +6132,7 @@
    "nameOriginal": "Third Payment Services Directive and Payment Services Regulation",
    "caseRef": "",
    "summary": "以 PSD3 與直接適用的 PSR 取代 PSD2 並整併電子貨幣指令，規範支付機構執照、開放銀行與詐欺防制。",
-   "status": "理事會公布 PSD3 第一讀會立場（10 月 21 日），待完成正式通過與公報刊登。"
+   "status": "依 Global Regulation Tomorrow 報導，理事會已於第一讀會通過 PSD3 與 PSR（10 月 29 日發布聲明），待歐洲議會全會通過後刊登公報。"
   },
   {
    "id": "eurosystem-digital-euro-tokenisation",
@@ -5818,7 +6209,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "阿肯色州檢察總長 11 月 4 日於州法院起訴 Kalshi；第九巡迴上訴法院 11 月 4 日駁回 Kalshi 內華達州案重新審理聲請，Kalshi 有 90 日可向最高法院聲請移審；第二巡迴 11 月 3 日駁回 Kalshi、Coinbase 對紐約州及康乃狄克州之上訴期間禁制令聲請；伊利諾州北區聯邦地院 10 月 30 日禁止該州適用州賭博法，州政府已上訴第七巡迴。"
+   "status": "CFTC 11 月 5 日發布公平近用解釋，要求指定契約市場 30 日內停止依州別封鎖或說明理由；阿肯色州檢察總長 11 月 4 日於州法院起訴 Kalshi；第九巡迴 11 月 4 日駁回 Kalshi 內華達州案重新審理聲請；第二巡迴 11 月 3 日駁回 Kalshi、Coinbase 禁制令聲請；伊利諾州案已上訴第七巡迴。"
   },
   {
    "id": "kr-tokenised-securities",
@@ -5863,6 +6254,17 @@
    "caseRef": "",
    "summary": "CFTC 先允許加密資產永續期貨於其註冊交易所上市，再於 2026 年 11 月擴及個股永續期貨，CME 集團及傳統證券業者團體分別起訴，主張相關商品屬交換或以證券為基礎之交換。",
    "status": "CFTC 11 月 3 日宣布個股永續期貨視為已核准之證券期貨，同日 Capital Markets Alliance 於紐約南區聯邦地院起訴；法院當日駁回緊急禁制令但認原告本案勝訴可能性高（依 DeFi Rate 報導），原告預計聲請初步禁制令；CME 對加密永續期貨之訴訟仍在進行。"
+  },
+  {
+   "id": "ng-cbn-virtual-asset-regime",
+   "type": "議題",
+   "court": "OTHER",
+   "forum": "奈及利亞中央銀行、證券交易委員會",
+   "name": "奈及利亞穩定幣與虛擬資產執照制度",
+   "nameOriginal": "Nigeria CBN Regulations for the Operations of Non-Security Virtual Assets",
+   "caseRef": "",
+   "summary": "奈及利亞中央銀行就非證券類虛擬資產及穩定幣建立執照與代幣核准制度，證券類數位資產仍由證券交易委員會監理。",
+   "status": "規則依報導於 2026 年 11 月 5 日生效，既有業者須於 30 日內登記、180 日內申請執照。"
   }
  ],
  "archives": []
