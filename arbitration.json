@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-06T07:17:04+08:00",
-  "lastRunLocal": "2026-11-06 07:17",
+  "lastRun": "2026-11-07T02:12:06+08:00",
+  "lastRunLocal": "2026-11-07 02:12",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 3 則：商務仲裁 2（法院裁判 1、評論 1）、投資仲裁 1（案件動態 1）",
+  "lastRunNote": "新增 5 則：商務仲裁 3（法院裁判 1、案件動態 1、評論 1）、投資仲裁 2（案件動態 1、機構 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -985,7 +985,8 @@
    ],
    "related": [
     "2026-10-22-arb-dj-devas-nyc-state-immunity",
-    "2026-10-23-arb-brussels-rreef-spain-eurocontrol-attachment-lifted"
+    "2026-10-23-arb-brussels-rreef-spain-eurocontrol-attachment-lifted",
+    "2026-11-05-arb-eon-spain-ddc-enforcement-petition"
    ],
    "sources": [
     {
@@ -6160,6 +6161,311 @@
     }
    ],
    "addedAt": "2026-11-06T07:17:04+08:00"
+  },
+  {
+   "id": "2026-11-04-arb-bomhc-eurochem-tecnimont-no-freeze",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "eurochem-v-tecnimont",
+   "jurisdiction": "印度",
+   "outlet": "孟買高等法院（依新聞報導）",
+   "outletCode": "BOMHC",
+   "date": "2026-11-04",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "孟買高等法院駁回 EuroChem 依俄羅斯判決凍結 Tecnimont 印度資產之聲請，認為制裁不當然使俄國法院得排除 ICC 仲裁協議",
+   "shortTitle": "孟買法院拒依俄國判決凍結 Tecnimont 資產",
+   "point": "制裁不當然使俄國法院得無視倫敦 ICC 仲裁協議，俄國程序亦有正當程序疑慮",
+   "titleOriginal": "Limited Liability Company EuroChem North-West-2 v. Tecnimont S.p.A., Commercial Appeal (L) No. 20333 of 2026 (Bombay High Court, Division Bench)",
+   "caseRef": "Commercial Appeal (L) No. 20333 of 2026; 2026 LLBiz HC (BOM) 628",
+   "tldr": "俄羅斯化肥公司 EuroChem 與義大利工程公司 Tecnimont 的建廠契約約定在倫敦進行 ICC 仲裁，但 EuroChem 跑去莫斯科法院拿到約 1,711 億盧布的判決，再到印度要求凍結 Tecnimont 的資產。孟買高等法院二審維持拒絕：外國判決不會自動換來保全，制裁本身也不足以讓俄國法院無視仲裁協議。",
+   "memo": "孟買高等法院合議庭於 2026 年 10 月 29 日就 EuroChem North-West-2 訴 Tecnimont 案駁回上訴，維持獨任法官拒絕核發禁止處分印度資產之暫時禁制令之裁定。法院認為，外國判決不當然構成核發暫時性救濟之依據，仍須獨立符合民事訴訟法第 39 號命令之要件；國際制裁不當然使當事人得援引俄羅斯法院專屬管轄而排除約定之倫敦 ICC 仲裁，須證明實際無法接近使用司法；莫斯科判決程序初步顯有正當程序疑慮，且 ICC 仲裁尚在進行，聲請人未能釋明勝訴可能、利益衡量及無法彌補之損害。",
+   "context": "EuroChem North-West-2 於 2020 年 6 月 1 日與 Tecnimont S.p.A. 及其俄國子公司 MT Russia 簽訂三份契約，委託興建位於俄羅斯的化肥廠；契約約定依 ICC 規則仲裁，仲裁地為倫敦。\n2022 年俄羅斯入侵烏克蘭後，Tecnimont 等因國際制裁暫停施工，EuroChem 於 2022 年 8 月 4 日終止契約。Tecnimont 與 MT Russia 隨即提起 ICC 仲裁，EuroChem 參與程序並提出反請求。\nEuroChem 另向莫斯科仲裁法院（Arbitrazh Court）起訴，取得約 1,711.2 億盧布的判決，並於 2026 年 3 月 4 日經上訴維持；ICC 仲裁仍在進行。EuroChem 再於印度起訴請求執行該俄國判決，並聲請禁止 Tecnimont 處分或移轉其印度資產；獨任法官於 2026 年 6 月 8 日駁回暫時性救濟，EuroChem 提起上訴。",
+   "facts": [
+    "三份建廠契約均約定倫敦仲裁地之 ICC 仲裁。",
+    "EuroChem 在 ICC 仲裁進行中另向莫斯科仲裁法院起訴，取得約 1,711.2 億盧布判決，2026 年 3 月 4 日經上訴維持。",
+    "Tecnimont 主張俄國程序於最終言詞辯論前 10 日以變更訴之聲明追加約 2 萬頁資料，延期聲請遭拒，其答辯與聲請獨立鑑定亦未獲審酌。",
+    "俄羅斯並非印度民事訴訟法上之互惠地區，故其判決須另行起訴請求執行。",
+    "獨任法官於 2026 年 6 月 8 日拒絕核發暫時性救濟，EuroChem 上訴；合議庭（Bharati Dangre、Manjusha Deshpande 法官）於 2026 年 10 月 29 日駁回上訴。"
+   ],
+   "issues": [
+    "外國判決是否當然使權利人得在印度取得保全資產之暫時性救濟（民事訴訟法第 39 號命令第 1 條第 (b) 款）。",
+    "國際制裁是否足以使俄羅斯法院排除當事人約定之倫敦 ICC 仲裁而行使專屬管轄。",
+    "印度民事訴訟法第 13、14 條對外國判決之推定，其範圍及舉證責任。",
+    "俄國判決程序是否違反自然正義（正當程序）。"
+   ],
+   "holding": "・外國判決不會自動帶來暫時性救濟；聲請人仍須獨立證明暫時禁制令的要件。\n・制裁並不當然使當事人得援引俄羅斯法院專屬管轄而無視仲裁協議；當事人須證明在 ICC 仲裁庭及英國法院確實無法接近使用司法。\n・Tecnimont 所指追加大量資料、拒絕延期及未審酌答辯等情形，初步已構成程序公正疑慮；法院強調，此與判決內容對錯是不同問題。\n・民事訴訟法第 14 條僅推定外國法院有管轄權，且得推翻，並不等於判決具終局效力；來自非互惠地區的判決須另行起訴，由執行聲請人負擔較重的舉證責任。\n・考量仲裁協議、仍在進行的 ICC 仲裁及對俄國判決的各項異議，EuroChem 未能釋明勝訴可能、利益衡量與無法彌補之損害，上訴駁回。",
+   "significance": "本判決是印度法院對「以俄國反仲裁判決追索仲裁相對人海外資產」策略的又一否定，與英國等法院拒絕承認違反仲裁協議之俄國判決的立場一致。俄國依《仲裁程序法》第 248.1 條等規定在制裁案件中主張專屬管轄的判決，在第三國執行將面臨仲裁協議與正當程序的雙重障礙。EuroChem 於印度之執行本訴及倫敦 ICC 仲裁仍在進行。",
+   "editorNote": "本網頁助理 註：本則依 LiveLaw（livelawbiz.com）2026 年 11 月 4 日報導及 Global Arbitration Review 2026 年 11 月 5 日標題撰寫，尚未取得判決原文。報導所載 2025 年 9 月 1 日究係起訴日或判決日不明，故未列入。以下為本網頁助理補充，非來源內容：俄國法院在制裁案件中依《仲裁程序法》第 248.1 條主張專屬管轄為常見作法，報導未明示本案俄國判決之依據條文。",
+   "tags": [
+    "印度",
+    "孟買高等法院",
+    "俄羅斯",
+    "義大利",
+    "ICC",
+    "制裁",
+    "反仲裁",
+    "外國判決承認",
+    "暫時性救濟",
+    "仲裁協議"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "LiveLaw 報導（孟買高等法院判決）",
+     "url": "https://www.livelawbiz.com/arbitration/bombay-hc-refuses-to-freeze-tecnimonts-assets-over-rub-171-billion-moscow-judgment-says-foreign-ruling-alone-insufficient-557293",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review 報導",
+     "url": "https://globalarbitrationreview.com/article/mumbai-court-confirms-it-will-not-freeze-assets-based-russian-judgment",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review 報導（第一審）",
+     "url": "https://globalarbitrationreview.com/article/indian-court-denies-asset-freeze-based-russian-judgment-debt",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T02:12:06+08:00"
+  },
+  {
+   "id": "2026-11-05-arb-eon-spain-ddc-enforcement-petition",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "eon-v-spain",
+   "jurisdiction": "美國",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-05",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "E.ON 向美國哥倫比亞特區聯邦地院聲請執行對西班牙約 3.14 億歐元之 ICSID 再生能源仲裁判斷",
+   "shortTitle": "E.ON 在美國聲請執行對西班牙 3.14 億歐元判斷",
+   "point": "E.ON 稱西班牙分文未付，請求執行 2024 年 ICSID 再生能源補貼案判斷",
+   "titleOriginal": "E.ON SE, E.ON Finanzanlagen GmbH and E.ON Iberia Holding GmbH v. Kingdom of Spain (ICSID Case No. ARB/15/35) — petition to enforce award (D.D.C.)",
+   "caseRef": "ICSID Case No. ARB/15/35",
+   "tldr": "德國能源公司 E.ON 因西班牙削減再生能源補貼，在 ICSID 打贏仲裁，判斷要求西班牙賠償。E.ON 說西班牙一毛都沒付，於是到美國華府的聯邦法院請求執行，金額約 3.14 億歐元（另加利息）。",
+   "memo": "E.ON SE 等三家德國公司於 2026 年 11 月向美國哥倫比亞特區聯邦地方法院聲請承認與執行其對西班牙之 ICSID 仲裁判斷（ICSID Case No. ARB/15/35，2024 年 1 月 18 日作成），該案源於西班牙調降再生能源補貼及開徵發電收入稅；聲請人主張西班牙迄未給付，請求執行約 3.144 億歐元及其後利息。",
+   "context": "E.ON SE、E.ON Finanzanlagen GmbH 及 E.ON Iberia Holding GmbH 於 2015 年就西班牙再生能源制度改革（包括調降補貼及對發電收入課徵 7% 稅）向 ICSID 提起仲裁。仲裁庭於 2022 年 6 月 23 日作成管轄權、責任及損害計算原則決定，並於 2024 年 1 月 18 日作成判斷，認定西班牙違反公平公正待遇。\n西班牙面臨數十件類似的能源憲章條約仲裁，並以歐盟內部異議（Achmea、Komstroy）抗辯各國執行；美國哥倫比亞特區聯邦地院已有多件執行對西班牙判斷之程序，且有部分案件已在上訴審或英國、澳洲、新加坡等地進行。",
+   "facts": [
+    "Law360 報導，E.ON 已向美國哥倫比亞特區聯邦地院請求執行約 3.144 億歐元（約 3.527 億美元）判斷，另加利息，並稱西班牙未支付任何款項。",
+    "Global Arbitration Review 標題稱判斷金額逾 3.14 億歐元，涉及西班牙削減再生能源補貼。",
+    "UNCTAD 資料庫記載判斷金額為 3 億歐元，並記載撤銷（annulment）程序繫屬中。"
+   ],
+   "issues": [
+    "美國法院依 ICSID 公約第 54 條及 22 U.S.C. §1650a 執行歐盟內部 ICSID 判斷時，西班牙得否以外國主權豁免法及歐盟法異議抗辯。",
+    "ICSID 撤銷程序繫屬中，執行程序是否應暫停。"
+   ],
+   "holding": "尚無法院裁判。本則所述為聲請人提出執行聲請。",
+   "significance": "本件是美國法院執行西班牙再生能源判斷系列中的又一件。美國哥倫比亞特區聯邦巡迴上訴法院已在 NextEra 等案確認法院對 ICSID 判斷有管轄權，西班牙通常仍會主張豁免並請求暫停程序。接下來看西班牙的答辯，以及 ICSID 撤銷程序的進度。",
+   "editorNote": "本網頁助理 註：本則依 Law360 及 Global Arbitration Review 2026 年 11 月 5 日報導（均僅閱讀公開摘要）及 italaw、UNCTAD 資料庫撰寫，尚未取得聲請狀原文，亦未確認聲請日期與案號。來源金額不一：Law360 稱約 3.144 億歐元（可能含判斷後利息或費用），UNCTAD 記載判斷金額 3 億歐元；撤銷程序現況亦未能在 ICSID 網站確認。",
+   "tags": [
+    "ICSID",
+    "西班牙",
+    "德國",
+    "能源憲章條約",
+    "再生能源",
+    "承認與執行",
+    "國家豁免",
+    "歐盟內部異議",
+    "第54條",
+    "公平公正待遇"
+   ],
+   "related": [
+    "2026-10-19-arb-sgca-nextera-spain-immunity"
+   ],
+   "sources": [
+    {
+     "label": "Law360 報導",
+     "url": "https://www.law360.com/energy/articles/2546796",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review 報導",
+     "url": "https://globalarbitrationreview.com/article/eon-pursues-enforcement-against-spain",
+     "official": false
+    },
+    {
+     "label": "italaw：E.ON 訴西班牙仲裁判斷",
+     "url": "https://www.italaw.com/cases/documents/11578",
+     "official": false
+    },
+    {
+     "label": "UNCTAD 投資爭端資料庫案件頁",
+     "url": "https://investmentpolicy.unctad.org/investment-dispute-settlement/cases/628/e-on-se-and-others-v-spain",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T02:12:06+08:00"
+  },
+  {
+   "id": "2026-11-04-arb-icsid-paris-office",
+   "court": "INST",
+   "kind": "機構動態",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "法國",
+   "outlet": "ICSID",
+   "outletCode": "ICSID",
+   "date": "2026-11-04",
+   "eventDate": "2026-11-04",
+   "importance": 1,
+   "author": "",
+   "title": "ICSID 於巴黎設立首個歐洲常駐辦公室",
+   "shortTitle": "ICSID 在巴黎設立歐洲辦公室",
+   "point": "首個有常駐人員的歐洲據點；過去一年三成實體開庭在巴黎舉行",
+   "titleOriginal": "International Centre for Settlement of Investment Disputes Opens Paris Office",
+   "caseRef": "",
+   "tldr": "世界銀行旗下的投資爭端解決中心（ICSID）在巴黎開了辦公室，這是它第一個有駐點人員的歐洲據點，負責協助案件管理、推廣調解，以及和歐洲各國政府與業界交流。巴黎本來就是 ICSID 開庭的熱門地點。",
+   "memo": "ICSID 於 2026 年 11 月 4 日宣布於法國巴黎世界銀行集團辦公室設立辦公室，為其首個常駐人員之歐洲據點及歐洲區域中心，由首席法律顧問 Natalí Sequeira 及資深法律顧問 Francisco Abriani 駐點，職能包括支援案件管理、推廣爭端預防與調解、與歐洲各國政府及私部門聯繫及能力建構；ICSID 並指出 2025 年 7 月至 2026 年 6 月間三成實體開庭於巴黎舉行。",
+   "context": "ICSID 總部位於華盛頓。2026 年 8 月 ICSID 已在新加坡設立辦公室，並陸續與蘇格蘭仲裁中心、韓國商事仲裁院（KCAB）等機構簽訂合作協議，以便利各地開庭。巴黎自 1972 年 ICSID 第一件案件起即為重要開庭地點。",
+   "facts": [
+    "辦公室設於巴黎 66 avenue d'Iéna 的世界銀行集團辦公室。",
+    "由 ICSID 首席法律顧問 Natalí Sequeira 及資深法律顧問 Francisco Abriani 駐點。",
+    "ICSID 指出 2025 年 7 月 1 日至 2026 年 6 月 30 日間，30% 的實體開庭在巴黎舉行，地點為世界銀行集團巴黎會議中心或與 ICSID 有合作協議的機構。",
+    "ICSID 迄今已管理逾 1,100 件案件，涉及逾 140 個國家。"
+   ],
+   "issues": [],
+   "holding": "・辦公室職能：支援案件管理、推廣爭端預防與調解、與歐洲政府官員及私部門聯繫。\n・擴大與執業者、爭端解決機構、學界及國際組織的能力建構與知識分享。\n・連結世界銀行集團在區域的業務，包括動員私人資本。\n・秘書長 Martina Polasek 表示，巴黎在 ICSID 歷史上具核心地位，並感謝法國政府的協助。",
+   "significance": "繼新加坡之後，ICSID 又在歐洲設立常駐據點，顯示其逐步分散化、就近服務各區域當事人的方向。巴黎本已是 ICSID 案件最常用的開庭地之一，駐點人員有助於當地開庭的行政支援。",
+   "editorNote": "",
+   "tags": [
+    "ICSID",
+    "法國",
+    "巴黎",
+    "機構動態",
+    "調解"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 新聞稿",
+     "url": "https://icsid.worldbank.org/news-and-events/news-releases/international-centre-settlement-investment-disputes-opens-paris-office",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-07T02:12:06+08:00"
+  },
+  {
+   "id": "2026-11-04-arb-petronet-lng-vessel-owners-claims",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "印度",
+   "outlet": "Investment Arbitration Reporter 等（依新聞報導）",
+   "outletCode": "IAR",
+   "date": "2026-11-04",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "三艘專用 LNG 運輸船船東對印度 Petronet LNG 提起仲裁，就荷莫茲海峽受阻期間停用船舶請求約 62.5 億盧比",
+   "shortTitle": "LNG 船東對印度 Petronet 提起仲裁",
+   "point": "荷莫茲海峽受阻後船舶停用，請求額升至約 62.5 億盧比，Petronet 稱依傭船契約不成立",
+   "titleOriginal": "Owners of LNG vessels v. Petronet LNG Limited (India)",
+   "caseRef": "",
+   "tldr": "印度最大的液化天然氣進口商 Petronet 長期租用三艘專用 LNG 運輸船。2026 年 3 月中東戰事讓荷莫茲海峽無法正常通行，這些船幾乎都停著不用。船東因此提起仲裁，向 Petronet 求償約 62.5 億盧比（Rs 625.42 crore），Petronet 認為依傭船契約不必付。",
+   "memo": "依 Petronet LNG Limited 截至 2026 年 9 月 30 日季度財報附註之相關報導，LNG 運輸船 Disha、Raahi 及 Aseem 之船東（傭船契約相對人為 India LNG Transport Company (No. 1)、(No. 2) 及 (No. 3) Limited）已對 Petronet 提起仲裁，因三船自 2026 年 3 月 2 日起因荷莫茲海峽航行及裝貨受阻而暫停營運，依定期傭船契約請求截至 2026 年 9 月 30 日計約 62.5 億盧比（Rs 625.42 crore）及稅費；Petronet 依法律意見認為請求依契約不成立，未提列準備。",
+   "context": "Petronet LNG Limited 為印度主要液化天然氣進口及再氣化業者，股東包括多家印度國營能源公司。其自卡達進口 LNG，並以長期定期傭船契約租用 Disha、Raahi、Aseem 三艘專用 LNG 運輸船。\n2026 年 3 月中東敵對行動導致荷莫茲海峽航行及 LNG 裝貨中斷，Petronet 曾就供應發出不可抗力通知。",
+   "facts": [
+    "三艘船自 2026 年 3 月 2 日起暫停營運，其中一艘曾於 6 月航行約 7 日。",
+    "請求金額截至 2026 年 9 月 30 日為 Rs 625.42 crore 加計稅費，較 2026 年 3 月 31 日的 Rs 89.30 crore 大幅增加。",
+    "Petronet 依法律意見認為請求依定期傭船契約相關條款不成立，未提列準備；會計師在核閱報告中以強調事項提及，但未修正結論。",
+    "報導未載仲裁機構、仲裁地、提起日期及程序時程。"
+   ],
+   "issues": [
+    "荷莫茲海峽受阻期間，傭船人是否仍須依定期傭船契約支付租金或其他費用（停租、不可抗力條款之適用）。"
+   ],
+   "holding": "尚無仲裁判斷。",
+   "significance": "本案是 2026 年中東衝突引發的能源運輸爭議之一，涉及長期 LNG 傭船契約中不可抗力與停租條款的解釋。由於 Petronet 由印度國營企業持股，IAReporter 將其列入國家相關仲裁追蹤。",
+   "editorNote": "本網頁助理 註：IAReporter 2026 年 11 月 4 日報導及案件頁需訂閱，僅見標題。本則事實依兩家財經資訊網站轉述 Petronet 2026 年 11 月 2 日公布之財報附註撰寫，未能取得 Petronet 向證券交易所申報之原始文件，仲裁機構、仲裁地及提起日期均不明。1 crore 等於 1,000 萬盧比。",
+   "tags": [
+    "印度",
+    "卡達",
+    "LNG",
+    "傭船契約",
+    "不可抗力",
+    "荷莫茲海峽",
+    "國營企業",
+    "能源"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "IAReporter 報導（訂閱）",
+     "url": "https://www.iareporter.com/articles/owners-of-qatari-lng-vessels-lodge-arbitration-against-indias-petronet/",
+     "official": false
+    },
+    {
+     "label": "Multibagg 報導（財報附註摘要）",
+     "url": "https://www.multibagg.ai/market-pulse/articles/petronet-lng-limited-vessel-claims-announcement-cmvzevjo8000f2vpll1g84uew",
+     "official": false
+    },
+    {
+     "label": "Whalesbook 報導",
+     "url": "https://www.whalesbook.com/news/English/energy/Petronet-LNG-Faces-Rs-625-Cr-Arbitration-Q2-Profit-Jumps-53percent/6ae8be644fc30694db588011",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T02:12:06+08:00"
+  },
+  {
+   "id": "2026-11-05-arb-dj-gas-price-review-damages-counterfactual",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-11-05",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Ahmed Gamal Eldin Hamed Ibrahim（埃及司法官）",
+   "title": "長期天然氣契約違約損害應以「動態價格」假設計算，不宜假定價格凍結於違約前水準",
+   "shortTitle": "違約會讓天然氣價格凍結嗎？",
+   "point": "作者主張計算損害時應評估價格調整條款原本是否會改變契約價格",
+   "titleOriginal": "Can Breach Freeze the Gas Price? Rethinking the Damages Counterfactual in Long-Term Gas Arbitration",
+   "caseRef": "",
+   "tldr": "長期天然氣契約常有「價格檢討」條款，讓價格每隔一段時間可以重新談。賣方違約不供氣時，損害是用違約前的舊價格算，還是要考慮價格本來會被調整？作者認為仲裁庭應該估算「沒有違約的話，價格會怎麼走」，而不是把價格當成凍結不動。",
+   "memo": "Ahmed Gamal Eldin Hamed Ibrahim 於 Daily Jus 撰文主張，長期天然氣契約違約之損害計算，於評估假設之未來履行價值時，仲裁庭應審酌契約價格檢討機制原本是否可能調整價格，而非假定價格凍結於違約前水準；作者援引英國法 Golden Victory 及 Bunge v Nidera、UNIDROIT 原則第 7.4.2 至 7.4.3 條及 CISG，並提出觸發條件、行使可能性、生效時點及調整幅度四階段舉證架構。",
+   "context": "長期天然氣買賣契約通常訂有價格檢討（price review）條款，允許一方在市場重大變化時請求重新議價，談不攏則交付仲裁。2022 年以後俄羅斯 Gazprom 停止對歐洲供氣，引發多件大型損害賠償仲裁（如 Uniper、ORLEN 等案），損害計算如何處理價格檢討因此成為實務問題。",
+   "facts": [
+    "作者以假設案例說明：20 年期契約價格 30，違約後替代價格 100，簡單計算每單位損害 70；若違約後 6 個月本可觸發價格檢討並可能調至 60，損害應相應調整。",
+    "作者提及 ORLEN 與 Gazprom 之斯德哥爾摩臨時仲裁部分判斷（2025 年 7 月 1 日，依 ORLEN 公告）、Naftogaz 訴 Gazprom 案、Gasum 訴 Gazprom Export 案及 Uniper 案作為背景。",
+    "英國最高法院 2026 年 7 月 22 日 Great Asia Maritime v Orion Shipping 案（[2026] UKSC 23）重申損害賠償之填補原則。"
+   ],
+   "issues": [
+    "計算長期供氣契約違約損害時，是否應假定違約前契約價格持續適用。",
+    "損害計算與價格檢討爭議之管轄界線。"
+   ],
+   "holding": "・作者認為價格檢討爭議與損害計算高度重疊，核心問題是「若無違約，契約會產生什麼價格」。\n・作者提出「動態價格假設」（Dynamic Price Counterfactual）：評估未來履行價值時，應考量價格檢討機制是否可能改變價格；此一方法對買賣雙方中立。\n・契約約定與準據法優先，仲裁庭不得推翻約定的損害賠償機制；英國法、UNIDROIT 原則第 7.4.2 至 7.4.3 條及 CISG 均支持考量後續事件。\n・作者提出四階段舉證架構：一、若無違約，檢討觸發條件是否會出現（排除違約本身造成的市場效應）；二、當事人是否可能行使檢討權；三、調整後價格何時生效；四、調整方向與幅度是否有可靠依據，宜採區間或機率加權估計。\n・如價格檢討保留給其他程序決定，仲裁庭會有管轄上的限制，界線不易劃定。",
+   "significance": "作者結論：契約價格應被視為隨時間變動的路徑，而非單一固定數字，仲裁庭不宜假定違約使價格凍結在最後觀察到的水準。此一觀點與 Gazprom 停供引發之損害賠償案件直接相關。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：作者為埃及司法官，文中聲明以個人身分撰寫。",
+   "tags": [
+    "天然氣",
+    "價格檢討",
+    "損害賠償",
+    "長期契約",
+    "CISG",
+    "UNIDROIT",
+    "Gazprom",
+    "能源"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Daily Jus 評論",
+     "url": "https://dailyjus.com/legal-insights/2026/11/can-breach-freeze-the-gas-price",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T02:12:06+08:00"
   }
  ],
  "agenda": [
@@ -6668,6 +6974,30 @@
    "caseRef": "REsp 2.224.272/SP；HDE 8.716",
    "summary": "巴西銀行控制權出售予中國銀行集團後的股權買賣爭議，賣方在巴西法院請求撤銷紐約仲裁地 ICC 判斷，買方則向巴西高等法院聲請承認該判斷。",
    "status": "巴西高等法院 2026 年 10 月確認巴西法院有管轄權，撤銷之訴發回聖保羅邦法院續審；承認程序待決。"
+  },
+  {
+   "id": "eurochem-v-tecnimont",
+   "type": "案件",
+   "court": "COURT",
+   "field": "commercial",
+   "forum": "孟買高等法院；ICC",
+   "name": "EuroChem 訴 Tecnimont（俄國判決與 ICC 仲裁）",
+   "nameOriginal": "Limited Liability Company EuroChem North-West-2 v. Tecnimont S.p.A.",
+   "caseRef": "Commercial Appeal (L) No. 20333 of 2026",
+   "summary": "俄羅斯化肥廠建廠契約因制裁停工後之爭議；契約約定倫敦 ICC 仲裁，EuroChem 另取得莫斯科法院判決並在印度請求執行。",
+   "status": "孟買高等法院合議庭 2026 年 10 月 29 日維持拒絕凍結 Tecnimont 印度資產；印度執行本訴與 ICC 仲裁仍在進行。"
+  },
+  {
+   "id": "eon-v-spain",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID；美國哥倫比亞特區聯邦地方法院",
+   "name": "E.ON 訴西班牙（再生能源判斷之執行）",
+   "nameOriginal": "E.ON SE, E.ON Finanzanlagen GmbH and E.ON Iberia Holding GmbH v. Kingdom of Spain",
+   "caseRef": "ICSID Case No. ARB/15/35",
+   "summary": "E.ON 就西班牙調降再生能源補貼依能源憲章條約提起 ICSID 仲裁，2024 年 1 月獲判賠償。",
+   "status": "E.ON 於 2026 年 11 月向美國哥倫比亞特區聯邦地院聲請執行約 3.14 億歐元判斷。"
   }
  ]
 }
