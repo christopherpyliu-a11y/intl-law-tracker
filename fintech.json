@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-07T02:24:21+08:00",
-  "lastRunLocal": "2026-11-07 02:24",
+  "lastRun": "2026-11-07T07:35:15+08:00",
+  "lastRunLocal": "2026-11-07 07:35",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 6 則：美國 2（監理指引 2）、歐盟 1（立法動態 1）、英國 1（政策動態 1）、亞太與其他 2（奈及利亞法規發布 1、希臘立法動態 1）"
+  "lastRunNote": "新增 3 則：美國 2（法規發布 1、執法案件 1）、亞太與其他 1（新加坡政策動態 1）"
  },
  "items": [
   {
@@ -1503,7 +1503,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-02-fin-ofac-a7-a7a5-designation"
+    "2026-10-02-fin-ofac-a7-a7a5-designation",
+    "2026-11-06-fin-fincen-fed-withdraw-travel-rule-threshold"
    ],
    "sources": [
     {
@@ -1672,7 +1673,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-05-fin-fincen-withdraws-wallet-mixing-rules"
+    "2026-10-05-fin-fincen-withdraws-wallet-mixing-rules",
+    "2026-11-06-fin-fincen-mexc-section-9714-order"
    ],
    "sources": [
     {
@@ -3604,7 +3606,8 @@
     "香港"
    ],
    "related": [
-    "2026-10-15-fin-hkma-art-responsible-ai"
+    "2026-10-15-fin-hkma-art-responsible-ai",
+    "2026-11-03-fin-mas-future-of-finance-institute-ai"
    ],
    "sources": [
     {
@@ -5773,6 +5776,203 @@
     }
    ],
    "addedAt": "2026-11-07T02:24:21+08:00"
+  },
+  {
+   "id": "2026-11-06-fin-fincen-fed-withdraw-travel-rule-threshold",
+   "court": "TREAS",
+   "kind": "法規發布",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "美國金融犯罪執法網（FinCEN）",
+   "outletCode": "FinCEN",
+   "date": "2026-11-06",
+   "eventDate": "2026-11-06",
+   "importance": 2,
+   "author": "",
+   "title": "FinCEN 與聯準會共同撤回 2020 年將跨境資金移轉及可轉換虛擬貨幣「旅行規則」門檻由 3,000 美元降至 250 美元之規則草案",
+   "shortTitle": "FinCEN、Fed 撤回旅行規則降門檻草案",
+   "point": "原擬將跨境移轉門檻由 3,000 美元降至 250 美元，2020 年提出後擱置逾五年",
+   "titleOriginal": "FinCEN Announces Withdrawal of Proposed Rule Related to Recordkeeping and Travel Rule Obligations",
+   "caseRef": "Federal Register 公開檢視文件 2026-22809",
+   "tldr": "美國財政部所屬的 FinCEN 和聯準會宣布，正式放棄 2020 年提出的一項規則草案。該草案原本要把跨境匯款與加密貨幣轉帳須蒐集、傳遞客戶資料（俗稱旅行規則）的門檻，從 3,000 美元大幅降到 250 美元。主管機關表示時隔多年、產業變化大，日後若要修正會重新設計。",
+   "memo": "美國金融犯罪執法網（FinCEN）於 2026 年 11 月 6 日宣布，與聯邦準備理事會共同撤回 2020 年提出之《銀行秘密法》紀錄保存及旅行規則修正草案；該草案原擬將始於或終於美國境外之資金移轉門檻由 3,000 美元降至 250 美元，並明確「金錢」包括可轉換虛擬貨幣。依 The Block 報導，撤回理由為草案提出已逾五年、可轉換虛擬貨幣產業及監理環境已有重大變化，日後修正將另行考量上述發展。現行 3,000 美元門檻維持不變。",
+   "context": "《銀行秘密法》下的紀錄保存規則及旅行規則（31 CFR 1010.410）要求金融機構就 3,000 美元以上之資金移轉保存並傳遞匯款人與受款人資料，FinCEN 已表明此規則適用於可轉換虛擬貨幣之移轉。\n2020 年 FinCEN 與聯準會提出草案，擬將跨境移轉門檻降至 250 美元，理由是不法分子多以小額交易分散移轉資金；加密產業團體認為此將使大量一般交易受到監控。\n2026 年 10 月，財政部已撤回另一項針對非託管錢包與混幣的規則草案。",
+   "facts": [
+    "FinCEN 於 2026 年 11 月 6 日發布新聞稿，宣布與聯準會共同撤回該規則草案，撤回通知已送 Federal Register 公開檢視（文件號 2026-22809）。",
+    "依 The Block 報導，草案原擬將門檻由 3,000 美元降至 250 美元。",
+    "依 The Block 報導，撤回理由為草案提出逾五年、產業已改變，以及再徵求公眾意見有其助益。",
+    "依 TFTC 報導，該草案當年收到近 3,000 份意見，多數反對降低門檻。",
+    "Crypto Council for Innovation 與 Coin Center 對撤回表示歡迎（依 The Block 報導）。"
+   ],
+   "issues": [
+    "旅行規則門檻高低與加密資產小額移轉洗錢風險之間如何取得平衡。",
+    "撤回後 FinCEN 是否會另提針對可轉換虛擬貨幣的新版紀錄保存與旅行規則。",
+    "美國門檻（3,000 美元）與 FATF 建議第 16 項 1,000 美元／歐元門檻之落差。"
+   ],
+   "holding": "・撤回範圍：2020 年 FinCEN 與聯準會之紀錄保存及旅行規則修正草案，包括降低跨境移轉門檻至 250 美元及將可轉換虛擬貨幣明列為「金錢」之提案。\n・現行規定：3,000 美元門檻及既有紀錄保存、旅行規則義務不受影響。\n・撤回理由（依報導）：時間經過逾五年、產業與監理環境變化，日後修正應考量最新發展以「切合目的」。",
+   "significance": "FinCEN 繼 2026 年 10 月撤回非託管錢包與混幣規則草案後，再撤回另一項 2020 年提出、長期未定案的加密資產相關洗錢防制草案；現行 3,000 美元門檻維持不變。後續應留意 FinCEN 是否依產業與國際標準（FATF 建議第 16 項修正）之發展另提新版旅行規則修正。",
+   "editorNote": "本網頁助理 註：撤回理由及 250 美元門檻取自 The Block 報導，FinCEN 新聞稿本身未載明理由；本網頁助理未能開啟 Federal Register 撤回通知全文。以下為本網頁助理補充，非來源內容：原草案應為 2020 年 10 月 27 日刊登之 85 FR 68005，TFTC 報導所引 85 FR 83840 實為 2020 年 12 月之非託管錢包草案，兩者不同。",
+   "tags": [
+    "洗錢防制",
+    "旅行規則",
+    "加密資產",
+    "FinCEN",
+    "聯準會",
+    "美國"
+   ],
+   "related": [
+    "2026-10-05-fin-fincen-withdraws-wallet-mixing-rules"
+   ],
+   "sources": [
+    {
+     "label": "FinCEN 新聞稿",
+     "url": "https://www.fincen.gov/news/news-releases/fincen-announces-withdrawal-proposed-rule-related-recordkeeping-and-travel-rule",
+     "official": true
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951",
+     "official": false
+    },
+    {
+     "label": "TFTC 報導",
+     "url": "https://www.tftc.io/fincen-fed-withdraw-250-travel-rule-nprm-crypto-2026",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T07:35:15+08:00"
+  },
+  {
+   "id": "2026-11-06-fin-fincen-mexc-section-9714-order",
+   "court": "TREAS",
+   "kind": "執法案件",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "美國金融犯罪執法網（FinCEN）",
+   "outletCode": "FinCEN",
+   "date": "2026-11-06",
+   "eventDate": "2026-11-06",
+   "importance": 3,
+   "author": "",
+   "title": "FinCEN 依《打擊俄羅斯洗錢法》第 9714 條認定加密資產交易所 MEXC Global 為俄羅斯不法金融之主要洗錢疑慮機構，禁止美國金融機構與其進行資金移轉",
+   "shortTitle": "FinCEN 切斷 MEXC 與美國金融體系往來",
+   "point": "依第 9714 條認定主要洗錢疑慮，涉不法資金約 167 億美元，刊登公報 30 日後生效",
+   "titleOriginal": "Imposition of Special Measure Prohibiting Transmittals of Funds Involving MEXC Global",
+   "caseRef": "Section 9714(a), Combating Russian Money Laundering Act；31 U.S.C. 5318A",
+   "tldr": "美國財政部 FinCEN 認定註冊於塞席爾的大型加密貨幣交易所 MEXC 長期替俄羅斯規避制裁、伊朗及北韓相關資金和網路犯罪收益提供管道，因此下令美國所有金融機構不得再替 MEXC 處理任何轉帳。這不是一般的制裁名單，而是另一種「切斷金融往來」的特別措施，在公報刊登 30 天後生效。",
+   "memo": "美國金融犯罪執法網（FinCEN）於 2026 年 11 月 6 日依《打擊俄羅斯洗錢法》第 9714(a) 條及 31 U.S.C. 5318A 發布命令，認定於塞席爾設立之可轉換虛擬貨幣交易所 MEXC Global（含其境外分支、子公司及繼受者，美國關係企業除外）為與俄羅斯不法金融有關之主要洗錢疑慮機構，禁止美國境內金融機構從事任何以 MEXC Global 為匯出或匯入對象之資金移轉；命令自刊登聯邦公報後 30 日生效，無終止日期。FinCEN 認定 2021 年 5 月至 2026 年 5 月間約 167 億美元資金與俄羅斯不法金融及其他不法活動相關，含約 15 億美元俄羅斯規避制裁交易及近 2 億美元與 A7A5 代幣有關之交易。本命令不影響其他《銀行秘密法》及 OFAC 義務。",
+   "context": "《打擊俄羅斯洗錢法》第 9714 條授權財政部對與俄羅斯不法金融有關之境外金融機構採取《愛國者法》第 311 條（31 U.S.C. 5318A）所定特別措施。FinCEN 過去曾以此授權對加密資產交易所 Bitzlato（2023 年）及 PM2BTC（2024 年）發布類似命令。\n2026 年 10 月 OFAC 已制裁俄羅斯 A7 網路及盧布穩定幣 A7A5；財政部將本次行動列為「Operation Economic Outcast」的一部分。",
+   "facts": [
+    "命令由 FinCEN 副局長 Jimmy L. Kirby 簽署，財政部於 2026 年 11 月 6 日公布。",
+    "受規範對象為 MEXC Global 及其境外分支、子公司、辦公室與繼受者，列名關係企業包括 MEXC Global Ltd／MX Global Ltd（塞席爾）、MEXC Estonia OÜ、GIDA Technology AG（瑞士）、MXC Global Ltd（英國）。",
+    "FinCEN 認定：2021 年 5 月至 2026 年 5 月間約 167 億美元與不法活動相關；俄羅斯規避制裁曝險近 15 億美元；與 Garantex 約 1.29 億美元、與 Grinex 約 410 萬美元；與 A7A5 代幣相關近 2 億美元。",
+    "伊朗相關活動近 20 億美元，其中與逾 40 家伊朗交易所之直接交易逾 10 億美元；另有網路犯罪資金至少 19.9 億美元及疑似勒索軟體付款 3,790 萬美元。",
+    "依命令，MEXC 每日交易量逾 10 億美元，截至 2025 年 12 月約占中心化交易所市占 9%。",
+    "命令自刊登聯邦公報後 30 日生效；依 Bitcoin Magazine 報導，截至 11 月 6 日晚間聯邦公報尚未刊登。",
+    "財政部長 Bessent 表示：「要嘛支持伊朗政權，要嘛使用美國金融體系」（依 Decrypt 報導）。"
+   ],
+   "issues": [
+    "以第 9714 條特別措施而非 OFAC 制裁處理大型境外加密資產交易所之法律效果差異。",
+    "美國金融機構及穩定幣發行人如何辨識並拒絕與 MEXC 相關之鏈上移轉，以及無法退回資金時之處理。",
+    "對全球前 20 大交易所採取切斷措施對市場與其他司法管轄區監理之外溢影響。"
+   ],
+   "holding": "・認定：MEXC Global 為與俄羅斯不法金融有關之「主要洗錢疑慮」境外金融機構。\n・特別措施：美國境內金融機構及金融機關不得從事任何匯出至或來自 MEXC Global 之資金移轉。\n・範圍：MEXC Global 及其非美國分支、子公司、辦公室及繼受者；美國關係企業除外。\n・彈性：FinCEN 保留附條件或給予豁免之權限；資金無法退回（如可轉換虛擬貨幣已長期存放於非託管錢包）時，受規範機構得依其風險程序裁量處理。\n・效力：刊登聯邦公報後 30 日生效，無終止日；不變更可疑交易申報等其他《銀行秘密法》義務及 OFAC 規定。",
+   "significance": "MEXC 為全球主要加密資產交易所之一，依命令所載每日交易量逾 10 億美元，本命令延續財政部對俄羅斯 A7／A7A5 穩定幣網路及伊朗相關管道的打擊。應留意聯邦公報刊登日期（生效日由此起算）、MEXC 回應及是否提起訴訟，以及穩定幣發行人與其他法域監理機關之後續配合。",
+   "editorNote": "本網頁助理 註：本網頁助理已閱讀 FinCEN 命令全文；財政部新聞稿未能開啟，部長談話取自 Decrypt 報導。媒體報導之總額有「160 億美元」與「167 億美元」兩種說法，本則依命令全文所載約 167 億美元。以下為本網頁助理補充，非來源內容：FinCEN 先前曾以同一授權對 Bitzlato 及 PM2BTC 發布命令。",
+   "tags": [
+    "洗錢防制",
+    "制裁",
+    "加密資產交易所",
+    "FinCEN",
+    "財政部",
+    "俄羅斯",
+    "伊朗",
+    "美國"
+   ],
+   "related": [
+    "2026-10-02-fin-ofac-a7-a7a5-designation"
+   ],
+   "sources": [
+    {
+     "label": "FinCEN 命令全文（PDF）",
+     "url": "https://www.fincen.gov/system/files/2026-11/MEXC-Section-9714.pdf",
+     "official": true
+    },
+    {
+     "label": "美國財政部新聞稿",
+     "url": "https://home.treasury.gov/news/press-releases/sb0685",
+     "official": true
+    },
+    {
+     "label": "Bitcoin Magazine 分析",
+     "url": "https://bitcoinmagazine.com/news/fincen-cuts-off-mexc-us-financial-system",
+     "official": false
+    },
+    {
+     "label": "Decrypt 報導",
+     "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T07:35:15+08:00"
+  },
+  {
+   "id": "2026-11-03-fin-mas-future-of-finance-institute-ai",
+   "court": "MAS",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "新加坡",
+   "outlet": "新加坡金融管理局（MAS）",
+   "outletCode": "MAS",
+   "date": "2026-11-03",
+   "eventDate": "2026-11-03",
+   "importance": 1,
+   "author": "",
+   "title": "新加坡金管局宣布「金融未來研究院」（FFI）正式運作，首階段以金融業 AI 應用與風險管理為重點",
+   "shortTitle": "新加坡 MAS 金融未來研究院啟動",
+   "point": "首攻 AI：分知識分享、能力建置、風險管理三支柱，之後擴及代幣化",
+   "titleOriginal": "Future of Finance Institute Commences Operations, Starting with AI in Finance",
+   "caseRef": "",
+   "tldr": "新加坡金管局成立的公私合作平台「金融未來研究院」開始運作，第一步聚焦 AI：蒐集業界實務案例、發展 AI 代理的使用指引與共用工具，並協助業者落實金管局的 AI 風險管理指引。之後會擴大到代幣化等領域。",
+   "memo": "新加坡金融管理局（MAS）於 2026 年 11 月 3 日宣布，其於 2026 年 6 月宣布設立之金融未來研究院（Future of Finance Institute, FFI）已開始運作，首階段聚焦金融業人工智慧，分設 PathFin.ai（知識分享）、BuildFin.ai（發展 AI 代理安全部署之指引、標準及共用工具）及 SafeFin.ai（協助落實 MAS《AI 風險管理指引》，含代理型 AI）三項計畫，並由 MAS 金融基礎設施暨 AI 辦公室主管 Alan Lim 兼任代理執行長；FFI 將逐步擴及代幣化等其他金融創新領域。",
+   "context": "MAS 近年陸續發布金融業 AI 相關監理文件，包括《AI 風險管理指引》、MindForge AI 風險管理工具包及 SAFR 框架；FFI 於 2026 年 6 月宣布設立，作為 MAS、金融機構、科技業者及研究機構的公私協作平台。\n同期香港金管局亦推出 SAGE 計畫探討代理型 AI 監理，顯示亞洲監理機關正將重心轉向代理型 AI。",
+   "facts": [
+    "MAS 於 2026 年 11 月 3 日發布新聞稿宣布 FFI 開始運作。",
+    "PathFin.ai：建立知識中心，並於銀行、保險、資本市場、財務顧問及支付領域設立實務社群。",
+    "BuildFin.ai：與金融機構、科技業者及研究機構合作發展 AI 部署指引、標準及共用工具，重點為安全使用 AI 代理，以 SAFR 框架為基礎。",
+    "SafeFin.ai：發展落實 MAS《AI 風險管理指引》的實務資源（含代理型 AI），並強化 MindForge 工具包，細節將另行公布。",
+    "Alan Lim 獲任代理執行長，並續任 MAS 金融基礎設施暨 AI 辦公室主管。"
+   ],
+   "issues": [
+    "監理機關主導之公私平台所產出之「指引與標準」在法律上的拘束力與定位。",
+    "代理型 AI 在金融業部署之責任歸屬與風險管理要求。"
+   ],
+   "holding": "・FFI 定位：MAS 主導之公私協作平台，推動金融業採用前沿技術。\n・首階段：AI，三支柱為 PathFin.ai、BuildFin.ai、SafeFin.ai。\n・重點：AI 代理之安全部署指引與共用工具；落實《AI 風險管理指引》之實務資源。\n・後續：逐步擴及代幣化等領域。",
+   "significance": "FFI 將成為 MAS 發展金融業 AI（特別是代理型 AI）實務標準的主要管道，SafeFin.ai 的細節及其與《AI 風險管理指引》的銜接值得留意；FFI 擴及代幣化後，亦可能與 Project Guardian 等既有計畫整合。",
+   "editorNote": "",
+   "tags": [
+    "人工智慧",
+    "代理型 AI",
+    "監理科技",
+    "MAS",
+    "新加坡"
+   ],
+   "related": [
+    "2026-11-02-fin-hkma-project-sage-agentic-ai"
+   ],
+   "sources": [
+    {
+     "label": "MAS 新聞稿",
+     "url": "https://www.mas.gov.sg/news/media-releases/2026/future-of-finance-institute-commences-operations-starting-with-ai-in-finance",
+     "official": true
+    },
+    {
+     "label": "Caproasia 報導",
+     "url": "https://www.caproasia.com/2026/11/06/singapore-mas-announced-start-of-operations-for-future-of-finance-institute-launches-ai-in-finance/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T07:35:15+08:00"
   }
  ],
  "agenda": [
