@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-07T07:35:15+08:00",
-  "lastRunLocal": "2026-11-07 07:35",
+  "lastRun": "2026-11-07T23:38:17+08:00",
+  "lastRunLocal": "2026-11-07 23:38",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：美國 2（法規發布 1、執法案件 1）、亞太與其他 1（新加坡政策動態 1）"
+  "lastRunNote": "新增 2 則：美國 1（司法案件 1）、亞太與其他 1（俄羅斯法規發布 1）"
  },
  "items": [
   {
@@ -4830,7 +4830,8 @@
    "related": [
     "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction",
     "2026-11-04-fin-arkansas-ag-sues-kalshi",
-    "2026-11-05-fin-cftc-impartial-access-geofencing"
+    "2026-11-05-fin-cftc-impartial-access-geofencing",
+    "2026-11-06-fin-blue-lake-rancheria-kalshi-injunction"
    ],
    "sources": [
     {
@@ -5458,7 +5459,8 @@
    ],
    "related": [
     "2026-11-04-fin-ninth-circuit-denies-kalshi-rehearing",
-    "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction"
+    "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction",
+    "2026-11-06-fin-blue-lake-rancheria-kalshi-injunction"
    ],
    "sources": [
     {
@@ -5973,6 +5975,141 @@
     }
    ],
    "addedAt": "2026-11-07T07:35:15+08:00"
+  },
+  {
+   "id": "2026-11-06-fin-blue-lake-rancheria-kalshi-injunction",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國加州",
+   "outlet": "crypto.news",
+   "outletCode": "CN",
+   "date": "2026-11-06",
+   "eventDate": "2026-11-04",
+   "importance": 2,
+   "author": "",
+   "title": "加州北區聯邦地院依第九巡迴發回意旨核發初步禁制令，禁止 Kalshi 在兩個原住民部落土地上提供運動事件合約",
+   "shortTitle": "法院禁 Kalshi 在部落土地提供運動合約",
+   "point": "11 月 4 日初步禁制令，部落須於 11 月 13 日前提供土地界線圖",
+   "titleOriginal": "Kalshi faces federal injunction over sports contracts on California tribal lands",
+   "caseRef": "Blue Lake Rancheria v. Kalshi Inc.（N.D. Cal.）；9th Cir. No. 25-7504",
+   "tldr": "加州兩個原住民部落控告預測市場 Kalshi，說它的運動事件合約等於在部落土地上經營未經授權的賭博。聯邦上訴法院 9 月認為部落勝訴機會高，地方法院 11 月 4 日因此下令：訴訟期間 Kalshi 不得對位於這兩個部落土地上的用戶提供運動事件合約，但不影響加州其他地方。",
+   "memo": "依 crypto.news 及 Crypto Economy 2026 年 11 月 6 日報導，美國加州北區聯邦地方法院 Jacqueline Scott Corley 法官於 2026 年 11 月 4 日在 Blue Lake Rancheria v. Kalshi Inc. 案核發初步禁制令，禁止 Kalshi Inc. 及 KalshiEX LLC 於訴訟繫屬期間，在原告 Blue Lake Rancheria 及 Chicken Ranch Rancheria of Me-Wuk Indians 之印第安土地上提供運動事件合約。本件係第九巡迴上訴法院於 2026 年 9 月 16 日（No. 25-7504）部分廢棄原駁回裁定、認原告依《印第安博弈管理法》（IGRA）之請求有勝訴可能且不受《商品交易法》排除後發回之結果。法院命原告於 11 月 13 日前提供土地界線圖，Kalshi 應於裁定後 21 日內陳報遵循措施。",
+   "context": "預測市場業者主張其在 CFTC 監理之指定契約市場提供的事件合約屬聯邦商品法規範的衍生性商品，州賭博法及其他規範遭聯邦法排除；多州及原住民部落則主張運動事件合約實為運動博弈。\n加州 Blue Lake Rancheria 等部落於 2025 年 7 月起訴 Kalshi 及 Robinhood，主張用戶自部落土地進行交易，構成《印第安博弈管理法》（IGRA）下未經授權的第三類博弈，並違反部落博弈條例及部落與加州間之協定。地方法院 2025 年 11 月駁回初步禁制令聲請，第九巡迴上訴法院 2026 年 9 月 16 日部分廢棄並發回。",
+   "facts": [
+    "依 crypto.news 報導，Corley 法官於 2026 年 11 月 4 日核發初步禁制令。",
+    "禁制範圍：Kalshi Inc. 與 KalshiEX 不得在兩部落之印第安土地上提供運動事件合約，涵蓋足球、籃球、棒球、網球、UFC、高爾夫、冰球、電競等；不及於加州其他地區（依 crypto.news 報導）。",
+    "Robinhood 亦為本案被告，但依 crypto.news 報導，該裁定未明確對 Robinhood 相關公司課予相同限制。",
+    "部落應於 11 月 13 日前向 Kalshi 提供土地界線圖；Kalshi 應於裁定後 21 日內提出遵循狀況報告。",
+    "Picayune Rancheria of the Chukchansi Indians 已於 2026 年 8 月退出本案（依 Sports Betting Dime 報導）。"
+   ],
+   "issues": [
+    "自部落土地透過網路下單的運動事件合約，是否構成 IGRA 下在「印第安土地」上進行的第三類博弈？",
+    "《商品交易法》賦予 CFTC 的專屬管轄是否排除部落依 IGRA 提出的請求？",
+    "以地理圍欄限制部落土地用戶，與 CFTC 11 月 5 日要求停止依州別封鎖的公平近用解釋如何調和？"
+   ],
+   "holding": "・地方法院依第九巡迴發回意旨，審酌其餘初步禁制令要件後核發禁制令。\n・第九巡迴（No. 25-7504）認定：Kalshi 運動事件合約自部落土地進行時很可能屬 IGRA 第三類博弈，且違反部落條例及部落與加州之協定；《商品交易法》不妨礙部落依 IGRA 請求；另維持駁回部落之 Lanham Act 不實廣告請求（依 crypto.news 報導）。\n・Kalshi 主張其合約為受 CFTC 監理之聯邦衍生性商品，應排除與之衝突的博弈限制。",
+   "significance": "這是聯邦法院首次以 IGRA 為依據，實際禁止預測市場在特定部落土地上提供運動事件合約，為各地部落提供另一條有別於州賭博法的訴訟路徑。應留意 Kalshi 是否聲請全院重審或上訴最高法院、地理圍欄的落實方式，以及與 CFTC 公平近用解釋之衝突。",
+   "editorNote": "本網頁助理 註：本則依 crypto.news 與 Crypto Economy 報導整理，未能開啟法院裁定原文；第九巡迴判決內容另參考 Sports Betting Dime 報導。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "印第安博弈管理法",
+    "原住民部落",
+    "Kalshi",
+    "CFTC",
+    "美國",
+    "加州"
+   ],
+   "related": [
+    "2026-11-05-fin-cftc-impartial-access-geofencing",
+    "2026-11-04-fin-ninth-circuit-denies-kalshi-rehearing"
+   ],
+   "sources": [
+    {
+     "label": "crypto.news 報導（初步禁制令內容與期限）",
+     "url": "https://crypto.news/kalshi-injunction-sports-contracts-california-tribal/",
+     "official": false
+    },
+    {
+     "label": "Crypto Economy 報導",
+     "url": "https://crypto-economy.com/federal-judge-blocks-kalshi-sports-contracts/",
+     "official": false
+    },
+    {
+     "label": "Sports Betting Dime 報導（第九巡迴 9 月判決）",
+     "url": "https://www.sportsbettingdime.com/news/industry/ninth-circuit-appeals-court-reverses-denial-of-blue-lake-rancheria-tribes-preliminary-injunction-request-against-kalshi/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T23:38:17+08:00"
+  },
+  {
+   "id": "2026-11-06-fin-bank-of-russia-retail-crypto-access",
+   "court": "OTHER",
+   "kind": "法規發布",
+   "caseId": "",
+   "jurisdiction": "俄羅斯",
+   "outlet": "ForkLog",
+   "outletCode": "FL",
+   "date": "2026-11-06",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "俄羅斯央行公布非專業投資人可購買之加密貨幣為比特幣、以太幣及 USDT，相關規則 11 月 17 日生效，每年每家中介機構購買上限 30 萬盧布",
+   "shortTitle": "俄央行開放散戶買比特幣等三種幣",
+   "point": "11 月 17 日生效，非專業投資人每家中介每年上限 30 萬盧布並須通過測驗",
+   "titleOriginal": "Bank of Russia Approves List of Cryptocurrencies for Retail Investors",
+   "caseRef": "Указание Банка России № 7441-У（2026 年 9 月 11 日）",
+   "tldr": "俄羅斯央行宣布，一般散戶從 11 月 17 日起可透過受監理的券商或交易所買比特幣、以太幣和 USDT 三種加密貨幣，但每年在每家機構最多只能買 30 萬盧布，而且要先通過風險測驗。用加密貨幣買東西在俄國仍然禁止。",
+   "memo": "依 ForkLog 及 Bitcoin Foundation 2026 年 11 月 6 日報導，俄羅斯中央銀行發布新聞稿，公布非專業（非合格）投資人得購買之數位貨幣為比特幣、以太幣及 USDT，相關指令自 2026 年 11 月 17 日生效。非專業投資人應先通過測驗，並以每一券商、資產管理人或交易所每年 30 萬盧布為購買上限；合格投資人不受此限。依 PPT.ru 報導，相關規則見俄羅斯央行 2026 年 9 月 11 日第 7441-U 號指令。",
+   "context": "俄羅斯長期禁止以加密貨幣支付商品與服務，僅容許合格投資人在實驗性制度下參與。2026 年起俄國推動將數位貨幣交易納入受監理體系，依 Bitcoin Foundation 引述塔斯社報導，較廣泛的加密資產架構已於 9 月 1 日生效，由央行監理受監理之交易與保管。\n俄羅斯央行 2026 年 8 月公布指令草案，擬以每家中介機構每年 30 萬盧布限制非專業投資人；9 月 11 日簽署第 7441-U 號指令，另以第 7438-U 號指令修正有組織交易規則（依 PPT.ru 報導）。",
+   "facts": [
+    "依 ForkLog 報導，俄羅斯央行於 2026 年 11 月 6 日前後發布新聞稿，公布可供散戶交易的加密貨幣清單：比特幣、以太幣、USDT。",
+    "規則自 11 月 17 日生效，之後交易所得將上述資產納入公開交易。",
+    "非專業投資人每年透過單一券商、資產管理人或加密交易所購買上限為 30 萬盧布，並須先通過測驗；依 KuCoin 轉載 Odaily 報導，合格投資人無購買上限。",
+    "依 Bitcoin Foundation 報導，莫斯科交易所目標於 12 月 1 日試辦加密貨幣交易。",
+    "依 KuCoin 轉載報導，以加密貨幣購買商品與服務仍屬禁止。",
+    "依 PPT.ru 報導，第 7441-U 號指令另訂交易所接納數位貨幣的標準，包括市值與平均日交易量。"
+   ],
+   "issues": [
+    "以每家中介機構計算的年度上限，散戶透過多家機構購買時能否有效限制風險？",
+    "將 USDT 等外國穩定幣納入散戶可交易清單，與俄國受制裁處境及洗錢防制之關係。"
+   ],
+   "holding": "・可交易資產：非專業投資人限比特幣、以太幣、USDT。\n・投資上限：每一中介機構每年 30 萬盧布；合格投資人不受限制（依媒體報導）。\n・投資人保護：交易前須通過測驗。\n・交易所接納標準：依市值與平均日交易量等指標決定可上市之數位貨幣（依 PPT.ru 報導）。\n・支付：以加密貨幣支付商品與服務仍禁止。",
+   "significance": "俄羅斯首次正式開放一般散戶透過國內受監理機構購買加密貨幣，代表其加密政策由限制轉向納管。應留意 11 月 17 日生效後的實際交易情形、莫斯科交易所 12 月試辦，以及與西方對俄制裁、USDT 發行人政策之互動。",
+   "editorNote": "本網頁助理 註：本則依 ForkLog、Bitcoin Foundation、KuCoin（轉載 Odaily）及 PPT.ru 報導整理，未能開啟俄羅斯央行新聞稿或指令原文。第 7441-U 號指令之關聯係依 PPT.ru 9 月 22 日報導，該報導刊出時指令尚待司法部登記。各報導對合格投資人待遇、點對點交易限制之描述不一，以官方文件為準。",
+   "tags": [
+    "加密資產",
+    "散戶投資人",
+    "穩定幣",
+    "俄羅斯央行",
+    "俄羅斯"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ForkLog 報導",
+     "url": "https://forklog.com/en/bank-of-russia-approves-list-of-cryptocurrencies-for-retail-investors/",
+     "official": false
+    },
+    {
+     "label": "Bitcoin Foundation 報導",
+     "url": "https://bitcoinfoundation.org/news/blockchain-news/bank-of-russia-sets-nov-17-start-for-crypto-trading-rules-with-300-000-ruble-cap/",
+     "official": false
+    },
+    {
+     "label": "KuCoin 快訊（轉載 Odaily）",
+     "url": "https://www.kucoin.com/news/flash/russia-finalizes-crypto-trading-rules-retail-transactions-to-open-on-november-17",
+     "official": false
+    },
+    {
+     "label": "PPT.ru 報導（第 7441-U 號指令）",
+     "url": "https://ppt.ru/news/kriptovalyuta/utverdili-pravila-pokupki-kriptovalyuty-nekvalifitsirovannymi-investorami",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T23:38:17+08:00"
   }
  ],
  "agenda": [
@@ -6005,6 +6142,16 @@
    "url": "",
    "relatedId": "2026-10-29-fin-brazil-psav-authorisation-deadline",
    "caseId": "br-vasp-authorisation"
+  },
+  {
+   "id": "2026-11-10-us-cma-v-cftc-pi-reply",
+   "date": "2026-11-10",
+   "court": "US",
+   "title": "Capital Markets Alliance 訴 CFTC 個股永續期貨案：原告初步禁制令答辯書期限",
+   "note": "紐約南區聯邦地院（No. 1:26-cv-09608）；CFTC 答辯期限為 11 月 6 日；承審法官得調整時程（依 Legal Sports Betting 報導）",
+   "url": "https://www.legalsportsbetting.com/news/cftc-faces-friday-deadline-on-stock-perps-approvals-11-05-2026/",
+   "relatedId": "2026-11-03-fin-sdny-denies-stock-perps-emergency-relief",
+   "caseId": "us-perpetual-futures-jurisdiction"
   },
   {
    "id": "2026-11-11-fsb-turkiye-crypto-peer-review",
@@ -6047,6 +6194,16 @@
    "caseId": "us-prediction-markets-preemption"
   },
   {
+   "id": "2026-11-13-us-blue-lake-kalshi-maps",
+   "date": "2026-11-13",
+   "court": "US",
+   "title": "Blue Lake Rancheria 訴 Kalshi 案：部落提供土地界線圖期限",
+   "note": "加州北區聯邦地院；Kalshi 另應於 11 月 4 日裁定後 21 日內陳報遵循措施",
+   "url": "https://crypto.news/kalshi-injunction-sports-contracts-california-tribal/",
+   "relatedId": "2026-11-06-fin-blue-lake-rancheria-kalshi-injunction",
+   "caseId": "us-prediction-markets-preemption"
+  },
+  {
    "id": "2026-11-16-fsb-g20-cross-border-payments-progress",
    "date": "2026-11-16",
    "court": "FSB",
@@ -6054,6 +6211,16 @@
    "note": "依 FSB 10 月通訊預告；FSB 全會同期於 11 月 16 至 17 日舉行。",
    "url": "https://mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-october-2026-20261028",
    "relatedId": "",
+   "caseId": ""
+  },
+  {
+   "id": "2026-11-17-other-russia-retail-crypto-effective",
+   "date": "2026-11-17",
+   "court": "OTHER",
+   "title": "俄羅斯：非專業投資人購買比特幣、以太幣、USDT 規則生效",
+   "note": "莫斯科交易所目標 12 月 1 日試辦交易，日期可能變動（依媒體報導）",
+   "url": "https://forklog.com/en/bank-of-russia-approves-list-of-cryptocurrencies-for-retail-investors/",
+   "relatedId": "2026-11-06-fin-bank-of-russia-retail-crypto-access",
    "caseId": ""
   },
   {
@@ -6145,6 +6312,16 @@
    "url": "https://cftc.gov/PressRoom/PressReleases/9307-26",
    "relatedId": "2026-10-05-fin-cftc-anprm-ctx-cam",
    "caseId": "us-crypto-market-structure"
+  },
+  {
+   "id": "2026-12-16-tw-vasp-subregs-comment-deadline",
+   "date": "2026-12-16",
+   "court": "TW",
+   "title": "《虛擬資產服務法》虛擬資產服務商子法草案預告期間屆滿",
+   "note": "依蕃新聞轉載報導，證期局所列預告期間為 11 月 6 日至 12 月 16 日；以金管會公告為準",
+   "url": "https://n.yam.com/Article/20261107597260",
+   "relatedId": "2026-11-03-fin-taiwan-fsc-vasp-draft-subregulations",
+   "caseId": "taiwan-vasp-act"
   },
   {
    "id": "2026-12-23-other-canada-stablecoin-regs-deadline",
@@ -6409,7 +6586,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "CFTC 11 月 5 日發布公平近用解釋，要求指定契約市場 30 日內停止依州別封鎖或說明理由；阿肯色州檢察總長 11 月 4 日於州法院起訴 Kalshi；第九巡迴 11 月 4 日駁回 Kalshi 內華達州案重新審理聲請；第二巡迴 11 月 3 日駁回 Kalshi、Coinbase 禁制令聲請；伊利諾州案已上訴第七巡迴。"
+   "status": "加州北區聯邦地院 11 月 4 日依第九巡迴發回意旨，禁止 Kalshi 於兩部落土地提供運動事件合約；CFTC 11 月 5 日發布公平近用解釋，要求指定契約市場 30 日內停止依州別封鎖或說明理由；阿肯色州 11 月 4 日起訴 Kalshi；第九巡迴 11 月 4 日駁回 Kalshi 內華達州案重審聲請；第二巡迴 11 月 3 日駁回 Kalshi、Coinbase 禁制令聲請；伊利諾州案已上訴第七巡迴。"
   },
   {
    "id": "kr-tokenised-securities",
