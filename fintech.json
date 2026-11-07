@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-07T23:38:17+08:00",
-  "lastRunLocal": "2026-11-07 23:38",
+  "lastRun": "2026-11-08T07:38:39+08:00",
+  "lastRunLocal": "2026-11-08 07:38",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：美國 1（司法案件 1）、亞太與其他 1（俄羅斯法規發布 1）"
+  "lastRunNote": "新增 1 則：亞太與其他 1（泰國執法案件 1）"
  },
  "items": [
   {
@@ -6110,6 +6110,71 @@
     }
    ],
    "addedAt": "2026-11-07T23:38:17+08:00"
+  },
+  {
+   "id": "2026-11-05-fin-thai-sec-bitget-complaint-block",
+   "court": "OTHER",
+   "kind": "執法案件",
+   "caseId": "",
+   "jurisdiction": "泰國",
+   "outlet": "Cointelegraph",
+   "outletCode": "CT",
+   "date": "2026-11-05",
+   "eventDate": "2026-11-05",
+   "importance": 1,
+   "author": "",
+   "title": "泰國證券交易委員會對 Bitget 營運商 BG Limited 提出無照經營數位資產交易所之刑事告訴，並通知主管機關自 12 月 5 日起封鎖 Bitget 網站與 App",
+   "shortTitle": "泰國證交會刑事告訴 Bitget、將封鎖",
+   "point": "12 月 5 日起封鎖網站、網域與 App，促泰國用戶提前處理資產",
+   "titleOriginal": "Thailand to block Bitget in December over unlicensed crypto trading",
+   "caseRef": "",
+   "tldr": "泰國證交會認為全球大型加密貨幣交易所 Bitget 未取得泰國執照，卻長期以泰文網站、泰銖報價與泰文廣告招攬泰國用戶，因此對其營運公司及一名協助推廣者提出刑事告訴，並請數位經濟社會部自 12 月 5 日起封鎖其網站與 App。主管機關提醒用戶在封鎖前自行處理放在平台上的資產。",
+   "memo": "依 Cointelegraph 2026 年 11 月 5 日報導，泰國證券交易委員會於同日宣布，對加密資產交易平台 Bitget 之營運商 BG Limited 以未經許可經營數位資產交易所為由提出刑事告訴，並對涉嫌協助於 Facebook 及 YouTube 推廣之個人 Kritsana Kritsananuwat 一併提告；該會指控 Bitget 於 2022 年至 2025 年間以泰文網站、泰銖計價及泰文行銷招攬泰國使用者並收取交易手續費。該會已通知數位經濟及社會部，自 2026 年 12 月 5 日起封鎖 Bitget 網站、相關網域及行動應用程式，並呼籲使用者於封鎖前處理平台上之資產。上述指控仍待偵查及法院審理。",
+   "context": "泰國自 2018 年起對數位資產業務實施執照制，並於 2025 年 4 月擴大規範，將以泰國使用者為對象之境外平台納入；另依相關網路犯罪法令修正，主管機關較易封鎖無照平台（依 Cointelegraph 報導）。\n泰國證交會曾於 2025 年 3 月就 Kritsana Kritsananuwat 涉嫌協助推廣 OKX 無照業務提出刑事告訴，並曾對多家境外交易所採取封鎖措施。",
+   "facts": [
+    "泰國證交會於 2026 年 11 月 5 日公布本案（依 CryptoSlate，通知日期為 11 月 5 日）。",
+    "被告：Bitget 平台營運商 BG Limited；另有協助推廣之個人 Kritsana Kritsananuwat。",
+    "指控行為：2022 年至 2025 年間向泰國使用者提供加密資產交易並收取手續費，透過泰文網站、泰銖顯示及泰文推廣招攬。",
+    "封鎖範圍：bitget.com、其他 Bitget 網域及行動應用程式，自 2026 年 12 月 5 日起由數位經濟及社會部執行。",
+    "依 CryptoSlate 報導，通知未提及資產凍結、強制出售或另定提領截止日；Bitget 服務條款（11 月 4 日更新）已將泰國列為禁止國家。",
+    "依 Cointelegraph 11 月 6 日更新，Bitget 發言人表示正在審閱公告、使用者資產安全，並將透過官方管道說明服務調整。"
+   ],
+   "issues": [
+    "境外交易所以當地語言與貨幣招攬是否即構成在泰國境內「經營」數位資產業務。",
+    "以網站封鎖作為跨境無照平台執法手段之實效，以及使用者資產在封鎖後之保護。",
+    "協助推廣者（網紅、社群經營者）之刑事責任範圍。"
+   ],
+   "holding": "・指控：BG Limited 未取得泰國數位資產交易所執照，卻向泰國使用者提供交易服務並收取手續費。\n・措施：對 BG Limited 及推廣者提出刑事告訴；通知數位經濟及社會部自 12 月 5 日起封鎖網站、網域與 App。\n・投資人提醒：使用者應於封鎖前就平台上之資產採取行動。\n・性質：目前為指控，仍待偵查、起訴及法院審理。",
+   "significance": "本案延續泰國對以泰國用戶為對象之境外交易所的封鎖執法，對象為全球主要交易所之一，顯示各國對無照跨境招攬的執法趨嚴。後續可觀察 12 月 5 日封鎖是否如期執行、Bitget 對泰國使用者之提領安排，以及檢方是否起訴。",
+   "editorNote": "本網頁助理 註：本則依 Cointelegraph 及 CryptoSlate 報導整理，未能直接開啟泰國證交會公告原文；法律依據條文兩篇報導均未明確引用。",
+   "tags": [
+    "加密資產",
+    "交易平台",
+    "無照經營",
+    "網站封鎖",
+    "泰國證交會",
+    "泰國",
+    "Bitget"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading",
+     "official": false
+    },
+    {
+     "label": "CryptoSlate 報導",
+     "url": "https://cryptoslate.com/thailand-is-cutting-off-bitget-users-have-until-december-5-to-prepare",
+     "official": false
+    },
+    {
+     "label": "Crypto Briefing 報導",
+     "url": "https://cryptobriefing.com/thailand-sec-cracksdown-unlicensed-crypto-operations/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-08T07:38:39+08:00"
   }
  ],
  "agenda": [
@@ -6442,6 +6507,16 @@
    "url": "https://www.cbn.gov.ng/Out/2026/CCD/REGULATIONS%20FOR%20THE%20OPERATIONS%20OF%20NON-SECURITY%20VIRTUAL%20ASSETS%20IN%20NIGERIA.pdf",
    "relatedId": "2026-11-06-fin-nigeria-cbn-virtual-asset-regulations",
    "caseId": "ng-cbn-virtual-asset-regime"
+  },
+  {
+   "id": "2026-12-05-other-thailand-bitget-block",
+   "date": "2026-12-05",
+   "court": "OTHER",
+   "title": "泰國封鎖 Bitget 網站與 App 生效",
+   "note": "泰國證交會通知數位經濟及社會部執行；依媒體報導。",
+   "url": "",
+   "relatedId": "2026-11-05-fin-thai-sec-bitget-complaint-block",
+   "caseId": ""
   }
  ],
  "cases": [
