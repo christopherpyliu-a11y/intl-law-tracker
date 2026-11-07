@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-07T23:05:30+08:00",
-  "lastRunLocal": "2026-11-07 23:05",
+  "lastRun": "2026-11-08T06:57:45+08:00",
+  "lastRunLocal": "2026-11-08 06:57",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 1 則：EJIL 評論 1"
+  "lastRunNote": "本次未發現新動態（新增議程 1 則：非洲人權法院 11 月 13 日宣示四件裁判）"
  },
  "items": [
   {
@@ -6565,6 +6565,16 @@
    "url": "https://www.ejiltalk.org/first-among-equals-the-election-for-the-icjs-presidency/",
    "relatedId": "2026-11-04-ejil-icj-presidency-election",
    "caseId": "icj-election-2026"
+  },
+  {
+   "id": "2026-11-13-acthpr-four-decisions",
+   "date": "2026-11-13",
+   "court": "ACtHPR",
+   "title": "非洲人權法院公開宣示四件裁判",
+   "note": "阿魯沙法院所在地，第 83 屆常會期間；案件：M'ba Jean Rogier 訴布吉納法索（015/2019）、Babarou Bocoum 訴馬利（023/2020）、Ajavon 等人訴貝南（063/2019）、Tsaperas 訴馬拉威（007/2022）；開庭時間未公布",
+   "url": "https://au.int/en/pressreleases/20261106/achpr-convene-its-8rrd-ordinary-session-9-november-4-december-2026",
+   "relatedId": "",
+   "caseId": ""
   }
  ],
  "archives": [],
