@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-07T07:06:22+08:00",
-  "lastRunLocal": "2026-11-07 07:06",
+  "lastRun": "2026-11-07T23:05:19+08:00",
+  "lastRunLocal": "2026-11-07 23:05",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 3 則：商務仲裁 2（法院裁判 1、評論 1）、投資仲裁 1（仲裁庭決定 1）",
+  "lastRunNote": "新增 2 則：商務仲裁 2（法院裁判 1、評論 1）、投資仲裁 0",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -6658,6 +6658,124 @@
     }
    ],
    "addedAt": "2026-11-07T07:06:22+08:00"
+  },
+  {
+   "id": "2026-11-06-arb-cayman-iraq-telecom-barzani-appeal-barred",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "iraq-telecom-v-korek",
+   "jurisdiction": "開曼群島",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-06",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "開曼群島法院以延宕逾兩年為由，不准 Sirwan Barzani 就 17 億美元 ICC 判斷之執行裁定提起上訴",
+   "shortTitle": "開曼法院不准 Barzani 上訴阻擋 ICC 判斷執行",
+   "point": "對執行命令的挑戰拖延兩年以上，17 億美元伊拉克電信判斷執行續行",
+   "titleOriginal": "Cayman court bars appeal over billion-dollar Iraqi telecoms award (GAR, 6 November 2026); Iraq Telecom Ltd v. Korek Telecom Company LLC and Sirwan Saber Mustafa (Barzani), ICC Final Award of 20 March 2023",
+   "caseRef": "",
+   "tldr": "Agility 與 Orange 合資的 Iraq Telecom，在 ICC 仲裁中贏得對伊拉克庫德區電信業者 Korek 及其董事長 Sirwan Barzani 約 16.5 億美元的判斷，並在開曼群島聲請執行。據 GAR 報導，開曼法院認為 Barzani 等了兩年多才挑戰執行命令，不准他上訴。",
+   "memo": "依 Global Arbitration Review 2026 年 11 月 6 日報導，開曼群島法院拒絕准許伊拉克庫德區人士 Sirwan Barzani 就承認執行 Iraq Telecom Limited 所獲 ICC 仲裁判斷（2023 年 3 月 20 日作成，判賠損害、利息及費用合計逾 16.5 億美元，報導稱約 17 億美元）之命令提起上訴，理由為其遲至該命令作成逾兩年後始提出挑戰。",
+   "context": "Iraq Telecom Limited（IT Ltd.，Agility 與 Orange 之合資公司）曾投資逾 8 億美元取得伊拉克庫德區電信業者 Korek Telecom 之權益。IT Ltd. 主張 Korek 及其董事長 Sirwan Saber Mustafa（Barzani）賄賂伊拉克通訊及媒體委員會官員，使其持股遭無償剝奪，並有自我交易、挪用公司資產等行為，遂依股東協議提起 ICC 仲裁。\n仲裁庭（Nicholas Fletcher KC 主任仲裁人、J. William Rowley KC、David Joseph KC）於 2023 年 3 月 20 日一致認定被申請人參與貪腐詐欺計畫、違反股東協議，判賠 International Holdings Limited 損害 10.12 億美元及利息 3.17 億美元、IT Ltd. 損害 2.288 億美元及利息 7,170 萬美元，另約 2,000 萬美元費用。\n判斷作成後，IT Ltd. 在多個法域聲請執行與保全，包括 2023 年 6 月在開曼群島取得對 Barzani 之凍結令；判斷亦曾在杜拜國際金融中心（DIFC）法院遭挑戰。",
+   "facts": [
+    "ICC 仲裁庭於 2023 年 3 月 20 日作成終局判斷，總額逾 16.5 億美元。",
+    "Iraq Telecom 於 2023 年在開曼群島取得對 Barzani 之凍結令，以協助執行判斷。",
+    "據 GAR 報導，Barzani 在開曼法院執行命令作成逾兩年後始提出挑戰，法院因此不准其上訴。"
+   ],
+   "issues": [
+    "逾越期限對承認執行仲裁判斷之命令提起上訴，法院是否應准予延長期間或許可上訴。"
+   ],
+   "holding": "據 GAR 報導，開曼群島法院以 Barzani 遲延兩年以上始挑戰執行命令為由，不准其提起上訴。裁判之法院層級、日期及其餘理由，報導公開部分未載明。",
+   "significance": "該判斷在開曼群島之執行程序得以續行；本案在多個法域仍有執行與保全程序進行中。",
+   "editorNote": "本網頁助理 註：本則依 GAR 2026 年 11 月 6 日報導之標題與導言撰寫，全文須訂閱，尚未取得開曼法院裁判原文，故裁判日期、法院層級及完整理由從缺。判斷內容依 White & Case 2023 年 3 月 23 日新聞稿；判斷金額報導稱 17 億美元、新聞稿稱逾 16.5 億美元，差異可能來自判斷後利息。仲裁地未見來源載明。",
+   "tags": [
+    "承認與執行",
+    "ICC",
+    "開曼群島",
+    "伊拉克",
+    "上訴期間",
+    "貪腐",
+    "電信"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "GAR 報導",
+     "url": "https://globalarbitrationreview.com/article/cayman-court-bars-appeal-over-billion-dollar-iraqi-telecoms-award",
+     "official": false
+    },
+    {
+     "label": "White & Case 新聞稿（2023 年判斷）",
+     "url": "https://www.whitecase.com/news/press-release/white-case-secures-us165-billion-arbitration-award-iraq-telecom-limited",
+     "official": false
+    },
+    {
+     "label": "ICC 終局判斷（Jus Mundi）",
+     "url": "https://jusmundi.com/en/document/decision/en-iraq-telecom-limited-and-international-holdings-limited-v-korek-telecom-company-llc-korek-international-management-ltd-and-sirwan-saber-mustafa-award-monday-20th-march-2023",
+     "official": false
+    },
+    {
+     "label": "GAR 報導（2023 年開曼凍結令）",
+     "url": "https://globalarbitrationreview.com/article/cayman-court-injuncts-iraqi-businessman-in-telecoms-feud",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T23:05:19+08:00"
+  },
+  {
+   "id": "2026-11-06-arb-dj-subsea-cables-disruption",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-11-06",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Wesley Pydiamah、James McKenzie、Gillian Forsyth、Samuel Orme（Eversheds Sutherland）",
+   "title": "海底電纜在動盪水域受損時，業者應同時盤點整條契約鏈的救濟與對國家的條約請求",
+   "shortTitle": "海底電纜受損，誰來承擔修復風險？",
+   "point": "作者認為契約落空難以成立，不可抗力等條款才是主要救濟，條約求償則門檻甚高",
+   "titleOriginal": "No Quick Fix: Contractual and Treaty Rights When Subsea Cables Are Disrupted",
+   "caseRef": "",
+   "tldr": "戰爭、制裁與海盜讓重要航道的海底電纜維修變得危險又昂貴。作者提醒，業者難以主張契約「落空」而免責，應依不可抗力、戰爭風險等條款主張權利；若損害可歸責於國家，也可考慮投資條約仲裁，但要證明的事項很多。",
+   "memo": "Wesley Pydiamah 等人於 Daily Jus 撰文指出，海底電纜於地緣衝突水域受損時，維修船須長時間停留現場，風險與成本遠高於一般航運；因船舶仍可航行且契約多已分配相關風險，主張契約落空不易成立，當事人應依不可抗力、戰爭風險、法令變更及變更條款請求展延或費用；如損害可歸責於國家，電纜業者得考慮依投資條約提起仲裁，惟須克服投資人身分、領域範圍、歸屬及因果關係等要件。",
+   "context": "海底電纜承載多數跨洲數據，AI 帶動需求增加。近年武裝衝突、制裁、海盜及安全顧慮使海上咽喉要道頻生干擾，電纜受損後的修復亦受影響。",
+   "facts": [
+    "修復電纜時，維修船須在斷點附近停留數日，面臨保險費上升、船員危險加給及支援船隻短缺等問題。",
+    "一次斷線可能同時牽動維護協議、傭船或海事服務契約、登陸及接取安排與下游服務契約。"
+   ],
+   "issues": [
+    "契約落空（frustration）能否作為維修延遲或不履行之抗辯。",
+    "不可抗力、戰爭風險、法令變更等明示條款之適用範圍。",
+    "電纜業者得否依雙邊或多邊投資條約，對造成損害之國家提起 ICSID 或 UNCITRAL 仲裁。"
+   ],
+   "holding": "・作者指出，維修作業須長時間定點停留，與船舶通過航道之風險性質不同。\n・同一次斷線涉及多層契約，一份契約下之免責未必延伸至其他契約。\n・只要船舶仍能在附近水域航行，履行即難謂不能；現代契約多已分配此類風險，暫時性情況亦使落空更難成立。\n・向當局支付未經授權之通行或安全費用，須考量制裁及反賄賂法規。\n・僱主保護船員安全之義務，可能使停止或拒絕作業具正當性。\n・應檢視不可抗力、戰爭風險、安全、法令變更、許可及變更條款，保險費急遽上升或構成重大不利變更。\n・對國家求償須證明投資人身分、於地主國「領域」內之受保護投資（條約對海域是否屬領域規定不一）、仲裁同意、行為可歸屬於國家（私人船舶或「影子船隊」較難歸屬）、違反充分保護與安全或徵收，以及因果關係。",
+   "significance": "作者結論：契約機制是主要救濟途徑，條約求償可行但在管轄、領域、歸屬及因果關係上障礙甚多；業者應及早盤點整個專案契約鏈並保全通知、證據及減損措施。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：本文兼論契約與投資條約救濟，以契約部分為主，故列入商務仲裁。",
+   "tags": [
+    "海底電纜",
+    "不可抗力",
+    "契約落空",
+    "投資仲裁",
+    "充分保護與安全",
+    "歸屬",
+    "制裁"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Daily Jus 文章",
+     "url": "https://dailyjus.com/legal-insights/2026/11/no-quick-fix",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-07T23:05:19+08:00"
   }
  ],
  "agenda": [
@@ -7214,6 +7332,18 @@
    "caseRef": "ICDR Case No. 1-20-0015-3123; No. 1:25-cv-01099 (D.D.C.); No. 26-7189 (D.C. Cir.)",
    "summary": "公路特許公司就 4G 特許契約停工損失對 ANI 取得約 1.3 兆哥倫比亞披索之 ICDR 判斷，並在美國聲請承認。",
    "status": "地院 2026 年 11 月 5 日拒絕暫停承認程序；ANI 對管轄裁定之上訴仍繫屬於巡迴上訴法院。"
+  },
+  {
+   "id": "iraq-telecom-v-korek",
+   "type": "案件",
+   "court": "COURT",
+   "field": "commercial",
+   "forum": "ICC；開曼群島法院等",
+   "name": "Iraq Telecom 訴 Korek、Barzani（ICC 判斷之執行）",
+   "nameOriginal": "Iraq Telecom Ltd and International Holdings Ltd v. Korek Telecom Company LLC, Korek International Management Ltd and Sirwan Saber Mustafa (Barzani)",
+   "caseRef": "",
+   "summary": "Agility 與 Orange 合資之 Iraq Telecom 依股東協議提起 ICC 仲裁，2023 年獲判 Korek 及其董事長 Barzani 賠償逾 16.5 億美元，並在多個法域聲請執行。",
+   "status": "據 2026 年 11 月 6 日報導，開曼群島法院以延宕逾兩年為由不准 Barzani 就執行命令上訴，執行程序續行。"
   }
  ]
 }
