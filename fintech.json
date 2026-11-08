@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-08T07:38:39+08:00",
-  "lastRunLocal": "2026-11-08 07:38",
+  "lastRun": "2026-11-08T23:29:41+08:00",
+  "lastRunLocal": "2026-11-08 23:29",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：亞太與其他 1（泰國執法案件 1）"
+  "lastRunNote": "新增 1 則：美國 1（政策動態 1）"
  },
  "items": [
   {
@@ -1793,7 +1793,8 @@
    ],
    "related": [
     "2026-10-05-fin-cftc-anprm-ctx-cam",
-    "2026-10-05-fin-wilmerhale-sec-innovation-exemption"
+    "2026-10-05-fin-wilmerhale-sec-innovation-exemption",
+    "2026-11-05-fin-sec-broker-dealer-crypto-rule-oira"
    ],
    "sources": [
     {
@@ -6175,6 +6176,71 @@
     }
    ],
    "addedAt": "2026-11-08T07:38:39+08:00"
+  },
+  {
+   "id": "2026-11-05-fin-sec-broker-dealer-crypto-rule-oira",
+   "court": "SEC",
+   "kind": "政策動態",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "CoinGape",
+   "outletCode": "CG",
+   "date": "2026-11-05",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "SEC 券商加密資產財務責任規則修正草案送交白宮資訊及法規事務辦公室審查",
+   "shortTitle": "SEC 券商加密規則草案送白宮審查",
+   "point": "擬修淨資本、客戶資產保護與帳簿紀錄規則，全文與公布日期未定",
+   "titleOriginal": "White House Reviews SEC Proposal to Ease Regulatory Requirements for Crypto Brokers",
+   "caseRef": "RIN 3235-AN48",
+   "tldr": "依媒體報導，美國證券交易委員會（SEC）一份針對證券經紀自營商（券商）處理加密資產的規則修正草案，已送到白宮負責審查重大法規的辦公室。草案內容尚未公開，送審不代表現行規定已改變，但代表 SEC 正式提案可能不遠。",
+   "memo": "依 CoinGape 2026 年 11 月 5 日引述 Bloomberg 之報導，美國證券交易委員會（SEC）就證券經紀自營商財務責任規則之加密資產相關修正草案（RIN 3235-AN48），已送交白宮管理及預算局資訊及法規事務辦公室（OIRA）審查，範圍涉及淨資本規則（Rule 15c3-1）、客戶資產保護規則（Rule 15c3-3）及帳簿紀錄保存規則（Rules 17a-3、17a-4）；OIRA 將其列為具經濟重要性之提案階段規則，審查未設法定期限，草案全文及公布日期均尚未揭露。",
+   "context": "美國總統行政命令要求具重要性之聯邦法規草案於公布前送 OIRA 審查；SEC 自 2026 年起陸續將加密資產相關規則送審，包括 2026 年 10 月 1 日提出之投資顧問加密資產保管規則草案。\n券商處理加密資產時，淨資本計算與客戶資產保護（如何保管、如何隔離客戶資產）一向是業者主張需要調整之處；SEC 交易及市場部先前已以員工聲明與常見問答方式處理部分問題。",
+   "facts": [
+    "依報導，OIRA 收件紀錄之規則識別號為 RIN 3235-AN48，分類為具經濟重要性、提案階段。",
+    "報導指草案涉及 Rule 15c3-1、Rule 15c3-3 及 Rules 17a-3、17a-4 之修正。",
+    "OIRA 審查未設法定期限，草案全文與公布日期尚未公布。",
+    "依報導，SEC 發言人向 Bloomberg 表示，委員會預期將考量適合加密市場之規則。"
+   ],
+   "issues": [
+    "加密資產在券商淨資本計算中應如何扣減或折算。",
+    "券商保管客戶加密資產時，客戶資產保護規則之「實質持有或控制」應如何認定。",
+    "正式提案與國會市場結構立法（CLARITY Act）進度之互動。"
+   ],
+   "holding": "・依報導，草案擬修正券商淨資本規則（Rule 15c3-1），處理加密資產之資本計算。\n・擬修正客戶資產保護規則（Rule 15c3-3），處理客戶加密資產之保管與保護。\n・擬修正帳簿紀錄與保存規則（Rules 17a-3、17a-4），納入加密資產相關紀錄。\n・具體條文內容尚未公開，部分媒體標題所稱「放寬」未見具體內容支持。",
+   "significance": "OIRA 審查通常為 SEC 正式公布提案之前一步；若通過審查，SEC 將以委員會表決公布草案並開放意見徵詢。值得留意其與已提出之投資顧問加密資產保管規則草案（意見徵詢至 12 月 7 日）如何銜接，以及國會改選後市場結構立法走向。",
+   "editorNote": "本網頁助理 註：本則依媒體報導撰寫，草案全文尚未公開，送審日期報導未載明；Bloomberg 原報導需訂閱，未能開啟，內容取自 CoinGape 及 PrimeXBT 轉載。部分報導標題稱草案「放寬」券商規範，惟報導本身未提出具體內容。",
+   "tags": [
+    "加密資產",
+    "證券經紀自營商",
+    "淨資本",
+    "客戶資產保護",
+    "OIRA",
+    "SEC",
+    "美國"
+   ],
+   "related": [
+    "2026-10-01-fin-sec-crypto-custody-proposal"
+   ],
+   "sources": [
+    {
+     "label": "CoinGape 報導",
+     "url": "https://coingape.com/white-house-reviews-sec-proposal-to-ease-regulatory-requirements-for-crypto-brokers/",
+     "official": false
+    },
+    {
+     "label": "PrimeXBT 轉載報導",
+     "url": "https://primexbt.com/news/white-house-reviews-sec-proposal-on-crypto-broker-dealer-financial-rules/",
+     "official": false
+    },
+    {
+     "label": "Bloomberg 報導（需訂閱）",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-05/white-house-reviewing-sec-s-proposed-crypto-broker-rule-changes",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-08T23:29:41+08:00"
   }
  ],
  "agenda": [
@@ -6540,7 +6606,7 @@
    "nameOriginal": "US crypto market structure (CLARITY Act; SEC and CFTC rulemaking)",
    "caseRef": "H.R. 3633",
    "summary": "眾議院 2025 年 7 月通過 CLARITY Act，參議院 2026 年 9 月 15 日未能終結辯論；SEC 與 CFTC 改以各自的規則制定與豁免推進加密資產市場監理。",
-   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 已有 26 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。"
+   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 已有 26 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。依 11 月 5 日報導，SEC 券商加密資產財務責任規則修正草案（RIN 3235-AN48）已送 OIRA 審查。"
   },
   {
    "id": "icba-v-occ-trust-charters",
