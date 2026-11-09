@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-08T23:29:41+08:00",
-  "lastRunLocal": "2026-11-08 23:29",
+  "lastRun": "2026-11-10T07:43:42+08:00",
+  "lastRunLocal": "2026-11-10 07:43",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：美國 1（政策動態 1）"
+  "lastRunNote": "新增 6 則：美國 4（政策動態 3、執法案件 1）、亞太與其他 2（監理指引 1、政策動態 1）"
  },
  "items": [
   {
@@ -1674,7 +1674,8 @@
    ],
    "related": [
     "2026-10-05-fin-fincen-withdraws-wallet-mixing-rules",
-    "2026-11-06-fin-fincen-mexc-section-9714-order"
+    "2026-11-06-fin-fincen-mexc-section-9714-order",
+    "2026-11-06-fin-ofac-canadian-msb-iran-crypto"
    ],
    "sources": [
     {
@@ -2214,7 +2215,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-02-fin-icba-sues-occ-trust-charters"
+    "2026-10-02-fin-icba-sues-occ-trust-charters",
+    "2026-11-09-fin-coinbase-occ-final-trust-charter"
    ],
    "sources": [
     {
@@ -5014,7 +5016,9 @@
     "美國國會",
     "美國"
    ],
-   "related": [],
+   "related": [
+    "2026-11-09-fin-warren-senate-banking-crypto-agenda"
+   ],
    "sources": [
     {
      "label": "The Block 報導（國會改選對加密產業影響）",
@@ -5893,7 +5897,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-02-fin-ofac-a7-a7a5-designation"
+    "2026-10-02-fin-ofac-a7-a7a5-designation",
+    "2026-11-06-fin-ofac-canadian-msb-iran-crypto"
    ],
    "sources": [
     {
@@ -6241,6 +6246,357 @@
     }
    ],
    "addedAt": "2026-11-08T23:29:41+08:00"
+  },
+  {
+   "id": "2026-11-09-fin-coinbase-occ-final-trust-charter",
+   "court": "OCC",
+   "kind": "政策動態",
+   "caseId": "icba-v-occ-trust-charters",
+   "jurisdiction": "美國",
+   "outlet": "Decrypt",
+   "outletCode": "DECRYPT",
+   "date": "2026-11-09",
+   "eventDate": "2026-11-06",
+   "importance": 2,
+   "author": "",
+   "title": "OCC 最終核准 Coinbase 設立全國性信託公司，其機構客戶加密資產保管業務改受聯邦監理",
+   "shortTitle": "OCC 最終核准 Coinbase 信託銀行",
+   "point": "繼 Circle、Ripple 後再一家，4 月獲附條件核准後約七個月定案",
+   "titleOriginal": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+   "caseRef": "",
+   "tldr": "美國貨幣監理署（OCC）最終核准 Coinbase 設立「Coinbase National Trust Company」，讓 Coinbase 的機構客戶加密資產保管業務從紐約州監理轉到聯邦監理之下。Coinbase 表示不會變成收受零售存款的商業銀行。",
+   "memo": "依 Decrypt 2026 年 11 月 9 日報導，美國貨幣監理署（OCC）已最終核准 Coinbase 設立全國性信託公司 Coinbase National Trust Company，Coinbase 稱核准時間為報導前一週之週五；該行前於 2026 年 4 月取得附條件核准，將承接其機構客戶數位資產保管業務，Coinbase 並表示不收受零售存款、不從事部分準備銀行業務。OCC 此前已最終核准 Circle 及 Ripple 之信託銀行，相關核照之合法性現由美國獨立社區銀行家協會（ICBA）於聯邦法院爭訟中。",
+   "context": "OCC 自 2025 年底起陸續核發全國性信託銀行執照給加密資產業者，Circle 於 2026 年 7 月、Ripple 於 10 月 26 日取得最終核准；Block 與 Kraken 母公司 Payward 的申請仍待審，與 World Liberty Financial 相關的信託公司則於 8 月取得附條件核准。\n美國獨立社區銀行家協會（ICBA）於 2026 年 10 月 2 日起訴 OCC，主張不從事受託業務的信託銀行執照逾越《國家銀行法》授權；參議員 Warren 亦主張相關核准違法。\nCoinbase 自 2018 年起以紐約州有限目的信託公司（Coinbase Custody Trust Company）提供保管服務，並持有紐約州 BitLicense。",
+   "facts": [
+    "依 Decrypt 報導，Coinbase 表示 OCC 於報導前一週的週五（即 2026 年 11 月 6 日）最終核准其申請。",
+    "OCC 於 2026 年 4 月給予附條件核准。",
+    "新設機構名為 Coinbase National Trust Company，承接機構客戶加密資產保管業務。",
+    "Coinbase 於附條件核准時表示，不會成為商業銀行，不收受零售存款，也不從事部分準備銀行業務。",
+    "依 FinTech Global 報導，Coinbase 仍維持紐約州金融服務署（NYDFS）監理的既有信託公司。"
+   ],
+   "issues": [
+    "不從事傳統受託業務的全國性信託銀行執照是否符合《國家銀行法》授權（ICBA 訴訟爭點）？",
+    "保管業務由州監理移轉至聯邦監理後，與州法監理如何分工？"
+   ],
+   "holding": "・OCC 最終核准 Coinbase National Trust Company 之全國性信託銀行執照。\n・業務範圍：機構客戶數位資產保管，納入聯邦監理架構。\n・Coinbase 表示不收受零售存款、不從事部分準備銀行業務。",
+   "significance": "大型加密交易所取得聯邦信託銀行執照，使 OCC 的信託執照路線再擴大，也讓 ICBA 訴訟的結果對更多業者具影響。後續可觀察 Block、Payward 等申請案，以及法院對 ICBA 訴訟的處理。",
+   "editorNote": "本網頁助理 註：OCC 未見就本件發布新聞稿；核准事實與時間依 Decrypt 引述 Coinbase 之說法，eventDate 2026-11-06 係由報導所稱「上週五」（報導日為 2026 年 11 月 9 日週一）推算。Coinbase 官方部落格頁面本網頁助理未能開啟。",
+   "tags": [
+    "信託執照",
+    "加密資產",
+    "保管",
+    "OCC",
+    "Coinbase",
+    "美國"
+   ],
+   "related": [
+    "2026-10-26-fin-occ-ripple-trust-bank-final"
+   ],
+   "sources": [
+    {
+     "label": "Decrypt 報導",
+     "url": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
+     "official": false
+    },
+    {
+     "label": "FinTech Global 報導",
+     "url": "https://fintech.global/2026/11/09/coinbase-secures-occ-charter-to-expand-federal-custody/",
+     "official": false
+    },
+    {
+     "label": "Payment Expert 報導",
+     "url": "https://paymentexpert.com/2026/11/09/coinbase-national-trust-company/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-10T07:43:42+08:00"
+  },
+  {
+   "id": "2026-11-06-fin-ofac-canadian-msb-iran-crypto",
+   "court": "TREAS",
+   "kind": "執法案件",
+   "caseId": "",
+   "jurisdiction": "美國、加拿大、伊朗",
+   "outlet": "美國財政部",
+   "outletCode": "TREAS",
+   "date": "2026-11-06",
+   "eventDate": "2026-11-06",
+   "importance": 2,
+   "author": "",
+   "title": "美國財政部依伊朗數位資產制裁命令，制裁八家為伊朗兌換加密資產的加拿大貨幣服務業者",
+   "shortTitle": "美財政部制裁八家加拿大加密兌換商",
+   "point": "依 E.O. 13902 制裁，指其與 Nobitex 等受制裁伊朗交易所往來",
+   "titleOriginal": "Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime",
+   "caseRef": "Press Release SB0686",
+   "tldr": "美國財政部外國資產控制辦公室（OFAC）制裁八家位於加拿大的貨幣兌換業者，指它們把伊朗里亞爾換成加密資產、協助伊朗進行跨境交易，部分地址還與伊朗革命衛隊、恐怖主義及毒品洗錢有關。",
+   "memo": "美國財政部外國資產控制辦公室（OFAC）於 2026 年 11 月 6 日依第 13902 號行政命令（針對伊朗經濟部門，含數位資產部門），將 Million Exchange、Amin Exchange、Farah Exchange、Cryptoyal 等八家加拿大貨幣服務業者列入制裁名單，指其以加密資產兌換伊朗里亞爾並與 Nobitex、Wallex 等受制裁伊朗交易所往來，部分地址涉及伊朗革命衛隊、恐怖主義及毒品洗錢資金；本案係與 FinCEN、加拿大金融交易及報告分析中心（FINTRAC）及美國緝毒局協調辦理。",
+   "context": "美國財政部「Operation Economic Outcast」系列行動將數位資產列為伊朗可受制裁的經濟部門，先前已制裁多家伊朗加密交易所。\n第 13902 號行政命令授權對伊朗特定經濟部門的參與者實施制裁。",
+   "facts": [
+    "OFAC 於 2026 年 11 月 6 日指定八家加拿大（安大略省、卑詩省）貨幣服務業者。",
+    "財政部稱其相關地址與受制裁伊朗交易所 Nobitex、Wallex、Ramzinex、Bitpin、Aban Tether、Shelbit 往來。",
+    "部分業者據稱向與伊朗革命衛隊或恐怖主義相關地址轉出金額達數十萬美元等值，並為毒梟 Ryan Wedding 移轉數百萬美元數位資產。",
+    "行動與 FinCEN、加拿大 FINTRAC 及美國緝毒局協調。"
+   ],
+   "issues": [
+    "美國次級制裁對第三國（加拿大）持牌或未持牌兌換業者的效力與合規影響。",
+    "交易所與金融機構如何以鏈上分析辨識與受制裁伊朗交易所往來的對手方？"
+   ],
+   "holding": "・法源：第 13902 號行政命令（伊朗數位資產部門）。\n・被指定者：Million Exchange、Amin Exchange（含關係企業 Top PC Technician）、NIA Nations Currency、Farah Exchange、CCC Inc.、Cryptoyal、Darvish Exchange 等八家。\n・效果：在美國管轄範圍內之財產遭凍結，美國人原則上不得與其交易。",
+   "significance": "制裁對象延伸到第三國的小型加密兌換商，顯示美方以數位資產為伊朗制裁重點部門。與這些業者或相關地址往來的交易所、支付業者須立即篩查曝險。",
+   "editorNote": "本網頁助理 註：本則依財政部新聞稿；相關數位資產地址列於 OFAC 制裁名單公告，本網頁助理未逐一核對。",
+   "tags": [
+    "制裁",
+    "洗錢防制",
+    "加密資產",
+    "OFAC",
+    "伊朗",
+    "加拿大",
+    "美國"
+   ],
+   "related": [
+    "2026-10-02-fin-ofac-a7-a7a5-designation",
+    "2026-11-06-fin-fincen-mexc-section-9714-order"
+   ],
+   "sources": [
+    {
+     "label": "美國財政部新聞稿（SB0686）",
+     "url": "https://home.treasury.gov/news/press-releases/sb0686",
+     "official": true
+    },
+    {
+     "label": "Al Jazeera 報導",
+     "url": "https://aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-10T07:43:42+08:00"
+  },
+  {
+   "id": "2026-11-09-fin-dol-401k-alternatives-final-rule-oira",
+   "court": "US",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "Unchained",
+   "outletCode": "UNCH",
+   "date": "2026-11-09",
+   "eventDate": "2026-11-05",
+   "importance": 1,
+   "author": "",
+   "title": "美國勞工部將 401(k) 另類投資（含數位資產）最終規則送白宮資訊及法規事務辦公室審查",
+   "shortTitle": "勞工部 401(k) 含加密投資規則送審",
+   "point": "OIRA 11 月 5 日收件，屬重大經濟影響規則，全文尚未公布",
+   "titleOriginal": "Labor Department Sends Final 401(k) Rule on Crypto, Other Alternatives to White House",
+   "caseRef": "RIN 1210-AC38",
+   "tldr": "美國勞工部把允許 401(k) 退休計畫納入另類投資（包括投資數位資產的基金）的最終規則送交白宮審查。規則重點是：受託人若依六項因素審慎挑選投資選項，其判斷將被推定為合理。",
+   "memo": "依 Unchained 2026 年 11 月 9 日報導，美國勞工部已將 401(k) 計畫另類投資最終規則（RIN 1210-AC38）送交白宮資訊及法規事務辦公室（OIRA）審查，OIRA 於 2026 年 11 月 5 日登錄，列為重大經濟影響規則，最終條文尚未公開。依 2026 年 3 月 31 日刊登之規則草案，計畫受託人如就績效、費用、流動性、評價、比較基準及複雜度六項因素審酌選定投資選項，其判斷推定為合理；草案未特別針對加密資產，但沿用第 14330 號行政命令所列含數位資產之另類資產範圍。",
+   "context": "川普總統於 2025 年 8 月 7 日簽署第 14330 號行政命令，要求勞工部擴大 401(k) 計畫投資另類資產的管道；勞工部已於 2025 年 5 月撤回 2022 年要求受託人對加密資產「極度審慎」的指引。\n規則草案於 2026 年 3 月 31 日刊登聯邦公報，意見期間至 6 月 1 日；參議員 Sanders、Warren 與眾議員 Scott 曾致函要求撤回。",
+   "facts": [
+    "OIRA 於 2026 年 11 月 5 日登錄勞工部最終規則（RIN 1210-AC38），列為重大經濟影響規則。",
+    "依報導，至 11 月 9 日審查仍在進行，最終條文尚未公布。",
+    "草案設定六項審酌因素：績效、費用、流動性、評價、比較基準、複雜度。",
+    "草案未單獨點名加密資產，沿用行政命令所列包含投資數位資產之主動管理工具在內的另類資產清單。"
+   ],
+   "issues": [
+    "受託人判斷「推定合理」的安全港，是否會降低退休計畫納入加密資產基金的訴訟風險？",
+    "最終規則是否對數位資產另設揭露或審酌要求？"
+   ],
+   "holding": "・依草案：受託人依六項因素審酌另類投資選項者，其判斷推定合理。\n・適用範圍沿用第 14330 號行政命令所列另類資產，含投資數位資產之主動管理工具。\n・最終規則已送 OIRA 審查，條文待公布。",
+   "significance": "規則一旦公布，將為 401(k) 計畫納入加密資產相關基金提供較明確的受託責任框架。需觀察 OIRA 審查完成時間、最終條文與草案的差異，以及國會民主黨的反應。",
+   "editorNote": "本網頁助理 註：本則依 Unchained 報導；OIRA 審查資料與勞工部最終條文本網頁助理未能直接查閱。",
+   "tags": [
+    "加密資產",
+    "退休金",
+    "401(k)",
+    "勞工部",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Unchained 報導",
+     "url": "https://unchainedcrypto.com/labor-department-sends-final-401k-rule-on-crypto-other-alternatives-to-white-house/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-10T07:43:42+08:00"
+  },
+  {
+   "id": "2026-11-09-fin-warren-senate-banking-crypto-agenda",
+   "court": "US",
+   "kind": "政策動態",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-09",
+   "eventDate": "2026-11-09",
+   "importance": 2,
+   "author": "",
+   "title": "Warren 將任參議院銀行委員會主席，幕僚稱將嚴查預測市場與川普家族加密事業；眾院民主黨傳擬另提市場結構法案",
+   "shortTitle": "Warren 將任銀行委員會主席、矛頭指向加密",
+   "point": "幕僚稱優先監督預測市場與川普家族加密事業，CLARITY Act 恐須改寫",
+   "titleOriginal": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
+   "caseRef": "",
+   "tldr": "民主黨在期中選舉拿下參議院後，Elizabeth Warren 預計明年 1 月接任參議院銀行委員會主席。她的幕僚表示將把預測市場與川普家族的加密事業列為監督重點；另有報導指眾議院民主黨打算以強化 SEC 角色的方向另提市場結構法案。",
+   "memo": "依 The Block 2026 年 11 月 9 日報導，民主黨於期中選舉取得參議院多數後，參議員 Warren 預計於 2027 年 1 月接任參議院銀行委員會主席，其委員會幕僚表示將以可負擔性、人工智慧、預測市場、潛在金融危機及問責為優先，並稱將終結預測市場「內線人士獲利」之監理空白、監督川普家族加密事業。另依 PYMNTS 同日引述 Decrypt 報導，眾議院民主黨擬將 Waters 眾議員之加密投資人權利法案擴充為市場結構法案，強化 SEC 並限縮 CFTC 角色，惟尚非定案。",
+   "context": "CLARITY Act 等加密市場結構法案今年在參議院停滯；11 月初期中選舉民主黨贏得國會兩院後，產業界普遍認為現行版本難以通過。\nWarren 長期批評加密產業，曾要求調查川普迷因幣與 World Liberty Financial 相關利益衝突，並質疑 Kalshi、Polymarket 的內線交易防範。",
+   "facts": [
+    "依 The Block 報導，Warren 幕僚於 2026 年 11 月 9 日表示，其優先事項為可負擔性、人工智慧、預測市場、潛在金融危機與問責。",
+    "幕僚表示大型科技公司執行長、政府官員、川普家族加密事業與華爾街主管應「保存文件並準備回答困難問題」。",
+    "依 The Block 報導，參議院農業委員會與眾議院金融服務委員會預期分別由 Sherrod Brown 與 Maxine Waters 主導。",
+    "依 PYMNTS 引述 Decrypt 報導，眾議院民主黨擬擴充 Waters 的加密投資人權利法案為市場結構法案，強化 SEC、限縮 CFTC 角色。",
+    "GSR 研究副總 Carlos Guzman 認為任何協議都需要更強的消費者保護與利益衝突條款。"
+   ],
+   "issues": [
+    "新國會下，加密市場結構立法的主管機關分工（SEC 或 CFTC）是否將改向？",
+    "國會監督能否影響 SEC、CFTC 現行以行政規則推動的加密與預測市場政策？"
+   ],
+   "holding": "・Warren 幕僚：預測市場與川普家族加密事業為監督重點，欲終結「無法紀」的預測市場監理狀態。\n・依報導：眾院民主黨擬以 Waters 法案為基礎另提市場結構法案，強化 SEC 角色。\n・市場評論：CLARITY Act 現行版本前景轉淡，但兩黨仍有合作空間。",
+   "significance": "新國會將於 2027 年 1 月就任，加密立法方向與監督強度可能大幅改變；需觀察委員會主席正式確定、聽證會安排與民主黨版本法案內容。",
+   "editorNote": "本網頁助理 註：Warren 優先事項依 The Block 引述其委員會幕僚之說法，非 Warren 本人正式聲明；眾院民主黨法案規劃係 PYMNTS 引述 Decrypt 及記者 Eleanor Terrett 之報導，尚非正式提案。",
+   "tags": [
+    "CLARITY Act",
+    "預測市場",
+    "加密資產",
+    "參議院銀行委員會",
+    "國會",
+    "美國"
+   ],
+   "related": [
+    "2026-11-04-fin-us-midterms-democratic-sweep-crypto"
+   ],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
+     "official": false
+    },
+    {
+     "label": "PYMNTS 報導",
+     "url": "https://www.pymnts.com/cryptocurrency/2026/clarity-act-faces-rewrite-but-retains-bipartisan-opening/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-10T07:43:42+08:00"
+  },
+  {
+   "id": "2026-11-06-fin-afm-token-launch-mica-obligations",
+   "court": "OTHER",
+   "kind": "監理指引",
+   "caseId": "",
+   "jurisdiction": "荷蘭",
+   "outlet": "Accountant.nl",
+   "outletCode": "ACCNL",
+   "date": "2026-11-06",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "荷蘭金融市場管理局提醒代幣與迷因幣發行人遵守 MiCA 公開發行義務",
+   "shortTitle": "荷蘭 AFM 提醒迷因幣發行須守 MiCA",
+   "point": "限法人發行、原則須通知並公布白皮書，廣告不得誤導",
+   "titleOriginal": "AFM wijst aanbieders van crypto op Europese regels",
+   "caseRef": "",
+   "tldr": "荷蘭金融市場管理局（AFM）提醒：雖然在網路平台上幾分鐘就能做出一枚代幣或迷因幣，但向大眾發行仍要遵守歐盟 MiCA 規則，包括只能由法人發行、原則上要準備並公布白皮書，以及廣告必須清楚不誤導。",
+   "memo": "依 Accountant.nl 2026 年 11 月 6 日報導，荷蘭金融市場管理局（AFM）於 2026 年 11 月發布提醒，指出向公眾發行代幣或迷因幣之人應遵守歐盟《加密資產市場規則》（MiCA）：加密資產僅得由法人向公眾發行，原則上應撰擬、通知並公布白皮書，網站及社群媒體廣告應正確、清楚、不具誤導性並與白皮書一致；違反者 AFM 得予警告、指示或裁處罰鍰。",
+   "context": "MiCA 第二編規範資產參考代幣與電子貨幣代幣以外之加密資產公開發行，要求發行人為法人、提出白皮書並通知主管機關，且行銷資訊須與白皮書一致。\nAFM 先前已就加密資產服務提供者（CASP）的廣告與資訊揭露發布檢查結果。",
+   "facts": [
+    "AFM 指出，透過線上平台可在數分鐘內建立並發行代幣或迷因幣。",
+    "AFM 稱代幣創作者未必知悉其 MiCA 義務，並強調「門檻低不代表沒有義務」。",
+    "義務包括：限法人發行、原則上須撰擬、通知並公布白皮書、廣告正確清楚不誤導且與白皮書一致。",
+    "AFM 認為迷因幣易生誤導、詐欺與市場濫用。",
+    "違規時 AFM 得發出警告、指示或裁處罰鍰。"
+   ],
+   "issues": [
+    "透過自動化發幣平台發行的迷因幣，「發行人」與「向公眾發行」應如何認定？",
+    "平台本身是否可能因協助發行而負有 MiCA 責任？"
+   ],
+   "holding": "・加密資產僅得由法人向公眾發行。\n・原則上須撰擬、通知並公布白皮書。\n・行銷資訊須正確、清楚、不誤導並與白皮書一致。\n・AFM 得採取警告、指示、罰鍰等措施。",
+   "significance": "監理機關開始把 MiCA 白皮書與行銷規定明確套用到迷因幣與快速發幣平台，其他歐盟會員國可能跟進。從事代幣發行、推廣或提供發幣工具者應檢視是否觸及公開發行義務。",
+   "editorNote": "本網頁助理 註：AFM 原始公告頁面本網頁助理未能開啟，內容依 Accountant.nl 報導及 Global Regulation Tomorrow 2026 年 11 月 9 日貼文標題；AFM 公告確切日期未能確認。",
+   "tags": [
+    "加密資產",
+    "MiCA",
+    "迷因幣",
+    "白皮書",
+    "AFM",
+    "荷蘭",
+    "歐盟"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "AFM 公告頁面",
+     "url": "https://www.afm.nl/nl-nl/sector/actueel/2026/nov/pb-verplichtingen-bij-lanceren-token",
+     "official": true
+    },
+    {
+     "label": "Accountant.nl 報導",
+     "url": "https://www.accountant.nl/nieuws/2026/11/afm-wijst-aanbieders-van-crypto-op-europese-regels/",
+     "official": false
+    },
+    {
+     "label": "Global Regulation Tomorrow 貼文",
+     "url": "https://www.regulationtomorrow.com/2026/11/afm-reminds-the-industry-of-legal-obligations-when-offering-cypto-assets-to-the-public/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-10T07:43:42+08:00"
+  },
+  {
+   "id": "2026-11-08-fin-korea-daba-draft-bank-led-stablecoin",
+   "court": "KR",
+   "kind": "政策動態",
+   "caseId": "kr-digital-asset-basic-act",
+   "jurisdiction": "南韓",
+   "outlet": "Bloomingbit",
+   "outletCode": "BBIT",
+   "date": "2026-11-08",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "依報導南韓政府將於本月公布《數位資產基本法》草案，交易所大股東持股上限與韓元穩定幣銀行主導發行可望保留",
+   "shortTitle": "南韓擬本月公布數位資產基本法草案",
+   "point": "依報導交易所大股東持股上限 15%–20%，韓元穩定幣限銀行主導聯盟",
+   "titleOriginal": "South Korea to Unveil Digital Asset Basic Act Draft This Month; Grace Period Favored for Exchange Ownership Cap",
+   "caseRef": "",
+   "tldr": "根據韓國媒體報導，南韓金融委員會正與相關部會做最後協調，預計本月公布政府版《數位資產基本法》草案。草案可能限制加密交易所大股東持股在 15% 至 20%，並給兩年寬限期；韓元穩定幣則可能只准由銀行主導的聯盟發行。",
+   "memo": "依 Bloomingbit 2026 年 11 月 8 日（韓國時間）報導，南韓金融委員會正與相關機關進行最後協調，預計於本月公布政府版《數位資產基本法》草案；依報導，草案擬比照《資本市場法》另類交易系統標準，將加密資產交易所大股東持股上限訂為 15% 至 20%，並研議給予兩年寬限期，韓元計價穩定幣發行人則預計限於銀行主導之聯盟，惟執政黨部分議員主張開放金融科技業者參與，草案內容於國會審議時仍可能變動。",
+   "context": "《數位資產基本法》為南韓第二階段加密資產立法，涵蓋數位資產發行、流通與穩定幣；國會目前有約十件相關法案待審。金融委員會曾表示目標於 2026 年內完成穩定幣相關立法，並安排國會小組委員會於 11 月審議。\n韓國銀行主張韓元穩定幣應由銀行主導發行，與部分主張開放非銀行參與的意見相左。",
+   "facts": [
+    "依報導，金融委員會已開始與相關機關做最後協調，目標本月公布草案。",
+    "依報導，交易所大股東持股上限可能為 15% 至 20%，比照另類交易系統標準。",
+    "依報導，主管機關研議給予大股東兩年減持寬限期，期內完成者不另處罰。",
+    "依報導，韓元穩定幣發行人預計限於銀行主導聯盟；部分共同民主黨議員主張納入金融科技業者。"
+   ],
+   "issues": [
+    "交易所持股上限對既有大型交易所治理與股權結構的衝擊。",
+    "韓元穩定幣是否限由銀行主導發行，與金融創新及貨幣政策考量如何取捨？"
+   ],
+   "holding": "・依報導之草案方向：交易所大股東持股上限 15%–20%，研議兩年寬限期。\n・韓元穩定幣發行人限銀行主導聯盟（仍有爭議）。\n・政府版草案預計本月公布，再送國會審議。",
+   "significance": "政府版草案若如期公布，將與國會已提出的多件法案併案審議，是南韓穩定幣與交易所治理規範的關鍵一步。需觀察草案正式文本、國會審議時程，以及銀行主導發行模式是否維持。",
+   "editorNote": "本則依媒體報導，所述為草案研議方向，非已公布之政府草案。報導引述未具名政府官員，未指明具體文件。",
+   "tags": [
+    "穩定幣",
+    "加密資產",
+    "數位資產基本法",
+    "金融委員會",
+    "南韓"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Bloomingbit 報導",
+     "url": "https://en.bloomingbit.io/feed/news/123901",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導（9 月金融委員會說明審議時程）",
+     "url": "https://crypto.news/south-korea-targets-november-review-for-second-stage-crypto-legislation/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-10T07:43:42+08:00"
   }
  ],
  "agenda": [
@@ -6606,7 +6962,7 @@
    "nameOriginal": "US crypto market structure (CLARITY Act; SEC and CFTC rulemaking)",
    "caseRef": "H.R. 3633",
    "summary": "眾議院 2025 年 7 月通過 CLARITY Act，參議院 2026 年 9 月 15 日未能終結辯論；SEC 與 CFTC 改以各自的規則制定與豁免推進加密資產市場監理。",
-   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 已有 26 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。依 11 月 5 日報導，SEC 券商加密資產財務責任規則修正草案（RIN 3235-AN48）已送 OIRA 審查。"
+   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 已有 26 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。依 11 月 5 日報導，SEC 券商加密資產財務責任規則修正草案（RIN 3235-AN48）已送 OIRA 審查。依 11 月 9 日報導，Warren 將於 2027 年 1 月任參院銀行委員會主席並以預測市場與川普家族加密事業為監督重點，眾院民主黨擬另提強化 SEC 角色之市場結構法案。"
   },
   {
    "id": "icba-v-occ-trust-charters",
@@ -6617,7 +6973,7 @@
    "nameOriginal": "Independent Community Bankers of America v. Office of the Comptroller of the Currency (D.D.C.)",
    "caseRef": "",
    "summary": "美國獨立社區銀行家協會主張 OCC 核發不從事受託業務之全國性信託銀行執照（多為加密資產業者）逾越《國家銀行法》授權。",
-   "status": "ICBA 於 2026 年 10 月 2 日起訴；OCC 不評論訴訟，並於 10 月 26 日最終核准 Ripple 信託銀行（依 Ripple 公告）。"
+   "status": "ICBA 於 2026 年 10 月 2 日起訴；OCC 不評論訴訟，並續於 10 月 26 日最終核准 Ripple、依報導 11 月 6 日最終核准 Coinbase 之信託銀行。"
   },
   {
    "id": "mica-stablecoin-supervision",
@@ -6783,6 +7139,17 @@
    "caseRef": "",
    "summary": "奈及利亞中央銀行就非證券類虛擬資產及穩定幣建立執照與代幣核准制度，證券類數位資產仍由證券交易委員會監理。",
    "status": "規則依報導於 2026 年 11 月 5 日生效，既有業者須於 30 日內登記、180 日內申請執照。"
+  },
+  {
+   "id": "kr-digital-asset-basic-act",
+   "type": "議題",
+   "court": "KR",
+   "forum": "南韓金融委員會、國會政務委員會",
+   "name": "南韓《數位資產基本法》與韓元穩定幣立法",
+   "nameOriginal": "Digital Asset Basic Act (South Korea)",
+   "caseRef": "",
+   "summary": "南韓第二階段加密資產立法，規範數位資產發行、流通、交易所治理及韓元穩定幣發行人資格。",
+   "status": "依 11 月 8 日報導，政府版草案預計 11 月內公布，擬設交易所大股東持股上限並限銀行主導聯盟發行韓元穩定幣。"
   }
  ],
  "archives": []
