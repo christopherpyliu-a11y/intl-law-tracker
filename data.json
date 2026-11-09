@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-09T06:57:28+08:00",
-  "lastRunLocal": "2026-11-09 06:57",
+  "lastRun": "2026-11-10T07:00:38+08:00",
+  "lastRunLocal": "2026-11-10 07:00",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "本次未發現新動態"
+  "lastRunNote": "新增 2 則：EJIL 評論 1、Opinio Juris 評論 1"
  },
  "items": [
   {
@@ -5394,7 +5394,8 @@
    "addedAt": "2026-11-04T07:00:27+08:00",
    "related": [
     "2026-11-02-icj-judges-election-2026",
-    "2026-11-04-ejil-icj-presidency-election"
+    "2026-11-04-ejil-icj-presidency-election",
+    "2026-11-09-ejil-icj-election-grulac"
    ]
   },
   {
@@ -5750,7 +5751,8 @@
    "outletCode": "EJIL",
    "author": "Noam Morris（牛津大學羅德學者）",
    "related": [
-    "2026-11-03-icj-judges-elected-2026"
+    "2026-11-03-icj-judges-elected-2026",
+    "2026-11-09-ejil-icj-election-grulac"
    ]
   },
   {
@@ -6480,6 +6482,138 @@
     "2026-10-23-icc-duterte-rule68-requests",
     "2026-11-05-icc-duterte-expert-reports-rule68-3"
    ]
+  },
+  {
+   "id": "2026-11-09-ejil-icj-election-grulac",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "icj-election-2026",
+   "date": "2026-11-09",
+   "eventDate": "",
+   "importance": 1,
+   "title": "2026 年國際法院法官改選：作者指出英國重返法院的代價是拉丁美洲及加勒比海集團席次由二減為一，並質疑現行區域分配是否公平",
+   "shortTitle": "國際法院改選：英國重返、拉美失席",
+   "point": "作者指出五常任理事國與西歐席次慣例擠壓其他區域，拉美集團僅餘一席為 80 年來首見",
+   "titleOriginal": "The 2026 ICJ Election: The UK Returns, but Who is Out?",
+   "caseRef": "",
+   "tldr": "11 月 3 日聯合國大會與安理會改選國際法院五名法官，英國籍的 Akande 當選，使法院再度有五個常任理事國的法官。作者分析各輪票數後指出，代價是拉丁美洲及加勒比海國家只剩一名法官（墨西哥籍），這在法院歷史上前所未見；他也質疑以國籍衡量「代表性」是否恰當。",
+   "memo": "Eric Chan（倫敦大學亞非學院）於 EJIL:Talk! 撰文指出，2026 年 11 月 3 日國際法院法官改選結果使英國重獲席次、五常任理事國均有本國籍法官，惟拉丁美洲及加勒比海集團席次由二席減為一席，為法院成立以來首見。作者分析大會與安理會各輪票數，認為在僅十五席之下維持常任理事國及西歐集團之慣例分配，必然壓縮其他區域；並援引《國際法院規約》第 9 條，主張法院整體應反映主要文明形式及法系，形式上之區域代表性攸關主權平等與公正觀感，現行分配對亞洲及非洲亦未盡周延。",
+   "context": "國際法院由 15 名法官組成，每三年改選五名，候選人須同時在聯合國大會及安理會獲得絕對多數始能當選（《國際法院規約》第 10 條）。規約並未規定區域配額，但約自 1970 年起形成非正式慣例，大致依聯合國區域集團分配席次，且五常任理事國通常各有一名本國籍法官。\n2017 年改選時英國籍法官 Greenwood 落選，亞太集團取得第四席，打破慣例；2026 年 11 月 3 日的改選結果則已由本站另則報導（Akande、Alabrune、Lee 當選，Hmoud、Okowa 連任，2027 年 2 月 6 日就任）。",
+   "facts": [
+    "本屆出缺五席：法國籍 Abraham、印度籍 Bhandari、巴西籍 Brant 卸任，約旦籍 Hmoud 與肯亞籍 Okowa 尋求連任。",
+    "第一輪大會投票：Lee 151、Alabrune 146、Akande 129、Okowa 117、Hmoud 106、Paik（韓國）92、Jalloh（獅子山）82、Vázquez-Bermúdez（厄瓜多）73 票等；安理會：Lee、Alabrune 各 13 票，Akande 11、Hmoud 10、Vázquez-Bermúdez 9 票。",
+    "Okowa 在大會過半但在安理會差兩票；Vázquez-Bermúdez 則在安理會過半但大會未過半。",
+    "第二輪後獅子山撤回 Jalloh 並改挺 Okowa，Vázquez-Bermúdez 與 Paik 亦退出；第三輪 Okowa 獲大會 183 票、安理會 13 票當選。",
+    "選後法院有五名西歐及其他國家集團法官，拉丁美洲及加勒比海集團僅餘墨西哥籍 Gómez Robledo 一席。"
+   ],
+   "issues": [
+    "《國際法院規約》第 9 條「代表世界各大文化及各主要法系」之要求，與非正式區域席次慣例之關係。",
+    "五常任理事國本國籍法官慣例對其他區域集團席次之影響。",
+    "以國籍或職業背景衡量法官「代表性」是否恰當，及形式代表性與主權平等、法院正當性之關聯。"
+   ],
+   "holding": "・作者先說明選舉結果：英國籍 Akande 當選使英國重返法院，但同時使拉美集團由兩席降為一席，作者稱之為法院 80 年歷史上的首例。\n・票數分析：作者以第一輪票數推算，安理會至少 8 國同時投給 Lee 與 Hmoud、大會至少 79 張有效票投給兩名以上亞洲候選人，說明亞太集團能維持四席（含岩澤雄司與薛捍勤）；但因不記名投票，這些只是最低值。\n・作者認為，在只有 15 席的情況下，同時維持常任理事國席次與西歐集團的傳統分配，必然限縮其他區域的空間；2017 年英國落選是第一次偏離慣例，2026 年則是以拉美失席為代價的第二次偏離。\n・作者指出拉美失席受到的關注不如 2017 年英國落選，可能因一席看似符合其人口比例；但他強調拉美對國際法學說的貢獻，並以 Cançado Trindade 為例。\n・作者比較人口與國家數：亞洲依人口偏少、非洲依國家數偏少；並引用 Tladi 的研究，說明法官出身會影響個別意見與表決，例如查哥斯群島諮詢意見與核武諮詢意見。\n・作者也質疑國籍是否是衡量代表性的適當標準，例如 Akande 在奈及利亞受教育並曾參與非洲聯盟工作，Okowa 則長年在英國任教；兩名在英國任教的學者同時在院，重演約十年前 Greenwood 與 Crawford 的情形。",
+   "significance": "作者結論：形式上的區域代表性關係到主權平等與各國對法院公正的觀感（參照規約第 3、31 條），法院應對所有國家公平；但現行分配無論對亞洲或非洲都未盡周延，拉美席次的減少值得更多關注。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。本網頁助理 註：文中各輪票數係依作者文章轉述，未另行核對聯合國新聞稿逐輪紀錄。",
+   "tags": [
+    "國際法院",
+    "法官選舉",
+    "聯合國大會",
+    "安理會",
+    "第9條",
+    "第10條",
+    "區域分配",
+    "英國",
+    "肯亞",
+    "新加坡",
+    "厄瓜多",
+    "獅子山",
+    "韓國"
+   ],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/the-2026-icj-election-the-uk-returns-but-who-is-out/",
+     "official": false
+    },
+    {
+     "label": "國際法院新聞稿 2026/28（選舉結果，PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/press-releases/0/000-20261104-pre-01-00-en.pdf",
+     "official": true
+    },
+    {
+     "label": "聯合國大會會議紀要（選舉國際法院法官）",
+     "url": "https://press.un.org/en/2026/ga12805.doc.htm",
+     "official": true
+    },
+    {
+     "label": "聯合國安理會會議紀要（選舉國際法院法官）",
+     "url": "https://press.un.org/en/2026/sc16499.doc.htm",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-10T07:00:38+08:00",
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "author": "Eric Chan（倫敦大學亞非學院 SOAS 法學院博士候選人）",
+   "related": [
+    "2026-11-03-icj-judges-elected-2026",
+    "2026-11-04-ejil-icj-presidency-election"
+   ]
+  },
+  {
+   "id": "2026-11-09-oj-disputed-continental-shelf-83-3",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "",
+   "date": "2026-11-09",
+   "eventDate": "",
+   "importance": 1,
+   "title": "未劃界大陸礁層爭議區內的單方活動：作者主張《聯合國海洋法公約》第 83 條第 3 項的「不得危害或阻礙」義務具有實質內容，而非單純行為義務",
+   "shortTitle": "未劃界大陸礁層的單方開發界限",
+   "point": "作者認為判例見解互相矛盾，主張第 83 條第 3 項是具實質內容的消極義務",
+   "titleOriginal": "Critical Legal Analysis of Permissible Unilateral Activities in Disputed Continental Shelf Areas",
+   "caseRef": "",
+   "tldr": "兩國大陸礁層主張重疊、尚未劃界時，一方能否在爭議區自行探勘或開採石油？海洋法公約要求雙方在劃界前不得危害或阻礙最終協議，但國際判例對這項義務從何時開始、內容為何意見分歧。作者主張這項義務不只是「誠信行事」即可，而是有實質界線，例如造成永久物理改變的開採原則上不被允許。",
+   "memo": "Bjørn Kunoy（法羅群島外交及漁業部；法羅群島大學兼任教授）於 Opinio Juris 撰文指出，國際判例就《聯合國海洋法公約》第 83 條第 3 項過渡期間義務之起算時點及性質見解不一：Guyana/Suriname 仲裁以造成物理改變與否為預定標準，ITLOS 特別分庭於 Ghana/Côte d'Ivoire 案則視之為行為義務。作者認為以爭端具體化為起算點與第 77 條沿海國權利之固有性難以調和，善意亦不能凌駕第 77 條第 2 項之排他性，並援引 Aegean Sea 及 Somalia v. Kenya 案，主張該義務屬具實質內容之消極義務。",
+   "context": "《聯合國海洋法公約》第 77 條規定沿海國對其大陸礁層享有探勘及開發自然資源的主權權利，且此權利不待宣告即固有存在；第 83 條第 1、2 項規定相向或相鄰國家應以協議劃界，未能於合理期間內達成協議時應訴諸第十五部分爭端解決程序；第 83 條第 3 項（及專屬經濟區的第 74 條第 3 項）則要求在劃界協議達成前，各方應盡力作出臨時安排，並不得危害或阻礙最終協議的達成。\n相關判例包括 2007 年 Guyana/Suriname 仲裁、2017 年 ITLOS 特別分庭 Ghana/Côte d'Ivoire 判決、2021 年國際法院 Somalia v. Kenya 判決，以及 1976 年國際法院 Aegean Sea 臨時措施裁定。",
+   "facts": [
+    "作者指出，大陸礁層主張重疊而未劃界的情形下，一方在爭議區進行石油天然氣探勘或開採，常引發是否違反第 83 條第 3 項的爭議。",
+    "Ghana/Côte d'Ivoire 案與 Somalia v. Kenya 案均認為第 83 條第 3 項義務自爭端具體化時起適用。",
+    "Guyana/Suriname 仲裁庭區分造成海床物理改變的活動（如開採）與不造成物理改變的活動（如震測），前者未經協議不得為之。"
+   ],
+   "issues": [
+    "《聯合國海洋法公約》第 83 條第 3 項過渡期間自何時起算，爭端具體化前的活動是否不受規範。",
+    "第 83 條第 3 項之「不得危害或阻礙」義務屬行為義務，抑或具預定實質標準。",
+    "劃界判決之性質（創設性或宣示性）及善意，是否足以使先前在爭議區之單方活動免責；與第 77 條第 2 項排他權利之關係。"
+   ],
+   "holding": "・起算時點：判例以爭端具體化為過渡期間起點，作者認為沿海國權利依 North Sea 案屬固有、無須特別行為，以管轄爭端為起點與第 77 條及其目的難以調和，屬推論不連貫；陸地爭端的「關鍵日期」概念亦不適合套用。\n・義務性質的兩種路線：Guyana/Suriname 採預定標準（物理改變即不許），Ghana/Côte d'Ivoire 則以條文中的「和」字為據，視之為行為義務；作者認為兩者無法調和。\n・作者檢視支持行為義務的論據（Combacau 對結果義務與行為義務的區分、第 63 條跨界魚群的類比、沿海國主權權利原意在避免行為受審查等），以及「固定標準會把義務變成結果義務」的反論。\n・劃界性質：Ghana/Côte d'Ivoire 視劃界為創設性，使善意得以保護先前活動；作者指出 North Sea 與 Jan Mayen 案指向相反方向。\n・善意與排他性：作者主張善意不能凌駕第 77 條第 2 項對他國的排他性；Nicaragua v. Colombia 涉及生物資源，與不可再生、屬大陸礁層本身的礦物資源不同。\n・Somalia v. Kenya：國際法院審查有無造成永久物理改變的鑽探，並注意到油井位置遠離索馬利亞主張線，作者認為顯示國際法院採實質標準，不會僅因善意而免責。",
+   "significance": "作者結論：現有判例路線不一致，Ghana/Côte d'Ivoire 傾向個案判斷、欠缺實質內容，但 Guyana/Suriname、Aegean Sea 與 Somalia v. Kenya 顯示第 83 條第 3 項不只是行為義務；作者主張它是具實質特徵的消極義務，構成大陸礁層制度的有機部分。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。以下為本網頁助理補充，非來源內容：本站追蹤中的阿根廷訴英國（西南大西洋油氣開發案）亦涉及爭議海域的油氣開發，但該案核心為主權爭議與臨時措施，作者原文並未討論該案。",
+   "tags": [
+    "海洋法",
+    "UNCLOS",
+    "大陸礁層",
+    "第83條",
+    "第77條",
+    "海洋劃界",
+    "臨時安排",
+    "油氣開發",
+    "Somalia v. Kenya",
+    "Ghana/Côte d'Ivoire",
+    "Guyana/Suriname",
+    "誠信原則"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/11/09/critical-legal-analysis-of-permissible-unilateral-activities-in-disputed-continental-shelf-areas/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-10T07:00:38+08:00",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Bjørn Kunoy（法羅群島外交及漁業部；法羅群島大學兼任教授）"
   }
  ],
  "agenda": [
