@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-09T06:59:04+08:00",
-  "lastRunLocal": "2026-11-09 06:59",
+  "lastRun": "2026-11-10T07:03:35+08:00",
+  "lastRunLocal": "2026-11-10 07:03",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "本次未發現新動態",
+  "lastRunNote": "新增 1 則：商務仲裁 1（機構 1）；投資仲裁本次未發現新動態",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -6776,6 +6776,75 @@
     }
    ],
    "addedAt": "2026-11-07T23:05:19+08:00"
+  },
+  {
+   "id": "2026-10-15-arb-cietac-emergency-arbitrator-interpretation",
+   "court": "INST",
+   "kind": "機構動態",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "中國大陸",
+   "outlet": "中國國際經濟貿易仲裁委員會（CIETAC）",
+   "outletCode": "CIETAC",
+   "date": "2026-10-15",
+   "eventDate": "2026-10-15",
+   "importance": 2,
+   "author": "",
+   "title": "新加坡法院拒絕執行 CIETAC 緊急仲裁人判斷後，CIETAC 發布釋義：約定 CIETAC 仲裁即同意緊急仲裁人程序",
+   "shortTitle": "CIETAC 釋義緊急仲裁人權限",
+   "point": "約定 CIETAC 仲裁即視為接受緊急仲裁人程序，除非另行書面排除",
+   "titleOriginal": "中國國際經濟貿易仲裁委員會關於《中國國際經濟貿易仲裁委員會仲裁規則》緊急仲裁員程序相關條款的釋義（回應 Zhejiang Crystal-Optech Co Ltd v Moveon Technologies Pte Ltd [2026] SGHC 186）",
+   "caseRef": "[2026] SGHC 186",
+   "tldr": "新加坡高等法院今年 9 月以中國法未賦予緊急仲裁人權限、當事人也沒有另外約定為由，拒絕執行一件仲裁地在上海的 CIETAC 緊急仲裁人判斷。CIETAC 隨後發布官方釋義，表示當事人只要約定交 CIETAC 仲裁或適用其規則，就等於同意緊急仲裁人程序，不必另訂條款。",
+   "memo": "中國國際經濟貿易仲裁委員會於 2026 年 10 月 15 日依其仲裁規則第 87 條第 2 款發布釋義，就 2024 年版仲裁規則第 23 條第 2 款說明：「適用的法律」與「當事人的約定」為各自獨立、擇一具備之要件；「適用的法律」不限於仲裁地法，得參酌執行地法；當事人約定由該會仲裁或適用其規則者，即視為同意緊急仲裁員程序，除另以書面明示排除外，毋庸另訂專門約定；釋義適用於已處理、處理中及將處理之案件。此釋義係回應新加坡高等法院於 2026 年 9 月 11 日 [2026] SGHC 186 號判決以緊急仲裁人欠缺權限為由，依國際仲裁法第 31 條第 2 項第 d 款拒絕執行上海仲裁之緊急仲裁人判斷。",
+   "context": "新加坡高等法院於 2026 年 9 月 11 日就 Zhejiang Crystal-Optech Co Ltd v Moveon Technologies Pte Ltd [2026] SGHC 186 作成判決。該案源於中國公司 COT 與新加坡公司 Moveon 為蘋果公司鏡頭元件專案合資設立的新加坡公司 CMOT；專案於 2022 年終止，CMOT 於 2024 年清算，清算人承認 Moveon 約 1,940 萬新加坡元的債權。\nCOT 於 2025 年 7 月在 CIETAC 上海分會提起仲裁並聲請緊急救濟，緊急仲裁人於 2025 年 8 月 12 日作成判斷，禁止 Moveon 在終局判斷前受領清算分配。COT 取得新加坡法院准予執行的許可後，Moveon 聲請撤銷該許可。\nCIETAC 2024 年版仲裁規則第 23 條第 2 款規定，當事人得「依據適用的法律或當事人的約定」聲請緊急性臨時救濟。中國法傳統上將保全措施的決定權保留給法院；2021 年仲裁法修正草案原擬賦予仲裁庭臨時措施權限，但未納入 2026 年 3 月 1 日施行的修正仲裁法。",
+   "facts": [
+    "新加坡高等法院認定，依國際仲裁法第 12 條第 1 項作成的臨時措施屬「外國仲裁判斷」，原則上可依該法第 3 部執行或拒絕執行。",
+    "法院採信專家意見，認為中國法並未賦予仲裁庭或緊急仲裁人命令保全措施的權限（屬未規定而非禁止），且不接受以執行地新加坡法作為權限來源。",
+    "法院認為單純約定 CIETAC 仲裁不足以構成「當事人的約定」，否則規則中該用語將成贅文；緊急仲裁人行使其所未獲授予的權限，逾越交付仲裁範圍，依國際仲裁法第 31 條第 2 項第 d 款拒絕執行。Moveon 其他抗辯（無法陳述意見、不可仲裁性、公共政策）均遭駁回。",
+    "CIETAC 於 2026 年 10 月 15 日發布針對仲裁規則第 23 條第 2 款的釋義，說明其不修改、不補充規則，亦不增減當事人權利義務。"
+   ],
+   "issues": [
+    "CIETAC 仲裁規則第 23 條第 2 款「適用的法律」與「當事人的約定」的意義及兩者關係。",
+    "約定 CIETAC 仲裁或適用其規則，是否即構成授予緊急仲裁人權限的合意。",
+    "仲裁機構事後發布的規則釋義，能否影響外國法院依紐約公約第 5 條第 1 項第 c 款（新加坡國際仲裁法第 31 條第 2 項第 d 款）審查權限的結果。"
+   ],
+   "holding": "・性質：釋義依仲裁規則第 87 條第 2 款（CIETAC 有權解釋規則）作成，僅說明第 23 條第 2 款，不修改規則。\n・背景：緊急仲裁人為國際仲裁常見的臨時救濟制度；中國仲裁法並未禁止當事人依合意聲請緊急仲裁人；跨法域執行亦有此需求。\n・「適用的法律」：泛指能使臨時救濟發生法律效力的法律，包括依當事人約定、仲裁地或仲裁機構所在地等決定的仲裁程序準據法，並得考量執行需要參照執行地法律。\n・「當事人的約定」：以當事人合意為準，包括仲裁協議明示約定適用緊急仲裁人程序（實務上少見，且非唯一方式），以及當事人選定的仲裁規則規定該程序的情形，例如約定由 CIETAC 仲裁、約定依 CIETAC 規則仲裁、約定適用同時援用 CIETAC 規則的專業規則，或約定其他規則並由 CIETAC 管理且相關規則可適用緊急仲裁人程序。\n・排除：當事人如欲排除緊急仲裁人程序，須另以書面明確約定。\n・兩要件關係：「適用的法律」與「當事人的約定」各自獨立、擇一具備即可聲請。\n・適用範圍：適用於 CIETAC 已處理、正在處理及將要處理的所有緊急仲裁人程序。",
+   "significance": "這份釋義直接回應新加坡法院認定的兩個關鍵點（權限來源不能取自執行地法、單純選擇 CIETAC 不等於授權），但其效力屬機構對自身規則的解釋。據 Pinsent Masons 與 Jones Day 的評析，新加坡或其他法院會給予多少分量仍待觀察，且釋義未處理正式仲裁庭依第 23 條第 3 款命臨時措施的權限。實務上，若以中國大陸為仲裁地且有跨境執行需求，評析者仍建議在仲裁條款中明示約定緊急仲裁人及仲裁庭的臨時措施權限，或考慮直接向資產所在地法院聲請保全。",
+   "editorNote": "本網頁助理 註：本則依 CIETAC 官網釋義原文、Pinsent Masons（2026 年 10 月 22 日）及 Jones Day（2026 年 11 月）評析撰寫；新加坡判決內容係依上述評析整理，尚未取得判決原文。釋義發布於 2026 年 10 月 15 日，本站先前未收錄，本次因 Jones Day 11 月評析而補收。",
+   "tags": [
+    "CIETAC",
+    "緊急仲裁人",
+    "臨時措施",
+    "承認與執行",
+    "中國大陸",
+    "新加坡",
+    "機構規則"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "CIETAC 緊急仲裁員程序條款釋義（官網）",
+     "url": "https://www.cietac.org/articles/36508",
+     "official": true
+    },
+    {
+     "label": "Pinsent Masons Out-Law 報導",
+     "url": "https://www.pinsentmasons.com/out-law/news/cietac-emergency-arbitrator-powers",
+     "official": false
+    },
+    {
+     "label": "Jones Day 評析（新加坡判決與 CIETAC 釋義）",
+     "url": "https://www.jonesday.com/en/insights/2026/11/singapore-court-refuses-enforcement-of-a-chinaseated-cietac-emergency-arbitrator-award",
+     "official": false
+    },
+    {
+     "label": "Baker McKenzie 評析（[2026] SGHC 186）",
+     "url": "https://www.bakermckenzie.com/en/insight/publications/2026/10/singapore-court-refuses-to-enforce-cietac-emergency-arbitrators-award",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-10T07:03:35+08:00"
   }
  ],
  "agenda": [
@@ -6836,6 +6905,16 @@
    "note": "以電子郵件向 HKIAC 提出；其後由委任委員會按季審查",
    "url": "https://conventuslaw.com/press-releases/hkiac-launches-panel-of-arbitrators-for-digital-assets-and-fintech-disputes/",
    "relatedId": "2026-11-04-arb-hkiac-digital-assets-fintech-panel",
+   "caseId": ""
+  },
+  {
+   "id": "2026-11-18-law-kuwait-arbitration-law-in-force",
+   "date": "2026-11-18",
+   "court": "LAW",
+   "title": "科威特新仲裁法（2026 年第 120 號法令）施行",
+   "note": "依 K&L Gates 評析，自 2026 年 11 月 18 日施行，不適用於當日已繫屬之仲裁；官方公報未及查證",
+   "url": "https://natlawreview.com/article/kuwait-issues-new-arbitration-law",
+   "relatedId": "2026-10-23-arb-kuwait-arbitration-law-2026",
    "caseId": ""
   }
  ],
