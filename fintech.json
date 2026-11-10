@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-10T23:42:01+08:00",
-  "lastRunLocal": "2026-11-10 23:42",
+  "lastRun": "2026-11-11T07:41:41+08:00",
+  "lastRunLocal": "2026-11-11 07:41",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：歐盟 1（政策動態 1）、美國 1（司法案件 1）、亞太與其他 2（法規發布 1、政策動態 1）"
+  "lastRunNote": "新增 2 則：美國 1（司法案件 1）、歐盟 1（政策動態 1）"
  },
  "items": [
   {
@@ -4316,7 +4316,8 @@
    ],
    "related": [
     "2026-11-03-fin-cma-sues-cftc-stock-perpetuals",
-    "2026-11-03-fin-sdny-denies-stock-perps-emergency-relief"
+    "2026-11-03-fin-sdny-denies-stock-perps-emergency-relief",
+    "2026-11-10-fin-crypto-firms-amicus-cftc-stock-perps"
    ],
    "sources": [
     {
@@ -4387,7 +4388,8 @@
    ],
    "related": [
     "2026-11-03-fin-cftc-single-stock-perpetuals",
-    "2026-11-03-fin-sdny-denies-stock-perps-emergency-relief"
+    "2026-11-03-fin-sdny-denies-stock-perps-emergency-relief",
+    "2026-11-10-fin-crypto-firms-amicus-cftc-stock-perps"
    ],
    "sources": [
     {
@@ -4587,7 +4589,8 @@
    ],
    "related": [
     "2026-11-03-fin-cma-sues-cftc-stock-perpetuals",
-    "2026-11-03-fin-cftc-single-stock-perpetuals"
+    "2026-11-03-fin-cftc-single-stock-perpetuals",
+    "2026-11-10-fin-crypto-firms-amicus-cftc-stock-perps"
    ],
    "sources": [
     {
@@ -6882,6 +6885,136 @@
     }
    ],
    "addedAt": "2026-11-10T23:42:01+08:00"
+  },
+  {
+   "id": "2026-11-10-fin-crypto-firms-amicus-cftc-stock-perps",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-perpetual-futures-jurisdiction",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-10",
+   "eventDate": "2026-11-09",
+   "importance": 1,
+   "author": "",
+   "title": "Coinbase、Kalshi、Payward 等六家業者聲請以法院之友身分支持 CFTC，反對撤銷個股永續期貨核准",
+   "shortTitle": "六家業者以法院之友支持 CFTC 永續期貨",
+   "point": "11 月 9 日聲請提出意見書，初步禁制令書狀 11 月 10 日完成交換",
+   "titleOriginal": "Coinbase, Kalshi and Payward back CFTC in lawsuit over single-stock perp futures",
+   "caseRef": "No. 1:26-cv-09608 (S.D.N.Y.)",
+   "tldr": "證券業團體告 CFTC，要求撤銷「個股永續期貨」的上市核准。現在 Coinbase、Kalshi、Kraken 母公司 Payward 等六家業者站到 CFTC 這邊，向法院申請提出意見書，主張這類商品屬於 CFTC 可以管的證券期貨。雙方針對是否先暫停交易的書狀已在 11 月 10 日交齊，接下來等法官裁定。",
+   "memo": "依 The Block 2026 年 11 月 10 日報導，Coinbase、KalshiEX、Payward、DRW Holdings、Jump Trading 及 Paradigm 於 2026 年 11 月 9 日向美國紐約南區聯邦地方法院聲請許可提出法院之友意見書，於 Capital Markets Alliance Association 訴美國商品期貨交易委員會（CFTC）案（No. 1:26-cv-09608）支持 CFTC，主張無到期日之個股永續契約依《商品交易法》及 2000 年建立之證券期貨架構屬證券期貨而非以證券為基礎之交換，且 SEC 自始參與相關程序。依 Cleary Gottlieb 分析，初步禁制令聲請之書狀交換於同年 11 月 10 日完成，尚待法院裁定。",
+   "context": "CFTC 於 2026 年 11 月 3 日宣布，多家指定契約市場（DCM）申報之個股永續期貨因 45 日審查期屆滿而視為已核准，得作為證券期貨上市。同日 Capital Markets Alliance Association（成員包括 Cboe、Citadel Securities 等）於紐約南區聯邦地院起訴，主張此類契約欠缺未來交付要素，屬以證券為基礎之交換而應由 SEC 管轄，並主張 CFTC 違反《行政程序法》未說明理由。\n法院於起訴當日駁回暫時限制令，理由為原告未證明無法彌補之損害，但表示原告主張 CFTC 欠缺法定權限之勝訴可能性高；並另定初步禁制令之書狀期限。",
+   "facts": [
+    "依 The Block 報導，六家業者於 2026 年 11 月 9 日（週一）聲請許可提出法院之友意見書。",
+    "聲請人為 Coinbase、KalshiEX、Payward（Kraken 母公司）、DRW Holdings、Jump Trading 及 Paradigm。",
+    "依報導，Coinbase、Kalshi 與 Payward 均曾申報上市以美國股票為標的之個股永續期貨，並於 11 月 2 日視為核准。",
+    "依 crypto.news 報導，CFTC 答辯期限為 11 月 6 日，原告再答辯期限為 11 月 10 日；Cleary Gottlieb 亦稱書狀交換於 11 月 10 日完成。"
+   ],
+   "issues": [
+    "無到期日之個股永續契約，應定性為證券期貨（CFTC 與 SEC 共管）或以證券為基礎之交換（SEC 專屬）？",
+    "SEC 參與 2026 年 6 月聯合徵詢等程序，是否足以支持 CFTC 視為核准之適法性？",
+    "法院是否於本案判決前以初步禁制令暫停相關商品交易？"
+   ],
+   "holding": "・聲請內容：六家業者請求法院許可提出意見書，並駁回原告之初步禁制令聲請。\n・主要論點：依《商品交易法》及國會 2000 年建立之證券期貨架構，證券期貨不屬交換；個股永續契約落入證券期貨範疇。\n・程序論點：SEC 自始參與，兩機關曾共同就永續契約是否得視為證券期貨徵詢公眾意見，原告所稱 CFTC 侵越 SEC 權限並不成立。\n・業者立場：Coinbase 表示美國投資人應能在 CFTC 與 SEC 共同監理下接觸此類商品。",
+   "significance": "書狀已交齊，法院可能隨時就初步禁制令作出裁定；由於法官先前對原告本案主張的初步看法較為有利，裁定結果將決定個股永續期貨能否在訴訟期間繼續交易。另應留意 SEC 是否表態，以及 CME 對加密永續期貨之另案訴訟進展。",
+   "editorNote": "本網頁助理 註：本則依 The Block、crypto.news 報導及 Cleary Gottlieb 分析撰寫；本網頁助理未能開啟法院卷宗及意見書原文核對。crypto.news 指出案號字尾（LGS）與裁定暫時限制令之 Caproni 法官姓名縮寫不符，承審法官可能另有其人，請以法院卷宗為準。",
+   "tags": [
+    "永續期貨",
+    "證券期貨",
+    "交換",
+    "衍生性商品",
+    "法院之友",
+    "CFTC",
+    "SEC",
+    "Coinbase",
+    "Kalshi",
+    "美國"
+   ],
+   "related": [
+    "2026-11-03-fin-sdny-denies-stock-perps-emergency-relief",
+    "2026-11-03-fin-cma-sues-cftc-stock-perpetuals",
+    "2026-11-03-fin-cftc-single-stock-perpetuals"
+   ],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
+     "official": false
+    },
+    {
+     "label": "Cleary Gottlieb 分析",
+     "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/equity-perpetuals-and-kpi-contracts-regulatory-approvals-and-legal-challenge",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/coinbase-kalshi-cftc-stock-perpetuals-lawsuit/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T07:41:41+08:00"
+  },
+  {
+   "id": "2026-11-09-fin-eba-white-label-consumer-factsheet",
+   "court": "EBA",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "歐盟",
+   "outlet": "歐洲銀行管理局（EBA）",
+   "outletCode": "EBA",
+   "date": "2026-11-09",
+   "eventDate": "2026-11-09",
+   "importance": 1,
+   "author": "",
+   "title": "歐洲銀行管理局發布白牌金融商品消費者說明書，提醒辨識實際提供服務之業者",
+   "shortTitle": "EBA 發布白牌金融商品消費者說明書",
+   "point": "列七項購買前檢查，含實際契約相對人、費用、申訴管道與解約條件",
+   "titleOriginal": "The EBA publishes consumer factsheet on white-labelled financial products and services",
+   "caseRef": "",
+   "tldr": "越來越多 App、電商或其他品牌在賣「掛自己名字」的帳戶、支付或貸款服務，但真正提供服務、要負責的其實是背後的銀行或支付機構。EBA 出了一份消費者說明書，教大家在申辦前先看清楚到底跟誰簽約、費用多少、出問題找誰申訴。",
+   "memo": "歐洲銀行管理局（EBA）於 2026 年 11 月 9 日發布白牌（white-labelled）金融商品及服務消費者說明書，協助消費者辨識由線上平台或非金融品牌銷售、實際由其他金融機構提供之銀行或支付商品。依 FinanceFeeds 報導，說明書列出七項購買前檢查事項，包括實際服務提供者及契約相對人、商品性質、總成本、申訴處理、終止契約難易、隱私政策及是否有過於優厚或催促決定之情形，並建議核對業者法定名稱與監理身分；該說明書屬消費者教育性質，未新增揭露義務或變更法律責任歸屬。",
+   "context": "EBA 於 2025 年 10 月發布白牌報告（EBA/REP/2025/30），指出白牌模式在歐盟銀行與支付業廣泛使用，涵蓋帳戶與支付、授信、先買後付及開放銀行服務，並提示不當銷售、詐欺、洗錢防制及消費者透明度等風險，呼籲監理趨同與改善揭露。\nEBA 將檢視白牌安排列為 2026 年工作重點；本說明書為該報告之後續消費者面措施。",
+   "facts": [
+    "EBA 於 2026 年 11 月 9 日發布新聞稿及說明書。",
+    "依 FinanceFeeds 報導，說明書列出七項檢查事項，並建議留意「issued by」「service provided by」等字樣以辨識背後業者。",
+    "依 FinanceFeeds 引述 EBA 2025 年報告，35% 受訪銀行表示使用白牌模式。"
+   ],
+   "issues": [
+    "白牌及嵌入式金融模式下，消費者如何辨識負責之受監理業者？",
+    "現行揭露規範是否足以處理品牌與實際提供者分離所生之透明度與責任歸屬問題？"
+   ],
+   "holding": "・說明目的：協助消費者辨識銀行或支付商品是否為白牌，以及實際由誰提供。\n・七項檢查：實際提供者與契約相對人、商品性質、總成本、申訴處理、終止難易、隱私政策、是否過於優厚或施壓。\n・實務建議：於契約中核對業者法定名稱與監理身分；保障範圍依具體服務與各國法律而定。\n・性質：消費者教育文件，未創設新規則。",
+   "significance": "白牌與嵌入式金融是支付與開放金融發展的主要模式之一，EBA 先從消費者教育著手，後續是否在 PSD3／PSR 施行或監理趨同工作中提出更具體的揭露要求，值得觀察。台灣業者若有與平台合作之聯名或嵌入式金融服務，亦可參考其責任揭露重點。",
+   "editorNote": "本網頁助理 註：本網頁助理未能開啟 EBA 新聞稿及說明書全文，說明書內容係依 EBA 新聞稿列表摘要及 FinanceFeeds 2026 年 11 月 10 日報導整理。\n以下為本網頁助理補充，非來源內容：末段關於台灣業者之參考意義為本網頁助理之評估。",
+   "tags": [
+    "支付服務",
+    "白牌",
+    "嵌入式金融",
+    "消費者保護",
+    "EBA",
+    "歐盟"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "EBA 新聞稿",
+     "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-consumer-factsheet-white-labelled-financial-products-and-services",
+     "official": true
+    },
+    {
+     "label": "EBA 2025 年白牌報告全文（PDF）",
+     "url": "https://www.eba.europa.eu/sites/default/files/2025-10/d47ae798-fe20-4d22-8113-bf669afb3b3d/Report%20on%20white%20labelling.pdf",
+     "official": true
+    },
+    {
+     "label": "FinanceFeeds 報導",
+     "url": "https://financefeeds.com/eba-consumer-factsheet-tells-users-to-look-beyond-brand-in-white-label-banking/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T07:41:41+08:00"
   }
  ],
  "agenda": [
@@ -7432,7 +7565,7 @@
    "nameOriginal": "US perpetual futures: CFTC approval and jurisdictional challenges",
    "caseRef": "",
    "summary": "CFTC 先允許加密資產永續期貨於其註冊交易所上市，再於 2026 年 11 月擴及個股永續期貨，CME 集團及傳統證券業者團體分別起訴，主張相關商品屬交換或以證券為基礎之交換。",
-   "status": "CFTC 11 月 3 日宣布個股永續期貨視為已核准之證券期貨，同日 Capital Markets Alliance 於紐約南區聯邦地院起訴；法院當日駁回緊急禁制令但認原告本案勝訴可能性高（依 DeFi Rate 報導），原告預計聲請初步禁制令；CME 對加密永續期貨之訴訟仍在進行。"
+   "status": "CFTC 11 月 3 日宣布個股永續期貨視為已核准之證券期貨，同日 Capital Markets Alliance 於紐約南區聯邦地院起訴，法院駁回暫時限制令但認原告本案勝訴可能性高；Coinbase、Kalshi 等六家業者 11 月 9 日聲請以法院之友身分支持 CFTC，初步禁制令書狀於 11 月 10 日交換完畢、待法院裁定；CME 對加密永續期貨之訴訟仍在進行。"
   },
   {
    "id": "ng-cbn-virtual-asset-regime",
