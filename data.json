@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-10T07:00:38+08:00",
-  "lastRunLocal": "2026-11-10 07:00",
+  "lastRun": "2026-11-10T23:04:43+08:00",
+  "lastRunLocal": "2026-11-10 23:04",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：EJIL 評論 1、Opinio Juris 評論 1"
+  "lastRunNote": "新增 2 則：ICC 1、ITLOS 1"
  },
  "items": [
   {
@@ -544,7 +544,8 @@
    "related": [
     "2026-10-12-ejil-argentina-unclos",
     "2026-10-12-oj-sea-lion-hamburg",
-    "2026-10-20-itlos-argentina-uk-hearing"
+    "2026-10-20-itlos-argentina-uk-hearing",
+    "2026-11-10-itlos-argentina-uk-hearing-day1"
    ]
   },
   {
@@ -3465,7 +3466,8 @@
    "related": [
     "2026-10-13-itlos-argentina-uk",
     "2026-10-12-ejil-argentina-unclos",
-    "2026-10-12-oj-sea-lion-hamburg"
+    "2026-10-12-oj-sea-lion-hamburg",
+    "2026-11-10-itlos-argentina-uk-hearing-day1"
    ]
   },
   {
@@ -4438,7 +4440,8 @@
    "related": [
     "2026-10-23-icc-duterte-rule68-requests",
     "2026-10-28-icc-duterte-clrv-rule68-2b",
-    "2026-11-03-icc-duterte-rule68-3-new-requests"
+    "2026-11-03-icc-duterte-rule68-3-new-requests",
+    "2026-11-10-icc-duterte-defence-p1334-p1348"
    ]
   },
   {
@@ -6480,7 +6483,8 @@
    "addedAt": "2026-11-08T22:59:01+08:00",
    "related": [
     "2026-10-23-icc-duterte-rule68-requests",
-    "2026-11-05-icc-duterte-expert-reports-rule68-3"
+    "2026-11-05-icc-duterte-expert-reports-rule68-3",
+    "2026-11-10-icc-duterte-defence-p1334-p1348"
    ]
   },
   {
@@ -6613,7 +6617,145 @@
    "addedAt": "2026-11-10T07:00:38+08:00",
    "outlet": "Opinio Juris",
    "outletCode": "OJ",
-   "author": "Bjørn Kunoy（法羅群島外交及漁業部；法羅群島大學兼任教授）"
+   "author": "Bjørn Kunoy（法羅群島外交及漁業部；法羅群島大學兼任教授）",
+   "related": [
+    "2026-11-10-itlos-argentina-uk-hearing-day1"
+   ]
+  },
+  {
+   "id": "2026-11-10-itlos-argentina-uk-hearing-day1",
+   "court": "ITLOS",
+   "kind": "程序進展",
+   "caseId": "argentina-v-uk-sea-lion",
+   "date": "2026-11-10",
+   "eventDate": "2026-11-10",
+   "importance": 2,
+   "title": "阿根廷訴英國（Sea Lion 油田案）：ITLOS 臨時措施言詞辯論首日，阿根廷請求立即停止開發",
+   "shortTitle": "阿英油田案臨時措施辯論開庭",
+   "point": "阿根廷主張開採不可再生資源將造成無法回復的損害，英國則爭執法庭管轄",
+   "titleOriginal": "Case concerning hydrocarbon exploitation in the South-West Atlantic Ocean (Argentina v. United Kingdom), Provisional Measures – public hearing",
+   "caseRef": "ITLOS Case No. 37",
+   "tldr": "阿根廷認為英國支持在福克蘭（馬爾維納斯）群島外海開發 Sea Lion 油田，違反海洋法，請國際海洋法法庭在正式仲裁庭成立前先下令暫停。11 月 10 日在漢堡開庭，阿根廷先發言，強調石油一旦開採就無法回復，並表明不請法庭決定主權歸屬；英國則主張法庭對涉及群島主權的問題沒有管轄權。辯論 11 日結束，裁定預計約在提出聲請一個月後作成。",
+   "memo": "國際海洋法法庭於 2026 年 11 月 10 日就阿根廷訴英國西南大西洋油氣開發案（第 37 號案）之臨時措施聲請舉行公開言詞辯論首日。阿根廷依《聯合國海洋法公約》第 290 條第 5 項請求命英國立即停止 Sea Lion 油田之探勘及開發、不再核發新許可、保全既有技術資料並保護海洋環境，主張於爭議海域開採不可再生資源將造成無法回復之損害，並表明不請求法庭判斷主權；英國則主張法庭對涉及群島主權之事項欠缺管轄權。辯論於 11 月 11 日終結。",
+   "context": "阿根廷於 2026 年 10 月 13 日依《聯合國海洋法公約》附件七對英國提起仲裁，並在仲裁庭組成前依第 290 條第 5 項請求 ITLOS 規定臨時措施，阻止英國支持、由 Navitas Petroleum 與 Rockhopper Exploration 推動的 Sea Lion 油田開發（見本站 10 月 13 日一則）。庭長於 10 月 20 日以命令訂定 11 月 10、11 日言詞辯論（見本站 10 月 20 日一則）。\n依報導，阿根廷籍法官 Armas Pfirter 迴避本案，由 Vinuesa（阿根廷指派）與 Lowe（英國指派）擔任專案法官，兩人已於 11 月 9 日宣誓。",
+   "facts": [
+    "辯論於 11 月 10 日在漢堡進行，依公布時程阿根廷上午 10 時至 13 時、英國下午 3 時至 6 時（漢堡時間）發言；11 月 11 日雙方再各為第二輪陳述，全程網路直播。",
+    "阿根廷代表團由總統府法律與技術秘書 María Ibarzabal 率領，外交部國際法律顧問司長 Mario Oyarzábal 大使任代理人，Marcelo Kohen 等人為律師。",
+    "阿根廷請求法庭命英國：立即停止 Sea Lion 的探勘與開發、不再核發新許可、保全先前作業的技術資料，並保護海洋環境。",
+    "阿根廷援引聯大第 2065（XX）號（1965 年）與第 31/49 號（1976 年）決議，前者承認主權爭端存在，後者呼籲當事國在爭端未決期間不作單方變更；並援引公約第 192 條、第 194 條海洋環境保護義務。",
+    "報導指出，英國代表團由總檢察長 Ellie Reeves 率領，主張法庭對影響群島主權的事項無管轄權，並稱阿根廷的聲請不影響已核發的許可。",
+    "英國先前宣布將依 1980 年《貿易利益保護法》（Protection of Trading Interests Act 1980）制定次級立法，保護相關石油公司。"
+   ],
+   "issues": [
+    "《聯合國海洋法公約》第 290 條第 5 項：附件七仲裁庭是否具初步（prima facie）管轄權，特別是爭端是否涉及陸地主權而超出公約第 288 條範圍。",
+    "阿根廷主張的權利是否具合理性（plausibility），以及開採不可再生資源是否構成急迫且無法回復的損害風險。",
+    "公約第 192 條、第 194 條海洋環境保護義務，與聯大決議要求不作單方變更之關聯。"
+   ],
+   "holding": "言詞辯論仍在進行中，法庭尚未作成任何決定。\n依報導，裁定預計約於聲請提出一個月後（11 月中旬）作成；法庭若規定臨時措施，將持續至附件七仲裁庭組成後另行修改或撤銷為止。",
+   "significance": "本案是阿根廷首次就福克蘭（馬爾維納斯）群島周邊資源開發把英國帶上國際司法程序。法庭對初步管轄權的判斷，特別是如何處理「混合爭端」（同時涉及陸地主權與海洋權利）的問題，將是本案關鍵，也會影響其他存在主權爭議海域的資源開發爭端。",
+   "editorNote": "本網頁助理 註：本則依阿根廷媒體 Diario Crónica 與 Infobae 報導及 ITLOS 案件頁撰寫，撰寫時英國的陳述尚在進行或剛結束，ITLOS 尚未發布辯論逐字紀錄；報導所述英國主張，可能部分來自英國先前公開表態，以英國當庭陳述及官方逐字紀錄為準。Diario Crónica 將阿根廷律師姓名誤植為「Marcelo Cohen」，本則依其他報導作 Kohen。裁定日期為媒體推估，法庭尚未公布。",
+   "tags": [
+    "國際海洋法法庭",
+    "阿根廷",
+    "英國",
+    "福克蘭群島",
+    "Sea Lion",
+    "臨時措施",
+    "第290條",
+    "附件七仲裁",
+    "初步管轄權",
+    "海洋環境"
+   ],
+   "sources": [
+    {
+     "label": "國際海洋法法庭案件頁（臨時措施）",
+     "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/",
+     "official": true
+    },
+    {
+     "label": "國際海洋法法庭第 37 號案網路直播存檔",
+     "url": "https://www.itlos.org/en/main/cases/webcast/webcast-archives-case-no-37/",
+     "official": true
+    },
+    {
+     "label": "國際海洋法法庭新聞稿第 402 號（辯論期日）",
+     "url": "https://www.itlos.org/fileadmin/itlos/documents/press_releases_english/PR_402_EN.pdf",
+     "official": true
+    },
+    {
+     "label": "Diario Crónica 報導（西班牙文）",
+     "url": "https://www.diariocronica.com.ar/noticias/2026/11/10/177020-arrancaron-las-audiencias-por-malvinas-entre-argentina-y-el-reino-unido",
+     "official": false
+    },
+    {
+     "label": "Infobae 報導（西班牙文）",
+     "url": "https://www.infobae.com/politica/2026/11/10/argentina-va-al-tribunal-del-mar-para-frenar-sea-lion-en-malvinas-los-argumentos-contra-el-reino-unido/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-10T23:04:43+08:00",
+   "related": [
+    "2026-10-20-itlos-argentina-uk-hearing",
+    "2026-10-13-itlos-argentina-uk",
+    "2026-11-09-oj-disputed-continental-shelf-83-3"
+   ]
+  },
+  {
+   "id": "2026-11-10-icc-duterte-defence-p1334-p1348",
+   "court": "ICC",
+   "kind": "程序進展",
+   "caseId": "icc-duterte",
+   "date": "2026-11-10",
+   "eventDate": "2026-11-09",
+   "importance": 1,
+   "title": "杜特蒂案：辯方指證人 P-1334、P-1348 陳述多屬傳聞，反對檢方以先前證詞方式採用",
+   "shortTitle": "杜特蒂辯方指兩名證人陳述屬傳聞",
+   "point": "P-1334、P-1348 在起訴期間幾乎都不在場，辯方不詰問但請法官排除涉及被告本人行為部分",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte – Defence response to the Prosecution's Rule 68(2)(b) application concerning P-1334 and P-1348",
+   "caseRef": "ICC-01/21-01/25",
+   "tldr": "檢方 10 月 21 日請法官直接採用兩名證人先前的錄製陳述，不讓他們出庭，用來證明「消滅罪犯」的政策。杜特蒂的律師 11 月 9 日回應：這兩人在起訴的大部分期間都不在場，說法多來自報紙或旁人轉述，對決策過程幾乎沒有親身認識。辯方表示不會要求詰問，交由法官決定，但請法官不要採用其中涉及杜特蒂本人行為的段落。",
+   "memo": "杜特蒂之辯護人於 2026 年 11 月 9 日向國際刑事法院第三審判分庭提出回應，就檢察官依程序及證據規則第 68 條第 2 項 b 款採用證人 P-1334、P-1348 先前錄製證詞之聲請表示意見；辯方主張兩名證人於起訴之大部分期間不在場，對決策及行動欠缺親身知識，陳述多屬傳聞，惟不請求詰問而委由分庭裁量，並請求分庭不予採用涉及被告本人行為（包括下令殺人及資金歸屬）之段落。審判分庭尚未裁定。",
+   "context": "開審前，檢方陸續提出多件依規則第 68 條採用先前錄製證詞的聲請，以精簡審判（見本站 10 月 23 日、11 月 3 日、11 月 5 日各則）。依規則第 68 條第 2 項 b 款，證人可不出庭，但所採用的陳述原則上應與被告本人行為無涉。\n審判預定 2026 年 11 月 30 日在海牙開始。",
+   "facts": [
+    "檢方於 10 月 21 日聲請依規則第 68 條第 2 項 b 款採用 P-1334、P-1348 的先前陳述，免其出庭，主張可證明危害人類罪的背景要件，特別是「消滅」罪犯的政策。",
+    "辯護人 Peter Haynes 於 11 月 9 日提出回應，以塗銷版公開。",
+    "辯方指兩人在杜特蒂總統任內兩項罪狀涵蓋的期間幾乎都不在場；P-1334 承認未親見德拉羅薩轉達杜特蒂指示，其說法來自聽聞，對第 13 號事件的認識來自報紙或旁人談論。",
+    "辯方表示若分庭採用，將不聲請詰問，交由法官裁量；但請求分庭不考慮涉及杜特蒂本人行為的段落，包括下令殺人及將特定資金歸於杜特蒂的說法。"
+   ],
+   "issues": [
+    "程序及證據規則第 68 條第 2 項 b 款：以先前錄製證詞代替出庭的要件，及涉及「被告本人行為」之陳述的排除。",
+    "傳聞證據的證據能力與證明力，以及羅馬規約第 67 條被告詰問證人之權利。"
+   ],
+   "holding": "辯方未反對整體採用，但主張證據價值極低，並請求排除涉及被告本人行為的段落。審判分庭尚未裁定。",
+   "significance": "與辯方先前對其他第 68 條聲請的回應相比（見本站 10 月 27 日、11 月 8 日各則），辯方這次選擇不爭執出庭，而是攻擊證據價值並劃出「被告本人行為」的界線；分庭如何處理，將決定此類背景證人陳述在審判中的份量。",
+   "editorNote": "本網頁助理 註：本則僅依 Philstar 報導撰寫，未能取得辯方書狀公開版本及其文件編號；報導未載明 P-1348 的具體陳述內容。",
+   "tags": [
+    "國際刑事法院",
+    "杜特蒂",
+    "菲律賓",
+    "掃毒戰爭",
+    "先前錄製證詞",
+    "第68條",
+    "傳聞證據",
+    "德拉羅薩"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院杜特蒂案頁面",
+     "url": "https://www.icc-cpi.int/philippines/duterte",
+     "official": true
+    },
+    {
+     "label": "Philstar 報導",
+     "url": "https://philstar.com/headlines/2026/11/10/2569195/duterte-defense-asks-icc-drop-two-witnesses-calls-their-accounts-hearsay",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-10T23:04:43+08:00",
+   "related": [
+    "2026-10-27-icc-duterte-defence-rule68-2b",
+    "2026-11-08-icc-duterte-defence-oppose-p1400"
+   ]
   }
  ],
  "agenda": [
@@ -6829,6 +6971,16 @@
    "url": "https://au.int/en/pressreleases/20261106/achpr-convene-its-8rrd-ordinary-session-9-november-4-december-2026",
    "relatedId": "",
    "caseId": ""
+  },
+  {
+   "id": "tbd-itlos-argentina-uk-order",
+   "date": "",
+   "court": "ITLOS",
+   "title": "阿根廷訴英國：臨時措施裁定宣示",
+   "note": "辯論 11 月 11 日終結；媒體推估約 11 月中旬宣示，法庭尚未公布日期。",
+   "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/",
+   "relatedId": "2026-11-10-itlos-argentina-uk-hearing-day1",
+   "caseId": "argentina-v-uk-sea-lion"
   }
  ],
  "archives": [],
@@ -6897,7 +7049,7 @@
    "nameOriginal": "Case concerning hydrocarbon exploitation in the South-West Atlantic Ocean (Argentina v. United Kingdom)",
    "caseRef": "",
    "summary": "阿根廷依《聯合國海洋法公約》對英國提起程序，並請 ITLOS 在附件七仲裁庭組成前規定臨時措施，阻止英國支持的 Sea Lion 油田開發。",
-   "status": "臨時措施言詞辯論訂於 2026 年 11 月 10、11 日在漢堡舉行。"
+   "status": "ITLOS 於 2026 年 11 月 10、11 日舉行臨時措施言詞辯論，裁定尚待作成。"
   },
   {
    "id": "nori-toml-v-isa",
