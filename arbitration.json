@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-10T23:15:55+08:00",
-  "lastRunLocal": "2026-11-10 23:15",
+  "lastRun": "2026-11-11T07:28:32+08:00",
+  "lastRunLocal": "2026-11-11 07:28",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 4 則：商務仲裁 4（機構 2、評論 2）；投資仲裁本次未發現新動態",
+  "lastRunNote": "新增 2 則：投資仲裁 2（法院裁判 1、仲裁庭決定 1）；商務仲裁本次未發現新動態",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -2751,7 +2751,9 @@
     "俄羅斯",
     "英國"
    ],
-   "related": [],
+   "related": [
+    "2026-11-09-arb-ddc-yukos-russia-petition-stayed"
+   ],
    "sources": [
     {
      "label": "Solicitors Journal 判決報導",
@@ -7084,6 +7086,142 @@
     }
    ],
    "addedAt": "2026-11-10T23:15:55+08:00"
+  },
+  {
+   "id": "2026-11-09-arb-ddc-yukos-russia-petition-stayed",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "investment",
+   "caseId": "yukos-v-russia",
+   "jurisdiction": "美國",
+   "outlet": "Mealey's 國際仲裁（依新聞報導）",
+   "outletCode": "MEA",
+   "date": "2026-11-09",
+   "eventDate": "2026-11-06",
+   "importance": 2,
+   "author": "",
+   "title": "美國哥倫比亞特區聯邦地院裁定暫停 Yukos 前股東對俄羅斯的判斷確認訴訟，並駁回命俄國提供 106 億美元擔保之聲請",
+   "shortTitle": "美國法院暫停 Yukos 對俄羅斯執行案",
+   "point": "等待另一件類似爭點的上訴結果，並拒絕命俄國提供 106 億美元擔保",
+   "titleOriginal": "Hulley Enterprises Ltd., et al. v. Russian Federation, No. 1:14-cv-01996 (D.D.C.), Memorandum and Order of 6 November 2026",
+   "caseRef": "No. 1:14-cv-01996 (D.D.C.)",
+   "tldr": "Yukos 石油公司的三名前股東在美國法院請求確認他們對俄羅斯約 500 億美元（加計利息後逾 680 億美元）的仲裁判斷。法官決定先暫停這個案子，等另一件涉及類似問題的上訴有結果再說；股東要求俄羅斯在暫停期間先提供 106 億美元擔保，也被駁回。",
+   "memo": "美國哥倫比亞特區聯邦地方法院於 2026 年 11 月 6 日就 Hulley Enterprises 等 Yukos 前股東聲請確認其對俄羅斯聯邦逾 680 億美元（含利息）之能源憲章條約仲裁判斷一案，裁定於另一件涉及類似爭點之對俄上訴案判決前暫停訴訟，認為短暫停止不致對聲請人造成重大不利；並駁回聲請人請求命俄羅斯提供 106 億美元擔保及加速審理之聲請。",
+   "context": "Hulley Enterprises、Yukos Universal 與 Veteran Petroleum 三名 Yukos 前股東，依能源憲章條約在常設仲裁法院（PCA）行政協助下以 UNCITRAL 規則對俄羅斯提起仲裁，仲裁庭於 2014 年 7 月作成合計約 500 億美元之判斷（PCA Case Nos. AA 226-228）。荷蘭法院就仲裁判斷撤銷之訴歷經多次審理。\n股東於 2014 年在美國哥倫比亞特區聯邦地院聲請確認判斷（No. 14-cv-1996），該案先前曾因荷蘭程序而長期停止。D.C. 巡迴上訴法院 2025 年 8 月 5 日曾就本案相關爭點作成判決。\n在英國，上訴法院於 2026 年 10 月 22 日命俄羅斯為其上訴提供 97.5 萬英鎊費用擔保（見相關條目）。",
+   "facts": [
+    "Yukos 前股東請求確認之判斷金額，依報導加計利息後逾 680 億美元。",
+    "法院先前命兩造就是否應停止訴訟陳述意見（order to show cause）；股東反對停止，並另聲請命俄羅斯提供 106 億美元擔保及加速審理。",
+    "法院於 2026 年 11 月 6 日作成備忘錄與裁定。"
+   ],
+   "issues": [
+    "法院是否應在另一件涉及類似爭點之對俄上訴案判決前，停止本件仲裁判斷確認訴訟。",
+    "停止訴訟期間，得否命外國國家提供擔保。"
+   ],
+   "holding": "依報導，法院認為短暫停止訴訟不會對股東造成重大不利，並指出股東不論是否停止訴訟都面臨相同困難，因而裁定停止訴訟至相關上訴有結果為止。\n法院同時駁回股東請求命俄羅斯提供 106 億美元擔保之聲請，以及加速審理之聲請。",
+   "significance": "Yukos 判斷在美國的執行再度延後；停止期間長短取決於所等待之上訴案進度。駁回擔保聲請，代表股東在美國程序中暫時無法取得俄國資產擔保。英國的承認程序則仍在上訴法院進行。",
+   "editorNote": "本網頁助理 註：本則依 Mealey's 與 Law360 報導之公開摘要撰寫，尚未取得裁定原文；報導未載明法院所等待之上訴案名稱，亦未在公開摘要中明載承審法官，故本則不予推定。",
+   "tags": [
+    "承認與執行",
+    "Yukos",
+    "俄羅斯",
+    "美國",
+    "能源憲章條約",
+    "PCA",
+    "停止訴訟",
+    "國家豁免",
+    "FSIA"
+   ],
+   "related": [
+    "2026-10-22-arb-ewca-yukos-russia-security-costs"
+   ],
+   "sources": [
+    {
+     "label": "Mealey's 報導（裁定摘要）",
+     "url": "https://www.mealeys.com/mealeys/mealeys-international-arbitration/articles/2548039",
+     "official": false
+    },
+    {
+     "label": "Law360 報導（訂閱）",
+     "url": "https://www.law360.com/articles/2547545/dc-judge-pauses-decade-old-50b-yukos-russia-award-suit",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T07:28:32+08:00"
+  },
+  {
+   "id": "2026-11-05-arb-dekanoidze-v-georgia-jurisdiction",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "investment",
+   "caseId": "dekanoidze-v-georgia",
+   "jurisdiction": "",
+   "outlet": "ICSID",
+   "outletCode": "ICSID",
+   "date": "2026-11-05",
+   "eventDate": "2026-08-14",
+   "importance": 1,
+   "author": "",
+   "title": "ICSID 仲裁庭一致駁回喬治亞對美國投資人 Dekanoidze 的國籍與投資歸屬管轄權異議，鐵路維修廠案進入實體審理",
+   "shortTitle": "喬治亞鐵路維修廠案：管轄權異議遭駁回",
+   "point": "雙重國籍不妨礙管轄權，妻子名下股份依夫妻共有財產屬其投資",
+   "titleOriginal": "Mirian G. Dekanoidze and T.G. Trade LLC v. Georgia (ICSID Case No. ARB/23/45), Decision on Bifurcated Preliminary Objections of 14 August 2026",
+   "caseRef": "ICSID Case No. ARB/23/45",
+   "tldr": "一位美國商人與他的喬治亞公司主張，喬治亞以騷擾和法院判決奪走他們在一家鐵路維修工廠的權益，依美國－喬治亞投資協定求償約 1.5 億美元。喬治亞主張他當時也有喬治亞國籍、股份又登記在太太名下，所以仲裁庭沒有管轄權。仲裁庭一致駁回這兩項異議，案件將繼續審理實體。",
+   "memo": "ICSID 仲裁庭（Judith Levine 主任仲裁人、Hamid Gharavi、Attila Tanzi）於 2026 年 8 月 14 日就 Dekanoidze 及 T.G. Trade 訴喬治亞案（ICSID Case No. ARB/23/45）作成分階段先決異議決定，一致駁回喬治亞所提屬人及屬物管轄權異議：認定 Dekanoidze 於相關時點具美國國籍，其雙重國籍不構成管轄障礙；其配偶名下股份依喬治亞夫妻共有財產制度，構成 1994 年美國－喬治亞雙邊投資協定保護之投資。依報導，仲裁庭並命喬治亞負擔先前程序階段之費用。決定已於 2026 年 11 月公開。",
+   "context": "聲請人 Mirian G. Dekanoidze（美國籍）及其喬治亞公司 T.G. Trade LLC 依 1994 年美國－喬治亞雙邊投資協定及 ICSID 公約對喬治亞提起仲裁，ICSID 於 2023 年 10 月 3 日登錄，適用 2022 年 ICSID 仲裁規則，仲裁庭於 2024 年 3 月 8 日組成。\n聲請人主張，T.G. Trade 在一家喬治亞鐵路維修工廠的權益，因國家支持的騷擾行動及法院程序而被迫喪失，並指稱喬治亞最高法院 2019 年判決構成拒絕正義；請求涵蓋直接與間接徵收及公平公正待遇，求償約 1.5 億美元。\n喬治亞先於 2025 年 1 月 20 日依 ICSID 仲裁規則第 41 條提出顯無理由之異議，遭仲裁庭駁回；仲裁庭於 2025 年 8 月 1 日第 5 號程序命令准予就兩項管轄權異議分階段審理，並暫停實體程序。2026 年 1 月 12 至 13 日於巴黎舉行管轄權庭審。",
+   "facts": [
+    "Dekanoidze 原具喬治亞國籍，喬治亞主張其於被指控違約時仍為喬治亞國民，並在違約後放棄喬治亞國籍再提起仲裁。",
+    "系爭工廠股份登記於 Dekanoidze 之配偶名下。",
+    "ICSID 於 2026 年 11 月 5 日公開本件決定。"
+   ],
+   "issues": [
+    "屬人管轄：具美國與喬治亞雙重國籍之自然人，得否依 ICSID 公約第 25 條第 2 項第 a 款及美國－喬治亞投資協定對喬治亞提起仲裁；國籍判斷之關鍵時點。",
+    "屬物管轄：登記於配偶名下之股份，是否構成聲請人本人之投資，從而使 T.G. Trade 亦受協定保護。"
+   ],
+   "holding": "依 ICSID 公開資訊及二手報導，仲裁庭一致駁回喬治亞兩項異議：\n・國籍：仲裁庭認定 Dekanoidze 於相關時點具美國國籍，其雙重國籍不妨礙管轄權。\n・投資歸屬：仲裁庭認定，依喬治亞法上的夫妻共有財產概念，配偶名下股份構成受協定保護之投資。\n・費用：依 Mealey's 報導，仲裁庭並命喬治亞負擔先前程序階段之費用。",
+   "significance": "案件將恢復實體審理。本決定涉及 ICSID 公約對地主國國民之排除規定與雙重國籍、及以配偶名義持有投資等常見爭點，對前蘇聯地區類似家族持股結構之投資人具參考價值。",
+   "editorNote": "本網頁助理 註：本則依 ICSID 案件頁面、IFILA 部落格季度回顧及 Mealey's 報導撰寫；ICSID 決定全文（PDF）已公開，但本網頁助理本次無法開啟，尚未取得判斷原文，仲裁庭之具體理由及費用金額以原文為準。依 ICSID 案件頁面，決定日期為 2026 年 8 月 14 日；Mealey's 稱 ICSID 於 11 月 5 日公開。",
+   "tags": [
+    "ICSID",
+    "喬治亞",
+    "美國",
+    "雙邊投資協定",
+    "管轄權",
+    "雙重國籍",
+    "第25條",
+    "仲裁費用",
+    "拒絕正義",
+    "徵收"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 案件頁面（含決定全文連結）",
+     "url": "https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB/23/45",
+     "official": true
+    },
+    {
+     "label": "italaw 案件頁面",
+     "url": "https://www.italaw.com/cases/11985",
+     "official": false
+    },
+    {
+     "label": "Mealey's 報導",
+     "url": "https://www.mealeys.com/mealeys/mealeys-international-arbitration/articles/2547518/tribunal-dismisses-georgia-s-bifurcated-objections-to-railway-investors-claims",
+     "official": false
+    },
+    {
+     "label": "IFILA 部落格季度回顧",
+     "url": "https://blog.ifila.org/2026/10/06/quarterly-review-may-september-2026/",
+     "official": false
+    },
+    {
+     "label": "UNCTAD 投資爭端資料庫",
+     "url": "https://investmentpolicy.unctad.org/investment-dispute-settlement/cases/1324/dekanoidze-and-t-g-trade-v-georgia",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-11T07:28:32+08:00"
   }
  ],
  "agenda": [
@@ -7320,12 +7458,12 @@
    "type": "案件",
    "court": "COURT",
    "field": "investment",
-   "forum": "英國法院等",
+   "forum": "英國、美國法院等",
    "name": "Yukos 前股東訴俄羅斯（約 500 億美元判斷之執行）",
    "nameOriginal": "Hulley Enterprises Ltd, Yukos Universal Ltd and Veteran Petroleum Ltd v. Russian Federation",
-   "caseRef": "PCA Case Nos. AA 226-228; [2026] EWCA Civ 1353",
+   "caseRef": "PCA Case Nos. AA 226-228; [2026] EWCA Civ 1353; No. 1:14-cv-01996 (D.D.C.)",
    "summary": "Yukos 前股東依能源憲章條約取得約 500 億美元的 2014 年判斷，於荷蘭以外多國聲請承認與執行。",
-   "status": "英國上訴法院 2026 年 10 月 22 日命俄羅斯於 2027 年 3 月 1 日前為其上訴提供 97.5 萬英鎊費用擔保。"
+   "status": "英國上訴法院 2026 年 10 月 22 日命俄羅斯提供 97.5 萬英鎊費用擔保；美國哥倫比亞特區聯邦地院 11 月 6 日裁定暫停確認訴訟，並駁回 106 億美元擔保聲請。"
   },
   {
    "id": "naftogaz-v-russia",
@@ -7662,6 +7800,18 @@
    "caseRef": "",
    "summary": "Agility 與 Orange 合資之 Iraq Telecom 依股東協議提起 ICC 仲裁，2023 年獲判 Korek 及其董事長 Barzani 賠償逾 16.5 億美元，並在多個法域聲請執行。",
    "status": "據 2026 年 11 月 6 日報導，開曼群島法院以延宕逾兩年為由不准 Barzani 就執行命令上訴，執行程序續行。"
+  },
+  {
+   "id": "dekanoidze-v-georgia",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Dekanoidze 訴喬治亞（鐵路維修廠案）",
+   "nameOriginal": "Mirian G. Dekanoidze and T.G. Trade LLC v. Georgia",
+   "caseRef": "ICSID Case No. ARB/23/45",
+   "summary": "美國籍投資人及其喬治亞公司主張喬治亞以騷擾與法院判決使其喪失鐵路維修廠權益，依美國－喬治亞投資協定求償約 1.5 億美元。",
+   "status": "仲裁庭 2026 年 8 月 14 日駁回喬治亞管轄權異議，案件進入實體階段。"
   }
  ]
 }
