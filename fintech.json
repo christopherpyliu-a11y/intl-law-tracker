@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-10T07:43:42+08:00",
-  "lastRunLocal": "2026-11-10 07:43",
+  "lastRun": "2026-11-10T23:42:01+08:00",
+  "lastRunLocal": "2026-11-10 23:42",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 6 則：美國 4（政策動態 3、執法案件 1）、亞太與其他 2（監理指引 1、政策動態 1）"
+  "lastRunNote": "新增 4 則：歐盟 1（政策動態 1）、美國 1（司法案件 1）、亞太與其他 2（法規發布 1、政策動態 1）"
  },
  "items": [
   {
@@ -3069,7 +3069,8 @@
     "2026-10-27-fin-cftc-sues-utah-prediction-markets",
     "2026-10-28-fin-utah-criminal-charges-kalshi",
     "2026-10-30-fin-sec-woodcock-prediction-markets",
-    "2026-11-02-fin-illinois-prediction-markets-injunction-appeal"
+    "2026-11-02-fin-illinois-prediction-markets-injunction-appeal",
+    "2026-11-10-fin-missouri-prediction-market-suits-escalate"
    ],
    "sources": [
     {
@@ -3276,7 +3277,9 @@
     "中國人民銀行",
     "中國大陸"
    ],
-   "related": [],
+   "related": [
+    "2026-11-05-fin-china-state-council-financial-report-rwa"
+   ],
    "sources": [
     {
      "label": "新華社英文報導",
@@ -5465,7 +5468,8 @@
    "related": [
     "2026-11-04-fin-ninth-circuit-denies-kalshi-rehearing",
     "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction",
-    "2026-11-06-fin-blue-lake-rancheria-kalshi-injunction"
+    "2026-11-06-fin-blue-lake-rancheria-kalshi-injunction",
+    "2026-11-10-fin-missouri-prediction-market-suits-escalate"
    ],
    "sources": [
     {
@@ -6597,6 +6601,287 @@
     }
    ],
    "addedAt": "2026-11-10T07:43:42+08:00"
+  },
+  {
+   "id": "2026-11-09-fin-etsg-tokenisation-standards-call",
+   "court": "ECB",
+   "kind": "政策動態",
+   "caseId": "eurosystem-digital-euro-tokenisation",
+   "jurisdiction": "歐盟",
+   "outlet": "歐洲中央銀行（ECB）",
+   "outletCode": "ECB",
+   "date": "2026-11-09",
+   "eventDate": "2026-11-09",
+   "importance": 2,
+   "author": "",
+   "title": "歐洲央行、執委會與 ESMA 籌組「歐洲代幣化標準小組」，公開徵求產業成員至 11 月 27 日",
+   "shortTitle": "歐盟籌組代幣化標準小組徵成員",
+   "point": "由產業主導、三機關列席觀察，提名 11 月 27 日截止",
+   "titleOriginal": "EU seeks nominations for stakeholder group on tokenisation standards in finance",
+   "caseRef": "",
+   "tldr": "歐洲央行、歐盟執委會和歐洲證券及市場管理局（ESMA）要成立一個由業界主導的「歐洲代幣化標準小組」（ETSG），為不同區塊鏈平台上的代幣化金融商品訂出共通標準，讓它們能互通。現在開放業者報名，11 月 27 日截止。",
+   "memo": "歐洲中央銀行、歐盟執委會及歐洲證券及市場管理局於 2026 年 11 月 9 日共同公告籌組歐洲代幣化標準小組（European Tokenisation Standards Group, ETSG），並公開徵求成員提名至 2026 年 11 月 27 日止。該小組以產業共識為基礎、由產業參與者擔任主席，三機關僅列席觀察，任務為制定互聯之代幣化金融生態系共通標準、建立遵循監測架構，並得就主管機關如何誘導遵循提出建議；徵求對象包括歐盟同業公會、民間機構、金融科技業者及技術供應商。",
+   "context": "歐盟執委會於 2025 年 12 月提出市場整合與監理套案（MISP），其中一項措施要求後台交易價值鏈之參與者推動分散式帳本（DLT）市場基礎設施之互通，並建立配套技術標準；套案亦大幅修正 DLT 試行制度。\n歐元體系另推動 Pontes（以央行貨幣結算 DLT 交易之短期方案）與 Appia（長期代幣化生態系藍圖），Appia 藍圖預定 2028 年完成。",
+   "facts": [
+    "公告日期：2026 年 11 月 9 日，由歐洲央行、歐盟執委會（金融穩定、金融服務及資本市場聯盟總署）與 ESMA 共同發布。",
+    "提名截止：2026 年 11 月 27 日；職權範圍（mandate）及徵求文件分別列於歐洲央行公告附件 1、附件 2。",
+    "主席由產業參與者擔任，歐洲央行、執委會及 ESMA 為觀察員。",
+    "徵求對象：歐盟同業公會、民間機構、全球性機構、金融科技業者及技術供應商等從事代幣化或 DLT 金融服務者，以批發金融市場參與者為主。",
+    "依 Coin Gabbar、Genfinity 等媒體報導，小組預計 2027 年 1 月開始運作、首批標準目標為 2028 年初；官方公告頁未載明此時程。"
+   ],
+   "issues": [
+    "由產業自律制定之標準，與 MISP 及修正後 DLT 試行制度下之法定技術標準如何銜接？",
+    "主管機關得「誘導遵循」之方式為何，是否將間接形成事實上之強制標準？"
+   ],
+   "holding": "・任務：制定互聯代幣化金融生態系之共通標準，涵蓋不同 DLT 平台間及其與傳統基礎設施間之互通。\n・建立標準遵循之監測架構，並得建議歐盟主管機關如何誘導業者遵循。\n・治理：以產業共識為基礎、由產業參與者擔任主席，歐洲央行、執委會與 ESMA 列席觀察。\n・程序：有意者依附件 2 提出提名，期限 2026 年 11 月 27 日。",
+   "significance": "此為歐盟主管機關首次就代幣化證券之共通標準籌設正式的公私協作平台，可能影響未來歐盟代幣化市場的技術互通規則及 Appia 藍圖之設計。後續可觀察成員名單、小組正式運作時程，以及 MISP 立法進度。",
+   "editorNote": "本網頁助理 註：2027 年 1 月啟動、2028 年初提出首批標準之時程來自媒體報導，Genfinity 稱 2028 年目標出自社群平台轉貼，歐洲央行與執委會公告頁未載明；職權範圍附件（PDF）本網頁助理未能開啟，範圍描述部分參考媒體摘要。",
+   "tags": [
+    "代幣化",
+    "DLT",
+    "標準制定",
+    "ETSG",
+    "MISP",
+    "Appia",
+    "歐洲央行",
+    "ESMA",
+    "歐盟執委會",
+    "歐盟"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "歐洲央行公告（徵求 ETSG 成員）",
+     "url": "https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews261109.en.html",
+     "official": true
+    },
+    {
+     "label": "歐盟執委會金融總署公告",
+     "url": "https://finance.ec.europa.eu/news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance-2026-11-09_en",
+     "official": true
+    },
+    {
+     "label": "Genfinity 報導",
+     "url": "https://genfinity.io/2026/11/09/european-tokenisation-standards-group-ecb-esma-tokenized-securities/",
+     "official": false
+    },
+    {
+     "label": "Coin Gabbar 報導",
+     "url": "https://www.coingabbar.com/en/european-tokenization-standards-etsg",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-10T23:42:01+08:00"
+  },
+  {
+   "id": "2026-11-10-fin-missouri-prediction-market-suits-escalate",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國密蘇里州",
+   "outlet": "Well Played；Gaming.net",
+   "outletCode": "WP",
+   "date": "2026-11-10",
+   "eventDate": "2026-11-09",
+   "importance": 2,
+   "author": "",
+   "title": "密蘇里州預測市場訴訟擴大：Underdog、Robinhood、Polymarket US 相繼起訴州檢察總長，州政府對 Novig 提出反訴",
+   "shortTitle": "密蘇里預測市場訴訟擴大至六家",
+   "point": "Robinhood、Polymarket US 11 月 9 日起訴，州政府同日對 Novig 提三項反訴",
+   "titleOriginal": "Four prediction-market exchanges are now fighting Missouri in federal court; Missouri Counterclaims Expand Prediction Market Litigation",
+   "caseRef": "Robinhood Derivatives LLC v. Hanaway；QCX LLC v. Hanaway；Ludlow Exchange LLC v. Hanaway（E.D. Mo.）",
+   "tldr": "密蘇里州檢察總長 9 月要求預測市場業者取得州運動博弈執照或停止提供運動合約，至今已有六家業者到聯邦法院告州政府，主張聯邦期貨法優先於州賭博法。州政府也反守為攻，對其中一家 Novig 提起反訴，主張其經營非法網路賭博。",
+   "memo": "依 Well Played 及 Gaming.net 2026 年 11 月 10 日報導，密蘇里州檢察總長 Hanaway 於 2026 年 9 月對六家預測市場業者發出停止令後，Underdog 於 11 月 8 日向密蘇里州西區聯邦地方法院起訴並聲請初步禁制令，Robinhood Derivatives 及 Polymarket US（QCX LLC）於 11 月 9 日向東區聯邦地方法院起訴，主張《商品交易法》優先適用及違反商務條款；Crypto.com 與 Novig 於 11 月 8 日聲請初步禁制令。州政府於 11 月 9 日在 Novig 案提出答辯及依《非法網路賭博執法法》、州商業行為法及公共妨害之三項反訴，請求禁制、返還及每次違規最高 1,000 美元之民事罰款。",
+   "context": "密蘇里州檢察總長於 2026 年 9 月 16 至 18 日致函 Polymarket、Kalshi、Crypto.com、Novig、Underdog 及 Robinhood，要求取得州博弈委員會執照、繳納調整後總收入 10% 之稅並禁止未滿 21 歲者使用，否則停止提供運動事件合約。\nCrypto.com 與 Novig 於 10 月 16 日、Kalshi 於 10 月 27 日先後起訴。此類 CFTC 管轄與州賭博法之衝突，已在內華達、紐澤西、伊利諾、猶他等州及多個聯邦上訴法院審理中，CFTC 亦於 11 月 5 日要求業者停止依州封鎖。",
+   "facts": [
+    "依 Gaming.net 引述 Robinhood 起訴狀，密蘇里州訟務長於 11 月 6 日警告，檢察總長將於「至少三日內」聲請遵循命令。",
+    "Underdog Exchange DCM 於 11 月 8 日在密蘇里州西區聯邦地院（Jefferson City，Beth Phillips 法官）起訴並聲請初步禁制令。",
+    "Robinhood Derivatives 與 Polymarket US（QCX LLC）於 11 月 9 日在密蘇里州東區聯邦地院起訴，請求確認判決、暫時限制令及禁制令；Polymarket US 並主張違反商務條款。",
+    "Crypto.com（North American Derivatives Exchange）與 Novig 於 11 月 8 日聲請初步禁制令；依 Well Played 報導，州政府對 Crypto.com 聲請之答辯期限為 11 月 23 日。",
+    "Kalshi 於 11 月 6 日聲請暫時限制令及初步禁制令；州政府 11 月 5 日聲請將 Novig 案與 Kalshi 案合併。",
+    "州政府 11 月 9 日於 Novig 案提出三項反訴：違反《非法網路賭博執法法》（UIGEA）、違反《密蘇里商業行為法》之不公平行為、普通法公共妨害。"
+   ],
+   "issues": [
+    "CFTC 核准之指定契約市場所掛牌運動事件合約，是否因《商品交易法》而排除州賭博法之適用？",
+    "州政府得否依 UIGEA 對聯邦監理之交易所主張其受理之資金屬非法網路賭博？",
+    "州對預測市場之管制是否違反聯邦憲法商務條款？"
+   ],
+   "holding": "・業者主張：運動事件合約屬 CFTC 專屬管轄之交換或期貨契約，《商品交易法》優先於州賭博法；州之執照、課稅與年齡限制干預跨州商務。\n・業者請求：確認判決、暫時限制令、初步及永久禁制令，禁止州政府執行停止令。\n・州政府反訴（Novig 案）：依 UIGEA 禁止 Novig 受理密蘇里居民之賭博相關資金、依州商業行為法請求返還及每次違規最高 1,000 美元之民事罰款，並請求確認構成公共妨害、予以排除，以及駁回 Novig 之訴。\n・法院尚未就任何禁制令聲請作成裁定。",
+   "significance": "密蘇里成為同時面對最多預測市場業者訴訟的州，且州政府首度以 UIGEA 對業者提出反訴，可能擴大州政府對抗聯邦優先適用的法律工具。後續可觀察法院是否合併審理、禁制令聲請之裁定，以及第八巡迴 KalshiEX v. Bird 上訴案（依報導書狀期限至 12 月 7 日）。",
+   "editorNote": "本網頁助理 註：本則依 Well Played 及 Gaming.net 報導整理，起訴狀與法院文件本網頁助理未能直接取得；兩報導對 Kalshi 案承審法院記載不一（本站 10 月 29 日一則依其他報導記為密蘇里州東區聯邦地院）。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先適用",
+    "UIGEA",
+    "商品交易法",
+    "Robinhood",
+    "Polymarket",
+    "Underdog",
+    "Novig",
+    "密蘇里州",
+    "美國"
+   ],
+   "related": [
+    "2026-10-29-fin-kalshi-sues-missouri",
+    "2026-11-05-fin-cftc-impartial-access-geofencing"
+   ],
+   "sources": [
+    {
+     "label": "Well Played 報導",
+     "url": "https://www.well-played.com.au/underdog-sues-missouri-prediction-markets-injunctions/",
+     "official": false
+    },
+    {
+     "label": "Gaming.net 報導",
+     "url": "https://www.gaming.net/missouri-counterclaims-expand-prediction-market-litigation/",
+     "official": false
+    },
+    {
+     "label": "密蘇里州檢察總長停止令新聞稿",
+     "url": "https://ago.mo.gov/missouri-attorney-general-hanaway-orders-unlicensed-prediction-markets-to-cease-and-desist-unlawful-sports-wagering/",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-10T23:42:01+08:00"
+  },
+  {
+   "id": "2026-11-09-fin-korea-civil-execution-rules-virtual-assets",
+   "court": "KR",
+   "kind": "法規發布",
+   "caseId": "",
+   "jurisdiction": "南韓",
+   "outlet": "法律新聞（Law Times）",
+   "outletCode": "LAWTIMES",
+   "date": "2026-11-09",
+   "eventDate": "2026-11-01",
+   "importance": 2,
+   "author": "",
+   "title": "南韓大法院修正《民事執行規則》，明定虛擬資產扣押、移轉及變價之強制執行程序，11 月 1 日施行",
+   "shortTitle": "南韓明定虛擬資產強制執行程序",
+   "point": "修正民事執行規則 11 月 1 日施行，交易所及個人錢包資產均可扣押變價",
+   "titleOriginal": "가상자산 압류·현금화 절차 구체화… 민사집행규칙 개정",
+   "caseRef": "《民事執行規則》第 175 條之 2 等",
+   "tldr": "南韓法院過去處理債務人持有的比特幣等虛擬資產時，只能比照「其他財產權」執行，做法不一。大法院修改規則，明確規定存在交易所與存在個人錢包的虛擬資產要怎麼扣押、交給執行官，以及透過交易所賣掉換成現金。",
+   "memo": "依法律新聞（Law Times）及首爾經濟新聞 2026 年 11 月 9 日報導，南韓大法院法院行政處於同日公布已修正《民事執行規則》，增訂虛擬資產強制執行專節（第 175 條之 2 等），自 2026 年 11 月 1 日施行。對交易所保管之資產，以債務人對交易所之「虛擬資產移轉請求權」為扣押標的，並得以移轉命令或出售命令變價；對個人錢包保管者，以資產本身為扣押標的，得命移交執行官並經交易所出售，難以出售之幣種得先兌換為流動性較高之虛擬資產。",
+   "context": "南韓《民事執行法》原無虛擬資產專門規定，法院多比照「其他財產權」之執行程序辦理，因虛擬資產無實體亦無公示登記，實務處理不一。法院行政處自 2025 年 7 月成立專案小組研議，並蒐集相關機關與業界意見。\n以 28 家已申報虛擬資產業者為第三債務人之民事執行案件快速增加。",
+   "facts": [
+    "法院行政處於 2026 年 11 月 9 日公布，修正規則自 2026 年 11 月 1 日施行。",
+    "依法律新聞報導，以 28 家已申報虛擬資產業者為第三債務人之民事執行案件：2023 年 423 件、2024 年 958 件、2025 年 3,136 件，2026 年 1 至 9 月已達 3,186 件。",
+    "交易所保管資產遭扣押後，交易所不得向債務人移轉，債務人亦不得處分該請求權或受領資產。",
+    "變價方式包括：委託交易所出售；移轉至執行官名義之交易所帳戶後出售；移交執行官後經其他交易所出售；難以出售者先兌換為流動性較高之虛擬資產再出售。",
+    "法院應考量資產種類、交易狀況、交易所可否配合及當事人意見選擇變價方式；執行官原則以出售當日市價出售。"
+   ],
+   "issues": [
+    "自行保管之私鑰無法強制取得時，命移交執行官之命令如何確保實效？",
+    "交易所作為第三債務人之配合義務與責任範圍。"
+   ],
+   "holding": "・扣押標的：交易所保管者為「虛擬資產移轉請求權」（請求將特定種類、數量之虛擬資產移轉至指定地址之權利）；個人錢包保管者為虛擬資產本身。\n・扣押效力：交易所不得向債務人移轉，債務人不得處分或受領。\n・變價：得以移轉命令或出售命令為之；出售得委託交易所、或由執行官經交易所帳戶出售；個人錢包資產得命移交執行官後出售。\n・流動性低之幣種得先兌換為較易出售之虛擬資產。\n・出售價格原則為出售當日市價或其他適當價格。",
+   "significance": "南韓首度以法院規則明文規範虛擬資產之民事強制執行，提供債權人與交易所可預測之程序，亦可作為其他法域（包括台灣強制執行實務）處理虛擬資產執行之比較參考。",
+   "editorNote": "本網頁助理 註：本則依南韓法律新聞、首爾經濟新聞英文版及 KuCoin 轉載之 BlockBeats 快訊（引述韓聯社）整理；大法院原始公告本網頁助理未能取得，條號依法律新聞報導。\n以下為本網頁助理補充，非來源內容：台灣強制執行法亦無虛擬資產專門規定，實務多以對交易所之債權或其他財產權執行。",
+   "tags": [
+    "加密資產",
+    "強制執行",
+    "扣押",
+    "民事執行規則",
+    "大法院",
+    "南韓"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "法律新聞（韓文）報導",
+     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229110",
+     "official": false
+    },
+    {
+     "label": "首爾經濟新聞英文報導",
+     "url": "https://en.sedaily.com/society/2026/11/09/korean-courts-can-now-seize-and-sell-debtors-crypto",
+     "official": false
+    },
+    {
+     "label": "韓國經濟新聞（韓文）報導",
+     "url": "https://www.hankyung.com/article/202611095188i",
+     "official": false
+    },
+    {
+     "label": "KuCoin 轉載 BlockBeats 快訊",
+     "url": "https://www.kucoin.com/news/flash/south-korea-s-supreme-court-clarifies-crypto-asset-enforcement-procedures",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-10T23:42:01+08:00"
+  },
+  {
+   "id": "2026-11-05-fin-china-state-council-financial-report-rwa",
+   "court": "OTHER",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "中國大陸",
+   "outlet": "21世紀經濟報導；ChainCatcher；TokenPost",
+   "outletCode": "21JJ",
+   "date": "2026-11-05",
+   "eventDate": "2026-11-03",
+   "importance": 2,
+   "author": "",
+   "title": "國務院向全國人大常委會提出金融工作報告：強化 RWA 代幣化監管、完善虛擬貨幣監管政策，數位人民幣定位轉為存款貨幣",
+   "shortTitle": "中國國務院金融報告：強化 RWA 監管",
+   "point": "人行行長潘功勝 11 月 3 日報告，並稱數位人民幣已由現金轉為存款貨幣",
+   "titleOriginal": "国务院关于金融工作情况的报告——2026年11月3日在第十四届全国人民代表大会常务委员会第二十五次会议上",
+   "caseRef": "",
+   "tldr": "中國人民銀行行長潘功勝代表國務院向全國人大常委會報告金融工作，提到要加強「現實世界資產（RWA）代幣化」的監管、完善虛擬貨幣監管政策、追查與虛擬貨幣有關的地下錢莊，並說數位人民幣已從「現金」定位轉為「存款貨幣」。",
+   "memo": "中國人民銀行行長潘功勝於 2026 年 11 月 3 日代表國務院，在第十四屆全國人民代表大會常務委員會第二十五次會議提出《國務院關於金融工作情況的報告》，全文於 11 月 5 日公布。依 ChainCatcher 及 TokenPost 報導，報告提及強化現實世界資產（RWA）代幣化監管、完善虛擬貨幣監管政策框架並加強涉虛擬貨幣地下錢莊線索分析、建立虛擬貨幣「挖礦」全鏈條常態化整治機制，並稱數位人民幣定位已由現金平穩轉為存款貨幣；依 TokenPost 報導，報告未提出具體新規則。",
+   "context": "中國大陸自 2021 年起全面禁止虛擬貨幣交易與挖礦相關活動，人民銀行等部門並持續整治。近年香港推動 RWA 代幣化與穩定幣制度，大陸機構參與情形受到關注。\n數位人民幣（e-CNY）於 2026 年起推動計息錢包及以存款貨幣定位之制度調整，本站 10 月 21 日已收錄人民銀行數位人民幣相關措施。",
+   "facts": [
+    "報告由人民銀行行長潘功勝代表國務院，於 2026 年 11 月 3 日上午在人民大會堂向全國人大常委會第二十五次會議提出；依 21世紀經濟報導，全文於 11 月 5 日在中國人大網公布。",
+    "依 ChainCatcher 報導，報告稱數位人民幣定位「由現金平穩過渡到存款貨幣」。",
+    "依 TokenPost 報導，報告列出：強化 RWA 代幣化監管、完善虛擬貨幣監管政策框架、分析涉虛擬貨幣地下錢莊線索、以更系統、常態、全鏈條方式整治虛擬貨幣挖礦。",
+    "依 TokenPost 報導，報告未就 RWA 代幣化或虛擬貨幣提出具體新規則或執法時程。"
+   ],
+   "issues": [
+    "「強化 RWA 代幣化監管」是否意味大陸機構參與境外（包括香港）RWA 業務將受更嚴格限制？",
+    "數位人民幣作為存款貨幣之法律定位與存款保險、計息等制度之關係。"
+   ],
+   "holding": "・RWA：強化現實世界資產代幣化之監管。\n・虛擬貨幣：完善監管政策框架，加強涉虛擬貨幣地下錢莊之線索分析，建立「挖礦」全鏈條常態化整治機制。\n・數位人民幣：定位已由現金過渡為存款貨幣。",
+   "significance": "國務院向最高立法機關正式報告中點名 RWA 代幣化監管，顯示大陸對代幣化業務維持審慎立場，與香港積極推動代幣化形成對照，跨境參與者應留意後續人民銀行或證監會之具體規範。",
+   "editorNote": "本網頁助理 註：中國人大網全文頁面本網頁助理未能開啟；21世紀經濟報導轉載內容未涵蓋虛擬貨幣段落，相關內容依 ChainCatcher 與 TokenPost 之英文報導轉述，原文用語可能不同。本則發布於上次執行之前，因先前未收錄而補列。",
+   "tags": [
+    "代幣化",
+    "RWA",
+    "加密資產",
+    "CBDC",
+    "數位人民幣",
+    "洗錢防制",
+    "人民銀行",
+    "國務院",
+    "中國大陸"
+   ],
+   "related": [
+    "2026-10-21-fin-pboc-ecny-dceps-smart-contract"
+   ],
+   "sources": [
+    {
+     "label": "中國人大網：國務院關於金融工作情況的報告（全文）",
+     "url": "http://www.npc.gov.cn/npc/c2/c30834/202611/t20261103_458324.html",
+     "official": true
+    },
+    {
+     "label": "21世紀經濟報導（報告轉載）",
+     "url": "https://www.21jingji.com/article/20261105/herald/4ceccac3ceaf8ecfb82b06a10536c40c.html",
+     "official": false
+    },
+    {
+     "label": "ChainCatcher 報導",
+     "url": "https://www.chaincatcher.com/en/article/2302600",
+     "official": false
+    },
+    {
+     "label": "TokenPost 報導",
+     "url": "https://www.tokenpost.com/news/regulation/52012",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-10T23:42:01+08:00"
   }
  ],
  "agenda": [
@@ -6939,6 +7224,26 @@
    "url": "",
    "relatedId": "2026-11-05-fin-thai-sec-bitget-complaint-block",
    "caseId": ""
+  },
+  {
+   "id": "2026-11-27-ecb-etsg-nominations-deadline",
+   "date": "2026-11-27",
+   "court": "ECB",
+   "title": "歐洲代幣化標準小組（ETSG）成員提名截止",
+   "note": "由歐洲央行、執委會、ESMA 共同徵求；依媒體報導小組預計 2027 年 1 月啟動。",
+   "url": "https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews261109.en.html",
+   "relatedId": "2026-11-09-fin-etsg-tokenisation-standards-call",
+   "caseId": "eurosystem-digital-euro-tokenisation"
+  },
+  {
+   "id": "2026-11-23-us-missouri-cryptocom-pi-opposition",
+   "date": "2026-11-23",
+   "court": "US",
+   "title": "密蘇里州就 Crypto.com 初步禁制令聲請提出答辯期限",
+   "note": "依 Well Played 報導；日期可能因法院排程調整。",
+   "url": "https://www.well-played.com.au/underdog-sues-missouri-prediction-markets-injunctions/",
+   "relatedId": "2026-11-10-fin-missouri-prediction-market-suits-escalate",
+   "caseId": "us-prediction-markets-preemption"
   }
  ],
  "cases": [
@@ -7017,7 +7322,7 @@
    "nameOriginal": "Digital euro; Pontes and Appia",
    "caseRef": "",
    "summary": "歐元體系推動數位歐元立法與試點，並以 Pontes、Appia 建構代幣化交易的央行貨幣結算基礎設施。",
-   "status": "數位歐元立法三方協商中；歐洲央行 10 月 30 日選定兩組網路服務供應商，試點營運預計 2027 年下半年展開；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成。"
+   "status": "數位歐元立法三方協商中；歐洲央行 10 月 30 日選定兩組網路服務供應商，試點營運預計 2027 年下半年展開；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成；歐洲央行、執委會與 ESMA 11 月 9 日徵求歐洲代幣化標準小組成員至 11 月 27 日。"
   },
   {
    "id": "uk-cryptoasset-regime",
@@ -7083,7 +7388,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "加州北區聯邦地院 11 月 4 日依第九巡迴發回意旨，禁止 Kalshi 於兩部落土地提供運動事件合約；CFTC 11 月 5 日發布公平近用解釋，要求指定契約市場 30 日內停止依州別封鎖或說明理由；阿肯色州 11 月 4 日起訴 Kalshi；第九巡迴 11 月 4 日駁回 Kalshi 內華達州案重審聲請；第二巡迴 11 月 3 日駁回 Kalshi、Coinbase 禁制令聲請；伊利諾州案已上訴第七巡迴。"
+   "status": "密蘇里州訴訟擴大：Underdog 11 月 8 日、Robinhood 與 Polymarket US 11 月 9 日起訴州檢察總長，州政府同日對 Novig 提出反訴；CFTC 11 月 5 日要求指定契約市場 30 日內停止依州別封鎖；加州北區聯邦地院 11 月 4 日禁止 Kalshi 於兩部落土地提供運動合約；阿肯色州 11 月 4 日起訴 Kalshi；第九巡迴駁回 Kalshi 內華達州案重審聲請、第二巡迴駁回 Kalshi、Coinbase 禁制令聲請；伊利諾州案已上訴第七巡迴。"
   },
   {
    "id": "kr-tokenised-securities",
