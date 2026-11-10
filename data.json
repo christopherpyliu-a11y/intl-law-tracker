@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-10T23:04:43+08:00",
-  "lastRunLocal": "2026-11-10 23:04",
+  "lastRun": "2026-11-11T07:04:14+08:00",
+  "lastRunLocal": "2026-11-11 07:04",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：ICC 1、ITLOS 1"
+  "lastRunNote": "新增 2 則：ICC 1、ECtHR 1"
  },
  "items": [
   {
@@ -3918,7 +3918,8 @@
     "2026-10-27-icc-duterte-defence-rule68-2b",
     "2026-10-28-icc-duterte-clrv-rule68-2b",
     "2026-11-03-icc-duterte-rule68-3-new-requests",
-    "2026-11-08-icc-duterte-defence-oppose-p1400"
+    "2026-11-08-icc-duterte-defence-oppose-p1400",
+    "2026-11-10-icc-duterte-clrv-p1303-limit"
    ]
   },
   {
@@ -4505,7 +4506,8 @@
    "related": [
     "2026-10-27-icc-duterte-defence-rule68-2b",
     "2026-10-23-icc-duterte-rule68-requests",
-    "2026-10-30-icc-duterte-96-victim-applicants"
+    "2026-10-30-icc-duterte-96-victim-applicants",
+    "2026-11-10-icc-duterte-clrv-p1303-limit"
    ]
   },
   {
@@ -6756,6 +6758,129 @@
     "2026-10-27-icc-duterte-defence-rule68-2b",
     "2026-11-08-icc-duterte-defence-oppose-p1400"
    ]
+  },
+  {
+   "id": "2026-11-10-icc-duterte-clrv-p1303-limit",
+   "court": "ICC",
+   "kind": "程序進展",
+   "caseId": "icc-duterte",
+   "date": "2026-11-10",
+   "eventDate": "",
+   "importance": 1,
+   "title": "杜特蒂案：被害人代理人支持採用三名女性證人先前證詞，並請求盡量減少 P-1303 出庭負擔",
+   "shortTitle": "杜特蒂案被害人代理人請求減輕證人負擔",
+   "point": "支持採用 P-0008、P-1164、P-1303 先前證詞，並以 P-1303 受創甚深請求縮短其當庭陳述",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte – Common Legal Representatives of Victims' response to the Prosecution's Rule 68(3) application concerning P-0008, P-1164 and P-1303",
+   "caseRef": "ICC-01/21-01/25",
+   "tldr": "檢方先前請法官採用三名女性證人在調查階段錄下的陳述，以縮短她們出庭的時間；三人仍會到庭接受詰問。代表被害人的律師 11 月 10 日公開回應，支持檢方，並特別請求法官讓其中一名證人 P-1303 的當庭陳述盡量簡短，因為她親歷的事件令她受創極深，反覆出庭會加重傷害。",
+   "memo": "杜特蒂案被害人共同法律代理人（Paolina Massidda、Joel Butuyan、Gilbert Andres）於 2026 年 11 月 10 日公開其就檢察官依程序及證據規則第 68 條第 3 項採用證人 P-0008、P-1164、P-1303 先前錄製證詞之聲請所提回應之刪節版；代理人支持該聲請，並援引羅馬規約第 68 條保護被害人及證人身心健康與尊嚴之規定，請求將 P-1303 之當庭陳述限縮至最低程度。第三審判分庭尚未裁定，審判預定同年 11 月 30 日開始。",
+   "context": "開審前，檢方陸續提出多件依程序及證據規則第 68 條採用先前錄製證詞的聲請（見本站 10 月 23 日、11 月 3 日、11 月 5 日各則）。其中涉及 P-0008、P-1164、P-1303 的聲請，依報導係於 10 月下旬公開，三人均為女性，陳述內容涉及第三項罪狀（2016 年 7 月至 2018 年 9 月間的「村里清查」殺人）中的多起警方殺人事件；檢方表示三人仍將出庭，可供辯方詰問。\n第 68 條第 3 項適用於證人到庭、且不反對採用其先前陳述，並可接受詰問的情形，目的在縮短主詰問。審判預定 2026 年 11 月 30 日在海牙開始。",
+   "facts": [
+    "檢方於 10 月下旬提出 12 頁聲請，請求採用 P-0008、P-1164、P-1303 於調查階段錄製的陳述，主張其具關聯性、可信性與證明力，並可證明危害人類罪的背景要件及「消滅」嫌犯的政策；三人仍將出庭受詰問。",
+    "被害人共同法律代理人 Paolina Massidda、Joel Butuyan、Gilbert Andres 提出回應，其公開刪節版於 11 月 10 日公開。",
+    "代理人支持採用三人的先前證詞，並指出 P-1303 因一名被害人（姓名未公開）死亡相關經歷而受到極大創傷，請求將其當庭陳述減至最少，以降低心理傷害。",
+    "代理人並指出，即使依第 68 條採用，P-1303 仍可能就涉及她本人及其子女的事件接受辯方詰問。",
+    "依報導，第三審判分庭（審判長 Joanna Korner，法官 Keebong Paek、Nicolas Guillou）尚有 15 件檢方聲請待裁定。"
+   ],
+   "issues": [
+    "程序及證據規則第 68 條第 3 項：以先前錄製證詞替代部分主詰問的要件。",
+    "羅馬規約第 68 條第 1 項：法院保護被害人及證人安全、身心健康、尊嚴及隱私的適當措施，與第 67 條被告詰問權的調和。"
+   ],
+   "holding": "被害人代理人支持檢方聲請，並請求對 P-1303 採取減輕出庭負擔的措施。辯方對此三名證人的立場報導未載明。審判分庭尚未裁定。",
+   "significance": "本件顯示被害人代理人在第 68 條聲請中，除支持精簡審判外，亦以證人保護為由主張限縮當庭陳述；分庭如何在被告詰問權與受創證人保護之間取捨，將影響 11 月 30 日開審後女性及被害人家屬證人的作證方式。",
+   "editorNote": "本網頁助理 註：本則依 GMA News 報導（經 Head Topics 轉載）及 GMA 10 月 23 日報導撰寫，未能取得被害人代理人書狀公開版本及其文件編號；檢方聲請所依據之規則第 68 條第 3 項，係依報導所述「三人仍將出庭受詰問」推定，報導本身未載明條項。",
+   "tags": [
+    "國際刑事法院",
+    "杜特蒂",
+    "菲律賓",
+    "掃毒戰爭",
+    "先前錄製證詞",
+    "第68條",
+    "被害人參與",
+    "證人保護"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院杜特蒂案頁面",
+     "url": "https://www.icc-cpi.int/philippines/duterte",
+     "official": true
+    },
+    {
+     "label": "GMA News 報導（Head Topics 轉載）",
+     "url": "https://ph.headtopics.com/news/icc-duterte-trial-victims-lawyers-seek-limits-on-89736220",
+     "official": false
+    },
+    {
+     "label": "GMA News 報導（檢方聲請，10 月 23 日）",
+     "url": "https://www.gmanetwork.com/news/topstories/nation/1006887/icc-prosecutors-seek-admission-of-3-more-recorded-testimonies-vs-rodrigo-duterte/story/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T07:04:14+08:00",
+   "related": [
+    "2026-10-23-icc-duterte-rule68-requests",
+    "2026-10-28-icc-duterte-clrv-rule68-2b"
+   ]
+  },
+  {
+   "id": "2026-11-10-ecthr-beleri-albania",
+   "court": "ECtHR",
+   "kind": "判決",
+   "caseId": "",
+   "date": "2026-11-10",
+   "eventDate": "2026-11-10",
+   "importance": 2,
+   "title": "歐洲人權法院：希馬拉當選市長貝雷里遭延長羈押，阿爾巴尼亞違反公約第 5 條第 3 項",
+   "shortTitle": "希馬拉當選市長遭羈押案：阿爾巴尼亞敗訴",
+   "point": "初始羈押有正當理由，但自 2023 年 7 月 19 日起繼續羈押欠缺充分理由",
+   "titleOriginal": "Beleri v. Albania",
+   "caseRef": "",
+   "tldr": "希臘裔的貝雷里（Fredi Beleri）在 2023 年阿爾巴尼亞地方選舉前兩天因涉嫌賄選被捕，隨後當選希馬拉市長卻無法宣誓就職，一路被羈押到 2024 年 3 月判刑。歐洲人權法院認為，當初逮捕羈押有理由，但之後法院沒有隨時間重新檢討、也沒有考慮較輕的替代措施，至少從 2023 年 7 月 19 日起繼續羈押就違反公約；判賠 450 歐元精神損害及 5,000 歐元費用。判決不影響他的刑事有罪判決。",
+   "memo": "歐洲人權法院於 2026 年 11 月 10 日就 Beleri 訴阿爾巴尼亞案作成分庭判決，認定申請人於 2023 年 5 月 12 日因涉嫌選舉賄賂遭羈押之初始決定具充分理由，惟國內法院未隨羈押期間延長重新審查羈押必要性及較輕替代措施，至遲自同年 7 月 19 日起之繼續羈押欠缺相關且充分之理由，違反公約第 5 條第 3 項；判命阿爾巴尼亞賠償非財產上損害 450 歐元及費用 5,000 歐元，駁回所失收入之請求。",
+   "context": "貝雷里為阿爾巴尼亞希臘裔少數族群人士，2023 年 5 月 14 日以「Together We Win」聯盟候選人身分參選希馬拉（Himara）市長；選前兩天（5 月 12 日）因涉嫌選舉中主動行賄遭逮捕羈押。他雖當選，但因羈押無法完成宣誓就職。\n本案在阿爾巴尼亞與希臘之間引發外交緊張；貝雷里其後於 2024 年當選歐洲議會議員（希臘新民主黨）。2024 年 3 月 5 日他被判有罪，羈押至此約九個月又 21 天。",
+   "facts": [
+    "申請人於 2023 年 5 月 12 日涉嫌選舉中主動行賄被捕；當局以逃亡、影響證人、再犯之虞及指控嚴重性為羈押理由。",
+    "申請人於 5 月 14 日選舉中當選希馬拉市長，但因羈押未能完成宣誓，未能就任。",
+    "申請人自 2023 年 5 月 12 日起受羈押，至 2024 年 3 月 5 日被判有罪為止。"
+   ],
+   "issues": [
+    "歐洲人權公約第 5 條第 3 項：審前羈押的理由是否「相關且充分」，以及國內法院隨時間經過重新審查羈押必要性與替代措施的義務。"
+   ],
+   "holding": "法院認定初始羈押決定有充分理由支持，此部分未違反公約。\n但國內法院未隨時間經過重新評估羈押理由，亦未適當審酌較輕的限制措施，至少自 2023 年 7 月 19 日起的繼續羈押欠缺正當理由，違反第 5 條第 3 項。\n判命阿爾巴尼亞給付非財產上損害 450 歐元、費用 5,000 歐元，於判決確定後三個月內給付；所失收入請求遭駁回。",
+   "significance": "判決僅處理審前羈押，未推翻申請人的刑事有罪判決，但確認阿爾巴尼亞法院對選舉期間政治人物的長期羈押未盡個別審查義務。本案涉及希臘裔少數族群及阿希兩國關係，判決後貝雷里發表聲明稱判決暴露阿爾巴尼亞制度的嚴重問題。判決為分庭判決，當事人可於三個月內聲請移送大法庭。",
+   "editorNote": "本網頁助理 註：歐洲人權法院官網本案專頁及當日判決新聞稿本次無法讀取，本則依法院首頁摘要、阿爾巴尼亞 Ocnal 報導及希臘 SKAI 報導撰寫；申請案號、表決結果、審理分庭及其他申訴（如參選或就任權利）是否經審理，均未能確認。法院首頁英文拼法為 Beleri，希臘媒體作 Beleris（Μπελέρης）。以下為本網頁助理補充，非來源內容：貝雷里 2024 年當選歐洲議會議員一節係背景知識，未見於本次來源。",
+   "tags": [
+    "第5條",
+    "人身自由",
+    "審前羈押",
+    "選舉",
+    "少數族群",
+    "阿爾巴尼亞",
+    "希臘"
+   ],
+   "sources": [
+    {
+     "label": "歐洲人權法院案件專頁",
+     "url": "https://www.echr.coe.int/w/beleri-v.-albania",
+     "official": true
+    },
+    {
+     "label": "歐洲人權法院新聞稿（2026 年 11 月 10 日五件判決）",
+     "url": "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8689340-12398278&filename=Judgments%20of%2010.11.2026.pdf",
+     "official": true
+    },
+    {
+     "label": "Ocnal 報導",
+     "url": "https://www.ocnal.com/2026/11/european-court-rules-on-fredi-beleri.html",
+     "official": false
+    },
+    {
+     "label": "SKAI 報導（希臘文）",
+     "url": "https://www.skai.gr/news/world/to-edda-katadikase-tin-alvania-paranomi-tin-kratisi-tou-frenti-mpeleri",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T07:04:14+08:00"
   }
  ],
  "agenda": [
