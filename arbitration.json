@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-11T23:15:07+08:00",
-  "lastRunLocal": "2026-11-11 23:15",
+  "lastRun": "2026-11-12T07:13:32+08:00",
+  "lastRunLocal": "2026-11-12 07:13",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 1 則：投資仲裁 1（案件動態 1）；商務仲裁本次未發現新動態",
+  "lastRunNote": "新增 3 則：投資仲裁 3（案件動態 2、法院裁判 1）；商務仲裁本次未發現新動態",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -2083,7 +2083,9 @@
     "投資合法性",
     "PCA"
    ],
-   "related": [],
+   "related": [
+    "2026-11-11-arb-sdny-oschadbank-russia-transfer-refused"
+   ],
    "sources": [
     {
      "label": "PCA 新聞稿：Final Award in PCA Case No. 2015-21: JSC CB PrivatBank v. The Russian Federation",
@@ -3107,7 +3109,8 @@
    ],
    "related": [
     "2026-10-19-arb-sgca-nextera-spain-immunity",
-    "2026-11-02-arb-ewca-operafund-spain-blasket-assignment"
+    "2026-11-02-arb-ewca-operafund-spain-blasket-assignment",
+    "2026-11-11-arb-dc-cir-spain-six-ect-awards-appellee-brief"
    ],
    "sources": [
     {
@@ -7309,6 +7312,205 @@
     }
    ],
    "addedAt": "2026-11-11T23:15:07+08:00"
+  },
+  {
+   "id": "2026-11-11-arb-gawish-v-uae-icsid-claim",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "gawish-v-uae",
+   "jurisdiction": "阿拉伯聯合大公國",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-11",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "埃及參議員 Helmy Gawish 就營建投資對阿拉伯聯合大公國提起 ICSID 仲裁",
+   "shortTitle": "埃及參議員對阿聯提起 ICSID 仲裁",
+   "point": "爭議涉及其在阿聯的營建投資，具體求償依據與金額尚未公開",
+   "titleOriginal": "Helmy Ahmed Mohamed Ali Gawish v. United Arab Emirates (ICSID)",
+   "caseRef": "",
+   "tldr": "埃及工程師、El-Gawish 集團董事長、現任埃及參議員 Helmy Gawish，就其在阿拉伯聯合大公國的營建投資，向 ICSID 對阿聯提起投資仲裁。目前公開資訊只有案名與爭議大致類型，求償依據的條約與金額都還不清楚。",
+   "memo": "埃及籍投資人 Helmy Ahmed Mohamed Ali Gawish 於 2026 年對阿拉伯聯合大公國向 ICSID 提起投資仲裁，依 Global Arbitration Review 及 Investment Arbitration Reporter 2026 年 11 月 10 日至 11 日之報導，爭議涉及其於阿聯之營建投資。聲請人為埃及參議院議員及 El-Gawish 集團董事長。本案所依據之投資條約、案號及請求金額尚未公開，案件目前處於仲裁程序初期。",
+   "context": "Helmy Gawish 為埃及工程師，擔任 El-Gawish 集團董事長，並於 2025 年經埃及總統以第 575 號總統令任命為參議院議員。\n阿拉伯聯合大公國作為投資仲裁被申請國的案件相對少見；埃及與阿聯之間另有投資協定，過去曾有阿聯投資人依該協定對埃及提起 ICSID 仲裁。本案聲請人究竟依何項條約或法律提起仲裁，目前公開來源並未說明。",
+   "facts": [
+    "依 Global Arbitration Review 2026 年 11 月 11 日報導摘要，一名埃及參議員就一項營建投資對阿拉伯聯合大公國提起 ICSID 仲裁。",
+    "Investment Arbitration Reporter 之案件頁面列出案名 Helmy Ahmed Mohamed Ali Gawish v. United Arab Emirates，提起年度為 2026 年，狀態為仲裁程序進行中；相關新聞標題日期為 2026 年 11 月 10 日。",
+    "依埃及媒體報導，Helmy Gawish 為 El-Gawish 集團董事長，於 2025 年獲任命為埃及參議院議員。"
+   ],
+   "issues": [
+    "聲請人所依據之同意基礎（投資協定或其他）及其投資是否受保護。",
+    "阿聯就營建投資所採取之措施是否違反條約義務。"
+   ],
+   "holding": "・本案剛提起，尚無仲裁庭決定。\n・依報導，爭議涉及聲請人在阿聯的營建投資；案號、仲裁庭組成、所依條約及求償金額均尚未公開。",
+   "significance": "阿聯近年積極簽署投資協定並推廣其仲裁中心，被列為 ICSID 被申請國的案件仍屬少數，本案後續的管轄權與實體爭點值得關注。ICSID 登記本案後，案件資料庫將公開案號及仲裁庭組成。",
+   "editorNote": "本網頁助理 註：本則依 Global Arbitration Review 報導摘要（全文須訂閱）、Investment Arbitration Reporter 案件頁面之公開欄位及埃及媒體關於聲請人身分之報導撰寫，尚未取得 ICSID 登記資料，故裁判／事件日期欄留空；兩則報導均未公開條約依據、投資內容細節與求償金額。",
+   "tags": [
+    "ICSID",
+    "阿拉伯聯合大公國",
+    "埃及",
+    "新案件",
+    "營建工程",
+    "投資仲裁"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Global Arbitration Review 報導（摘要，全文須訂閱）",
+     "url": "https://globalarbitrationreview.com/article/egyptian-senator-launches-claim-against-uae",
+     "official": false
+    },
+    {
+     "label": "IAReporter 案件頁面",
+     "url": "https://www.iareporter.com/arbitration-cases/helmy-ahmed-mohamed-ali-gawish-v-united-arab-emirates/",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導標題",
+     "url": "https://www.iareporter.com/articles/egyptian-national-lodges-icsid-arbitration-against-the-united-arab-emirates/",
+     "official": false
+    },
+    {
+     "label": "Egyptian Gazette 關於聲請人獲任參議員之報導",
+     "url": "https://egyptian-gazette.com/egypt/local/engineer-helmy-gawish-appointed-as-member-of-egyptian-senate/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-12T07:13:32+08:00"
+  },
+  {
+   "id": "2026-11-11-arb-dc-cir-spain-six-ect-awards-appellee-brief",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "rreef-v-spain",
+   "jurisdiction": "美國",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-11",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "六件對西班牙能源憲章條約判斷之債權人向美國哥倫比亞特區巡迴上訴法院提出聯合答辯狀，主張西班牙上訴違反該院先例",
+   "shortTitle": "西班牙六件 ECT 判斷債權人在美國上訴審答辯",
+   "point": "債權人主張依該院先例，ECT 仲裁協議足以使美國法院取得管轄權，西班牙無理由推翻",
+   "titleOriginal": "Consolidated appeal of the Kingdom of Spain concerning confirmation of the Cube, Watkins, ISL, InfraRed, RREEF and BayWa awards (D.C. Cir.), Appellees' brief",
+   "caseRef": "",
+   "tldr": "西班牙因刪減再生能源補貼，被多家投資人依能源憲章條約打贏仲裁，美國地方法院已確認其中六件判斷。西班牙上訴到哥倫比亞特區巡迴上訴法院，債權人現在聯合提出答辯狀，強調同一法院先前已認定這類案件美國法院有管轄權，西班牙其實是在要求法院推翻自己的先例。",
+   "memo": "依 Mealey's 2026 年 11 月 11 日及 Law360 2026 年 11 月 10 日報導，Cube、Watkins、ISL、InfraRed、RREEF 及 BayWa 等六件對西班牙之仲裁判斷之債權人，就西班牙對美國哥倫比亞特區聯邦地方法院確認判斷之裁判所提上訴，向哥倫比亞特區巡迴上訴法院提出聯合答辯狀，主張依該院先例，能源憲章條約所載仲裁協議足使法院依《外國主權豁免法》取得管轄權，西班牙之上訴實係請求推翻先例而無正當理由，並指出歐洲以外法院多已駁回西班牙之抗辯。",
+   "context": "西班牙於 2010 年代初期刪減再生能源補貼後，多家外國投資人依能源憲章條約（ECT）對其提起仲裁，取得數十件判斷。西班牙一貫主張，依歐盟法院 Achmea 及 Komstroy 判決，歐盟成員國之間不存在有效的 ECT 仲裁合意。\n美國哥倫比亞特區巡迴上訴法院先前已就此類判斷認定，ECT 中的仲裁協議足以構成《外國主權豁免法》的仲裁例外，美國法院有管轄權確認判斷。依 Mealey's 所附資料，本次涉及的地院確認裁判作成於 2025 年 8 月至 11 月間，相關仲裁判斷作成於 2018 年至 2021 年間。其中 RREEF 判斷的債權受讓人另在比利時扣押西班牙航管費，遭布魯塞爾法院撤銷扣押。",
+   "facts": [
+    "依 Mealey's 報導，六件判斷（Cube、Watkins、ISL、InfraRed、RREEF、BayWa）之債權人在哥倫比亞特區巡迴上訴法院提出聯合答辯狀。",
+    "債權人主張西班牙的上訴等於要求合議庭不理會或推翻該院關於 ECT 仲裁協議可為管轄基礎的先例，且西班牙未提出推翻先例的正當理由。",
+    "依 Law360 報導，債權人並指出，歐洲以外幾乎所有審理過這些判斷的法院都駁回了西班牙的抗辯；相關判斷合計金額達數億歐元（Law360 標題稱約 4 億美元）。"
+   ],
+   "issues": [
+    "《外國主權豁免法》第 1605(a)(6) 條仲裁例外：歐盟成員國間依 ECT 第 26 條之仲裁合意是否存在，以及法院應否就此獨立審查。",
+    "上訴法院合議庭能否或應否偏離該院既有先例（須經全院聯席審理）。"
+   ],
+   "holding": "・本則為上訴程序中的書狀，法院尚未作成裁判。\n・債權人主張：該院先例已認定 ECT 仲裁協議可使法院取得管轄權，合議庭應受其拘束；西班牙未提出推翻先例的正當理由。\n・債權人並以歐洲以外法院的一致見解，支持判斷應予執行。",
+   "significance": "若上訴法院維持地院裁判，六件判斷在美國的執行將繼續推進；西班牙若要改變結果，可能須尋求全院聯席審理或向美國最高法院聲請移審。本案也是歐盟法與 ECT 判斷執行衝突在美國法院的延續。",
+   "editorNote": "本網頁助理 註：本則依 Mealey's 及 Law360 報導之公開摘要撰寫，全文須訂閱，尚未取得答辯狀原文；報導未載明上訴案號及書狀提出日期，故裁判／事件日期欄留空。兩則報導對判斷總額的描述不一（Law360 標題稱 4 億美元、內文稱數億歐元）。本則歸入 RREEF 訴西班牙案件，因 RREEF 判斷為六件之一；其餘五件判斷未另立案件。",
+   "tags": [
+    "ICSID",
+    "西班牙",
+    "能源憲章條約",
+    "承認與執行",
+    "外國主權豁免法",
+    "國家豁免",
+    "再生能源",
+    "歐盟法",
+    "Achmea",
+    "美國"
+   ],
+   "related": [
+    "2026-10-23-arb-brussels-rreef-spain-eurocontrol-attachment-lifted"
+   ],
+   "sources": [
+    {
+     "label": "Mealey's 報導",
+     "url": "https://www.mealeys.com/mealeys/mealeys-international-arbitration/articles/2549044",
+     "official": false
+    },
+    {
+     "label": "Law360 報導",
+     "url": "https://www.law360.com/internationalarbitration/articles/2547863",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-12T07:13:32+08:00"
+  },
+  {
+   "id": "2026-11-11-arb-sdny-oschadbank-russia-transfer-refused",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "investment",
+   "caseId": "oschadbank-v-russia",
+   "jurisdiction": "美國",
+   "outlet": "Investment Arbitration Reporter",
+   "outletCode": "IAR",
+   "date": "2026-11-11",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "美國紐約聯邦法院拒絕將 Oschadbank 承認法國執行判決之訴移送至華府法院，烏克蘭國營銀行對俄羅斯 11 億美元判斷之執行續分兩地進行",
+   "shortTitle": "紐約法院拒將 Oschadbank 對俄案移送華府",
+   "point": "承認法國執行判決之訴留在紐約審理，不併入華府的判斷確認程序",
+   "titleOriginal": "JSC State Savings Bank of Ukraine (Oschadbank) v. Russian Federation – recognition of French enforcement judgment (S.D.N.Y.), decision on motion to transfer",
+   "caseRef": "PCA Case No. 2016-14",
+   "tldr": "烏克蘭國營銀行 Oschadbank 因克里米亞資產遭俄羅斯奪取，取得約 11 億美元的投資仲裁判斷。它在華府法院請求確認判斷，同時又在紐約請求承認一項法國法院的執行判決。俄羅斯指控這是挑選法院，請求紐約法院駁回或把案子移到華府，紐約法院拒絕移送。",
+   "memo": "依 Investment Arbitration Reporter 2026 年 11 月 11 日報導，美國紐約聯邦法院拒絕將烏克蘭國營儲蓄銀行（Oschadbank）請求承認法國執行判決之訴移送至審理其仲裁判斷確認聲請之哥倫比亞特區聯邦地方法院。該判斷係常設仲裁法院管理之 PCA Case No. 2016-14 案，依 1998 年俄烏投資協定就克里米亞資產作成，金額約 11 億美元。俄羅斯曾主張 Oschadbank 為規避華府程序而挑選法院，請求駁回或移送。",
+   "context": "Oschadbank 為烏克蘭國營銀行，於俄羅斯控制克里米亞後失去當地資產，依 1998 年俄烏投資協定提起仲裁（PCA Case No. 2016-14），取得約 11 億美元的判斷。\nOschadbank 於 2023 年 3 月向哥倫比亞特區聯邦地方法院聲請確認判斷（No. 1:23-cv-00764），該案仍在進行。其另在法國取得承認或執行該判斷的法院裁判，並在紐約請求承認該法國判決。2026 年 8 月，俄羅斯向紐約南區聯邦地方法院請求駁回或移送，主張 Oschadbank 是為了避開華府相關程序而選擇紐約。",
+   "facts": [
+    "依 Law360 2026 年 8 月 3 日報導，俄羅斯向紐約聯邦法院請求駁回或移送 Oschadbank 承認法國判決之訴，主張其挑選法院以避開華府程序。",
+    "依 Investment Arbitration Reporter 2026 年 11 月 11 日報導標題，紐約法院拒絕將該訴移送至審理判斷執行聲請的法院。"
+   ],
+   "issues": [
+    "美國法典第 28 編第 1404(a) 條移送管轄：為當事人及證人便利與司法利益，應否將承認外國判決之訴移送至審理同一判斷確認聲請的法院。",
+    "承認外國執行判決與直接確認仲裁判斷兩種途徑並行時之重複訴訟問題。"
+   ],
+   "holding": "・依報導標題，紐約法院駁回移送聲請。\n・報導全文須訂閱，法院理由、是否同時處理駁回之訴的聲請，以及承辦法官均未公開。",
+   "significance": "承認法國判決之訴留在紐約，Oschadbank 得以兩條平行途徑在美國追索俄羅斯資產；俄羅斯在紐約的國家豁免等抗辯仍待處理。華府的判斷確認程序另行進行。",
+   "editorNote": "本網頁助理 註：本則依 Investment Arbitration Reporter 報導之標題撰寫（全文須訂閱），並依 Law360 2026 年 8 月報導摘要、italaw 及 Transnational Dispute Management 之案件資料補充背景；尚未取得法院裁定原文，裁定日期不明，故裁判／事件日期欄留空。Law360 頁面列出的法院包括紐約南區聯邦地方法院，本則據此推定承審法院，但報導標題僅稱「紐約法院」。本案與已追蹤之 PrivatBank、Belbek 機場克里米亞仲裁為不同案件。",
+   "tags": [
+    "承認與執行",
+    "俄羅斯",
+    "烏克蘭",
+    "克里米亞",
+    "PCA",
+    "雙邊投資協定",
+    "移送管轄",
+    "外國判決承認",
+    "美國",
+    "國家豁免"
+   ],
+   "related": [
+    "2026-10-06-arb-pca-crimea-privatbank-belbek"
+   ],
+   "sources": [
+    {
+     "label": "IAReporter 報導（標題，全文須訂閱）",
+     "url": "https://www.iareporter.com/articles/new-york-court-refuses-to-transfer-oschadbanks-request-to-recognize-french-enforcement-judgment-against-russia-to-venue-hearing-the-banks-bid-to-enforce-the-award-itself/",
+     "official": false
+    },
+    {
+     "label": "Law360 報導：俄羅斯主張挑選法院（2026 年 8 月）",
+     "url": "https://www.law360.com/banking/articles/2508747",
+     "official": false
+    },
+    {
+     "label": "哥倫比亞特區聯邦地院確認判斷案卷（CourtListener）",
+     "url": "https://www.courtlistener.com/docket/67063604/joint-stock-company-state-savings-bank-of-ukraine-v-russian-federation/",
+     "official": false
+    },
+    {
+     "label": "italaw 案件頁面（PCA Case No. 2016-14）",
+     "url": "https://www.italaw.com/cases/7491",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-12T07:13:32+08:00"
   }
  ],
  "agenda": [
@@ -7911,6 +8113,30 @@
    "caseRef": "ICSID Case No. ARB/25/39",
    "summary": "兩名美國投資人依美國—巴拿馬貿易促進協定，就巴拿馬撤銷其住宅開發案核准及國營銀行中止融資，請求逾 2.04 億美元賠償。",
    "status": "仲裁庭駁回巴拿馬分階段審理之聲請（2026 年 11 月公開），管轄權異議與實體將合併審理。"
+  },
+  {
+   "id": "gawish-v-uae",
+   "type": "案件",
+   "court": "NEWS",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Gawish 訴阿拉伯聯合大公國（營建投資）",
+   "nameOriginal": "Helmy Ahmed Mohamed Ali Gawish v. United Arab Emirates",
+   "caseRef": "",
+   "summary": "埃及參議員、El-Gawish 集團董事長 Helmy Gawish 就其在阿聯的營建投資，對阿聯提起 ICSID 投資仲裁。",
+   "status": "2026 年 11 月依報導提起，案號、所依條約與求償金額尚未公開。"
+  },
+  {
+   "id": "oschadbank-v-russia",
+   "type": "案件",
+   "court": "COURT",
+   "field": "investment",
+   "forum": "美國法院、法國法院",
+   "name": "Oschadbank 訴俄羅斯（克里米亞資產判斷之執行）",
+   "nameOriginal": "JSC State Savings Bank of Ukraine (Oschadbank) v. Russian Federation",
+   "caseRef": "PCA Case No. 2016-14; No. 1:23-cv-00764 (D.D.C.)",
+   "summary": "烏克蘭國營銀行 Oschadbank 依俄烏投資協定就克里米亞資產取得約 11 億美元判斷，於法國及美國尋求承認與執行。",
+   "status": "紐約聯邦法院於 2026 年 11 月拒絕將其承認法國判決之訴移送華府；華府判斷確認程序另行進行。"
   }
  ]
 }
