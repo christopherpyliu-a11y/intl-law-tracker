@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-11T07:15:07+08:00",
-  "lastRunLocal": "2026-11-11 07:15",
+  "lastRun": "2026-11-11T23:17:27+08:00",
+  "lastRunLocal": "2026-11-11 23:17",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：中國 1（司法案件 1）"
+  "lastRunNote": "新增 2 則：中國 1（政府措施 1）、其他與綜合 1（國際組織 1）"
  },
  "items": [
   {
@@ -121,7 +121,8 @@
    "related": [
     "2026-11-05-tnr-taiwan-mac-nine-patterns",
     "2026-11-03-tnr-taiwan-nsb-anti-infiltration-report",
-    "2026-10-29-tnr-taiwan-ey-anti-infiltration-amendment"
+    "2026-10-29-tnr-taiwan-ey-anti-infiltration-amendment",
+    "2026-11-11-tnr-tao-anti-infiltration-evil-law"
    ],
    "sources": [
     {
@@ -4465,7 +4466,8 @@
     "2026-10-29-tnr-taiwan-ey-anti-infiltration-amendment",
     "2026-11-04-tnr-taiwan-npa-tnr-cases",
     "2026-11-05-tnr-taiwan-mac-nine-patterns",
-    "2026-11-05-tnr-taiwan-moj-amendment-hotline"
+    "2026-11-05-tnr-taiwan-moj-amendment-hotline",
+    "2026-11-11-tnr-tao-anti-infiltration-evil-law"
    ],
    "sources": [
     {
@@ -5337,6 +5339,129 @@
     }
    ],
    "addedAt": "2026-11-11T07:15:07+08:00"
+  },
+  {
+   "id": "2026-11-11-tnr-tao-anti-infiltration-evil-law",
+   "court": "CN",
+   "kind": "政府措施",
+   "caseId": "taiwan-tnr-response",
+   "jurisdiction": "台灣",
+   "outlet": "澎湃新聞",
+   "outletCode": "",
+   "date": "2026-11-11",
+   "eventDate": "2026-11-11",
+   "importance": 1,
+   "author": "",
+   "title": "中國國台辦回應台灣擬修《反滲透法》處罰跨境鎮壓：稱「跨國鎮壓」是民進黨當局編造的謊言、《反滲透法》為「惡法」",
+   "shortTitle": "國台辦斥台修反滲透法為「惡法」",
+   "point": "發言人張晗稱「跨國鎮壓」是民進黨編造的謊言，修法意在推行「綠色恐怖」",
+   "titleOriginal": "民进党当局称因应“跨国镇压”犯罪，已启动修订“反渗透法”程序，国台办：所谓“反渗透法”是一部不折不扣的“恶法”",
+   "caseRef": "",
+   "tldr": "台灣政府說要修改《反滲透法》，專門加重處罰受中國指使在台灣跟蹤、恐嚇、攻擊別人的行為。中國國台辦 11 月 11 日在記者會上回應，否認有「跨國鎮壓」這回事，說這是民進黨編出來的，並批評修法是打壓異己的「惡法」。",
+   "memo": "依澎湃新聞 2026 年 11 月 11 日報導，中華人民共和國國務院台灣事務辦公室發言人張晗於同日例行記者會，就我國政府宣布啟動修正《反滲透法》、增訂罪責並加重處罰以因應跨境鎮壓犯罪，及陸委會擬設受害通報專線一事回應稱，所謂「跨國鎮壓」係民進黨當局編造之謊言，《反滲透法》為打壓政治異己、恐嚇台灣民眾、禁限兩岸交流之「惡法」，修法係推行「綠色恐怖」、煽動兩岸對立之舉。",
+   "context": "台灣政府近月將黃逸豪遭撞、矢板明夫遇襲、沈伯洋遭跟監等事件定性為中國對台跨境鎮壓。國安局 11 月 3 日表示已啟動修正《反滲透法》等法規；法務部 11 月 5 日在立法院稱研擬增訂罪名、加重刑度，陸委會則將設受害通報專線（見「台灣對跨境鎮壓的偵辦與修法」相關各則）。\n國台辦先前已多次否認涉入相關個案，稱指控毫無根據。",
+   "facts": [
+    "2026 年 11 月 11 日國台辦例行記者會上，有記者就台灣啟動修正《反滲透法》、擬增設罪責並加重處罰，及陸委會將設通報專線一事提問。",
+    "發言人張晗稱，《反滲透法》是民進黨當局打壓政治異己、恐嚇台灣民眾、禁限兩岸交流、謀取政治私利的工具，是「不折不扣的惡法」，出台以來即受島內各界質疑。",
+    "張晗稱「所謂跨國鎮壓」是民進黨當局編造的謊言，意在為「台獨」張目、宣揚「兩國論」。",
+    "張晗稱此時推動修法是進一步推行「綠色恐怖」、放大寒蟬效應、煽動兩岸對立，「不得人心」。"
+   ],
+   "issues": [
+    "被指控國全面否認「跨國鎮壓」概念本身，台灣修法時如何在立法理由與構成要件中處理「境外指使」的證明問題？",
+    "修法爭議在國內亦有朝野分歧（如定義是否模糊），國台辦的定性是否影響島內討論？"
+   ],
+   "holding": "・國台辦：否認存在「跨國鎮壓」，稱係民進黨編造；稱《反滲透法》為「惡法」，修法為「綠色恐怖」。\n・台灣政府：報導未載陸委會對本次發言的回應；法務部修法條文尚未公布。",
+   "significance": "這是中國官方首次在國台辦記者會上直接回應台灣以修法處罰跨境鎮壓的計畫，立場為全面否認。後續注意法務部修正草案內容、行政院與立法院審議進度，以及陸委會是否回應。",
+   "editorNote": "本網頁助理 註：本則依澎湃新聞轉載之國台辦記者會內容及東網同日報導；國台辦官網逐字稿本次未能取得。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "台灣",
+    "國台辦",
+    "反滲透法",
+    "修法",
+    "否認指控"
+   ],
+   "related": [
+    "2026-11-05-tnr-taiwan-moj-amendment-hotline",
+    "2026-11-03-tnr-taiwan-nsb-anti-infiltration-report"
+   ],
+   "sources": [
+    {
+     "label": "澎湃新聞報導（國台辦記者會）",
+     "url": "https://thepaper.cn/newsDetail_forward_34451385",
+     "official": false
+    },
+    {
+     "label": "東網報導",
+     "url": "https://hk.on.cc/hk/bkn/cnt/news/20261111/bkn-20261111123205440-1111_00822_001.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T23:17:27+08:00"
+  },
+  {
+   "id": "2026-11-10-tnr-ep-joint-delegations-tnr-meeting",
+   "court": "MULTI",
+   "kind": "國際組織",
+   "caseId": "",
+   "jurisdiction": "歐盟",
+   "outlet": "歐洲議會議員 Hannah Neumann 網站",
+   "outletCode": "",
+   "date": "2026-11-10",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "歐洲議會伊朗、俄羅斯、中國、白俄羅斯關係代表團舉行跨國鎮壓聯席會議，受害者陳述遭遇並促歐盟訂定共同戰略",
+   "shortTitle": "歐洲議會四代表團開會談跨國鎮壓",
+   "point": "黃台仰等流亡者陳述遭監控、恐嚇；聯合國人權高專與歐盟外交部門指歐盟應對不足",
+   "titleOriginal": "Joint Delegation Meeting on Transnational Repression in the European Parliament",
+   "caseRef": "",
+   "tldr": "歐洲議會負責伊朗、俄羅斯、中國、白俄羅斯事務的四個代表團一起開會，請來自這幾國的流亡者講述自己在歐洲被監視、威脅的經驗。主辦的議員 Hannah Neumann 說，歐盟現有工具分散、調查不足、受害者缺乏保護，需要一套共同戰略。",
+   "memo": "依歐洲議會議員 Hannah Neumann 網站 2026 年 11 月 10 日發布之說明，歐洲議會對伊朗人民關係代表團與對俄羅斯、中國、白俄羅斯關係代表團聯合舉行跨國鎮壓會議，邀請 Mikhail Khodorkovsky、香港運動者黃台仰、伊朗人權運動者 Mina Ahadi 及 iSANS 之 Yuri Dzhibladze 陳述各國對海外異議者之監控、網路攻擊、家屬施壓、死亡威脅、濫用司法及拒發護照等手段；聯合國人權事務高級專員辦事處與歐盟對外事務部代表指出歐盟回應之缺失，Neumann 並呼籲建立系統性記錄案件、強化合作、保護受害者及追究加害者之歐洲共同戰略。",
+   "context": "歐洲議會 2026 年 6 月通過由 Hannah Neumann 擔任報告人的反制跨國鎮壓報告。歐洲議會委託專家撰寫的研究（Schenkkan、Dukalskis、Dirks）亦建議歐盟訂定統一定義、建立資料中心並加強制裁。",
+   "facts": [
+    "會議由對伊朗人民關係代表團主席 Hannah Neumann 召集，與對俄羅斯、中國、白俄羅斯關係代表團聯合舉行；說明稿未載會議確切日期。",
+    "Mikhail Khodorkovsky 稱克里姆林宮利用司法體系、國際執法合作及歐洲銀行追擊流亡者。",
+    "香港運動者黃台仰（Ray Wong）陳述中國在德國對其監控、網路攻擊及威脅其家人。",
+    "伊朗人權運動者 Mina Ahadi 稱遭伊朗死亡威脅，德國當局保護不足。",
+    "iSANS 的 Yuri Dzhibladze 稱白俄羅斯以政治性判決及拒發護照打壓流亡者。",
+    "聯合國人權高專辦與歐盟對外事務部（EEAS）代表出席，均指出歐盟回應的不足。"
+   ],
+   "issues": [
+    "歐盟層級是否應訂定跨國鎮壓的統一定義與專責機制？",
+    "如何防止跨國鎮壓者濫用歐盟機構、銀行與訴訟程序（包括對人權組織的濫訴）？"
+   ],
+   "holding": "・與會者：描述監控、網攻、家屬施壓、死亡威脅、濫用司法、拒發護照等手段。\n・聯合國與 EEAS：指歐盟回應有缺口。\n・Neumann：調查不足、受害者缺乏保護、工具協調不佳，呼籲歐洲共同戰略：系統性記錄案件、強化合作、保護受害者、防止歐盟機構遭濫用、追究加害者。",
+   "significance": "歐洲議會跨代表團聯合處理跨國鎮壓，顯示議會將其視為跨國別的共同議題；後續注意執委會與會員國是否就議會 6 月報告提出具體措施。",
+   "editorNote": "本網頁助理 註：本則依主辦議員本人網站說明，未見歐洲議會官方新聞稿；會議日期未載，故裁判／事件日期留空。黃台仰之中文名依其公開使用之名稱。",
+   "tags": [
+    "跨國鎮壓",
+    "歐盟",
+    "歐洲議會",
+    "中國",
+    "香港",
+    "伊朗",
+    "俄羅斯",
+    "白俄羅斯",
+    "德國",
+    "家屬施壓",
+    "網路攻擊"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Hannah Neumann 會議說明原文",
+     "url": "https://hannahneumann.eu/en/joint-delegation-meeting-on-transnational-repression-in-the-european-parliament/",
+     "official": false
+    },
+    {
+     "label": "ICIJ 報導（歐洲議會委託研究）",
+     "url": "https://www.icij.org/investigations/china-targets/new-eu-report-urges-more-aggressive-action-against-transnational-repression/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T23:17:27+08:00"
   }
  ],
  "agenda": [
@@ -5453,7 +5578,7 @@
    "nameOriginal": "Taiwan's response to China-linked transnational repression",
    "caseRef": "",
    "summary": "台灣政府對受中國指使的跟監、恐嚇與暴力事件的偵辦、警示與修法動向。",
-   "status": "11 月 5 日立法院司法及法制委員會專題報告：陸委會稱 2005 年來 131 人受害並將設通報專線，法務部研擬修正《反滲透法》增訂罪名、加重刑度，條文尚未公布；刑事局今年受理 9 案、4 案起訴。"
+   "status": "法務部研擬修正《反滲透法》增訂罪名、加重刑度，條文尚未公布；陸委會將設通報專線；中國國台辦 11 月 11 日稱「跨國鎮壓」為謊言、《反滲透法》為「惡法」。"
   },
   {
    "id": "viet-tan-cambodia-abduction",
