@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-11T23:36:45+08:00",
-  "lastRunLocal": "2026-11-11 23:36",
+  "lastRun": "2026-11-12T07:35:20+08:00",
+  "lastRunLocal": "2026-11-12 07:35",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：國際組織 1（國際標準 1）、美國 1（執法案件 1）、歐盟 1（政策動態 1）、台灣 1（政策動態 1）"
+  "lastRunNote": "新增 3 則：美國 2（司法案件 2）、亞太與其他 1（草案諮詢 1）"
  },
  "items": [
   {
@@ -4593,7 +4593,8 @@
    "related": [
     "2026-11-03-fin-cma-sues-cftc-stock-perpetuals",
     "2026-11-03-fin-cftc-single-stock-perpetuals",
-    "2026-11-10-fin-crypto-firms-amicus-cftc-stock-perps"
+    "2026-11-10-fin-crypto-firms-amicus-cftc-stock-perps",
+    "2026-11-11-fin-sec-amicus-cftc-stock-perps"
    ],
    "sources": [
     {
@@ -6731,7 +6732,8 @@
    ],
    "related": [
     "2026-10-29-fin-kalshi-sues-missouri",
-    "2026-11-05-fin-cftc-impartial-access-geofencing"
+    "2026-11-05-fin-cftc-impartial-access-geofencing",
+    "2026-11-11-fin-sdny-denies-novig-injunction-ny"
    ],
    "sources": [
     {
@@ -6939,7 +6941,8 @@
    "related": [
     "2026-11-03-fin-sdny-denies-stock-perps-emergency-relief",
     "2026-11-03-fin-cma-sues-cftc-stock-perpetuals",
-    "2026-11-03-fin-cftc-single-stock-perpetuals"
+    "2026-11-03-fin-cftc-single-stock-perpetuals",
+    "2026-11-11-fin-sec-amicus-cftc-stock-perps"
    ],
    "sources": [
     {
@@ -7265,6 +7268,195 @@
     }
    ],
    "addedAt": "2026-11-11T23:36:45+08:00"
+  },
+  {
+   "id": "2026-11-11-fin-sec-amicus-cftc-stock-perps",
+   "court": "SEC",
+   "kind": "司法案件",
+   "caseId": "us-perpetual-futures-jurisdiction",
+   "jurisdiction": "美國",
+   "outlet": "The Block；Ledger Insights",
+   "outletCode": "TB",
+   "date": "2026-11-11",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "SEC 以法院之友身分支持 CFTC，反對暫停個股永續期貨交易，但未表態商品定性",
+   "shortTitle": "SEC 提法院之友意見書支持 CFTC",
+   "point": "反對初步禁制令並稱原告無訴權，未表態永續契約屬期貨或交換",
+   "titleOriginal": "SEC enters fight over who regulates perpetual derivatives on stocks in the US; SEC tells court not to halt Kalshi stock perps but won't say if they're legal yet",
+   "caseRef": "No. 1:26-cv-09608 (S.D.N.Y.)",
+   "tldr": "證券業團體告 CFTC，說個股永續期貨應歸 SEC 管、CFTC 越權。這次 SEC 自己出面向法院表示：兩機關一直有協調，原告說「CFTC 擅自行動、SEC 缺席」並不正確，也不應先暫停交易。不過 SEC 沒有說這類商品到底算期貨還是交換。",
+   "memo": "依 The Block 及 Ledger Insights 2026 年 11 月 11 日報導，美國證券交易委員會（SEC）於 Capital Markets Alliance Association 訴美國商品期貨交易委員會（CFTC）案（紐約南區聯邦地方法院，No. 1:26-cv-09608）提出法院之友意見書，支持 CFTC 反對初步禁制令之立場，否認原告所稱 CFTC 越權、SEC 缺位之說法，說明 SEC 對永續契約之監理權限及與 CFTC 之協調，並認原告欠缺訴訟權能，惟未就個股永續契約應定性為證券期貨或交換表示立場。依報導，SEC 須於 2026 年 12 月 31 日前決定是否廢止 Kalshi、Coinbase 及 Bitnomial 之相關交易所規則。",
+   "context": "CFTC 於 2026 年 11 月 3 日宣布多家指定契約市場申報之個股永續期貨因審查期屆滿而視為已核准之證券期貨；同日成員包括 Cboe、Citadel Securities 之 Capital Markets Alliance 起訴，主張該等契約屬以證券為基礎之交換而應由 SEC 管轄，並主張 CFTC 違反《行政程序法》。\n法院駁回暫時限制令，但表示原告本案勝訴可能性高；Coinbase、Kalshi 等六家業者 11 月 9 日聲請提出意見書支持 CFTC，Better Markets 與前 SEC 委員 Allison Herren Lee 則提出支持原告方向之意見書。",
+   "facts": [
+    "依 The Block 報導，SEC 於 2026 年 11 月 11 日當週提出法院之友意見書，報導未載明確切提出日期。",
+    "SEC 意見書稱其將回應原告所描繪「CFTC 擅自行動、SEC 缺席」之說法何以錯誤。",
+    "依 Ledger Insights 報導，SEC 同意 CFTC 關於原告欠缺訴訟權能之主張，但未表態永續契約屬期貨或交換。",
+    "依 Ledger Insights 報導，初步禁制令之書狀交換已完成，法院得隨時裁定；SEC 須於 12 月 31 日前決定是否廢止 Kalshi、Coinbase 及 Bitnomial 取得之交易所規則。",
+    "Better Markets 主張該等商品屬應由 SEC 監理之證券交換，對散戶有造成全損之高度風險；Allison Herren Lee 亦主張應由 SEC 監理。"
+   ],
+   "issues": [
+    "SEC 未表態商品定性，是否影響法院對 CFTC 法定權限之判斷？",
+    "SEC 對證券期貨交易所規則之審查權，是否足以回應原告所稱 SEC 被排除之主張？",
+    "原告團體是否具備訴訟權能？"
+   ],
+   "holding": "・SEC 立場：支持 CFTC 反對初步禁制令；否認 CFTC 越權、SEC 缺位之說法。\n・SEC 說明：其審查 CFTC 相關規則變更並與 CFTC 經常協調，對永續契約有監理權限。\n・程序主張：同意原告欠缺訴訟權能。\n・保留事項：未就個股永續契約應屬證券期貨或交換表示意見，亦未表明是否將廢止相關交易所規則。",
+   "significance": "主管證券之 SEC 公開站在 CFTC 一方，削弱原告「SEC 被排除」之論據，但未表態定性，法院仍須自行判斷契約性質。應留意法院初步禁制令裁定，以及 SEC 於 12 月 31 日前對相關交易所規則之決定。",
+   "editorNote": "本網頁助理 註：本則依 The Block 及 Ledger Insights 報導撰寫；本網頁助理未能取得 SEC 意見書原文或法院卷宗核對，SEC 確切提出日期報導未載，故事件日期留空。",
+   "tags": [
+    "永續期貨",
+    "證券期貨",
+    "SEC",
+    "CFTC",
+    "法院之友",
+    "美國"
+   ],
+   "related": [
+    "2026-11-10-fin-crypto-firms-amicus-cftc-stock-perps",
+    "2026-11-03-fin-sdny-denies-stock-perps-emergency-relief"
+   ],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
+     "official": false
+    },
+    {
+     "label": "Ledger Insights 報導",
+     "url": "https://www.ledgerinsights.com/sec-tells-court-not-to-halt-kalshi-stock-perps-but-wont-say-if-theyre-legal-yet/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-12T07:35:20+08:00"
+  },
+  {
+   "id": "2026-11-11-fin-sdny-denies-novig-injunction-ny",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國紐約州",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-11",
+   "eventDate": "2026-11-10",
+   "importance": 2,
+   "author": "",
+   "title": "紐約南區聯邦地院駁回 Novig 初步禁制令，認其運動事件合約非交換、紐約州得適用賭博法",
+   "shortTitle": "紐約聯邦法院駁回 Novig 禁制令",
+   "point": "法官認運動合約實為運動博弈而非交換，Novig 已上訴第二巡迴",
+   "titleOriginal": "New York federal judge denies Novig's injunction bid, rules its sports event contracts are not swaps",
+   "caseRef": "Ludlow Exchange, LLC v. James (S.D.N.Y.)",
+   "tldr": "預測市場業者 Novig 想請法院禁止紐約州用賭博法管它，法官拒絕了，認為它的運動合約說穿了就是運動博弈，不是聯邦期貨法下的「交換」，因此紐約州可以要求它取得賭博執照或停止營業。Novig 已提起上訴。",
+   "memo": "依 The Block 及 Sports Betting Dime 2026 年 11 月 11 日報導，美國紐約南區聯邦地方法院 Colleen McMahon 法官於 Ludlow Exchange, LLC 訴 James 案駁回 Novig（Ludlow Exchange）之初步禁制令聲請，認定其運動事件合約不屬《商品交易法》第 1a(47)(A)(ii) 條所定交換，因所涉事件欠缺潛在金融、經濟或商業後果，並認該法未排除紐約州賭博及運動博弈法之適用，州政府得要求其取得州執照或停止提供相關合約。Novig 已於同日向第二巡迴上訴法院提起上訴。",
+   "context": "Ludlow Exchange 於 2026 年 6 月取得 CFTC 指定契約市場資格，8 月起向紐約客戶提供運動事件合約，並於 8 月 5 日起訴紐約州檢察總長及州博弈委員會成員，主張 CFTC 對事件合約有專屬管轄。\n同年稍早另一位紐約聯邦法官已駁回 Kalshi 類似聲請；第三、第六巡迴亦曾認運動事件合約非交換。Novig 另在密蘇里等州涉訟，CFTC 則於 11 月 5 日要求業者停止依州封鎖。",
+   "facts": [
+    "依 The Block 報導，裁定日期為週二（2026 年 11 月 10 日），報導於 11 月 11 日刊出。",
+    "法院認 Novig 之運動事件合約與運動博弈「不只是表面相似」。",
+    "依 Sports Betting Dime 報導，法院表示其「無須無視常理」，並稱國會制定《商品交易法》係為規範金融活動。",
+    "法院認州不得直接管制指定契約市場之營運，但《商品交易法》不排除州賭博法。",
+    "依 The Block 引述律師 Daniel Wallach，第二巡迴轄區聯邦法院在運動預測市場訴訟已有 10 件裁判，全數有利於州政府。",
+    "Novig 已向第二巡迴上訴法院提起上訴。"
+   ],
+   "issues": [
+    "運動事件合約是否屬《商品交易法》所定交換而由 CFTC 專屬管轄？",
+    "《商品交易法》是否默示排除州賭博法對指定契約市場所掛牌合約之適用？",
+    "第二巡迴是否與第三、第六巡迴一致，或與其他法院見解分歧？"
+   ],
+   "holding": "・聲請：Novig 請求禁止紐約州對其執行賭博及運動博弈法。\n・定性：所涉運動賽事結果欠缺潛在金融、經濟或商業後果，不符第 1a(47)(A)(ii) 條交換定義；Novig 收取手續費之營運模式不影響結論。\n・優先適用：州不得直接管制指定契約市場營運，但《商品交易法》不排除州賭博法。\n・結果：駁回初步禁制令；紐約州得要求 Novig 取得州賭博執照或停止提供運動事件合約。",
+   "significance": "紐約州可據此對 Novig 執行州賭博法，州檢察總長並可能提起州法院民事執法；本裁定與 CFTC 主張其專屬管轄之立場直接衝突，也增加聯邦最高法院介入解決各法院見解分歧之可能。應留意第二巡迴上訴進展及紐約州後續執法。",
+   "editorNote": "本網頁助理 註：本則依 The Block 及 Sports Betting Dime 報導撰寫；本網頁助理未能開啟裁定原文核對，案號未見報導載明。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先",
+    "運動博弈",
+    "Novig",
+    "紐約州",
+    "美國"
+   ],
+   "related": [
+    "2026-11-10-fin-missouri-prediction-market-suits-escalate"
+   ],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828",
+     "official": false
+    },
+    {
+     "label": "Sports Betting Dime 報導",
+     "url": "https://www.sportsbettingdime.com/news/industry/new-york-district-judge-denies-novigs-motion-for-preliminary-injunction/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-12T07:35:20+08:00"
+  },
+  {
+   "id": "2026-11-09-fin-nz-fma-nzd-stablecoin-designation-cp",
+   "court": "OTHER",
+   "kind": "草案諮詢",
+   "caseId": "",
+   "jurisdiction": "紐西蘭",
+   "outlet": "紐西蘭金融市場管理局（FMA）",
+   "outletCode": "FMA-NZ",
+   "date": "2026-11-09",
+   "eventDate": "2026-11-09",
+   "importance": 2,
+   "author": "",
+   "title": "紐西蘭 FMA 諮詢以類別指定排除合格紐幣支付型穩定幣適用金融商品規範",
+   "shortTitle": "紐西蘭 FMA 諮詢紐幣穩定幣類別指定",
+   "point": "足額紐幣信託準備、面額贖回、不付收益者不屬金融商品，12 月 18 日截止",
+   "titleOriginal": "Consultation: Proposed class designation for NZD referenced and backed stablecoins",
+   "caseRef": "FMC Act s 562(1)(c)",
+   "tldr": "紐西蘭金融市場管理局提議：只要穩定幣以紐幣計價、準備金全額放在紐西蘭銀行的信託帳戶、可按面額贖回、且不給持有人利息，就不算《金融市場行為法》下的金融商品，可免除相關規範。這是全面立法前的過渡做法，意見收到 12 月 18 日。",
+   "memo": "紐西蘭金融市場管理局（FMA）於 2026 年 11 月 9 日發布諮詢文件，擬依《金融市場行為法》第 562(1)(c) 條作成類別指定，宣告符合條件之紐幣計價並以紐幣為準備之支付型穩定幣非屬該法所稱金融商品。適用條件包括：準備金以紐幣全額交付紐西蘭註冊銀行以單純信託方式保管、持有人得按面額贖回、不對持有人支付收益，發行人並負公開揭露準備資產等持續義務。FMA 表示尚未作成決定，意見徵詢至 2026 年 12 月 18 日。",
+   "context": "FMA 先前曾對個別紐幣穩定幣 NZDD 作成指定，認其不屬金融商品，為首例。本次擬將個案作法擴大為適用所有符合條件發行人之類別指定。\nFMA 定位本案為紐西蘭較全面數位資產監理制度完成前之過渡措施，並以用於支付而非投資之穩定幣為對象。",
+   "facts": [
+    "諮詢於 2026 年 11 月 9 日發布，FMA 同時公布諮詢文件及意見提交表。",
+    "法律依據為《金融市場行為法》（FMC Act）第 562(1)(c) 條之類別指定權限。",
+    "條件：以紐幣計價並全額以紐幣準備、準備金以單純信託存放於紐西蘭註冊銀行、得按面額贖回、不支付收益。",
+    "依賴本指定之發行人須負持續義務，包括公開報告準備資產。",
+    "意見徵詢截止日為 2026 年 12 月 18 日；FMA 表示尚未作成任何決定。"
+   ],
+   "issues": [
+    "以類別指定排除金融商品定性，能否在全面立法前提供足夠之持有人保護？",
+    "不支付收益之條件，對發行人商業模式及與存款之競爭有何影響？",
+    "外幣計價穩定幣不在本案範圍，其監理定位如何？"
+   ],
+   "holding": "・提案：依 FMC Act 第 562(1)(c) 條宣告合格紐幣支付型穩定幣非屬金融商品。\n・準備：全額紐幣、以單純信託存放於紐西蘭註冊銀行。\n・贖回與收益：持有人得按面額贖回；不得對持有人支付收益。\n・持續義務：公開報告準備資產等。\n・性質：全面數位資產制度前之過渡措施，適用於所有符合條件之發行人。",
+   "significance": "紐西蘭將由個案指定轉向類別指定，為紐幣穩定幣提供明確合規路徑，其「全額銀行信託準備、面額贖回、禁止付息」之條件與美國 GENIUS Act、香港穩定幣條例方向相近。應留意 12 月 18 日意見截止後 FMA 之最終決定，以及紐西蘭數位資產立法進度。",
+   "editorNote": "本網頁助理 註：FMA 新聞稿、諮詢頁面及諮詢文件 PDF 均無法開啟，內容係依 Stablecoin Insider 整理及搜尋結果所示 FMA 頁面資訊撰寫，細節請以 FMA 原文為準；Ledger Insights 亦有報導。",
+   "tags": [
+    "穩定幣",
+    "支付服務",
+    "FMA",
+    "紐西蘭"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "FMA 新聞稿",
+     "url": "https://www.fma.govt.nz/news/all-releases/media-releases/stablecoin-regulatory-pathway-consultation/",
+     "official": true
+    },
+    {
+     "label": "FMA 諮詢頁面",
+     "url": "https://www.fma.govt.nz/business/focus-areas/consultation/consultation-proposed-class-designation-for-nzd-referenced-and-backed-stablecoins/",
+     "official": true
+    },
+    {
+     "label": "FMA 諮詢文件全文（PDF）",
+     "url": "https://www.fma.govt.nz/assets/Consultations/Consultation-paper-Proposed-class-designation-for-NZD-stablecoins.pdf",
+     "official": true
+    },
+    {
+     "label": "Stablecoin Insider 整理",
+     "url": "https://stablecoininsider.org/nzd-stablecoin-rules/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-12T07:35:20+08:00"
   }
  ],
  "agenda": [
@@ -7627,6 +7819,26 @@
    "url": "https://www.well-played.com.au/underdog-sues-missouri-prediction-markets-injunctions/",
    "relatedId": "2026-11-10-fin-missouri-prediction-market-suits-escalate",
    "caseId": "us-prediction-markets-preemption"
+  },
+  {
+   "id": "2026-12-18-other-nz-fma-stablecoin-designation-deadline",
+   "date": "2026-12-18",
+   "court": "OTHER",
+   "title": "紐西蘭 FMA 紐幣穩定幣類別指定諮詢截止",
+   "note": "紐西蘭時間",
+   "url": "https://www.fma.govt.nz/business/focus-areas/consultation/consultation-proposed-class-designation-for-nzd-referenced-and-backed-stablecoins/",
+   "relatedId": "2026-11-09-fin-nz-fma-nzd-stablecoin-designation-cp",
+   "caseId": ""
+  },
+  {
+   "id": "2026-12-31-sec-stock-perps-exchange-rules-decision",
+   "date": "2026-12-31",
+   "court": "SEC",
+   "title": "SEC 決定是否廢止 Kalshi、Coinbase、Bitnomial 個股永續期貨交易所規則之期限",
+   "note": "依 Ledger Insights 報導，日期可能變動",
+   "url": "",
+   "relatedId": "2026-11-11-fin-sec-amicus-cftc-stock-perps",
+   "caseId": "us-perpetual-futures-jurisdiction"
   }
  ],
  "cases": [
@@ -7771,7 +7983,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "密蘇里州訴訟擴大：Underdog 11 月 8 日、Robinhood 與 Polymarket US 11 月 9 日起訴州檢察總長，州政府同日對 Novig 提出反訴；CFTC 11 月 5 日要求指定契約市場 30 日內停止依州別封鎖；加州北區聯邦地院 11 月 4 日禁止 Kalshi 於兩部落土地提供運動合約；阿肯色州 11 月 4 日起訴 Kalshi；第九巡迴駁回 Kalshi 內華達州案重審聲請、第二巡迴駁回 Kalshi、Coinbase 禁制令聲請；伊利諾州案已上訴第七巡迴。"
+   "status": "紐約南區聯邦地院 11 月 10 日駁回 Novig 初步禁制令、認運動合約非交換，Novig 已上訴第二巡迴；密蘇里州訴訟擴大至六家業者，州政府對 Novig 提出反訴；CFTC 11 月 5 日要求指定契約市場 30 日內停止依州別封鎖；加州北區聯邦地院禁止 Kalshi 於兩部落土地提供運動合約；阿肯色州起訴 Kalshi；第九巡迴駁回 Kalshi 內華達州案重審聲請；伊利諾州案已上訴第七巡迴。"
   },
   {
    "id": "kr-tokenised-securities",
@@ -7815,7 +8027,7 @@
    "nameOriginal": "US perpetual futures: CFTC approval and jurisdictional challenges",
    "caseRef": "",
    "summary": "CFTC 先允許加密資產永續期貨於其註冊交易所上市，再於 2026 年 11 月擴及個股永續期貨，CME 集團及傳統證券業者團體分別起訴，主張相關商品屬交換或以證券為基礎之交換。",
-   "status": "CFTC 11 月 3 日宣布個股永續期貨視為已核准之證券期貨，同日 Capital Markets Alliance 於紐約南區聯邦地院起訴，法院駁回暫時限制令但認原告本案勝訴可能性高；Coinbase、Kalshi 等六家業者 11 月 9 日聲請以法院之友身分支持 CFTC，初步禁制令書狀於 11 月 10 日交換完畢、待法院裁定；CME 對加密永續期貨之訴訟仍在進行。"
+   "status": "CFTC 11 月 3 日宣布個股永續期貨視為已核准之證券期貨，同日 Capital Markets Alliance 於紐約南區聯邦地院起訴，法院駁回暫時限制令但認原告本案勝訴可能性高；Coinbase、Kalshi 等六家業者及 SEC 先後以法院之友身分支持 CFTC（SEC 未表態商品定性），初步禁制令書狀已交換完畢、待法院裁定；SEC 須於 12 月 31 日前決定是否廢止相關交易所規則；CME 對加密永續期貨之訴訟仍在進行。"
   },
   {
    "id": "ng-cbn-virtual-asset-regime",
