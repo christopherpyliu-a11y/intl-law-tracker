@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-11T23:06:33+08:00",
-  "lastRunLocal": "2026-11-11 23:06",
+  "lastRun": "2026-11-12T07:09:49+08:00",
+  "lastRunLocal": "2026-11-12 07:09",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：ITLOS 1、Opinio Juris 評論 1"
+  "lastRunNote": "新增 1 則：其他 1（荷美磋商限縮 ICC 權限之未證實報導）"
  },
  "items": [
   {
@@ -5823,7 +5823,8 @@
    "addedAt": "2026-11-05T23:03:33+08:00",
    "related": [
     "2026-10-09-icc-us-sanctions",
-    "2026-11-02-other-unga-icc-report-resolution"
+    "2026-11-02-other-unga-icc-report-resolution",
+    "2026-11-11-other-nl-us-icc-restrictions-report"
    ]
   },
   {
@@ -7037,6 +7038,57 @@
    "outlet": "Opinio Juris",
    "outletCode": "OJ",
    "author": "Alonso Gurmendi（倫敦政經學院）；Himani Jha、Garima Tiwari（印度德里國立法律大學）；Mia Colliard（瑞士弗里堡大學）；Laurence Atkin-Teillet（諾丁漢特倫特大學）"
+  },
+  {
+   "id": "2026-11-11-other-nl-us-icc-restrictions-report",
+   "court": "OTHER",
+   "kind": "機構動態",
+   "caseId": "us-sanctions-icc",
+   "date": "2026-11-11",
+   "eventDate": "",
+   "importance": 1,
+   "title": "未經證實報導：荷蘭據稱與美國磋商限縮國際刑事法院管轄權，以換取緩和制裁；荷蘭外交部稱目前並無具體提案",
+   "shortTitle": "報導稱荷美磋商限縮 ICC 權限",
+   "point": "消息來自匿名外交人士；荷蘭外交部稱無具體提案，並將堅定支持法院",
+   "titleOriginal": "Diplomatic sources: 'The Netherlands is negotiating the dismantling of the International Criminal Court' (The Rights Forum)",
+   "caseRef": "",
+   "tldr": "荷蘭倡議團體 The Rights Forum 引述匿名外交人士，稱荷蘭正與美國討論限縮國際刑事法院的權限，例如給予國家元首豁免、排除對非締約國國民的管轄，以換取美國放寬制裁。荷蘭外交部回應說目前沒有具體提案，荷蘭仍堅定支持法院。這些說法目前只有單一來源，尚未獲其他媒體證實。",
+   "memo": "據荷蘭倡議團體 The Rights Forum 於 2026 年 11 月 11 日引述匿名外交消息來源之報導，荷蘭正與美國磋商限縮國際刑事法院權限，包括國家元首豁免、排除對非締約國國民之管轄，以及於國內法已有規定時即排除法院管轄等方案，以換取緩和美國制裁；上述變更均須修正《羅馬規約》。荷蘭外交部回應稱，締約國大會曾以共識鼓勵與非締約國對話，目前並無具體提案，荷蘭將持續支持法院。該報導尚無其他來源證實。",
+   "context": "美國自 2025 年起陸續制裁國際刑事法院的法官與檢察官，並於 2026 年 10 月將制裁擴及法院整體（見本站 10 月 9 日一則）；11 月 5 日的調查報導指出，已有人權組織因制裁而疏遠法院。荷蘭是法院地主國。\n締約國大會第 25 屆會議預定於 2026 年 11 月 30 日至 12 月 7 日在海牙舉行。",
+   "facts": [
+    "The Rights Forum 於 2026 年 11 月 11 日刊出報導，消息來源為紐約的匿名外交人士及未具名的法律專家，未附任何文件。",
+    "報導稱討論中的限制有三：對國家元首與政府首長的豁免；排除對非締約國國民的管轄，即使罪行發生在締約國領域；以及只要國內法已規範相關罪行（即使實際未執行）即排除法院管轄。",
+    "報導指出，這些變更須修正《羅馬規約》，並稱歐盟因顧慮對歐洲企業的影響而遲未啟動阻斷機制。",
+    "荷蘭外交部書面回應：2025 年 12 月締約國大會以共識鼓勵與非締約國對話，荷蘭將在國際法架構內探索對話；目前並無具體提案，荷蘭將堅定支持法院。報導未載有法院本身的回應。"
+   ],
+   "issues": [
+    "以修正《羅馬規約》換取非締約國放寬制裁，是否與第 27 條（公務身分無關性）、第 12 條（屬地管轄）及第 17 條（補充性原則）相容。",
+    "地主國在締約國大會中推動與非締約國「對話」的界限。"
+   ],
+   "holding": "本則為單一來源的媒體報導，非官方決定。\n報導主張：荷蘭正就上述三項限制與美國磋商，法律專家認為等同瓦解法院。\n荷蘭政府回應：否認有具體提案，表示仍支持法院。",
+   "significance": "若報導屬實，將涉及法院管轄權核心的變動，並可能成為締約國大會第 25 屆會議的檯面下議題；但目前只有倡議團體依匿名消息的單一報導，且荷蘭政府已否認有具體提案，宜待其他來源證實。",
+   "editorNote": "本網頁助理 註：本則僅依 The Rights Forum（以巴勒斯坦議題為主的荷蘭倡議團體）的報導撰寫，消息來源均為匿名，本網頁助理未能找到其他媒體或官方文件證實，亦未查得國際刑事法院的回應。報導另稱部分制裁將於 2027 年 4 月 7 日生效，本網頁助理未能查證，故未列入正文。\n以下為本網頁助理補充，非來源內容：依《羅馬規約》第 121 條，修正案須經三分之二締約國通過，並經八分之七締約國批准後方對全體生效（修正第 5 條犯罪者另有規定）。",
+   "tags": [
+    "國際刑事法院",
+    "美國制裁",
+    "羅馬規約修正",
+    "豁免",
+    "補充性原則",
+    "締約國大會",
+    "荷蘭",
+    "美國"
+   ],
+   "sources": [
+    {
+     "label": "The Rights Forum 報導",
+     "url": "https://rightsforum.org/en/diplomatic-sources-the-netherlands-is-negotiating-the-dismantling-of-the-international-criminal-court/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-12T07:09:49+08:00",
+   "related": [
+    "2026-11-05-other-ngos-cut-ties-icc-sanctions"
+   ]
   }
  ],
  "agenda": [
@@ -7374,7 +7426,7 @@
    "nameOriginal": "U.S. sanctions against the International Criminal Court",
    "caseRef": "",
    "summary": "美國陸續制裁 ICC 官員，2026 年 10 月 9 日擴及法院整體；美國法院訴訟、歐盟保護措施與各國表態同步進行。",
-   "status": "據 11 月 5 日調查報導，至少 20 個人權組織已因制裁終止或縮減與法院合作；聯大已於 11 月 2 日通過譴責干預法院的決議，歐盟《阻斷法規》仍未啟動。"
+   "status": "11 月 11 日有未經證實報導稱荷蘭與美國磋商限縮法院權限（荷蘭外交部稱無具體提案）；歐盟《阻斷法規》仍未啟動，締約國大會將於 11 月 30 日開幕。"
   },
   {
    "id": "icc-governance",
