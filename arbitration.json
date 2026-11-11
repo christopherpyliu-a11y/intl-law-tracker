@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-11T07:28:32+08:00",
-  "lastRunLocal": "2026-11-11 07:28",
+  "lastRun": "2026-11-11T23:15:07+08:00",
+  "lastRunLocal": "2026-11-11 23:15",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 2 則：投資仲裁 2（法院裁判 1、仲裁庭決定 1）；商務仲裁本次未發現新動態",
+  "lastRunNote": "新增 1 則：投資仲裁 1（案件動態 1）；商務仲裁本次未發現新動態",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -7222,6 +7222,93 @@
     }
    ],
    "addedAt": "2026-11-11T07:28:32+08:00"
+  },
+  {
+   "id": "2026-11-10-arb-arguello-v-panama-bifurcation-denied",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "arguello-v-panama",
+   "jurisdiction": "巴拿馬",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-10",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "Argüello 兄弟訴巴拿馬住宅投資案：ICSID 仲裁庭駁回巴拿馬分階段審理之聲請，管轄權異議將與實體一併審理",
+   "shortTitle": "巴拿馬住宅投資案：分階段審理聲請遭駁回",
+   "point": "仲裁庭認為先審異議勢必觸及實體爭點，無助於提升效率",
+   "titleOriginal": "Juan Carlos Argüello and Ernesto Argüello v. Republic of Panama (ICSID Case No. ARB/25/39), Decision on Bifurcation",
+   "caseRef": "ICSID Case No. ARB/25/39",
+   "tldr": "兩名美國投資人主張巴拿馬突然撤銷其住宅開發案的核准，依美國—巴拿馬貿易促進協定在 ICSID 求償逾 2.04 億美元。巴拿馬請求先單獨審理其管轄權等異議，但仲裁庭認為這些異議與案件實體糾纏在一起，先審並不能省時省錢，因此駁回，案件將把管轄權與實體合併審理。",
+   "memo": "ICSID 仲裁庭於 Juan Carlos Argüello and Ernesto Argüello v. Republic of Panama 案（ICSID Case No. ARB/25/39）駁回巴拿馬分階段審理（bifurcation）之聲請，ICSID 於 2026 年 11 月 9 日公開該決定。本案係美國籍投資人依美國—巴拿馬貿易促進協定，主張巴拿馬撤銷其住宅開發案之核准並由國營銀行中止融資，請求逾 2.04 億美元損害賠償。巴拿馬就投資人資格、國籍、時效及國營銀行行為之歸屬提出先決異議，仲裁庭認為審理該等異議須檢視實體事實，先行審理無助於程序效率，故將管轄權異議併入實體程序審理。",
+   "context": "聲請人 Juan Carlos Argüello 與 Ernesto Argüello 為美國籍投資人，透過巴拿馬公司 Materiales Vista Bahia S. de R.L.（MVB）及 Excellence Management Group, S.A.（EMG）在巴拿馬投資住宅開發案。聲請人主張，巴拿馬國營銀行 Banco Nacional de Panamá 與 Caja de Ahorros 自 2019 年起任意中止對該案的融資，住宅部（MIVIOT）並於 2022 年 8 月 17 日函知撤銷該案依「團結住宅基金」（Fondo Solidario de Vivienda）取得的核准。\n聲請人依《美國—巴拿馬貿易促進協定》第 10.16 條提起 ICSID 仲裁，ICSID 於 2025 年 8 月 11 日登記本案，適用 2022 年 ICSID 仲裁規則。仲裁庭由 Alfredo Bullard González（主任仲裁人）、Chiara Giorgetti 與 Stephan Schill 組成。同一對投資人另曾就宏都拉斯的平價住宅案對宏都拉斯提起仲裁。\n程序上，聲請人於 2026 年 6 月 10 日提出實體書狀，巴拿馬於同年 7 月 24 日聲請分階段審理，9 月 25 日另聲請命聲請人提供費用擔保。仲裁庭先前曾於 2026 年 3 月以第 3 號程序令，因主任仲裁人在另一 ICSID 案擔任專家證人、由聲請人方一名律師委任，暫時排除該律師代理本案。",
+   "facts": [
+    "巴拿馬於 2026 年 7 月 24 日聲請分階段審理，請求先審理其先決異議並暫停實體程序。",
+    "巴拿馬提出四項異議：聲請人並未自行投資，亦無法證明違約期間（自 2019 年 2 月起）擁有或控制該投資；Juan Carlos Argüello 出生於宏都拉斯，其主要且有效國籍為宏都拉斯籍，非受保護投資人；依協定三年時效，2022 年 7 月 31 日前已知悉的事件均已逾期；兩家國營銀行並非國家機關，其行為不能歸屬於巴拿馬。",
+    "依 Mealey's 報導，仲裁庭駁回分階段審理聲請，理由是先行審理異議須審查案件實體，無法提升效率；ICSID 於 2026 年 11 月 9 日公開該決定。",
+    "依第 1 號程序令所附程序時程，若分階段審理遭駁回，巴拿馬應於 2027 年 1 月 27 日提出實體答辯暨管轄權書狀，言詞審理排定於 2028 年 2 月 14 日當週。"
+   ],
+   "issues": [
+    "依 2022 年 ICSID 仲裁規則第 44 條，仲裁庭決定是否將先決異議分階段審理時，應考量的因素（程序效率、異議能否終結全部或大部分爭議、異議與實體是否交織）。",
+    "聲請人是否在違約時擁有或控制受《美國—巴拿馬貿易促進協定》保護之投資，以及雙重國籍者是否為受保護投資人。",
+    "協定第十章三年時效之起算，以及國營銀行之行為能否歸屬於地主國。"
+   ],
+   "holding": "・依 Mealey's 報導，仲裁庭駁回巴拿馬分階段審理之聲請。\n・理由：仲裁庭認為，判斷巴拿馬的異議須審查實體問題，先行審理不會提升程序效率。\n・效果：巴拿馬的管轄權異議將與實體問題一併審理。報導未說明仲裁庭對各項異議的個別評估及費用決定。",
+   "significance": "分階段審理遭駁回後，本案將進入管轄權與實體合併審理的完整書狀程序。依原定時程，巴拿馬應於 2027 年 1 月提出答辯書狀，言詞審理預定於 2028 年 2 月，但時程可能已調整。巴拿馬另提出的費用擔保聲請尚待仲裁庭決定。",
+   "editorNote": "本網頁助理 註：本則依 Mealey's 2026 年 11 月 10 日報導之標題及摘要撰寫，全文須訂閱，尚未取得仲裁庭決定原文，決定作成日期不明，故裁判日期欄留空；報導亦未列出案名，本則依報導所述「兩名美國投資人、住宅投資、逾 2.04 億美元」及同一報導來源 2026 年 9 月關於「Argüellos」分階段審理聲請之報導，對應至 ICSID Case No. ARB/25/39。巴拿馬各項異議內容依 italaw 公開之巴拿馬分階段審理聲請書（西班牙文）；程序時程依 ICSID 公開之第 1 號程序令附件。ICSID 案件頁面拒絕自動讀取。",
+   "tags": [
+    "ICSID",
+    "巴拿馬",
+    "美國",
+    "分階段審理",
+    "管轄權",
+    "貿易促進協定",
+    "國營企業行為歸屬",
+    "雙重國籍",
+    "時效",
+    "住宅開發"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 第 1 號程序令附件：程序時程（PDF）",
+     "url": "https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C12987/DS21678_En.pdf",
+     "official": true
+    },
+    {
+     "label": "ICSID 第 3 號程序令（排除代理律師，PDF）",
+     "url": "https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C12987/DS21515_En.pdf",
+     "official": true
+    },
+    {
+     "label": "Mealey's 報導（駁回分階段審理）",
+     "url": "https://www.mealeys.com/mealeys/mealeys-international-arbitration/articles/2548721",
+     "official": false
+    },
+    {
+     "label": "Mealey's 報導（巴拿馬聲請分階段審理）",
+     "url": "https://www.mealeys.com/mealeys/mealeys-international-arbitration/articles/2527467",
+     "official": false
+    },
+    {
+     "label": "巴拿馬分階段審理聲請書（西班牙文，italaw PDF）",
+     "url": "https://www.italaw.com/sites/default/files/case-documents/icsid/ARB-25-39/italaw19400031%20-%20Arg%C3%BCello%20v.%20Panama%20-%20Respondent%27s%20Request%20for%20Bifurcation%20-%20July%2024%2C%202026%20%28Spanish%29.pdf",
+     "official": false
+    },
+    {
+     "label": "italaw 案件頁面",
+     "url": "https://www.italaw.com/cases/14105",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review 報導（立案，需訂閱）",
+     "url": "https://globalarbitrationreview.com/article/familiar-claimants-take-panama-icsid",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T23:15:07+08:00"
   }
  ],
  "agenda": [
@@ -7812,6 +7899,18 @@
    "caseRef": "ICSID Case No. ARB/23/45",
    "summary": "美國籍投資人及其喬治亞公司主張喬治亞以騷擾與法院判決使其喪失鐵路維修廠權益，依美國－喬治亞投資協定求償約 1.5 億美元。",
    "status": "仲裁庭 2026 年 8 月 14 日駁回喬治亞管轄權異議，案件進入實體階段。"
+  },
+  {
+   "id": "arguello-v-panama",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Argüello 兄弟訴巴拿馬（住宅開發案）",
+   "nameOriginal": "Juan Carlos Argüello and Ernesto Argüello v. Republic of Panama",
+   "caseRef": "ICSID Case No. ARB/25/39",
+   "summary": "兩名美國投資人依美國—巴拿馬貿易促進協定，就巴拿馬撤銷其住宅開發案核准及國營銀行中止融資，請求逾 2.04 億美元賠償。",
+   "status": "仲裁庭駁回巴拿馬分階段審理之聲請（2026 年 11 月公開），管轄權異議與實體將合併審理。"
   }
  ]
 }
