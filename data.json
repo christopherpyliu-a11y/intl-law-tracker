@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-11T07:04:14+08:00",
-  "lastRunLocal": "2026-11-11 07:04",
+  "lastRun": "2026-11-11T23:06:33+08:00",
+  "lastRunLocal": "2026-11-11 23:06",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：ICC 1、ECtHR 1"
+  "lastRunNote": "新增 2 則：ITLOS 1、Opinio Juris 評論 1"
  },
  "items": [
   {
@@ -6699,7 +6699,8 @@
    "related": [
     "2026-10-20-itlos-argentina-uk-hearing",
     "2026-10-13-itlos-argentina-uk",
-    "2026-11-09-oj-disputed-continental-shelf-83-3"
+    "2026-11-09-oj-disputed-continental-shelf-83-3",
+    "2026-11-11-itlos-argentina-uk-hearing-day2"
    ]
   },
   {
@@ -6881,6 +6882,161 @@
     }
    ],
    "addedAt": "2026-11-11T07:04:14+08:00"
+  },
+  {
+   "id": "2026-11-11-itlos-argentina-uk-hearing-day2",
+   "court": "ITLOS",
+   "kind": "程序進展",
+   "caseId": "argentina-v-uk-sea-lion",
+   "date": "2026-11-11",
+   "eventDate": "2026-11-11",
+   "importance": 2,
+   "title": "阿根廷訴英國（Sea Lion 油田案）：ITLOS 臨時措施辯論第二日，阿根廷第二輪陳述強調「現在不處理就永遠來不及」",
+   "shortTitle": "阿英油田案進入第二輪辯論",
+   "point": "阿根廷稱鑽探一旦開始便無現狀可保全，裁定可能最快本週作成",
+   "titleOriginal": "Case concerning hydrocarbon exploitation in the South-West Atlantic Ocean (Argentina v. United Kingdom), Provisional Measures – public hearing (second round)",
+   "caseRef": "ITLOS Case No. 37",
+   "tldr": "國際海洋法法庭 11 月 11 日進行 Sea Lion 油田臨時措施案的第二天、也是最後一天辯論。阿根廷在第二輪陳述中重申，石油是開採後無法回復的資源，必須在鑽探開始前下令暫停；英國則堅持法庭沒有管轄權、也沒有急迫危險，並於當天稍晚作最後陳述。裁定預計在本週或下週初作成。",
+   "memo": "國際海洋法法庭於 2026 年 11 月 11 日就阿根廷訴英國西南大西洋油氣開發案（第 37 號案）之臨時措施聲請進行第二輪言詞辯論。阿根廷由 Marcelo Kohen 陳述群島屬聯合國列管之待去殖民化領土、爭端及於周邊海域與大陸礁層資源，並由 Nico Schrijver 主張鑽探一旦開始即無現狀可資保全，請求命英國停止 Sea Lion 開發、不再核發新許可、保全探勘資料並保護海洋環境；英國則主張法庭欠缺管轄權，且無急迫而無法回復之損害風險。依報導，裁定可能於 11 月 13 日前後作成。",
+   "context": "阿根廷於 2026 年 10 月 13 日依《聯合國海洋法公約》附件七對英國提起仲裁，並依第 290 條第 5 項請求 ITLOS 在仲裁庭組成前規定臨時措施，阻止英國支持、由 Navitas Petroleum 擔任作業者、Rockhopper Exploration 持股的 Sea Lion 油田開發。11 月 10 日第一輪辯論中，阿根廷強調開採不可再生資源的不可回復性，英國則爭執法庭管轄（見本站 11 月 10 日一則）。",
+   "facts": [
+    "11 月 11 日為辯論第二天，依報導阿根廷於漢堡時間上午 10 時 30 分至 12 時進行第二輪陳述，英國於下午 5 時 30 分至 7 時作最後陳述。",
+    "阿根廷律師 Marcelo Kohen 指出聯合國將馬爾維納斯（福克蘭）群島列為待去殖民化領土，並主張爭端不限於群島主權，也及於周邊海域與大陸礁層天然資源。",
+    "阿根廷律師 Nico Schrijver 就急迫性陳述，表示鑽探一旦開始就沒有現狀可保全，開採不可再生資源的後果無法回復。",
+    "阿根廷重申請求：停止 Sea Lion 開發、不再核發新許可、保全探勘資料、保護海洋環境，並表示願恢復雙邊談判。",
+    "依報導，阿根廷稱鑽井平台 Noble Endeavour 已簽約，預定 2027 年 1 月開工；英國則稱鑽探不會早於 2027 年 3 月 21 日、產油不會早於 2028 年，屆時附件七仲裁庭應已組成。",
+    "英國總檢察長 Ellie Reeves 主張法庭對主權主張無管轄權，並稱阻止開發將使群島喪失數十億英鎊的經濟發展，侵害島民開發資源的自決權利；英國並援引 2013 年公投。"
+   ],
+   "issues": [
+    "《聯合國海洋法公約》第 290 條第 5 項：附件七仲裁庭之初步管轄權，以及爭端是否實為公約第 288 條範圍外之陸地主權爭端。",
+    "急迫性：在附件七仲裁庭得以運作前，是否存在對阿根廷所主張權利之真實而迫切的無法回復損害風險。",
+    "島民自決與經濟利益在臨時措施權衡中的地位。"
+   ],
+   "holding": "言詞辯論於 11 月 11 日終結，法庭尚未作成決定。\n依報導，依法庭規則，臨時措施裁定應於聲請提出後約一個月內作成，即約 11 月 13 日（星期五），法庭亦可能延至下週。",
+   "significance": "雙方爭點集中於兩項：一是爭端能否與主權問題切割，使 ITLOS 認定仲裁庭有初步管轄權；二是以 2027 年 3 月鑽探、2028 年產油的時程，是否在附件七仲裁庭組成前已構成急迫風險。裁定結果將影響 Sea Lion 計畫的進度，也將是「混合爭端」在臨時措施階段如何處理的重要先例。",
+   "editorNote": "本網頁助理 註：本則依阿根廷媒體 El Canciller、Infobae 與 Al Jazeera 報導及 ITLOS 案件頁撰寫；撰寫時（臺北時間 11 月 11 日晚間）英國最後陳述尚未進行，ITLOS 亦僅公布 11 月 10 日逐字紀錄，文中英國主張係依報導所述第一輪及先前立場，以官方逐字紀錄為準。Al Jazeera 稱英國於「星期二」陳述，與第一輪時程一致。裁定日期係媒體依規則推估，法庭尚未公布。",
+   "tags": [
+    "國際海洋法法庭",
+    "阿根廷",
+    "英國",
+    "福克蘭群島",
+    "Sea Lion",
+    "臨時措施",
+    "第290條",
+    "附件七仲裁",
+    "初步管轄權",
+    "自決"
+   ],
+   "sources": [
+    {
+     "label": "國際海洋法法庭案件頁（臨時措施）",
+     "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/",
+     "official": true
+    },
+    {
+     "label": "國際海洋法法庭新聞稿第 402 號（辯論期日）",
+     "url": "https://www.itlos.org/fileadmin/itlos/documents/press_releases_english/PR_402_EN.pdf",
+     "official": true
+    },
+    {
+     "label": "El Canciller 報導（西班牙文）",
+     "url": "https://elcanciller.com/politica/argentina-insistio-con-frenar-la-explotacion-petrolera-en-malvinas-y-advirtio-al-tribunal-del-mar---ahora-o-nunca-_a6af47655a5c9d8a00e01d0e9",
+     "official": false
+    },
+    {
+     "label": "Infobae 報導（西班牙文）",
+     "url": "https://www.infobae.com/politica/2026/11/11/argentina-y-el-reino-unido-cierran-sus-argumentos-ante-el-tribunal-del-mar-por-malvinas-cuando-llegaria-el-fallo/",
+     "official": false
+    },
+    {
+     "label": "Al Jazeera 報導",
+     "url": "https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T23:06:33+08:00",
+   "related": [
+    "2026-11-10-itlos-argentina-uk-hearing-day1"
+   ]
+  },
+  {
+   "id": "2026-11-11-oj-pop-culture-symposium-ihl-genocide",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "",
+   "date": "2026-11-11",
+   "eventDate": "",
+   "importance": 1,
+   "title": "Opinio Juris 第六屆流行文化與國際法研討：以《進擊的巨人》談背信棄義、以《王牌大賤諜》談動物武器化、以《光與影：33 號遠征隊》談種族滅絕",
+   "shortTitle": "流行文化研討：背信、動物武器與種族滅絕",
+   "point": "作者們認為事後坦承不能洗白背信行為，動物僅受間接保護，虛構族群難構成種族滅絕",
+   "titleOriginal": "6th Annual Symposium on Pop Culture and International Law (Opinio Juris): 'I'm the Same as You' (Attack on Titan); Sharks with Frickin' Laser Beams (Austin Powers); Genocide in the Canvas? (Clair Obscur: Expedition 33)",
+   "caseRef": "",
+   "tldr": "Opinio Juris 每年舉辦「流行文化與國際法」線上研討，用動漫、電影、遊戲說明國際法問題。本週已刊出的三篇涉及戰爭法與種族滅絕：假裝投降或假扮傷兵發動攻擊屬背信行為，事後或攻擊當下才表明身分不能補救；被改造成武器的鯊魚在法律上是「物」，只受環境等規則間接保護；遊戲中被抹除的「畫中人」雖像一個民族，但現行種族滅絕定義以人類群體為準，難以適用。",
+   "memo": "Opinio Juris 於 2026 年 11 月 9 日起舉辦第六屆流行文化與國際法線上研討。Himani Jha 與 Garima Tiwari 主張背信與合法詐術之分界在於是否利用敵方遵守法律之義務，事後揭露須及時且向受影響者為之，始能回復其地位；Mia Colliard 主張武器化動物應定性為物而非戰鬥員，其攻擊受區分、比例、預防及環境保護規則規範，國際人道法對動物僅有間接保護；Laurence Atkin-Teillet 認為虛構之非人類族群依《防止及懲治殘害人群罪公約》第 2 條難以構成受保護團體，惟凸顯法律保護對象之界定問題。",
+   "context": "Opinio Juris 自 2021 年起每年舉辦「流行文化與國際法」線上研討，邀集作者以小說、電影、動漫與電玩為例討論國際法議題。第六屆由 Alonso Gurmendi（倫敦政經學院人權研究員）於 11 月 9 日撰文介紹，預定至 11 月 13 日（星期五）共刊出約十篇。\n本則僅摘要屬於國際人道法與種族滅絕範圍的三篇；其餘各篇涉及其他主題，見本網頁助理註。",
+   "facts": [
+    "11 月 9 日：Gurmendi 刊出研討介紹，並列出各篇主題與作者。",
+    "11 月 10 日：Jha 與 Tiwari 以《進擊的巨人》中假投降、假扮傷兵及穿著敵方制服突襲三段情節，討論第一附加議定書第 37 條、第 39 條及羅馬規約第 8 條第 2 項第 (b) 款第 (xi) 目。",
+    "11 月 10 日：Colliard 以《王牌大賤諜》中裝有雷射的鯊魚為假設，在非國際性武裝衝突架構下討論動物的法律地位與 ICRC 習慣國際人道法第 43 至 45 條規則。",
+    "11 月 11 日：Atkin-Teillet 以電玩《光與影：33 號遠征隊》中「畫布」世界與其居民遭毀滅為例，檢驗《防止及懲治殘害人群罪公約》第 2 條與羅馬規約第 6 條。"
+   ],
+   "issues": [
+    "背信（perfidy）與合法戰爭詐術之界線；事後坦承身分能否補救背信，以及揭露時點與對象之要求（第一附加議定書第 37 條、第 39 條第 2 項；習慣規則第 57、62、65 條）。",
+    "經訓練用於攻擊之動物在國際人道法上之定性、得否作為軍事目標，以及瀕危物種與自然環境保護規則之適用（第一附加議定書第 52 條第 2 項；習慣規則第 43–45 條）。",
+    "種族滅絕罪之受保護團體是否限於人類群體，以及特定意圖與動機之區分（《防止及懲治殘害人群罪公約》第 2 條；羅馬規約第 6 條、第 22 條第 2 項）。"
+   ],
+   "holding": "・Jha 與 Tiwari（11 月 10 日）：背信與詐術的區別，在於欺騙是利用敵方的無知，還是利用敵方依法負有的克制義務。假投降是最典型的背信；假扮傷兵的情形只向一人坦承，其他受害者仍受蒙蔽，坦承無從補救；穿敵方制服者即使在攻擊瞬間表明身分，仍違反第 39 條第 2 項且揭露過遲。作者引 1947 年 Skorzeny 等人案，並指出似乎尚無國際性法院曾以背信或背信殺人定罪，揭露時點與對象的標準仍待發展。\n・Colliard（11 月 10 日）：鯊魚無法區分戰鬥員與失去戰鬥力者，也無法負責，應定性為物；僅攜帶雷射的鯊魚，攻擊目標應是雷射，受訓攻擊的鯊魚才可能是軍事目標。瀕危物種列名（IUCN、CITES、CMS 附錄 II）不生攻擊豁免，但影響可預見環境損害的評估；依習慣規則第 43 至 45 條，少量使用不致造成廣泛、長期且嚴重的損害，大規模使用則可能不同。結論是國際人道法對動物僅有間接保護，在非國家武裝團體不受環境條約拘束的非國際性武裝衝突中缺口尤大。\n・Atkin-Teillet（11 月 11 日）：畫中居民共享語言、文化、歷史與制度，依 Akayesu 案標準或可視為族裔團體，但公約以人類為中心，Krstić 案又以物理或生物毀滅界定，且羅馬規約第 22 條第 2 項禁止類推擴張。居民若具意識，其消失或可類比殺害；毀滅畫布者明知居民將消失，可能具特定意圖，其解救家人的動機依 Jelić 案不排除意圖。結論是本例不構成現行法上明確的種族滅絕，但凸顯受保護團體應依血緣、文化、社會認同或意識界定的問題。",
+   "significance": "三位作者都藉虛構情節點出現行法的模糊地帶：背信揭露的時點與對象缺乏判例、國際人道法對動物與環境的保護有限、種族滅絕的受保護團體如何界定。研討將持續至 11 月 13 日，預定還有涉及攻擊文化設施（《航海王》）與奴役、迫害罪的文章。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。本網頁助理 註：本則合併研討介紹及 11 月 10、11 日三篇屬國際人道法與種族滅絕範圍的文章撰寫；同系列 Christien Bianco〈Harry Potter and the Power of Exclusion〉（11 月 9 日，討論規則與「他者化」）與 Shaoxuan Xu 討論《三體》中誰能代表人類的文章（11 月 11 日）未逐篇摘要。遊戲中文譯名依通行譯法，Colliard 一文並未討論第一附加議定書第 35 條第 3 項、第 55 條或 ENMOD 公約。",
+   "tags": [
+    "國際人道法",
+    "背信棄義",
+    "第一附加議定書",
+    "羅馬規約",
+    "種族滅絕公約",
+    "受保護團體",
+    "特定意圖",
+    "自然環境",
+    "非國際性武裝衝突",
+    "流行文化"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文（研討介紹）",
+     "url": "https://opiniojuris.org/2026/11/09/introducing-the-6th-annual-symposium-on-pop-culture-and-international-law/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris 原文（Jha、Tiwari：背信與《進擊的巨人》）",
+     "url": "https://opiniojuris.org/2026/11/10/im-the-same-as-you-conceptualising-confession-perfidy-and-the-timing-of-treachery-through-attack-on-titan/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris 原文（Colliard：動物武器化）",
+     "url": "https://opiniojuris.org/2026/11/10/sharks-with-frickin-laser-beams-attached-to-their-heads-weaponization-of-internationally-protected-animals-under-ihl/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris 原文（Atkin-Teillet：種族滅絕）",
+     "url": "https://opiniojuris.org/2026/11/11/genocide-in-the-canvas-international-law-and-the-destruction-of-lumiere-in-clair-obscur-expedition-33/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris 原文（Bianco，未摘要）",
+     "url": "https://opiniojuris.org/2026/11/09/harry-potter-and-the-power-of-exclusion/",
+     "official": false
+    },
+    {
+     "label": "Opinio Juris 原文（Xu，未摘要）",
+     "url": "https://opiniojuris.org/2026/11/11/who-can-speak-for-earth-representative-authority-and-first-contact-governance-in-the-three-body-problem/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T23:06:33+08:00",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Alonso Gurmendi（倫敦政經學院）；Himani Jha、Garima Tiwari（印度德里國立法律大學）；Mia Colliard（瑞士弗里堡大學）；Laurence Atkin-Teillet（諾丁漢特倫特大學）"
   }
  ],
  "agenda": [
@@ -7102,9 +7258,9 @@
    "date": "",
    "court": "ITLOS",
    "title": "阿根廷訴英國：臨時措施裁定宣示",
-   "note": "辯論 11 月 11 日終結；媒體推估約 11 月中旬宣示，法庭尚未公布日期。",
+   "note": "辯論 11 月 11 日終結；媒體依法庭規則推估約 11 月 13 日（或延至下週）宣示，法庭尚未公布日期。",
    "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/",
-   "relatedId": "2026-11-10-itlos-argentina-uk-hearing-day1",
+   "relatedId": "2026-11-11-itlos-argentina-uk-hearing-day2",
    "caseId": "argentina-v-uk-sea-lion"
   }
  ],
@@ -7174,7 +7330,7 @@
    "nameOriginal": "Case concerning hydrocarbon exploitation in the South-West Atlantic Ocean (Argentina v. United Kingdom)",
    "caseRef": "",
    "summary": "阿根廷依《聯合國海洋法公約》對英國提起程序，並請 ITLOS 在附件七仲裁庭組成前規定臨時措施，阻止英國支持的 Sea Lion 油田開發。",
-   "status": "ITLOS 於 2026 年 11 月 10、11 日舉行臨時措施言詞辯論，裁定尚待作成。"
+   "status": "ITLOS 於 2026 年 11 月 10、11 日舉行臨時措施言詞辯論，裁定尚待作成，媒體推估約 11 月 13 日前後宣示。"
   },
   {
    "id": "nori-toml-v-isa",
