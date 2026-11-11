@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-11T07:41:41+08:00",
-  "lastRunLocal": "2026-11-11 07:41",
+  "lastRun": "2026-11-11T23:36:45+08:00",
+  "lastRunLocal": "2026-11-11 23:36",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：美國 1（司法案件 1）、歐盟 1（政策動態 1）"
+  "lastRunNote": "新增 4 則：國際組織 1（國際標準 1）、美國 1（執法案件 1）、歐盟 1（政策動態 1）、台灣 1（政策動態 1）"
  },
  "items": [
   {
@@ -552,7 +552,8 @@
     "2026-10-10-fin-taiwan-fsc-stablecoin-joint-venture-plan",
     "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody",
     "2026-11-03-fin-taiwan-fsc-vasp-draft-subregulations",
-    "2026-11-03-fin-taiwan-fsc-stablecoin-issuance-draft"
+    "2026-11-03-fin-taiwan-fsc-stablecoin-issuance-draft",
+    "2026-11-11-fin-taiwan-fsc-vasp-forum-four-stages"
    ],
    "sources": [
     {
@@ -1324,7 +1325,8 @@
    ],
    "related": [
     "2026-10-21-fin-ecb-cipollone-pontes-appia",
-    "2026-10-30-fin-ecb-digital-euro-network-providers"
+    "2026-10-30-fin-ecb-digital-euro-network-providers",
+    "2026-11-10-fin-ecb-cipollone-econ-digital-euro-deadline"
    ],
    "sources": [
     {
@@ -3992,7 +3994,8 @@
     "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline",
     "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody",
     "2026-11-03-fin-taiwan-fsc-stablecoin-issuance-draft",
-    "2026-11-04-fin-pwc-taiwan-vasp-subregs-commentary"
+    "2026-11-04-fin-pwc-taiwan-vasp-subregs-commentary",
+    "2026-11-11-fin-taiwan-fsc-vasp-forum-four-stages"
    ],
    "sources": [
     {
@@ -5472,7 +5475,8 @@
     "2026-11-04-fin-ninth-circuit-denies-kalshi-rehearing",
     "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction",
     "2026-11-06-fin-blue-lake-rancheria-kalshi-injunction",
-    "2026-11-10-fin-missouri-prediction-market-suits-escalate"
+    "2026-11-10-fin-missouri-prediction-market-suits-escalate",
+    "2026-11-11-fin-cftc-warns-kalshi-possible-charges"
    ],
    "sources": [
     {
@@ -7015,6 +7019,252 @@
     }
    ],
    "addedAt": "2026-11-11T07:41:41+08:00"
+  },
+  {
+   "id": "2026-11-11-fin-fsb-turkiye-crypto-peer-review",
+   "court": "FSB",
+   "kind": "國際標準",
+   "caseId": "",
+   "jurisdiction": "土耳其",
+   "outlet": "金融穩定委員會（FSB）",
+   "outletCode": "FSB",
+   "date": "2026-11-11",
+   "eventDate": "2026-11-11",
+   "importance": 2,
+   "author": "",
+   "title": "金融穩定委員會公布土耳其同儕檢視報告，建議建立穩定幣專屬規範並強化加密資產監理",
+   "shortTitle": "FSB 檢視土耳其加密監理、促訂穩定幣規範",
+   "point": "肯定已有實質進展，提五項建議，首要建立金融穩定監測框架與穩定幣專制",
+   "titleOriginal": "Peer Review of Türkiye (FSB recommends Türkiye further strengthens its regulatory framework for crypto-assets and stablecoins)",
+   "caseRef": "",
+   "tldr": "國際金融穩定委員會（FSB）檢查土耳其對加密資產的管理，認為土耳其已把大部分加密市場納管，也禁止用加密資產在國內付款，但還沒有針對穩定幣的專門規範，建議盡快補上，並加強監測、監理與跨國合作。",
+   "memo": "金融穩定委員會（FSB）於 2026 年 11 月 11 日公布土耳其同儕檢視報告，評估其落實 FSB 2023 年加密資產活動全球監理框架之情形。報告肯定土耳其已將大部分加密資產市場納入監理範圍，建立加密資產服務提供者登記及許可制度、保管資產分離及禁止以加密資產為國內支付等結構性防護，並建置集中式監測資料平台；惟仍建議土耳其建立金融穩定監測框架、訂定穩定幣專屬監理制度、強化監理與執法、促進跨境合作及資訊分享，並進一步與 FSB 全球框架接軌。",
+   "context": "FSB 於 2023 年 7 月發布加密資產活動全球監理框架，包括加密資產活動高階建議及全球穩定幣安排建議；2025 年 10 月主題式同儕檢視指出各法域落實存在重大落差與不一致。\n國別同儕檢視為 FSB 定期計畫，本次以土耳其加密資產與穩定幣監理為主題。依報導，土耳其資本市場委員會（CMB）於 2025 年 3 月訂定加密資產交易平台與保管機構之許可及營運要求。",
+   "facts": [
+    "FSB 於 2026 年 11 月 11 日公布土耳其同儕檢視報告。",
+    "報告指出，2025 年主題檢視時土耳其已完成加密資產監理框架，但尚無穩定幣框架。",
+    "依 Cointelegraph 報導，CMB 於 2025 年 3 月訂定加密資產交易平台及保管機構許可與營運要求，包括最低資本門檻。",
+    "依路透社系統轉載報導，土耳其加密市場以散戶為主，去年交易量近 2,000 億美元，民眾使用加密資產及穩定幣以因應里拉貶值與高通膨。"
+   ],
+   "issues": [
+    "以散戶及美元穩定幣為主之新興市場，如何監測並管理穩定幣對金融穩定與貨幣替代之影響？",
+    "禁止國內加密支付等結構性限制是否足以阻隔風險傳遞至銀行與支付體系？"
+   ],
+   "holding": "・整體評價：土耳其已有實質進展，大部分加密市場已納入監理，惟仍需進一步與 FSB 全球框架接軌。\n・已有措施：CASP 登記與許可要求；保管資產嚴格分離；禁止以加密資產為國內支付；建置集中式加密活動監測資料平台。\n・建議一：落實金融穩定監測框架。\n・建議二：建立穩定幣專屬監理制度。\n・建議三：強化監理及執法。\n・建議四：促進有效之跨境合作及資訊分享。\n・建議五：提升與 FSB 加密資產全球監理框架之一致性。",
+   "significance": "本報告延續 FSB 2025 年主題檢視對各國落實落差的關注，並將穩定幣專屬規範列為主要缺口，反映 FSB 對新興市場美元穩定幣使用擴大之關切。後續可觀察土耳其是否提出穩定幣立法，以及 FSB 是否對其他法域進行類似國別檢視。",
+   "editorNote": "本網頁助理 註：本網頁助理未能開啟 FSB 新聞稿及報告全文，內容係依 Bytes Europe 轉載之 FSB 新聞稿、Cointelegraph 及 SRN News（路透社）報導整理；新聞稿網址取自 Cointelegraph 報導連結。",
+   "tags": [
+    "加密資產",
+    "穩定幣",
+    "同儕檢視",
+    "FSB",
+    "土耳其",
+    "國際"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "FSB 新聞稿",
+     "url": "https://www.fsb.org/2026/11/fsb-recommends-turkiye-further-strengthens-its-regulatory-framework-for-crypto-assets-and-stablecoins/",
+     "official": true
+    },
+    {
+     "label": "FSB 土耳其同儕檢視報告全文（PDF）",
+     "url": "https://www.fsb.org/uploads/Peer-Review-of-Turkiye.pdf",
+     "official": true
+    },
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation",
+     "official": false
+    },
+    {
+     "label": "SRN News（路透社）報導",
+     "url": "https://srnnews.com/global-watchdog-urges-turkey-to-strengthen-crypto-rules/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T23:36:45+08:00"
+  },
+  {
+   "id": "2026-11-11-fin-cftc-warns-kalshi-possible-charges",
+   "court": "CFTC",
+   "kind": "執法案件",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "Blockhead",
+   "outletCode": "BH",
+   "date": "2026-11-11",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "依 Politico 報導，CFTC 警告 Kalshi 可能因新契約申報方式遭提出指控",
+   "shortTitle": "依報導 CFTC 警告 Kalshi 恐遭指控",
+   "point": "涉數十檔新契約自我認證申報是否適當，Kalshi 稱屬程序疏失、尚未起訴",
+   "titleOriginal": "CFTC Warns Kalshi of Imminent Charges Over How It Filed Dozens of New Contracts",
+   "caseRef": "",
+   "tldr": "媒體報導美國商品期貨交易委員會（CFTC）私下通知預測市場業者 Kalshi，可能很快對它提出指控，原因是 Kalshi 推出新契約時向 CFTC 申報的方式可能不合規定。Kalshi 表示只是少數契約的程序疏失，目前尚未被起訴。",
+   "memo": "依 Politico 2026 年 11 月 10 日及路透社報導（Blockhead 2026 年 11 月 11 日整理），美國商品期貨交易委員會（CFTC）已私下通知預測市場業者 Kalshi 可能即將對其提出指控，調查重點為 Kalshi 就數十項新事件契約之自我認證申報是否適當通知主管機關。CFTC 市場監督部門曾於 2026 年 7 月 24 日提醒交易所不得以單一概括認證涵蓋多數契約。Kalshi 發言人表示係少數契約申報之程序疏失，其中多數未曾上市，並已著手更正；截至報導時尚未正式起訴，CFTC 未公開評論。",
+   "context": "指定契約市場（DCM）上市新契約多採自我認證程序，即向 CFTC 提出符合規定之認證後即可上市，無須事前核准。CFTC 市場監督部門 2026 年 7 月 24 日發布提醒，反對以單一概括認證涵蓋大量契約；依報導，CFTC 6 月另有提案擬增設 90 日審查期。\nCFTC 近期在預測市場議題上一方面對州政府主張聯邦專屬管轄（含 11 月 5 日要求停止依州封鎖），另一方面加強對業者申報與合規之監督；依報導，CFTC 亦在調查 Polymarket 是否違反 2022 年和解。",
+   "facts": [
+    "Politico 於 2026 年 11 月 10 日報導 CFTC 已警告 Kalshi 可能即將遭指控，路透社亦報導 CFTC 私下通知。",
+    "依報導，調查涉及數十項新產品之通知程序；Kalshi 稱僅涉「少數」契約，其中多數未曾上市。",
+    "報導指出尚未正式起訴，Kalshi 契約仍持續交易；報導未指明具體法條或可能罰則。"
+   ],
+   "issues": [
+    "自我認證程序下，以單一或範本式認證涵蓋大量事件契約是否符合申報義務？",
+    "CFTC 在與州政府爭執管轄權之同時，如何對預測市場業者行使執法權？"
+   ],
+   "holding": "・報導內容：CFTC 已私下通知 Kalshi 可能即將提出指控，焦點為新契約上市前之通知是否適當。\n・背景規範：CFTC 7 月 24 日提醒不得以單一概括認證涵蓋多數契約。\n・業者回應：Kalshi 稱屬程序疏失，涉少數契約且多未上市，已在改正。\n・現況：尚未起訴，具體指控內容與罰則未明。",
+   "significance": "若 CFTC 正式提出指控，將是 CFTC 首度就自我認證申報方式對主要預測市場業者執法，可能影響業者大量推出運動與事件契約之做法，並與 CFTC 擬議之 90 日審查期規則相互連動。後續應注意 CFTC 是否發布執法新聞稿或和解命令。",
+   "editorNote": "本則依媒體報導，CFTC 未公開證實，相關內容尚非正式執法決定。本網頁助理 註：本網頁助理未能取得 Politico 及路透社原文，內容係依 Blockhead 與 Startup Fortune 報導整理。",
+   "tags": [
+    "預測市場",
+    "事件契約",
+    "自我認證",
+    "執法",
+    "CFTC",
+    "Kalshi",
+    "美國"
+   ],
+   "related": [
+    "2026-11-05-fin-cftc-impartial-access-geofencing"
+   ],
+   "sources": [
+    {
+     "label": "Blockhead 報導",
+     "url": "https://www.blockhead.co/2026/11/11/cftc-warns-kalshi-of-imminent-charges-over-how-it-filed-dozens-of-new-contracts/",
+     "official": false
+    },
+    {
+     "label": "Startup Fortune 報導",
+     "url": "https://startupfortune.com/cftc-warns-kalshi-it-may-face-charges-over-how-it-filed-new-contracts/",
+     "official": false
+    },
+    {
+     "label": "Startup Fortune 7 月 24 日 CFTC 提醒報導",
+     "url": "https://startupfortune.com/the-cftc-just-told-prediction-markets-that-self-certification-is-not-a-free-pass/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T23:36:45+08:00"
+  },
+  {
+   "id": "2026-11-10-fin-ecb-cipollone-econ-digital-euro-deadline",
+   "court": "ECB",
+   "kind": "政策動態",
+   "caseId": "eurosystem-digital-euro-tokenisation",
+   "jurisdiction": "歐盟",
+   "outlet": "crypto.news",
+   "outletCode": "CN",
+   "date": "2026-11-11",
+   "eventDate": "2026-11-10",
+   "importance": 1,
+   "author": "",
+   "title": "歐洲央行執行委員 Cipollone 向歐洲議會經濟暨貨幣事務委員會表示，數位歐元立法應於年底前完成，延宕恐使 2029 年發行目標延後",
+   "shortTitle": "歐洲央行籲年底前完成數位歐元立法",
+   "point": "Cipollone 11 月 10 日赴 ECON 警告延宕恐使 2029 年首發延後",
+   "titleOriginal": "ECB warns digital euro may not launch in 2029 as EU talks continue",
+   "caseRef": "",
+   "tldr": "歐洲央行負責數位歐元的執行委員 Cipollone 到歐洲議會說明，希望歐盟今年底前談完數位歐元法案；如果拖延，原訂 2029 年第一次發行的時程可能跟著延後。",
+   "memo": "依 crypto.news 2026 年 11 月 11 日報導，歐洲央行執行委員 Piero Cipollone 於 2026 年 11 月 10 日向歐洲議會經濟暨貨幣事務委員會（ECON）表示，包含數位歐元之單一貨幣立法套案應於 2026 年底前完成協商，延宕將可能推遲數位歐元之推出；歐洲央行以立法於 2026 年通過為前提，規劃 2029 年首次發行，並於 2027 年下半年展開為期 12 個月之試點。歐洲央行須待法律授權後始得發行數位歐元，三方協商於 11 月 5 日舉行但尚無最終協議。",
+   "context": "單一貨幣套案包含數位歐元規則及歐元紙鈔與硬幣法償地位規則。歐盟理事會於 2025 年 12 月通過立場；依報導，歐洲議會 ECON 於 2026 年 6 月 23 日、全會於 7 月 9 日通過談判立場，其後進入三方協商。\nCipollone 曾於 10 月 6 日表示若年底完成立法，最快 2029 年首發；歐洲央行 10 月 30 日已選定數位歐元網路服務供應商。",
+   "facts": [
+    "Cipollone 於 2026 年 11 月 10 日向歐洲議會 ECON 發表聲明。",
+    "依報導，三方協商於 11 月 5 日舉行，尚未宣布最終協議。",
+    "依報導，歐洲議會立場包括隱私保障、個人持有上限、商家受理義務及基本服務免費等內容。",
+    "依 Bloomingbit 報導，試點自 2027 年下半年起為期 12 個月。"
+   ],
+   "issues": [
+    "數位歐元立法時程延宕對 2029 年發行目標及歐洲支付自主之影響？",
+    "三方協商就持有上限、隱私與費用限制等爭點能否於年底前達成共識？"
+   ],
+   "holding": "・立法時程：呼籲單一貨幣套案於 2026 年底前完成協商。\n・發行目標：以 2026 年完成立法為前提，2029 年首次發行。\n・試點：2027 年下半年起為期 12 個月。\n・延宕風險：可能推遲發行，並加深歐洲對外國支付業者之依賴。",
+   "significance": "三方協商能否於年底前達成政治協議，是數位歐元 2029 年時程的關鍵。後續應注意 12 月三方協商結果及歐洲央行準備階段決策。",
+   "editorNote": "本網頁助理 註：本網頁助理未能取得歐洲央行或歐洲議會發布之聲明原文，內容依 crypto.news 及 Bloomingbit 報導整理；eventDate 依報導所稱之聽證日期。",
+   "tags": [
+    "數位歐元",
+    "CBDC",
+    "單一貨幣套案",
+    "歐洲央行",
+    "歐洲議會",
+    "歐盟"
+   ],
+   "related": [
+    "2026-10-06-fin-ecb-cipollone-digital-euro-2029"
+   ],
+   "sources": [
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/ecb-digital-euro-launch-delay-beyond-2029/",
+     "official": false
+    },
+    {
+     "label": "Bloomingbit 報導",
+     "url": "https://en.bloomingbit.io/feed/news/124187",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T23:36:45+08:00"
+  },
+  {
+   "id": "2026-11-11-fin-taiwan-fsc-vasp-forum-four-stages",
+   "court": "TW",
+   "kind": "政策動態",
+   "caseId": "taiwan-vasp-act",
+   "jurisdiction": "台灣",
+   "outlet": "工商時報",
+   "outletCode": "CTEE",
+   "date": "2026-11-11",
+   "eventDate": "2026-11-11",
+   "importance": 1,
+   "author": "",
+   "title": "金管會證期局於台灣週虛擬資產論壇表示，虛擬資產專法與子法預計明年第一季施行，監理進入第四階段全面管理",
+   "shortTitle": "金管會：虛擬資產監理明年進入第四階段",
+   "point": "專法與子法預計明年首季施行，納入借貸業務並可以行政命令開放新業務",
+   "titleOriginal": "虛擬資產專法明年首季上路！金管會揭兩大亮點",
+   "caseRef": "",
+   "tldr": "金管會官員在論壇上說，《虛擬資產服務法》和子法預計明年第一季上路，台灣對虛擬資產業者的管理將從洗錢防制登記進入全面監理；新法也把借貸業務納管，未來有新業務可以用行政命令開放，不必每次修法。",
+   "memo": "依工商時報及經濟日報 2026 年 11 月 11 日報導，金融監督管理委員會證券期貨局副局長黃厚銘於同日 2026 台灣週「虛擬資產論壇」表示，《虛擬資產服務法》及已預告之九項子法預計於 2027 年第一季施行，監理將由洗錢防制聲明、產業自律及洗錢防制登記制，進入專法全面管理之第四階段。專法規範虛擬資產服務業者及穩定幣相關業務，涵蓋財務、業務、人員、內部控制、內部稽核及資訊安全，並納入虛擬資產借貸業務；新型態業務得以行政命令開放，無須逐次修法。",
+   "context": "《虛擬資產服務法》2026 年 6 月 30 日三讀、7 月 22 日公布；金管會 11 月 3 日預告虛擬資產服務商子法及「穩定幣發行許可及管理辦法」草案。\n依報導，金管會所稱監理四階段為：業者簽署洗錢防制聲明並受檢查、成立公會訂定自律規範、修正《洗錢防制法》實施強制洗錢防制登記（未登記經營可處刑罰）、以專法全面管理。",
+   "facts": [
+    "黃厚銘於 2026 年 11 月 11 日虛擬資產論壇（2026 台灣週）致詞。",
+    "依報導，專法自 2024 年開始研擬，已預告九項子法，預計明年第一季與子法同步實施。",
+    "依經濟日報報導，未完成洗錢防制登記即經營業務者可處二年以下有期徒刑。",
+    "櫃買中心董事長簡立忠及 VASP 公會理事長鄭光泰亦於論壇致詞。"
+   ],
+   "issues": [
+    "以行政命令開放新型態虛擬資產業務之授權範圍與明確性？",
+    "既有登記業者如何於專法施行後銜接許可制？"
+   ],
+   "holding": "・施行時程：專法與子法預計 2027 年第一季施行。\n・監理對象：虛擬資產服務業者及穩定幣相關業務。\n・規範範圍：財務、業務、人員、內控、內稽及資安，並納入借貸業務。\n・創新空間：新型態業務得以行政命令開放，無須修法。\n・業者期待：重視內控、內稽、資安與風險管理，以客戶權益為核心。",
+   "significance": "金管會再度確認子法與母法明年第一季同步施行；子法預告期屆滿後之定稿內容（特別是保管、借貸與穩定幣規定）及施行日期公告，為下一步觀察重點。",
+   "editorNote": "",
+   "tags": [
+    "虛擬資產",
+    "穩定幣",
+    "虛擬資產服務法",
+    "洗錢防制",
+    "金管會",
+    "台灣"
+   ],
+   "related": [
+    "2026-11-03-fin-taiwan-fsc-vasp-draft-subregulations",
+    "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline"
+   ],
+   "sources": [
+    {
+     "label": "工商時報報導",
+     "url": "https://www.ctee.com.tw/news/20261111700934-430301",
+     "official": false
+    },
+    {
+     "label": "經濟日報報導（聯合新聞網）",
+     "url": "https://udn.com/news/story/7239/9871143",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-11T23:36:45+08:00"
   }
  ],
  "agenda": [
@@ -7063,9 +7313,9 @@
    "date": "2026-11-11",
    "court": "FSB",
    "title": "FSB 公布土耳其加密資產建議落實同儕檢視報告",
-   "note": "依 FSB 10 月通訊預告，包括穩定幣；日期可能調整。",
-   "url": "https://mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-october-2026-20261028",
-   "relatedId": "",
+   "note": "已於 11 月 11 日公布。",
+   "url": "https://www.fsb.org/uploads/Peer-Review-of-Turkiye.pdf",
+   "relatedId": "2026-11-11-fin-fsb-turkiye-crypto-peer-review",
    "caseId": ""
   },
   {
@@ -7455,7 +7705,7 @@
    "nameOriginal": "Digital euro; Pontes and Appia",
    "caseRef": "",
    "summary": "歐元體系推動數位歐元立法與試點，並以 Pontes、Appia 建構代幣化交易的央行貨幣結算基礎設施。",
-   "status": "數位歐元立法三方協商中；歐洲央行 10 月 30 日選定兩組網路服務供應商，試點營運預計 2027 年下半年展開；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成；歐洲央行、執委會與 ESMA 11 月 9 日徵求歐洲代幣化標準小組成員至 11 月 27 日。"
+   "status": "數位歐元立法三方協商中，Cipollone 11 月 10 日籲年底前完成，否則 2029 年首發恐延後；歐洲央行 10 月 30 日選定兩組網路服務供應商，試點預計 2027 年下半年展開；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成；代幣化標準小組提名至 11 月 27 日。"
   },
   {
    "id": "uk-cryptoasset-regime",
@@ -7488,7 +7738,7 @@
    "nameOriginal": "Taiwan Virtual Asset Service Act and subsidiary regulations",
    "caseRef": "",
    "summary": "《虛擬資產服務法》2026 年 6 月 30 日三讀、7 月 22 日公布，金管會研訂九項子法，包括穩定幣發行許可與管理。",
-   "status": "金管會 11 月 3 日預告虛擬資產服務商子法及「穩定幣發行許可及管理辦法」草案（穩定幣草案預告 40 日），子法預計與母法於 2027 年第一季施行，既有業者有 12 個月申請期（依媒體報導）。"
+   "status": "金管會 11 月 3 日預告虛擬資產服務商子法及「穩定幣發行許可及管理辦法」草案，11 月 11 日重申子法與母法預計於 2027 年第一季施行，既有業者有 12 個月申請期（依媒體報導）。"
   },
   {
    "id": "au-digital-assets-framework",
