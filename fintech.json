@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-12T23:31:09+08:00",
-  "lastRunLocal": "2026-11-12 23:31",
+  "lastRun": "2026-11-13T07:30:38+08:00",
+  "lastRunLocal": "2026-11-13 07:30",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：美國 1（政策動態 1）、亞太與其他 1（草案諮詢 1）"
+  "lastRunNote": "新增 3 則：美國 2（司法案件 1、監理指引 1）、亞太與其他 1（監理指引 1）"
  },
  "items": [
   {
@@ -6599,7 +6599,9 @@
     "金融委員會",
     "南韓"
    ],
-   "related": [],
+   "related": [
+    "2026-11-12-fin-korea-fsc-hack-withdrawal-freeze-no-action"
+   ],
    "sources": [
     {
      "label": "Bloomingbit 報導",
@@ -6737,7 +6739,8 @@
    "related": [
     "2026-10-29-fin-kalshi-sues-missouri",
     "2026-11-05-fin-cftc-impartial-access-geofencing",
-    "2026-11-11-fin-sdny-denies-novig-injunction-ny"
+    "2026-11-11-fin-sdny-denies-novig-injunction-ny",
+    "2026-11-12-fin-louisiana-ag-sues-prediction-markets"
    ],
    "sources": [
     {
@@ -7380,7 +7383,8 @@
     "美國"
    ],
    "related": [
-    "2026-11-10-fin-missouri-prediction-market-suits-escalate"
+    "2026-11-10-fin-missouri-prediction-market-suits-escalate",
+    "2026-11-12-fin-louisiana-ag-sues-prediction-markets"
    ],
    "sources": [
     {
@@ -7591,6 +7595,211 @@
     }
    ],
    "addedAt": "2026-11-12T23:31:09+08:00"
+  },
+  {
+   "id": "2026-11-12-fin-louisiana-ag-sues-prediction-markets",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國路易斯安那州",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-12",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "路易斯安那州檢察總長起訴 Kalshi、Polymarket、Robinhood 等十家預測市場業者，聲請暫時限制令與禁制令",
+   "shortTitle": "路易斯安那州起訴十家預測市場業者",
+   "point": "指運動等事件合約屬非法賭博，聲請立即限制令；Kalshi 同日於聯邦法院聲請 TRO",
+   "titleOriginal": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+   "caseRef": "",
+   "tldr": "路易斯安那州檢察總長控告 Kalshi、Polymarket、Robinhood、Coinbase 等十家提供事件合約的平台，說它們其實是在州內經營沒有執照的線上賭博，請法院馬上下令停止。Kalshi 則主張它受聯邦 CFTC 監理，州法管不到，並在聯邦法院請求禁止州政府執法。",
+   "memo": "依 The Block 及 Sports Betting Dime 2026 年 11 月 12 日報導，美國路易斯安那州檢察總長 Liz Murrill 於同日宣布對 Kalshi、Robinhood、Polymarket、ForecastEx、Crypto.com、Coinbase、Novig、Underdog、Gemini 及 ProphetX 等預測市場業者提起州法院訴訟，主張其提供之運動、獎項及選舉事件合約構成未經許可之賭博而違反州賭博法，請求暫時限制令、初步禁制令及民事罰款。Kalshi 前已於 2026 年 10 月向路易斯安那西區聯邦地方法院起訴州官員，主張《商品交易法》賦予 CFTC 專屬管轄，並於 11 月 12 日聲請暫時限制令及初步禁制令。",
+   "context": "預測市場業者在 CFTC 指定契約市場掛牌運動等事件合約，多州認其屬賭博；依 The Block 報導，路易斯安那州為第 11 個對預測市場業者提告的州，先前有阿肯色、猶他、康乃狄克等州。\n依 FinanceFeeds 報導，路易斯安那州博弈管制委員會於 2025 年 12 月已警告持照運動博彩業者，協助提供運動事件合約可能違反州法並影響其執照適格性。\n依報導，Kalshi 於 2026 年 10 月 23 日先行在路易斯安那西區聯邦地院起訴州檢察總長及州長等官員，請求禁止執行州賭博法。CFTC 另已對多州提告主張專屬管轄，並於 11 月 5 日要求指定契約市場停止依州別封鎖。",
+   "facts": [
+    "依 The Block 報導，被告為 Kalshi、Robinhood、Polymarket、ForecastEx、Crypto.com、Coinbase、Novig、Underdog、Gemini 及 ProphetX 共十家。",
+    "Murrill 於社群平台 X 宣布起訴，表示將請求立即限制令及禁制令。",
+    "依 Sports Betting Dime 報導，訴訟係於 Tangipahoa 郡第 21 司法區州法院提起，並請求民事罰款。",
+    "依 KALB 報導，州政府主張相關平台就運動、獎項與選舉提供事件合約，屬「非法線上賭博」。",
+    "Robinhood 回應稱其事件合約受 CFTC 聯邦監理。",
+    "依 Sports Betting Dime 報導，Kalshi 於 11 月 12 日在其聯邦訴訟中聲請暫時限制令及初步禁制令。"
+   ],
+   "issues": [
+    "於 CFTC 指定契約市場掛牌之運動、選舉事件合約，是否受州賭博法規範？",
+    "《商品交易法》是否排除州政府對指定契約市場業者之執法？",
+    "州法院執法訴訟與業者先行提起之聯邦訴訟如何協調，第五巡迴將採何立場？"
+   ],
+   "holding": "・原告：路易斯安那州（檢察總長 Liz Murrill）。\n・被告：十家預測市場及經紀平台業者。\n・主張：被告所提供之事件合約構成未經許可之賭博，違反州賭博法並規避州博弈稅與消費者保護。\n・請求：暫時限制令、初步禁制令、民事罰款及其他救濟。\n・業者立場：Robinhood 稱其合約受 CFTC 監理；Kalshi 主張 CFTC 專屬管轄，已在聯邦法院聲請禁止州政府執法。",
+   "significance": "本案為州政府一次對最多家預測市場業者提起之訴訟，涵蓋 Robinhood、Coinbase、Gemini 等經紀平台，且與 Kalshi 之聯邦訴訟並行，可能使第五巡迴成為新的爭議戰場。應留意州法院是否核發暫時限制令、路易斯安那西區聯邦地院就 Kalshi 聲請之裁定，以及 CFTC 是否介入。",
+   "editorNote": "本網頁助理 註：本則依 The Block、Sports Betting Dime、FinanceFeeds 及 KALB 報導撰寫；本網頁助理未能取得起訴狀或檢察總長新聞稿。各報導所列被告不一（KALB 僅列五家），受理法院僅見 Sports Betting Dime 載明，提告日期報導僅載明 11 月 12 日宣布，故未填事件日期。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先",
+    "運動博弈",
+    "Kalshi",
+    "Polymarket",
+    "Robinhood",
+    "路易斯安那州",
+    "美國"
+   ],
+   "related": [
+    "2026-11-11-fin-sdny-denies-novig-injunction-ny",
+    "2026-11-10-fin-missouri-prediction-market-suits-escalate"
+   ],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
+     "official": false
+    },
+    {
+     "label": "Sports Betting Dime 報導",
+     "url": "https://www.sportsbettingdime.com/news/industry/louisiana-attorney-general-files-sweeping-prediction-market-lawsuit/",
+     "official": false
+    },
+    {
+     "label": "FinanceFeeds 報導",
+     "url": "https://financefeeds.com/louisiana-sues-kalshi-robinhood-polymarket-and-seven-other-prediction-markets/",
+     "official": false
+    },
+    {
+     "label": "KALB 報導",
+     "url": "https://www.kalb.com/2026/11/12/louisiana-suing-kalshi-polymarket-other-online-prediction-markets/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T07:30:38+08:00"
+  },
+  {
+   "id": "2026-11-12-fin-nydfs-vc-advertising-guidance",
+   "court": "US",
+   "kind": "監理指引",
+   "caseId": "",
+   "jurisdiction": "美國紐約州",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-12",
+   "eventDate": "2026-11-12",
+   "importance": 1,
+   "author": "",
+   "title": "紐約州金融服務署發布虛擬通貨業者廣告與行銷指引，要求 2027 年 5 月 10 日前建立相關政策",
+   "shortTitle": "紐約 DFS 發布加密業者廣告指引",
+   "point": "須佐證廣告主張、揭露費用與付費代言，2027 年 5 月 10 日前完成",
+   "titleOriginal": "NYDFS sets fresh advertising standards for crypto firms",
+   "caseRef": "23 NYCRR § 200.18",
+   "tldr": "紐約州金融監理機關要求州內持照的加密業者，廣告不能誇大或誤導，例如不能只說「零手續費」卻隱瞞價差等其他成本，付錢請人代言也要說清楚；業者必須在 2027 年 5 月 10 日前建立廣告審查制度。",
+   "memo": "依 The Block、TokenPost 及 FinanceFeeds 2026 年 11 月 12 日報導，美國紐約州金融服務署（NYDFS）於同日發布虛擬通貨業者廣告及行銷指引，適用於其監理之虛擬通貨業者，係就 23 NYCRR § 200.18 禁止虛偽、誤導或欺罔表示之既有規定說明監理期待，包括廣告主張應有佐證、標明受監理實體、完整揭露交易成本、揭露付費代言、建立廣告製作審核程序與權責、對第三方推廣者進行審查、監控品牌遭冒用及每年檢討政策，業者應於 2027 年 5 月 10 日前完成，NYDFS 將於檢查時納入考量。",
+   "context": "紐約州虛擬通貨規則（23 NYCRR Part 200，俗稱 BitLicense）第 200.18 條自 2015 年起禁止持照業者於廣告中為虛偽、誤導或欺罔之表示或遺漏，並要求保存廣告資料至少七年。\nNYDFS 近年陸續就保管結構（2025 年 9 月更新）、上架虛擬通貨及區塊鏈分析等發布指引；英國等地監理機關亦加強加密資產金融推廣管制。",
+   "facts": [
+    "依報導，指引於 2026 年 11 月 12 日（週四）發布，由代理總監 Kaitlin Asrow 宣布。",
+    "適用對象為 NYDFS 監理之虛擬通貨業者，依 FinanceFeeds 報導包括 BitLicense 持照者及相關州特許機構。",
+    "業者應於 2027 年 5 月 10 日前落實相關措施。",
+    "依報導，不得宣稱「零手續費」卻遺漏價差或其他費用；付費代言應予揭露。",
+    "依 TokenPost 報導，指引未創設新禁止規定，而係說明遵循第 200.18 條之期待，NYDFS 將於檢查時審酌相關政策。"
+   ],
+   "issues": [
+    "既有反誤導廣告規定如何具體適用於加密業者之社群媒體、網紅及第三方推廣？",
+    "「零手續費」等成本表述之揭露程度如何認定？"
+   ],
+   "holding": "・內容正確：廣告主張應可佐證，不得誇大或誤導，並標明提供服務之受監理實體。\n・揭露：完整揭露交易成本（含價差等非明示費用），揭露代言人是否受有報酬。\n・治理：訂定廣告與行銷政策及程序，明確製作、審查、核准之權責，行銷、法務與法遵協同審查。\n・第三方：對參與行銷之第三方進行實地查核並監控品牌遭冒用。\n・檢討：每年檢討政策並保存可供檢查之紀錄。\n・期限：2027 年 5 月 10 日前完成。",
+   "significance": "紐約為美國加密業者重要的州監理地，本指引將使 BitLicense 業者之行銷合規成為檢查重點，與英國 FCA 金融推廣規則及 MiCA 行銷規定方向一致。應留意 NYDFS 指引全文公布後之具體範圍及 2027 年 5 月後之檢查與執法。",
+   "editorNote": "本網頁助理 註：NYDFS 業界函件頁面截至本網頁助理查閱時未列出本指引，內容依 The Block、TokenPost 及 FinanceFeeds 報導整理，各報導所列要求略有不同，已合併呈現；法源條號依 TokenPost 及 FinanceFeeds 報導。",
+   "tags": [
+    "加密資產",
+    "廣告行銷",
+    "消費者保護",
+    "BitLicense",
+    "NYDFS",
+    "紐約州",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014",
+     "official": false
+    },
+    {
+     "label": "TokenPost 報導",
+     "url": "https://www.tokenpost.com/news/regulation/55821",
+     "official": false
+    },
+    {
+     "label": "FinanceFeeds 報導",
+     "url": "https://financefeeds.com/new-york-regulator-issues-new-crypto-advertising-rules-with-may-2027-deadline/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T07:30:38+08:00"
+  },
+  {
+   "id": "2026-11-12-fin-korea-fsc-hack-withdrawal-freeze-no-action",
+   "court": "KR",
+   "kind": "監理指引",
+   "caseId": "binance-2026-hack-response",
+   "jurisdiction": "南韓",
+   "outlet": "Bloomingbit",
+   "outletCode": "BB",
+   "date": "2026-11-12",
+   "eventDate": "2026-11-12",
+   "importance": 2,
+   "author": "",
+   "title": "南韓金融委員會將發無異議函，允許虛擬資產業者於疑似遭駭時立即暫停出入金，並發布緊急資安指引",
+   "shortTitle": "南韓允交易所疑遭駭即暫停出入金",
+   "point": "金融委員會將發無異議函，並要求 24 小時監控、提高冷錢包比率與準備金",
+   "titleOriginal": "South Korea to Let Crypto Exchanges Halt Deposits, Withdrawals on Suspected Hacks",
+   "caseRef": "",
+   "tldr": "南韓法律原本只允許交易所在確定被駭後才能限制用戶出入金。金融委員會宣布會發出「不處分函」，讓交易所只要懷疑被駭就能先凍結出入金，以減少損失；同時要求交易所 24 小時監控、把更多資產放在離線冷錢包，並增加保險和準備金。",
+   "memo": "依 Bloomingbit 及 Unchained 2026 年 11 月 12 日報導，南韓金融委員會於同日由副委員長Shin Jin-chang主持虛擬資產業資安會議，宣布將發布無異議函，允許虛擬資產服務業者於疑似發生駭客入侵或資安事故時立即暫停出入金，不因《虛擬資產使用者保護法》禁止無正當理由阻斷出入金之規定而受處分；並發布於《數位資產基本法》制定前適用之緊急資安指引，要求全天候監控及應變、無法全天候監控者限縮並預告出入金時段、盡量提高冷錢包保管比率、擴大保險及準備金，並推動業者加入金融安全院。無異議函發布日期及要件尚未公布。",
+   "context": "南韓《虛擬資產使用者保護法》禁止虛擬資產業者無正當理由阻斷使用者出入金，正當理由由總統令定之；依報導，實務上僅於確認遭駭後方得限制，業者對疑似遭駭或他交易所遭駭時得否先行凍結存有疑慮，並請求以有權解釋或無異議函釐清。\n幣安於 2026 年 10 月底遭竊約 63 億美元後，金融委員會已於 11 月 2 日召開緊急檢查會議，要求業者提高冷錢包比率並增提準備金。南韓現行規定要求以冷錢包保管至少 80% 之使用者虛擬資產。",
+   "facts": [
+    "會議於 2026 年 11 月 12 日舉行，由金融委員會副委員長Shin Jin-chang主持。",
+    "金融委員會以幣安駭案說明迅速阻斷可降低使用者損害。",
+    "依 Unchained 報導，金融委員會稱業界整體冷錢包保管比率已達 95% 以上，熱錢包應僅保留交易所需最低數量。",
+    "緊急指引要求全天候監控事故；無法全天候監控者，應將出入金限於系統正常運作時段並事先公告。",
+    "依報導，28 家虛擬資產業者中僅 5 家（均為韓元市場交易所）加入金融安全院，金融委員會將推動其餘業者加入並提供弱點評估等支援。",
+    "依 Unchained 報導，GOPAX 於 11 月 6 日因收到自稱已入侵之電子郵件而暫停交易及加密資產入金。",
+    "依報導，規劃中之《數位資產基本法》將要求業者比照金融業之安全標準並負損害賠償責任。"
+   ],
+   "issues": [
+    "「疑似遭駭」之認定標準為何，如何避免業者濫用凍結權限損及使用者？",
+    "以無異議函調整法律所定出入金阻斷要件之範圍與法律效力。"
+   ],
+   "holding": "・無異議函：業者於疑似遭駭或資安事故時立即暫停出入金，金融委員會將不予處分（尚待正式發布）。\n・緊急資安指引：全天候監控與應變並常駐人員；無法全天候監控者限縮並預告出入金時段。\n・資產保管：盡量提高冷錢包比率，熱錢包僅留最低必要量。\n・損害填補：擴大保險承保額度及準備金。\n・資安合作：推動未加入金融安全院之 23 家業者加入。",
+   "significance": "本措施為幣安駭案後亞洲監理機關調整交易所緊急應變法制之具體行動，以監理寬容方式先行處理法律要件不明之問題，並預示《數位資產基本法》之資安與賠償責任。應留意無異議函正式內容與要件，以及《數位資產基本法》草案公布。",
+   "editorNote": "本網頁助理 註：本則依 Bloomingbit 及 Unchained 報導撰寫，背景依聯合通訊社 11 月 2 日報導（Supple 轉載）；本網頁助理未能開啟金融委員會韓文新聞稿。",
+   "tags": [
+    "加密資產",
+    "資安",
+    "交易所",
+    "虛擬資產使用者保護法",
+    "數位資產基本法",
+    "金融委員會",
+    "南韓"
+   ],
+   "related": [
+    "2026-11-08-fin-korea-daba-draft-bank-led-stablecoin"
+   ],
+   "sources": [
+    {
+     "label": "Bloomingbit 報導",
+     "url": "https://en.bloomingbit.io/feed/news/124272",
+     "official": false
+    },
+    {
+     "label": "Unchained 報導",
+     "url": "https://unchainedcrypto.com/south-korean-regulator-will-shield-exchanges-that-freeze-funds-at-the-first-sign-of-a-hack/",
+     "official": false
+    },
+    {
+     "label": "聯合通訊社 11 月 2 日報導（轉載）",
+     "url": "https://supple.kr/news/cmvz3l4gahxjnclgj3q3abwia",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T07:30:38+08:00"
   }
  ],
  "agenda": [
@@ -7993,6 +8202,16 @@
    "url": "https://www.sec.or.th/TH/Pages/PB_Detail.aspx?SECID=1245",
    "relatedId": "2026-11-12-fin-thai-sec-stablecoin-transaction-draft",
    "caseId": ""
+  },
+  {
+   "id": "2027-05-10-us-nydfs-advertising-policies",
+   "date": "2027-05-10",
+   "court": "US",
+   "title": "紐約州金融服務署：虛擬通貨業者完成廣告與行銷政策之期限",
+   "note": "依媒體報導之期限；指引全文尚未於 NYDFS 網站查得",
+   "url": "",
+   "relatedId": "2026-11-12-fin-nydfs-vc-advertising-guidance",
+   "caseId": ""
   }
  ],
  "cases": [
@@ -8137,7 +8356,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "紐約南區聯邦地院 11 月 10 日駁回 Novig 初步禁制令、認運動合約非交換，Novig 已上訴第二巡迴；密蘇里州訴訟擴大至六家業者，州政府對 Novig 提出反訴；CFTC 11 月 5 日要求指定契約市場 30 日內停止依州別封鎖；加州北區聯邦地院禁止 Kalshi 於兩部落土地提供運動合約；阿肯色州起訴 Kalshi；第九巡迴駁回 Kalshi 內華達州案重審聲請；伊利諾州案已上訴第七巡迴。"
+   "status": "路易斯安那州 11 月 12 日起訴 Kalshi、Polymarket、Robinhood 等十家業者並聲請限制令，Kalshi 同日於聯邦法院聲請 TRO；紐約南區聯邦地院 11 月 10 日駁回 Novig 初步禁制令，Novig 已上訴第二巡迴；密蘇里州訴訟擴大至六家業者；CFTC 11 月 5 日要求指定契約市場 30 日內停止依州別封鎖；加州北區聯邦地院禁止 Kalshi 於兩部落土地提供運動合約；阿肯色州起訴 Kalshi；伊利諾州案已上訴第七巡迴。"
   },
   {
    "id": "kr-tokenised-securities",
@@ -8170,7 +8389,7 @@
    "nameOriginal": "Binance October 2026 hack – regulatory and enforcement response",
    "caseRef": "",
    "summary": "幣安於 2026 年 10 月 29 日前後遭竊約 63 億美元虛擬資產，引發各國執法機關追查洗錢及監理機關對境外交易所、保管與穩定幣凍結機制之檢討。",
-   "status": "FBI 10 月 31 日認定北韓 TraderTraitor 為主謀並公布 628 個地址、呼籲業者封鎖；依路透社報導聯準會與 OCC 自 11 月 2 日起向銀行查詢相關風險；尚未見 OFAC 制裁指定。"
+   "status": "FBI 10 月 31 日認定北韓 TraderTraitor 為主謀並公布 628 個地址；依路透社報導聯準會與 OCC 自 11 月 2 日起向銀行查詢相關風險；南韓金融委員會 11 月 12 日宣布將以無異議函允許業者疑似遭駭即暫停出入金；尚未見 OFAC 制裁指定。"
   },
   {
    "id": "us-perpetual-futures-jurisdiction",
