@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-12T23:17:48+08:00",
-  "lastRunLocal": "2026-11-12 23:17",
+  "lastRun": "2026-11-13T07:14:16+08:00",
+  "lastRunLocal": "2026-11-13 07:14",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "本次未發現新動態"
+  "lastRunNote": "新增 1 則：伊朗 1（司法案件 1）"
  },
  "items": [
   {
@@ -1311,7 +1311,8 @@
    "related": [
     "2026-10-06-tnr-london-iran-international-trial",
     "2026-10-27-tnr-iran-intl-trial-prosecution-cross",
-    "2026-11-02-tnr-iran-intl-trial-prosecution-closing"
+    "2026-11-02-tnr-iran-intl-trial-prosecution-closing",
+    "2026-11-12-tnr-iran-intl-trial-verdict"
    ],
    "sources": [
     {
@@ -2446,7 +2447,8 @@
     "2026-10-08-tnr-reuters-iran-hunt-abroad",
     "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony",
     "2026-10-27-tnr-iran-intl-trial-prosecution-cross",
-    "2026-11-02-tnr-iran-intl-trial-prosecution-closing"
+    "2026-11-02-tnr-iran-intl-trial-prosecution-closing",
+    "2026-11-12-tnr-iran-intl-trial-verdict"
    ],
    "sources": [
     {
@@ -3271,7 +3273,8 @@
    "related": [
     "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony",
     "2026-10-06-tnr-london-iran-international-trial",
-    "2026-11-02-tnr-iran-intl-trial-prosecution-closing"
+    "2026-11-02-tnr-iran-intl-trial-prosecution-closing",
+    "2026-11-12-tnr-iran-intl-trial-verdict"
    ],
    "sources": [
     {
@@ -4344,7 +4347,8 @@
     "2026-10-27-tnr-iran-intl-trial-prosecution-cross",
     "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony",
     "2026-10-06-tnr-london-iran-international-trial",
-    "2026-11-06-tnr-aidinidis-iran-intl-not-guilty"
+    "2026-11-06-tnr-aidinidis-iran-intl-not-guilty",
+    "2026-11-12-tnr-iran-intl-trial-verdict"
    ],
    "sources": [
     {
@@ -4815,7 +4819,8 @@
     "記者"
    ],
    "related": [
-    "2026-11-02-tnr-iran-intl-trial-prosecution-closing"
+    "2026-11-02-tnr-iran-intl-trial-prosecution-closing",
+    "2026-11-12-tnr-iran-intl-trial-verdict"
    ],
    "sources": [
     {
@@ -5699,6 +5704,75 @@
     }
    ],
    "addedAt": "2026-11-12T07:22:03+08:00"
+  },
+  {
+   "id": "2026-11-12-tnr-iran-intl-trial-verdict",
+   "court": "IR",
+   "kind": "司法案件",
+   "caseId": "iran-intl-london-trial",
+   "jurisdiction": "英國",
+   "outlet": "路透社",
+   "outletCode": "Reuters",
+   "date": "2026-11-12",
+   "eventDate": "2026-11-12",
+   "importance": 3,
+   "author": "",
+   "title": "英國陪審團裁定兩名伊朗男子協助伊朗情報機關監視伊朗國際台記者罪成，主要被告另被認定為暴力攻擊進行偵察；第三名被告兩罪均獲判無罪",
+   "shortTitle": "伊朗監視記者案兩人罪成",
+   "point": "Sepahvand 兩罪成立、Javadi Manesh 一罪成立，Noori 無罪；12 月 17 日量刑",
+   "titleOriginal": "Two Iranians convicted in UK of spying on dissident journalists",
+   "caseRef": "",
+   "tldr": "倫敦審理的伊朗人監視伊朗國際台記者案，陪審團 11 月 12 日作出裁決：主要被告 Sepahvand 被認定協助伊朗情報機關，並為了讓記者遭受暴力而跟監偵察；Javadi Manesh 協助伊朗情報機關罪成立，但跟監偵察罪無罪；第三名被告 Noori 兩罪都無罪。報導稱這是英國 2023 年反國家威脅新法首次將伊朗籍人士定罪，伊朗駐英大使館否認涉入。",
+   "memo": "依路透社 2026 年 11 月 12 日報導及 Brit Brief 同日報導，英國伍利奇刑事法院陪審團經約 19 小時評議，於同日裁定伊朗籍被告 Mostafa Sepahvand 違反英國《2023 年國家安全法》之「從事可能協助外國情報機關之行為」罪及「意圖使他人對英國境內之人實施嚴重暴力而從事監視偵察」罪均成立；Farhad Javadi Manesh 前罪成立、後罪無罪；Shapoor Qalehali Khani Noori 兩罪均無罪。被害人包括伊朗國際台記者。量刑訂於同年 12 月 17 日於中央刑事法院進行。伊朗駐英大使館否認伊朗國家涉入。",
+   "context": "三名伊朗籍男子被控於 2024 年 8 月至 2025 年 3 月間，為伊朗情報機關蒐集伊朗國際台記者 Mojtaba Pourmohsen、Kambiz Hosseini 及英國律師 Jonathan Turner 的資訊，並前往相關地址拍攝，案件 2026 年 10 月初開審。審理中 Sepahvand 承認跟監並承認所求 15 萬英鎊報酬以傷害記者為條件，但主張因家人在伊朗受威脅而受脅迫；另兩人承認拍攝但否認知情（見本站相關前則）。\n英國《2023 年國家安全法》增訂協助外國情報機關等罪名，以因應外國國家威脅。依報導，本案為 2023 年底以來第四起涉及伊朗國際台的英國刑案，兩名羅馬尼亞男子已於 2026 年 7 月因 2024 年在記者住處外持刀刺傷記者案入獄。",
+   "facts": [
+    "陪審團於 2026 年 11 月 12 日（星期四）經約 19 小時 9 分鐘評議後作出裁決（依 Brit Brief 報導）。",
+    "Mostafa Sepahvand（41 歲）：「從事可能協助伊朗情報機關之行為」罪成立；2024 年 8 月至 2025 年 3 月間意圖使英國境內之人遭受暴力而監視偵察之罪亦成立。",
+    "Farhad Javadi Manesh（46 歲）：協助伊朗情報機關罪成立；監視偵察意圖使他人實施嚴重暴力罪無罪。",
+    "Shapoor Qalehali Khani Noori（57 歲）：兩罪均無罪。",
+    "依 Brit Brief 報導，Sepahvand 與 Javadi Manesh 定於 12 月 17 日在中央刑事法院（Old Bailey）量刑。",
+    "依路透社報導，Sepahvand 據稱獲許最多 15 萬英鎊報酬以實施暴力攻擊；其目標包括兩名伊朗國際台記者及「英國以色列律師協會」執行長。",
+    "Sepahvand 抗辯係受脅迫而為。",
+    "伊朗駐英大使館「斷然否認」伊朗國家涉入，稱以安全指控推動對伊朗之政治議程「不可接受」。"
+   ],
+   "issues": [
+    "《2023 年國家安全法》協助外國情報機關罪的主觀要件：被告須知悉或可合理預見其行為協助外國情報機關，陪審團對三名被告作出不同認定。",
+    "受脅迫抗辯（家屬在伊朗遭施壓）在國家安全犯罪中的適用界限。",
+    "外國政府透過金錢招募犯罪「代理人」執行跨國鎮壓時，追訴境外指揮者的可能性。"
+   ],
+   "holding": "・Sepahvand：協助外國情報機關罪、意圖使他人遭受暴力之監視偵察罪均成立。\n・Javadi Manesh：協助外國情報機關罪成立；監視偵察罪無罪。\n・Noori：兩罪均無罪。\n・皇家檢控署反恐部門首席檢察官 Frank Ferguson 稱本案是「有計畫地監視伊朗政權批評者」的行動，被告在攻擊發生前即遭阻止，並稱本案顯示伊朗情報機關願意利用代理人鎖定海外批評者。\n・反恐警察高層 Vicki Evans 稱 Sepahvand 受伊朗革命衛隊或伊朗情報「中間人」指揮，並預期國家威脅持續上升。\n・伊朗國際台母公司 Volant Media 稱裁決並未讓其記者更安全，因威脅仍在持續。",
+   "significance": "依報導，這是英國《2023 年國家安全法》首次將伊朗籍人士定罪，也是英國追訴伊朗針對流亡媒體之跨國鎮壓的重要判決。後續注意 12 月 17 日量刑結果、另一希臘籍被告 Aidinidis 案（2027 年 5 月開審），以及英國是否進一步對伊朗革命衛隊採取制裁或列管措施。",
+   "editorNote": "本網頁助理 註：本則依路透社稿（經 TimesLIVE 轉載）及 Brit Brief 報導；截至本次更新未找到皇家檢控署或反恐警察的新聞稿原文。量刑日期僅見於 Brit Brief，路透社稿只稱 Javadi Manesh 下月量刑。",
+   "tags": [
+    "跨國鎮壓",
+    "伊朗",
+    "英國",
+    "伊朗國際台",
+    "國家安全法",
+    "監視記者",
+    "革命衛隊",
+    "有罪判決"
+   ],
+   "related": [
+    "2026-11-02-tnr-iran-intl-trial-prosecution-closing",
+    "2026-10-27-tnr-iran-intl-trial-prosecution-cross",
+    "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony",
+    "2026-10-06-tnr-london-iran-international-trial",
+    "2026-11-06-tnr-aidinidis-iran-intl-not-guilty"
+   ],
+   "sources": [
+    {
+     "label": "路透社報導（TimesLIVE 轉載）",
+     "url": "https://www.timeslive.co.za/news/world/2026-11-12-two-iranians-convicted-in-uk-of-spying-on-dissident-journalists/",
+     "official": false
+    },
+    {
+     "label": "Brit Brief 報導",
+     "url": "https://britbrief.co.uk/crime/terrorism/iran-spy-pair-convictions-show-proxy-targeting-cps-says.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T07:14:16+08:00"
   }
  ],
  "agenda": [
@@ -5771,6 +5845,16 @@
    "url": "https://cbsnews.com/news/wanying-zhang-alleged-chinese-agent-pleads-not-guilty",
    "relatedId": "2026-10-23-tnr-wanying-zhang-not-guilty-plea",
    "caseId": "wanying-zhang-case"
+  },
+  {
+   "id": "2026-12-17-ir-iran-intl-trial-sentencing",
+   "date": "2026-12-17",
+   "court": "IR",
+   "title": "伊朗國際台記者遭監視案兩名定罪被告量刑（英國）",
+   "note": "倫敦中央刑事法院（Old Bailey）；日期依 Brit Brief 報導，可能變動",
+   "url": "",
+   "relatedId": "2026-11-12-tnr-iran-intl-trial-verdict",
+   "caseId": "iran-intl-london-trial"
   },
   {
    "id": "2027-01-25-cn-bai-zhaodong-extradition-hearing",
@@ -5848,7 +5932,7 @@
    "nameOriginal": "R v Sepahvand, Javadi Manesh and Noori (Woolwich Crown Court)",
    "caseRef": "",
    "summary": "三名伊朗男子被控依英國《國家安全法》協助伊朗情報機關，監視伊朗國際台記者與一名英國律師。",
-   "status": "審理中；11 月 2 日進入結辯，檢方主張三名被告跟監實質協助革命衛隊準備攻擊，三人均否認犯罪，待陪審團裁決。"
+   "status": "2026 年 11 月 12 日陪審團裁決：Sepahvand 兩罪成立、Javadi Manesh 協助外國情報機關罪成立，Noori 兩罪無罪；兩名定罪被告定於 12 月 17 日於中央刑事法院量刑。"
   },
   {
    "id": "pretoria-tibet-office-attacks",
