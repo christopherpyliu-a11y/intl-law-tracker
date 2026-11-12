@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-12T07:35:20+08:00",
-  "lastRunLocal": "2026-11-12 07:35",
+  "lastRun": "2026-11-12T23:31:09+08:00",
+  "lastRunLocal": "2026-11-12 23:31",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：美國 2（司法案件 2）、亞太與其他 1（草案諮詢 1）"
+  "lastRunNote": "新增 2 則：美國 1（政策動態 1）、亞太與其他 1（草案諮詢 1）"
  },
  "items": [
   {
@@ -1567,7 +1567,8 @@
     "2026-10-05-fin-cftc-anprm-ctx-cam",
     "2026-10-01-fin-sec-crypto-custody-proposal",
     "2026-10-23-fin-sec-fy2027-exam-priorities",
-    "2026-10-26-fin-okxice-issuer-objections"
+    "2026-10-26-fin-okxice-issuer-objections",
+    "2026-11-11-fin-okxice-tsv-launch-date"
    ],
    "sources": [
     {
@@ -2074,7 +2075,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-05-fin-wilmerhale-sec-innovation-exemption"
+    "2026-10-05-fin-wilmerhale-sec-innovation-exemption",
+    "2026-11-11-fin-okxice-tsv-launch-date"
    ],
    "sources": [
     {
@@ -3749,7 +3751,9 @@
     "泰國證券交易委員會",
     "泰國"
    ],
-   "related": [],
+   "related": [
+    "2026-11-12-fin-thai-sec-stablecoin-transaction-draft"
+   ],
    "sources": [
     {
      "label": "The Asian Banker 報導",
@@ -7457,6 +7461,136 @@
     }
    ],
    "addedAt": "2026-11-12T07:35:20+08:00"
+  },
+  {
+   "id": "2026-11-12-fin-thai-sec-stablecoin-transaction-draft",
+   "court": "OTHER",
+   "kind": "草案諮詢",
+   "caseId": "",
+   "jurisdiction": "泰國",
+   "outlet": "泰國證券交易委員會；InfoQuest",
+   "outletCode": "TH-SEC",
+   "date": "2026-11-12",
+   "eventDate": "2026-11-12",
+   "importance": 2,
+   "author": "",
+   "title": "泰國證交會就穩定幣交易監理公告草案徵詢意見：每日轉入、轉出各以 500 萬泰銖為上限並禁止第三人錢包轉帳",
+   "shortTitle": "泰國證交會徵詢穩定幣轉帳限額草案",
+   "point": "每人每日進出各 500 萬泰銖上限、禁第三人錢包，意見至 11 月 26 日",
+   "titleOriginal": "SEC seeks public comments on draft notifications on supervision of stablecoin transactions through digital asset business operators（ก.ล.ต. เปิดรับฟังความเห็นต่อร่างประกาศการกำกับดูแลการทำธุรกรรม stablecoin ผ่านผู้ประกอบธุรกิจสินทรัพย์ดิจิทัล）",
+   "caseRef": "SEC News No. 253/2026",
+   "tldr": "泰國證交會把 9 月提出的穩定幣管制原則寫成正式公告草案，再次公開徵詢意見。重點是：在泰國持牌業者存入或提出穩定幣，每人每天各最多 500 萬泰銖，而且只能轉進轉出自己名下、經驗證的錢包；目的是防止洗錢、詐騙與規避跨境匯款規定。",
+   "memo": "依 InfoQuest 及 ThaiPR.NET 2026 年 11 月 12 日報導，泰國證券交易委員會就「透過數位資產業者進行穩定幣交易之監理」公告草案徵詢公眾意見至 2026 年 11 月 26 日。草案規定穩定幣轉入、轉出之錢包或帳戶須經驗證屬客戶本人，禁止與第三人帳戶往來，並須遵循旅行規則及區塊鏈追蹤篩檢；客戶轉入及轉出每人每日於各業者分別以 500 萬泰銖為上限，惟兩家泰國業者客戶帳戶間轉帳且均適用旅行規則者不受限制；另要求交易所揭露造市者名單、禁止經紀商就穩定幣兌泰銖交易對使用流動性提供者，並規定場外交易最低金額 300 萬泰銖。",
+   "context": "泰國證交會理事會於 2026 年 9 月通過穩定幣交易監理原則，並於 9 月 11 日至 25 日徵詢意見，內容包括每日 500 萬泰銖轉帳上限、禁止第三人錢包轉帳及場外交易最低金額等。\n本次係將上述原則具體化為公告草案，再行徵詢意見。其背景為泰國央行與證交會關注穩定幣遭用於灰色經濟、洗錢及規避外匯與跨境匯款規範之情形。\n泰國證交會另於 10 月底就數位資產衍生性商品執照框架徵詢意見（截止 11 月 28 日）。",
+   "facts": [
+    "依 InfoQuest 及 ThaiPR.NET 2026 年 11 月 12 日報導，泰國證交會就穩定幣交易監理公告草案公開徵詢意見，截止日為 2026 年 11 月 26 日。",
+    "意見可經證交會網站公聽頁面、泰國中央法制系統（law.go.th）或電子郵件提出。",
+    "每日上限：客戶帳戶轉入及轉出穩定幣，每人每日於每一業者各以 500 萬泰銖為上限，且須與客戶收入來源及財務狀況相符；兩家泰國業者客戶帳戶間之轉帳不受上限限制，但雙方均須適用旅行規則。",
+    "豁免：業者自有帳戶；經泰國央行監理並經其個案核准使用穩定幣之業者；穩定幣兌泰銖交易對之造市者；經證交會核准之 ICO 相關認購、退款及收益分配。",
+    "依 Cointelegraph 報導，草案係於 9 月徵詢之後提出；報導換算 500 萬泰銖約合 14.8 萬美元。"
+   ],
+   "issues": [
+    "每日轉帳上限與禁止第三人錢包轉帳，是否會使交易轉向境外或未受監理之平台？",
+    "以泰國央行個案核准作為豁免要件，與證交會之監理分工如何運作？",
+    "造市者及流動性提供者之揭露與篩檢義務，對業者營運及市場流動性之影響。"
+   ],
+   "holding": "・轉帳規則：來源及目的錢包須經驗證屬客戶本人，禁止與第三人帳戶往來；須遵循旅行規則、客戶分級與篩檢，排除人頭帳戶及高風險錢包，並使用區塊鏈追蹤工具。\n・轉帳上限：轉入、轉出每人每日每業者各 500 萬泰銖；泰國業者間客戶帳戶轉帳且均適用旅行規則者不設上限。\n・造市者：交易所須於網站公布造市者名稱及其支援之數位資產，並篩檢、監控造市者資產來源及交易目的。\n・流動性提供者：經紀商不得就穩定幣兌泰銖交易對使用流動性提供者；其他流動性提供者須位於落實 FATF 建議之法域並受監理，且須向客戶揭露其名稱及利益衝突。\n・場外交易：經紀商及自營商之場外交易最低金額 300 萬泰銖，須公布價格，經紀商不得於場外撮合客戶間交易。\n・監理措施：業者未遵守資料蒐集及揭露規定者，證交會得命其限期改善。",
+   "significance": "泰國將穩定幣出入金管制由原則推進至公告草案，以每日限額及錢包實名驗證處理穩定幣用於洗錢與規避跨境匯款之風險，屬亞洲少見之量化轉帳限制。應留意 11 月 26 日意見截止後之最終公告內容及施行日期。",
+   "editorNote": "本網頁助理 註：本則依泰國證交會新聞稿頁面連結、InfoQuest 與 ThaiPR.NET 之泰文報導及 Cointelegraph 報導撰寫；本網頁助理未能直接開啟證交會新聞稿及公聽頁面核對全文，施行日期報導未載。9 月徵詢版本依 crypto.news 報導曾載明公告生效後 60 日施行，本次草案是否相同尚待官方文件確認。",
+   "tags": [
+    "穩定幣",
+    "洗錢防制",
+    "旅行規則",
+    "泰國證券交易委員會",
+    "泰國"
+   ],
+   "related": [
+    "2026-10-30-fin-thai-sec-digital-asset-derivatives-licensing"
+   ],
+   "sources": [
+    {
+     "label": "泰國證交會新聞稿（No. 253/2026）",
+     "url": "https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=13562&NewsNo=253&NewsYear=2026&Lang=EN",
+     "official": true
+    },
+    {
+     "label": "泰國證交會公聽頁面（泰文）",
+     "url": "https://www.sec.or.th/TH/Pages/PB_Detail.aspx?SECID=1245",
+     "official": true
+    },
+    {
+     "label": "InfoQuest 報導（泰文）",
+     "url": "https://www.infoquest.co.th/2026/678398",
+     "official": false
+    },
+    {
+     "label": "ThaiPR.NET 新聞稿轉載（泰文）",
+     "url": "https://www.thaipr.net/finance/3777703",
+     "official": false
+    },
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-12T23:31:09+08:00"
+  },
+  {
+   "id": "2026-11-11-fin-okxice-tsv-launch-date",
+   "court": "SEC",
+   "kind": "政策動態",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-11",
+   "eventDate": "2026-11-11",
+   "importance": 2,
+   "author": "",
+   "title": "OKX 與洲際交易所合資之 OKXICE 宣布依 SEC 創新豁免設立之代幣化證券交易場所將於 11 月 23 日上線",
+   "shortTitle": "OKXICE 代幣化證券場所 11 月 23 日上線",
+   "point": "依 SEC 創新豁免營運，確認 70 檔股票及 59 檔 ETF、67 家公司退出",
+   "titleOriginal": "OKXICE sets Nov. 23 launch for tokenized securities venue under SEC innovation exemption",
+   "caseRef": "",
+   "tldr": "SEC 在 9 月給了一個為期五年的「創新豁免」，讓代幣化股票可以在鏈上交易而不必登記成傳統交易所。OKX 和紐約證交所母公司合資的 OKXICE 宣布，這個平台 11 月 23 日開張，已有 70 檔股票和 59 檔 ETF；但也有 67 家公司依豁免條件表示不讓自家股票在上面交易。",
+   "memo": "依 The Block 2026 年 11 月 11 日報導，OKX 與洲際交易所（ICE）於同日宣布，雙方合資之 OKXICE 將於 2026 年 11 月 23 日啟用其代幣化證券交易場所，該場所係依美國證券交易委員會 2026 年 9 月 17 日發布之五年期附條件創新豁免令營運，僅開放持有 CeDeFi 錢包並完成開戶程序之美國客戶。依報導，已確認 70 檔發行人資產及 59 檔指數股票型基金；另依 11 月 5 日之公開通知，已有 67 家公司依豁免令之發行人書面反對機制拒絕其股票於該場所交易。",
+   "context": "SEC 於 2026 年 9 月 17 日依《證券交易法》第 36(a)(1) 條發布代幣化國家市場系統股票創新豁免令，期限五年，豁免代幣化證券交易場所適用交易所定義等規定，並設有僅限經驗證參與者、第三方代幣須通知發行人且發行人得於 30 日內書面反對等條件。\nOKXICE 於 10 月 4 日首次公告擬交易之股票清單，其後陸續有發行公司依前述機制提出反對；DTC 之代幣化服務亦已依 SEC 無異議函上線。",
+   "facts": [
+    "OKX 與 ICE 於 2026 年 11 月 11 日宣布 OKXICE 代幣化證券交易場所將於 11 月 23 日上線。",
+    "依報導，已確認 70 檔發行人資產（包括 Coinbase、Circle 及 Robinhood）及 59 檔 ETF。",
+    "依 11 月 5 日之公開通知，67 家公司已選擇退出，包括 Meta Platforms、Home Depot、Netflix、Tesla 及 Costco。",
+    "該場所僅開放持有 CeDeFi 錢包並完成開戶程序之美國客戶。",
+    "依報導，Nasdaq 法務長於 Barron's 投書反對創新豁免，稱代幣化證券於全國市場系統外交易將造成交易分散，並將使 Nasdaq 自身股票退出代幣化證券交易場所。"
+   ],
+   "issues": [
+    "未經發行人參與之第三方代幣化股票於豁免架構下交易，對投資人權利及發行人之影響。",
+    "代幣化證券交易場所於全國市場系統外運作，是否造成市場分散及最佳執行問題？",
+    "大量發行人選擇退出，是否影響創新豁免之實際效用？"
+   ],
+   "holding": "・上線：OKXICE 代幣化證券交易場所訂於 2026 年 11 月 23 日啟用，依 SEC 創新豁免令營運。\n・標的：已確認 70 檔發行人資產及 59 檔 ETF。\n・參與者：限持有 CeDeFi 錢包並完成開戶之美國客戶。\n・發行人退出：依豁免條件，67 家公司已書面反對其股票於該場所交易。",
+   "significance": "OKXICE 上線將使 SEC 創新豁免架構進入實際運作，發行人退出機制之效果亦將受檢驗。應留意上線後之交易規模、更多發行人是否退出，以及國會或 SEC 對創新豁免之後續態度。",
+   "editorNote": "本網頁助理 註：本則依 The Block 報導撰寫，報導未附 OKX、ICE 新聞稿或 SEC 文件連結；本網頁助理未能取得官方公告核對。",
+   "tags": [
+    "代幣化",
+    "代幣化股票",
+    "創新豁免",
+    "OKXICE",
+    "SEC",
+    "美國"
+   ],
+   "related": [
+    "2026-10-26-fin-okxice-issuer-objections",
+    "2026-10-05-fin-wilmerhale-sec-innovation-exemption"
+   ],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-12T23:31:09+08:00"
   }
  ],
  "agenda": [
@@ -7839,6 +7973,26 @@
    "url": "",
    "relatedId": "2026-11-11-fin-sec-amicus-cftc-stock-perps",
    "caseId": "us-perpetual-futures-jurisdiction"
+  },
+  {
+   "id": "2026-11-23-sec-okxice-tsv-launch",
+   "date": "2026-11-23",
+   "court": "SEC",
+   "title": "OKXICE 代幣化證券交易場所預定上線",
+   "note": "依 The Block 報導；依 SEC 創新豁免營運，日期可能調整",
+   "url": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342",
+   "relatedId": "2026-11-11-fin-okxice-tsv-launch-date",
+   "caseId": "us-crypto-market-structure"
+  },
+  {
+   "id": "2026-11-26-other-thai-sec-stablecoin-draft-deadline",
+   "date": "2026-11-26",
+   "court": "OTHER",
+   "title": "泰國證交會穩定幣交易監理公告草案意見截止",
+   "note": "泰國時間；可經證交會網站、law.go.th 或電子郵件提出",
+   "url": "https://www.sec.or.th/TH/Pages/PB_Detail.aspx?SECID=1245",
+   "relatedId": "2026-11-12-fin-thai-sec-stablecoin-transaction-draft",
+   "caseId": ""
   }
  ],
  "cases": [
@@ -7862,7 +8016,7 @@
    "nameOriginal": "US crypto market structure (CLARITY Act; SEC and CFTC rulemaking)",
    "caseRef": "H.R. 3633",
    "summary": "眾議院 2025 年 7 月通過 CLARITY Act，參議院 2026 年 9 月 15 日未能終結辯論；SEC 與 CFTC 改以各自的規則制定與豁免推進加密資產市場監理。",
-   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 已有 26 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。依 11 月 5 日報導，SEC 券商加密資產財務責任規則修正草案（RIN 3235-AN48）已送 OIRA 審查。依 11 月 9 日報導，Warren 將於 2027 年 1 月任參院銀行委員會主席並以預測市場與川普家族加密事業為監督重點，眾院民主黨擬另提強化 SEC 角色之市場結構法案。"
+   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 依報導訂於 11 月 23 日上線，已有 67 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。依 11 月 5 日報導，SEC 券商加密資產財務責任規則修正草案（RIN 3235-AN48）已送 OIRA 審查。依 11 月 9 日報導，Warren 將於 2027 年 1 月任參院銀行委員會主席並以預測市場與川普家族加密事業為監督重點，眾院民主黨擬另提強化 SEC 角色之市場結構法案。"
   },
   {
    "id": "icba-v-occ-trust-charters",
