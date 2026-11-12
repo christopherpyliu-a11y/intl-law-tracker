@@ -1,13 +1,189 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-12T07:13:32+08:00",
-  "lastRunLocal": "2026-11-12 07:13",
+  "lastRun": "2026-11-12T23:08:18+08:00",
+  "lastRunLocal": "2026-11-12 23:08",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 3 則：投資仲裁 3（案件動態 2、法院裁判 1）；商務仲裁本次未發現新動態",
+  "lastRunNote": "新增 3 則：商務仲裁 1（評論 1）、投資仲裁 2（案件動態 2）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
+  {
+   "id": "2026-11-11-arb-kab-india-limitation-jurisdiction-admissibility",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "印度",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-11-11",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Zacarias Joseph（孟買高等法院執業律師）",
+   "title": "印度仲裁的時效抗辯：屬於管轄權還是請求容許性？作者主張應一律定性為容許性問題",
+   "shortTitle": "印度時效抗辯是管轄權問題嗎？",
+   "point": "作者主張時效應一律定性為容許性問題，以終結最高法院兩條判決路線的分歧",
+   "titleOriginal": "Time-Barred Claims in Indian Arbitration: An Issue of Jurisdiction or Admissibility?",
+   "caseRef": "",
+   "tldr": "在印度仲裁中，對方常主張請求已逾時效。這個抗辯算「仲裁庭有沒有權審」（管轄權），還是「這個請求能不能被受理」（容許性），會影響法院之後能審查到什麼程度。作者整理印度最高法院前後不一的判決，主張應統一認定為容許性問題。",
+   "memo": "Zacarias Joseph 於 Kluwer Arbitration Blog 撰文指出，印度最高法院就仲裁中之時效抗辯究屬管轄權或請求容許性問題，存在兩條判決路線：NTPC（2007）、Bhadra（2018）、BSNL（2021）及 Aptech（2024）採容許性見解，Uttarakhand（2019）及七人大法庭 Interplay（2023）則視為仲裁法第 16 條之管轄權問題；作者認為後者係誤讀 Bhadra，主張應一律定性為容許性問題，使仲裁庭仍得及早處理，司法審查則限於 Bhadra 所列之狹義管轄權事由，並認為須由最高法院較大法庭重新審酌或修法將時效排除於第 16 條之外，方能統一見解。",
+   "context": "印度 1996 年仲裁及調解法第 16 條規定仲裁庭就其管轄權（包括仲裁協議之存在與效力）作成決定；對仲裁庭肯認管轄權之決定，當事人須待最終判斷後依第 34 條聲請撤銷，而仲裁庭認定無管轄權之決定則得依第 37 條上訴。因此，一項抗辯被定性為「管轄權」或「容許性」，會影響法院介入的時點與審查範圍。\n國際上新加坡上訴法院在 Swissbourgh（2018）及 BBA（2020）案中發展出「針對仲裁庭或針對請求」（tribunal versus claim）的區分標準，通常將時效視為針對請求的容許性問題。",
+   "facts": [
+    "作者整理的印度最高法院判決包括：NTPC（2007，以時效駁回請求並非拒絕行使管轄權）、Bhadra（2018，民事上訴第 824/2018 號，就時效作成之部分判斷不屬第 16 條管轄權決定）、Uttarakhand（2019，將時效視為第 16 條之管轄權問題）、BSNL（2021，採容許性見解）、Interplay（2023 年 12 月 13 日，七人大法庭採 Uttarakhand 見解）、Aptech（2024 年 3 月 1 日，指定仲裁人之法院僅得駁回「顯然」已逾時效之請求，其餘交由仲裁庭）、Neelkanth（2025 年 9 月 15 日，事實有爭執時以抗辯方式就時效作成之部分判斷不具終局性）。",
+    "作者並以 MCM Worldwide v. Construction Industry Development Council（最高法院，2026 年 4 月 21 日）及孟買高等法院 Zawar Sales Corporation（2026）為例，說明仲裁庭處理時效的不同程序路徑。"
+   ],
+   "issues": [
+    "仲裁中之時效抗辯應定性為管轄權問題（仲裁及調解法第 16 條）或請求容許性問題。",
+    "不同定性對法院審查時點與範圍（第 11 條指定仲裁人、第 34 條撤銷、第 37 條上訴）之影響。"
+   ],
+   "holding": "・指定仲裁人階段，法院審查有限，僅得駁回顯然已逾時效之請求（Aptech）。\n・仲裁庭處理時效有三種路徑：以部分判斷先行決定（Bhadra）、作為第 16 條管轄權抗辯處理（MCM）、或與實體一併審理（Zawar）；三者的時點與司法審查標準不同，界線也常模糊（Neelkanth）。\n・分歧源於兩個未解問題：時效是否屬管轄權，以及「管轄權」的範圍為何。Bhadra 以仲裁協議存在、仲裁庭合法組成及爭議屬仲裁範圍三項標準界定管轄權，「針對仲裁庭或針對請求」標準更為狹窄，Uttarakhand 與 Interplay 則採較寬的理解。\n・作者認為 Bhadra 本已作出容許性的判斷，並為 BSNL 與 Aptech 所遵循；Uttarakhand 與 Interplay 並未推翻 Bhadra，只是沒有適用。\n・定性不一導致當事人在抗辯標籤上進行策略性攻防，拖延程序。",
+   "significance": "作者結論：將時效一致定性為容許性問題即可消除分歧，仲裁庭仍可及早處理時效，而管轄權審查則限於 Bhadra 所列狹義事由；要統一見解，需由最高法院較大法庭直接重新檢討 Uttarakhand 與 Interplay，或修法將時效排除於第 16 條之外。在此之前，當事人一開始如何定性其抗辯，將大幅左右印度法院的審查方式。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：文中各判決依作者所述整理，本網頁助理未另行取得判決原文；印度係國內仲裁法制，但涉及管轄權與容許性區分之國際通行議題。",
+   "tags": [
+    "印度",
+    "時效",
+    "管轄權",
+    "仲裁容許性",
+    "管轄權自決",
+    "撤銷仲裁判斷",
+    "司法審查"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 評論",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/time-barred-claims-in-indian-arbitration-an-issue-of-jurisdiction-or-admissibility/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-12T23:08:18+08:00"
+  },
+  {
+   "id": "2026-11-11-arb-prospera-honduras-us-ndp-submission",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "prospera-v-honduras",
+   "jurisdiction": "",
+   "outlet": "ICSID",
+   "outletCode": "ICSID",
+   "date": "2026-11-11",
+   "eventDate": "2026-10-07",
+   "importance": 2,
+   "author": "",
+   "title": "美國以非爭端締約方身分，就 Próspera 訴宏都拉斯案提出 CAFTA-DR 條約解釋意見，涉及投資合法性、最惠國待遇與救濟範圍",
+   "shortTitle": "美國就 Próspera 訴宏都拉斯案提出條約解釋意見",
+   "point": "依 CAFTA-DR 第 10.20.2 條提出，內容涉及投資合法性要件、最惠國待遇條款與救濟限制",
+   "titleOriginal": "Honduras Próspera Inc., St. John's Bay Development Company LLC and Próspera Arbitration Center LLC v. Republic of Honduras (ICSID Case No. ARB/23/2) – Submission of the United States as non-disputing Party",
+   "caseRef": "ICSID Case No. ARB/23/2",
+   "tldr": "Próspera 等美國公司因宏都拉斯廢除經濟特區（ZEDE）制度而對其提起 ICSID 仲裁，媒體報導求償約 110 億美元。美國雖非本案當事人，但作為自由貿易協定的締約國，於 10 月 7 日向仲裁庭提出書面意見，說明它如何解讀條約中投資必須合法、最惠國待遇及賠償範圍等條款。",
+   "memo": "美國於 2026 年 10 月 7 日依多明尼加—中美洲—美國自由貿易協定（CAFTA-DR）第 10.20.2 條及 ICSID 仲裁規則第 68 條，以非爭端締約方身分於 Honduras Próspera Inc. 等訴宏都拉斯案（ICSID Case No. ARB/23/2）提出書面意見；依報導，其內容涉及投資合法性要件、最惠國待遇條款之適用及救濟範圍之限制。本案係美國投資人就宏都拉斯廢止 ZEDE 經濟特區制度，依 CAFTA-DR 及法律穩定契約請求損害賠償，仲裁庭已將管轄權異議併入實體審理。",
+   "context": "申請人 Honduras Próspera Inc.、St. John's Bay Development Company LLC 及 Próspera Arbitration Center LLC 均為美國公司，在宏都拉斯羅阿坦島經營 Próspera 經濟特區（ZEDE），並與前政府簽訂為期 50 年的法律穩定與投資保障協議（LSA）。宏都拉斯新政府於 2022 年推動廢除 ZEDE 制度（第 32-2022 號法令），最高法院並於 2024 年宣告 ZEDE 違憲。\n申請人依 LSA 及 CAFTA-DR 於 2023 年 2 月 3 日向 ICSID 登記仲裁，仲裁庭於 2024 年 1 月 29 日組成，由 Juan Fernández-Armesto 擔任首席仲裁人，David W. Rivkin（申請人選任）及 Raúl E. Vinuesa 為仲裁人；宏都拉斯曾聲請 Rivkin 迴避，於 2024 年 8 月 7 日遭行政理事會主席駁回。媒體報導求償金額約 110 億美元。\nCAFTA-DR 第 10.20.2 條允許非爭端締約方就協定解釋向仲裁庭提出意見。",
+   "facts": [
+    "仲裁庭於 2026 年 3 月 19 日第 6 號程序令將管轄權異議併入實體審理。",
+    "宏都拉斯於 2026 年 7 月 12 日提出實體答辯書暨管轄權書狀；數個非政府組織申請以法庭之友身分參與，仲裁庭於 9 月 9 日第 8 號程序令許可提出意見。",
+    "2026 年 10 月 7 日，美國依 CAFTA-DR 第 10.20.2 條及 ICSID 仲裁規則第 68 條提出非爭端締約方書面意見，四個非政府組織同日提出法庭之友意見。",
+    "仲裁庭其後於 10 月 21 日作成第 9 號程序令（文書提出）、10 月 22 日作成第 10 號程序令（現場勘驗）。",
+    "IAReporter 於 11 月 11 日報導，美國意見涉及投資合法性要件、最惠國待遇條款及救濟範圍之限制。"
+   ],
+   "issues": [
+    "CAFTA-DR 第十章投資保護是否以投資符合地主國法律為前提（合法性要件）。",
+    "最惠國待遇條款可否用以引入其他條約之實體或程序保障。",
+    "條約請求可得救濟之範圍與限制。"
+   ],
+   "holding": "ICSID 案件頁面僅記載美國提出意見之日期與法律依據，未公開內容摘要；依 IAReporter 標題，美國意見處理三項議題：投資合法性要件、最惠國待遇條款，以及救濟範圍的限制。美國立場的具體內容尚未取得。",
+   "significance": "本案已進入管轄權與實體併審階段，下一步為文書提出及現場勘驗；美國意見的具體立場有待公開。",
+   "editorNote": "本網頁助理 註：ICSID 案件頁面記載意見提出日期為 2026 年 10 月 7 日；意見內容僅依 IAReporter 報導標題（全文須訂閱），本網頁助理尚未取得美國意見原文。求償金額依媒體報導（約 107.75 億至 110 億美元），DPLF 文章將單位寫作「million」，應為筆誤。 以下為本網頁助理補充，非來源內容：美國在其他 CAFTA-DR 及 USMCA 案件中提出的非爭端締約方意見，常採較限縮的條約解釋，仲裁庭如何看待此類意見，可能影響本案合法性與最惠國待遇爭點。",
+   "tags": [
+    "ICSID",
+    "宏都拉斯",
+    "美國",
+    "CAFTA-DR",
+    "非爭端締約方",
+    "投資合法性",
+    "最惠國待遇",
+    "經濟特區",
+    "自由貿易協定"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 案件頁面（程序紀錄）",
+     "url": "https://icsid.worldbank.org/en/Pages/cases/casedetail.aspx?CaseNo=ARB%2F23%2F2&tab=DOC",
+     "official": true
+    },
+    {
+     "label": "IAReporter 報導",
+     "url": "https://www.iareporter.com/articles/usa-files-non-disputing-party-submission-in-prospera-v-honduras-addressing-legality-requirement-mfn-clause-and-limits-on-remedies/",
+     "official": false
+    },
+    {
+     "label": "DPLF 案件背景分析",
+     "url": "https://dplf.org/en/?p=23408",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-12T23:08:18+08:00"
+  },
+  {
+   "id": "2026-11-05-arb-gabriel-romania-annulment-closed",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "gabriel-v-romania",
+   "jurisdiction": "",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-05",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "Gabriel Resources 訴羅馬尼亞：ICSID 撤銷委員會宣告程序終結，預計 11 月 13 日前作成決定",
+   "shortTitle": "Gabriel 訴羅馬尼亞撤銷程序終結，決定將出",
+   "point": "撤銷委員會告知當事人預計 11 月 13 日前作成決定；原判斷駁回最高 67 億美元求償",
+   "titleOriginal": "Gabriel Resources Ltd. and Gabriel Resources (Jersey) v. Romania (ICSID Case No. ARB/15/31), Annulment Proceeding – closure of proceedings",
+   "caseRef": "ICSID Case No. ARB/15/31",
+   "tldr": "加拿大礦業公司 Gabriel Resources 因羅馬尼亞羅西亞蒙大拿金礦案遭擋，在 ICSID 求償最高 67 億美元，2024 年敗訴並被命負擔部分費用。它聲請撤銷這份判斷，撤銷委員會現已宣告程序終結，預計本週內作成決定。",
+   "memo": "Gabriel Resources Ltd. 於 2026 年 11 月 5 日公告，其就 Gabriel Resources Ltd. 與 Gabriel Resources (Jersey) 訴羅馬尼亞案（ICSID Case No. ARB/15/31）2024 年 3 月 8 日仲裁判斷所提撤銷（annulment）聲請，ICSID 特設撤銷委員會已宣告程序正式終結，並告知當事人預計於 2026 年 11 月 13 日當週結束前作成決定。原判斷駁回申請人最高約 67 億美元之求償，並命其償還羅馬尼亞部分仲裁費用及律師費。",
+   "context": "Gabriel Resources 持有羅西亞蒙大拿金礦公司（RMGC）80.69% 股份，其餘 19.31% 由羅馬尼亞國營公司 Minvest Roșia Montană 持有。Gabriel 主張羅馬尼亞阻撓羅西亞蒙大拿金礦開發計畫，於 2015 年向 ICSID 提起投資條約仲裁。\n仲裁庭於 2024 年 3 月 8 日作成判斷，駁回全部求償（最高約 67 億美元），並命 Gabriel 償還羅馬尼亞約 143 萬美元仲裁費用及部分律師費，合計據報約 800 萬歐元。Gabriel 其後依 ICSID 公約第 52 條聲請撤銷。",
+   "facts": [
+    "Gabriel 於 2026 年 11 月 5 日發布公告，稱撤銷委員會已宣告撤銷程序正式終結。",
+    "委員會告知當事人，預計於 2026 年 11 月 13 日（星期五）當週結束前作成決定；Gabriel 表示時點與結果均無保證。",
+    "2024 年 6 月，羅馬尼亞主管機關駁回 RMGC 延長開採許可之申請，RMGC 正在羅馬尼亞法院爭訟。",
+    "Gabriel 表示公司面臨流動性有限與待償債務等重大財務不確定性。"
+   ],
+   "issues": [
+    "2024 年判斷是否有 ICSID 公約第 52 條所定撤銷事由（申請人撤銷理由之細節公告未說明）。"
+   ],
+   "holding": "公告未說明撤銷理由或委員會之任何初步看法，僅告知程序已終結、決定即將作成。",
+   "significance": "撤銷委員會預計近日作成決定，Gabriel 表示將於收到決定後再行公告；其在羅馬尼亞法院就開採許可延長遭拒的訴訟仍在進行。",
+   "editorNote": "本網頁助理 註：本則依 Gabriel Resources 公司公告（經 Mining Stock Education 轉載）及 Romania Insider 對 2024 年判斷之報導撰寫，尚未取得 ICSID 程序文件；求償金額與費用數額依媒體報導。公告發布日早於本次涵蓋期間，因前次更新未收錄且決定即將作成，故補列。 以下為本網頁助理補充，非來源內容：依 ICSID 公約第 52 條第 6 項，判斷如經撤銷，任一方得將爭議提交新仲裁庭；如撤銷聲請遭駁回，原判斷（含費用負擔）即可依第 53、54 條執行。",
+   "tags": [
+    "ICSID",
+    "羅馬尼亞",
+    "加拿大",
+    "撤銷（annulment）",
+    "第52條",
+    "礦業",
+    "金礦",
+    "仲裁費用"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Gabriel Resources 公司公告（轉載）",
+     "url": "https://www.miningstockeducation.com/2026/11/gabriel-announces-closure-of-icsid-annulment-proceedings/",
+     "official": false
+    },
+    {
+     "label": "Romania Insider 2024 年判斷報導",
+     "url": "https://romania-insider.com/romania-wins-arbitration-gabriel-resources-rosia-montana",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-12T23:08:18+08:00"
+  },
   {
    "id": "2026-11-02-arb-webuild-scotus-quasi-in-rem-petition",
    "court": "NEWS",
@@ -7582,6 +7758,16 @@
    "url": "https://natlawreview.com/article/kuwait-issues-new-arbitration-law",
    "relatedId": "2026-10-23-arb-kuwait-arbitration-law-2026",
    "caseId": ""
+  },
+  {
+   "id": "2026-11-13-award-gabriel-romania-annulment-decision",
+   "date": "2026-11-13",
+   "court": "AWARD",
+   "title": "Gabriel Resources 訴羅馬尼亞：ICSID 撤銷委員會預計作成決定",
+   "note": "委員會告知當事人預計於 11 月 13 日（星期五）當週結束前作成決定，時點可能變動",
+   "url": "https://www.miningstockeducation.com/2026/11/gabriel-announces-closure-of-icsid-annulment-proceedings/",
+   "relatedId": "2026-11-05-arb-gabriel-romania-annulment-closed",
+   "caseId": "gabriel-v-romania"
   }
  ],
  "archives": [],
@@ -8137,6 +8323,30 @@
    "caseRef": "PCA Case No. 2016-14; No. 1:23-cv-00764 (D.D.C.)",
    "summary": "烏克蘭國營銀行 Oschadbank 依俄烏投資協定就克里米亞資產取得約 11 億美元判斷，於法國及美國尋求承認與執行。",
    "status": "紐約聯邦法院於 2026 年 11 月拒絕將其承認法國判決之訴移送華府；華府判斷確認程序另行進行。"
+  },
+  {
+   "id": "prospera-v-honduras",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Próspera 訴宏都拉斯（ZEDE 經濟特區案）",
+   "nameOriginal": "Honduras Próspera Inc., St. John's Bay Development Company LLC and Próspera Arbitration Center LLC v. Republic of Honduras",
+   "caseRef": "ICSID Case No. ARB/23/2",
+   "summary": "美國投資人就宏都拉斯廢除 ZEDE 經濟特區制度，依 CAFTA-DR 及法律穩定契約請求鉅額賠償（媒體報導約 110 億美元）。",
+   "status": "管轄權異議已併入實體審理；美國於 2026 年 10 月 7 日提出非爭端締約方意見，現進行文書提出及現場勘驗程序。"
+  },
+  {
+   "id": "gabriel-v-romania",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Gabriel Resources 訴羅馬尼亞（羅西亞蒙大拿金礦案）",
+   "nameOriginal": "Gabriel Resources Ltd. and Gabriel Resources (Jersey) v. Romania",
+   "caseRef": "ICSID Case No. ARB/15/31",
+   "summary": "加拿大礦業公司就羅馬尼亞阻撓羅西亞蒙大拿金礦開發提起投資條約仲裁，2024 年判斷駁回全部求償，申請人聲請撤銷。",
+   "status": "撤銷委員會已宣告程序終結，預計於 2026 年 11 月 13 日前作成撤銷決定。"
   }
  ]
 }
