@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-12T23:09:58+08:00",
-  "lastRunLocal": "2026-11-12 23:09",
+  "lastRun": "2026-11-13T07:10:13+08:00",
+  "lastRunLocal": "2026-11-13 07:10",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 1 則：ITLOS 1（阿英油田案臨時措施 11 月 28 日宣示）"
+  "lastRunNote": "新增 1 則：美洲人權法院 1（Moliné O'Connor 訴阿根廷案判決）"
  },
  "items": [
   {
@@ -7160,6 +7160,78 @@
     "2026-11-11-itlos-argentina-uk-hearing-day2",
     "2026-11-10-itlos-argentina-uk-hearing-day1"
    ]
+  },
+  {
+   "id": "2026-11-12-iacthr-moline-oconnor-argentina",
+   "court": "IACtHR",
+   "kind": "判決",
+   "caseId": "",
+   "date": "2026-11-12",
+   "eventDate": "",
+   "importance": 2,
+   "title": "美洲人權法院判決阿根廷 2003 年以裁判內容彈劾罷免最高法院法官 Moliné O'Connor，違反司法獨立",
+   "shortTitle": "罷免最高法院法官案：阿根廷敗訴",
+   "point": "以法官裁判見解作為「失職」罷免理由侵害司法獨立，並應恢復其終身年金",
+   "titleOriginal": "Caso Moliné O'Connor Vs. Argentina",
+   "caseRef": "",
+   "tldr": "阿根廷國會在 2003 年以「失職」為由彈劾並罷免最高法院法官 Moliné O'Connor，主要理由是他在一件案件中的裁判見解。美洲人權法院認為，不能因為法官判決的內容就把他撤職，否則司法無法獨立；法院也認為取消他的終身年金、相關訴訟拖延十多年都違反公約，命阿根廷賠償其家屬並恢復年金待遇。",
+   "memo": "美洲人權法院於 2026 年 11 月 12 日通知 Moliné O'Connor 訴阿根廷案判決，認定阿根廷國會於 2003 年以前最高法院法官 Moliné O'Connor 於 Meller 案之裁判見解為由，以「失職」彈劾並罷免之，侵害司法獨立，且彈劾程序多項決定欠缺充分理由、國內法院未妥適審理其救濟，撤銷其終身年金及歷時逾十年之訴訟亦屬違法，違反《美洲人權公約》第 8 條第 1 項、第 25 條第 1 項、第 23 條第 1 項 c 款、第 21 條及第 26 條，併同第 1 條第 1 項；命阿根廷調整其年金待遇、公布判決、賠償其家屬物質與非物質損害及費用，並依公約解釋適用憲法第 53 條。",
+   "context": "Eduardo Moliné O'Connor 曾任阿根廷最高法院法官。2003 年眾議院對其提出彈劾，參議院於同年 12 月 4 日以 45 票對 19 票，以「失職」（mal desempeño）為由將其罷免；主要指控涉及其在 Meller 案中，認可一項被指可能具詐欺性的行政程序，未盡憲法審查義務。其後其終身年金亦遭撤銷。\n美洲人權委員會將本案提交美洲人權法院，主張阿根廷侵害司法獨立、法官職位保障、司法保障、合法性原則及司法保護。Moliné O'Connor 已於 2014 年過世。\n阿根廷憲法第 53 條規定眾議院得就最高法院法官失職或職務上犯罪提出彈劾。",
+   "facts": [
+    "2003 年，阿根廷眾議院對最高法院法官 Moliné O'Connor 提出彈劾，指控包括 Meller 案及 Magariños 案，決定性表決係依 Meller 案指控。",
+    "彈劾期間其遭預防性停職，據報導未附理由。",
+    "2003 年 12 月 4 日，參議院以 45 票對 19 票以「失職」為由將其罷免。",
+    "罷免後其終身年金遭撤銷，其提起之司法救濟持續逾十年。",
+    "Moliné O'Connor 於 2014 年過世。",
+    "2026 年 11 月 12 日，美洲人權法院通知本案判決；阿根廷籍法官 Verónica Gómez 依規定未參與。"
+   ],
+   "issues": [
+    "以法官裁判內容作為彈劾、罷免理由，是否侵害司法獨立及法官職位保障（《美洲人權公約》第 8 條第 1 項、第 23 條第 1 項 c 款）",
+    "彈劾程序是否符合正當程序與說明理由義務，國內救濟是否有效（第 8 條第 1 項、第 25 條第 1 項）",
+    "撤銷終身年金是否侵害財產權及工作與社會保障權（第 21 條、第 26 條）",
+    "國內法就最高法院法官罷免事由之明確性要求（阿根廷憲法第 53 條）"
+   ],
+   "holding": "・法院認定，以法官於裁判中表達之法律見解作為罷免依據，違反司法獨立；司法獨立禁止以法官之裁判內容作為彈劾或罷免理由。\n・彈劾程序多個階段之決定欠缺充分理由，包括未說明理由之預防性停職、未給予充分準備防禦之時間；國內法院亦未妥適處理其對罷免之挑戰。\n・罷免後撤銷終身年金侵害其權利，相關司法程序無正當理由持續逾十年。\n・認定違反第 8 條第 1 項、第 25 條第 1 項、第 23 條第 1 項 c 款、第 21 條及第 26 條，併同第 1 條第 1 項，並認上述侵害影響其「生涯計畫」（proyecto de vida）。\n・賠償：判決本身即構成補償之一；阿根廷應調整其應有之年金待遇、公布並傳播判決、向家屬支付物質與非物質損害賠償及費用；國內機關應依公約及法院判例解釋適用憲法第 53 條，法院並指出國內法須明定得罷免之事由。\n・據報導未見不同意見。",
+   "significance": "本判決延續美洲人權法院關於法官免職與司法獨立的判例，明確表示政治機關不得以裁判內容追究法官責任，並要求國內法明確規定最高法院法官的罷免事由，對美洲各國以彈劾程序處理法官的作法具有指標意義。阿根廷須依判決履行賠償及調整年金，並由法院監督執行。",
+   "editorNote": "本網頁助理 註：本則依 EFE（經 ABC Color 轉載）、Infobae 及 Palabras del Derecho 於 11 月 12 日之報導撰寫，未能讀取判決原文及法院新聞稿；報導僅載明判決通知日期，未載判決作成日期，故裁判日期欄留空。判例資料庫連結係 Palabras del Derecho 報導所附，本網頁助理未能開啟確認。",
+   "tags": [
+    "阿根廷",
+    "司法獨立",
+    "彈劾",
+    "法官免職",
+    "美洲人權公約",
+    "第8條",
+    "第23條",
+    "第26條"
+   ],
+   "sources": [
+    {
+     "label": "美洲人權法院判例資料庫（判決，依報導所附連結）",
+     "url": "https://jurisprudencia.corteidh.or.cr/es/vid/1133638905",
+     "official": true
+    },
+    {
+     "label": "美洲人權法院案件摘要頁",
+     "url": "https://www.corteidh.or.cr/180POS-Paraguay/caso-2.html",
+     "official": true
+    },
+    {
+     "label": "Infobae 報導",
+     "url": "https://www.infobae.com/politica/2026/11/12/la-corte-interamericana-condeno-a-la-argentina-por-la-destitucion-del-ex-juez-eduardo-moline-oconnor/",
+     "official": false
+    },
+    {
+     "label": "ABC Color（EFE）報導",
+     "url": "https://www.abc.com.py/internacionales/2026/11/12/corte-idh-condena-a-argentina-por-violar-independencia-judicial-con-destitucion-de-un-juez/",
+     "official": false
+    },
+    {
+     "label": "Palabras del Derecho 報導",
+     "url": "https://www.palabrasdelderecho.com.ar/articulo/7099/La-Corte-Interamericana-responsabilizo-a-la-Argentina-por-la-destitucion-del-ex-juez-de-la-Corte-Suprema-Eduardo-Moline-OCconor",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T07:10:13+08:00"
   }
  ],
  "agenda": [
