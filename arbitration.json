@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-12T23:08:18+08:00",
-  "lastRunLocal": "2026-11-12 23:08",
+  "lastRun": "2026-11-13T07:01:22+08:00",
+  "lastRunLocal": "2026-11-13 07:01",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 3 則：商務仲裁 1（評論 1）、投資仲裁 2（案件動態 2）",
+  "lastRunNote": "新增 1 則：投資仲裁 1（案件動態 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -7687,6 +7687,79 @@
     }
    ],
    "addedAt": "2026-11-12T07:13:32+08:00"
+  },
+  {
+   "id": "2026-11-12-arb-exxonmobil-v-eu-ect-ccs",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "exxonmobil-v-eu",
+   "jurisdiction": "歐盟",
+   "outlet": "Investment Arbitration Reporter 等（依新聞報導）",
+   "outletCode": "IAR",
+   "date": "2026-11-12",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "ExxonMobil 子公司依能源憲章條約對歐盟提起投資仲裁，挑戰《淨零產業法》強制油氣業者建置二氧化碳封存容量的義務",
+   "shortTitle": "ExxonMobil 依 ECT 對歐盟提起仲裁",
+   "point": "挑戰《淨零產業法》要求油氣業者在 2030 年前提供二氧化碳封存容量的義務",
+   "titleOriginal": "ExxonMobil affiliates v. European Union (Energy Charter Treaty) – challenge to Net-Zero Industry Act CO2 storage obligations",
+   "caseRef": "",
+   "tldr": "歐盟《淨零產業法》要求在歐盟生產石油和天然氣的公司，在 2030 年前合力建置每年 5,000 萬噸的二氧化碳地下封存容量，並把額度分配給 44 家公司。ExxonMobil 認為市場根本還沒成形、期限不切實際，於是旗下子公司依《能源憲章條約》對歐盟提起投資仲裁。歐盟執委會表示正準備答辯。",
+   "memo": "依 Investment Arbitration Reporter 及 Reuters 引述 Financial Times 之 2026 年 11 月 11 日至 12 日報導，ExxonMobil 旗下子公司已依能源憲章條約對歐盟提起投資仲裁，爭執歐盟《淨零產業法》第 23 條要求油氣生產業者於 2030 年前共同建置每年至少 5,000 萬噸二氧化碳注入容量、並由執委會分配個別業者義務之規定。ExxonMobil 主張在碳捕捉與運輸市場尚未形成之情形下強制業者提供封存容量，期限不切實際並增加能源成本；執委會已於 2026 年 10 月通知理事會貿易政策委員會並準備答辯。仲裁機構、請求金額及程序細節尚未公開。",
+   "context": "歐盟《淨零產業法》（Net-Zero Industry Act）第 23 條設定歐盟於 2030 年前達到每年至少 5,000 萬噸二氧化碳注入容量的目標，並要求在歐盟境內持有油氣生產許可的業者，依其歷史產量比例分擔建置義務。依報導，執委會已將義務分配給 44 家公司，包括 Shell、Eni、TotalEnergies 等集團的子公司；ExxonMobil Producing Netherlands 與 Mobil Erdgas-Erdöl 分別被分配每年 33 萬噸及 40 萬噸。\n能源憲章條約（ECT）為多邊能源投資條約，歐盟本身亦為締約方，因此可直接成為投資仲裁的被申請方。",
+   "facts": [
+    "Reuters 於 2026 年 11 月 11 日引述 Financial Times 報導（依據執委會內部備忘錄）指出，ExxonMobil 已就《淨零產業法》要求大型油氣業者於 2030 年前協助建置二氧化碳封存容量之規定提起保密的仲裁程序；執委會已於上月通知理事會貿易政策委員會，並正準備答辯。",
+    "Investment Arbitration Reporter 於 2026 年 11 月 12 日以「ExxonMobil 子公司對歐盟提起 ECT 仲裁」為題報導（全文須訂閱）。",
+    "Carbon Herald 報導，提出爭議通知的是 ExxonMobil 設於比利時、盧森堡及英國的關係企業，依據為能源憲章條約；歐盟確認收到通知，並表示有信心相關規定符合國際法及條約義務。",
+    "ExxonMobil 公開表示，在碳捕捉與運輸欠缺可行市場的情況下，油氣業者仍被強制提供封存容量，造成不切實際的時程與更高的能源成本；依報導，商業碳封存設施從開發到營運通常需要七至十年。",
+    "Coinpaper 報導稱，ExxonMobil 尋求的是暫停或延後履行相關義務的暫時性救濟，而非全面反對碳捕捉；此點尚無其他來源證實。"
+   ],
+   "issues": [
+    "仲裁庭對以歐盟為被申請方之 ECT 請求有無管轄權，包括歐盟退出 ECT 後之存續條款適用，以及歐盟內部（intra-EU）異議是否適用於歐盟與其成員國境內設立之子公司間的爭議。",
+    "《淨零產業法》第 23 條之封存容量義務是否違反 ECT 第 10 條第 1 項之公平公正待遇或構成不合理措施。",
+    "投資人得否就尚未完全履行期限屆至之法定義務請求暫時性救濟或損害賠償。"
+   ],
+   "holding": "・本案剛提起，尚無仲裁庭決定。\n・依報導，仲裁程序保密，所選用的仲裁機構或規則、請求金額及申請人完整名單均未公開；各報導對申請人子公司所在地的描述不一。",
+   "significance": "這是已知第一件以歐盟氣候產業政策中的強制封存義務為對象的投資仲裁，也是少數直接以歐盟（而非成員國）為被申請方的 ECT 案件。其他被分配封存義務的油氣業者是否跟進、歐盟是否以歐盟內部異議及 ECT 退出抗辯管轄權，將是後續觀察重點。",
+   "editorNote": "本網頁助理 註：本則依 Reuters 轉述 Financial Times 之報導、Investment Arbitration Reporter 標題（全文須訂閱）及 Carbon Herald、Coinpaper 報導撰寫，尚未取得仲裁通知或官方文件，故裁判／事件日期欄留空。Carbon Herald 稱申請人為設於比利時、盧森堡及英國之關係企業，Coinpaper 則點名受分配義務之荷蘭與德國子公司，兩者未必一致；Reuters 報導未指明條約依據。\n以下為本網頁助理補充，非來源內容：《淨零產業法》即歐盟第 2024/1735 號規則，於 2024 年 6 月生效；歐盟及歐洲原子能共同體退出 ECT 已於 2025 年生效，但 ECT 第 47 條第 3 項規定退出前已存在之投資仍受 20 年保護，申請人可能據此主張管轄權。",
+   "tags": [
+    "能源憲章條約",
+    "歐盟",
+    "新案件",
+    "碳捕捉與封存",
+    "淨零產業法",
+    "氣候變遷",
+    "公平公正待遇",
+    "歐盟內部異議",
+    "荷蘭",
+    "德國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "IAReporter 報導標題（全文須訂閱）",
+     "url": "https://www.iareporter.com/articles/exxonmobil-affiliates-launch-ect-arbitration-against-the-european-union-challenging-carbon-capture-and-storage-build-out-obligations/",
+     "official": false
+    },
+    {
+     "label": "Reuters 轉述 Financial Times 報導（BOE Report 轉載）",
+     "url": "https://boereport.com/2026/11/11/exxon-files-legal-challenge-to-eu-carbon-capture-law-ft-reports/",
+     "official": false
+    },
+    {
+     "label": "Carbon Herald 報導",
+     "url": "https://carbonherald.com/exxonmobil-challenges-eu-carbon-storage-mandates-in-international-dispute/",
+     "official": false
+    },
+    {
+     "label": "Coinpaper 報導",
+     "url": "https://coinpaper.com/38744/exxon-mobil-takes-eu-to-arbitration-over-carbon-capture-rules-as-billion-climate-costs-loom",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T07:01:22+08:00"
   }
  ],
  "agenda": [
@@ -8347,6 +8420,18 @@
    "caseRef": "ICSID Case No. ARB/15/31",
    "summary": "加拿大礦業公司就羅馬尼亞阻撓羅西亞蒙大拿金礦開發提起投資條約仲裁，2024 年判斷駁回全部求償，申請人聲請撤銷。",
    "status": "撤銷委員會已宣告程序終結，預計於 2026 年 11 月 13 日前作成撤銷決定。"
+  },
+  {
+   "id": "exxonmobil-v-eu",
+   "type": "案件",
+   "court": "NEWS",
+   "field": "investment",
+   "forum": "",
+   "name": "ExxonMobil 訴歐盟（碳封存義務）",
+   "nameOriginal": "ExxonMobil affiliates v. European Union (ECT)",
+   "caseRef": "",
+   "summary": "ExxonMobil 子公司依能源憲章條約，爭執歐盟《淨零產業法》要求油氣業者於 2030 年前建置二氧化碳封存容量之義務。",
+   "status": "2026 年 11 月依報導提起，程序保密，仲裁機構與請求金額尚未公開，執委會正準備答辯。"
   }
  ]
 }
