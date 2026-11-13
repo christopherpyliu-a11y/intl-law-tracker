@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-13T07:14:16+08:00",
-  "lastRunLocal": "2026-11-13 07:14",
+  "lastRun": "2026-11-13T23:57:59+08:00",
+  "lastRunLocal": "2026-11-13 23:57",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：伊朗 1（司法案件 1）"
+  "lastRunNote": "新增 3 則：中國 1（倡議 1）、土耳其 1（倡議 1）、越南 1（調查報導 1）"
  },
  "items": [
   {
@@ -1007,7 +1007,8 @@
     "挪威"
    ],
    "related": [
-    "2026-10-13-tnr-hrw-vietnam-viet-tan"
+    "2026-10-13-tnr-hrw-vietnam-viet-tan",
+    "2026-11-09-tnr-mekong-viet-tan-witnesses"
    ],
    "sources": [
     {
@@ -2211,7 +2212,8 @@
    ],
    "related": [
     "2026-10-22-tnr-fh-tnr-watch-southeast-asia",
-    "2026-10-23-tnr-viet-tan-consular-access"
+    "2026-10-23-tnr-viet-tan-consular-access",
+    "2026-11-09-tnr-mekong-viet-tan-witnesses"
    ],
    "sources": [
     {
@@ -5457,7 +5459,9 @@
     "家屬施壓",
     "網路攻擊"
    ],
-   "related": [],
+   "related": [
+    "2026-11-13-tnr-hong-kong-watch-bundestag-briefing"
+   ],
    "sources": [
     {
      "label": "Hannah Neumann 會議說明原文",
@@ -5773,6 +5777,178 @@
     }
    ],
    "addedAt": "2026-11-13T07:14:16+08:00"
+  },
+  {
+   "id": "2026-11-13-tnr-turkey-financial-repression-brussels",
+   "court": "TR",
+   "kind": "倡議",
+   "caseId": "",
+   "jurisdiction": "比利時、德國、美國",
+   "outlet": "Turkish Minute",
+   "outletCode": "",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-12",
+   "importance": 2,
+   "author": "Bünyamin Tekin（Turkish Minute）",
+   "title": "布魯塞爾會議檢討土耳其以反恐資產凍結令打擊海外記者與異議人士，與會者籲金融業建立防濫用機制",
+   "shortTitle": "土耳其以資產凍結打壓海外記者",
+   "point": "凍結名單流入合規資料庫，致海外異議者遭關戶、拒開戶；與會者籲人工覆核與救濟管道",
+   "titleOriginal": "Turkey’s financial repression abroad prompts calls for banking safeguards",
+   "caseRef": "",
+   "tldr": "土耳其把一些住在國外的記者和團體列入「資恐」資產凍結名單，這些名單被銀行用的合規資料庫收錄後，當事人可能在美國、歐洲被銀行關戶或拒絕服務。布魯塞爾一場會議討論這種「金融式跨國鎮壓」，與會者呼籲銀行不要只看資料庫就斷人金流，並給受害者申訴管道。",
+   "memo": "依 Turkish Minute 2026 年 11 月 13 日報導，布魯塞爾於同年 11 月 12 日舉行依查塔姆宮守則進行之會議，檢討金融犯罪防制工具遭用於跨國鎮壓之問題。報導稱土耳其於 2026 年 7 月 14 日將總部設於德國之國際記者協會（IJA）列入資產凍結名單，2021 年 12 月 24 日凍結令亦涵蓋 770 人，包括旅居美國之記者 Adem Yavuz Arslan，該等名單經 World-Check 等合規資料庫收錄後，致海外當事人遭關閉帳戶或拒絕金融服務。與會者建議金融機構對篩查警示進行人工覆核、設置異議與救濟管道並保障基本帳戶使用權；歐洲理事會議會亦曾促請防制洗錢金融行動工作組織將此類濫用列為不遵循事由。",
+   "context": "土耳其自 2016 年未遂政變後，將居倫運動列為恐怖組織，並以資恐為由對大量海外人士發布資產凍結令。居倫運動否認參與政變或任何恐怖活動。\n報導刊登媒體 Turkish Minute 由國際記者協會（IJA）出版，IJA 本身即為凍結名單上的對象，並在會議中提出自身銀行往來的疑慮。\n歐洲理事會議會（PACE）2026 年 6 月曾呼籲建立挑戰濫用外國恐怖主義指定的途徑並保障基本銀行服務；歐洲非營利法中心（ECNL）同月報告亦探討金融犯罪防制工具遭濫用。",
+   "facts": [
+    "依報導，會議於布魯塞爾舉行，依查塔姆宮守則進行，主題為金融犯罪防制工具遭用於跨國鎮壓。",
+    "土耳其於 2026 年 7 月 14 日將 IJA 列入資產凍結名單；報導引用 9 月一份法律分析稱，IJA 在土耳其無銀行帳戶、分支或資產，土方文件亦未指出可歸於 IJA 的資恐交易。",
+    "該名單出現在 World-Check（LSEG 旗下）與 LexisNexis WorldCompliance 等合規資料庫；分析稱目前尚未發生關戶，但 IJA 約 85% 收入來自個人捐款，主要經由一個德國銀行帳戶流入。",
+    "2021 年 12 月 24 日一紙凍結令涵蓋 770 人，包括記者 Adem Yavuz Arslan、Cevheri Güven、Sevgi Akarçeşme 及設於芝加哥的 Niagara 基金會。",
+    "IJA 2022 年調查 34 名遭土耳其凍結令鎖定的海外人士，其中 19 人表示遭遇關戶、拒開戶或支付服務終止等後果，17 人在土耳其根本沒有資產。",
+    "報導稱旅居美國的 Arslan 列名後失去美國銀行帳戶及 Western Union、MoneyGram 服務；相關公司拒絕評論。",
+    "報導未載土耳其政府回應。"
+   ],
+   "issues": [
+    "國際金融機構依賴合規資料庫中的外國恐怖主義指定時，應如何辨識政治性濫用並提供當事人救濟？",
+    "防制洗錢金融行動工作組織（FATF）標準是否應將濫用其機制進行跨國鎮壓列為不遵循事由？"
+   ],
+   "holding": "・與會者建議：篩查警示須人工覆核並交叉比對多個來源；建立對篩查紀錄與濫用外國指定的異議管道；保障基本帳戶使用權並為受害者提供救濟；金融情報單位建立辨識政治性資訊請求的程序，並討論以艾格蒙聯盟（Egmont Group）作為強化防護的管道。\n・LSEG：建議 World-Check 使用者進行獨立查核，不應只依賴其資料。\n・歐洲理事會議會（PACE）：曾促請 FATF 將濫用其標準進行跨國鎮壓列為不遵循事由。",
+   "significance": "資產凍結名單經由私人合規資料庫「外溢」到地主國金融體系，使跨國鎮壓不需地主國政府配合即可生效，是較少被討論的手段。後續注意 FATF 及歐盟反洗錢規範是否回應。",
+   "editorNote": "本網頁助理 註：報導刊登者 Turkish Minute 由國際記者協會（IJA）出版，IJA 即為本案凍結名單對象之一，屬利害關係方報導。報導稱會議於刊出前的「週四」舉行，本網頁助理據此推定事件日期為 2026 年 11 月 12 日。",
+   "tags": [
+    "跨國鎮壓",
+    "土耳其",
+    "比利時",
+    "資產凍結",
+    "居倫運動",
+    "記者",
+    "防制洗錢",
+    "歐洲理事會",
+    "流亡人士"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Turkish Minute 報導原文",
+     "url": "https://www.turkishminute.com/2026/11/13/turkeys-financial-repression-abroad-prompts-calls-for-banking-safeguards/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T23:57:59+08:00"
+  },
+  {
+   "id": "2026-11-13-tnr-hong-kong-watch-bundestag-briefing",
+   "court": "CN",
+   "kind": "倡議",
+   "caseId": "",
+   "jurisdiction": "德國",
+   "outlet": "香港監察（Hong Kong Watch）",
+   "outletCode": "",
+   "date": "2026-11-13",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "香港監察於德國聯邦議院簡報，指在德港人遭監控、網攻及家屬施壓，籲德國檢討香港經貿辦特權",
+   "shortTitle": "香港監察赴德國國會談跨國鎮壓",
+   "point": "籲檢討駐柏林香港經貿辦特權、制裁港中官員並要求釋放黎智英、黃之鋒等人",
+   "titleOriginal": "German Bundestag urged to take action on transnational repression, sanctions evasion and political prisoners",
+   "caseRef": "",
+   "tldr": "英國倡議團體香港監察到德國國會辦簡報，說住在德國的香港人遭到監視、網路攻擊，家人在香港也被當成施壓工具。團體建議德國重新檢討香港駐柏林經貿辦事處享有的特權，並對相關港中官員實施制裁。",
+   "memo": "依香港監察（Hong Kong Watch）2026 年 11 月 13 日發布之消息，該組織政策及倡議總監 Megan Khoo 於德國聯邦議院出席由 Freiheit für Hongkong e.V. 籌辦、議員 Boris Mijatović（綠黨）及 Johannes Volkmann（基民盟）主持之簡報會，指在德港人遭受監控、網路攻擊及以香港家屬為施壓手段之跨國鎮壓。該組織建議德國檢討香港駐柏林經濟貿易辦事處之特權並強化地方機關支援受害者之能力、對侵害香港公民自由之港府及中國官員實施針對性人權制裁，並要求無條件釋放黎智英、黃之鋒、鄒幸彤等政治犯。",
+   "context": "香港國安處對多名海外民主派人士發出通緝及懸紅，並曾拘捕或傳訊其在港家屬。德國是港人流亡者的主要居住地之一。\n英國曾於 2024 年起訴兩名被控協助香港情報機關的男子，該案涉及駐倫敦香港經貿辦人員，使各國對經貿辦角色的關注升高。",
+   "facts": [
+    "簡報會於德國聯邦議院以早餐會形式舉行，由 Freiheit für Hongkong e.V. 籌辦，議員 Boris Mijatović（綠黨）與 Johannes Volkmann（基民盟）主持；Samuel Bickett、黃台仰（Ray Wong）同台。",
+    "香港監察指在德港人遭受監控、網路攻擊，並有家屬在港被當作施壓槓桿。",
+    "簡報亦談及香港政治犯處境與香港遭利用規避國際制裁，稱香港對俄出口自俄烏全面戰爭以來約增一倍。",
+    "Megan Khoo 另會見德國政府官員、議員、智庫及公民團體，並出席柏林自由會議。",
+    "消息未載簡報會確切日期，亦未載德國政府或港府回應。"
+   ],
+   "issues": [
+    "外國駐地經貿辦事處享有的特權，地主國應如何在防範跨國鎮壓與維持經貿關係之間取捨？"
+   ],
+   "holding": "・香港監察建議：（一）視跨國鎮壓為嚴重威脅，檢討駐柏林香港經貿辦特權，並賦予地方機關支援受害者的能力；（二）對侵害香港公民自由的港府及中國官員實施針對性人權制裁；（三）促請無條件釋放黎智英、黃之鋒、鄒幸彤及其他政治犯。",
+   "significance": "繼英美之後，倡議團體將香港經貿辦議題帶進德國國會。後續注意德國聯邦議院或政府是否就經貿辦地位或制裁有所動作。",
+   "editorNote": "本網頁助理 註：本則依香港監察自行發布之消息，屬倡議團體說法；頁面網址日期為 11 月 12 日、頁面標示日期為 11 月 13 日，簡報會確切日期未載。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "香港",
+    "德國",
+    "家屬施壓",
+    "網路攻擊",
+    "監控",
+    "香港經貿辦",
+    "制裁"
+   ],
+   "related": [
+    "2026-11-10-tnr-ep-joint-delegations-tnr-meeting"
+   ],
+   "sources": [
+    {
+     "label": "香港監察消息原文",
+     "url": "https://www.hongkongwatch.org/all-posts/2026/11/12/german-bundestag-urged-to-take-action-on-transnational-repression-sanctions-evasion-and-political-prisoners",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T23:57:59+08:00"
+  },
+  {
+   "id": "2026-11-09-tnr-mekong-viet-tan-witnesses",
+   "court": "VN",
+   "kind": "調查報導",
+   "caseId": "viet-tan-cambodia-abduction",
+   "jurisdiction": "柬埔寨",
+   "outlet": "Mekong Independent",
+   "outletCode": "",
+   "date": "2026-11-09",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "《湄公獨立報》訪柬埔寨波羅勉省村民，稱目擊外籍人士遭毆打押上廂型車，與越南稱越新黨成員「非法入境」被捕說法相左",
+   "shortTitle": "柬村民稱目擊越新黨成員遭擄",
+   "point": "村民稱 9 月見數人遭毆打押上車，機車隊往越南邊境檢查站方向離去",
+   "titleOriginal": "Cambodian citizens recall an abduction amid questions about Vietnam’s arrest of activists",
+   "caseRef": "",
+   "tldr": "越南說三名越新黨成員是非法入境越南才被抓，但《湄公獨立報》到柬埔寨波羅勉省訪問村民，有人說 9 月看到幾個外國人在鄉間路上被打、被推上廂型車，機車隊往越南邊境方向走。證人都是匿名，柬埔寨地方官員多未證實有擄人事件。",
+   "memo": "依《湄公獨立報》（Mekong Independent）2026 年 11 月 9 日報導，該報於同年 10 月 31 日在柬埔寨波羅勉省訪問村民，有匿名證人稱 2026 年 9 月目擊數名疑似外籍人士於鄉間道路遭毆打並被押上廂型車，機車隨後往越柬邊境 Banteay Chakrei 檢查站方向離去。越南公安部稱挪威籍 Nguyen Duc Thuan、澳洲籍 Tran Hiep 及 Thai Cong Truong Son 係非法入境並意圖從事恐怖破壞活動而被捕；柬埔寨內政部否認逮捕或移交三人。證人陳述未經獨立證實，地方官員多未確認擄人事件。",
+   "context": "越新黨（Viet Tan）為海外越南人民主團體，越南將其列為恐怖組織。2026 年 9 月下旬，三名越新黨成員在柬埔寨失聯，越南公安部 9 月 28 日宣布在越南境內逮捕三人。家屬與人權團體稱此為跨國鎮壓，三人並無進入越南的打算。\n挪威已於 10 月 16 日進行領事探視；澳洲外交貿易部表示正向越南交涉。",
+   "facts": [
+    "依報導，記者於 10 月 31 日在波羅勉省採訪；三名受訪者均匿名：一名男子轉述其兄在 Por 村路旁目擊、一名附近小店店主、一名地方官員。",
+    "證人稱 9 月某日見兩輛類似現代 Starex 的廂型車與數輛機車，數名疑似外國人遭毆打並被押上車；機車往南朝 Banteay Chakrei 越柬邊境檢查站方向，廂型車往北。",
+    "證人稱警方次日到場，附近監視器未拍向道路；一名證人說「沒人敢靠近」。",
+    "柬埔寨內政部 10 月 7 日聲明否認逮捕或移交三人，稱澳洲 9 月 22 日請求協助，出入境紀錄顯示兩人未離開柬埔寨，並援引越南說法。內政部發言人未回應該報詢問。",
+    "Tran Hiep 在領事訊息中稱並非自行進入越南，並述及心理創傷及血壓不穩。",
+    "報導稱一家挪威律師事務所已以強迫失蹤向警方報案，國際律師團 Doughty Street Chambers 正循聯合國與歐洲機制處理；聯合國人權事務高級專員辦事處曾就 Preah Sdach 區的事件查詢。",
+    "報導稱澳洲參議院官員表示已收到五份證人證詞但尚未審閱。"
+   ],
+   "issues": [
+    "若三人確於柬埔寨境內遭擄至越南，柬埔寨作為所在國是否違反防止強迫失蹤及不遣返義務？",
+    "越南以「非法入境」逮捕之說法與目擊證詞衝突，國際機制如何查明事實？"
+   ],
+   "holding": "・證人：稱 9 月目擊數名外國人在鄉間道路遭毆打押上車，車隊分往越南邊境與北方離去。\n・越南：維持三人非法入境、持偽造文件並意圖從事恐怖破壞活動之說法。\n・柬埔寨：否認逮捕或移交，並稱出入境紀錄顯示兩人未離境。\n・報導：證人均匿名，地方官員多未證實擄人事件。",
+   "significance": "這是首批公開的現場目擊陳述，若獲證實，將與越南「非法入境」說法正面衝突，並使柬埔寨角色受檢視。後續注意聯合國機制調查、澳洲參議院審閱證詞及越南審判進度。",
+   "editorNote": "本網頁助理 註：本則於 11 月 9 日刊出、10 日更新，前次更新時未收錄，本次補列。證人陳述均匿名且未經獨立證實；報導稱目擊地點在波羅勉省，與先前報導所稱茶膠省不同。",
+   "tags": [
+    "跨國鎮壓",
+    "越南",
+    "柬埔寨",
+    "越新黨",
+    "擄人",
+    "強迫失蹤",
+    "澳洲",
+    "挪威"
+   ],
+   "related": [
+    "2026-10-23-tnr-viet-tan-consular-access",
+    "2026-10-13-tnr-hrw-vietnam-viet-tan"
+   ],
+   "sources": [
+    {
+     "label": "湄公獨立報調查報導原文",
+     "url": "https://mekongindependent.com/2026/11/cambodian-citizens-recall-an-abduction-amid-questions-about-vietnams-arrest-of-activists/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T23:57:59+08:00"
   }
  ],
  "agenda": [
