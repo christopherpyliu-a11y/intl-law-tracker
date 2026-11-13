@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-13T23:44:05+08:00",
-  "lastRunLocal": "2026-11-13 23:44",
+  "lastRun": "2026-11-14T07:09:04+08:00",
+  "lastRunLocal": "2026-11-14 07:09",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：ICC 1（Mudacumura 案終止）、Opinio Juris 評論 1"
+  "lastRunNote": "新增 2 則：ICC 1（終結阿富汗調查涉美軍部分）、EJIL 評論 1"
  },
  "items": [
   {
@@ -1725,7 +1725,11 @@
      "official": false
     }
    ],
-   "addedAt": "2026-10-14T12:30:00+08:00"
+   "addedAt": "2026-10-14T12:30:00+08:00",
+   "related": [
+    "2026-11-13-icc-afghanistan-part-closed",
+    "2026-11-13-ejil-afghanistan-split-oversight"
+   ]
   },
   {
    "id": "2026-10-02-oj-iran-strikes-kurdish-parties",
@@ -7347,6 +7351,155 @@
    "related": [
     "2026-11-11-oj-pop-culture-symposium-ihl-genocide"
    ]
+  },
+  {
+   "id": "2026-11-13-icc-afghanistan-part-closed",
+   "court": "ICC",
+   "kind": "裁定",
+   "caseId": "icc-afghanistan",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-12",
+   "importance": 3,
+   "title": "ICC 法官終結阿富汗調查中可能涉及美軍與伊斯蘭國呼羅珊省的部分，調查僅留塔利班 2021 年後罪行；檢方已提起上訴",
+   "shortTitle": "ICC 終結阿富汗調查涉美軍部分",
+   "point": "法官以檢方取證能力受重大限制為由結案，塔利班部分另案進行，四張逮捕令仍有效",
+   "titleOriginal": "Situation in the Islamic Republic of Afghanistan – decision closing part of the investigation (as reported by Reuters and AP)",
+   "caseRef": "ICC-02/17；ICC-02/26",
+   "tldr": "國際刑事法院的法官決定結束阿富汗調查中原本可能調查美軍、以及伊斯蘭國分支「呼羅珊省」的部分，只保留對塔利班 2021 年重新掌權後罪行的調查。檢察官辦公室表示已經上訴。對四名塔利班高層的逮捕令不受影響。",
+   "memo": "國際刑事法院法官於 2026 年 11 月 12 日就阿富汗情勢作成決定，終結原阿富汗調查中涉及美軍及伊斯蘭國呼羅珊省之部分，僅保留塔利班 2021 年以後罪行之調查，並另立情勢處理；理由為檢方進行調查及取得證據之能力受有重大限制，且未能證明可於塔利班部分以外有效調查。對四名塔利班領導人之逮捕令仍屬有效。檢察官辦公室已提起上訴，上訴分庭另就本年 7 月分案裁定之上訴定有書狀期限。",
+   "context": "阿富汗於 2003 年加入《羅馬規約》。檢方 2017 年聲請調查，第二預審分庭 2019 年以不符「司法利益」駁回，上訴分庭 2020 年改為授權調查，範圍包括阿富汗政府軍、塔利班、美軍及美國情報人員自 2002 年以來的行為。2021 年檢方宣布優先調查塔利班與伊斯蘭國呼羅珊省，而「不再優先」處理涉及美國的部分；2024 年六國另行提交情勢。\n2026 年 7 月 15 日，第二預審分庭以「司法監督」為據，命檢方就六國提交另行開啟調查；9 月 3 日命檢方遵行，院長會議其後將新情勢「阿富汗二」（ICC-02/26）分配予同一分庭，11 月 5 日並命將包括逮捕令在內的卷證移轉至新情勢。10 月 5 日法院已公開四名塔利班高層的性別迫害逮捕令（見本站另則）。",
+   "facts": [
+    "據 Reuters 與 AP 於 11 月 13 日報導，國際刑事法院法官作成決定，正式終結阿富汗調查中可能涉及美軍、自 2021 年起即處於停滯的部分，以及對伊斯蘭國呼羅珊省的調查。",
+    "決定理由據 AP 引述為檢方「進行調查及取得證據的能力受到重大限制」；Reuters 則稱法官認為檢方未證明能在塔利班調查以外有效調查阿富汗相關指控。",
+    "調查僅保留塔利班 2021 年以後的罪行，並分為另一獨立調查；對四名塔利班領導人的逮捕令維持有效。",
+    "檢察官辦公室向 Reuters 與 AP 表示已就該決定提起上訴，未說明細節。",
+    "另據 EJIL:Talk! 評論，檢方已於 11 月 11 日就 7 月 15 日分案裁定、9 月 3 日遵行命令及 11 月 5 日卷證移轉決定提起上訴；上訴分庭邀請被害人代理人、被害人公設律師辦公室及六個提交國於 12 月 3 日前提出書狀，檢方答辯期限為 12 月 17 日。"
+   ],
+   "issues": [
+    "預審分庭得否以「司法監督」為由，命檢方分立調查或終結部分調查（《羅馬規約》第 15 條、第 18 條、第 53 條）。",
+    "檢方調查裁量權與預審分庭監督權限的界線。",
+    "既有逮捕令於分案後的歸屬及效力（第 19 條第 2 項第 a 款管轄權異議之可能）。"
+   ],
+   "holding": "據報導，法官認定檢方在阿富汗調查中，除塔利班部分外，調查及取證能力受有重大限制，因而終結涉及美軍與伊斯蘭國呼羅珊省的部分，僅保留塔利班 2021 年以後罪行並另案處理；四名塔利班領導人的逮捕令不受影響。\n報導未載明作成決定的分庭名稱與表決情形，決定全文截至本則撰寫時未見於法院網站。\n檢察官辦公室已表示上訴。美國目前對法院及 13 名現任與前任人員實施制裁，報導指出此決定能否緩和美方壓力仍不明。",
+   "significance": "此為法院首次正式結束可能涉及美國人員的調查路線，與美國對法院制裁的背景高度相關，但並不改變《羅馬規約》下法院對締約國領域內犯罪的管轄權。預審分庭與檢方對阿富汗調查範圍的爭執將由上訴分庭處理，被害人與提交國書狀期限為 12 月 3 日，檢方答辯期限為 12 月 17 日。",
+   "editorNote": "本網頁助理 註：本則依 Reuters（經 Defense News 轉載）與 AP 報導撰寫，未能取得法院決定全文或官方新聞稿；裁判日期 11 月 12 日係依 AP「週四作成、週五公布」推算。兩則報導對理由的表述略有不同，已分別列出。檢方所稱「已上訴」究係針對本次結案決定或先前的分案決定，報導未說明；上訴分庭書狀期限係依 EJIL:Talk! 評論轉述。",
+   "tags": [
+    "國際刑事法院",
+    "阿富汗",
+    "美國",
+    "塔利班",
+    "預審分庭",
+    "上訴分庭",
+    "第53條",
+    "司法監督",
+    "伊斯蘭國呼羅珊省",
+    "美國制裁"
+   ],
+   "sources": [
+    {
+     "label": "ICC 法院紀錄：阿富汗二情勢分配決定（ICC-02/26-1-Red）",
+     "url": "https://www.icc-cpi.int/court-record/icc-02/26-1-red",
+     "official": true
+    },
+    {
+     "label": "ICC 法院紀錄：第二預審分庭遵行命令（ICC-02/17-241）",
+     "url": "https://www.icc-cpi.int/court-record/icc-02/17-241",
+     "official": true
+    },
+    {
+     "label": "Reuters 報導（Defense News 轉載）",
+     "url": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/",
+     "official": false
+    },
+    {
+     "label": "AP 報導（WRAL 轉載）",
+     "url": "https://wral.com/news/ap/866be-international-criminal-court-limits-afghanistan-investigation-to-taliban-crimes",
+     "official": false
+    },
+    {
+     "label": "EJIL:Talk! 評論",
+     "url": "https://www.ejiltalk.org/splitting-the-iccs-afghanistan-investigation-judicial-oversight-or-overreach/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T07:09:04+08:00",
+   "related": [
+    "2026-10-05-icc-afghanistan-warrants",
+    "2026-11-13-ejil-afghanistan-split-oversight"
+   ]
+  },
+  {
+   "id": "2026-11-13-ejil-afghanistan-split-oversight",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "icc-afghanistan",
+   "date": "2026-11-13",
+   "eventDate": "",
+   "importance": 2,
+   "title": "作者認為 ICC 預審分庭以「司法監督」命檢方分立阿富汗調查欠缺法律依據，且未先聽取意見、使逮捕令地位不明",
+   "shortTitle": "ICC 拆分阿富汗調查是否越權",
+   "point": "作者認為預審分庭援引的條文都不支持分案，未聽取各方意見即裁定亦損及程序正當",
+   "titleOriginal": "Splitting the ICC's Afghanistan Investigation: Judicial Oversight or Overreach?",
+   "caseRef": "ICC-02/17；ICC-02/26",
+   "tldr": "國際刑事法院的預審法官今年要求檢察官把阿富汗調查拆成兩案：一案專查塔利班 2021 年後的行為，另一案是原本的調查。兩位作者認為，法官找不到條文授權這麼做，也沒有先讓檢方、被害人表示意見，而且已發出的塔利班逮捕令究竟屬於哪一案也說不清楚。檢方已上訴，作者歡迎上訴分庭處理。",
+   "memo": "Miles Jackson（牛津大學）與 Priya Urs（倫敦大學學院）於 EJIL:Talk! 撰文主張，國際刑事法院第二預審分庭 2026 年 7 月 15 日以司法監督為由，命檢方就六國提交另行開啟阿富汗調查，其所援引之規約條文均不足以支持該決定，固有權限亦須更充分之論證；分庭未先聽取各方意見即作成具重大影響之決定，有違程序正當，且四張塔利班領導人逮捕令於分案後之歸屬未予釐清，可能引發第 19 條第 2 項第 a 款之管轄權異議。作者歡迎上訴分庭審理檢方上訴。",
+   "context": "阿富汗調查自 2017 年檢方聲請起即多次在預審分庭與上訴分庭間反覆：2019 年預審分庭駁回，2020 年上訴分庭授權；2021 年檢方優先調查塔利班與伊斯蘭國呼羅珊省，2024 年六國另行提交情勢。\n2026 年 7 月 15 日預審分庭命檢方分立調查，9 月 3 日命其遵行，院長會議將「阿富汗二」情勢分配予同一分庭，11 月 5 日命移轉卷證；11 月 12 日法官另決定終結原調查中涉及美軍與伊斯蘭國的部分（見本站另則）。",
+   "facts": [
+    "2026 年 7 月 15 日，第二預審分庭秘密作成決定，命檢方如認為仍符合第 53 條第 1 項，應就 2024 年六國提交另行開啟調查，理由為塔利班 2021 年後的行為發生於不同脈絡且與武裝衝突無關。",
+    "檢方於 8 月 6 日聲請澄清或重新考量；分庭於 9 月 3 日不予受理並命其遵行，同時確認四張逮捕令「有效核發且仍有效」。",
+    "院長會議其後將第二個情勢分配予第二預審分庭，Ibáñez Carranza 法官提出不同意見（尚未公開）；11 月 5 日分庭命將包括逮捕令在內的卷證移轉至「阿富汗二」情勢。",
+    "檢方於 11 月 11 日就上述決定提起上訴，上訴分庭邀請被害人代理人、被害人公設律師辦公室及六個提交國於 12 月 3 日前提出書狀，檢方答辯期限為 12 月 17 日。"
+   ],
+   "issues": [
+    "預審分庭得否以司法監督或固有權限，命檢方分立調查（《羅馬規約》第 15 條第 4 項、第 18 條第 2 項、第 53 條）。",
+    "授權調查之範圍：須與武裝衝突有關聯，或僅須與授權情勢相關。",
+    "分案後既有逮捕令之歸屬與第 19 條第 2 項第 a 款管轄權異議。",
+    "未經當事人表示意見即作成重大程序決定之正當性。"
+   ],
+   "holding": "・作者指出，逮捕令涉及的性別迫害問題雖受關注，其周邊程序發展卻少有討論。\n・作者認為 7 月 15 日決定可議：分庭以塔利班 2021 年後行為與武裝衝突無關為由要求分案，但上訴分庭過去對調查範圍採較寬鬆見解，只要求與衝突有關聯。\n・作者指出預審分庭過去即曾依第 15 條第 4 項與第 18 條第 2 項試圖限縮阿富汗調查，此次延續相同傾向。\n・作者認為分庭援引的條文都不支持其決定，若訴諸固有權限，則須更充分的論證，且固有權限並非沒有界限。\n・作者指出分庭只把逮捕令定性為「附隨」而確認有效，卻未說明其與新舊情勢的關係，可能招致第 19 條第 2 項第 a 款的管轄權異議。\n・作者批評分庭未先聽取各方意見即作成影響其他情勢與法院一致性的決定；並提到公民社會聯盟質疑分案如何有利於被害人，擔心較早期罪行更遭邊緣化。\n・作者歡迎檢方上訴及上訴分庭邀請各方表示意見。",
+   "significance": "作者結論：法院各機關均應一致適用規約，程序規律性是法院正當性的基礎；上訴分庭即將作成的裁判，將影響預審分庭與檢方之間的權限平衡。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。本網頁助理 註：本文發表時似未討論 11 月 12 日終結部分調查的決定；本站另則已依新聞報導整理該決定。",
+   "tags": [
+    "國際刑事法院",
+    "阿富汗",
+    "塔利班",
+    "預審分庭",
+    "上訴分庭",
+    "司法監督",
+    "第53條",
+    "逮捕令",
+    "性別迫害"
+   ],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/splitting-the-iccs-afghanistan-investigation-judicial-oversight-or-overreach/",
+     "official": false
+    },
+    {
+     "label": "ICC 法院紀錄：第二預審分庭遵行命令（ICC-02/17-241）",
+     "url": "https://www.icc-cpi.int/court-record/icc-02/17-241",
+     "official": true
+    },
+    {
+     "label": "ICC 法院紀錄：阿富汗二情勢分配決定（ICC-02/26-1-Red）",
+     "url": "https://www.icc-cpi.int/court-record/icc-02/26-1-red",
+     "official": true
+    },
+    {
+     "label": "ICC 新聞稿：公開四張逮捕令",
+     "url": "https://www.icc-cpi.int/news/icc-pre-trial-chamber-ii-unseals-four-arrest-warrants-situation-afghanistan",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-14T07:09:04+08:00",
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "author": "Miles Jackson（牛津大學）、Priya Urs（倫敦大學學院）",
+   "related": [
+    "2026-11-13-icc-afghanistan-part-closed",
+    "2026-10-05-icc-afghanistan-warrants"
+   ]
   }
  ],
  "agenda": [
@@ -7572,6 +7725,26 @@
    "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/",
    "relatedId": "2026-11-11-itlos-argentina-uk-order-date",
    "caseId": "argentina-v-uk-sea-lion"
+  },
+  {
+   "id": "2026-12-03-icc-afghanistan-appeal-observations",
+   "date": "2026-12-03",
+   "court": "ICC",
+   "title": "阿富汗分案上訴：被害人與提交國書狀期限",
+   "note": "上訴分庭邀請被害人代理人、被害人公設律師辦公室及六個提交國提出書狀（依 EJIL:Talk! 轉述）",
+   "url": "https://www.ejiltalk.org/splitting-the-iccs-afghanistan-investigation-judicial-oversight-or-overreach/",
+   "relatedId": "2026-11-13-ejil-afghanistan-split-oversight",
+   "caseId": "icc-afghanistan"
+  },
+  {
+   "id": "2026-12-17-icc-afghanistan-appeal-response",
+   "date": "2026-12-17",
+   "court": "ICC",
+   "title": "阿富汗分案上訴：檢方答辯期限",
+   "note": "檢方就各方書狀提出答辯（依 EJIL:Talk! 轉述）",
+   "url": "https://www.ejiltalk.org/splitting-the-iccs-afghanistan-investigation-judicial-oversight-or-overreach/",
+   "relatedId": "2026-11-13-ejil-afghanistan-split-oversight",
+   "caseId": "icc-afghanistan"
   }
  ],
  "archives": [],
@@ -7669,11 +7842,11 @@
    "type": "案件",
    "court": "ICC",
    "forum": "國際刑事法院",
-   "name": "阿富汗情勢（塔利班領導人逮捕令）",
+   "name": "阿富汗情勢（塔利班逮捕令與調查分案）",
    "nameOriginal": "Situation in the Islamic Republic of Afghanistan",
-   "caseRef": "ICC-02/17",
-   "summary": "第二預審分庭以性別迫害（危害人類罪）對四名塔利班高層發出逮捕令。",
-   "status": "逮捕令已於 2026 年 10 月公開。"
+   "caseRef": "ICC-02/17；ICC-02/26",
+   "summary": "第二預審分庭以性別迫害（危害人類罪）對四名塔利班高層發出逮捕令，並命檢方將塔利班 2021 年後罪行另立「阿富汗二」情勢調查。",
+   "status": "法官於 2026 年 11 月 12 日終結涉及美軍與伊斯蘭國的調查部分，檢方已上訴，上訴分庭書狀期限為 12 月 3 日與 17 日。"
   },
   {
    "id": "us-sanctions-icc",
