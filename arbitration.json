@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-13T07:01:22+08:00",
-  "lastRunLocal": "2026-11-13 07:01",
+  "lastRun": "2026-11-13T23:58:30+08:00",
+  "lastRunLocal": "2026-11-13 23:58",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 1 則：投資仲裁 1（案件動態 1）",
+  "lastRunNote": "新增 3 則：商務仲裁 2（法院裁判 1、評論 1）、投資仲裁 1（案件動態 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -7002,7 +7002,9 @@
     "新加坡",
     "機構規則"
    ],
-   "related": [],
+   "related": [
+    "2026-11-12-arb-kab-crystal-optech-ea-power"
+   ],
    "sources": [
     {
      "label": "CIETAC 緊急仲裁員程序條款釋義（官網）",
@@ -7760,6 +7762,207 @@
     }
    ],
    "addedAt": "2026-11-13T07:01:22+08:00"
+  },
+  {
+   "id": "2026-11-12-arb-kab-crystal-optech-ea-power",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "新加坡",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-11-12",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Tereza Gao（Arnold & Porter Kaye Scholer LLP）",
+   "title": "新加坡法院拒絕執行 CIETAC 緊急仲裁人判斷的啟示：機構規則有程序，不等於仲裁人有權限",
+   "shortTitle": "CIETAC 緊急仲裁人有程序卻無權限？",
+   "point": "作者指出權限來源取決於仲裁地法與當事人約定，起草仲裁條款時就應處理",
+   "titleOriginal": "Emergency Relief Without the Power to Grant It? Lessons from Zhejiang Crystal-Optech",
+   "caseRef": "[2026] SGHC 186",
+   "tldr": "一件以中國大陸為仲裁地的 CIETAC 緊急仲裁，緊急仲裁人命新加坡當事人暫不得領取清算分配款，但新加坡高等法院以緊急仲裁人依中國法根本沒有這項權力為由，撤銷了在新加坡執行的許可。作者藉此提醒：仲裁規則裡有緊急仲裁程序，不代表仲裁人在每個仲裁地都真的有權下令。",
+   "memo": "Tereza Gao 於 Kluwer Arbitration Blog 撰文指出，新加坡高等法院於 Zhejiang Crystal-Optech v Moveon 案（[2026] SGHC 186）認定，以中國大陸為仲裁地之 CIETAC 緊急仲裁人依中國仲裁法並無核發保全措施之權限，當事人亦未另行明示授權，僅依規則第 4 條第 2 款視為接受 CIETAC 規則尚有不足，故該判斷逾越提付仲裁範圍，依國際仲裁法第 31 條第 2 項 (d) 款拒絕執行；作者主張執行地法僅決定措施可否執行而不能創設權限，機構規則亦非仲裁地法，當事人應於起草仲裁協議及選擇仲裁地時即處理緊急救濟權限之來源。",
+   "context": "本案仲裁協議約定由 CIETAC 上海分會仲裁，仲裁地在中國大陸，適用 2024 年 CIETAC 仲裁規則；該規則第 23 條第 2 款規定緊急仲裁人得「依所適用之法律或當事人約定」採取緊急措施。\n依作者說明，中國法將財產、證據及行為保全權限賦予法院；2021 年仲裁法修正草案原擬授權仲裁庭採取臨時措施，但 2025 年 9 月 12 日公布、2026 年 3 月 1 日施行之修正仲裁法刪除相關條文。\n本站先前已收錄 CIETAC 回應本判決所發布之緊急仲裁人條款釋義。",
+   "facts": [
+    "中國申請人與新加坡相對人間之 CIETAC 緊急仲裁中，緊急仲裁人命相對人在主爭議解決前，不得就其對雙方新加坡合資公司約 1,980 萬新加坡元之債權受領清算分配款。",
+    "申請人取得依新加坡國際仲裁法在新加坡執行該臨時判斷之許可；經相對人聲請，新加坡高等法院撤銷該執行許可。",
+    "法院認定該臨時判斷屬國際仲裁法所稱之仲裁判斷，並駁回相對人有關正當程序、可仲裁性及公共政策之抗辯，但認定緊急仲裁人無權核發該措施。"
+   ],
+   "issues": [
+    "當事人得否以約定賦予仲裁人仲裁地法未賦予之權限；CIETAC 規則第 23 條第 2 款「所適用之法律」係指仲裁地法或執行地法。",
+    "單純約定適用機構規則（CIETAC 規則第 4 條第 2 款）是否構成授權緊急仲裁人之「當事人約定」。",
+    "逾越權限之緊急仲裁人判斷，得否依新加坡國際仲裁法第 31 條第 2 項 (d) 款拒絕執行。"
+   ],
+   "holding": "・依作者整理，法院認為「所適用之法律」係指中國仲裁地法，而非執行地新加坡法；CIETAC 規則本身之效力來自當事人合意，不能作為「所適用之法律」。\n・視為接受規則不足以構成授權之約定，否則第 23 條第 2 款另列「當事人約定」即屬多餘；法院並保留明示約定能否創設仲裁地法未賦予之權限、強制規定是否構成障礙，以及境外仲裁地之 CIETAC 案件是否不同等問題。\n・作者認為，問題不在於措施屬緊急性質，而在於緊急仲裁人欠缺權限；執行地法只能決定措施能否在該地執行，無從決定仲裁人有無權限。\n・作者指出，修法刪除仲裁庭臨時措施條文，被法院解讀為刻意之政策選擇；仲裁地法未規定不必然排除當事人自治，但強制性限制則可能構成障礙。\n・作者結論：機構程序之存在，並不證明仲裁人有使用該程序之法律權限，而此一落差往往到境外執行時才浮現。",
+   "significance": "作者建議：起草仲裁協議及選擇仲裁地時即應確認緊急救濟權限之來源，不宜假設選用含緊急仲裁人條款之機構規則，即可在任何仲裁地取得權限；並應同時考量執行地及明示授權之範圍。以中國大陸為仲裁地、需在境外執行臨時措施之當事人，宜評估改向法院聲請保全或選擇其他仲裁地。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：判決內容依作者所述整理，本網頁助理未另行取得判決原文；作者未提及 CIETAC 就本判決發布之釋義。",
+   "tags": [
+    "緊急仲裁人",
+    "臨時措施",
+    "CIETAC",
+    "新加坡",
+    "中國",
+    "仲裁地法",
+    "承認與執行",
+    "國際仲裁法"
+   ],
+   "related": [
+    "2026-10-15-arb-cietac-emergency-arbitrator-interpretation"
+   ],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 評論",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/emergency-relief-without-the-power-to-grant-it-lessons-from-zhejiang-crystal-optech/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T23:58:30+08:00"
+  },
+  {
+   "id": "2026-11-12-arb-aifc-ca-naftogaz-posco-foreign-awards",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "naftogaz-v-gazprom-icc",
+   "jurisdiction": "哈薩克",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-12",
+   "eventDate": "2026-11-12",
+   "importance": 2,
+   "author": "",
+   "title": "阿斯塔納國際金融中心上訴法院駁回 Naftogaz 與 Posco 的上訴，外國仲裁判斷不得藉特區法院執行哈薩克境內其他資產",
+   "shortTitle": "AIFC 上訴法院駁回 Naftogaz、Posco 執行上訴",
+   "point": "外國仲裁判斷原則上可在特區內執行，但不能據以追及哈薩克其他地區的資產",
+   "titleOriginal": "Naftogaz of Ukraine v. Gazprom; Posco Co. Ltd. v. RSE National Centre for Complex Processing of Mineral Raw Materials of the Republic of Kazakhstan — AIFC Court of Appeal",
+   "caseRef": "AIFC-C/CFI/2026/0002；AIFC-C/CA/2026/0035",
+   "tldr": "烏克蘭 Naftogaz 對俄羅斯 Gazprom 取得約 14 億美元的 ICC 判斷，韓國 Posco 也對哈薩克國營企業取得 ICC 判斷，兩者都想透過哈薩克首都的國際金融中心法院執行。上訴法院認為，外國判斷原則上可以在這個金融特區內執行，但不能拿來查封特區以外、哈薩克其他地方的財產，兩家公司的上訴都沒有成功。",
+   "memo": "阿斯塔納國際金融中心（AIFC）上訴法院就 Naftogaz 對 Gazprom 及 Posco 對哈薩克國營企業「國家礦物原料綜合加工中心」二件 ICC 仲裁判斷之承認與執行上訴案作成判決，駁回二公司之請求，認為以外國為仲裁地之仲裁判斷原則上得於 AIFC 特區內執行，惟不得據以執行哈薩克境內特區以外之資產。",
+   "context": "AIFC 法院為哈薩克阿斯塔納國際金融中心之特區法院，適用英國普通法原則。\nNaftogaz 案：ICC 仲裁（Case No. 27245/GL/DTI）於 2025 年 6 月 16 日作成判斷，仲裁地在瑞士，命 Gazprom 給付本金、利息及費用；依 Koch Boës 整理，執行命令金額約 11.3 億美元，媒體則多稱約 14 億美元。AIFC 第一審法院於 2026 年 5 月 15 日在 Gazprom 未參與下准予承認與執行，哈薩克司法部長隨即表示政府不會執行，第一審嗣於 7 月撤銷該命令。\nPosco 案：ICC 終局判斷於 2022 年 10 月 28 日在蘇黎世作成，源於 2013 年 Posco 對哈薩克國營企業之 2,500 萬美元貸款；AIFC 第一審法院於 2026 年 5 月下旬認定無管轄權而駁回，並於 7 月 15 日以第一審見解分歧為由准許上訴。\n兩件上訴於 2026 年 9 月 30 日由三名法官組成之上訴庭合併審理，為 AIFC 上訴法院首次以三人合議庭開庭。",
+   "facts": [
+    "Naftogaz 依 ICC 判斷聲請 AIFC 法院承認與執行，第一審原准許後又撤銷承認命令。",
+    "Posco 依 ICC 判斷聲請 AIFC 法院承認與執行，第一審以無管轄權駁回。",
+    "二案上訴同時於 2026 年 9 月 30 日審理；上訴判決依 IAReporter 文件資料作成於 2026 年 11 月 12 日。"
+   ],
+   "issues": [
+    "AIFC 法院就與特區無連結之外國仲裁判斷，是否有承認與執行之管轄權。",
+    "經 AIFC 法院承認之外國仲裁判斷，得否據以執行特區以外之哈薩克境內資產。"
+   ],
+   "holding": "依 GAR 報導摘要，上訴法院駁回 Naftogaz 與 Posco 執行二件 ICC 判斷之請求，認為外國仲裁地之判斷原則上可於 AIFC 特區內執行，但不得用以追及哈薩克其他地區之資產。判決理由細節尚待取得全文。",
+   "significance": "本判決統一第一審就 AIFC 法院承認外國仲裁判斷權限之歧異見解，限縮其作為對特區外資產執行之管道，對選擇 AIFC 作為在中亞執行仲裁判斷之管道影響重大；Naftogaz 仍在其他法域對 Gazprom 尋求執行。",
+   "editorNote": "本網頁助理 註：本則依 GAR 報導摘要（全文需訂閱）撰寫，並參考 Koch Boës、Monckton Chambers 及媒體報導之背景，尚未取得上訴判決原文；判決日期係依 IAReporter 文件下載區所載。Naftogaz 判斷金額各來源不一（約 11.3 億至 14 億美元）。本案為 Naftogaz 與 Gazprom 之商務仲裁判斷，與 Naftogaz 依投資協定對俄羅斯之克里米亞資產案（PCA Case No. 2017-16）不同。",
+   "tags": [
+    "AIFC",
+    "哈薩克",
+    "承認與執行",
+    "ICC",
+    "外國仲裁判斷",
+    "管轄權",
+    "Naftogaz",
+    "Gazprom",
+    "烏克蘭",
+    "俄羅斯",
+    "韓國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "AIFC 第一審法院 Naftogaz 案判決（2026 年 5 月，PDF）",
+     "url": "https://court.aifc.kz/wp-content/uploads/2026/05/AIFC-Court-Case-No.-2-of-2026-Judgment-and-Order_ENG.pdf",
+     "official": true
+    },
+    {
+     "label": "AIFC 法院 Posco 案准許上訴裁定（2026 年 7 月 15 日，PDF）",
+     "url": "https://court.aifc.kz/wp-content/uploads/2026/07/AIFC-Court-Case-No.-35-of-2026-Order-ENG.pdf",
+     "official": true
+    },
+    {
+     "label": "GAR 報導",
+     "url": "https://globalarbitrationreview.com/article/aifc-appeal-court-rules-enforcement-of-foreign-awards",
+     "official": false
+    },
+    {
+     "label": "Monckton Chambers 上訴審理說明",
+     "url": "https://www.monckton.com/drew-holiner-appears-for-naftogaz-in-us1-4-billion-aifc-court-appeal/",
+     "official": false
+    },
+    {
+     "label": "Koch Boës 第一審判決分析",
+     "url": "https://kdb.legal/en/aifc-court-at-a-crossroads-naftogaz-v-gazprom-posco-v-national-centre-and-the-limits-of-recognition-jurisdiction/",
+     "official": false
+    },
+    {
+     "label": "RBC-Ukraine 報導（第一審撤銷承認命令）",
+     "url": "https://newsukraine.rbc.ua/news/kazakhstan-court-overturns-ruling-on-1-4-1783535262.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T23:58:30+08:00"
+  },
+  {
+   "id": "2026-11-12-arb-gas-welding-v-equatorial-guinea-claim",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "gas-welding-v-equatorial-guinea",
+   "jurisdiction": "",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-12",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "西班牙工業氣體業者 Gases & Welding 及其創辦人對赤道幾內亞提起條約仲裁，指控液化石油氣事業遭徵收",
+   "shortTitle": "西班牙氣體業者對赤道幾內亞提起條約仲裁",
+   "point": "指控合資的液化石油氣配送事業遭無償徵收，創辦人並遭當地法院判刑",
+   "titleOriginal": "Daniel Gómez López and Gases & Welding S.L. v. Republic of Equatorial Guinea",
+   "caseRef": "",
+   "tldr": "一家在赤道幾內亞經營工業氣體廠二十多年的西班牙公司和它的創辦人，正式依投資條約對赤道幾內亞提起仲裁，主張政府無償奪走了他們參與的液化石油氣事業，創辦人還被當地法院判刑。",
+   "memo": "西班牙 Gases & Welding S.L. 及其創辦人 Daniel Gómez López 於 2026 年 11 月對赤道幾內亞提起投資條約仲裁，依報導採 UNCITRAL 仲裁規則，主張其與國營 Sonagás 合資經營之液化石油氣儲存及配送事業遭無償徵收，並就創辦人遭當地法院判刑一事提出請求；求償金額未公開。",
+   "context": "依 PBX International Law 說明，Gases & Welding 於 2004 年在赤道幾內亞設立該國第一座空氣分離廠，生產工業及醫療用液態氧、氮；其後應政府邀請與國營 Sonagás S.A. 合資成立 Gas Guinea S.A.，經營液化石油氣之儲存、裝瓶與配送，經營二十餘年後遭無償徵收。PBX 並指出爭議依西班牙—赤道幾內亞雙邊投資協定處理，2026 年年中仍在友好協商期間。\nGAR 於 2026 年 4 月報導該公司以條約求償相威脅。",
+   "facts": [
+    "IAReporter 於 2026 年 11 月 9 日報導西班牙投資人已提起 UNCITRAL 仲裁；GAR 於 11 月 12 日報導申請人已依先前通知提出條約求償。",
+    "依 GAR 摘要，請求涉及天然氣配送事業之徵收，以及創辦人遭當地法院刑事定罪。"
+   ],
+   "issues": [
+    "赤道幾內亞之措施是否構成徵收，以及刑事追訴是否違反雙邊投資協定之待遇義務（具體條款尚未公開）。"
+   ],
+   "holding": "",
+   "significance": "案件處於仲裁初期，仲裁庭組成、仲裁機構及求償金額尚未公開；赤道幾內亞近期另有多件仲裁判斷遭聲請執行。",
+   "editorNote": "本網頁助理 註：本則依 GAR 與 IAReporter 報導摘要（全文需訂閱）及 PBX International Law 網站說明撰寫；GAR 摘要未載明條約與仲裁規則，UNCITRAL 規則係依 IAReporter 標題，西班牙—赤道幾內亞雙邊投資協定則係依 PBX 於友好協商期間之說明，尚待官方資料確認。PBX 曾提及可能提交 ICSID，與 IAReporter 所載 UNCITRAL 規則不同。",
+   "tags": [
+    "赤道幾內亞",
+    "西班牙",
+    "徵收",
+    "UNCITRAL",
+    "雙邊投資協定",
+    "液化石油氣"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "GAR 報導",
+     "url": "https://globalarbitrationreview.com/article/equatorial-guinea-hit-claim-over-industrial-gas-plant",
+     "official": false
+    },
+    {
+     "label": "IAReporter 案件頁",
+     "url": "https://www.iareporter.com/arbitration-cases/daniel-gomez-lopez-and-gases-welding-v-equatorial-guinea/",
+     "official": false
+    },
+    {
+     "label": "PBX International Law 說明",
+     "url": "https://pbxlaw.com/en/insights/pbx-international-law-infobae-espana-gas-and-welding-s-l-republica-de-guinea-ecuatorial-guinea-ecuatorial-ciadi-icsid-arbitraje-de-inversiones-arbitraje-internacional-derecho-internacional/",
+     "official": false
+    },
+    {
+     "label": "GAR 報導（2026 年 4 月求償通知）",
+     "url": "https://globalarbitrationreview.com/article/spanish-industrial-gas-exporter-threatens-equatorial-guinea",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T23:58:30+08:00"
   }
  ],
  "agenda": [
@@ -8432,6 +8635,30 @@
    "caseRef": "",
    "summary": "ExxonMobil 子公司依能源憲章條約，爭執歐盟《淨零產業法》要求油氣業者於 2030 年前建置二氧化碳封存容量之義務。",
    "status": "2026 年 11 月依報導提起，程序保密，仲裁機構與請求金額尚未公開，執委會正準備答辯。"
+  },
+  {
+   "id": "naftogaz-v-gazprom-icc",
+   "type": "案件",
+   "court": "COURT",
+   "field": "commercial",
+   "forum": "阿斯塔納國際金融中心（AIFC）法院等",
+   "name": "Naftogaz 訴 Gazprom（ICC 判斷執行）",
+   "nameOriginal": "NJSC Naftogaz of Ukraine v. PJSC Gazprom (ICC Case No. 27245/GL/DTI)",
+   "caseRef": "ICC Case No. 27245/GL/DTI；AIFC-C/CFI/2026/0002",
+   "summary": "Naftogaz 就天然氣過境爭議取得命 Gazprom 給付約 14 億美元之 ICC 判斷（仲裁地瑞士），並在哈薩克等地尋求執行。",
+   "status": "AIFC 上訴法院 2026 年 11 月 12 日駁回 Naftogaz 上訴，認為外國判斷不得藉特區法院執行哈薩克特區外資產。"
+  },
+  {
+   "id": "gas-welding-v-equatorial-guinea",
+   "type": "案件",
+   "court": "NEWS",
+   "field": "investment",
+   "forum": "",
+   "name": "Gases & Welding 訴赤道幾內亞",
+   "nameOriginal": "Daniel Gómez López and Gases & Welding S.L. v. Republic of Equatorial Guinea",
+   "caseRef": "",
+   "summary": "西班牙工業氣體業者及其創辦人主張其液化石油氣合資事業遭赤道幾內亞無償徵收，創辦人並遭當地法院判刑。",
+   "status": "申請人於 2026 年 11 月提起條約仲裁，仲裁庭尚未組成或未公開。"
   }
  ]
 }
