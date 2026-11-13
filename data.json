@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-13T07:10:13+08:00",
-  "lastRunLocal": "2026-11-13 07:10",
+  "lastRun": "2026-11-13T23:44:05+08:00",
+  "lastRunLocal": "2026-11-13 23:44",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 1 則：美洲人權法院 1（Moliné O'Connor 訴阿根廷案判決）"
+  "lastRunNote": "新增 2 則：ICC 1（Mudacumura 案終止）、Opinio Juris 評論 1"
  },
  "items": [
   {
@@ -7039,7 +7039,10 @@
    "addedAt": "2026-11-11T23:06:33+08:00",
    "outlet": "Opinio Juris",
    "outletCode": "OJ",
-   "author": "Alonso Gurmendi（倫敦政經學院）；Himani Jha、Garima Tiwari（印度德里國立法律大學）；Mia Colliard（瑞士弗里堡大學）；Laurence Atkin-Teillet（諾丁漢特倫特大學）"
+   "author": "Alonso Gurmendi（倫敦政經學院）；Himani Jha、Garima Tiwari（印度德里國立法律大學）；Mia Colliard（瑞士弗里堡大學）；Laurence Atkin-Teillet（諾丁漢特倫特大學）",
+   "related": [
+    "2026-11-12-oj-pop-culture-one-piece-ohara-heritage"
+   ]
   },
   {
    "id": "2026-11-11-other-nl-us-icc-restrictions-report",
@@ -7232,6 +7235,118 @@
     }
    ],
    "addedAt": "2026-11-13T07:10:13+08:00"
+  },
+  {
+   "id": "2026-11-12-icc-mudacumura-terminated",
+   "court": "ICC",
+   "kind": "裁定",
+   "caseId": "",
+   "date": "2026-11-12",
+   "eventDate": "",
+   "importance": 1,
+   "title": "國際刑事法院第一預審分庭准許檢察官撤回對前盧安達解放民主力量（FDLR）指揮官 Mudacumura 的逮捕令，並終止訴訟程序",
+   "shortTitle": "ICC 終止 FDLR 指揮官 Mudacumura 案",
+   "point": "無跡象顯示其仍在世，法院對死者無管轄權，相關合作請求一併失效",
+   "titleOriginal": "The Prosecutor v. Sylvestre Mudacumura",
+   "caseRef": "ICC-01/04-01/12",
+   "tldr": "國際刑事法院在 2012 年對盧安達反政府武裝 FDLR 的最高指揮官 Mudacumura 發布逮捕令，指控他在剛果東部犯下九項戰爭罪，但他始終沒有被逮捕。據報導他在 2019 年遭剛果軍隊擊斃。檢察官因此請求撤回逮捕令，法院同意並結束這個案件，因為法院不能審判已經死亡的人。",
+   "memo": "國際刑事法院第一預審分庭於 2026 年 11 月 12 日公布裁定，准許檢察官撤回對前盧安達解放民主力量最高指揮官 Sylvestre Mudacumura 之逮捕令，並終止 Mudacumura 案之訴訟程序；理由為並無跡象顯示其仍在世（據報其已於 2019 年 9 月間於剛果民主共和國軍隊行動中身亡），而法院對已死亡之人無從行使管轄權，與本案相關之各項合作請求亦不再有效。",
+   "context": "剛果民主共和國境內情勢由國際刑事法院檢察官調查。盧安達解放民主力量（FDLR）是在剛果東部南北基伍省活動的武裝團體，Mudacumura 被指為其最高指揮官。\n2012 年，國際刑事法院對 Mudacumura 核發逮捕令，列有九項戰爭罪罪名，涉及 2009 年 1 月至 2010 年 9 月間在南北基伍的行為。Mudacumura 始終未被逮捕，案件從未進入審判。",
+   "facts": [
+    "2012 年：國際刑事法院對 Mudacumura 核發逮捕令，列有九項戰爭罪罪名，涉及 2009 年 1 月至 2010 年 9 月間在剛果東部南北基伍省的行為。",
+    "2019 年 9 月：據報導，Mudacumura 約於 9 月 17 日在剛果軍隊的行動中身亡。",
+    "其後：檢察官請求撤回逮捕令。",
+    "2026 年 11 月 12 日：國際刑事法院公布第一預審分庭裁定，准許撤回逮捕令並終止程序。"
+   ],
+   "issues": [
+    "被告死亡之證明與國際刑事法院對死者能否行使管轄權（羅馬規約第 1 條、第 25 條）",
+    "撤回逮捕令與終止程序之要件，以及相關合作請求之效力（羅馬規約第 58 條、第 89 條）"
+   ],
+   "holding": "・第一預審分庭准許檢察官撤回對 Mudacumura 的逮捕令，並宣告終止本案程序。\n・分庭認為並無任何跡象顯示 Mudacumura 仍在世；據報導他已於 2019 年 9 月在剛果軍方的行動中身亡。\n・法院無法對已死亡之人行使管轄權。\n・與本案有關、向各國提出的合作請求（包括逮捕與移交請求）不再有效。\n・逮捕令所列九項戰爭罪罪名從未經確認或審理，仍僅屬指控。",
+   "significance": "程序終止後，逮捕令所列指控不會再經法院審理；向各國提出的相關合作請求亦隨之失效。",
+   "editorNote": "本網頁助理 註：本則依 The Rio Times 11 月 13 日報導撰寫，該報導並引用國際刑事法院 11 月 12 日新聞稿；本網頁助理未能開啟法院新聞稿與裁定原文，故裁定作成日期留空，分庭組成與檢察官提出撤回請求的日期亦未能查證。Al Jazeera 連結為 2019 年剛果軍方宣布 Mudacumura 死亡的報導，本網頁助理未能開啟確認內容。以下為本網頁助理補充，非來源內容：同屬 FDLR 領導層的 Callixte Mbarushimana 案，國際刑事法院預審分庭於 2011 年拒絕確認起訴；本案終止後，法院在剛果情勢中已無針對 FDLR 高層的待決案件，本站未能就此查證最新情況。",
+   "tags": [
+    "國際刑事法院",
+    "剛果民主共和國",
+    "盧安達",
+    "逮捕令",
+    "戰爭罪",
+    "FDLR",
+    "程序終止"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院新聞稿",
+     "url": "https://www.icc-cpi.int/news/icc-terminates-proceedings-against-sylvestre-mudacumura",
+     "official": true
+    },
+    {
+     "label": "The Rio Times 報導",
+     "url": "https://www.riotimesonline.com/icc-closes-mudacumura-case-fdlr-2026/",
+     "official": false
+    },
+    {
+     "label": "Al Jazeera 報導（2019 年剛果軍方宣布擊斃 Mudacumura）",
+     "url": "https://aje.io/7y2fv",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T23:44:05+08:00"
+  },
+  {
+   "id": "2026-11-12-oj-pop-culture-one-piece-ohara-heritage",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "",
+   "date": "2026-11-12",
+   "eventDate": "",
+   "importance": 1,
+   "title": "作者以《航海王》奧哈拉圖書館遭毀為例，主張藏書即使倖存，攻擊文化與研究機構所造成的紀錄、研究實踐與研究自由損失，仍須依不同法制分別認定與賠償",
+   "shortTitle": "流行文化研討：藏書倖存不等於損害消失",
+   "point": "作者主張應區分館藏、詮釋所需紀錄與研究自由，分別適用 1954 年海牙公約、經社文公約與賠償實務",
+   "titleOriginal": "6th Annual Symposium on Pop Culture and International Law: The Buster Call on Ohara – One Piece and the International Law of Destroying a People's Past",
+   "caseRef": "",
+   "tldr": "《航海王》裡，奧哈拉島的圖書館與學者遭到毀滅性攻擊，但部分書籍後來被救出。作者藉此說明：書救回來了，不代表損害就沒了。目錄、註記、來源紀錄與學者群體的研究能力可能已經永久消失，研究禁令也是另一種侵害。這些損失分別落在武裝衝突中的文化財保護、文化與科學權利，以及賠償法的範圍，需要各自舉證。",
+   "memo": "Estéfany Rocha Monteiro 於 Opinio Juris 撰文主張，文獻典藏遭攻擊後縱使館藏實體倖存，其損害並未因而消滅，應區分館藏及其典藏處所、詮釋館藏所需之紀錄與研究實踐，以及研究自由三項利益；典藏處所之毀損應依 1954 年《武裝衝突中保護文化財產海牙公約》獨立評價，研究禁令涉及《經濟社會文化權利國際公約》第 15 條，賠償則可參考國際刑事法院 Al Mahdi 案賠償命令，惟須就各項損失分別舉證。",
+   "context": "Opinio Juris 第六屆「流行文化與國際法」線上研討於 11 月 9 日至 13 日舉行，前三篇屬國際人道法與種族滅絕範圍的文章已見另則（related）。\n本篇以《航海王》中世界政府對奧哈拉島發動「屠魔令」（Buster Call）為例：島上的「全知之樹」圖書館被焚毀，學者多遭殺害，其研究被禁止，但部分藏書後來在艾爾巴夫重現。作者以此討論文化遺產與文獻典藏遭破壞後的法律評價。",
+   "facts": [
+    "故事中，奧哈拉的學者研究被禁止的「空白之百年」歷史，世界政府因而對該島發動屠魔令。",
+    "攻擊焚毀全知之樹圖書館，學者多數遇害，研究遭禁止。",
+    "部分藏書事後在艾爾巴夫被發現倖存。",
+    "作者以 1992 年塞拉耶佛國家圖書館遭砲擊焚毀等真實事件作為對照。"
+   ],
+   "issues": [
+    "館藏倖存時，1954 年海牙公約對典藏處所與藏書之保護如何適用（第 1 條 a 款、b 款，第 4 條，第 15 條）",
+    "持續的研究禁令是否涉及參與文化生活及享受科學進步之權利（經社文公約第 15 條第 1 項 a 款、第 2 項、第 3 項；經社文委員會第 21 號、第 25 號一般性意見）",
+    "如何證明目錄、註記與來源紀錄等詮釋性紀錄之滅失",
+    "可採之賠償方式（反有罪不罰原則第 14、15 條；國際刑事法院 Al Mahdi 案 2017 年賠償命令）"
+   ],
+   "holding": "・作者先指出，真實衝突中圖書館遭毀往往伴隨紀錄滅失，學者並將圖書館毀滅與迫害及爭奪歷史記憶相連結。\n・作者提出三分架構：館藏及其典藏處所、詮釋館藏所需的紀錄與研究實踐、研究館藏的自由。\n・依 1954 年海牙公約，倖存藏書或可受保護，但符合要件之典藏處所遭毀，須另行評價。\n・依經社文公約，學者工作涉及文化參與與科學研究，研究禁令構成與攻擊本身不同的問題。\n・藏書倖存不代表完整工作紀錄倖存；目錄、註記與來源資訊可能部分或全部滅失，影響館藏的證明力。\n・嚴重侵害的紀錄同時具有追究責任的功能，受反有罪不罰原則保護，但該原則並不及於所有歷史文件。\n・Al Mahdi 案賠償命令顯示財產損害與社群損害可併同評估；作者亦引 Lostal 的批評，提醒不應模糊對財產本身的保護。\n・真實案件須逐一確立違法行為、受影響利益及已證明之損失，再決定重建設施、回復目錄或確保近用等救濟。",
+   "significance": "作者結論是：館藏的實體回復不能逆轉毀滅所造成的損害；救濟取決於對整個學術體系損失的證據，而海牙公約、經社文公約與賠償實務各自處理損失的不同部分。歷史真相及誰有權研究倖存證據的問題，仍未解決。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。本網頁助理 註：本則為同一研討的續篇；同系列 11 月 12 日 Lakshmidevi Somanath 討論吉卜力風格生成與著作權的文章（屬智慧財產權）、11 月 13 日 Lu Yaoyao 討論中國主旋律電影中國際法形象的文章（文化評論，未具體分析法律規則）及閉幕文，屬本站收錄範圍以外，未摘要；11 月 13 日〈Made Monstrous, Made Available – Monstress and the Law of Extractable Life〉本網頁助理未能開啟，未摘要。本文論述橫跨武裝衝突法（1954 年海牙公約）與人權法（經社文公約），本站依其以文化財保護為核心而收錄。作品譯名依台灣通行譯法。",
+   "tags": [
+    "流行文化",
+    "文化財產",
+    "1954年海牙公約",
+    "經社文公約",
+    "賠償",
+    "Al Mahdi",
+    "國際人道法"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/11/12/the-buster-call-on-ohara-one-piece-and-the-international-law-of-destroying-a-peoples-past/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T23:44:05+08:00",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Estéfany Rocha Monteiro（巴西律師、研究者，日內瓦國際人道法與人權學院校友）",
+   "related": [
+    "2026-11-11-oj-pop-culture-symposium-ihl-genocide"
+   ]
   }
  ],
  "agenda": [
