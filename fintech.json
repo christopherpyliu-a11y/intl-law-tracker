@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-13T07:30:38+08:00",
-  "lastRunLocal": "2026-11-13 07:30",
+  "lastRun": "2026-11-13T23:35:40+08:00",
+  "lastRunLocal": "2026-11-13 23:35",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：美國 2（司法案件 1、監理指引 1）、亞太與其他 1（監理指引 1）"
+  "lastRunNote": "新增 3 則：美國 3（司法案件 2、政策動態 1）"
  },
  "items": [
   {
@@ -2150,7 +2150,8 @@
     "2026-10-09-fin-cftc-event-contracts-swap-definition",
     "2026-10-28-fin-utah-criminal-charges-kalshi",
     "2026-10-29-fin-kalshi-sues-missouri",
-    "2026-11-02-fin-illinois-prediction-markets-injunction-appeal"
+    "2026-11-02-fin-illinois-prediction-markets-injunction-appeal",
+    "2026-11-12-fin-doj-cftc-sue-arkansas-prediction-markets"
    ],
    "sources": [
     {
@@ -5095,7 +5096,8 @@
     "美國"
    ],
    "related": [
-    "2026-11-04-fin-ninth-circuit-denies-kalshi-rehearing"
+    "2026-11-04-fin-ninth-circuit-denies-kalshi-rehearing",
+    "2026-11-12-fin-doj-cftc-sue-arkansas-prediction-markets"
    ],
    "sources": [
     {
@@ -5481,7 +5483,8 @@
     "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction",
     "2026-11-06-fin-blue-lake-rancheria-kalshi-injunction",
     "2026-11-10-fin-missouri-prediction-market-suits-escalate",
-    "2026-11-11-fin-cftc-warns-kalshi-possible-charges"
+    "2026-11-11-fin-cftc-warns-kalshi-possible-charges",
+    "2026-11-12-fin-louisiana-court-tro-prediction-markets"
    ],
    "sources": [
     {
@@ -7645,7 +7648,8 @@
    ],
    "related": [
     "2026-11-11-fin-sdny-denies-novig-injunction-ny",
-    "2026-11-10-fin-missouri-prediction-market-suits-escalate"
+    "2026-11-10-fin-missouri-prediction-market-suits-escalate",
+    "2026-11-12-fin-louisiana-court-tro-prediction-markets"
    ],
    "sources": [
     {
@@ -7800,6 +7804,199 @@
     }
    ],
    "addedAt": "2026-11-13T07:30:38+08:00"
+  },
+  {
+   "id": "2026-11-12-fin-louisiana-court-tro-prediction-markets",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國路易斯安那州",
+   "outlet": "Shreveport-Bossier Journal",
+   "outletCode": "SBJ",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-12",
+   "importance": 2,
+   "author": "",
+   "title": "路易斯安那州法院對 Kalshi、Polymarket、Coinbase 等十家預測市場業者核發暫時限制令，禁止向州內用戶提供事件合約",
+   "shortTitle": "路易斯安那州法院禁十家預測市場營業",
+   "point": "州法院單方核發 10 日暫時限制令，須封鎖州內用戶；依報導 11 月 30 日審初步禁制令",
+   "titleOriginal": "Louisiana judge blocks Kalshi, Polymarket and other prediction markets as legal battle escalates",
+   "caseRef": "",
+   "tldr": "路易斯安那州檢察總長起訴十家預測市場業者後，州法院當天就下令這些平台暫時不得對州內用戶提供運動、選舉等事件合約，並須以地理封鎖擋掉州內用戶。業者主張只受聯邦 CFTC 管轄，Kalshi 已向聯邦法院請求阻止州政府執法。",
+   "memo": "依 Shreveport-Bossier Journal 及 Sports Betting Dime 2026 年 11 月 13 日報導，美國路易斯安那州 Tangipahoa 郡第 21 司法區州法院法官 Jeffrey Johnson 於 2026 年 11 月 12 日，因應州檢察總長 Liz Murrill 同日提起之訴訟，單方核發暫時限制令，禁止 Kalshi、Polymarket、Robinhood、Coinbase、Crypto.com、Gemini 等十家業者於未取得州博弈執照下向州內用戶提供或促成事件合約交易，並應實施地理封鎖及不得宣傳其業務於州內合法。該限制令效期 10 日，依報導初步禁制令聽證訂於 11 月 30 日。Kalshi 已於路易斯安那西區聯邦地方法院聲請暫時限制令，尚未獲裁定。",
+   "context": "路易斯安那州檢察總長於 11 月 12 日對 Kalshi、Polymarket、Robinhood 等業者提起州法院訴訟，主張事件合約屬未經許可之賭博（見相關條目）。\nKalshi 於 2026 年 10 月 23 日先在路易斯安那西區聯邦地院起訴州官員，主張《商品交易法》賦予 CFTC 專屬管轄；CFTC 與司法部另已對猶他、阿肯色等州提告。",
+   "facts": [
+    "依 Shreveport-Bossier Journal 報導，限制令由 Tangipahoa 郡第 21 司法區州法院法官 Jeffrey Johnson 於提告當日（11 月 12 日）下午以單方程序簽發。",
+    "依同報導，州訴訟列名 10 家母公司旗下共 31 個法人，包括 Kalshi、QCX（Polymarket US）、Robinhood、Coinbase、Foris DAX（Crypto.com）、Gemini、ForecastEx、Ludlow Exchange（Novig）、Underdog 及 ProphetX。",
+    "限制令禁止業者於無州博弈執照下向州內用戶提供、接受或促成運動、選舉、獎項等事件合約，要求地理封鎖州內居民，並禁止宣傳其業務於州內合法。",
+    "限制令效期 10 日，法院得延長；依 Shreveport-Bossier Journal 報導，初步禁制令聽證訂於 11 月 30 日上午 9 時。",
+    "依 FOW 報導，法官認定相關交易屬州賭博法所稱之「以電腦進行之賭博」。",
+    "Kalshi 已於路易斯安那西區聯邦地院聲請暫時限制令及初步禁制令，報導時尚無裁定；Polymarket 另提聯邦訴訟。"
+   ],
+   "issues": [
+    "州法院得否在聯邦法院審理 CFTC 專屬管轄爭議期間，先以暫時限制令禁止指定契約市場業者營業？",
+    "業者依 CFTC 11 月 5 日解釋不得依州別封鎖交易者，與州法院之地理封鎖命令如何調和？",
+    "聯邦法院是否以優先適用原則阻止州法院命令之執行？"
+   ],
+   "holding": "・程序：州法院依檢察總長聲請，未經對造陳述即核發暫時限制令。\n・禁止事項：未取得州博弈執照者不得向路易斯安那州用戶提供、接受或促成事件合約交易。\n・作為義務：實施地理封鎖以阻擋州內居民，且不得宣傳其業務於州內合法。\n・效期：10 日，法院得延長；初步禁制令另行審理。\n・依 FOW 報導，法官認事件合約交易屬州法上之電腦賭博。",
+   "significance": "此為州法院首度一次對涵蓋經紀商與加密交易所之多家業者核發暫時禁令，直接與 CFTC 要求指定契約市場不得依州別封鎖之立場衝突。應留意路易斯安那西區聯邦地院就 Kalshi 聲請之裁定、11 月 30 日初步禁制令聽證，以及 CFTC 或司法部是否比照阿肯色案對路易斯安那州提告。",
+   "editorNote": "本網頁助理 註：本則依 Shreveport-Bossier Journal、Sports Betting Dime 及 FOW 報導撰寫，本網頁助理未能取得限制令原文。聽證日期僅見 Shreveport-Bossier Journal 載明，Sports Betting Dime 稱未見排定日期；FOW 報導之法官見解未見於其他報導。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先",
+    "運動博弈",
+    "暫時限制令",
+    "Kalshi",
+    "Polymarket",
+    "Coinbase",
+    "路易斯安那州",
+    "美國"
+   ],
+   "related": [
+    "2026-11-12-fin-louisiana-ag-sues-prediction-markets",
+    "2026-11-05-fin-cftc-impartial-access-geofencing",
+    "2026-11-12-fin-doj-cftc-sue-arkansas-prediction-markets"
+   ],
+   "sources": [
+    {
+     "label": "Shreveport-Bossier Journal 報導",
+     "url": "https://shreveportbossierjournal.com/2026/11/13/louisiana-judge-blocks-kalshi-polymarket-and-other-prediction-markets-as-legal-battle-escalates/",
+     "official": false
+    },
+    {
+     "label": "Sports Betting Dime 報導",
+     "url": "https://www.sportsbettingdime.com/news/industry/louisiana-judge-orders-temporary-restraining-order-to-prediction-markets/",
+     "official": false
+    },
+    {
+     "label": "FOW 報導",
+     "url": "https://www.fow.com/insights/louisiana-court-temporarily-blocks-prediction-market-firms-over-illegal-gambling-claims",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T23:35:40+08:00"
+  },
+  {
+   "id": "2026-11-12-fin-doj-cftc-sue-arkansas-prediction-markets",
+   "court": "CFTC",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國阿肯色州",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-13",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "美國司法部與 CFTC 在阿肯色東區聯邦地院起訴阿肯色州檢察總長，請求禁止州政府對 CFTC 監理之預測市場執行州賭博法",
+   "shortTitle": "司法部與 CFTC 起訴阿肯色州",
+   "point": "主張事件合約屬交換、CFTC 專屬管轄，請求禁止州政府追訴 Kalshi 及其他受監理平台",
+   "titleOriginal": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
+   "caseRef": "",
+   "tldr": "阿肯色州 11 月 4 日以非法賭博起訴 Kalshi 後，聯邦司法部和 CFTC 反過來告阿肯色州，主張預測市場的事件合約屬聯邦法上的交換契約，只能由 CFTC 管，州政府不能用賭博法追訴，並請法院下令禁止。",
+   "memo": "依 The Block 及 FinanceFeeds 2026 年 11 月 13 日報導，美國司法部與商品期貨交易委員會（CFTC）於 2026 年 11 月 12 日前後向阿肯色東區聯邦地方法院起訴阿肯色州檢察總長 Tim Griffin，主張《商品交易法》賦予 CFTC 對受監理市場上期貨、選擇權及交換之專屬管轄，阿肯色州所針對之事件合約屬該法所稱之交換，州賭博法因聯邦法優先適用而不得對 CFTC 監理之預測市場執行，並請求核發初步及永久禁制令。Kalshi 非本案當事人。",
+   "context": "阿肯色州檢察總長於 2026 年 11 月 4 日在 Independence 郡巡迴法院起訴 KalshiEX 及 Kalshi，指其經營未經許可之賭博並違反州欺罔交易行為法（見相關條目）。\nCFTC 先前已對猶他等州提起類似訴訟，並於 11 月 5 日發布公平接取解釋，要求指定契約市場 30 日內停止依州別封鎖合格交易者。",
+   "facts": [
+    "依 The Block 報導，訴訟係於 11 月 12 日（週四）在阿肯色東區聯邦地院提起，被告為州檢察總長 Tim Griffin；依 Blockonomi 報導，被告另包括阿肯色州。",
+    "原告為司法部與 CFTC，Kalshi 未列為當事人。",
+    "起訴主張：《商品交易法》賦予 CFTC 專屬管轄，系爭事件合約屬交換，州政府行動侵入聯邦專屬規範體系。",
+    "請求：確認州法受聯邦法優先排除，並核發初步及永久禁制令，禁止州政府對 CFTC 監理之交易所及其關係企業、合作夥伴執法。",
+    "報導時法院尚未作成任何裁定。"
+   ],
+   "issues": [
+    "CFTC 得否以自身名義起訴州政府，阻止州法院對指定契約市場業者之賭博法訴訟？",
+    "運動等事件合約是否屬《商品交易法》之交換，從而排除州賭博法？",
+    "本案與州法院進行中之 Kalshi 訴訟如何協調（如是否涉及禁止聯邦法院干預州法院程序之規定）？"
+   ],
+   "holding": "・原告：美國司法部、CFTC。\n・被告：阿肯色州檢察總長 Tim Griffin（依部分報導另含阿肯色州）。\n・主張：事件合約屬《商品交易法》之交換，CFTC 享專屬管轄；州賭博法受聯邦法優先排除。\n・請求：確認判決，以及禁止州政府對 CFTC 監理之預測市場執法之初步及永久禁制令。",
+   "significance": "本案為聯邦政府繼猶他州後再度主動起訴州政府，且請求範圍及於所有 CFTC 監理之平台，而非僅 Kalshi；同日路易斯安那州法院已對十家業者核發暫時限制令，聯邦與州之衝突持續升高。應留意聯邦地院就初步禁制令之審理時程，以及聯邦政府是否對其他提告州採取相同行動。",
+   "editorNote": "本網頁助理 註：本則依 The Block、FinanceFeeds 及 Blockonomi 報導撰寫；報導引用 CourtListener 案卷，本網頁助理未能取得起訴狀、案號或司法部及 CFTC 新聞稿。The Block 僅載「週四」提起，故未填事件日期。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先",
+    "CFTC",
+    "司法部",
+    "Kalshi",
+    "阿肯色州",
+    "美國"
+   ],
+   "related": [
+    "2026-11-04-fin-arkansas-ag-sues-kalshi",
+    "2026-10-27-fin-cftc-sues-utah-prediction-markets",
+    "2026-11-12-fin-louisiana-court-tro-prediction-markets"
+   ],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
+     "official": false
+    },
+    {
+     "label": "FinanceFeeds 報導",
+     "url": "https://financefeeds.com/doj-cftc-arkansas-over-kalshi-prediction-markets/",
+     "official": false
+    },
+    {
+     "label": "Blockonomi 報導",
+     "url": "https://blockonomi.com/doj-and-cftc-sue-arkansas-to-shield-all-federally-regulated-prediction-markets/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T23:35:40+08:00"
+  },
+  {
+   "id": "2026-11-12-fin-white-house-sec-cftc-nominations",
+   "court": "US",
+   "kind": "政策動態",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-12",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "白宮提名四人出任 SEC 與 CFTC 委員，含參與 CLARITY Act 談判之國會幕僚及前 CFTC 委員 Kristin Johnson",
+   "shortTitle": "白宮提名 SEC、CFTC 四名委員",
+   "point": "兩黨各二人，含 CLARITY Act 談判幕僚；Levine 接替 Peirce，待參院委員會審查",
+   "titleOriginal": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
+   "caseRef": "",
+   "tldr": "白宮一次提名兩位 CFTC 委員和兩位 SEC 委員，共和、民主兩黨各兩人，其中多位曾參與加密市場結構法案談判或長期關注數位資產。若參議院同意，兩個主管加密監理的機關將補齊懸缺。",
+   "memo": "依 The Block 2026 年 11 月 12 日報導，白宮同日提名 Nathan Anonick（共和黨，參議院農業委員會主席 Boozman 之立法顧問）及 Matthew Rowland（民主黨，借調參議院農業委員會之 CFTC 律師）為 CFTC 委員，二人均曾參與《數位資產市場明確法》（CLARITY Act）談判；另提名 Kristin N. Johnson（民主黨，前 CFTC 委員）及 Steven Levine（共和黨，前白宮經濟顧問委員會法律總顧問）為 SEC 委員，Levine 將接替 Hester Peirce。CFTC 提名由參議院農業委員會審查，SEC 提名由參議院銀行委員會審查。",
+   "context": "SEC 與 CFTC 委員會近一年存有多個懸缺；依 The Block 報導，此為約一年來首批相關提名。\nPeirce 曾領導 SEC 加密資產工作小組；CLARITY Act 於 2026 年 9 月在參議院未能終結辯論，SEC 與 CFTC 改以各自規則制定推進加密資產監理。",
+   "facts": [
+    "CFTC 提名：Nathan Anonick（維吉尼亞州，共和黨）、Matthew Rowland（哥倫比亞特區，民主黨）。",
+    "SEC 提名：Kristin N. Johnson（密西根州，民主黨，前 CFTC 委員）、Steven Levine（馬里蘭州，共和黨，曾任 SEC 委員 Uyeda 之副幕僚長）。",
+    "依報導，Levine 被提名接替 Hester Peirce 之席次。",
+    "CFTC 提名由參議院農業委員會、SEC 提名由參議院銀行委員會審查。",
+    "加密創新理事會（Crypto Council for Innovation）執行長表示歡迎兩黨提名。"
+   ],
+   "issues": [
+    "兩黨並行提名能否在新一屆國會順利通過參院同意？",
+    "新任委員對加密資產監理（如 SEC 創新豁免、CFTC 預測市場與永續期貨立場）之影響？"
+   ],
+   "holding": "・CFTC：Anonick（共和黨）與 Rowland（民主黨），二人均參與參院農業委員會 CLARITY Act 相關條文談判。\n・SEC：Johnson（民主黨）長期關注加密資產保管、DeFi 與 AI 監理；Levine（共和黨）接替 Peirce。\n・程序：分由參院農業委員會及銀行委員會舉行聽證並表決。",
+   "significance": "兩機關委員補齊後，加密資產規則制定與執法將回到兩黨委員共同參與之結構，對 SEC 創新豁免、CFTC 事件合約與永續期貨政策之延續性具影響。應留意參院委員會聽證時程，以及 2027 年 1 月新國會組成後之審查進度。",
+   "editorNote": "本網頁助理 註：本則依 The Block 報導撰寫，本網頁助理未能取得白宮提名公告原文；各被提名人之任期及接替席次（除 Levine 外）報導未載明。",
+   "tags": [
+    "SEC",
+    "CFTC",
+    "人事提名",
+    "CLARITY Act",
+    "加密資產",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-13T23:35:40+08:00"
   }
  ],
  "agenda": [
@@ -8212,6 +8409,16 @@
    "url": "",
    "relatedId": "2026-11-12-fin-nydfs-vc-advertising-guidance",
    "caseId": ""
+  },
+  {
+   "id": "2026-11-30-us-louisiana-prediction-markets-pi-hearing",
+   "date": "2026-11-30",
+   "court": "US",
+   "title": "路易斯安那州法院審理預測市場業者初步禁制令",
+   "note": "Tangipahoa 郡第 21 司法區州法院，上午 9 時（美中部時間）；日期依 Shreveport-Bossier Journal 報導，可能變動。",
+   "url": "",
+   "relatedId": "2026-11-12-fin-louisiana-court-tro-prediction-markets",
+   "caseId": "us-prediction-markets-preemption"
   }
  ],
  "cases": [
@@ -8235,7 +8442,7 @@
    "nameOriginal": "US crypto market structure (CLARITY Act; SEC and CFTC rulemaking)",
    "caseRef": "H.R. 3633",
    "summary": "眾議院 2025 年 7 月通過 CLARITY Act，參議院 2026 年 9 月 15 日未能終結辯論；SEC 與 CFTC 改以各自的規則制定與豁免推進加密資產市場監理。",
-   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 依報導訂於 11 月 23 日上線，已有 67 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。依 11 月 5 日報導，SEC 券商加密資產財務責任規則修正草案（RIN 3235-AN48）已送 OIRA 審查。依 11 月 9 日報導，Warren 將於 2027 年 1 月任參院銀行委員會主席並以預測市場與川普家族加密事業為監督重點，眾院民主黨擬另提強化 SEC 角色之市場結構法案。"
+   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 依報導訂於 11 月 23 日上線，已有 67 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。依 11 月 5 日報導，SEC 券商加密資產財務責任規則修正草案（RIN 3235-AN48）已送 OIRA 審查。依 11 月 9 日報導，Warren 將於 2027 年 1 月任參院銀行委員會主席並以預測市場與川普家族加密事業為監督重點，眾院民主黨擬另提強化 SEC 角色之市場結構法案。白宮 11 月 12 日提名 SEC 與 CFTC 各兩名委員（含 CLARITY Act 談判幕僚），待參院審查。"
   },
   {
    "id": "icba-v-occ-trust-charters",
@@ -8356,7 +8563,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "路易斯安那州 11 月 12 日起訴 Kalshi、Polymarket、Robinhood 等十家業者並聲請限制令，Kalshi 同日於聯邦法院聲請 TRO；紐約南區聯邦地院 11 月 10 日駁回 Novig 初步禁制令，Novig 已上訴第二巡迴；密蘇里州訴訟擴大至六家業者；CFTC 11 月 5 日要求指定契約市場 30 日內停止依州別封鎖；加州北區聯邦地院禁止 Kalshi 於兩部落土地提供運動合約；阿肯色州起訴 Kalshi；伊利諾州案已上訴第七巡迴。"
+   "status": "路易斯安那州法院 11 月 12 日對 Kalshi、Polymarket、Coinbase 等十家業者核發 10 日暫時限制令（依報導 11 月 30 日審初步禁制令），Kalshi 已於聯邦法院聲請 TRO；司法部與 CFTC 同日前後起訴阿肯色州檢察總長，請求禁止對 CFTC 監理之預測市場執法；紐約南區聯邦地院 11 月 10 日駁回 Novig 初步禁制令，Novig 已上訴第二巡迴；密蘇里州訴訟擴大至六家業者；CFTC 11 月 5 日要求指定契約市場 30 日內停止依州別封鎖；伊利諾州案已上訴第七巡迴。"
   },
   {
    "id": "kr-tokenised-securities",
