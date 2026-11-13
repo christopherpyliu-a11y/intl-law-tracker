@@ -1,13 +1,215 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-13T23:58:30+08:00",
-  "lastRunLocal": "2026-11-13 23:58",
+  "lastRun": "2026-11-14T07:12:11+08:00",
+  "lastRunLocal": "2026-11-14 07:12",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 3 則：商務仲裁 2（法院裁判 1、評論 1）、投資仲裁 1（案件動態 1）",
+  "lastRunNote": "新增 3 則：商務仲裁 2（案件動態 2）、投資仲裁 1（案件動態 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
+  {
+   "id": "2026-11-12-arb-eurofinsa-gabon-sdny-bny-restraint",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "commercial",
+   "caseId": "eurofinsa-v-gabon",
+   "jurisdiction": "美國",
+   "outlet": "Law360",
+   "outletCode": "L360",
+   "date": "2026-11-12",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "西班牙營建商 Eurofinsa 向紐約聯邦法院聲請限制加彭移轉其存於紐約梅隆銀行之資產，以執行約 1,800 萬美元的 ICC 仲裁判斷",
+   "shortTitle": "Eurofinsa 追索加彭在紐約的銀行資產",
+   "point": "請求禁止加彭移轉存於紐約梅隆銀行的資產，以執行已獲華府法院確認的 ICC 判斷",
+   "titleOriginal": "Eurofinsa S.A. v. Gabonese Republic – enforcement of ICC Award No. 22899/DDA (S.D.N.Y.)",
+   "caseRef": "ICC Case No. 22899/DDA; No. 23-cv-03013-RC (D.D.C.)",
+   "tldr": "一家已進入清算的西班牙營建公司，早年替加彭整修首都體育場後沒拿到錢，2020 年在 ICC 仲裁勝訴，美國法院也已確認這份判斷；加彭始終未付款，現在公司轉往紐約，要求法院凍結加彭存在紐約梅隆銀行的錢。",
+   "memo": "西班牙 Eurofinsa S.A.（清算中）於 2026 年 11 月向美國紐約南區聯邦地方法院聲請禁止加彭共和國移轉其存放於紐約梅隆銀行（The Bank of New York Mellon）之資產，以執行 ICC 第 22899/DDA 號仲裁判斷。該判斷於 2020 年 10 月 15 日在法國作成，命加彭給付逾 1,200 萬歐元及利息；美國哥倫比亞特區聯邦地方法院已於 2025 年 1 月 17 日依《外國主權豁免法》仲裁例外及《紐約公約》確認判斷，作成約 1,790 萬美元之判決。",
+   "context": "Eurofinsa 之前手公司於 2009 年 6 月與加彭簽約整修首都自由市的 Omar Bongo Ondimba 多功能體育場，契約於 2015 年修訂；加彭未依約付款後，Eurofinsa 中止履約、終止契約並提起 ICC 仲裁，仲裁地為法國。\n仲裁庭於 2020 年 10 月 15 日作成判斷（ICC Case No. 22899/DDA），加彭曾全程參與仲裁，包括三天的言詞辯論。\n美國哥倫比亞特區聯邦地方法院（Contreras 法官）於 2025 年 1 月 17 日在加彭未到庭的情形下作成缺席判決，確認判斷；同年 6 月 11 日另依《外國主權豁免法》准許扣押加彭資產。",
+   "facts": [
+    "仲裁判斷命加彭給付未付工程款 11,234,374 歐元（年息 3.66%，自 2016–2017 年各期起算）、延滯成本與所失利益合計約 79 萬歐元、ICC 仲裁費用 12 萬美元及律師費 189,131 歐元；Eurofinsa 另須給付加彭 437,400 歐元，於判決中抵銷。",
+    "哥倫比亞特區聯邦地院以判斷日匯率換算，作成 17,898,152.10 美元之判決，並加計判決後利息；加彭在美國訴訟中未曾應訴，也未支付任何款項。",
+    "2025 年 6 月 11 日，同院認定判決已合法送達加彭、且已經過合理期間，准許扣押加彭資產。",
+    "依 Law360 2026 年 11 月 12 日報導，Eurofinsa 向紐約聯邦法院請求禁止加彭移轉存於紐約梅隆銀行的資產。"
+   ],
+   "issues": [
+    "判決債權人得否對外國國家存於美國銀行之資產聲請限制移轉或扣押（《外國主權豁免法》第 1610 條關於執行豁免例外，特別是「用於商業活動」要件）。",
+    "華府法院之確認判決在紐約登記後之執行程序。"
+   ],
+   "holding": "",
+   "significance": "本案顯示判斷債權人取得美國確認判決後，仍須逐一在資產所在地法院證明特定資產不享執行豁免；紐約法院對梅隆銀行帳戶的認定，將決定 Eurofinsa 能否實際受償。加彭近年另有其他仲裁判斷在美國聲請執行。",
+   "editorNote": "本網頁助理 註：本則依 Law360 報導摘要（全文需訂閱）及 italaw 所載仲裁判斷與哥倫比亞特區聯邦地院 2025 年判決撰寫，尚未取得紐約聲請書狀原文；紐約案號、承審法官及聲請日期尚未查得。Law360 稱判斷「近 1,800 萬美元」，係指華府法院換算後的判決金額。",
+   "tags": [
+    "加彭",
+    "西班牙",
+    "ICC",
+    "紐約公約",
+    "外國主權豁免法",
+    "執行豁免",
+    "承認與執行",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICC 仲裁判斷及美國法院裁判（italaw 案件頁）",
+     "url": "https://www.italaw.com/cases/10900",
+     "official": false
+    },
+    {
+     "label": "美國哥倫比亞特區聯邦地院 2025 年 1 月 17 日判決（italaw）",
+     "url": "https://www.italaw.com/sites/default/files/case-html-files/italaw1826979_Memorandum-Opinion-of-the-US-District-Court-for-the-District-of-Columbia_2025-01-17.html",
+     "official": false
+    },
+    {
+     "label": "Law360 報導",
+     "url": "https://www.law360.com/governmentcontracts/articles/2548654",
+     "official": false
+    },
+    {
+     "label": "A&O Shearman 美國仲裁案例資料庫（2025 年 6 月扣押裁定）",
+     "url": "https://us-arbitration.aoshearman.com/eurofinsa-sa-v-the-gabonese-republic",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T07:12:11+08:00"
+  },
+  {
+   "id": "2026-11-09-arb-kronospan-v-valmet-chp3-claim",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "盧森堡",
+   "outlet": "Valmet 重大訊息（上市公司公告）",
+   "outletCode": "VAL",
+   "date": "2026-11-09",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "盧森堡 Kronospan Energy 就生質汽電共生廠瑕疵，對芬蘭 Valmet 子公司提起約 1.3 億歐元仲裁求償",
+   "shortTitle": "Valmet 遭求償 1.3 億歐元，涉盧森堡生質電廠",
+   "point": "業主指控 CHP3 機組效能不足、有瑕疵；Valmet 認為符合約定規格並將反請求",
+   "titleOriginal": "Inside information: Valmet notified of arbitration claim by Kronospan Energy S.A.",
+   "caseRef": "",
+   "tldr": "盧森堡一座燒生質燃料、同時供電供熱的電廠，業主認為設備廠商芬蘭 Valmet 交付的機組有問題，提起仲裁要求賠償約 1.3 億歐元；Valmet 否認，表示電廠在約定燃料下達到合約效能，還打算反過來求償。",
+   "memo": "芬蘭 Valmet Oyj 於 2026 年 11 月 9 日發布重大訊息，揭露其子公司 Valmet Technologies Oy 接獲 Kronospan Energy S.A. 之仲裁聲請。爭議源於雙方 2022 年 1 月 18 日就盧森堡 Sanem 生質汽電共生機組（CHP3）簽訂之買賣契約，申請人主張機組效能不足及存有瑕疵，初步請求約 1.3 億歐元，包括機組價值減損 1.02 億歐元及廠區所失利益 2,300 萬歐元；Valmet 否認並擬提出反請求。",
+   "context": "CHP3 為設於盧森堡 Sanem 的生質燃料汽電共生機組，供應 Kronospan 當地板材廠；雙方於 2022 年 1 月 18 日簽訂買賣契約，機組於 2024 年 7 月 12 日完成移交。Valmet 表示同規模專案的一般造價約 1 億歐元。\nValmet 公告未載明仲裁機構、仲裁規則或仲裁地。",
+   "facts": [
+    "Kronospan Energy 主張 CHP3 存在效能問題及瑕疵，提出仲裁聲請。",
+    "初步請求合計約 1.3 億歐元：機組價值減損 1.02 億歐元、Sanem 廠區所失利益 2,300 萬歐元，並保留變更或追加請求之權利。",
+    "Valmet 表示機組以約定燃料並依契約條件運轉時已達約定效能要求，認為請求無理由，並擬對 Kronospan Energy 提出自身請求。",
+    "Valmet 管理階層初步評估此案不致對公司營運或財務狀況造成重大不利影響。"
+   ],
+   "issues": [
+    "機組是否符合契約約定之效能保證，以及效能測試所用燃料是否符合約定。",
+    "價值減損與所失利益之請求是否受契約責任限制條款拘束（契約內容尚未公開）。"
+   ],
+   "holding": "",
+   "significance": "此類能源設備統包契約的效能保證爭議常以仲裁解決；請求金額已高於同規模專案的一般造價，責任上限條款可能成為爭點。案件處於初期。",
+   "editorNote": "本網頁助理 註：本則依 Valmet 2026 年 11 月 9 日上市公司重大訊息及 GAR 11 月 13 日報導摘要（全文需訂閱）撰寫；仲裁機構、規則及仲裁地均未公開。",
+   "tags": [
+    "Valmet",
+    "Kronospan",
+    "盧森堡",
+    "芬蘭",
+    "能源",
+    "建設工程",
+    "效能保證"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Valmet 重大訊息公告",
+     "url": "https://mfn.se/cis/a/valmet/inside-information-valmet-notified-of-arbitration-claim-by-kronospan-energy-s-a-9f082fa6.iframe",
+     "official": false
+    },
+    {
+     "label": "GAR 報導",
+     "url": "https://globalarbitrationreview.com/article/finnish-group-faces-claim-over-biomass-plant",
+     "official": false
+    },
+    {
+     "label": "Securities.io 報導",
+     "url": "https://www.securities.io/fi/valmet-unit-faces-about-130-million-chp3-arbitration-claim/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T07:12:11+08:00"
+  },
+  {
+   "id": "2026-11-13-arb-honduras-airport-pca-tribunal",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "emco-airport-v-honduras",
+   "jurisdiction": "",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-13",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "宏都拉斯最大機場營運商對宏都拉斯提起之 3 億美元投資條約仲裁，已在常設仲裁法院組成仲裁庭",
+   "shortTitle": "宏都拉斯機場案 PCA 仲裁庭組成",
+   "point": "營運商先撤回 ICSID 契約仲裁，改依投資條約求償 3 億美元，現由 PCA 管理",
+   "titleOriginal": "Airport operator (reported as EMCO) v. Republic of Honduras – investment treaty claim (PCA)",
+   "caseRef": "",
+   "tldr": "經營宏都拉斯最大機場的公司，先前在 ICSID 依特許契約告宏都拉斯，後來撤案、改依投資條約求償 3 億美元；最新消息是案件已由海牙常設仲裁法院管理，仲裁庭組成完畢。",
+   "memo": "依媒體報導，宏都拉斯最大機場之營運商於其在 ICSID 進行之契約仲裁（Palmerola International Airport v. Honduras, ICSID Case No. ARB/23/42）終止後，另依投資條約對宏都拉斯提起約 3 億美元之求償；依 2026 年 11 月 13 日報導，該案由常設仲裁法院（PCA）管理之仲裁庭審理，仲裁庭已組成。所依條約、仲裁庭成員及爭議措施尚未公開。",
+   "context": "Palmerola International Airport S.A. de C.V. 於 2023 年 9 月依機場特許契約在 ICSID 對宏都拉斯提起契約仲裁（ICSID Case No. ARB/23/42），2024 年 2 月組成仲裁庭，2025 年 3 月終止。\nLatin Lawyer 與 GAR 於 2025 年 5 月報導，該機場營運商（Latin Lawyer 標題稱 EMCO）撤回契約仲裁後改提 3 億美元的投資條約求償。\n宏都拉斯近年面臨多件投資仲裁，包括 Próspera 案。",
+   "facts": [
+    "GAR 於 2026 年 11 月 13 日報導，該 3 億美元條約求償已由 PCA 仲裁庭審理。",
+    "先前的 ICSID 契約仲裁已於 2025 年終止。"
+   ],
+   "issues": [
+    "所依投資條約及申請人國籍（尚未公開）。",
+    "先前撤回的契約仲裁與現行條約求償之關係，例如契約約定之爭端解決條款或岔路條款是否影響管轄權。"
+   ],
+   "holding": "",
+   "significance": "仲裁庭組成後，下一步通常為第一次程序會議及程序時程；宏都拉斯可能提出管轄權異議。",
+   "editorNote": "本網頁助理 註：本則僅依 GAR 2026 年 11 月 13 日報導標題與摘要、GAR 與 Latin Lawyer 2025 年 5 月報導摘要（全文均需訂閱）及 italaw、IAReporter 所載 ICSID 契約仲裁資訊撰寫，未能取得 PCA 案件資料；GAR 摘要未載明申請人名稱、條約、仲裁庭成員及組成日期，申請人名稱 EMCO 係依 Latin Lawyer 標題，條約求償申請人與 ICSID 契約仲裁申請人是否為同一法人亦未經確認。",
+   "tags": [
+    "宏都拉斯",
+    "PCA",
+    "機場",
+    "特許契約",
+    "雙邊投資協定",
+    "ICSID"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "GAR 報導（仲裁庭組成）",
+     "url": "https://globalarbitrationreview.com/article/pca-panel-in-place-honduras-airport-claim",
+     "official": false
+    },
+    {
+     "label": "Latin Lawyer 報導（2025 年 5 月條約求償）",
+     "url": "https://latinlawyer.com/article/honduran-airport-operator-emco-launches-treaty-claim",
+     "official": false
+    },
+    {
+     "label": "GAR 報導（2025 年 5 月條約求償）",
+     "url": "https://globalarbitrationreview.com/article/airport-operator-launches-treaty-claim-against-honduras",
+     "official": false
+    },
+    {
+     "label": "italaw 案件頁（ICSID 契約仲裁）",
+     "url": "https://www.italaw.com/cases/10836",
+     "official": false
+    },
+    {
+     "label": "IAReporter 案件頁（ICSID 契約仲裁）",
+     "url": "https://www.iareporter.com/arbitration-cases/palmerola-international-airport-v-honduras/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T07:12:11+08:00"
+  },
   {
    "id": "2026-11-11-arb-kab-india-limitation-jurisdiction-admissibility",
    "court": "OTHER",
@@ -8659,6 +8861,30 @@
    "caseRef": "",
    "summary": "西班牙工業氣體業者及其創辦人主張其液化石油氣合資事業遭赤道幾內亞無償徵收，創辦人並遭當地法院判刑。",
    "status": "申請人於 2026 年 11 月提起條約仲裁，仲裁庭尚未組成或未公開。"
+  },
+  {
+   "id": "eurofinsa-v-gabon",
+   "type": "案件",
+   "court": "COURT",
+   "field": "commercial",
+   "forum": "美國聯邦法院（哥倫比亞特區、紐約南區）；ICC",
+   "name": "Eurofinsa 訴加彭（ICC 判斷執行）",
+   "nameOriginal": "Eurofinsa S.A. v. Gabonese Republic",
+   "caseRef": "ICC Case No. 22899/DDA; No. 23-cv-03013-RC (D.D.C.)",
+   "summary": "西班牙營建商就加彭首都體育場整修工程款取得 2020 年 ICC 仲裁判斷，於美國聲請承認與執行。",
+   "status": "華府聯邦地院 2025 年確認判斷並准許扣押；2026 年 11 月 Eurofinsa 向紐約聯邦法院聲請限制加彭移轉其在紐約梅隆銀行的資產。"
+  },
+  {
+   "id": "emco-airport-v-honduras",
+   "type": "案件",
+   "court": "NEWS",
+   "field": "investment",
+   "forum": "常設仲裁法院（PCA）",
+   "name": "宏都拉斯機場營運商訴宏都拉斯",
+   "nameOriginal": "Airport operator (reported as EMCO) v. Republic of Honduras; earlier Palmerola International Airport v. Honduras (ICSID Case No. ARB/23/42)",
+   "caseRef": "ICSID Case No. ARB/23/42（已終止之契約仲裁）",
+   "summary": "宏都拉斯最大機場營運商撤回 ICSID 契約仲裁後，改依投資條約求償約 3 億美元。",
+   "status": "依 GAR 2026 年 11 月 13 日報導，PCA 管理之仲裁庭已組成。"
   }
  ]
 }
