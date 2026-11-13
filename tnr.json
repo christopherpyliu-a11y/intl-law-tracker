@@ -1,13 +1,143 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-13T23:57:59+08:00",
-  "lastRunLocal": "2026-11-13 23:57",
+  "lastRun": "2026-11-14T07:19:37+08:00",
+  "lastRunLocal": "2026-11-14 07:19",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：中國 1（倡議 1）、土耳其 1（倡議 1）、越南 1（調查報導 1）"
+  "lastRunNote": "新增 2 則：中國 1（司法案件 1）、俄羅斯 1（事件 1）"
  },
  "items": [
+  {
+   "id": "2026-11-12-tnr-us-yuanjun-tang-probation",
+   "court": "CN",
+   "kind": "司法案件",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "美聯社（AP）",
+   "outletCode": "AP",
+   "date": "2026-11-12",
+   "eventDate": "2026-11-12",
+   "importance": 2,
+   "author": "",
+   "title": "曾任六四學運人士的紐約華人 Yuanjun Tang 承認為中國國家安全部監視在美異議人士，美國聯邦法院判處緩刑三年、未判監禁",
+   "shortTitle": "為中國監視異議人士者獲判緩刑",
+   "point": "檢方求處最高 5 年徒刑，法官判緩刑 3 年，稱對受害者家屬之損害無法證明",
+   "titleOriginal": "Chinese dissident who admitted spying for Beijing in the US gets no jail time",
+   "caseRef": "",
+   "tldr": "住在紐約皇后區的 69 歲 Yuanjun Tang 曾是六四學運參與者，後來在美國取得庇護，卻承認多年替中國國家安全部蒐集在美民運人士的資料。檢方要求判最高 5 年，但曼哈頓聯邦法官 11 月 12 日只判他緩刑 3 年，不必入獄。",
+   "memo": "依美聯社 2026 年 11 月 12 日報導，美國紐約南區聯邦地方法院法官 John G. Koeltl 於同日就 Yuanjun Tang 共謀未經通知司法部長而在美擔任中華人民共和國代理人一罪（2025 年 9 月認罪）宣判緩刑三年；依檢方指控，被告自 2018 年至 2023 年 6 月受中國國家安全部官員指揮，蒐報在美民主運動人士資料並協助滲透其加密群組。檢方求處法定最高刑期五年，法院以對受害者家屬之損害無法證明為由未判處監禁。",
+   "context": "Tang 曾參與 1989 年天安門民主運動，在中國入獄後赴美取得庇護並歸化為美國公民，居住於紐約法拉盛，曾創立當地非營利組織與民運相關群組。\n美國司法部 2025 年 9 月 16 日宣布其認罪，原定 2026 年 1 月 29 日宣判。美國近年以未登記外國代理人罪追訴替中國監控海外異議人士者，本站亦追蹤 Wanying Zhang 案（見案件追蹤）。",
+   "facts": [
+    "依美國司法部 2025 年新聞稿，Tang 自至少 2018 年至 2023 年 6 月受中國國家安全部官員指揮，回報在美民運人士與異議人士資訊，包括辨識並拍攝活動參與者，並提供移民律師與庇護程序資訊。",
+    "檢方稱 Tang 協助國安部人員滲透在美異議人士使用的加密群組；美聯社報導該群組名為「中國民主黨之友」，約有 140 名華裔成員。",
+    "依美聯社報導，檢方稱 Tang 每年約獲國安部支付 4,200 美元；聯邦調查局 2023 年 6 月約談時，他坦承犯行。",
+    "Tang 於 2025 年 9 月認罪，罪名為共謀在美擔任未登記之中國代理人，法定最高刑期 5 年。",
+    "11 月 12 日（星期四）宣判時，有四名自認受害者到庭陳述；法官判處緩刑 3 年。"
+   ],
+   "issues": [
+    "替外國政府監控僑民、異議人士的行為，以未登記外國代理人罪追訴時，量刑應如何評價對被監控者與其在中國家屬的危害？",
+    "被告自身亦為流亡者並稱受家屬因素牽制時，量刑應如何權衡？"
+   ],
+   "holding": "・罪名：共謀在美擔任未經通知司法部長之外國政府代理人（2025 年 9 月認罪）。\n・檢方：求處法定最高 5 年徒刑；助理檢察官稱受害的民運人士「永遠無法停止回頭張望」，其行為對整個社群造成寒蟬效應。\n・辯方：稱 Tang 想探望在中國病重的父母，起初不知接觸者為情報人員，其母與兄弟已過世。\n・被告：當庭表示深感後悔。\n・法院：判處緩刑 3 年；法官表示檢方關於被告行為導致受害者家屬受害的主張無法證明。",
+   "significance": "本案顯示中國情報機關吸收流亡者回頭監控同一社群的手法；未判監禁的量刑結果可能引發受害社群對嚇阻效果的關注。可觀察同類案件（如 Wanying Zhang 案）的量刑走向。",
+   "editorNote": "本網頁助理 註：本則依美聯社報導整理，罪名與犯罪期間另參照美國司法部 2025 年 9 月 16 日認罪新聞稿；截至本次更新未找到司法部就本次宣判發布的新聞稿。被告中文姓名未見來源載明，故以英文拼寫表示。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "美國",
+    "未登記外國代理人",
+    "國家安全部",
+    "民運人士",
+    "監視",
+    "量刑"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "美國司法部紐約南區檢察署認罪新聞稿（2025 年）",
+     "url": "https://www.justice.gov/usao-sdny/pr/queens-man-pleads-guilty-participating-conspiracy-act-illegal-agent-chinese-government",
+     "official": true
+    },
+    {
+     "label": "美聯社報導（KIRO 7 轉載）",
+     "url": "https://www.kiro7.com/news/national/chinese-dissident/C4MLVUEH2YYMBKC5WI6FP2MWSA/",
+     "official": false
+    },
+    {
+     "label": "華盛頓郵報轉載美聯社報導",
+     "url": "https://www.washingtonpost.com/national/2026/11/12/chinese-dissident-nyc-spying/262a9346-df03-11f1-912c-4fbb80d73f7f_story.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T07:19:37+08:00"
+  },
+  {
+   "id": "2026-11-11-tnr-russia-grozovsky-in-absentia",
+   "court": "RU",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "俄羅斯",
+   "outlet": "Mediazona",
+   "outletCode": "",
+   "date": "2026-11-11",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "莫斯科法院以參與「不受歡迎組織」活動為由，缺席判處流亡經濟評論員 Boris Grozovsky 兩年徒刑，起因為其接受自由電台專訪",
+   "shortTitle": "俄缺席判流亡評論員 Grozovsky 兩年",
+   "point": "因接受自由電台專訪談俄國經濟，被控參與不受歡迎組織",
+   "titleOriginal": "Обозревателя Бориса Грозовского приговорили к 2 годам колонии заочно за интервью «Радио Свобода»",
+   "caseRef": "",
+   "tldr": "俄國獨立媒體 Mediazona 報導，莫斯科一家地方法院在被告不在場的情況下，判處經濟評論員 Boris Grozovsky 兩年徒刑，理由是他 2025 年 11 月接受被俄國列為「不受歡迎組織」的自由電台專訪。記者保護組織稱他已流亡海外。",
+   "memo": "依 Mediazona 2026 年 11 月 11 日報導，莫斯科 Khoroshevsky 區法院以參與「不受歡迎組織」活動罪，缺席判處經濟評論員 Boris Grozovsky 一般管制矯正營徒刑二年，並禁止其管理網站五年；檢方原求處三年十一月。本案起因於其 2025 年 11 月就俄國家庭債務問題接受自由電台（Radio Svoboda，俄國於 2024 年 2 月列為不受歡迎組織）專訪。辯護人以犯意未經證明請求無罪。依 Justice for Journalists 資料，Grozovsky 已流亡海外。",
+   "context": "俄羅斯以「不受歡迎組織」與「外國代理人」制度追訴海外批評者，缺席判決數量近年急增；聯合國俄羅斯人權特別報告員指對海外人士的缺席判決由 2022 年 4 件增至 2025 年 157 件（見相關條目）。\nGrozovsky 2024 年 12 月曾因上自由電台節目遭同一法院以行政違規罰款，並因參與沙卡洛夫基金會的「Strana i mir」媒體計畫，多次依外國代理人規定被罰。",
+   "facts": [
+    "Mediazona 報導，莫斯科 Khoroshevsky 區法院缺席判處 Grozovsky 一般管制矯正營 2 年，並禁止管理網站 5 年；檢方求處 3 年 11 個月。",
+    "起訴事由為其 2025 年 11 月接受自由電台專訪，談論政府處理家庭債務的措施。",
+    "11 月 5 日庭期中，一名證人作證稱經常收聽自由電台，聽到 Grozovsky 以來賓身分負面描述俄國經濟。",
+    "辯護人主張偵查未證明犯意，並質疑經濟專家對經濟前景的評論如何威脅國家安全，請求無罪。",
+    "Justice for Journalists 稱 Grozovsky 已流亡；報導未說明其居住國。"
+   ],
+   "issues": [
+    "以接受外國媒體專訪為由對流亡評論員缺席定罪，是否構成對言論自由的跨境懲罰？",
+    "各國對此類缺席判決衍生的引渡或國際協助請求應如何處理？"
+   ],
+   "holding": "・罪名：參與「不受歡迎組織」活動（缺席審理）。\n・刑度：一般管制矯正營 2 年、禁止管理網站 5 年。\n・辯方：請求無罪，稱犯意未獲證明。",
+   "significance": "本案延續俄國以「不受歡迎組織」罪名對海外媒體評論者缺席定罪的模式，且起因僅為一次專訪。觀察是否有通緝或其他對其本人、財產的後續措施。",
+   "editorNote": "本網頁助理 註：eventDate 留空，因來源未明載宣判日期（Mediazona 於 11 月 11 日報導）；Grozovsky 現居國家來源未載明，「已流亡」依 Justice for Journalists 資料。",
+   "tags": [
+    "跨國鎮壓",
+    "俄羅斯",
+    "缺席審判",
+    "不受歡迎組織",
+    "自由電台",
+    "流亡人士",
+    "外國代理人"
+   ],
+   "related": [
+    "2026-11-05-tnr-russia-zhanna-nemtsova-in-absentia",
+    "2026-10-26-tnr-un-sr-russia-unga-report"
+   ],
+   "sources": [
+    {
+     "label": "Mediazona 報導",
+     "url": "https://zona.media/news/2026/11/11/grozovsky",
+     "official": false
+    },
+    {
+     "label": "Mediazona 起訴報導（10 月 6 日）",
+     "url": "https://zona.media/news/2026/10/06/boris",
+     "official": false
+    },
+    {
+     "label": "Justice for Journalists 個案頁",
+     "url": "https://jfj.fund/?p=112233",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T07:19:37+08:00"
+  },
   {
    "id": "2026-11-05-tnr-taiwan-mac-nine-patterns",
    "court": "CN",
@@ -1065,7 +1195,8 @@
    ],
    "related": [
     "2026-10-06-tnr-un-sr-russia-nowhere-is-safe",
-    "2026-10-29-tnr-russia-svetov-in-absentia-sentence"
+    "2026-10-29-tnr-russia-svetov-in-absentia-sentence",
+    "2026-11-11-tnr-russia-grozovsky-in-absentia"
    ],
    "sources": [
     {
@@ -4893,7 +5024,8 @@
     "家屬"
    ],
    "related": [
-    "2026-10-29-tnr-russia-svetov-in-absentia-sentence"
+    "2026-10-29-tnr-russia-svetov-in-absentia-sentence",
+    "2026-11-11-tnr-russia-grozovsky-in-absentia"
    ],
    "sources": [
     {
