@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-13T23:35:40+08:00",
-  "lastRunLocal": "2026-11-13 23:35",
+  "lastRun": "2026-11-14T07:46:34+08:00",
+  "lastRunLocal": "2026-11-14 07:46",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：美國 3（司法案件 2、政策動態 1）"
+  "lastRunNote": "新增 3 則：美國 1（政策動態 1）、歐盟 1（政策動態 1）、英國 1（研究報告 1）"
  },
  "items": [
   {
@@ -241,7 +241,9 @@
     "馬來西亞",
     "泰國"
    ],
-   "related": [],
+   "related": [
+    "2026-11-13-fin-meridian-fx-apac-results"
+   ],
    "sources": [
     {
      "label": "Cointelegraph 報導",
@@ -1678,7 +1680,8 @@
    "related": [
     "2026-10-05-fin-fincen-withdraws-wallet-mixing-rules",
     "2026-11-06-fin-fincen-mexc-section-9714-order",
-    "2026-11-06-fin-ofac-canadian-msb-iran-crypto"
+    "2026-11-06-fin-ofac-canadian-msb-iran-crypto",
+    "2026-11-08-fin-eu-crypto-sanctions-task-force"
    ],
    "sources": [
     {
@@ -3349,7 +3352,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-29-fin-kalshi-sues-missouri"
+    "2026-10-29-fin-kalshi-sues-missouri",
+    "2026-11-13-fin-house-oversight-prediction-markets-insider-memo"
    ],
    "sources": [
     {
@@ -7997,6 +8001,221 @@
     }
    ],
    "addedAt": "2026-11-13T23:35:40+08:00"
+  },
+  {
+   "id": "2026-11-13-fin-meridian-fx-apac-results",
+   "court": "BOE",
+   "kind": "研究報告",
+   "caseId": "",
+   "jurisdiction": "英國、新加坡、泰國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-13",
+   "importance": 2,
+   "author": "",
+   "title": "英格蘭銀行、新加坡金管局與泰國央行完成 Project Meridian FX APAC 試驗，驗證傳統即時總額清算系統與分散式帳本系統間之外匯同步結算",
+   "shortTitle": "英星泰央行完成跨系統外匯同步結算試驗",
+   "point": "Meridian FX APAC 驗證 RTGS 與 DLT 兩腿同步結算，英格蘭銀行擬 2028 年上線同步介面",
+   "titleOriginal": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems（Project Meridian FX APAC）",
+   "caseRef": "",
+   "tldr": "英國、新加坡、泰國三家央行合作的試驗已完成：讓一筆外匯交易的兩種貨幣，即使一邊在傳統央行清算系統、另一邊在區塊鏈類系統，也能同時完成交割，降低一方付了錢另一方卻沒付的風險。報告也提醒，若營運者幫忙保管資金或計算淨額，法律責任可能跟著改變。",
+   "memo": "依 The Block 2026 年 11 月 13 日報導，英格蘭銀行、新加坡金融管理局及泰國銀行於同日發布聯合聲明及政策報告，宣布完成 Project Meridian FX APAC 試驗，以 Partior 開發之原型，測試於傳統即時總額清算（RTGS）系統與分散式帳本（DLT）系統間同步結算外匯交易兩腿，並測試多邊淨額結算；澳洲儲備銀行及菲律賓央行以觀察員身分參與。政策報告指出作業韌性、結算終局性、治理、責任歸屬及跨境資料共享等議題，並稱營運者如另行持有資金或計算淨部位，其監理責任可能隨之改變。英格蘭銀行規劃於 2028 年推出正式同步化介面。",
+   "context": "英格蘭銀行、新加坡金管局與泰國銀行於 2025 年 11 月 13 日宣布合作探索跨境外匯同步結算，屬英格蘭銀行 Meridian 系列及其批發實驗計畫之一部分，目標為以「同步化」（synchronisation）機制，使不同清算系統中之兩種貨幣同時交割，降低外匯結算風險（Herstatt 風險）。\n英格蘭銀行已規劃在其新一代 RTGS 中提供同步化介面，使外部帳本（包括代幣化資產平台）可與央行貨幣結算協調。新加坡金管局與泰國銀行則分別推動 Project Guardian、BLOOM 等代幣化與跨境支付計畫。",
+   "facts": [
+    "依 The Block 報導，三家央行於 2026 年 11 月 13 日（週五）發布聯合聲明。",
+    "試驗以 Partior 開發之原型，跨多種貨幣、技術、結算基礎設施及時區，測試外匯交易兩腿之同步結算。",
+    "原型可比對結算指示、圈存資金、監控付款是否就緒並啟動結算，並測試多邊淨額結算以降低流動性需求。",
+    "澳洲儲備銀行及菲律賓央行以觀察員身分參與。",
+    "英格蘭銀行規劃於 2028 年推出正式同步化介面；試驗結果將用於後續同步結算工作。"
+   ],
+   "issues": [
+    "傳統 RTGS 與 DLT 系統間同步結算之結算終局性如何確保？",
+    "同步化營運者若兼具持有資金或計算淨額功能，應受何種監理？",
+    "跨境資料共享、治理與責任歸屬之法律安排。"
+   ],
+   "holding": "・試驗結論：同步化機制可在不同類型清算系統間協調外匯兩腿交割，提供降低結算風險之實證。\n・多邊淨額：測試多邊淨額結算，可減少銀行結算所需流動性。\n・政策議題：報告提出作業韌性、結算終局性、治理、責任及跨境資料共享等待解問題。\n・監理界線：營運者如增加持有資金或計算淨部位等功能，其監理責任可能改變。\n・後續：英格蘭銀行預計 2028 年推出正式同步化介面。",
+   "significance": "本試驗為央行貨幣與代幣化系統互通之重要實證，結論直接涉及結算終局性與營運者監理定位等法律問題，並與英格蘭銀行 RTGS 同步化介面時程相連。應留意政策報告全文所列之法律與監理建議，以及其他央行是否參與後續階段。",
+   "editorNote": "本網頁助理 註：本則依 The Block 報導撰寫，報導所引英格蘭銀行新聞稿及政策報告頁面，本網頁助理未能直接開啟核對全文；新加坡金管局及泰國銀行之對應新聞稿亦未及查證。",
+   "tags": [
+    "代幣化",
+    "跨境支付",
+    "批發結算",
+    "同步結算",
+    "英格蘭銀行",
+    "新加坡金管局",
+    "泰國銀行",
+    "英國",
+    "新加坡",
+    "泰國"
+   ],
+   "related": [
+    "2026-10-23-fin-mas-bloom-bnm-bot-join"
+   ],
+   "sources": [
+    {
+     "label": "英格蘭銀行、新加坡金管局及泰國銀行聯合新聞稿",
+     "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
+     "official": true
+    },
+    {
+     "label": "Project Meridian FX APAC 政策報告",
+     "url": "https://www.bankofengland.co.uk/payments/payments-innovation/wholesale-experiments-programme/project-meridian-fx-apac-policy-report",
+     "official": true
+    },
+    {
+     "label": "英格蘭銀行 2025 年 11 月計畫啟動新聞稿",
+     "url": "https://www.bankofengland.co.uk/news/2025/november/boe-mas-bot-to-explore-synchronised-fx-settlement-across-borders",
+     "official": true
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T07:46:34+08:00"
+  },
+  {
+   "id": "2026-11-13-fin-house-oversight-prediction-markets-insider-memo",
+   "court": "US",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-13",
+   "importance": 2,
+   "author": "",
+   "title": "美國眾議院監督委員會主席 Comer 公布預測市場內線交易調查備忘錄，建議立法限制甚至禁止政府官員於預測市場下注",
+   "shortTitle": "眾院監督委員會建議限制官員押注預測市場",
+   "point": "調查備忘錄建議立法限制或全面禁止三權官員交易，並促平台與機關分享資訊",
+   "titleOriginal": "House Oversight Chair calls for possible ban on government officials' prediction market bets over insider trading concerns",
+   "caseRef": "",
+   "tldr": "美國眾議院監督委員會調查預測市場的內線交易風險後，主席 Comer 公布備忘錄，建議國會考慮立法，限制聯邦公務員、議員和幕僚能押注的事件，甚至全面禁止，並讓平台和政府機關分享執法所需資料。目前還沒有具體法案。",
+   "memo": "依 The Block 2026 年 11 月 13 日報導，美國眾議院監督委員會主席 James Comer 於同日公布該委員會自 2026 年 5 月起就預測市場內線交易風險之調查備忘錄。備忘錄建議國會考慮立法限制聯邦公務員、國會議員及幕僚得交易之事件合約，或全面禁止交易，或限制與政府活動相關之合約，並適用於三權部門官員；另建議國會促成預測市場業者與聯邦機關分享執法所需資訊。報導未載具體法案。",
+   "context": "Comer 於 2026 年 5 月就 Kalshi、Polymarket 等預測市場之內線交易問題展開調查，9 月並函詢 Crypto.com、Hyperliquid 及 PredictIt 之身分查核與可疑交易。\n此前已有現役軍人涉嫌利用機密資訊於 Polymarket 下注等案例；參議院於 2026 年 4 月通過決議禁止參議員交易預測市場。\n預測市場同時面臨各州以賭博法提起之訴訟及 CFTC 管轄權之爭。",
+   "facts": [
+    "依 The Block 報導，Comer 於 2026 年 11 月 13 日公布調查結果備忘錄。",
+    "委員會審閱約 1,700 頁文件，並取得預測市場業者五次兩黨幕僚簡報。",
+    "調查範圍涵蓋政府官員、軍人及具安全許可人員之內線交易風險。",
+    "Kalshi 與 Polymarket 表示已強化控管以防止官員利用內線資訊。",
+    "報導未指明具體法案或法案編號。"
+   ],
+   "issues": [
+    "以立法禁止或限制官員交易事件合約之範圍如何界定（三權部門、軍人、具安全許可者）？",
+    "預測市場平台與聯邦機關之資訊分享機制與隱私保護。",
+    "與 CFTC 既有反操縱、反詐欺規範之關係。"
+   ],
+   "holding": "・立法選項一：限制聯邦公務員、國會議員及幕僚得下注之事件。\n・立法選項二：全面禁止交易，或限制與政府活動相關之合約；適用於三權部門官員。\n・資訊分享：國會應促成預測市場業者與聯邦機關分享執法所需資訊。\n・Comer 表示國會須考慮更多改革以防止公共貪腐並恢復公眾信任。",
+   "significance": "此為國會首次就預測市場內線交易提出系統性立法建議，可能成為預測市場聯邦立法之一環。新一屆國會由民主黨主導，應留意是否有兩黨法案提出及 CFTC 之配合措施。",
+   "editorNote": "本網頁助理 註：本則依 The Block 報導撰寫；報導所引委員會新聞稿頁面，本網頁助理未能直接開啟核對備忘錄全文。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "內線交易",
+    "美國國會",
+    "眾議院監督委員會",
+    "Kalshi",
+    "Polymarket",
+    "美國"
+   ],
+   "related": [
+    "2026-10-30-fin-sec-woodcock-prediction-markets"
+   ],
+   "sources": [
+    {
+     "label": "眾議院監督委員會新聞稿（備忘錄）",
+     "url": "https://oversight.house.gov/release/house-oversight-committee-releases-memorandum-on-insider-trading-risks-in-prediction-markets/",
+     "official": true
+    },
+    {
+     "label": "眾議院監督委員會 2026 年 5 月調查啟動新聞稿",
+     "url": "https://oversight.house.gov/release/comer-launches-investigation-into-insider-trading-on-prediction-market-platforms/",
+     "official": true
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T07:46:34+08:00"
+  },
+  {
+   "id": "2026-11-08-fin-eu-crypto-sanctions-task-force",
+   "court": "EU",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "歐盟",
+   "outlet": "BlockchainReporter；SpendNode",
+   "outletCode": "BR",
+   "date": "2026-11-08",
+   "eventDate": "2026-11-06",
+   "importance": 2,
+   "author": "",
+   "title": "歐盟執委會宣布成立加密資產制裁工作小組，偵查並因應經由加密資產規避對俄制裁之行為，並另設制裁辦公室",
+   "shortTitle": "歐盟成立加密資產制裁工作小組",
+   "point": "Albuquerque 11 月 6 日宣布，鎖定以加密資產規避對俄制裁，依報導初步運作 12 個月",
+   "titleOriginal": "Statement by Commissioner Albuquerque on the outcomes of the tenth High-Level Meeting on sanctions（EU Crypto Sanctions Task Force）",
+   "caseRef": "",
+   "tldr": "歐盟負責金融服務的執委 Albuquerque 宣布成立「加密資產制裁工作小組」，專門找出有人用加密資產繞過歐盟對俄羅斯制裁的管道，並同時設立制裁辦公室，加強會員國間的協調。這不是新的禁令，也沒有凍結任何帳戶。",
+   "memo": "依 BlockchainReporter 及 SpendNode 2026 年 11 月 8 日報導，歐盟執委會金融服務執委 Maria Luís Albuquerque 於 2026 年 11 月 5 日主持第十次歐盟限制措施高階專家小組會議後，於 11 月 6 日發布聲明宣布成立加密資產制裁工作小組，由會員國、執委會及歐洲對外事務部代表組成，以強化偵查及因應經由加密資產規避歐盟金融制裁之能力；執委會另設專責制裁辦公室以加強協調及對會員國之指引。依報導引述歐盟外交人員，工作小組初步預定運作 12 個月；執委會未公布其授權依據、預算或啟動日期。",
+   "context": "歐盟理事會於 2026 年 7 月 23 日通過第 21 輪對俄制裁，將交易禁令擴及六個法域之 14 個加密資產相關平台，並得對第三國全面禁止加密資產服務。\n依歐盟分工，制裁違反之調查與罰則由會員國執行，執委會負責監督一致適用並發布指引。\n同期美國 FinCEN 亦依第 9714 條切斷 MEXC 與美國金融體系往來。",
+   "facts": [
+    "2026 年 11 月 5 日：Albuquerque 於布魯塞爾主持第十次限制措施高階專家小組會議，歐洲反詐欺局（OLAF）參與討論。",
+    "2026 年 11 月 6 日：執委會發布聲明宣布成立加密資產制裁工作小組。",
+    "依 SpendNode 報導，工作小組屬非正式性質，由會員國、執委會及歐洲對外事務部代表組成；依報導引述 Kyiv Independent，初步預定運作 12 個月並借重烏克蘭、英國等第三國專業。",
+    "執委會同時宣布設立專責制裁辦公室，負責協調、加速對會員國之指引及資料分析。",
+    "依 BlockchainReporter 報導，執委會未公布工作小組之授權、預算、人力或法律文件，亦未指明對象。"
+   ],
+   "issues": [
+    "非正式工作小組如何與會員國主管機關及 MiCA 下之 CASP 監理協作？",
+    "以加密資產規避制裁之偵查，是否將導致對第三國平台之進一步制裁或全面禁令？"
+   ],
+   "holding": "・成立加密資產制裁工作小組，偵查並因應以加密資產規避歐盟金融制裁（特別是對俄制裁）之行為。\n・組成：會員國、執委會及歐洲對外事務部代表；依報導初步運作 12 個月。\n・另設制裁辦公室，加強協調、指引及資料分享。\n・本措施不構成新禁令，亦非凍結帳戶之宣布。",
+   "significance": "顯示歐盟將加密資產列為制裁執行之重點，CASP 與穩定幣發行人之制裁篩檢義務可能受到更多關注，並可能為後續制裁方案提供依據。應留意工作小組之正式授權、成果及第 22 輪制裁方案內容。",
+   "editorNote": "本網頁助理 註：本則依 BlockchainReporter 及 SpendNode 報導撰寫；報導所引執委會聲明頁面，本網頁助理未能直接開啟核對全文。工作小組之 12 個月期間係報導引述歐盟外交人員之說法，非執委會正式公布。",
+   "tags": [
+    "洗錢防制",
+    "制裁",
+    "加密資產",
+    "歐盟執委會",
+    "俄羅斯",
+    "歐盟"
+   ],
+   "related": [
+    "2026-10-02-fin-ofac-a7-a7a5-designation"
+   ],
+   "sources": [
+    {
+     "label": "執委會 Albuquerque 執委聲明（第十次制裁高階會議成果）",
+     "url": "https://finance.ec.europa.eu/news/statement-commissioner-albuquerque-outcomes-tenth-meeting-high-level-meeting-sanctions-2026-11-06_en",
+     "official": true
+    },
+    {
+     "label": "歐盟理事會第 21 輪制裁新聞稿",
+     "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/",
+     "official": true
+    },
+    {
+     "label": "BlockchainReporter 報導",
+     "url": "https://blockchainreporter.net/eu-crypto-sanctions-task-force/",
+     "official": false
+    },
+    {
+     "label": "SpendNode 報導",
+     "url": "https://www.spendnode.io/blog/eu-launches-crypto-task-force-to-target-russia-sanctions-evasion/",
+     "official": false
+    },
+    {
+     "label": "Kyiv Independent 報導",
+     "url": "https://kyivindependent.com/eu-expands-ukraine-sanctions-push-with-new-office-and-crypto-task-force/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T07:46:34+08:00"
   }
  ],
  "agenda": [
