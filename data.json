@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-14T07:09:04+08:00",
-  "lastRunLocal": "2026-11-14 07:09",
+  "lastRun": "2026-11-14T23:03:41+08:00",
+  "lastRunLocal": "2026-11-14 23:03",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 2 則：ICC 1（終結阿富汗調查涉美軍部分）、EJIL 評論 1"
+  "lastRunNote": "新增 1 則：其他 1（美國國務卿魯比歐演講抨擊 ICC）"
  },
  "items": [
   {
@@ -7096,7 +7096,8 @@
    ],
    "addedAt": "2026-11-12T07:09:49+08:00",
    "related": [
-    "2026-11-05-other-ngos-cut-ties-icc-sanctions"
+    "2026-11-05-other-ngos-cut-ties-icc-sanctions",
+    "2026-11-13-other-rubio-fedsoc-icc"
    ]
   },
   {
@@ -7490,6 +7491,67 @@
     "2026-11-13-icc-afghanistan-part-closed",
     "2026-10-05-icc-afghanistan-warrants"
    ]
+  },
+  {
+   "id": "2026-11-13-other-rubio-fedsoc-icc",
+   "court": "OTHER",
+   "kind": "機構動態",
+   "caseId": "us-sanctions-icc",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-13",
+   "importance": 2,
+   "title": "美國國務卿魯比歐在聯邦黨人學會年會演講，抨擊國際刑事法院「非法」並稱國際法是菁英的工具，暗示美國不會接受法院對美國人執法",
+   "shortTitle": "魯比歐演講抨擊 ICC 與國際法",
+   "point": "稱國際法是「工具」而非中立規則，並以龐培名言暗示美國將拒絕法院對美國人的任何執行",
+   "titleOriginal": "Secretary Rubio's Keynote Remarks at the Federalist Society National Lawyers Convention",
+   "caseRef": "",
+   "tldr": "美國國務卿魯比歐 11 月 13 日在華府對保守派律師團體演講，說國際刑事法院是沒有正當性、不對美國人負責的「世界法庭」，並為美國制裁法院辯護。他還說國際法被拿來反對美國幾乎每一項重大外交行動，是菁英推進自身利益的工具。",
+   "memo": "美國國務卿魯比歐於 2026 年 11 月 13 日在聯邦黨人學會全國律師年會發表主題演講，稱國際刑事法院為不具正當性、未經選舉之世界法庭，美國未曾同意其管轄，並為本年對該法院之制裁辯護；另主張國際法遭援引反對美國幾乎所有重大外交行動，係菁英以普世原則為名推進自身利益之工具，並暗示法院如對美國人執行裁判，美國將拒絕配合。",
+   "context": "美國於 2026 年 10 月 9 日將制裁擴及國際刑事法院整體機構（見本站「美國制裁國際刑事法院」議題）。其後歐盟理事會要求美國撤回制裁，聯合國大會 11 月 2 日通過譴責對法院威脅與干預的決議，11 月 11 日並有報導稱荷蘭與美國磋商限縮法院權限（荷蘭外交部否認有具體提案）。\n美國簽署但未批准《羅馬規約》。法院締約國大會將於 11 月 30 日開幕。",
+   "facts": [
+    "11 月 13 日（週五），魯比歐在華府舉行的聯邦黨人學會（Federalist Society）全國律師年會發表主題演講，據 AFP 報導獲全場起立鼓掌。",
+    "他稱國際刑事法院是對主權國家（包括非締約國）主張權力的未經選舉世界法庭，美國人從未同意其管轄，法院也不對美國人負責，並為川普政府本年對法院的制裁辯護。",
+    "他提及法院首任檢察官指控美國在加勒比海攻擊販毒船隻構成危害人類罪。",
+    "他列舉攻擊販毒船、逮捕委內瑞拉領導人馬杜洛、移民執法等，稱國際法幾乎被用來反對美國每一項重大外交決定，並說「國際法是一種工具」。",
+    "他引用羅馬將軍龐培「別對握劍的人引用法律」一語，暗示法院若試圖對美國人執行裁判，美國不會接受。",
+    "他也批評聯合國及其人權專家，並表示國務院將持續以美國國旗取代外國國旗展示。"
+   ],
+   "issues": [
+    "國際刑事法院對非締約國國民之管轄是否具正當基礎（羅馬規約第 12 條第 2 項 a 款屬地管轄）",
+    "美國制裁法院及其人員與締約國依羅馬規約第 86 條以下合作義務、法院獨立性之關係"
+   ],
+   "holding": "本則非裁判。演講屬美國政府高層的政策表態，並未宣布新的制裁措施；AFP 報導未載國際刑事法院或其他國家的回應。",
+   "significance": "演講在締約國大會開幕前兩週發表，顯示美國對法院的立場並無鬆動跡象；締約國大會如何回應制裁、歐盟是否啟動《阻斷法規》，仍是接下來的觀察重點。",
+   "editorNote": "本網頁助理 註：本則依 AFP（經 Yahoo 新聞轉載）、Yeni Şafak 報導及第三方網站刊載的演講逐字稿撰寫，未取得美國國務院官方逐字稿；逐字稿網站未載明演講日期，日期依 AFP 報導。以下為本網頁助理補充，非來源內容：演講所稱「首任檢察官」應指 Luis Moreno Ocampo，其已非法院職員，其言論不代表法院立場。",
+   "tags": [
+    "國際刑事法院",
+    "美國制裁",
+    "非締約國",
+    "締約國大會",
+    "美國",
+    "委內瑞拉"
+   ],
+   "sources": [
+    {
+     "label": "AFP 報導（Yahoo 新聞轉載）",
+     "url": "https://sg.news.yahoo.com/rubio-takes-swipe-international-law-235613675.html",
+     "official": false
+    },
+    {
+     "label": "Yeni Şafak 報導",
+     "url": "https://en.yenisafak.com/world/rubio-sharply-criticizes-icc-and-un-in-speech-to-us-lawyers-3725564",
+     "official": false
+    },
+    {
+     "label": "演講逐字稿（第三方網站）",
+     "url": "https://singjupost.com/transcript-secretary-rubios-keynote-remarks-at-the-federalist-society-national-lawyers-convention/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T23:03:41+08:00",
+   "related": [
+    "2026-11-11-other-nl-us-icc-restrictions-report"
+   ]
   }
  ],
  "agenda": [
@@ -7847,7 +7909,7 @@
    "nameOriginal": "U.S. sanctions against the International Criminal Court",
    "caseRef": "",
    "summary": "美國陸續制裁 ICC 官員，2026 年 10 月 9 日擴及法院整體；美國法院訴訟、歐盟保護措施與各國表態同步進行。",
-   "status": "11 月 11 日有未經證實報導稱荷蘭與美國磋商限縮法院權限（荷蘭外交部稱無具體提案）；歐盟《阻斷法規》仍未啟動，締約國大會將於 11 月 30 日開幕。"
+   "status": "美國國務卿魯比歐 11 月 13 日演講再度抨擊法院並為制裁辯護；歐盟《阻斷法規》仍未啟動，締約國大會將於 11 月 30 日開幕。"
   },
   {
    "id": "icc-governance",
