@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-14T07:46:34+08:00",
-  "lastRunLocal": "2026-11-14 07:46",
+  "lastRun": "2026-11-14T23:46:25+08:00",
+  "lastRunLocal": "2026-11-14 23:46",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：美國 1（政策動態 1）、歐盟 1（政策動態 1）、英國 1（研究報告 1）"
+  "lastRunNote": "新增 3 則：美國 2（執法案件 1、司法案件 1）、亞太與其他 1（政策動態 1）"
  },
  "items": [
   {
@@ -3428,7 +3428,8 @@
     "2026-10-30-fin-cftc-selig-binance-hack-registration",
     "2026-10-31-fin-taiwan-fsc-cbc-binance-hack-custody",
     "2026-10-31-fin-efri-binance-stablecoin-freeze-analysis",
-    "2026-11-05-fin-fed-occ-query-banks-binance-hack"
+    "2026-11-05-fin-fed-occ-query-banks-binance-hack",
+    "2026-11-13-fin-doj-binance-hack-seizure-facestealer"
    ],
    "sources": [
     {
@@ -5160,7 +5161,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-31-fin-fbi-binance-tradertraitor-blocklist"
+    "2026-10-31-fin-fbi-binance-tradertraitor-blocklist",
+    "2026-11-13-fin-doj-binance-hack-seizure-facestealer"
    ],
    "sources": [
     {
@@ -5488,7 +5490,8 @@
     "2026-11-06-fin-blue-lake-rancheria-kalshi-injunction",
     "2026-11-10-fin-missouri-prediction-market-suits-escalate",
     "2026-11-11-fin-cftc-warns-kalshi-possible-charges",
-    "2026-11-12-fin-louisiana-court-tro-prediction-markets"
+    "2026-11-12-fin-louisiana-court-tro-prediction-markets",
+    "2026-11-13-fin-cftc-doj-sue-louisiana"
    ],
    "sources": [
     {
@@ -6607,7 +6610,8 @@
     "南韓"
    ],
    "related": [
-    "2026-11-12-fin-korea-fsc-hack-withdrawal-freeze-no-action"
+    "2026-11-12-fin-korea-fsc-hack-withdrawal-freeze-no-action",
+    "2026-11-13-fin-korea-min-daba-jan-9-target"
    ],
    "sources": [
     {
@@ -7653,7 +7657,8 @@
    "related": [
     "2026-11-11-fin-sdny-denies-novig-injunction-ny",
     "2026-11-10-fin-missouri-prediction-market-suits-escalate",
-    "2026-11-12-fin-louisiana-court-tro-prediction-markets"
+    "2026-11-12-fin-louisiana-court-tro-prediction-markets",
+    "2026-11-13-fin-cftc-doj-sue-louisiana"
    ],
    "sources": [
     {
@@ -7860,7 +7865,8 @@
    "related": [
     "2026-11-12-fin-louisiana-ag-sues-prediction-markets",
     "2026-11-05-fin-cftc-impartial-access-geofencing",
-    "2026-11-12-fin-doj-cftc-sue-arkansas-prediction-markets"
+    "2026-11-12-fin-doj-cftc-sue-arkansas-prediction-markets",
+    "2026-11-13-fin-cftc-doj-sue-louisiana"
    ],
    "sources": [
     {
@@ -7929,7 +7935,8 @@
    "related": [
     "2026-11-04-fin-arkansas-ag-sues-kalshi",
     "2026-10-27-fin-cftc-sues-utah-prediction-markets",
-    "2026-11-12-fin-louisiana-court-tro-prediction-markets"
+    "2026-11-12-fin-louisiana-court-tro-prediction-markets",
+    "2026-11-13-fin-cftc-doj-sue-louisiana"
    ],
    "sources": [
     {
@@ -8216,6 +8223,226 @@
     }
    ],
    "addedAt": "2026-11-14T07:46:34+08:00"
+  },
+  {
+   "id": "2026-11-13-fin-doj-binance-hack-seizure-facestealer",
+   "court": "US",
+   "kind": "執法案件",
+   "caseId": "binance-2026-hack-response",
+   "jurisdiction": "美國",
+   "outlet": "Cointelegraph；Unchained",
+   "outletCode": "CT",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-12",
+   "importance": 2,
+   "author": "",
+   "title": "美國司法部取得法院授權，扣押或限制處分逾 12 億美元幣安遭竊加密資產，並瓦解北韓「FaceStealer」深偽視訊詐騙基礎設施",
+   "shortTitle": "美司法部獲准扣押幣安遭竊 12 億美元",
+   "point": "約占已凍結 27 億美元之一部；另查扣北韓 FaceStealer 詐騙雲端設施",
+   "titleOriginal": "Justice Department Announces Actions to Disrupt North Korea's Massive Theft of Cryptocurrency",
+   "caseRef": "",
+   "tldr": "美國司法部宣布，已經取得法院許可，可以扣押或凍結超過 12 億美元、從幣安被偷走的加密資產；美方認為這次駭案是北韓軍方駭客所為。司法部同時查扣了北韓用假視訊會議騙人安裝惡意程式的雲端設備，這個手法據稱 18 個月內騙走逾 4 億美元。",
+   "memo": "依 Cointelegraph 及 Unchained 2026 年 11 月 13 日報導，美國司法部於 2026 年 11 月 12 日宣布，已取得法院授權扣押或限制處分逾 12 億美元與 2026 年 10 月 29 日前後幣安遭竊案相關之加密資產；聯邦調查局將該案歸因於北韓軍方駭客組織 TraderTraitor，報導稱政府與民間迄今已凍結逾 27 億美元遭竊資產，上開 12 億美元為其中一部。司法部並同時宣布查扣北韓「FaceStealer」社交工程詐騙所用之雲端基礎設施，該手法據聯邦調查局估計於 18 個月內竊取逾 4 億美元加密資產。報導未載明核發授權之法院及法律依據。",
+   "context": "幣安於 2026 年 10 月 29 日前後遭竊逾 60 億美元虛擬資產，FBI 10 月 31 日發布警示認定北韓 TraderTraitor 為主謀，並公布地址請業者封鎖。\n事件發生後，Tether 與 Circle 等穩定幣發行人凍結大額遭竊資產，美國聯準會及 OCC 依報導向銀行查詢相關風險，南韓金融委員會亦調整交易所遭駭時暫停出入金之規範。\n美國司法部過去對北韓相關竊取之加密資產，多以民事沒收程序扣押，例如 2025 年 11 月針對 APT38 約 1,500 萬美元之行動。",
+   "facts": [
+    "依報導，司法部於 2026 年 11 月 12 日（週四）宣布取得法院授權，扣押或限制處分逾 12 億美元遭竊加密資產。",
+    "依報導，政府與民間合作迄今已凍結逾 27 億美元遭竊資產；12 億美元屬其中一部。",
+    "司法部刑事司助理部長 A. Tysen Duva 表示已立即阻止約一半之竊取資產；國家安全司主管 M. Scott Proctor 表示將運用一切工具扣押並返還北韓不法所得。",
+    "洛杉磯聯邦檢察官宣布瓦解 FaceStealer 詐騙所用之雲端基礎設施；FBI 估計該手法 18 個月內竊取逾 4 億美元，並依令狀查扣逾 900 段受害人視訊畫面。",
+    "FaceStealer 以遭盜帳號寄送會議邀請、播放熟人錄影並佯稱音訊故障，誘使目標安裝惡意程式；FBI 技術報告稱其主要仍使用真實盜錄影像，而非深偽。",
+    "報導未載明核發授權之法院、地區及法律依據，亦未列明所涉代幣種類。"
+   ],
+   "issues": [
+    "對已由民間（如穩定幣發行人）凍結之資產，美國政府如何以扣押或沒收程序取得並返還受害人？",
+    "跨鏈橋、混幣器與交易所之配合封鎖義務，是否將因本案轉化為正式監理要求？"
+   ],
+   "holding": "・司法部取得法院授權，扣押或限制處分逾 12 億美元幣安遭竊加密資產。\n・美方將竊案歸因於北韓軍方 TraderTraitor。\n・另查扣北韓 FaceStealer 社交工程詐騙之雲端設施及受害人影像。\n・司法部表示將持續追查並返還北韓不法所得。",
+   "significance": "顯示美國以扣押與沒收程序追回大規模加密資產竊案所得之能力，也凸顯穩定幣發行人凍結機制在執法上的作用。後續應留意正式沒收訴訟、OFAC 是否制裁指定，以及資產返還幣安或受害人之程序。",
+   "editorNote": "本網頁助理 註：本則依 Cointelegraph 及 Unchained 報導撰寫；司法部新聞稿頁面本網頁助理未能直接開啟核對全文。eventDate 係依報導所稱司法部「週四」宣布、並以報導日期 2026 年 11 月 13 日（週五）推算為 11 月 12 日。",
+   "tags": [
+    "洗錢防制",
+    "加密資產",
+    "北韓",
+    "幣安",
+    "司法部",
+    "扣押",
+    "美國"
+   ],
+   "related": [
+    "2026-10-31-fin-fbi-binance-tradertraitor-blocklist",
+    "2026-11-05-fin-fed-occ-query-banks-binance-hack"
+   ],
+   "sources": [
+    {
+     "label": "美國司法部新聞稿",
+     "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+     "official": true
+    },
+    {
+     "label": "FBI／IC3 FaceStealer 技術報告（PDF）",
+     "url": "https://www.ic3.gov/CSA/2026/261112.pdf",
+     "official": true
+    },
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
+     "official": false
+    },
+    {
+     "label": "Unchained 報導",
+     "url": "https://unchainedcrypto.com/court-order-lets-doj-lock-up-1-2-billion-of-north-koreas-stolen-binance-crypto/",
+     "official": false
+    },
+    {
+     "label": "CNBC 報導",
+     "url": "https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T23:46:25+08:00"
+  },
+  {
+   "id": "2026-11-13-fin-cftc-doj-sue-louisiana",
+   "court": "CFTC",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國路易斯安那州",
+   "outlet": "Securities.io；TokenPost",
+   "outletCode": "SIO",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-13",
+   "importance": 2,
+   "author": "",
+   "title": "CFTC 與美國聯邦政府於路易斯安那東區聯邦地院起訴路易斯安那州，主張州法就 CFTC 監理市場之事件合約遭聯邦法優先適用，請求禁止執行州法院暫時限制令",
+   "shortTitle": "CFTC 起訴路易斯安那州",
+   "point": "請求禁止執行或延長 11 月 12 日州法院限制令；為 CFTC 起訴之第 12 州",
+   "titleOriginal": "CFTC Sues Louisiana Over Order Blocking Event Contracts（CFTC Release No. 9326-26）",
+   "caseRef": "CFTC Release No. 9326-26",
+   "tldr": "路易斯安那州法院前一天在業者沒有機會答辯的情況下，下令 32 家受 CFTC 監理的業者停止對州內居民提供事件合約。CFTC 隨即和聯邦政府一起到聯邦法院告路易斯安那州，主張這些合約屬於聯邦管轄的交換交易，州不能用賭博法禁止，並請求法院禁止州政府執行該命令。",
+   "memo": "依 Securities.io 及 TokenPost 2026 年 11 月 13 日報導，美國商品期貨交易委員會（CFTC）與美國聯邦政府於 2026 年 11 月 13 日向路易斯安那東區聯邦地方法院起訴路易斯安那州、州檢察總長 Liz Murrill、州博弈管制委員會等，依最高條款以明示、領域及衝突優先適用為由，主張事件合約屬《商品交易法》所定交換，於指定契約市場交易者專屬 CFTC 管轄，州命令並牴觸 CFTC 公平近用規定，請求確認州法於該等交易之適用無效，並核發初步及永久禁制令，禁止州政府執行或延長州第 21 司法區法院 11 月 12 日單方核發之暫時限制令。本件為 CFTC 就此爭議起訴之第 12 州（CFTC Release No. 9326-26）。",
+   "context": "路易斯安那州博弈管制委員會於 2025 年 12 月 5 日發布公告，認定運動事件合約屬州法上之運動博弈，CFTC 執照不能免除刑事追訴；州 2026 年 8 月 1 日施行之 Act No. 182 擴大電腦賭博罪及罰則。\n2026 年 11 月 12 日州檢察總長於州法院起訴預測市場業者並取得單方暫時限制令。\nCFTC 先前已對猶他州、阿肯色州等州提告，並於 11 月 5 日發布公平近用解釋，要求指定契約市場停止依州別封鎖。",
+   "facts": [
+    "2026 年 11 月 13 日：CFTC 宣布與美國聯邦政府於路易斯安那東區聯邦地院起訴。",
+    "被告：路易斯安那州、檢察總長 Liz Murrill（官方身分）、州博弈管制委員會、州警博弈執法處及其他州官員。",
+    "州第 21 司法區法院 11 月 12 日之單方暫時限制令涵蓋 32 家 CFTC 監理實體（含指定契約市場、期貨商及結算機構），適用於州內居民之運動、選舉及頒獎等事件合約。",
+    "Act No. 182 規定電腦賭博最高罰金 10 萬美元、最重五年徒刑；明知協助者最高罰金 2 萬美元、最重五年徒刑。",
+    "依報導，路易斯安那州為 CFTC 就此爭議起訴之第 12 州；CFTC 另於四個聯邦上訴法院及一州最高法院提出法院之友意見書；亞利桑那、伊利諾及明尼蘇達州已有對州執法之初步禁制令。",
+    "CFTC 主席 Selig 同日於研討會批評部分州對業者創辦人提出刑事追訴，並表示願將爭議訴至最高法院。"
+   ],
+   "issues": [
+    "CFTC 監理之指定契約市場上之事件合約，是否屬《商品交易法》下之交換而排除州賭博法？",
+    "聯邦政府可否請求聯邦法院禁止州法院暫時限制令之執行或延長？",
+    "CFTC 公平近用規定與州別封鎖禁令之衝突如何處理？"
+   ],
+   "holding": "・訴因：依最高條款主張明示、領域及衝突優先適用。\n・主張：事件合約屬交換，於指定契約市場交易者專屬 CFTC 管轄；州命令牴觸 CFTC 要求全國公平近用之規定。\n・請求：確認路易斯安那州法於 CFTC 監理市場交易之適用遭優先適用而無效；核發初步及永久禁制令，禁止相關州調查與執法，包括執行或延長 11 月 12 日暫時限制令。",
+   "significance": "聯邦政府直接對州法院單方命令提起聯邦訴訟，使預測市場管轄爭議再升高；州法院 11 月 30 日將審理初步禁制令，聯邦法院是否先行核發救濟值得注意。多州訴訟與各巡迴法院分歧，可能使爭議最終進入最高法院。",
+   "editorNote": "本網頁助理 註：本則依 Securities.io 與 TokenPost 報導撰寫；CFTC 新聞稿與起訴狀頁面本網頁助理未能直接開啟核對全文。各報導對州限制令所涉業者數量記載不一（10 家、30 餘家或 32 家實體），本則採 Securities.io 引述起訴狀之 32 家實體。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "CFTC",
+    "聯邦優先適用",
+    "路易斯安那州",
+    "美國"
+   ],
+   "related": [
+    "2026-11-12-fin-louisiana-court-tro-prediction-markets",
+    "2026-11-12-fin-louisiana-ag-sues-prediction-markets",
+    "2026-11-12-fin-doj-cftc-sue-arkansas-prediction-markets",
+    "2026-11-05-fin-cftc-impartial-access-geofencing"
+   ],
+   "sources": [
+    {
+     "label": "CFTC 新聞稿（Release No. 9326-26）",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9326-26",
+     "official": true
+    },
+    {
+     "label": "CFTC 起訴狀全文（PDF）",
+     "url": "https://www.cftc.gov/media/14936/OGC_LouisianaCompliant111326/download",
+     "official": true
+    },
+    {
+     "label": "Securities.io 分析報導",
+     "url": "https://www.securities.io/cftc-sues-louisiana-over-order-blocking-event-contracts/",
+     "official": false
+    },
+    {
+     "label": "TokenPost 報導",
+     "url": "https://www.tokenpost.com/news/regulation/57116",
+     "official": false
+    },
+    {
+     "label": "The Block 報導（Selig 談州刑事追訴）",
+     "url": "https://theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T23:46:25+08:00"
+  },
+  {
+   "id": "2026-11-13-fin-korea-min-daba-jan-9-target",
+   "court": "KR",
+   "kind": "政策動態",
+   "caseId": "kr-digital-asset-basic-act",
+   "jurisdiction": "南韓",
+   "outlet": "Bloomingbit",
+   "outletCode": "BB",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-13",
+   "importance": 1,
+   "author": "",
+   "title": "南韓執政黨議員閔丙德表示《數位資產基本法》目標於 2027 年 1 月 9 日前完成立法，趕在美國 GENIUS Act 施行前；並質疑交易所大股東持股上限與銀行主導穩定幣模式",
+   "shortTitle": "韓議員：數位資產基本法拚 1 月 9 日完成",
+   "point": "欲趕在 GENIUS Act 1 月 18 日施行前，質疑持股上限及銀行過半發行模式",
+   "titleOriginal": "South Korea Lawmaker Min Says Digital Asset Framework Act to Be Finished by Jan. 9",
+   "caseRef": "",
+   "tldr": "南韓執政黨負責加密資產立法的議員閔丙德說，規範韓元穩定幣等事項的《數位資產基本法》希望在明年 1 月 9 日前完成，因為美國穩定幣法 1 月 18 日就要上路。他也不贊成現在就限制交易所大股東持股，並認為不該只讓銀行主導發行穩定幣。政府版草案預計月底送國會。",
+   "memo": "依 Bloomingbit 2026 年 11 月 13 日報導，南韓共同民主黨議員閔丙德（Min Byung-duk）於同日國會數位資產立法論壇表示，《數位資產基本法》預計於 2027 年 1 月 9 日（臨時會期屆滿）前完成立法，以趕在美國 GENIUS Act 於 2027 年 1 月 18 日施行前提供韓元穩定幣法律基礎；朝野及金融主管機關對此時程已有共識。依報導，政府版草案擬將交易所大股東持股上限定為 15% 至 20%，並要求穩定幣發行聯盟由銀行持有過半股份；閔丙德則認為持股上限恐有違憲疑慮、可留待第三階段立法，並主張應容許非銀行聯盟發行。",
+   "context": "南韓《虛擬資產使用者保護法》於 2024 年施行，為第一階段立法；《數位資產基本法》為第二階段，規範數位資產發行、交易所及韓元穩定幣。\n政府版草案原定 2025 年提出，因交易所持股上限及穩定幣發行人資格爭議延宕；依 11 月 8 日及 12 日報導，金融委員會擬於 11 月內公布政府版草案。\n韓國銀行一貫支持銀行主導之發行聯盟。",
+   "facts": [
+    "2026 年 11 月 13 日：閔丙德於國會論壇發言。",
+    "目標：2027 年 1 月 9 日前完成立法；屆時臨時會期結束。",
+    "依報導規劃召開一至兩次小組會議及一場公聽會，密集討論約自兩週後開始，暗示政府草案送出時點。",
+    "依報導政府版草案擬將交易所大股東持股上限定為 15% 至 20%，穩定幣發行聯盟須由銀行持有 50% 加一股以上。",
+    "閔丙德引國會立法調查處意見指持股上限恐違憲，主張可移除並留待第三階段立法；並主張容許非銀行聯盟發行。",
+    "金融委員會表示，多家銀行合計過半時，科技公司仍可能成為最大股東。"
+   ],
+   "issues": [
+    "韓元穩定幣發行人是否限於銀行主導聯盟？非銀行業者可否參與？",
+    "交易所大股東持股上限之合憲性與過渡期間如何安排？"
+   ],
+   "holding": "・立法時程：目標 2027 年 1 月 9 日前完成，先於美國 GENIUS Act 1 月 18 日施行。\n・政府版草案（依報導）：交易所大股東持股上限 15%–20%；穩定幣發行聯盟銀行持股過半。\n・閔丙德立場：持股上限可留待第三階段；應容許非銀行聯盟發行。",
+   "significance": "顯示南韓立法時程刻意對齊美國穩定幣法施行日，但發行人資格與交易所治理仍有朝野與央行之爭議，預料將於國會政務委員會激烈討論。應留意政府版草案正式提出之日期與條文內容。",
+   "editorNote": "本網頁助理 註：本則依 Bloomingbit 報導撰寫，屬議員發言，非政府正式公布之草案；政府版草案內容係報導所述，尚待正式條文確認。閔丙德之中文姓名依韓文漢字通行譯名。",
+   "tags": [
+    "穩定幣",
+    "數位資產基本法",
+    "韓元穩定幣",
+    "國會",
+    "南韓"
+   ],
+   "related": [
+    "2026-11-08-fin-korea-daba-draft-bank-led-stablecoin"
+   ],
+   "sources": [
+    {
+     "label": "Bloomingbit 報導",
+     "url": "https://en.bloomingbit.io/feed/news/124346",
+     "official": false
+    },
+    {
+     "label": "Blockhead 分析報導",
+     "url": "https://www.blockhead.co/2026/11/12/koreas-digital-asset-basic-act-lands-this-month/",
+     "official": false
+    },
+    {
+     "label": "TokenPost 報導",
+     "url": "https://www.tokenpost.com/news/regulation/56613",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T23:46:25+08:00"
   }
  ],
  "agenda": [
@@ -8638,6 +8865,16 @@
    "url": "",
    "relatedId": "2026-11-12-fin-louisiana-court-tro-prediction-markets",
    "caseId": "us-prediction-markets-preemption"
+  },
+  {
+   "id": "2027-01-09-kr-daba-target",
+   "date": "2027-01-09",
+   "court": "KR",
+   "title": "南韓《數位資產基本法》執政黨目標完成立法期限",
+   "note": "依報導為國會臨時會期屆滿日；屬議員表示之目標，可能變動",
+   "url": "https://en.bloomingbit.io/feed/news/124346",
+   "relatedId": "2026-11-13-fin-korea-min-daba-jan-9-target",
+   "caseId": "kr-digital-asset-basic-act"
   }
  ],
  "cases": [
@@ -8782,7 +9019,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "路易斯安那州法院 11 月 12 日對 Kalshi、Polymarket、Coinbase 等十家業者核發 10 日暫時限制令（依報導 11 月 30 日審初步禁制令），Kalshi 已於聯邦法院聲請 TRO；司法部與 CFTC 同日前後起訴阿肯色州檢察總長，請求禁止對 CFTC 監理之預測市場執法；紐約南區聯邦地院 11 月 10 日駁回 Novig 初步禁制令，Novig 已上訴第二巡迴；密蘇里州訴訟擴大至六家業者；CFTC 11 月 5 日要求指定契約市場 30 日內停止依州別封鎖；伊利諾州案已上訴第七巡迴。"
+   "status": "路易斯安那州法院 11 月 12 日單方核發暫時限制令（11 月 30 日審初步禁制令），CFTC 與聯邦政府 11 月 13 日於路易斯安那東區聯邦地院起訴該州請求禁止執行（第 12 州）；司法部與 CFTC 同週起訴阿肯色州；紐約南區聯邦地院駁回 Novig 初步禁制令，Novig 已上訴第二巡迴；密蘇里州訴訟擴大至六家業者；CFTC 11 月 5 日要求指定契約市場 30 日內停止依州別封鎖；伊利諾州案已上訴第七巡迴。"
   },
   {
    "id": "kr-tokenised-securities",
@@ -8815,7 +9052,7 @@
    "nameOriginal": "Binance October 2026 hack – regulatory and enforcement response",
    "caseRef": "",
    "summary": "幣安於 2026 年 10 月 29 日前後遭竊約 63 億美元虛擬資產，引發各國執法機關追查洗錢及監理機關對境外交易所、保管與穩定幣凍結機制之檢討。",
-   "status": "FBI 10 月 31 日認定北韓 TraderTraitor 為主謀並公布 628 個地址；依路透社報導聯準會與 OCC 自 11 月 2 日起向銀行查詢相關風險；南韓金融委員會 11 月 12 日宣布將以無異議函允許業者疑似遭駭即暫停出入金；尚未見 OFAC 制裁指定。"
+   "status": "FBI 10 月 31 日認定北韓 TraderTraitor 為主謀並公布 628 個地址；依報導司法部 11 月 12 日取得法院授權扣押或限制處分逾 12 億美元遭竊資產（已凍結逾 27 億美元）；南韓金融委員會 11 月 12 日宣布將以無異議函允許業者疑似遭駭即暫停出入金；尚未見 OFAC 制裁指定。"
   },
   {
    "id": "us-perpetual-futures-jurisdiction",
@@ -8848,7 +9085,7 @@
    "nameOriginal": "Digital Asset Basic Act (South Korea)",
    "caseRef": "",
    "summary": "南韓第二階段加密資產立法，規範數位資產發行、流通、交易所治理及韓元穩定幣發行人資格。",
-   "status": "依 11 月 8 日報導，政府版草案預計 11 月內公布，擬設交易所大股東持股上限並限銀行主導聯盟發行韓元穩定幣。"
+   "status": "依報導政府版草案預計 11 月內提出，擬設交易所大股東持股上限並限銀行主導聯盟發行韓元穩定幣；執政黨議員閔丙德 11 月 13 日表示目標 2027 年 1 月 9 日前完成立法。"
   }
  ],
  "archives": []
