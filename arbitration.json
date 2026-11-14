@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-14T07:12:11+08:00",
-  "lastRunLocal": "2026-11-14 07:12",
+  "lastRun": "2026-11-14T23:02:39+08:00",
+  "lastRunLocal": "2026-11-14 23:02",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 3 則：商務仲裁 2（案件動態 2）、投資仲裁 1（案件動態 1）",
+  "lastRunNote": "新增 5 則：商務仲裁 3（法院裁判 1、機構 1、評論 1）、投資仲裁 2（仲裁判斷 2，其中 1 則補列）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -371,7 +371,9 @@
     "金礦",
     "仲裁費用"
    ],
-   "related": [],
+   "related": [
+    "2026-11-14-arb-gabriel-romania-annulment-dismissed"
+   ],
    "sources": [
     {
      "label": "Gabriel Resources 公司公告（轉載）",
@@ -1568,7 +1570,8 @@
    ],
    "related": [
     "2026-10-17-arb-repudiation-arbitration-agreement",
-    "2026-10-16-arb-aaw-valuing-mining-projects"
+    "2026-10-16-arb-aaw-valuing-mining-projects",
+    "2026-11-13-arb-acica-australian-arbitration-survey-2026"
    ],
    "sources": [
     {
@@ -2128,7 +2131,8 @@
     "魁北克"
    ],
    "related": [
-    "2026-10-22-arb-ai-poisoned-record"
+    "2026-10-22-arb-ai-poisoned-record",
+    "2026-11-12-arb-fitch-ai-error-arbitrators"
    ],
    "sources": [
     {
@@ -8165,6 +8169,302 @@
     }
    ],
    "addedAt": "2026-11-13T23:58:30+08:00"
+  },
+  {
+   "id": "2026-11-14-arb-gabriel-romania-annulment-dismissed",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "investment",
+   "caseId": "gabriel-v-romania",
+   "jurisdiction": "",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-14",
+   "eventDate": "2026-11-13",
+   "importance": 3,
+   "author": "",
+   "title": "Gabriel Resources 訴羅馬尼亞：ICSID 撤銷委員會駁回全部撤銷理由，羅西亞蒙大拿金礦案判斷確定",
+   "shortTitle": "Gabriel 訴羅馬尼亞撤銷聲請遭駁回",
+   "point": "五項撤銷理由全遭駁回，駁回最高約 65 億美元求償的判斷確定，Gabriel 須負擔約 1,000 萬美元費用",
+   "titleOriginal": "Gabriel Resources Ltd. and Gabriel Resources (Jersey) v. Romania (ICSID Case No. ARB/15/31), Annulment Proceeding – Decision on Annulment (13 November 2026)",
+   "caseRef": "ICSID Case No. ARB/15/31",
+   "tldr": "加拿大礦業公司 Gabriel Resources 因羅馬尼亞羅西亞蒙大拿金礦開發受阻，向 ICSID 求償數十億美元，2024 年敗訴後聲請撤銷判斷。撤銷委員會 11 月 13 日全部駁回，羅馬尼亞不必賠償，Gabriel 反而要負擔羅馬尼亞約 1,000 萬美元的費用，公司表示可能走向破產程序。",
+   "memo": "ICSID 特設撤銷委員會（主席 Eduardo Zuleta，委員 Lawrence Boo、Maxi Scherer）於 2026 年 11 月 13 日就 Gabriel Resources Ltd. 與 Gabriel Resources (Jersey) 訴羅馬尼亞案（ICSID Case No. ARB/15/31）作成撤銷決定，駁回申請人所提全部五項撤銷理由，認定仲裁庭組成適法、羅馬尼亞選任之仲裁人就申請人所指事項無揭露義務，且多數意見已適用準據法、尊重程序權利並充分說明理由。2024 年 3 月 8 日駁回全部求償之仲裁判斷因而確定。委員會命申請人負擔羅馬尼亞約 1,000 萬美元費用及利息，委員會及 ICSID 費用由雙方平均分擔，律師費各自負擔。",
+   "context": "Gabriel Resources 持有羅西亞蒙大拿金礦公司（RMGC）80.69% 股份，主張羅馬尼亞阻撓該金礦開發計畫，違反加拿大—羅馬尼亞及英國—羅馬尼亞雙邊投資協定，於 2015 年向 ICSID 提起仲裁。\n仲裁庭於 2024 年 3 月 8 日以 2 比 1 作成判斷，認定羅馬尼亞未違反條約義務，駁回全部求償。Gabriel 於 2024 年 7 月依 ICSID 公約第 52 條聲請撤銷，撤銷委員會於 2026 年 11 月 5 日宣告程序終結（見「相關動態」）。",
+   "facts": [
+    "撤銷委員會由 Eduardo Zuleta（主席）、Lawrence Boo 與 Maxi Scherer 組成，撤銷程序自 2024 年 7 月進行至 2026 年 11 月。",
+    "羅馬尼亞財政部於 2026 年 11 月 14 日發布新聞稿，指委員會於 11 月 13 日作成決定，全部駁回撤銷聲請；Gabriel 同日發布公告。",
+    "依羅馬尼亞媒體報導，本案求償約 65 億美元，為羅馬尼亞在國際仲裁中遭求償金額最高的案件；先前報導曾載為最高約 67 億美元。",
+    "Gabriel 表示公司流動性有限、需要新資金，董事會正評估資金來源、羅馬尼亞資產與執照權益價值及重整可能性，若無替代方案可能啟動破產程序。"
+   ],
+   "issues": [
+    "仲裁庭是否不當組成，以及羅馬尼亞選任之仲裁人是否違反揭露義務（ICSID 公約第 52 條第 1 項 (a) 款）。",
+    "仲裁庭是否顯然逾越權限、嚴重偏離基本程序規則或未說明理由（第 52 條第 1 項 (b)、(d)、(e) 款）。"
+   ],
+   "holding": "依 Gabriel 公告，委員會駁回全部五項撤銷理由：仲裁庭組成適法；羅馬尼亞選任之仲裁人就申請人所指事項並無揭露義務；多數意見已適用應適用之法律、尊重申請人之程序權利，並已充分說明理由。\n費用部分：Gabriel 及其澤西子公司須償付羅馬尼亞約 1,000 萬美元費用並加計利息；委員會及 ICSID 之費用與支出由雙方平均分擔，律師費各自負擔；羅馬尼亞須返還 Gabriel 約 21.1 萬美元（不計息，未定給付期限）。",
+   "significance": "依 ICSID 公約第 53 條，判斷不得再以公約以外方式上訴或救濟，本案仲裁程序至此終結；羅馬尼亞財政部表示將持續追償國家支出之法律費用。Gabriel 稱決定對公司財務與繼續經營能力有重大影響，可能進入破產程序；RMGC 就開採執照延長遭拒一事仍在羅馬尼亞法院爭訟。",
+   "editorNote": "本網頁助理 註：本則依 Gabriel Resources 公司公告（經 FinancialContent 轉載）及 Digi24、Spotmedia 對羅馬尼亞財政部新聞稿之報導撰寫，尚未取得撤銷決定原文；決定日期 11 月 13 日依財政部新聞稿（經媒體引述），公司公告未載明日期。求償金額各報導載為約 65 億或最高約 67 億美元。",
+   "tags": [
+    "ICSID",
+    "羅馬尼亞",
+    "加拿大",
+    "撤銷（annulment）",
+    "第52條",
+    "仲裁人揭露義務",
+    "礦業",
+    "金礦",
+    "仲裁費用",
+    "雙邊投資協定"
+   ],
+   "related": [
+    "2026-11-05-arb-gabriel-romania-annulment-closed"
+   ],
+   "sources": [
+    {
+     "label": "Gabriel Resources 公司公告（FinancialContent 轉載）",
+     "url": "https://www.financialcontent.com/article/accwirecq-2026-11-14-gabriel-announces-dismissal-of-icsid-annulment-application",
+     "official": false
+    },
+    {
+     "label": "Digi24 報導（引述羅馬尼亞財政部新聞稿，羅馬尼亞文）",
+     "url": "https://www.digi24.ro/stiri/economie/romania-castiga-definitiv-procesul-rosia-montana-statul-roman-nu-va-plati-despagubirile-de-65-miliarde-de-dolari-4036235",
+     "official": false
+    },
+    {
+     "label": "Spotmedia 報導",
+     "url": "https://spotmedia.ro/en/news/news/romania-secures-final-victory-in-rosia-montana-case-gabriel-resources-loses-6-5-billion-claim",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T23:02:39+08:00"
+  },
+  {
+   "id": "2026-10-24-arb-west-african-aquaculture-gambia-annulled",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "italaw",
+   "outletCode": "ITA",
+   "date": "2026-10-24",
+   "eventDate": "2026-07-17",
+   "importance": 2,
+   "author": "",
+   "title": "ICSID 撤銷委員會以未說明管轄權理由為由，全部撤銷甘比亞蝦場徵收案判斷",
+   "shortTitle": "甘比亞蝦場案判斷遭 ICSID 全部撤銷",
+   "point": "仲裁庭未說明國內投資法如何構成書面同意仲裁，管轄權推理有缺口",
+   "titleOriginal": "West African Aquaculture Ltd. and others v. Republic of The Gambia (ICSID Case No. ARB/18/10), Decision on Annulment, 17 July 2026",
+   "caseRef": "ICSID Case No. ARB/18/10",
+   "tldr": "外國投資人在甘比亞經營的蝦場 2015 年被收歸國有，ICSID 仲裁庭 2024 年判甘比亞賠償。甘比亞聲請撤銷，撤銷委員會認為仲裁庭沒有交代甘比亞投資法為何算是同意仲裁，理由有缺口，因此把整份判斷撤銷。",
+   "memo": "ICSID 特設撤銷委員會於 2026 年 7 月 17 日就 West African Aquaculture Ltd. 等訴甘比亞案（ICSID Case No. ARB/18/10）作成撤銷決定，依 ICSID 公約第 52 條第 1 項 (e) 款全部撤銷 2024 年 3 月 25 日之仲裁判斷。委員會認為，仲裁庭雖表明仲裁同意不得推定，卻未說明 2015 年甘比亞投資及出口促進局法第 35 條如何構成書面同意，反以該條未撤回 2010 年法之同意為前提，推理自相矛盾且無從理解；因瑕疵涉及管轄權，判斷無從部分維持。委員會未審究顯然逾越權限之主張。撤銷程序費用由雙方平均分擔，律師費各自負擔。",
+   "context": "申請人在甘比亞經營養蝦事業，該事業於 2015 年 6 月 12 日遭國有化，甘比亞軍隊並於同月占領蝦場。申請人未援引投資條約，而以 2015 年甘比亞投資及出口促進局法第 35 條（並援引明文提及 ICSID 之 2010 年法第 55 條），連同 ICSID 公約第 25 條第 1 項之書面同意要件，作為管轄權基礎。\n仲裁庭多數於 2024 年 3 月 25 日肯認管轄權、認定違法徵收並命甘比亞賠償；仲裁人 Pierre Mayer 就管轄權及部分實體問題提出不同意見。甘比亞隨後聲請撤銷。",
+   "facts": [
+    "甘比亞依 ICSID 公約第 52 條第 1 項 (b) 款（顯然逾越權限）及 (e) 款（未說明理由）聲請撤銷。",
+    "仲裁庭未就第 35 條是否「抽象地」構成預先同意作出判斷，而以申請人之信賴與甘比亞之行為作為依據。",
+    "依 Mealey's 報導，原判斷多數命甘比亞給付逾 1,190 萬英鎊之賠償、律師費及費用；甘比亞媒體則稱撤銷之判斷金額約 3,320 萬美元。",
+    "依 Mealey's 報導，ICSID 於 2026 年 10 月 16 日公開撤銷決定（部分遮蔽）。"
+   ],
+   "issues": [
+    "仲裁庭就國內投資法構成仲裁同意之推理，是否構成 ICSID 公約第 52 條第 1 項 (e) 款之「未說明理由」。",
+    "管轄權推理之瑕疵是否導致判斷全部撤銷。"
+   ],
+   "holding": "委員會指出，第 52 條第 1 項 (e) 款審查的是理由能否被理解，而非推理是否正確，理由簡略亦無妨；撤銷須符合三項累積要件：就特定問題之理由不足、不當、矛盾或欠缺，該問題影響結論，且瑕疵使推理無從理解。\n仲裁庭雖承認同意必須明確證明，卻以間接方式處理，只問 2015 年法是否撤回 2010 年法對申請人之同意，形成「除非明文撤回，第 35 條即含有同意」之未經說明之推定，與其自身所稱同意不得推定相矛盾。仲裁庭所稱第 35 條文義足夠寬廣，亦未說明當事人之行為如何構成第 35 條下之書面同意；申請人援引之國際法院漁業管轄權案（西班牙訴加拿大）也無法填補此一缺口。\n由於瑕疵涉及管轄權，委員會認為沒有保留判斷任何部分之基礎，全部撤銷；基於訴訟經濟，未審究顯然逾越權限之主張，亦未就第 35 條之解釋表示立場。委員會並拒絕剔除甘比亞所提甘比亞法專家報告。\n費用：撤銷程序費用共 426,090.34 美元由雙方平均分擔，因甘比亞已預付，申請人須償還 213,045.17 美元；律師費及其他費用各自負擔。",
+   "significance": "全部撤銷在 ICSID 實務上相當少見，本決定顯示以國內投資法作為仲裁同意依據時，仲裁庭必須正面說明法條如何構成書面同意。依 ICSID 公約第 52 條第 6 項，任一方得將爭議提交新仲裁庭。",
+   "editorNote": "本網頁助理 註：撤銷決定作成於 2026 年 7 月 17 日，ICSID 於 10 月 16 日公開，屬本站投資仲裁收錄期間，前次更新未收錄，故補列；本則來源發布日期採 Aceris Law 評析之發布日（10 月 24 日）。本則依 italaw 刊載之撤銷決定全文、Aceris Law 評析與 Mealey's 報導撰寫。原判斷金額各來源不同：Mealey's 載為逾 1,190 萬英鎊，甘比亞媒體載為約 3,320 萬美元（可能含利息），尚待確認。",
+   "tags": [
+    "ICSID",
+    "甘比亞",
+    "撤銷（annulment）",
+    "第52條",
+    "理由不備",
+    "管轄權",
+    "徵收",
+    "國內投資法",
+    "不同意見書"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 撤銷決定全文（italaw，PDF）",
+     "url": "https://www.italaw.com/sites/default/files/case-documents/ca/N12138/italaw19600202%20-%20West%20African%20Aquaculture%20and%20others%20v.%20Gambia%20-%20Decision%20on%20Annulment%20-%20July%2017%2C%202026.pdf",
+     "official": false
+    },
+    {
+     "label": "Aceris Law 評析",
+     "url": "https://www.acerislaw.com/annulment-of-the-west-african-aquaculture-award-against-the-gambia/",
+     "official": false
+    },
+    {
+     "label": "Mealey's 報導",
+     "url": "https://www.mealeys.com/mealeys/mealeys-international-arbitration/articles/2539701",
+     "official": false
+    },
+    {
+     "label": "GAR 報導",
+     "url": "https://globalarbitrationreview.com/article/the-gambia-wins-annulment-of-shrimp-farm-award-icsid",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T23:02:39+08:00"
+  },
+  {
+   "id": "2026-11-12-arb-fitch-ai-error-arbitrators",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-11-12",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Barry Appleton（紐約法學院；Appleton & Associates）",
+   "title": "從美國第五巡迴上訴法院 Fitch 案看仲裁人發現 AI 錯誤後應如何補救",
+   "shortTitle": "仲裁人的 AI 錯誤，事後該怎麼補救？",
+   "point": "作者主張應以書面同時告知各方、避免悄悄替換判斷，並讓當事人就後續處理表示意見",
+   "titleOriginal": "The Morning After: What Fitch Teaches Arbitrators About Fixing an AI Error",
+   "caseRef": "",
+   "tldr": "美國一位法官的命令因使用 AI 出現虛構內容，他悄悄換掉命令又稱只是「文書錯誤」，結果上訴法院不但撤銷命令，還把案件改分給別的法官。作者認為仲裁人最該學的是出錯之後的處理方式，並提出一套公開、透明的補救流程。",
+   "memo": "Barry Appleton 於 Daily Jus 撰文指出，美國第五巡迴上訴法院 2026 年 10 月 22 日 Jackson Federation of Teachers v. Fitch 案撤銷含 AI 虛構內容之初步禁制令並命改分法官，關鍵在於原審事後無說明地替換命令並稱係文書錯誤。作者主張，仲裁人發現 AI 錯誤時，不得以非正式方式替換判斷；ICC 規則之更正權限僅及於文書錯誤，若虛構依據影響結論即不得以此處理，且依 UNCITRAL 模範法，正式更正方能延長撤銷期間。作者建議仲裁人以書面同時通知各方、具體說明受影響段落與查核步驟，並請當事人就後續處置（包括仲裁人是否續任）表示意見。",
+   "context": "美國第五巡迴上訴法院於 2026 年 10 月 22 日就 Jackson Federation of Teachers v. Fitch（No. 25-60496）作成判決，撤銷密西西比州聯邦地院法官 Henry Wingate 核發之初步禁制令，並命改分其他法官。該法官 2025 年 7 月 20 日之暫時限制令列入非當事人、未被起訴之官員、卷內不存在之聲明書及法條中沒有的用語；兩日後法院以回溯日期之「修正版」替換，拒絕說明並稱錯誤屬「文書性質」，其後才承認係法官助理及其本人使用 AI 所致。\n作者另引加拿大魁北克法院 ARIHQ 案，該案以仲裁人本身使用 AI 為由撤銷仲裁判斷（本站另有相關評論，見「相關動態」）。",
+   "facts": [
+    "原命令之錯誤包括列入非當事人與未被起訴之官員、引用卷內不存在之聲明書，以及引用法條中沒有的用語。",
+    "原審以回溯至 7 月 20 日之修正版替換原命令，拒絕將原版本恢復於卷宗並說明錯誤來源；對造保留了原版本。",
+    "一則虛構引註在修正後仍存在，直到第五巡迴上訴法院言詞辯論時才被發現。"
+   ],
+   "issues": [
+    "仲裁人發現判斷或程序命令含有 AI 造成之錯誤時，應如何處理。",
+    "此類錯誤得否以 ICC 規則第 39 條或 UNCITRAL 模範法之更正程序處理。"
+   ],
+   "holding": "・作者認為，Fitch 案從撤銷命令升高到改分法官，關鍵不在最初的錯誤，而在其後數週的處理方式。\n・將錯誤定性為「文書錯誤」是會被審查的結論，拒絕說明錯誤內容如何產生，反而削弱該定性。\n・虛構引註只要比對判例出處即可發現，不需專家證據；作者並以魁北克法院 ARIHQ 案為例。\n・仲裁沒有公開卷宗、上訴審查與實體審查，但機構檔案更難規避：依 2026 年 ICC 規則，秘書處負責通知並保存判斷，私下替換幾乎不可能。\n・ICC 規則第 39 條之更正權限限於文書錯誤，使用該程序勢須揭露所用 AI 工具及使用階段；虛構依據若影響結論，即不屬文書錯誤。\n・依 UNCITRAL 模範法，仲裁庭作成判斷後職權終了，僅得依更正及撤銷程序處理；正式更正聲請會延長撤銷期間，非正式替換則不構成有效更正。\n・作者建議之處理流程：以書面同時告知所有當事人、不悄悄替換、描述而非定性問題、指明受影響段落與查核步驟，並請當事人就後續處置（包括仲裁庭是否續任）提出意見。\n・作者指出，現有規範（包括 ICC 專案小組之分級草案）處理 AI 的使用，卻未規範錯誤發現後仲裁人應如何處理。",
+   "significance": "作者結論是，仲裁人面對 AI 錯誤時，透明處理比錯誤本身更能決定判斷能否維持；仲裁機構與當事人可考慮在程序命令中預先約定此類情形的處理方式。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：Fitch 案事實依作者之敘述，尚未取得第五巡迴上訴法院判決原文。",
+   "tags": [
+    "人工智慧",
+    "美國",
+    "ICC",
+    "ICC 2026 年仲裁規則",
+    "判斷更正",
+    "撤銷仲裁判斷",
+    "UNCITRAL"
+   ],
+   "related": [
+    "2026-10-14-arb-ai-record-too-big"
+   ],
+   "sources": [
+    {
+     "label": "Daily Jus 評論",
+     "url": "https://dailyjus.com/legal-tech/2026/11/the-morning-after-what-fitch-teaches-arbitrators-about-fixing-an-ai-error",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T23:02:39+08:00"
+  },
+  {
+   "id": "2026-11-13-arb-acica-australian-arbitration-survey-2026",
+   "court": "INST",
+   "kind": "機構動態",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "澳洲",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-11-13",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Anne Jacob、Ian Rintala（ACICA）",
+   "title": "ACICA 2026 年澳洲仲裁調查初步結果：跨境案件占七成、使用者滿意度升至 71%",
+   "shortTitle": "ACICA 澳洲仲裁調查初步結果出爐",
+   "point": "跨境案件約占七成、滿意度 71%、女性仲裁人選任比例由 8% 升至 29%",
+   "titleOriginal": "2026 Australian Arbitration Week Recap: Australian Arbitration Survey (2nd Edition) - First Look",
+   "caseRef": "",
+   "tldr": "澳洲國際商務仲裁中心（ACICA）在澳洲仲裁週公布第二次澳洲仲裁調查的初步結果：與 2020 年相比，跨境案件比例變高、使用者更滿意、女性仲裁人變多，律師事務所已普遍用 AI 處理文書工作，但受訪者反對讓 AI 做實質判斷。完整報告將於未來數月公布。",
+   "memo": "澳洲國際商務仲裁中心（ACICA）於 2026 年澳洲仲裁週公布第二版澳洲仲裁調查初步結果，該調查蒐集 2022 年至 2025 年與澳洲有關之仲裁案件匿名資料。結果顯示，跨境案件約占七成（2020 年約五成），使用者滿意度由 62% 升至 71%，女性仲裁人選任比例由 8% 升至 29%，營建、油氣及礦業案件比例降至不足一半；受訪者普遍接受以 AI 處理文件整理與摘要，但反對將 AI 用於實質判斷。完整報告預計於未來數月發布。",
+   "context": "ACICA 於 2026 年 2 月啟動本次調查，由 HKA 與 FTI Consulting 支持，延續《2020 年澳洲仲裁報告》及《2023 年國際仲裁證據報告》。調查範圍為 2022 年至 2025 年間具「澳洲連結」之實際案件，定義寬鬆，例如仲裁庭成員為旅居海外之澳洲人亦屬之。初步結果於澳洲仲裁週由 Herbert Smith Freehills Kramer 主辦之場次發表，與談人為 ACICA 調查委員會成員。",
+   "facts": [
+    "與 2020 年相比，受訪者總數增加 58%，企業內部法務受訪者增加 70%，蒐集案件數增加 20%（文章未提供絕對數字）。",
+    "與談人提醒，資料僅為概況，小額案件及與 ACICA 互動較少之當事人可能代表性不足，受訪數增加不能直接解讀為市場成長。"
+   ],
+   "issues": [],
+   "holding": "市場概況：跨境爭議約占 70%（2020 年約 50%），案件總金額明顯增加；營建、油氣與礦業在 2020 年占產業回覆約 74%，2026 年已不到一半，金融、運輸、再生能源、新科技與消費產品比重上升。\n使用者滿意度：滿意或非常滿意者占 71%（2020 年 62%）。國際使用者重視可執行性與中立性，尤其是國家實體不願接受外國法院管轄時；國內使用者最重視保密、速度與程序。速度仍有改善空間，國際仲裁尤然。\n程序效率：受訪者關切仲裁人檔期、仲裁庭因擔心撤銷而過度謹慎，以及當事人使程序複雜化或抗拒量身訂作之程序；建議工具包括視訊開庭、分階段審理與快速程序，但須合乎比例，不損及當事人陳述機會。\n多元性：女性仲裁人選任比例由 8% 升至 29%；機構選任接近性別平衡，當事人選任約 25% 為女性。\n人工智慧：律師事務所使用 AI 最為普遍，主要用於文件提出、整理、校對、摘要與行政工作；受訪者壓倒性反對將 AI 用於實質判斷，關切錯誤與幻覺、保密、查核不足、過度依賴及對資淺律師養成之影響。",
+   "significance": "調查顯示澳洲相關仲裁的國際化程度與產業組成正在改變；完整報告公布後，可與 2020 年報告比較案件數量、費用與期間等細節。",
+   "editorNote": "本網頁助理 註：本則依 ACICA 人員於 Kluwer Arbitration Blog 發表之調查初步結果紀要撰寫，完整調查報告尚未公布；文章未提供受訪人數、案件數與費用數據。本文為 Kluwer Arbitration Blog「2026 年澳洲仲裁週紀要」系列之一，同系列其他文章見「相關動態」。",
+   "tags": [
+    "ACICA",
+    "澳洲",
+    "澳洲仲裁週",
+    "仲裁機構",
+    "統計",
+    "人工智慧",
+    "多元性"
+   ],
+   "related": [
+    "2026-10-18-arb-aaw-geopolitics-space"
+   ],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 紀要",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/2026-australian-arbitration-week-recap-australian-arbitration-survey-2nd-edition-first-look/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T23:02:39+08:00"
+  },
+  {
+   "id": "2026-11-12-arb-amsterdam-akida-zeren-attachment",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "akida-v-zeren",
+   "jurisdiction": "荷蘭",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-12",
+   "eventDate": "2026-10-29",
+   "importance": 1,
+   "author": "",
+   "title": "阿姆斯特丹地方法院拒絕解除土耳其企業家在荷蘭的資產假扣押，俄國 ICAC 判斷債權人得續行保全",
+   "shortTitle": "荷蘭法院維持對土耳其企業家的假扣押",
+   "point": "偽造抗辯應由上訴法院在承認程序審理，債權人請求並非顯無理由",
+   "titleOriginal": "Akida Trading Limited v. [Mustafa Yiğit Zeren], Rechtbank Amsterdam (voorzieningenrechter), ECLI:NL:RBAMS:2026:10887, 29 October 2026",
+   "caseRef": "ECLI:NL:RBAMS:2026:10887",
+   "tldr": "一家香港公司拿著俄羅斯仲裁機構判給的 6 億多美元判斷，在荷蘭扣押一位土耳其企業家的股份、房產和銀行帳戶。企業家主張借款和保證文件都是偽造的，請求解除扣押，但阿姆斯特丹法院認為這些爭點應由審理判斷承認的上訴法院決定，扣押繼續有效。",
+   "memo": "阿姆斯特丹地方法院保全程序法官於 2026 年 10 月 29 日就 Akida Trading Limited 對土耳其企業家 Zeren 之假扣押案（ECLI:NL:RBAMS:2026:10887）駁回債務人解除假扣押或改提約 600 萬歐元擔保之聲請，認為債權人依俄羅斯工商會國際商務仲裁院（ICAC）2025 年 12 月判斷所為之請求並非顯無理由，債權人亦無隱匿重要事實；判斷應否承認與執行（包括偽造抗辯）應由阿姆斯特丹上訴法院審理，且債務人未證明扣押造成不合理負擔。",
+   "context": "Akida Trading Limited（香港註冊）受讓莫斯科信貸銀行（Credit Bank of Moscow）之權利，該行主張 2023 年曾對土耳其公司 Mostrade 提供 4.037 億歐元貸款及 2.3 億歐元信用狀，並由 Mostrade 股東兼董事 Zeren 個人保證。俄羅斯工商會國際商務仲裁院（ICAC）於 2025 年 12 月依保證契約作成判斷，命 Zeren 給付逾 501 億盧布（約 6.281 億美元）。\nAkida 已在杜拜、DIFC、瑞士、蒙特內哥羅等地請求執行或保全；DIFC 法院 2026 年 7 月以偽造等抗辯有待審理為由拒絕簡易執行。Zeren 2026 年 8 月在莫斯科提起撤銷判斷之訴，9 月因承認逾期而撤回。",
+   "facts": [
+    "Akida 在荷蘭假扣押 Zeren 之股份、不動產及 ING 銀行帳戶（存款近 4 萬歐元）。",
+    "Zeren 請求解除假扣押或命 Akida 提供約 600 萬歐元擔保，並禁止再為扣押。",
+    "Zeren 主張貸款、信用狀及保證文件均為偽造，筆跡鑑定顯示其未曾簽署，且 ICAC 程序為虛假程序，他從未委任代其出庭之律師。",
+    "Akida 已於 2026 年 7 月向阿姆斯特丹上訴法院聲請承認判斷，該案訂於 11 月 20 日開庭。"
+   ],
+   "issues": [
+    "債權人之請求是否「顯無理由」而應解除假扣押（荷蘭民事訴訟法保全程序之審查標準）。",
+    "偽造及程序瑕疵抗辯應於保全程序或判斷承認程序中審理。"
+   ],
+   "holding": "法院認定 Akida 之請求並非顯無理由，駁回其未揭露重要事實之主張；判斷應否承認與執行屬阿姆斯特丹上訴法院之權限，保全法官不就偽造抗辯為實質判斷。Zeren 亦未證明假扣押對其造成不合理負擔，故駁回解除假扣押及改提擔保之聲請。",
+   "significance": "阿姆斯特丹上訴法院將於 2026 年 11 月 20 日就判斷承認開庭，屆時將處理偽造與虛假程序抗辯。本案同時在 DIFC 等多地進行，各地法院對同一判斷之態度不一。",
+   "editorNote": "本網頁助理 註：本則依 GAR 報導撰寫，尚未取得判決原文（判決中債務人姓名已遮蔽，係依新聞報導補充）；判決之 ECLI 編號依 GAR 所載，本網頁助理未能於荷蘭司法院網站開啟該判決。",
+   "tags": [
+    "荷蘭",
+    "俄羅斯",
+    "土耳其",
+    "承認與執行",
+    "扣押",
+    "偽造證據",
+    "DIFC",
+    "紐約公約"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "GAR 報導",
+     "url": "https://globalarbitrationreview.com/article/turkish-executive-fails-lift-dutch-asset-freeze",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T23:02:39+08:00"
   }
  ],
  "agenda": [
@@ -8246,6 +8546,16 @@
    "url": "https://www.miningstockeducation.com/2026/11/gabriel-announces-closure-of-icsid-annulment-proceedings/",
    "relatedId": "2026-11-05-arb-gabriel-romania-annulment-closed",
    "caseId": "gabriel-v-romania"
+  },
+  {
+   "id": "2026-11-20-court-akida-zeren-amsterdam-hearing",
+   "date": "2026-11-20",
+   "court": "COURT",
+   "title": "Akida 訴 Zeren：阿姆斯特丹上訴法院就俄國 ICAC 判斷之承認開庭",
+   "note": "阿姆斯特丹上訴法院；開庭時間未公布",
+   "url": "https://globalarbitrationreview.com/article/turkish-executive-fails-lift-dutch-asset-freeze",
+   "relatedId": "2026-11-12-arb-amsterdam-akida-zeren-attachment",
+   "caseId": "akida-v-zeren"
   }
  ],
  "archives": [],
@@ -8824,7 +9134,7 @@
    "nameOriginal": "Gabriel Resources Ltd. and Gabriel Resources (Jersey) v. Romania",
    "caseRef": "ICSID Case No. ARB/15/31",
    "summary": "加拿大礦業公司就羅馬尼亞阻撓羅西亞蒙大拿金礦開發提起投資條約仲裁，2024 年判斷駁回全部求償，申請人聲請撤銷。",
-   "status": "撤銷委員會已宣告程序終結，預計於 2026 年 11 月 13 日前作成撤銷決定。"
+   "status": "ICSID 撤銷委員會於 2026 年 11 月 13 日駁回 Gabriel 全部撤銷理由，駁回全部求償之 2024 年判斷確定，Gabriel 須負擔羅馬尼亞約 1,000 萬美元費用。"
   },
   {
    "id": "exxonmobil-v-eu",
@@ -8885,6 +9195,18 @@
    "caseRef": "ICSID Case No. ARB/23/42（已終止之契約仲裁）",
    "summary": "宏都拉斯最大機場營運商撤回 ICSID 契約仲裁後，改依投資條約求償約 3 億美元。",
    "status": "依 GAR 2026 年 11 月 13 日報導，PCA 管理之仲裁庭已組成。"
+  },
+  {
+   "id": "akida-v-zeren",
+   "type": "案件",
+   "court": "COURT",
+   "field": "commercial",
+   "forum": "阿姆斯特丹地方法院／上訴法院；DIFC 法院",
+   "name": "Akida 訴 Zeren（俄國 ICAC 判斷之多國執行）",
+   "nameOriginal": "Akida Trading Limited v. Mustafa Yiğit Zeren",
+   "caseRef": "ECLI:NL:RBAMS:2026:10887",
+   "summary": "香港公司 Akida 受讓莫斯科信貸銀行權利，依俄羅斯 ICAC 2025 年 12 月逾 501 億盧布之保證責任判斷，在荷蘭、DIFC 等地對土耳其企業家 Zeren 請求執行；Zeren 主張文件偽造。",
+   "status": "阿姆斯特丹地方法院 2026 年 10 月 29 日維持假扣押；阿姆斯特丹上訴法院訂於 11 月 20 日就判斷承認開庭。"
   }
  ]
 }
