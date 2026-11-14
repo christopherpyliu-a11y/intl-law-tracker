@@ -1,13 +1,75 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-14T23:15:46+08:00",
-  "lastRunLocal": "2026-11-14 23:15",
+  "lastRun": "2026-11-15T07:12:57+08:00",
+  "lastRunLocal": "2026-11-15 07:12",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：中國 3（國際組織 1、政府措施 1、調查報導 1）、俄羅斯 1（事件 1）"
+  "lastRunNote": "新增 1 則：中國 1（評論 1）"
  },
  "items": [
+  {
+   "id": "2026-11-14-tnr-diplomat-japan-self-censorship",
+   "court": "CN",
+   "kind": "評論",
+   "caseId": "",
+   "jurisdiction": "日本",
+   "outlet": "外交家（The Diplomat）",
+   "outletCode": "",
+   "date": "2026-11-14",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "《外交家》文章引述訪談研究：中國對日本華人與學界的跨國鎮壓造成恐懼與自我審查",
+   "shortTitle": "研究揭中國在日跨國鎮壓致自我審查",
+   "point": "14 位受訪學者、記者、學生指出恐嚇、機構壓力與自我審查三種形態",
+   "titleOriginal": "How China's Transnational Repression has Silently Taken Root in Japan's Society",
+   "caseRef": "",
+   "tldr": "《外交家》（The Diplomat）一篇文章介紹一項以日本為對象的訪談研究，指中國對在日批評者的跨國鎮壓常被忽略，最大影響不是公開噤聲，而是讓學者、記者、學生因害怕後果而自我審查。研究稱這種壓力不一定需要北京直接出手，透過人際關係與機構利益就能運作。",
+   "memo": "依《外交家》（The Diplomat）2026 年 11 月刊載文章及印度 IANS 通訊社同年 11 月 14 日轉述，一項題為〈Mapping CCP Transnational Repression in Japan: From Self-Censorship to Institutional Pressure〉之研究，以 2024 年 7 月至 11 月間對 14 名學者、記者、學生及運動人士之訪談為基礎，指稱中國共產黨對日本境內批評者之跨國鎮壓呈現直接恐嚇、機構壓力及自我審查三種形態，並認為此類壓力得經由社會關係與機構誘因運作，無須北京直接介入。",
+   "context": "近年國際間對跨國鎮壓的關注多集中於海外警站、暴力與騷擾等顯性案件；人權觀察曾於 2024 年 10 月發表報告，指中國當局騷擾在日批評者，包括西藏、維吾爾、南蒙古及香港社群。\n日本與中國地緣相近、經貿往來密切且有大量華人社群，但較不顯性的跨國鎮壓形態在日本受到的討論相對有限。",
+   "facts": [
+    "依 IANS 轉述，該研究題為〈Mapping CCP Transnational Repression in Japan: From Self-Censorship to Institutional Pressure〉，以 2024 年 7 月至 11 月的 14 場訪談為基礎。",
+    "受訪者包括學者、記者、學生及運動人士。",
+    "研究歸納出直接恐嚇、機構壓力與自我審查三種形態。",
+    "有學者表示辦活動遇阻、同事拒絕參與敏感研究，並感到升遷受影響；一名中國學生據稱被勸放棄可能影響中日關係的研究題目。"
+   ],
+   "issues": [
+    "不經國家直接介入、透過人際與機構誘因形成的「寒蟬效應」，是否及如何納入跨國鎮壓的定義與統計。",
+    "大學與研究機構面對此類壓力時的責任與保護機制。",
+    "日本法制對跨國鎮壓的因應是否充分。"
+   ],
+   "holding": "・作者以該研究為基礎主張，中國在日本的跨國鎮壓常被低估，其最大傷害在於恐懼與自我審查。\n・最顯性的形態是對批評中共者的監視、恐嚇與威脅。\n・機構壓力方面，受訪學者表示同事因擔心失去赴中國研究的管道而拒絕合作，研究稱之為「不必然需要與北京直接協調的機構共謀」，難以察覺。\n・研究結論認為跨國鎮壓「不需要直接介入」，可經由社會關係、機構誘因與對後果的恐懼運作。\n・依現有轉述，未見中國政府對該文的回應。",
+   "significance": "此文把焦點從暴力與海外警站等顯性案件，轉向學術與媒體圈的自我審查，有助理解跨國鎮壓較難量化的面向。可留意日本政府與大學是否有所回應，以及完整研究是否公開。",
+   "editorNote": "本則為評論，內容代表作者個人見解，非官方立場。\n本網頁助理 註：《外交家》原文網頁本次無法讀取，以上內容依 IANS 及 SocialNews.XYZ 之轉述整理；原文作者姓名與確切刊出日期未能確認，來源發布日期暫以 IANS 轉述日 2026-11-14 為準。研究執行者亦未見於轉述中。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "日本",
+    "自我審查",
+    "學術自由",
+    "華人社群"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "《外交家》原文",
+     "url": "https://thediplomat.com/2026/11/how-chinas-transnational-repression-has-silently-taken-root-in-japans-society",
+     "official": false
+    },
+    {
+     "label": "IANS 報導",
+     "url": "https://ianslive.in/chinas-transnational-repression-in-japan-fuels-fear-self-censorship--20261114182905",
+     "official": false
+    },
+    {
+     "label": "SocialNews.XYZ 轉載",
+     "url": "https://www.socialnews.xyz/2026/11/14/chinas-transnational-repression-in-japan-fuels-fear-self-censorship",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-15T07:12:57+08:00"
+  },
   {
    "id": "2026-11-12-tnr-us-yuanjun-tang-probation",
    "court": "CN",
