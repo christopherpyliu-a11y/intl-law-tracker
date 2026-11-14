@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-14T23:02:39+08:00",
-  "lastRunLocal": "2026-11-14 23:02",
+  "lastRun": "2026-11-15T06:58:41+08:00",
+  "lastRunLocal": "2026-11-15 06:58",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 5 則：商務仲裁 3（法院裁判 1、機構 1、評論 1）、投資仲裁 2（仲裁判斷 2，其中 1 則補列）",
+  "lastRunNote": "新增 1 則：投資仲裁 1（仲裁判斷 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -8465,6 +8465,73 @@
     }
    ],
    "addedAt": "2026-11-14T23:02:39+08:00"
+  },
+  {
+   "id": "2026-11-13-arb-obuz-v-uzbekistan-award",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "烏茲別克",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-13",
+   "eventDate": "2026-10-26",
+   "importance": 1,
+   "author": "",
+   "title": "ICSID 仲裁庭駁回土耳其投資人依土烏雙邊投資條約對烏茲別克提出的全部請求",
+   "shortTitle": "烏茲別克在 ICSID 勝訴，土耳其投資人求償遭駁回",
+   "point": "食品業投資爭議歷時逾五年，仲裁庭駁回全部請求；判斷未公開",
+   "titleOriginal": "Mehmet Zeki Obuz, Sevde Yilmaz, Huriye Obuz and Obuzlar Gıda v. Republic of Uzbekistan (ICSID Case No. ARB/21/32), Award of 26 October 2026",
+   "caseRef": "ICSID Case No. ARB/21/32",
+   "tldr": "三名土耳其人和一家土耳其食品公司主張烏茲別克政府侵害他們在當地的投資，向 ICSID 提起仲裁。烏茲別克司法部宣布，仲裁庭在 10 月 26 日駁回了投資人的全部請求。判斷內容尚未公開，求償金額也不清楚。",
+   "memo": "ICSID 仲裁庭於 2026 年 10 月 26 日就 Obuz 等訴烏茲別克案（ICSID Case No. ARB/21/32）作成仲裁判斷，駁回聲請人依 1992 年土耳其—烏茲別克雙邊投資條約所提之全部請求。聲請人為三名土耳其國民及土耳其公司 Obuzlar Gıda（清算中），爭議涉及其於烏茲別克之食品業投資。本案於 2021 年 6 月 4 日登記，2022 年 2 月組成仲裁庭，2024 年 7 月於華盛頓舉行實體審理。判斷全文、理由及費用分擔尚未公開。",
+   "context": "本案聲請人為土耳其國民 Mehmet Zeki Obuz、Sevde Yilmaz、Huriye Obuz 及清算中之土耳其公司 Obuzlar Gıda，依 1992 年土耳其與烏茲別克間之雙邊投資條約，就其在烏茲別克經營之食品業事業提起 ICSID 仲裁。\n依當地媒體轉述之報導，Mehmet Zeki Obuz 於 1995 年赴烏茲別克經商，其後在當地因走私及逃漏稅等罪嫌遭逮捕判刑。公開資料未載明聲請人所指摘之國家措施及求償金額。\n烏茲別克由司法部及美國 Curtis, Mallet-Prevost, Colt & Mosle 事務所代理。",
+   "facts": [
+    "本案於 2021 年 6 月 4 日在 ICSID 登記。",
+    "仲裁庭於 2022 年 2 月 15 日組成。",
+    "實體審理於 2024 年 7 月 1 日至 10 日在華盛頓舉行。",
+    "程序於 2026 年 10 月 19 日宣告終結，判斷於 2026 年 10 月 26 日作成。",
+    "烏茲別克司法部於 2026 年 11 月 13 日公布結果，表示仲裁庭駁回聲請人之全部請求，判斷對雙方為終局。"
+   ],
+   "issues": [
+    "聲請人之請求是否符合 1992 年土耳其—烏茲別克雙邊投資條約及 ICSID 公約之管轄要件。",
+    "烏茲別克對聲請人投資所採措施是否違反條約之投資保護義務（公開資料未載明具體主張）。"
+   ],
+   "holding": "依烏茲別克司法部之公告，仲裁庭駁回聲請人對烏茲別克提出之全部請求。判斷係基於管轄權、可受理性或實體理由，以及費用如何分擔，均未見公開資料說明。",
+   "significance": "判斷未公開，目前僅有勝訴國單方說明。聲請人仍可在判斷作成後 120 日內依 ICSID 公約第 52 條聲請撤銷（annulment）。",
+   "editorNote": "本網頁助理 註：本則依烏茲別克媒體轉述該國司法部之公告撰寫，尚未取得判斷原文；判斷理由、費用分擔及仲裁庭成員意見均無法查證。另有報導稱 ICSID 案件紀錄顯示判斷附有仲裁人之個別意見，本網頁助理未能於 ICSID 網站核對。GAR 2025 年 4 月報導之土耳其棉紡投資人對烏茲別克案為另一案件，與本案無關。",
+   "tags": [
+    "ICSID",
+    "烏茲別克",
+    "土耳其",
+    "雙邊投資條約",
+    "駁回請求"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Spot.uz 報導（司法部公告）",
+     "url": "https://www.spot.uz/en/2026/11/13/refused-arbitration",
+     "official": false
+    },
+    {
+     "label": "Gazeta.uz 報導",
+     "url": "https://www.gazeta.uz/en/2026/11/14/icsid/",
+     "official": false
+    },
+    {
+     "label": "UzDaily 報導",
+     "url": "https://www.uzdaily.uz/en/icsid-rejects-all-claims-against-uzbekistan-in-turkish-investor-case/",
+     "official": false
+    },
+    {
+     "label": "UNCTAD 投資爭端資料庫案件頁",
+     "url": "https://investmentpolicy.unctad.org/investment-dispute-settlement/cases/1120/obuz-and-others-v-uzbekistan",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-15T06:58:41+08:00"
   }
  ],
  "agenda": [
