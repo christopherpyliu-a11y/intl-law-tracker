@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-14T07:19:37+08:00",
-  "lastRunLocal": "2026-11-14 07:19",
+  "lastRun": "2026-11-14T23:15:46+08:00",
+  "lastRunLocal": "2026-11-14 23:15",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：中國 1（司法案件 1）、俄羅斯 1（事件 1）"
+  "lastRunNote": "新增 4 則：中國 3（國際組織 1、政府措施 1、調查報導 1）、俄羅斯 1（事件 1）"
  },
  "items": [
   {
@@ -117,7 +117,8 @@
    ],
    "related": [
     "2026-11-05-tnr-russia-zhanna-nemtsova-in-absentia",
-    "2026-10-26-tnr-un-sr-russia-unga-report"
+    "2026-10-26-tnr-un-sr-russia-unga-report",
+    "2026-11-12-tnr-russia-zolnikova-in-absentia"
    ],
    "sources": [
     {
@@ -319,7 +320,8 @@
    ],
    "related": [
     "2026-11-04-tnr-taiwan-npa-tnr-cases",
-    "2026-10-22-tnr-taiwan-ey-candidate-protection"
+    "2026-10-22-tnr-taiwan-ey-candidate-protection",
+    "2026-11-14-tnr-taiwan-cib-gang-sweep"
    ],
    "sources": [
     {
@@ -435,7 +437,8 @@
    ],
    "related": [
     "2026-11-03-tnr-manushya-thailand-uyghurs-alert",
-    "2026-11-04-tnr-hrw-amnesty-thailand-uyghurs"
+    "2026-11-04-tnr-hrw-amnesty-thailand-uyghurs",
+    "2026-11-13-tnr-un-experts-thailand-five-uyghurs"
    ],
    "sources": [
     {
@@ -496,7 +499,8 @@
    ],
    "related": [
     "2026-11-03-tnr-manushya-thailand-uyghurs-alert",
-    "2026-11-04-tnr-thailand-uyghurs-court-extradition"
+    "2026-11-04-tnr-thailand-uyghurs-court-extradition",
+    "2026-11-13-tnr-un-experts-thailand-five-uyghurs"
    ],
    "sources": [
     {
@@ -556,7 +560,8 @@
    ],
    "related": [
     "2026-11-03-tnr-taiwan-nsb-anti-infiltration-report",
-    "2026-11-05-tnr-taiwan-ey-security-meeting"
+    "2026-11-05-tnr-taiwan-ey-security-meeting",
+    "2026-11-14-tnr-taiwan-cib-gang-sweep"
    ],
    "sources": [
     {
@@ -1905,7 +1910,8 @@
     "2026-10-22-tnr-taiwan-nsb-crime-links",
     "2026-10-16-tnr-taiwan-cib-warning",
     "2026-10-22-tnr-taiwan-ey-candidate-protection",
-    "2026-10-28-tnr-tao-denies-huang-yi-hao"
+    "2026-10-28-tnr-tao-denies-huang-yi-hao",
+    "2026-11-13-tnr-ap-taiwan-attacks-feature"
    ],
    "sources": [
     {
@@ -4672,7 +4678,8 @@
    "related": [
     "2026-10-30-tnr-wuc-thailand-uyghurs-appeal",
     "2026-11-04-tnr-thailand-uyghurs-court-extradition",
-    "2026-11-04-tnr-hrw-amnesty-thailand-uyghurs"
+    "2026-11-04-tnr-hrw-amnesty-thailand-uyghurs",
+    "2026-11-13-tnr-un-experts-thailand-five-uyghurs"
    ],
    "sources": [
     {
@@ -5025,7 +5032,8 @@
    ],
    "related": [
     "2026-10-29-tnr-russia-svetov-in-absentia-sentence",
-    "2026-11-11-tnr-russia-grozovsky-in-absentia"
+    "2026-11-11-tnr-russia-grozovsky-in-absentia",
+    "2026-11-12-tnr-russia-zolnikova-in-absentia"
    ],
    "sources": [
     {
@@ -5461,7 +5469,8 @@
     "2026-10-08-tnr-taiwan-mac-standalone-offence",
     "2026-10-23-tnr-taiwan-supreme-prosecutors-crackdown",
     "2026-11-11-tnr-taiwan-mac-hk-entry-screening",
-    "2026-11-11-tnr-taiwan-mac-rebuts-tao"
+    "2026-11-11-tnr-taiwan-mac-rebuts-tao",
+    "2026-11-13-tnr-ap-taiwan-attacks-feature"
    ],
    "sources": [
     {
@@ -6081,6 +6090,263 @@
     }
    ],
    "addedAt": "2026-11-13T23:57:59+08:00"
+  },
+  {
+   "id": "2026-11-13-tnr-un-experts-thailand-five-uyghurs",
+   "court": "CN",
+   "kind": "國際組織",
+   "caseId": "thailand-uyghur-detainees",
+   "jurisdiction": "泰國",
+   "outlet": "聯合國人權事務高級專員辦事處（OHCHR）",
+   "outletCode": "",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-13",
+   "importance": 2,
+   "author": "",
+   "title": "聯合國多位特別報告員與工作小組聯合聲明：泰國不得違反意願將五名維吾爾男子引渡回中國",
+   "shortTitle": "聯合國專家籲泰國勿引渡五維吾爾人",
+   "point": "專家稱不遣返義務同樣適用於引渡，即使當事人被控犯罪亦然",
+   "titleOriginal": "Thailand must not return five Uyghurs to China, warn UN experts",
+   "caseRef": "",
+   "tldr": "聯合國強迫失蹤、任意拘留兩個工作小組及酷刑、少數群體、反恐人權、法外處決四位特別報告員一起發聲明，要泰國不要把還關在泰國的五名維吾爾男子送回中國，因為他們回去可能遭受酷刑或失蹤；專家強調就算是走「引渡」程序也一樣不行，並呼籲各國協助把他們安置到安全的第三國。",
+   "memo": "依聯合國人權事務高級專員辦事處 2026 年 11 月 13 日新聞稿，聯合國強迫或非自願失蹤問題工作小組、任意拘留問題工作小組及酷刑、少數群體、反恐與人權、法外處決問題特別報告員聯合呼籲泰國不得違反意願將五名維吾爾男子引渡至中國。專家指出，國際法禁止將任何人移送至有遭受嚴重人權侵害真實風險之國家，不遣返義務及於引渡，即使當事人被控犯罪亦然；泰國《防止及打擊酷刑與強迫失蹤法》亦有相同禁止。專家並促請泰國與其他國家合作，將五人安置於安全國家。",
+   "context": "五人屬 2014 年在泰馬邊境附近遭拘留的 350 多名維吾爾人。泰國 2015 年將其中 109 人遣返中國；2025 年 1 月中國要求遣返包括五人在內的 45 人，泰國同年 2 月將其中 40 人違反意願遣返，至今下落不明。\n五人因企圖逃離拘留遭判刑，已被拘禁約 12 年，其中兩人自未成年時即遭拘押。兩人已服刑完畢、轉入移民拘留待引渡。泰國政府 11 月 4 日表示中方的遣返要求將依引渡條約交法院審理。",
+   "facts": [
+    "聯署者包括強迫或非自願失蹤問題工作小組、任意拘留問題工作小組，以及反恐與人權、少數群體問題、法外處決、酷刑問題特別報告員。",
+    "專家稱五人若遭送回將面臨嚴重且無法彌補之損害的真實風險，並援引聯合國機制對中國任意拘留、強迫失蹤及酷刑維吾爾人的紀錄。",
+    "專家稱五人多年處於近乎與外界隔絕的拘禁狀態，條件惡劣，接觸律師、家屬、公民團體及聯合國人員的機會有限。",
+    "專家指出，中國是否已正式提出引渡請求及所控罪名，外界並不清楚。",
+    "新聞稿提及泰國國家人權委員會曾認定 2025 年的遣返違反不遣返原則，並主張其餘五人不得送回。"
+   ],
+   "issues": [
+    "不遣返原則（包括《禁止酷刑公約》第 3 條）是否優先於雙邊引渡條約義務？",
+    "泰國法院審理引渡請求時，是否會審酌當事人返國後遭受酷刑或強迫失蹤的風險？"
+   ],
+   "holding": "・專家立場：不得將五人違反意願引渡至中國；不遣返義務涵蓋引渡與驅逐。\n・法律依據：國際法禁止移送至有嚴重人權侵害真實風險之國家；泰國國內反酷刑及強迫失蹤法亦同。\n・要求：泰國與其他國家合作，將五人安置於安全國家。\n・報導未載泰國政府對本聲明的回應。",
+   "significance": "這是聯合國特別程序首度就本次五人引渡程序公開表態，在泰國法院審理引渡請求之前施壓。後續注意泰國法院審理日期、是否有第三國接收，以及泰方在普遍定期審議中的回應。",
+   "editorNote": "本網頁助理 註：聯合國人權高專辦官網頁面本次無法直接讀取，內容係依 Prachatai English 全文轉載及 IANS 報導核對；官網連結為搜尋結果所示網址。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "泰國",
+    "維吾爾",
+    "引渡",
+    "不遣返原則",
+    "第三國安置",
+    "聯合國特別程序",
+    "強迫失蹤"
+   ],
+   "related": [
+    "2026-11-04-tnr-thailand-uyghurs-court-extradition",
+    "2026-11-04-tnr-hrw-amnesty-thailand-uyghurs",
+    "2026-11-03-tnr-manushya-thailand-uyghurs-alert"
+   ],
+   "sources": [
+    {
+     "label": "聯合國人權高專辦新聞稿",
+     "url": "https://www.ohchr.org/en/press-releases/2026/11/thailand-must-not-return-five-uyghurs-china-warn-un-experts",
+     "official": true
+    },
+    {
+     "label": "Prachatai English 轉載聲明全文",
+     "url": "https://prachataienglish.com/node/12113",
+     "official": false
+    },
+    {
+     "label": "IANS 報導",
+     "url": "https://ianslive.in/un-experts-warn-thailand-against-extraditing-five-uyghur-men-to-china--20261114120841",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T23:15:46+08:00"
+  },
+  {
+   "id": "2026-11-14-tnr-taiwan-cib-gang-sweep",
+   "court": "CN",
+   "kind": "政府措施",
+   "caseId": "taiwan-tnr-response",
+   "jurisdiction": "台灣",
+   "outlet": "中央社",
+   "outletCode": "CNA",
+   "date": "2026-11-14",
+   "eventDate": "2026-11-13",
+   "importance": 2,
+   "author": "",
+   "title": "刑事局全國同步掃蕩幫派據點、查獲犯嫌 320 人，稱要防範幫派充當跨國鎮壓「在地協力者」",
+   "shortTitle": "刑事局掃蕩幫派據點查獲 320 人",
+   "point": "動員逾 4,000 警力臨檢 750 處，鎖定與境外勢力勾結、協助通緝犯潛逃的幫派",
+   "titleOriginal": "警選前掃蕩幫派查獲320人 防在地協力跨國鎮壓",
+   "caseRef": "",
+   "tldr": "九合一選舉前，刑事局在全國同步臨檢幫派聚集地點，抓到 320 名嫌犯、查獲 337 件刑案。警方說這次行動一方面是維護選前治安，另一方面是針對被境外勢力利用、在台灣替跨國鎮壓出手的幫派，起因之一是涉國安案的立委助理張俊傑交保後潛逃，而協助者有幫派背景。",
+   "memo": "依中央社 2026 年 11 月 14 日報導，內政部警政署刑事警察局於 11 月 13 日夜間發動「全國同步掃蕩黑幫活動處所行動」，動員逾 4,000 名警力臨檢 750 處據點，查獲犯嫌 320 名、各類刑案 337 件。刑事局表示，行動主軸為強化九合一選舉前治安及打擊與境外勢力勾結之組織，並鎖定充當跨國鎮壓在地協力者之幫派；起因包括涉違反《國家安全法》遭起訴之立法委員高金素梅助理張俊傑交保後潛逃，在台協助者經查具幫派背景。",
+   "context": "台灣警方近月陸續偵辦多起據稱受中國指使的跨境鎮壓案件，包括黃逸豪遭撞案、矢板明夫遭毆打案；警政署 11 月 4 日稱境外勢力勾結國內外幫派、徵信業者及協力者，並將追查幕後首謀。\n行政院與法務部亦研議修正《反滲透法》加重罰則。",
+   "facts": [
+    "依報導，刑事局 11 月 14 日召開記者會，說明前一晚全國同步臨檢結果：動員逾 4,000 名警力、臨檢 750 處、查獲犯嫌 320 名、刑案 337 件。",
+    "刑事局長邱紹洲稱，對蔑視法治及觸碰國家安全底線者將強力掃蕩，不論以詐騙、宮廟掩護或非法賭博經營；行動沒有時間表，目標是溯源斷根、阻斷金流。",
+    "肅竊組長岳瀛宗稱，行動兩大主軸為強化選前治安與打擊與境外勢力勾結之組織，初步查出多個幫派涉入。",
+    "警方稱幫派與境外勢力勾結協助通緝犯潛逃、藏匿；行動也針對近期涉境外勢力打壓個人案件相關的團體、人員與據點。",
+    "報導未載查獲之幫派數量或槍械數量。"
+   ],
+   "issues": [
+    "以一般刑事掃黑手段因應跨國鎮壓「在地協力」的效果與界限為何？",
+    "現行《組織犯罪防制條例》《國家安全法》能否追究幕後境外指使者？"
+   ],
+   "holding": "・措施：全國同步臨檢幫派據點，查獲犯嫌 320 名、刑案 337 件。\n・警方說法：防範幫派充當跨國鎮壓在地協力者，並維護九合一選舉前治安。\n・觸發案件：涉國安法案件被告張俊傑交保後潛逃，協助者具幫派背景。\n・後續：無時間表，將持續追查金流與幕後組織。",
+   "significance": "警方首度以全國同步掃黑行動明確標舉「跨國鎮壓在地協力」為目標，顯示台灣將幫派網絡視為跨境鎮壓的執行管道。後續注意查獲案件中有多少與跨國鎮壓個案直接相關，以及《反滲透法》修法進度。",
+   "editorNote": "本網頁助理 註：臨檢日期依中央社報導「前一晚」推算為 11 月 13 日夜間。報導所稱 320 名犯嫌涉及各類刑案，未說明其中與跨國鎮壓直接相關之人數。",
+   "tags": [
+    "跨國鎮壓",
+    "台灣",
+    "中國",
+    "刑事局",
+    "在地協力者",
+    "黑幫",
+    "國家安全法",
+    "九合一選舉"
+   ],
+   "related": [
+    "2026-11-04-tnr-taiwan-npa-tnr-cases",
+    "2026-11-05-tnr-taiwan-ey-security-meeting"
+   ],
+   "sources": [
+    {
+     "label": "中央社報導",
+     "url": "https://www.cna.com.tw/news/asoc/202611140077.aspx",
+     "official": false
+    },
+    {
+     "label": "聯合報報導",
+     "url": "https://udn.com/news/story/7315/9878493",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T23:15:46+08:00"
+  },
+  {
+   "id": "2026-11-13-tnr-ap-taiwan-attacks-feature",
+   "court": "CN",
+   "kind": "調查報導",
+   "caseId": "taiwan-tnr-response",
+   "jurisdiction": "台灣",
+   "outlet": "美聯社（AP）",
+   "outletCode": "",
+   "date": "2026-11-13",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Johnson Lai、Huizhong Wu、Kanis Leung（美聯社）",
+   "title": "美聯社專題：黃逸豪、矢板明夫遇襲引發跨國鎮壓憂慮，刑事局稱騷擾手段升級，北京否認涉入",
+   "shortTitle": "美聯社專題：台灣批中人士遇襲",
+   "point": "刑事局長稱手段由辱罵升級至潑漆、假車禍；華府學者憂北京將手法複製他處",
+   "titleOriginal": "Violent attacks on critics of China in Taiwan raise concern over transnational repression",
+   "caseRef": "",
+   "tldr": "美聯社整理台灣近期兩起受關注的攻擊案：曾在表演中把習近平比作小熊維尼的相聲演員黃逸豪遭蓄意撞車，日本評論員矢板明夫遭香港幫派毆打。刑事局長說騷擾正在升級，警方把這類案件當成國家層級威脅處理，也與美方合作；中國則否認涉入，稱「跨國鎮壓」是民進黨的謊言。",
+   "memo": "依美聯社 2026 年 11 月 13 日報導，台灣刑事警察局局長邱紹洲表示，針對批評中國人士之騷擾已由言語辱罵升級為潑漆、毀損財物及製造假車禍，警方將此類案件視為國家層級威脅，協調移民署及海巡署防止嫌犯離境，並將追查台籍協力者，且就海外台灣人相關案件與美國當局合作。報導引述檢方指控，黃逸豪遭撞案五名被告收受化名「K」之中國人士約新台幣 45 萬元。中國國台辦否認涉入，稱「跨國鎮壓」係民進黨散布之謊言。",
+   "context": "黃逸豪 2026 年 9 月遭蓄意撞車，新北地檢署 10 月起訴 5 人；矢板明夫 7 月在台中遭香港幫派分子毆打，被告已於 11 月認罪。\n陸委會 11 月 5 日公布中共對台跨境鎮壓 9 大樣態，法務部研擬修正《反滲透法》。",
+   "facts": [
+    "報導稱撞車後對方異常客氣，主動表示願負擔醫藥費及修車費，警方事後認定為蓄意攻擊。",
+    "依檢方指控，五名被告自化名「K」的中國人士取得約新台幣 45 萬元，目的是讓黃逸豪傷重無法演出。",
+    "黃逸豪稱攻擊是為了表明批評北京要付出代價；他已停止與其他相聲演員合作，出行有警察隨扈。",
+    "報導稱矢板明夫案中一名男子獲提供港幣 10 萬元毆打矢板明夫，已認罪待量刑；一名把風者已逃離台灣。",
+    "美國詹姆斯敦基金會研究員 Matt Brazil 稱攻擊是重大升級，任何在台批評習近平或中共者都可能成為目標，若奏效北京可能在他處擴大使用。",
+    "國台辦週三稱「跨國鎮壓」是民進黨的謊言；7 月曾稱毆打矢板明夫的港人係出於義憤，屬一般治安事件。"
+   ],
+   "issues": [
+    "台灣現行刑事法能否有效追究境外指使者？",
+    "國際社會如何評估中國在台灣境內實施的暴力跨國鎮壓？"
+   ],
+   "holding": "・刑事局：騷擾嚴重性增加，視為國家層級威脅，將阻止嫌犯離境並追查協力者，並與美方合作。\n・學者：Matt Brazil 稱為重大升級，憂手法外擴。\n・當事人：黃逸豪、矢板明夫均稱攻擊旨在讓批評者噤聲，表示不會改變立場。\n・中方：否認涉入，稱跨國鎮壓說法為謊言。",
+   "significance": "國際通訊社以專題報導台灣境內的跨國鎮壓案件，使相關個案獲得國際關注；文中刑事局表示與美方合作偵辦涉海外台灣人案件，值得注意後續跨國執法合作。",
+   "editorNote": "本網頁助理 註：本則多為既有案件的整理，新資訊主要為刑事局長受訪內容。關於矢板明夫案酬勞，美聯社稱獲提供港幣 10 萬元，與本站先前依中央社所載「前金港幣 1.5 萬元」可並存（前金與約定總額），但兩者關係報導未說明。自由時報、ETtoday 11 月 14 日均有轉述。",
+   "tags": [
+    "跨國鎮壓",
+    "台灣",
+    "中國",
+    "香港",
+    "黃逸豪",
+    "矢板明夫",
+    "刑事局",
+    "言論自由",
+    "在地協力者"
+   ],
+   "related": [
+    "2026-10-21-tnr-taiwan-huang-yi-hao-indictment",
+    "2026-11-11-tnr-yaita-akio-attacker-guilty-plea"
+   ],
+   "sources": [
+    {
+     "label": "美聯社報導（ABC News 轉載）",
+     "url": "https://abcnews.com/International/wireStory/violent-attacks-critics-china-taiwan-raise-concern-transnational-138132369",
+     "official": false
+    },
+    {
+     "label": "自由時報報導",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5640490",
+     "official": false
+    },
+    {
+     "label": "ETtoday 報導",
+     "url": "https://www.ettoday.net/news/20261114/3272107.htm",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T23:15:46+08:00"
+  },
+  {
+   "id": "2026-11-12-tnr-russia-zolnikova-in-absentia",
+   "court": "RU",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "OVD-Info",
+   "outletCode": "",
+   "date": "2026-11-12",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "俄羅斯法院以參與「不受歡迎組織」活動為由，缺席判處 Meduza 記者 Asya Zolnikova 兩年半徒刑",
+   "shortTitle": "俄缺席判 Meduza 記者 Zolnikova 兩年半",
+   "point": "控其 2025 年為 Meduza 撰寫兩篇文章；另禁止從事社會政治活動及使用網路七年",
+   "titleOriginal": "Meduza journalist Asya Zolnikova has been sentenced in absentia to two and a half years in prison over two articles",
+   "caseRef": "",
+   "tldr": "莫斯科一家法院在記者本人不在場的情況下，判處替流亡媒體 Meduza 寫稿的記者 Asya Zolnikova 兩年半徒刑，理由是她在 2025 年替被俄國列為「不受歡迎組織」的 Meduza 寫了兩篇文章。這是俄羅斯近期一連串缺席判決流亡媒體工作者的又一例。",
+   "memo": "依俄羅斯人權團體 OVD-Info 2026 年 11 月 12 日報導，莫斯科 Tushinsky 區法院依《俄羅斯聯邦刑法》第 284.1 條第 1 項（參與「不受歡迎組織」活動），缺席判處流亡媒體 Meduza 記者 Asya Zolnikova 有期徒刑兩年六個月，於一般制度矯正營執行，並禁止其從事社會政治活動及使用網際網路七年。檢方指控其於 2025 年為 Meduza 撰寫兩篇文章，但未指明篇目。同院曾於 2026 年 7 月裁定缺席羈押，並曾准許搜索其母親住所。",
+   "context": "Meduza 為設於拉脫維亞里加的俄語獨立媒體，俄羅斯總檢察署 2023 年 1 月將其列為「不受歡迎組織」，為其工作即可能構成刑事犯罪。\n俄羅斯 2026 年以來多次以缺席審判追訴流亡記者與評論員，本站已收錄涅姆佐夫之女 Zhanna Nemtsova、評論員 Grozovsky 等案。",
+   "facts": [
+    "依報導，判決由莫斯科 Tushinsky 區法院作出，罪名為參與不受歡迎組織活動（刑法第 284.1 條第 1 項）。",
+    "刑期兩年六個月、一般制度矯正營，另禁止社會政治活動及使用網路七年。",
+    "檢方稱其 2025 年為 Meduza 撰寫兩篇文章，未指明篇目。",
+    "刑事案於 2026 年夏季公開；7 月法院裁定缺席羈押，此前同院准許搜索其母親住所。",
+    "她 2024 年曾因一篇談戰爭如何改變城市的 Meduza 文章，依行政違法法典第 20.33 條遭罰款 12,000 盧布。",
+    "報導未載判決確切日期及其居住國。"
+   ],
+   "issues": [
+    "以「不受歡迎組織」罪名追訴為境外媒體撰稿者，是否構成對新聞自由的跨境壓制？",
+    "搜索在俄家屬住所等措施對流亡記者的施壓效果。"
+   ],
+   "holding": "・判決：缺席判處兩年六個月，並禁止社會政治活動及使用網路七年。\n・依據：參與不受歡迎組織活動，指其為 Meduza 撰寫兩篇文章。\n・程序：7 月缺席羈押，先前搜索其母親住所。",
+   "significance": "顯示俄羅斯持續以「不受歡迎組織」條款對流亡媒體記者進行缺席追訴，判決可能伴隨通緝、資產凍結及對國內家屬的壓力。",
+   "editorNote": "本網頁助理 註：OVD-Info 報導未載確切判決日期，故 eventDate 留空。",
+   "tags": [
+    "跨國鎮壓",
+    "俄羅斯",
+    "缺席審判",
+    "不受歡迎組織",
+    "Meduza",
+    "流亡記者",
+    "家屬"
+   ],
+   "related": [
+    "2026-11-05-tnr-russia-zhanna-nemtsova-in-absentia",
+    "2026-11-11-tnr-russia-grozovsky-in-absentia"
+   ],
+   "sources": [
+    {
+     "label": "OVD-Info 報導原文",
+     "url": "https://ovd.info/en/express-news/2026/11/12/meduza-journalist-asya-zolnikova-has-been-sentenced-absentia-two-and-half",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-14T23:15:46+08:00"
   }
  ],
  "agenda": [
@@ -6207,7 +6473,7 @@
    "nameOriginal": "Taiwan's response to China-linked transnational repression",
    "caseRef": "",
    "summary": "台灣政府對受中國指使的跟監、恐嚇與暴力事件的偵辦、警示與修法動向。",
-   "status": "法務部研擬修正《反滲透法》增訂罪名、加重刑度，條文尚未公布；陸委會將設通報專線，並研議加強對兩類港人入境審查；國台辦 11 月 11 日稱「跨國鎮壓」為謊言，陸委會同日以矢板明夫、黃逸豪兩案駁斥。"
+   "status": "法務部研擬修正《反滲透法》增訂罪名、加重刑度，條文尚未公布；陸委會將設通報專線；國台辦 11 月 11 日稱「跨國鎮壓」為謊言，陸委會駁斥；刑事局 11 月 13 日夜間全國同步掃蕩幫派據點，稱防範幫派充當跨國鎮壓在地協力者。"
   },
   {
    "id": "viet-tan-cambodia-abduction",
@@ -6284,7 +6550,7 @@
    "nameOriginal": "Uyghur detainees in Thailand (2014 group)",
    "caseRef": "",
    "summary": "2014 年在泰國被拘留的 300 多名維吾爾人中仍留在泰國者的去向；泰國曾於 2015 年及 2025 年將部分人遣返中國。",
-   "status": "泰國政府 11 月 4 日表示中方遣返要求將依引渡條約交法院審理，五人可抗辯，其中兩名獲特赦者已委任律師、仍拘於曼谷移民拘留中心，另三人尚須服刑約一年。"
+   "status": "泰國政府 11 月 4 日表示中方遣返要求將依引渡條約交法院審理，兩名獲特赦者已委任律師、仍拘於曼谷移民拘留中心，另三人尚須服刑約一年；聯合國多位特別報告員與工作小組 11 月 13 日聯合呼籲泰國勿將五人引渡回中國。"
   },
   {
    "id": "mwaipaya-kenya-abduction",
