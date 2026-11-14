@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-14T23:46:25+08:00",
-  "lastRunLocal": "2026-11-14 23:46",
+  "lastRun": "2026-11-15T07:45:50+08:00",
+  "lastRunLocal": "2026-11-15 07:45",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：美國 2（執法案件 1、司法案件 1）、亞太與其他 1（政策動態 1）"
+  "lastRunNote": "新增 2 則：亞太與其他 1（政策動態 1）、國際組織 1（研究報告 1）"
  },
  "items": [
   {
@@ -8443,6 +8443,145 @@
     }
    ],
    "addedAt": "2026-11-14T23:46:25+08:00"
+  },
+  {
+   "id": "2026-11-13-fin-kenya-cbk-cma-vasp-licensing-notice",
+   "court": "OTHER",
+   "kind": "政策動態",
+   "caseId": "kenya-vasp-act",
+   "jurisdiction": "肯亞",
+   "outlet": "Kenyans.co.ke",
+   "outletCode": "KCK",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-13",
+   "importance": 1,
+   "author": "",
+   "title": "肯亞中央銀行與資本市場管理局聯合公告：提供虛擬資產服務者須先依《虛擬資產服務提供者規則》取得執照，並公布申請檢核表",
+   "shortTitle": "肯亞要求虛擬資產業者先取得執照",
+   "point": "央行與資本市場管理局 11 月 13 日公告，既有業者過渡期已於 11 月 4 日屆滿",
+   "titleOriginal": "CBK, CMA Order Crypto Businesses to Apply for Licences Under New Regulations",
+   "caseRef": "",
+   "tldr": "肯亞的央行和證券主管機關一起公告：在肯亞提供或打算提供加密資產服務的人，都要先拿到執照才能營業。依業務性質向不同機關申請，兩機關已在官網放上申請檢核表，之後會公布核准名單。",
+   "memo": "依 Kenyans.co.ke 及 Nairametrics 2026 年 11 月 13 日、14 日報導，肯亞中央銀行（CBK）與資本市場管理局（CMA）於 2026 年 11 月 13 日聯合公告，依《虛擬資產服務提供者法》（2025 年）及 2026 年 7 月公布之《虛擬資產服務提供者規則》，凡於肯亞提供或擬提供虛擬資產服務之個人或公司，均應於營業前依該法第一附表之業務分類向主管機關申請執照；兩機關已公布申請檢核表，並將公布持照業者名單。依報導，既有業者之過渡期已於 2026 年 11 月 4 日屆滿。",
+   "context": "肯亞《虛擬資產服務提供者法》（VASP Act, 2025）於 2025 年 10 月公布、11 月 4 日施行，指定中央銀行與資本市場管理局為主管機關，依該法第一附表之業務類別分工：支付相關業務由央行監理，投資相關業務由資本市場管理局監理。\n國家財政部於 2026 年 3 月預告施行規則草案，2026 年 7 月公布《虛擬資產服務提供者規則》，依業務別訂定最低實收資本（穩定幣發行人最高，為 3 億肯亞先令），並就穩定幣準備金管理、面額贖回、揭露與獨立稽核設有規定。",
+   "facts": [
+    "2026 年 11 月 13 日：中央銀行與資本市場管理局發布聯合公告。",
+    "適用對象：於肯亞提供或擬提供虛擬資產服務之個人及公司。",
+    "申請方式：依業務類別向主管機關申請；兩機關官網公布申請檢核表及受理洽詢管道。",
+    "依 Kenyans.co.ke 報導，既有業者過渡期已於 2026 年 11 月 4 日屆滿；報導未載新的申請期限。",
+    "核准後將公布持照業者名單供公眾查詢。"
+   ],
+   "issues": [
+    "過渡期屆滿後仍在營業之未持照業者如何處理？",
+    "雙主管機關分工下，跨業務業者之執照如何核發？"
+   ],
+   "holding": "・營業前須取得執照，否則不得提供虛擬資產服務。\n・依《虛擬資產服務提供者法》第一附表業務分類，分別向中央銀行或資本市場管理局申請。\n・兩機關公布申請檢核表，將公布持照業者名單。",
+   "significance": "肯亞為非洲主要加密資產市場之一，本公告代表其專法進入實際發照階段。後續應留意首批核准名單、對未持照業者之執法，以及是否依 IMF 建議修正穩定幣準備金與資本規定。",
+   "editorNote": "本網頁助理 註：本則依 Kenyans.co.ke 與 Nairametrics 報導撰寫；本網頁助理未能取得兩機關公告原文，公告文號不詳。過渡期屆滿日（11 月 4 日）僅見於 Kenyans.co.ke 報導及 Spencer West 7 月分析。",
+   "tags": [
+    "加密資產",
+    "虛擬資產服務商",
+    "執照",
+    "肯亞中央銀行",
+    "資本市場管理局",
+    "肯亞"
+   ],
+   "related": [
+    "2026-11-12-fin-imf-kenya-vasp-ta-report"
+   ],
+   "sources": [
+    {
+     "label": "Kenyans.co.ke 報導",
+     "url": "https://www.kenyans.co.ke/news/129361-cbk-cma-order-crypto-businesses-apply-licences-under-new-regulations",
+     "official": false
+    },
+    {
+     "label": "Nairametrics 報導",
+     "url": "https://nairametrics.com/2026/11/14/kenya-mandates-licences-for-crypto-firms-tightens-industry-oversight/",
+     "official": false
+    },
+    {
+     "label": "Spencer West 分析（施行規則）",
+     "url": "https://www.spencer-west.com/news/kenyas-virtual-asset-service-providers-regulations-2026-regulatory-framework-now-operational/",
+     "official": false
+    },
+    {
+     "label": "《虛擬資產服務提供者法》全文（CMA，PDF）",
+     "url": "https://www.cma.or.ke/download/18/acts/5882/virtual-asset-service-providers-act-2025.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-15T07:45:50+08:00"
+  },
+  {
+   "id": "2026-11-12-fin-imf-kenya-vasp-ta-report",
+   "court": "INTL",
+   "kind": "研究報告",
+   "caseId": "kenya-vasp-act",
+   "jurisdiction": "肯亞",
+   "outlet": "TechTrendsKE",
+   "outletCode": "TTKE",
+   "date": "2026-11-12",
+   "eventDate": "2026-11-06",
+   "importance": 1,
+   "author": "",
+   "title": "IMF 技術協助報告建議肯亞增訂虛擬資產旅行規則，並允許外幣穩定幣發行人將準備金存放境外、改採與規模相稱之資本要求",
+   "shortTitle": "IMF 建議肯亞修正虛擬資產規則",
+   "point": "增訂旅行規則、外幣穩定幣準備金可存境外，資本門檻改依規模風險訂定",
+   "titleOriginal": "IMF challenges Kenya's crypto rules over foreign stablecoin reserves and licensing costs",
+   "caseRef": "",
+   "tldr": "國際貨幣基金（IMF）給肯亞的技術協助報告建議：加密業者轉帳時要附上收付款人資料（旅行規則）；USDT、USDC 這類外幣穩定幣的準備金，可在嚴格監督下放在發行人母國，但限制它們在肯亞金融體系內的使用；資本門檻也不要一律固定，應依業者規模和風險調整。",
+   "memo": "依 TokenPost 2026 年 11 月 11 日及 TechTrendsKE 同年 11 月 12 日報導，國際貨幣基金（IMF）於 2026 年 11 月 6 日發布之肯亞技術協助報告，建議肯亞於《虛擬資產服務提供者規則》或其他適當法規中儘速增訂旅行規則，要求業者蒐集、驗證並傳送匯款人及受款人身分資訊；並建議允許外幣計價穩定幣發行人於嚴格移轉及監督條件下，將準備資產存放於母國或境外保管機構，同時限制該等穩定幣於肯亞金融體系（特別是受監理機構）之使用；另建議以與業務規模及複雜度相稱之方式取代現行固定最低資本要求。",
+   "context": "肯亞《虛擬資產服務提供者法》2025 年施行，2026 年 7 月公布施行規則，規定穩定幣發行人最低實收資本 3 億肯亞先令、交易所 1 億肯亞先令，並要求穩定幣發行人將部分準備資產存放於肯亞境內。\nIMF 曾於 2025 年 1 月發布肯亞加密資產監理與立法技術協助報告。FATF 建議 16（旅行規則）要求虛擬資產服務商於移轉時傳送收付款人資訊。",
+   "facts": [
+    "IMF 技術協助報告日期：依 TokenPost 及 crypto.news 報導為 2026 年 11 月 6 日；報告標題未見於報導。",
+    "旅行規則：要求業者蒐集、驗證並傳送姓名、帳戶、地址、身分證號及錢包資訊；接收端據以辨識當事人、比對制裁名單並評估可疑交易，支援向金融報告中心申報。",
+    "穩定幣準備金：建議外幣穩定幣（如 USDT、USDC）準備金可存放母國或境外保管機構，惟須符合嚴格條件，並限制其在肯亞金融體系內之使用。",
+    "資本要求：指現行資本要求為固定門檻，建議依規模與複雜度訂定；依報導並非全面調降。",
+    "依 TechTrendsKE 引 Chainalysis 數據，截至 2026 年 6 月一年間肯亞加密資產移轉約 57 億美元。"
+   ],
+   "issues": [
+    "準備金在地化要求與外幣穩定幣跨境營運之平衡。",
+    "固定資本門檻是否阻礙小型業者進入市場？",
+    "旅行規則之個資保護與跨境資料傳輸問題。"
+   ],
+   "holding": "・儘速於施行規則或其他法規增訂旅行規則義務。\n・允許外幣穩定幣準備金在嚴格條件下存放境外，同時限制其境內使用範圍。\n・以相稱原則取代固定最低資本要求。",
+   "significance": "顯示國際組織對新興市場穩定幣準備金在地化政策之立場，與各國（如奈及利亞、肯亞）要求境內準備之趨勢形成對照。應留意肯亞財政部是否據此修正施行規則。",
+   "editorNote": "本網頁助理 註：本網頁助理未能開啟 IMF 報告原文，內容依 TokenPost、TechTrendsKE 及 crypto.news 報導整理；各報導對建議範圍之描述略有不同（TokenPost 僅提旅行規則），報告正式標題不詳。報告 DOI 為 crypto.news 所載。",
+   "tags": [
+    "穩定幣",
+    "洗錢防制",
+    "旅行規則",
+    "IMF",
+    "肯亞",
+    "國際"
+   ],
+   "related": [
+    "2026-11-13-fin-kenya-cbk-cma-vasp-licensing-notice"
+   ],
+   "sources": [
+    {
+     "label": "IMF 報告 DOI 連結",
+     "url": "https://doi.org/10.5089/9798229064880.019",
+     "official": true
+    },
+    {
+     "label": "TechTrendsKE 報導",
+     "url": "https://techtrendske.co.ke/2026/11/12/kenya-stablecoin-regulations/",
+     "official": false
+    },
+    {
+     "label": "TokenPost 報導",
+     "url": "https://www.tokenpost.com/news/regulation/53921",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/imf-kenya-crypto-travel-rule-customer-data/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-15T07:45:50+08:00"
   }
  ],
  "agenda": [
@@ -9086,6 +9225,17 @@
    "caseRef": "",
    "summary": "南韓第二階段加密資產立法，規範數位資產發行、流通、交易所治理及韓元穩定幣發行人資格。",
    "status": "依報導政府版草案預計 11 月內提出，擬設交易所大股東持股上限並限銀行主導聯盟發行韓元穩定幣；執政黨議員閔丙德 11 月 13 日表示目標 2027 年 1 月 9 日前完成立法。"
+  },
+  {
+   "id": "kenya-vasp-act",
+   "type": "議題",
+   "court": "OTHER",
+   "forum": "肯亞中央銀行、資本市場管理局、國家財政部",
+   "name": "肯亞《虛擬資產服務提供者法》施行",
+   "nameOriginal": "Kenya Virtual Asset Service Providers Act, 2025 and VASP Regulations, 2026",
+   "caseRef": "",
+   "summary": "肯亞 2025 年制定《虛擬資產服務提供者法》，2026 年 7 月公布施行規則，由中央銀行與資本市場管理局依業務類別分別核發執照。",
+   "status": "既有業者過渡期已於 2026 年 11 月 4 日屆滿，央行與資本市場管理局 11 月 13 日公告業者須取得執照始得營業；IMF 技術協助報告建議放寬外幣穩定幣準備金在地化與固定資本門檻並增訂旅行規則。"
   }
  ],
  "archives": []
