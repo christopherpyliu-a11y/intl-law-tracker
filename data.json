@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-14T23:03:41+08:00",
-  "lastRunLocal": "2026-11-14 23:03",
+  "lastRun": "2026-11-15T07:15:37+08:00",
+  "lastRunLocal": "2026-11-15 07:15",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 1 則：其他 1（美國國務卿魯比歐演講抨擊 ICC）"
+  "lastRunNote": "新增 2 則：非洲人權法院 1、其他 1（以色列法院判前 ICC 檢察官賠償）"
  },
  "items": [
   {
@@ -7552,6 +7552,123 @@
    "related": [
     "2026-11-11-other-nl-us-icc-restrictions-report"
    ]
+  },
+  {
+   "id": "2026-11-13-acthpr-ajavon-family-benin",
+   "court": "ACtHPR",
+   "kind": "判決",
+   "caseId": "",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-13",
+   "importance": 1,
+   "title": "非洲人權法院以未用盡國內救濟為由，不受理貝南商人阿賈馮四名家屬就帳戶遭扣押、公司股權受損提出的申請",
+   "shortTitle": "阿賈馮家屬訴貝南案不受理",
+   "point": "家屬未先在貝南提起民事求償或依 OHADA 規定聲請解除扣押",
+   "titleOriginal": "Madamelda Afiavi Goudjo épouse Ajavon & 3 Others v. Republic of Benin",
+   "caseRef": "Application No. 063/2019",
+   "tldr": "貝南商人、前總統候選人阿賈馮的妻子與三名子女主張，貝南扣押他們的個人銀行帳戶、對家族公司採取的措施使他們以股東身分受損，侵害財產權與訴訟權。非洲人權法院認為自己有管轄權，但他們沒有先在國內法院求償或聲請解除扣押，因此不受理，沒有進入實體審查。",
+   "memo": "非洲人權法院於 2026 年 11 月 13 日就 Ajavon 家屬訴貝南案作成判決，認其有管轄權，並認先前對 Sébastien Ajavon 本人之賠償屬其個人所有，不涵蓋其他股東之損失；惟申請人得於貝南提起民事損害賠償訴訟，並得依 OHADA 統一法第 49 條及第 170 條爭執及聲請解除銀行扣押，其未證明已利用或遭阻止利用上開救濟，故以未用盡國內救濟為由不受理，訴訟費用各自負擔。",
+   "context": "阿賈馮（Sébastien Ajavon）是貝南商人，2016 年參選總統。他本人先前在非洲人權法院對貝南勝訴，法院於 2019 年判命貝南賠償。\n本案由其妻子與三名子女於 2019 年 11 月 29 日另行提出，主張自身權利受侵害，依據《非洲人權與民族權憲章》第 7 條（訴訟權）與第 14 條（財產權）。",
+   "facts": [
+    "申請人為阿賈馮的妻子及三名子女，2019 年 11 月 29 日向非洲人權法院提出申請。",
+    "他們主張個人銀行帳戶遭扣押，且貝南對 COMON 公司採取的措施使其以股東身分受損。",
+    "原請求每人 1.7 億西非法郎賠償；2020 年 1 月 7 日補充申請，追加 COMON 股份、COMON 與 SOCOTRAC 股份貶值、所失利益，以及與 PHILIA 合作及石油計畫相關商機的請求。"
+   ],
+   "issues": [
+    "法院對申請人請求是否有管轄權。",
+    "先前對阿賈馮本人的賠償判決，是否已涵蓋家屬的損失。",
+    "申請人是否已用盡國內救濟（民事損害賠償訴訟、OHADA 統一法第 49 條及第 170 條的扣押爭執與解除程序）。"
+   ],
+   "holding": "・管轄：法院認定有管轄權。\n・先前賠償：2019 年對阿賈馮本人的賠償屬其個人所有，不能補償其他股東特有的損失，貝南此一抗辯不成立。\n・受理：貝南國內有民事損害賠償訴訟可用，OHADA 統一法也允許爭執並解除銀行扣押；申請人未證明曾使用這些救濟或遭阻止使用，因此不受理。\n・未審查實體違反主張；訴訟費用各自負擔。",
+   "significance": "延續非洲人權法院嚴格審查用盡國內救濟的立場：即使與已勝訴的政治人物案件相關，家屬仍須先在國內提起具體的民事或扣押救濟程序。",
+   "editorNote": "本網頁助理 註：本則依 Bénin Web TV 報導及非洲人權法院 AJUDATA 判決摘要索引撰寫；本次無法開啟法院判決摘要 PDF，表決票數與個別意見未經查證。法院索引所列第一申請人姓名為「Madamelda Afiavi Goudjo épouse Ajavon」，報導則作「Ida Afiavi Goudjo épouse Ajavon」，兩者不一致。以下為本網頁助理補充，非來源內容：貝南已於 2020 年撤回依《議定書》第 34 條第 6 項所為允許個人申訴之聲明；本案於撤回前提出，法院一向認撤回不影響撤回生效前已繫屬之案件，此或為法院仍認有管轄權之背景。",
+   "tags": [
+    "用盡國內救濟",
+    "受理要件",
+    "財產權",
+    "非洲憲章第7條",
+    "OHADA",
+    "貝南"
+   ],
+   "sources": [
+    {
+     "label": "非洲人權法院判決摘要（PDF）",
+     "url": "https://www.african-court.org/ajudata/download-file/decision/783/EN/256",
+     "official": true
+    },
+    {
+     "label": "非洲人權法院案件摘要（PDF）",
+     "url": "https://www.african-court.org/ajudata/download-file/summary/256/EN/256",
+     "official": true
+    },
+    {
+     "label": "非洲人權法院第 83 屆常會判決摘要公告",
+     "url": "https://www.african-court.org/afchpr/summaries-of-decisions-delivered-by-the-african-court-during-its-83rd-ordinary-session-13-novembre-2026/",
+     "official": true
+    },
+    {
+     "label": "Bénin Web TV 報導（法文）",
+     "url": "https://beninwebtv.com/affaire-ajavon-la-cour-africaine-declare-irrecevable-le-recours-de-quatre-proches/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-15T07:15:37+08:00"
+  },
+  {
+   "id": "2026-11-14-other-jerusalem-court-khan-damages",
+   "court": "OTHER",
+   "kind": "其他",
+   "caseId": "",
+   "date": "2026-11-14",
+   "eventDate": "",
+   "importance": 2,
+   "title": "耶路撒冷地方法院在前 ICC 檢察官卡里姆・汗未答辯下，判命其賠償人質家屬 2,500 萬謝克爾",
+   "shortTitle": "以色列法院判前 ICC 檢察官賠償人質家屬",
+   "point": "卡里姆・汗經合法送達未提出答辯，法院判賠 2,500 萬謝克爾（約 750 萬美元）",
+   "titleOriginal": "Mor et al. v. Karim Khan (Jerusalem District Court) — damages judgment against former ICC Prosecutor",
+   "caseRef": "",
+   "tldr": "三名遭哈瑪斯擄走人質的家屬在以色列法院控告前國際刑事法院檢察官卡里姆・汗，說他拖延並不當處理對哈瑪斯領導人的逮捕令聲請，讓人質被關得更久。卡里姆・汗沒有答辯，耶路撒冷地方法院判他賠償 2,500 萬謝克爾。原告律師說將到英國聲請承認與執行。",
+   "memo": "據 2026 年 11 月 14 日報導，耶路撒冷地方法院（Eran Shilo 法官）就人質家屬對前國際刑事法院檢察官 Karim Khan 提起之損害賠償訴訟，因被告經合法送達未提出答辯，判命其賠償新謝克爾 2,500 萬元；原告主張被告延宕聲請對哈瑪斯領導人之逮捕令，並將之與對以色列總理及前國防部長之聲請綁定，致人質遭拘禁期間延長。原告代理人表示將於英國聲請承認及執行。",
+   "context": "人質家屬於 2025 年 8 月起訴，由以色列團體 Shurat HaDin 律師 Nitsana Darshan-Leitner 代理。\n卡里姆・汗於 2024 年 5 月同時聲請對哈瑪斯領導人與以色列總理納坦雅胡、前國防部長加蘭特發布逮捕令；2026 年 7 月，國際刑事法院締約國大會罷免其檢察官職務（見本站「ICC 治理」議題）。以色列並非《羅馬規約》締約國。",
+   "facts": [
+    "原告為人質 Eitan Mor 及人質 Avinatan Or、Omri Miran 的家屬，其中包括以色列國會議員 Tzvika Mor。",
+    "原告主張卡里姆・汗在 2023 年 10 月 7 日後約八個月才聲請對辛瓦、戴夫、哈尼雅的逮捕令，並將之與對納坦雅胡、加蘭特的聲請綁在一起。",
+    "原告另主張他未對其他哈瑪斯、伊斯蘭聖戰組織領導人（包括身在加薩以外、參與談判者）聲請逮捕令，並在以色列與恐怖組織間作不當的道德等同。",
+    "卡里姆・汗經合法送達後未提出答辯，法院在未就雙方主張全面調查證據的情況下判賠。"
+   ],
+   "issues": [
+    "內國法院能否就國際刑事法院檢察官執行職務的行為，判命其個人負損害賠償責任（《羅馬規約》第 48 條特權與豁免）",
+    "非締約國法院判決能否在法院締約國（英國）獲得承認與執行"
+   ],
+   "holding": "本則非國際法院或法庭之裁判。依報導，法院因被告未答辯而判命賠償 2,500 萬謝克爾；報導未載法院的法律理由，也未提及豁免問題。原告代理人稱判決具「歷史性」，表示將對卡里姆・汗住所地英國聲請承認與執行；報導指出此需另行訴訟且不保證能取償。",
+   "significance": "這是對國際刑事法院前官員個人求償的少見案例，與美國制裁法院人員同屬對法院人員施壓的一環；判決能否在英國執行、會否觸及檢察官職務行為豁免，是後續觀察重點。",
+   "editorNote": "本網頁助理 註：本則依 VINnews 與 Israel National News 報導撰寫，未取得判決書或以色列法院官方資料；兩報導均未載判決日期與法院理由，故 eventDate 留空。以下為本網頁助理補充，非來源內容：《羅馬規約》第 48 條第 2 項規定檢察官執行職務時享有與外交使節團團長相同之特權與豁免，且任期屆滿後就其以官方身分所為之言論、書寫及行為，仍繼續享有免受任何法律程序之豁免；惟以色列非締約國，亦非《國際刑事法院特權與豁免協定》締約國，規約第 48 條是否拘束以色列法院有爭議。英國為締約國，若原告在英國聲請承認執行，豁免抗辯可能成為爭點。",
+   "tags": [
+    "國際刑事法院",
+    "豁免",
+    "卡里姆・汗",
+    "以色列",
+    "英國",
+    "巴勒斯坦"
+   ],
+   "sources": [
+    {
+     "label": "VINnews 報導",
+     "url": "https://vinnews.com/2026/11/14/jerusalem-court-orders-former-icc-prosecutor-karim-khan-to-pay-nis-25-million-to-hostage-families/",
+     "official": false
+    },
+    {
+     "label": "Israel National News 報導",
+     "url": "https://www.israelnationalnews.com/news/436178",
+     "official": false
+    },
+    {
+     "label": "JNS 報導（2025 年起訴）",
+     "url": "https://www.jns.org/hostage-families-sue-icc-prosecutor-in-jerusalem-for-alleged-hamas-support/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-15T07:15:37+08:00"
   }
  ],
  "agenda": [
