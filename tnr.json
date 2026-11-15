@@ -1,13 +1,72 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-15T07:12:57+08:00",
-  "lastRunLocal": "2026-11-15 07:12",
+  "lastRun": "2026-11-15T23:17:47+08:00",
+  "lastRunLocal": "2026-11-15 23:17",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：中國 1（評論 1）"
+  "lastRunNote": "新增 1 則：其他與綜合 1（評論 1）"
  },
  "items": [
+  {
+   "id": "2026-11-14-tnr-hrw-francophonie-mekong",
+   "court": "MULTI",
+   "kind": "評論",
+   "caseId": "viet-tan-cambodia-abduction",
+   "jurisdiction": "柬埔寨、泰國",
+   "outlet": "人權觀察",
+   "outletCode": "HRW",
+   "date": "2026-11-14",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Elaine Pearson（人權觀察亞洲部主任）",
+   "title": "人權觀察亞洲部主任撰文籲馬克宏在金邊法語國家峰會提出湄公河區域跨國鎮壓，要求越南釋放三名越新黨成員、柬埔寨逮捕 Lim Kimya 命案嫌犯",
+   "shortTitle": "人權觀察籲法語峰會正視跨國鎮壓",
+   "point": "點名柬、越、寮、泰互相遣送異議者，籲法國促四國終止跨境安排",
+   "titleOriginal": "Francophonie Summit Should Confront Cross-Border Repression",
+   "caseRef": "",
+   "tldr": "法語國家組織峰會 11 月 15 至 16 日在柬埔寨金邊舉行。人權觀察亞洲部主任撰文指出，柬埔寨、越南、寮國、泰國近年彼此協助追捕、遣返或傷害他國異議人士，呼籲法國總統馬克宏在峰會上提出這個問題，並要求越南放人、柬埔寨交代調查結果。",
+   "memo": "依人權觀察亞洲部主任 Elaine Pearson 於 2026 年 11 月 14 日發表之評論（同步刊於法國《解放報》），柬埔寨、越南、寮國及泰國間存在互相協助打壓異議人士之跨境安排，所舉案例包括 2026 年 9 月三名越新黨成員於柬埔寨失聯後遭越南以恐怖主義及偽造文書罪起訴、2025 年 1 月柬埔寨前反對派議員 Lim Kimya 於曼谷遭槍殺而兩名柬籍嫌犯仍未歸案、寮國運動者 Khieo Lapchanh 於泰國失蹤等。作者促請法國總統於 11 月 15 日至 16 日金邊法語國家峰會中，要求越南釋放三人並撤銷起訴、柬埔寨公布調查結果並依正當程序引渡上開嫌犯，並敦促四國終止使難民及異議人士遭拘禁、失蹤或殺害之跨境安排。",
+   "context": "第 20 屆法語國家組織峰會於 2026 年 11 月 15 日至 16 日在柬埔寨金邊舉行，法國總統馬克宏預定出席。峰會前，聯合國柬埔寨人權特別報告員及多個非政府組織已促請柬埔寨釋放政治犯。\n本站已追蹤的相關案件包括越新黨成員柬埔寨失聯案及寮國運動者 Khieo Lapchanh 泰國失蹤案。",
+   "facts": [
+    "評論於 2026 年 11 月 14 日刊於人權觀察網站，並同步刊於法國《解放報》（Libération）。",
+    "作者指出，挪威籍 Nguyen Duc Thuan、澳洲籍 Tran Hiep 及越南籍 Thai Cong Truong Son 三名越新黨成員 2026 年 9 月在柬埔寨失聯，越南警方其後稱三人以假證件入境並以恐怖主義、偽造文書罪起訴；家屬否認，越新黨稱三人在柬埔寨遭擄，柬埔寨當局未提出可信說明。",
+    "作者指出，具法國籍的柬埔寨前反對派議員 Lim Kimya 2025 年 1 月在曼谷街頭於妻子面前遭槍殺；泰國法院已判槍手有罪並對兩名柬埔寨籍嫌犯發布逮捕令，其中一人為洪森顧問，兩人仍在逃，柬埔寨未實質調查。",
+    "作者另舉 2023 年反對派運動者 Phorn Phanna 在泰國羅勇府遭講高棉語男子襲擊、2026 年 9 月寮國運動者 Khieo Lapchanh 在泰國龍仔厝府失蹤（原定次日接受聯合國難民署面談），以及泰國 2024 年 11 月遣返兩名經難民署認定難民的柬埔寨運動者、柬埔寨法院 2026 年 9 月判處三名運動者各 7 年徒刑等事例。"
+   ],
+   "issues": [
+    "東南亞各國間非正式的互相遣送與協助追捕，如何與不遣返原則及強迫失蹤之禁止相調和？",
+    "被害人具法國、澳洲、挪威等第三國國籍時，其國籍國可透過何種外交與領事途徑介入？"
+   ],
+   "holding": "・作者主張柬、越、寮、泰四國政府在打壓異議人士上互相協助，使區域內難民及流亡者面臨拘禁、失蹤甚至死亡風險。\n・要求柬埔寨公布三名越新黨成員失聯案的調查結果；要求越南釋放三人並撤銷全部起訴。\n・要求柬埔寨逮捕 Lim Kimya 命案兩名嫌犯並依正當程序引渡。\n・要求柬埔寨追究詐騙園區經營者及其保護者，不因政治關係而豁免。\n・呼籲法國在峰會上促請四國終止相關跨境安排。",
+   "significance": "法語國家峰會是柬埔寨近年主辦的大型國際會議，人權團體藉此向與會的法國施壓。後續可觀察馬克宏或峰會是否公開提及上述個案，以及越南對三名越新黨成員的審理進度。",
+   "editorNote": "本則為評論，內容代表作者個人見解，非官方立場。文中各案事實均為作者所述或引述，越南、柬埔寨政府立場未見於本文；越南稱三人係非法入境被捕，柬埔寨內政部曾否認逮捕或移交三人（見本站相關條目）。",
+   "tags": [
+    "跨國鎮壓",
+    "柬埔寨",
+    "越南",
+    "寮國",
+    "泰國",
+    "法國",
+    "越新黨",
+    "強迫失蹤",
+    "遣返",
+    "Lim Kimya",
+    "法語國家組織"
+   ],
+   "related": [
+    "2026-11-09-tnr-mekong-viet-tan-witnesses",
+    "2026-10-06-tnr-hrw-lao-critic-missing-thailand"
+   ],
+   "sources": [
+    {
+     "label": "人權觀察評論原文",
+     "url": "https://www.hrw.org/news/2026/11/14/francophonie-summit-should-confront-cross-border-repression",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-15T23:17:47+08:00"
+  },
   {
    "id": "2026-11-14-tnr-diplomat-japan-self-censorship",
    "court": "CN",
@@ -2775,7 +2834,8 @@
    ],
    "related": [
     "2026-10-22-tnr-fh-tnr-watch-southeast-asia",
-    "2026-10-02-tnr-npr-southeast-asia-activists"
+    "2026-10-02-tnr-npr-southeast-asia-activists",
+    "2026-11-14-tnr-hrw-francophonie-mekong"
    ],
    "sources": [
     {
@@ -6142,7 +6202,8 @@
    ],
    "related": [
     "2026-10-23-tnr-viet-tan-consular-access",
-    "2026-10-13-tnr-hrw-vietnam-viet-tan"
+    "2026-10-13-tnr-hrw-vietnam-viet-tan",
+    "2026-11-14-tnr-hrw-francophonie-mekong"
    ],
    "sources": [
     {
