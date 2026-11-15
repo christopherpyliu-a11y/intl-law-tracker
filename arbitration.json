@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-15T06:58:41+08:00",
-  "lastRunLocal": "2026-11-15 06:58",
+  "lastRun": "2026-11-15T23:00:58+08:00",
+  "lastRunLocal": "2026-11-15 23:00",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 1 則：投資仲裁 1（仲裁判斷 1）",
+  "lastRunNote": "新增 1 則：商務仲裁 1（案件動態 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -8532,6 +8532,78 @@
     }
    ],
    "addedAt": "2026-11-15T06:58:41+08:00"
+  },
+  {
+   "id": "2026-11-10-arb-tullow-ghana-tax-award-roadmap",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "commercial",
+   "caseId": "tullow-v-ghana-tax",
+   "jurisdiction": "迦納",
+   "outlet": "3News（迦納媒體報導）",
+   "outletCode": "3N",
+   "date": "2026-11-10",
+   "eventDate": "2026-11-10",
+   "importance": 1,
+   "author": "",
+   "title": "Tullow 在 ICC 稅務仲裁敗訴後，迦納總統宣布雙方就 3.93 億美元稅款達成清償路線圖",
+   "shortTitle": "迦納與 Tullow 就 3.93 億美元稅款談妥清償路線",
+   "point": "ICC 仲裁庭先前駁回 Tullow 主張，認定課稅未違反石油協議，雙方改以協商方式履行判斷",
+   "titleOriginal": "Ghana and Tullow agree roadmap to settle US$393m tax liability after arbitration win",
+   "caseRef": "",
+   "tldr": "英國石油公司 Tullow 在迦納的子公司，對迦納稅務機關就其保險理賠金課稅（連同罰款共約 3.93 億美元）提起 ICC 仲裁，結果敗訴。迦納總統 11 月 10 日表示，雙方已談好如何履行這份仲裁判斷，同時維持外海油田正常生產。",
+   "memo": "迦納總統 John Dramani Mahama 於 2026 年 11 月 10 日宣布，迦納政府與 Tullow Ghana Limited 已就履行 ICC 仲裁判斷所認定之 393,091,993.70 美元稅款達成清償路線圖，並維持 Jubilee 及 TEN 油田之營運。該 ICC 仲裁庭（仲裁地倫敦）於 2026 年 9 月駁回 Tullow 之請求，認定迦納稅務局就 2016 至 2019 年營業中斷保險理賠金核課之所得稅 1.965 億美元及百分之百法定罰款，未違反雙方石油協議，亦未逾核課期間，稅務局之執行行為合法。路線圖具體條件尚未公開。",
+   "context": "Tullow Ghana Limited 為英國 Tullow Oil 在迦納之子公司，經營外海 Jubilee 及 TEN 油田。迦納稅務局（GRA）就其 2016 至 2019 財務年度所受領之營業中斷保險理賠金核課公司所得稅約 1.965 億美元，並加計百分之百法定罰款，合計約 3.93 億美元。\nTullow 依石油協議提起 ICC 仲裁（仲裁地倫敦），主張課稅違反石油協議中的穩定條款。此為依契約對國家提起之商務仲裁，並非投資條約仲裁。",
+   "facts": [
+    "ICC 仲裁庭駁回 Tullow 之全部請求，維持稅務局 393,091,993.70 美元之核課處分。",
+    "迦納財政部長 Cassiel Ato Forson 於 9 月 30 日表示，仲裁庭認定核課未逾時效、罰款適用正確、稅務局執行行為合法，政府將依迦納法律執行判斷，並願以友好方式解決其他稅務爭議。",
+    "據報導，Tullow 於 9 月 29 日之公告指出，仲裁庭認為課稅未違反穩定條款，百分之百罰款亦不在穩定條款保障範圍內。",
+    "Mahama 總統於 11 月 10 日在 Takoradi 舉行之 2026 年在地成分研討會上宣布雙方已就判斷之履行達成路線圖；至報導時 Tullow 尚未另行發布聲明。",
+    "雙方另就遭否准扣除之借款利息爭議繼續協商。"
+   ],
+   "issues": [
+    "石油協議中的穩定條款是否限制地主國就保險理賠金課徵所得稅及加計罰款。",
+    "稅務核課是否逾越核課期間，以及稅務機關執行行為之合法性。"
+   ],
+   "holding": "仲裁庭駁回 Tullow 之請求，維持全部核課金額（依報導）。11 月 10 日之路線圖僅由迦納總統口頭宣布，報導未提及付款期程或其他具體條件。",
+   "significance": "本案顯示能源業者以石油協議穩定條款對抗地主國稅務措施時，穩定條款的保障範圍未必及於罰款或特定所得類型。雙方選擇以協商方式履行判斷，避免影響油田營運；路線圖細節及借款利息爭議仍待後續發展。",
+   "editorNote": "本網頁助理 註：本則依迦納媒體報導撰寫，尚未取得仲裁判斷原文，亦未取得 Tullow 公告原文。仲裁判斷作成日期報導不一：3News 稱為 2026 年 9 月 22 日，Citi Newsroom 則稱仲裁庭於 9 月 29 日（星期二）作成決定，故本則 eventDate 採路線圖宣布日。仲裁判斷本身作成於本站收錄期間之前，本則收錄的是 11 月 10 日的履行路線圖。",
+   "tags": [
+    "ICC",
+    "迦納",
+    "英國",
+    "Tullow",
+    "石油",
+    "穩定條款",
+    "租稅措施",
+    "國家契約",
+    "和解",
+    "仲裁判斷執行"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "3News 報導：迦納與 Tullow 就稅款達成路線圖",
+     "url": "https://3news.com/business/energy/ghana-tullow-roadmap-393m-tax-liability",
+     "official": false
+    },
+    {
+     "label": "BusinessGhana 報導",
+     "url": "http://www.businessghana.com/site/news/business/359464/Ghana-agrees-settlement-roadmap-with-Tullow-on-US$393m-tax-liability",
+     "official": false
+    },
+    {
+     "label": "Citi Newsroom 報導：ICC 仲裁判斷結果",
+     "url": "https://www.citinewsroom.com/2026/09/tullow-loses-icc-challenge-over-196-5m-ghana-tax-assessment/",
+     "official": false
+    },
+    {
+     "label": "GAR 報導（需訂閱）",
+     "url": "https://globalarbitrationreview.com/article/uk-oil-company-loses-tax-dispute-ghana",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-15T23:00:58+08:00"
   }
  ],
  "agenda": [
@@ -9274,6 +9346,18 @@
    "caseRef": "ECLI:NL:RBAMS:2026:10887",
    "summary": "香港公司 Akida 受讓莫斯科信貸銀行權利，依俄羅斯 ICAC 2025 年 12 月逾 501 億盧布之保證責任判斷，在荷蘭、DIFC 等地對土耳其企業家 Zeren 請求執行；Zeren 主張文件偽造。",
    "status": "阿姆斯特丹地方法院 2026 年 10 月 29 日維持假扣押；阿姆斯特丹上訴法院訂於 11 月 20 日就判斷承認開庭。"
+  },
+  {
+   "id": "tullow-v-ghana-tax",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "commercial",
+   "forum": "ICC 國際商會（仲裁地倫敦）",
+   "name": "Tullow 訴迦納（石油協議稅務仲裁）",
+   "nameOriginal": "Tullow Ghana Limited v. Republic of Ghana (ICC)",
+   "caseRef": "",
+   "summary": "Tullow Ghana 依石油協議提起 ICC 仲裁，主張迦納就其營業中斷保險理賠金課稅及罰款約 3.93 億美元違反穩定條款。",
+   "status": "仲裁庭於 2026 年 9 月駁回 Tullow 請求；雙方於 11 月宣布就判斷履行達成清償路線圖，細節未公開。"
   }
  ]
 }
