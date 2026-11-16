@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-16T07:13:24+08:00",
-  "lastRunLocal": "2026-11-16 07:13",
+  "lastRun": "2026-11-16T23:15:51+08:00",
+  "lastRunLocal": "2026-11-16 23:15",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "本次未發現新動態"
+  "lastRunNote": "新增 1 則：中國 1（事件 1）"
  },
  "items": [
   {
@@ -5218,7 +5218,8 @@
     "美國國務院"
    ],
    "related": [
-    "2026-10-29-tnr-us-state-dept-china-tnr"
+    "2026-10-29-tnr-us-state-dept-china-tnr",
+    "2026-11-16-tnr-toronto-consulate-falun-gong-assault"
    ],
    "sources": [
     {
@@ -5902,7 +5903,8 @@
     "皇家騎警"
    ],
    "related": [
-    "2026-11-06-tnr-safeguard-defenders-liaison-points-report"
+    "2026-11-06-tnr-safeguard-defenders-liaison-points-report",
+    "2026-11-16-tnr-toronto-consulate-falun-gong-assault"
    ],
    "sources": [
     {
@@ -6470,6 +6472,70 @@
     }
    ],
    "addedAt": "2026-11-14T23:15:46+08:00"
+  },
+  {
+   "id": "2026-11-16-tnr-toronto-consulate-falun-gong-assault",
+   "court": "CN",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "加拿大",
+   "outlet": "CTV News",
+   "outletCode": "CTV",
+   "date": "2026-11-16",
+   "eventDate": "2026-09-22",
+   "importance": 2,
+   "author": "",
+   "title": "加拿大多倫多中國總領事館前法輪功學員抗議遭襲：男子扯毀布條、揚言開槍並踢人後返回中國，多倫多警方調查中",
+   "shortTitle": "多倫多中領館前法輪功學員遭襲",
+   "point": "施暴男子稱該處為「中國領土」並揚言開槍，事後已返回中國；警方稱若再入境將起訴",
+   "titleOriginal": "'This is Chinese territory': Toronto Police investigate alleged assault outside Chinese Consulate",
+   "caseRef": "",
+   "tldr": "加拿大 CTV 新聞取得影片，顯示 9 月 22 日一名男子在多倫多中國總領事館前扯毀法輪功抗議布條，威脅要對抗議者開槍，並推人、踢向拍攝者。多倫多警方已立案，但男子已返回中國；人權人士稱這是中國跨國鎮壓的明顯例子，呼籲加拿大總理在 APEC 峰會向習近平提出。",
+   "memo": "依 CTV News 2026 年 11 月 16 日報導，2026 年 9 月 22 日一名男子於加拿大多倫多中華人民共和國總領事館前扯毀法輪功學員抗議布條，聲稱該處為中國領土、布條違法，並揚言對女性抗議者開槍、推擠該抗議者及踢擊拍攝之女子。多倫多警方證實已立案偵查；依加拿大法輪大法學會發言人所述，警方已查明男子身分並經加拿大邊境服務局得知其已返回中國，如再入境將以傷害、恐嚇及毀損財物罪名逮捕起訴。報導稱男子是否為中國警察或外交人員不明，中國駐加大使館截至刊出時未回應。",
+   "context": "多倫多中國總領事館位於 George Street，法輪功學員長期在館前設置布條抗議中國對法輪功的迫害。\n保護衛士（Safeguard Defenders）11 月 6 日報告指控中國透過海外僑團「聯絡點」監控僑民，並稱加拿大境內至少有 18 處；加拿大政府其後表示將查證相關指控。中國 2026 年 7 月 1 日施行的民族團結相關法規，被部分學者批評具有域外效力。\n此前 9 月 24 日美中元首會晤期間，華府亦發生法輪功學員抗議時遭親北京人士攻擊事件。",
+   "facts": [
+    "依 CTV News 取得的影片及人權人士說法，事發於 2026 年 9 月 22 日，地點為多倫多 George Street 中國總領事館前。",
+    "影片顯示一名男子因不滿批評中國迫害法輪功的布條而將其扯毀；報導稱他表示該處是中國領土、布條違法，並稱可以對一名女性抗議者開槍、讓她摔死。",
+    "一名抗議者試圖阻止時遭男子推開，眼鏡幾乎被撞落；男子隨後踢向一名拍攝的女子。",
+    "目擊者記下男子搭乘的 Uber 車牌；依加拿大法輪大法學會發言人 Joel Chipkar 說法，調查人員已查明男子身分，並經加拿大邊境服務局得知他已返回中國。",
+    "多倫多警方證實案件仍在偵查中，發言人稱主辦偵查員休假返回前無法提供更多資訊；Chipkar 稱警方告訴他，男子若再入境將在邊境遭拘留，並以傷害、恐嚇及毀損財物罪起訴，但警方未公布其姓名。",
+    "報導稱男子是否為中國警察或外交人員不明；CTV 向中國駐渥太華大使館詢問，截至刊出時未獲回應。"
+   ],
+   "issues": [
+    "在外國使領館前對抗議者施暴後即離境的行為人，地主國如何追訴（是否發布通緝、限制再入境或要求引渡）。",
+    "個別暴力事件如何認定是否受外國政府指使，及地主國是否應就此召見大使。",
+    "抗議者在使領館周邊的集會自由與人身安全保障。"
+   ],
+   "holding": "・依影片與目擊者說法：男子扯毀布條、言語威脅開槍，並推擠及踢擊兩名女子。\n・多倫多警方：已立案偵查，暫無更多資訊。\n・加拿大法輪大法學會發言人 Chipkar：警方稱若男子再入境將予逮捕並起訴；批評警方未公布嫌犯姓名。\n・中國戰略風險研究所顧問 Margaret McCuaig-Johnston：事件令人不安，籲外交部長召見中國大使並禁止該男子再入境；並稱中國新施行的民族團結相關法規具域外效力，可能助長在加拿大針對法輪功、維吾爾、西藏、香港民主人士及反對統一的台裔加拿大人的鎮壓。\n・曾遭中國拘押逾千日的前加拿大外交官康明凱（Michael Kovrig）：籲總理卡尼將海外警站調查結果列為優先議題，稱此為侵犯加拿大主權。\n・中國駐加大使館：截至報導刊出時未回應。",
+   "significance": "事件發生在加拿大政府表示將查證中國海外警站指控之際，人權人士要求總理卡尼在深圳 APEC 峰會向習近平提出。後續可觀察多倫多警方是否公開嫌犯身分或發布逮捕令、加拿大外交部是否召見中國大使，以及是否據此採取入境限制措施。",
+   "editorNote": "本網頁助理 註：事件經過主要依 CTV 取得的影片及法輪功團體發言人陳述；警方未公布嫌犯姓名，也未證實其與中國政府有關。「跨國鎮壓」的定性來自報導引述的人權人士。eventDate 依報導所載 9 月 22 日。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "加拿大",
+    "法輪功",
+    "多倫多",
+    "使領館",
+    "人身攻擊",
+    "海外警站"
+   ],
+   "related": [
+    "2026-11-11-tnr-canada-probe-liaison-points",
+    "2026-11-07-tnr-us-state-dept-falun-gong-dc-assault"
+   ],
+   "sources": [
+    {
+     "label": "CTV News／CP24 報導",
+     "url": "https://www.cp24.com/news/canada/2026/11/16/police-investigating-video-that-shows-alleged-assault-outside-chinese-consulate-in-toronto/",
+     "official": false
+    },
+    {
+     "label": "CTV News 影片報導",
+     "url": "https://www.ctvnews.ca/canada/article/video-captures-confrontation-outside-chinese-consulate-in-toronto/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-16T23:15:51+08:00"
   }
  ],
  "agenda": [
