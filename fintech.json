@@ -1,13 +1,292 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-16T07:22:57+08:00",
-  "lastRunLocal": "2026-11-16 07:22",
+  "lastRun": "2026-11-16T23:39:33+08:00",
+  "lastRunLocal": "2026-11-16 23:39",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "本次未發現新動態"
+  "lastRunNote": "新增 4 則：國際組織 1（國際標準 1）、美國 1（司法案件 1）、英國 1（立法動態 1）、台灣 1（監理指引 1）"
  },
  "items": [
+  {
+   "id": "2026-11-16-fin-fsb-cross-border-payments-progress-2026",
+   "court": "FSB",
+   "kind": "國際標準",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "金融穩定委員會（FSB）",
+   "outletCode": "FSB",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-16",
+   "importance": 2,
+   "author": "",
+   "title": "金融穩定委員會公布 G20 跨境支付路線圖 2026 年綜合進度報告，指國際政策工作大致完成但終端用戶改善仍緩慢不均",
+   "shortTitle": "FSB 公布 G20 跨境支付年度進度報告",
+   "point": "國際政策工作大致完成，成本、速度等改善仍緩慢，促各國訂行動計畫",
+   "titleOriginal": "G20 Roadmap for Enhancing Cross-border Payments: Consolidated progress report for 2026; Further work by jurisdictional authorities and private sector necessary to enhance cross-border payments",
+   "caseRef": "FSB Press release 16/2026",
+   "tldr": "G20 在 2020 年訂下目標，要讓跨境匯款與支付在 2027 年底前更便宜、更快、更透明、更容易取得。FSB 最新報告說，國際層級該做的政策工作大致完成，但一般使用者實際感受到的改善仍然緩慢且各地不一，接下來要靠各國政府與民間業者落實。",
+   "memo": "金融穩定委員會（FSB）於 2026 年 11 月 16 日發布 G20 強化跨境支付路線圖 2026 年綜合進度報告（新聞稿第 16/2026 號），指出 FSB、國際清算銀行支付與市場基礎設施委員會（CPMI）及合作組織已大致完成 2020 年路線圖及 2023 年更新所定之國際政策工作，惟依關鍵績效指標衡量，跨境支付成本、速度、取得管道及透明度之終端用戶改善仍屬緩慢且不均；FSB 呼籲 G20 及非 G20 法域訂定具體行動計畫，並促請民間部門參與，以於 2027 年底前推動落實。",
+   "context": "G20 於 2020 年核可 FSB 擬定之跨境支付路線圖，並於 2021 年訂定 2027 年底前達成之成本、速度、取得管道與透明度量化目標；2023 年路線圖更新聚焦三大優先主題：支付系統互通與延伸、法律監理與監督架構、跨境資料交換與訊息標準。\nFSB 2025 年 10 月進度報告已指出目標於 2027 年前達成之可能性不高；2026 年 3 月 FSB 召開支付高峰會，宣布進入以公私協力為主的落實階段。\n本年度報告首次將優先主題進度報告與關鍵績效指標（KPI）報告合併發布。",
+   "facts": [
+    "報告與新聞稿於 2026 年 11 月 16 日發布，新聞稿編號 16/2026。",
+    "報告指國際政策工作已「大致完成」，但終端用戶在成本、速度、取得管道與透明度的改善仍緩慢且因地區與支付類型而不同。",
+    "FSB 已要求各法域擬定含具體步驟之行動計畫，並更積極運用其區域諮詢小組。",
+    "國際貨幣基金與世界銀行之技術協助計畫協助各國處理個別障礙。",
+    "本年度將 KPI 監測報告與優先主題進度報告合併，並同步公布零售跨境支付成本、速度、透明度與取得管道之 KPI 資料集。"
+   ],
+   "issues": [
+    "在國際政策大致完成後，如何確保各國實際落實路線圖建議？",
+    "2027 年底期限屆至後，G20 跨境支付工作的後續安排為何？",
+    "民間部門採用新技術之角色與安全性如何兼顧？"
+   ],
+   "holding": "・進度評估：國際政策工作大致完成；終端用戶改善仍緩慢、不均。\n・三大優先主題：支付系統互通與延伸；法律、監理與監督架構；跨境資料交換與訊息標準。\n・對各法域：G20 與非 G20 國家均須行動，將國際成果轉化為具體改善，並訂定行動計畫。\n・對民間部門：在現代化既有系統與採用新技術方面扮演關鍵角色，FSB 呼籲持續溝通執行上的實際障礙。\n・國際合作：路線圖接近 2027 年底里程碑，FSB 將與國際組織及產業合作推動落實，同時維持安全。",
+   "significance": "報告延續去年「目標恐難如期達成」的評估，重點已由制定政策轉向各國落實。2027 年底期限將屆，G20 是否延長或調整目標、以及穩定幣與代幣化等新支付技術在後續工作中的定位，值得觀察。",
+   "editorNote": "本網頁助理 註：報告全文 PDF 未能開啟，具體 KPI 數據未能核對，摘要依 FSB 新聞稿及報告頁面。新聞稿與報告頁面均未直接提及穩定幣或代幣化。",
+   "tags": [
+    "跨境支付",
+    "支付服務",
+    "G20",
+    "FSB",
+    "CPMI",
+    "國際"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "FSB 新聞稿（16/2026）",
+     "url": "https://www.fsb.org/2026/11/further-work-by-jurisdictional-authorities-and-private-sector-necessary-to-enhance-cross-border-payments/",
+     "official": true
+    },
+    {
+     "label": "FSB 報告頁面",
+     "url": "https://www.fsb.org/2026/11/g20-roadmap-for-enhancing-cross-border-payments-consolidated-progress-report-for-2026/",
+     "official": true
+    },
+    {
+     "label": "FSB 報告全文（PDF）",
+     "url": "https://www.fsb.org/uploads/P161126.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-16T23:39:33+08:00"
+  },
+  {
+   "id": "2026-11-16-fin-scotus-custodia-cert-denied",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "TokenPost",
+   "outletCode": "TP",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-16",
+   "importance": 2,
+   "author": "",
+   "title": "美國最高法院拒絕受理 Custodia Bank 聯準會主帳戶上訴案，第十巡迴法院認定準備銀行有權拒絕開戶之判決確定",
+   "shortTitle": "美最高法院拒審 Custodia 主帳戶案",
+   "point": "第十巡迴法院判決確定：聯邦準備銀行對主帳戶申請有裁量權",
+   "titleOriginal": "Custodia Bank, Inc. v. Federal Reserve Board of Governors, et al., No. 26-62; Supreme Court Declines Custodia Case Over Fed Master Account",
+   "caseRef": "U.S. Supreme Court No. 26-62；10th Cir. No. 24-8024",
+   "tldr": "懷俄明州的加密資產特許銀行 Custodia 想直接取得聯準會的「主帳戶」，以便自行清算資金，但被堪薩斯市聯邦準備銀行拒絕。它一路打到最高法院，依報導最高法院 11 月 16 日決定不受理，代表上訴法院「準備銀行可以拒絕」的判決確定，加密銀行無法靠訴訟強制取得主帳戶。",
+   "memo": "依 TokenPost 及 Law360 2026 年 11 月 16 日報導，美國聯邦最高法院於同日駁回 Custodia Bank 對聯邦準備理事會及堪薩斯市聯邦準備銀行之移審令聲請（No. 26-62），使第十巡迴上訴法院 2025 年 10 月 31 日判決（No. 24-8024）確定。該判決認定《聯邦準備法》第 342 條賦予聯邦準備銀行收受存款之裁量權，並及於主帳戶之開立；《貨幣控制法》第 248a 條係規範理事會服務定價原則，非保證所有合格存款機構取得帳戶；Tymkovich 法官提出不同意見。",
+   "context": "Custodia 為依懷俄明州特殊目的存款機構（SPDI）法取得執照之加密資產銀行，2020 年申請聯準會主帳戶，2023 年遭堪薩斯市聯邦準備銀行拒絕後起訴。懷俄明聯邦地院判決聯準會勝訴。\n第十巡迴上訴法院 2025 年 10 月 31 日以二比一維持原判，2026 年 3 月 13 日駁回全院重審聲請；Custodia 於 2026 年 7 月聲請移審，聯準會理事會與堪薩斯市聯邦準備銀行 10 月 13 日提出反對狀，案件排入 11 月 13 日評議會。\n依報導，堪薩斯市聯邦準備銀行已給予 Kraken 限制用途帳戶，Custodia 認為該類帳戶不具自動清算功能、設有餘額上限且不付息。",
+   "facts": [
+    "最高法院案號 No. 26-62，2026 年 10 月 28 日排入 11 月 13 日評議會。",
+    "依報導，最高法院於 11 月 16 日（週一）拒絕受理。",
+    "依報導，川普政府主張《聯邦準備法》賦予準備銀行拒絕申請之裁量權，促請最高法院不受理。",
+    "第十巡迴法院判決由 Ebel 法官主筆，Tymkovich 法官不同意見。"
+   ],
+   "issues": [
+    "聯邦準備銀行對合格存款機構主帳戶申請是否享有裁量權？",
+    "州特許之加密資產銀行可否藉訴訟取得聯準會支付系統之直接接取？",
+    "由未經總統任命之準備銀行官員決定支付系統接取，是否引發憲法疑慮？"
+   ],
+   "holding": "・最高法院：依報導拒絕受理移審，未附理由。\n・第十巡迴法院多數意見：《聯邦準備法》第 342 條之收受存款裁量權隱含開立主帳戶之裁量；第 248a 條為對理事會之定價原則，「對非會員存款機構提供服務」條款係針對無差別定價，而非帳戶接取保證；Toomey 修正案要求申報遭拒之主帳戶申請，顯示國會預期準備銀行可拒絕合格申請人。\n・對理事會之 APA 請求：理事會「無意見」電郵非終局行政處分，終局決定由準備銀行作成。\n・正當程序主張不成立；任命條款主張已失權。\n・不同意見（Tymkovich）：《貨幣控制法》要求對所有非會員存款機構開放接取，多數見解使未經任命官員握有不受審查之權力。",
+   "significance": "判決確定後，加密資產銀行與金融科技業者取得聯準會支付系統直接接取，需仰賴聯準會政策（如限制用途帳戶）或立法，而非訴訟。與 OCC 核發國家信託銀行執照及 GENIUS Act 下穩定幣發行人取得支付管道之討論相關，值得後續觀察。",
+   "editorNote": "本網頁助理 註：最高法院案卷頁面在本次查詢時尚未顯示拒絕受理紀錄，拒絕受理一事依 TokenPost 及 Law360 報導；第十巡迴法院判決內容依判決書。",
+   "tags": [
+    "主帳戶",
+    "支付服務",
+    "加密資產",
+    "司法",
+    "聯準會",
+    "Custodia",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "美國最高法院案卷（No. 26-62）",
+     "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-62.html",
+     "official": true
+    },
+    {
+     "label": "第十巡迴上訴法院判決全文（PDF）",
+     "url": "https://www.ca10.uscourts.gov/sites/ca10/files/opinions/010111327582.pdf",
+     "official": true
+    },
+    {
+     "label": "TokenPost 報導",
+     "url": "https://www.tokenpost.com/news/regulation/58501",
+     "official": false
+    },
+    {
+     "label": "Law360 報導",
+     "url": "https://www.law360.com/capitalmarkets/articles/2549938",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-16T23:39:33+08:00"
+  },
+  {
+   "id": "2026-11-15-fin-uk-crypto-misc-amendments-lords",
+   "court": "HMT",
+   "kind": "立法動態",
+   "caseId": "uk-cryptoasset-regime",
+   "jurisdiction": "英國",
+   "outlet": "Bitcoin.com News",
+   "outletCode": "BTC",
+   "date": "2026-11-15",
+   "eventDate": "2026-11-11",
+   "importance": 1,
+   "author": "",
+   "title": "英國國會審議《2000 年金融服務與市場法（加密資產）（雜項修正）規則 2026》草案，依報導上議院 11 月 11 日核准",
+   "shortTitle": "英上議院核准加密資產規則修正草案",
+   "point": "排除英國合格穩定幣發行之交易、保管規範，新增穩定幣發行促銷管制",
+   "titleOriginal": "The Financial Services and Markets Act 2000 (Cryptoassets) (Miscellaneous Amendments) Regulations 2026 (draft)",
+   "caseRef": "ISBN 9780348287233",
+   "tldr": "英國財政部 9 月提出一份技術修正，調整明年 10 月上路的加密資產新制範圍，主要是讓發行英國穩定幣的業者不會被重複納入「交易」或「保管」等其他受監理活動。依報導，上議院 11 月 11 日已核准，仍須正式制定後才生效。",
+   "memo": "依 Bitcoin.com News 2026 年 11 月 15 日報導，英國上議院於同年 11 月 11 日核准《2000 年金融服務與市場法（加密資產）（雜項修正）規則 2026》草案，該規則尚待正式制定始生效。依草案說明備忘錄，該規則將英國合格穩定幣排除於交易及安排等受監理活動、排除支付交易相關之暫時持有及準備資產安排於保管活動，增訂自營交易、造市、技術服務及中央證券存管之豁免，於金融促銷規則新增「發行合格穩定幣」受管制活動，並提前施行穩定幣準備資產不視為集合投資計畫、另類投資基金或電子貨幣之規定；加密資產新制全面施行日為 2027 年 10 月 25 日。",
+   "context": "英國以《2000 年金融服務與市場法（加密資產）規則 2026》建立加密資產監理新制，預定 2027 年 10 月 25 日全面施行，FCA 已發布多份政策聲明，申請期間自 2026 年 9 月 30 日起。\n財政部 2026 年 4 月就修正草案徵詢意見，9 月將草案提交國會，說明備忘錄稱係修正原規則之實質缺漏、誤植及配套修正。",
+   "facts": [
+    "依報導，上議院 2026 年 11 月 11 日核准草案；下議院議事紀錄（Hansard）亦有同日就本草案之辯論。",
+    "依報導，交易與金融促銷相關修正預定 2027 年 10 月 25 日生效。",
+    "依說明備忘錄，原規則第 43、46、47 條（穩定幣準備資產之定性）將於本規則施行後 21 日生效。",
+    "附買回交易之排除，於原持有人為消費者或 FCA 規則指定之人時不適用。"
+   ],
+   "issues": [
+    "英國合格穩定幣發行人與交易、保管等活動之監理界線如何劃定？",
+    "以抵押或附買回方式使用穩定幣是否落入交易或安排活動？",
+    "新增之穩定幣發行促銷管制對跨境推廣之影響？"
+   ],
+   "holding": "・交易與安排：英國合格穩定幣排除於交易、代理交易及安排活動，惟借貸仍在範圍內；所有合格穩定幣之擔保與附買回安排亦排除（消費者情形除外）。\n・保管：排除與支付交易相關之英國合格穩定幣暫時持有，及英國穩定幣準備資產安排。\n・豁免：增訂特定自營交易、造市、非裁量性技術服務提供者及中央證券存管機構之豁免。\n・金融促銷：比照上述修正，新增「發行合格穩定幣」受管制活動及「合格穩定幣」受管制投資。\n・提前施行：穩定幣準備資產不視為集合投資計畫、另類投資基金或電子貨幣之規定。",
+   "significance": "修正釐清英國穩定幣發行與其他加密資產活動之監理範圍，對準備在英國發行穩定幣或提供相關服務之業者申請授權有直接影響。後續須觀察規則正式制定日期，以及 FCA 是否相應調整指引。",
+   "editorNote": "本網頁助理 註：國會議事頁面與法定文書頁面未能開啟，上議院核准一事依 Bitcoin.com News 報導；條文內容依 legislation.gov.uk 草案說明備忘錄。說明備忘錄所載之國會程序與草案標題所示之核准程序不盡一致，正式程序及制定日期待官方紀錄確認。",
+   "tags": [
+    "加密資產",
+    "穩定幣",
+    "英國加密資產新制",
+    "英國財政部",
+    "國會",
+    "英國"
+   ],
+   "related": [
+    "2026-10-21-fin-fca-cp26-36-perimeter-guidance",
+    "2026-10-21-fin-fca-gc26-7-defi-guidance",
+    "2026-10-23-fin-fca-cp26-38-financial-crime-guide"
+   ],
+   "sources": [
+    {
+     "label": "草案說明備忘錄（PDF）",
+     "url": "https://www.legislation.gov.uk/ukdsi/2026/9780348287233/pdfs/ukdsiem_9780348287233_en_001.pdf",
+     "official": true
+    },
+    {
+     "label": "規則草案全文（PDF）",
+     "url": "https://www.legislation.gov.uk/ukdsi/2026/9780348287233/pdfs/ukdsi_9780348287233_en.pdf",
+     "official": true
+    },
+    {
+     "label": "英國下議院 Hansard 辯論紀錄",
+     "url": "https://hansard.parliament.uk/commons/2026-11-11/debates/a535b60b-91c9-4b60-a580-117e29b4b915/DraftFinancialServicesAndMarketsAct2000",
+     "official": true
+    },
+    {
+     "label": "Bitcoin.com News 每週加密法律報導",
+     "url": "https://news.bitcoin.com/regulation-and-legal/this-week-in-crypto-law-november-15-2026/",
+     "official": false
+    },
+    {
+     "label": "A&O Shearman 分析（草案提交）",
+     "url": "https://finreg.aoshearman.com/uk-lays-draft-si-amending-the-2026-cryptoasset-regulations",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-16T23:39:33+08:00"
+  },
+  {
+   "id": "2026-11-13-fin-tw-fsc-ciso-ai-attack",
+   "court": "TW",
+   "kind": "監理指引",
+   "caseId": "",
+   "jurisdiction": "台灣",
+   "outlet": "金融監督管理委員會",
+   "outletCode": "FSC-TW",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-12",
+   "importance": 1,
+   "author": "",
+   "title": "金管會召開金融機構資安長聯繫會議，聚焦 AI 攻擊與代理 AI 安全，要求金融業優先落實六大防護措施",
+   "shortTitle": "金管會籲金融業防範 AI 攻擊",
+   "point": "資安長會議提六大措施，含評估防禦型 AI 並交流代理 AI 安全諮詢文件",
+   "titleOriginal": "金管會資安長會議聚焦AI攻擊與代理AI安全，籲金融業強化防禦及應變",
+   "caseRef": "",
+   "tldr": "金管會 11 月 12 日找來銀行、證券、保險業的資安長開會，提醒 AI 讓駭客攻擊更快更自動化，要求業者優先修補對外漏洞、加強高風險交易與權限控管、謹慎評估用 AI 來防禦，並把 AI 與資安風險提升到董事會層級；會中也討論 10 月發布的「代理 AI」安全諮詢文件。",
+   "memo": "金融監督管理委員會於 2026 年 11 月 12 日召開 2026 年第 2 次金融機構資安長聯繫會議，由副主任委員莊琇媛主持，就資安治理、代理型 AI 安全管理、AI 驅動攻擊及重大資安事件應變進行交流，並於翌日發布新聞稿，要求金融機構優先落實六項措施：盤點並優先修補對外曝險及重大弱點、強化重要資料交易及高風險權限之授權與即時阻斷、落實安全開發並審慎評估防禦型 AI、運用 F-ISAC 情資並管理共用供應商風險、演練 AI 攻擊及雲端中斷之營運持續與復原，及由董事會與高階管理階層負責 AI 與資安風險治理並配置資源。",
+   "context": "金管會 2025 年 12 月發布「金融資安韌性發展藍圖」，2026 年 7 月提出因應 AI 攻擊之策略文件。\n2026 年 10 月 13 日，金管會發布「金融業運用代理 AI 安全諮詢文件」，公開徵詢 30 日，將代理 AI 比擬為「數位員工」，要求依應用情境界定資料存取、工具與可執行動作，按資料敏感度、行為影響及能力範圍分級，並設基本與進階控制要求；該文件未來預計發展為指引，但未定時程。",
+   "facts": [
+    "會議於 2026 年 11 月 12 日舉行，新聞稿 11 月 13 日發布。",
+    "出席者為銀行、證券期貨及保險業資安長，中研院陳孟彰博士就 AI 攻防專題演講。",
+    "議題包括資安治理成熟度評估工具、代理 AI 安全諮詢文件意見交流、AI 攻擊防禦策略及 2026 年含 AI 攻擊與雲端情境之演練經驗。",
+    "依報導，會議召開之際適逢華南銀行盜轉爭議。",
+    "報導未提及六大措施之落實期限。"
+   ],
+   "issues": [
+    "金融機構導入防禦型 AI 之風險如何控管？",
+    "代理 AI 接取核心系統時之權限分級與人工介入機制如何設計？",
+    "共用供應商與雲端服務之集中風險如何監理？"
+   ],
+   "holding": "・對外曝險與弱點：盤點對外系統、API、管理介面與第三方接取點，優先修補已曝險、已遭利用、可自動化或可取得控制權之重大弱點並驗證；無法立即修補者採替代控制。\n・重要資料、交易與高風險存取：強化授權檢核、零信任、異常偵測與即時阻斷。\n・安全開發與防禦型 AI：落實安全開發，審慎評估防禦型 AI，優先用於弱點偵測修補與威脅情資。\n・情資分享與供應鏈：運用 F-ISAC 情資，管理共用供應商、雲端與關鍵軟體風險，檢查委外系統權限。\n・營運持續與復原：演練 AI 攻擊、系統入侵、雲端或供應商中斷，強化數位憑證緊急重新簽發。\n・董事會與高階治理：AI 與資安風險屬全機構責任，明定決策權限、課責與風險胃納，並配置資安長所需人力、預算與技術。",
+   "significance": "金管會將 AI 攻擊與代理 AI 安全納入資安監理重點，並以董事會課責為核心；代理 AI 安全諮詢文件徵詢已屆期，後續是否轉化為正式指引值得注意。",
+   "editorNote": "本網頁助理 註：本則新聞稿日期早於上次更新，因前次未收錄而補列；六大措施內容綜合金管會新聞稿標題、中央社及 CIO Taiwan 報導。",
+   "tags": [
+    "人工智慧",
+    "代理 AI",
+    "資訊安全",
+    "金管會",
+    "台灣"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "金管會新聞稿",
+     "url": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202611130001&aplistdn=ou=news,ou=multisite,ou=chinese,ou=ap_root,o=fsc,c=tw&dtable=News",
+     "official": true
+    },
+    {
+     "label": "中央社報導",
+     "url": "https://www.cna.com.tw/news/afe/202611130284.aspx",
+     "official": false
+    },
+    {
+     "label": "CIO Taiwan 報導",
+     "url": "https://www.cio.com.tw/122738",
+     "official": false
+    },
+    {
+     "label": "工商時報報導",
+     "url": "https://www.ctee.com.tw/news/20261113700084-439901",
+     "official": false
+    },
+    {
+     "label": "中央社報導（代理 AI 諮詢文件，10 月 13 日）",
+     "url": "https://cna.com.tw/news/afe/202610130306.aspx",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-16T23:39:33+08:00"
+  },
   {
    "id": "2026-10-26-fin-sfc-tokenised-fund-secondary-trading",
    "court": "SFC",
@@ -374,7 +653,8 @@
    ],
    "related": [
     "2026-10-21-fin-fca-gc26-7-defi-guidance",
-    "2026-10-23-fin-fca-cp26-38-financial-crime-guide"
+    "2026-10-23-fin-fca-cp26-38-financial-crime-guide",
+    "2026-11-15-fin-uk-crypto-misc-amendments-lords"
    ],
    "sources": [
     {
@@ -432,7 +712,8 @@
    ],
    "related": [
     "2026-10-21-fin-fca-cp26-36-perimeter-guidance",
-    "2026-10-06-fin-adgm-fsra-defi-guidance-cp"
+    "2026-10-06-fin-adgm-fsra-defi-guidance-cp",
+    "2026-11-15-fin-uk-crypto-misc-amendments-lords"
    ],
    "sources": [
     {
@@ -2348,7 +2629,8 @@
     "英國"
    ],
    "related": [
-    "2026-10-21-fin-fca-cp26-36-perimeter-guidance"
+    "2026-10-21-fin-fca-cp26-36-perimeter-guidance",
+    "2026-11-15-fin-uk-crypto-misc-amendments-lords"
    ],
    "sources": [
     {
@@ -8680,9 +8962,9 @@
    "date": "2026-11-16",
    "court": "FSB",
    "title": "FSB 公布 G20 跨境支付路線圖 2026 年綜合進度報告",
-   "note": "依 FSB 10 月通訊預告；FSB 全會同期於 11 月 16 至 17 日舉行。",
-   "url": "https://mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-october-2026-20261028",
-   "relatedId": "",
+   "note": "已於 11 月 16 日公布。",
+   "url": "https://www.fsb.org/2026/11/g20-roadmap-for-enhancing-cross-border-payments-consolidated-progress-report-for-2026/",
+   "relatedId": "2026-11-16-fin-fsb-cross-border-payments-progress-2026",
    "caseId": ""
   },
   {
@@ -9103,7 +9385,7 @@
    "nameOriginal": "UK cryptoasset regulatory regime",
    "caseRef": "",
    "summary": "依《2000 年金融服務與市場法（加密資產）規則 2026》，新的加密資產活動自 2027 年 10 月 25 日起納入監理，FCA 陸續發布政策聲明與指引。",
-   "status": "申請期間 2026 年 9 月 30 日至 2027 年 2 月 28 日；CP26/36 與 GC26/7 意見徵詢至 11 月 18 日，金融犯罪指南修正（CP26/38）至 12 月 24 日；HMRC 10 月 28 日確認合格穩定幣自 2027 年 4 月起免徵資本利得稅（待財政法案通過）。"
+   "status": "申請期間 2026 年 9 月 30 日至 2027 年 2 月 28 日；依報導上議院 11 月 11 日核准加密資產規則雜項修正草案（待正式制定）；CP26/36 與 GC26/7 意見徵詢至 11 月 18 日，金融犯罪指南修正（CP26/38）至 12 月 24 日；HMRC 確認合格穩定幣自 2027 年 4 月起免徵資本利得稅（待財政法案通過）。"
   },
   {
    "id": "hk-stablecoin-tokenisation",
