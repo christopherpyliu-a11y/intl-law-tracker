@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-16T23:39:33+08:00",
-  "lastRunLocal": "2026-11-16 23:39",
+  "lastRun": "2026-11-17T07:29:08+08:00",
+  "lastRunLocal": "2026-11-17 07:29",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：國際組織 1（國際標準 1）、美國 1（司法案件 1）、英國 1（立法動態 1）、台灣 1（監理指引 1）"
+  "lastRunNote": "新增 3 則：美國 1（政策動態 1）、台灣 1（政策動態 1）、亞太與其他 1（司法案件 1）"
  },
  "items": [
   {
@@ -4352,7 +4352,8 @@
     "2026-10-10-fin-taiwan-fsc-stablecoin-joint-venture-plan",
     "2026-10-20-fin-taiwan-fsc-vasp-subregulations-timeline",
     "2026-11-03-fin-taiwan-fsc-vasp-draft-subregulations",
-    "2026-11-04-fin-pwc-taiwan-vasp-subregs-commentary"
+    "2026-11-04-fin-pwc-taiwan-vasp-subregs-commentary",
+    "2026-11-16-fin-taiwan-stablecoin-public-hearing"
    ],
    "sources": [
     {
@@ -5773,7 +5774,8 @@
     "2026-11-10-fin-missouri-prediction-market-suits-escalate",
     "2026-11-11-fin-cftc-warns-kalshi-possible-charges",
     "2026-11-12-fin-louisiana-court-tro-prediction-markets",
-    "2026-11-13-fin-cftc-doj-sue-louisiana"
+    "2026-11-13-fin-cftc-doj-sue-louisiana",
+    "2026-11-16-fin-us-senators-cftc-geofencing-letter"
    ],
    "sources": [
     {
@@ -8864,6 +8866,181 @@
     }
    ],
    "addedAt": "2026-11-15T07:45:50+08:00"
+  },
+  {
+   "id": "2026-11-16-fin-us-senators-cftc-geofencing-letter",
+   "court": "US",
+   "kind": "政策動態",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國",
+   "outlet": "美國參議員 Adam Schiff 辦公室",
+   "outletCode": "US-SEN",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-16",
+   "importance": 2,
+   "author": "",
+   "title": "九名民主黨參議員致函 CFTC 主席 Selig，要求撤回禁止預測市場依州別封鎖之公平近用解釋，並要求保存相關紀錄",
+   "shortTitle": "九名參議員促 CFTC 撤回禁封鎖解釋",
+   "point": "稱與多州法院命令衝突，要求 11 月 23 日前回覆並保存紀錄",
+   "titleOriginal": "Sen. Schiff, Senators Push CTFC To Reverse Ban on Geofencing by Prediction Markets",
+   "caseRef": "17 CFR 38.151(b)",
+   "tldr": "CFTC 11 月 5 日要求預測市場平台不得再依州別封鎖用戶。九名民主黨參議員聯名去信，認為這會讓平台違反加州、密西根、內華達、華盛頓等地法院已下的禁令，要求 CFTC 撤回或暫停，並保存相關內部紀錄。",
+   "memo": "美國參議員 Adam Schiff、Amy Klobuchar（參議院農業委員會首席少數黨委員）等九名民主黨參議員於 2026 年 11 月 16 日致函商品期貨交易委員會（CFTC）主席 Michael Selig，指 CFTC 11 月 5 日就 17 CFR 38.151(b) 公平近用要求所為、命指定契約市場於 30 日內停止地理圍欄之解釋，與加州、密西根、內華達及華盛頓州法院命令相衝突，請求撤回或於訴訟終結前暫停實施，至少應釐清依法院命令、《印第安博弈管理法》或自願所設之地域限制不構成違規，並要求保存 2025 年 1 月 1 日以來相關紀錄，於 2026 年 11 月 23 日前回覆。",
+   "context": "CFTC 於 2026 年 11 月 5 日發布解釋，認為指定契約市場依州別封鎖用戶不符公平近用要求，要求於 30 日內停止或提出說明。\n多州與部落已就運動類事件合約取得法院限制或禁制命令，第六、第九巡迴法院見解對平台不利，各州與 CFTC 之訴訟持續擴大。",
+   "facts": [
+    "新聞稿日期為 2026 年 11 月 16 日，收件人為 CFTC 主席 Michael Selig。",
+    "聯署者：Schiff、Cortez Masto、Rosen、Cantwell、Murray、Slotkin、Peters、Padilla、Klobuchar。",
+    "要求 CFTC 於 2026 年 11 月 23 日前回覆，並以書面確認已保存相關紀錄。",
+    "依 Legal Sports Report 報導，共和黨參議員 Cruz 正準備法案，擬禁止預測市場未經州或部落授權提供博弈類合約。"
+   ],
+   "issues": [
+    "CFTC 得否以公平近用規則要求平台不遵守州法院之限制命令？",
+    "CFTC 與平台業者間是否有協調，致涉藐視法院之疑慮？"
+   ],
+   "holding": "・主張：解釋與加州、密西根、內華達、華盛頓州法院命令衝突，且 38.151(b) 未提供依據。\n・援引：第六、第九巡迴法院認州得對預測市場適用博弈法；第九巡迴認部落土地上運動合約屬未授權之第三類博弈。\n・質疑：解釋發布時間緊接 Blue Lake Rancheria v. Kalshi 案裁定之後。\n・請求：撤回或暫停解釋；至少澄清依法院命令、IGRA 或自願所設限制不違規。\n・紀錄保存：保存 2025 年 1 月 1 日起相關紀錄（含個人帳號及通訊軟體），並暫停自動刪除。",
+   "significance": "民主黨將於明年初取得參議院多數，此函顯示國會監督將聚焦 CFTC 預測市場政策；應留意 CFTC 是否於 11 月 23 日前回覆、12 月初 30 日期限屆至時平台之因應，以及 Cruz 法案提出情形。",
+   "editorNote": "本網頁助理 註：信函 PDF 未能開啟，內容依參議員新聞稿及 CoinDesk、Legal Sports Report 報導整理。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "CFTC",
+    "國會",
+    "美國"
+   ],
+   "related": [
+    "2026-11-05-fin-cftc-impartial-access-geofencing"
+   ],
+   "sources": [
+    {
+     "label": "參議員 Schiff 新聞稿",
+     "url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-senators-push-ctfc-to-reverse-ban-on-geofencing-by-prediction-markets/",
+     "official": true
+    },
+    {
+     "label": "參議員聯名信全文（PDF）",
+     "url": "https://www.schiff.senate.gov/wp-content/uploads/2026/11/Inquiry-to-CFTC-on-prediction-market-geofencing.pdf",
+     "official": true
+    },
+    {
+     "label": "CoinDesk 報導",
+     "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+     "official": false
+    },
+    {
+     "label": "Legal Sports Report 報導",
+     "url": "https://www.legalsportsreport.com/287407/senators-challenge-cftc-prediction-market-order-as-cruz-prepares-bill/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T07:29:08+08:00"
+  },
+  {
+   "id": "2026-11-16-fin-taiwan-stablecoin-public-hearing",
+   "court": "TW",
+   "kind": "政策動態",
+   "caseId": "taiwan-vasp-act",
+   "jurisdiction": "台灣",
+   "outlet": "工商時報",
+   "outletCode": "CTEE",
+   "date": "2026-11-16",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "依工商時報報導，金管會將於 11 月 24 日召開穩定幣發行許可管理辦法草案及發行人洗錢防制規定公聽會",
+   "shortTitle": "金管會將辦穩定幣子法公聽會",
+   "point": "依報導 11 月 24 日舉行，銀行局長主持，央行、調查局與公會出席",
+   "titleOriginal": "獨家》穩定幣子法公聽會 這天上陣！；穩定幣子法公聽會 產官研商",
+   "caseRef": "",
+   "tldr": "據工商時報報導，金管會將在 11 月 24 日針對 11 月 3 日預告的穩定幣發行管理辦法草案，以及穩定幣發行人的洗錢防制規定開公聽會，邀銀行、虛擬資產業者、央行和調查局一起討論。",
+   "memo": "依工商時報 2026 年 11 月 16 日及 17 日報導，金融監督管理委員會法制處據悉將於 2026 年 11 月 24 日召開「研商穩定幣發行許可管理辦法草案及穩定幣發行人洗錢防治相關規定公聽會」，由銀行局局長童政彰主持，邀集銀行局、虛擬資產商業同業公會、銀行公會、中央銀行及法務部調查局出席。該辦法草案係金管會於 11 月 3 日預告，預告期間由 60 日縮短為 40 日，草案規定發行人限銀行、金融控股公司、其轉投資事業及經核准機構，非銀行發行人實收資本額至少新臺幣 3 億元，且金融業合計持股須逾 50%。",
+   "context": "《虛擬資產服務法》2026 年 7 月公布；金管會 11 月 3 日預告「穩定幣發行許可及管理辦法」草案，並重申子法預計 2027 年第一季與母法同步施行。",
+   "facts": [
+    "依報導公聽會訂於 2026 年 11 月 24 日，由金管會法制處主辦、銀行局局長童政彰主持。",
+    "出席單位包括銀行局、VASP 公會、銀行公會、中央銀行及法務部調查局。",
+    "依報導，草案不得發行人民幣及港幣、澳門幣穩定幣，可發行新臺幣或單一外幣 1:1 掛鉤穩定幣。",
+    "準備資產以公允價值評價，不得低於流通在外穩定幣總額；發行人須驗證申購與贖回者身分、定期由會計師查核。",
+    "依報導，部分銀行表示將優先與虛擬資產業者合作；MaiCoin 表示歡迎規範明確化。"
+   ],
+   "issues": [
+    "穩定幣發行人洗錢防制義務之範圍，及與虛擬資產服務商義務如何分工？",
+    "金融業持股過半之門檻對非銀行業者參與之影響？"
+   ],
+   "holding": "・議題：穩定幣發行許可管理辦法草案與發行人洗錢防制規定。\n・發行主體：銀行、金控、其轉投資事業及經核准機構；非銀行發行人資本 3 億元、金融業合計持股逾 50%，單一銀行或金控逾 25%。\n・幣別：排除人民幣、港幣及澳門幣。\n・發行人義務：準備資產足額、身分驗證、會計師查核、內控內稽與資安、向金管會及央行申報，並能配合司法或警察機關之限制處分。",
+   "significance": "公聽會意見將影響草案定稿；應留意 12 月中預告期屆滿後之修正內容，及洗錢防制規定是否另行預告。",
+   "editorNote": "本網頁助理 註：公聽會日期係工商時報「據了解」之報導，金管會尚未見正式公告，日期可能變動。",
+   "tags": [
+    "穩定幣",
+    "虛擬資產服務法",
+    "洗錢防制",
+    "金管會",
+    "台灣"
+   ],
+   "related": [
+    "2026-11-03-fin-taiwan-fsc-stablecoin-issuance-draft"
+   ],
+   "sources": [
+    {
+     "label": "工商時報報導（11 月 16 日）",
+     "url": "https://www.ctee.com.tw/news/20261116702014-430301",
+     "official": false
+    },
+    {
+     "label": "工商時報報導（11 月 17 日）",
+     "url": "https://www.ctee.com.tw/news/20261117700093-439901",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T07:29:08+08:00"
+  },
+  {
+   "id": "2026-11-16-fin-italy-revolut-judicial-administration",
+   "court": "OTHER",
+   "kind": "司法案件",
+   "caseId": "",
+   "jurisdiction": "義大利",
+   "outlet": "crypto.news",
+   "outletCode": "CNEWS",
+   "date": "2026-11-16",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "依路透社報導，米蘭法院以洗錢防制缺失為由，將 Revolut 義大利業務置於司法管理一年",
+   "shortTitle": "米蘭法院將 Revolut 義大利業務交司法管理",
+   "point": "依報導為期一年，須執行 15 點改善計畫，零售業務照常營運",
+   "titleOriginal": "Revolut's Italian unit put under court supervision over EUR 41.9M",
+   "caseRef": "",
+   "tldr": "據路透社看過的判決，米蘭法院認為數位銀行 Revolut 的防制洗錢機制有重大缺失，讓多名涉犯罪者用帳戶搬移資金，因此派兩名司法管理人監督其義大利分行一年；這是預防措施，Revolut 本身沒有被刑事調查。",
+   "memo": "依 crypto.news 2026 年 11 月 16 日引述路透社報導，義大利米蘭法院以 39 頁裁定，將 Revolut Bank UAB 義大利分行業務置於為期一年之司法管理，指 24 名涉案或已受判決者於 2021 年至 2026 年間利用其帳戶移轉或隱匿約 4,190 萬歐元疑似不法資金，其金融犯罪防制存在「嚴重缺失」。法院指派兩名司法管理人審查內控並監督 15 點改善計畫之執行。依報導，該措施屬預防性質，Revolut 未受刑事調查，零售及企業銀行業務照常營運。",
+   "context": "Revolut 為以立陶宛銀行執照於歐盟經營之數位銀行。依義大利法，法院得對企業採取司法管理之預防措施，以矯正可能助長犯罪之組織缺失。\n依報導，義大利財政警察 2024 年檢查 Revolut 加密資產子公司時，亦指其有逾百萬件客戶審查與紀錄保存違規及 60 件未申報可疑交易，已移送經濟財政部。",
+   "facts": [
+    "依報導，裁定由米蘭法院作成，路透社於 2026 年 11 月 16 日報導；裁定日期報導未載明。",
+    "涉及 24 名個人、約 4,190 萬歐元疑似不法交易；其他機構就同一批人申報 265 件可疑交易，Revolut Bank UAB 未申報。",
+    "司法管理期間一年，定期檢討；須於 5 日內指定聯絡人、30 日內初步報告、60 日內行動計畫、90 日內完成內控評估。",
+    "Revolut 表示將配合義大利主管機關。"
+   ],
+   "issues": [
+    "數位銀行跨境以分行經營時，洗錢防制缺失之司法預防措施範圍？",
+    "加密資產子公司之行政違規程序是否另生裁罰？"
+   ],
+   "holding": "・法院認定：Revolut 防制金融犯罪機制有嚴重缺失，且屬長期反覆之管理模式。\n・措施：義大利分行司法管理一年，指派兩名司法管理人。\n・改善：執行 15 點改善計畫並依時程提出報告。\n・限制：措施不認定公司故意參與犯罪，Revolut 未受刑事調查。",
+   "significance": "顯示歐盟成員國法院可對跨境經營之金融科技銀行採取強度高之洗錢防制預防措施；應留意司法管理人報告、義大利經濟財政部對其加密子公司是否啟動裁罰程序，以及立陶宛母國監理機關之回應。",
+   "editorNote": "本網頁助理 註：未能取得法院裁定或路透社原文，內容依 crypto.news 引述路透社報導整理。",
+   "tags": [
+    "洗錢防制",
+    "數位銀行",
+    "Revolut",
+    "義大利",
+    "歐盟"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "crypto.news 報導（引述路透社）",
+     "url": "https://crypto.news/revolut-italy-money-laundering-court-supervision/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T07:29:08+08:00"
   }
  ],
  "agenda": [
@@ -9296,6 +9473,46 @@
    "url": "https://en.bloomingbit.io/feed/news/124346",
    "relatedId": "2026-11-13-fin-korea-min-daba-jan-9-target",
    "caseId": "kr-digital-asset-basic-act"
+  },
+  {
+   "id": "2026-11-17-us-senate-ag-cftc-nominees-hearing",
+   "date": "2026-11-17",
+   "court": "US",
+   "title": "參議院農業委員會舉行 CFTC 委員被提名人任命聽證會",
+   "note": "美東時間；依 CoinDesk 報導，兩名 CFTC 被提名人出席",
+   "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+   "relatedId": "",
+   "caseId": "us-crypto-market-structure"
+  },
+  {
+   "id": "2026-11-22-other-russia-exchange-crypto-trading",
+   "date": "2026-11-22",
+   "court": "OTHER",
+   "title": "俄羅斯：交易所經俄羅斯央行核准交易規則後得開始有組織加密資產交易",
+   "note": "依 CoinDesk 報導，日期可能變動",
+   "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
+   "relatedId": "2026-11-06-fin-bank-of-russia-retail-crypto-access",
+   "caseId": ""
+  },
+  {
+   "id": "2026-11-23-us-senators-cftc-geofencing-reply",
+   "date": "2026-11-23",
+   "court": "US",
+   "title": "九名參議員要求 CFTC 就禁止依州封鎖解釋回覆及確認保存紀錄之期限",
+   "note": "依參議員新聞稿",
+   "url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-senators-push-ctfc-to-reverse-ban-on-geofencing-by-prediction-markets/",
+   "relatedId": "2026-11-16-fin-us-senators-cftc-geofencing-letter",
+   "caseId": "us-prediction-markets-preemption"
+  },
+  {
+   "id": "2026-11-24-tw-stablecoin-public-hearing",
+   "date": "2026-11-24",
+   "court": "TW",
+   "title": "金管會穩定幣發行許可管理辦法草案及發行人洗錢防制規定公聽會",
+   "note": "依工商時報報導，尚無正式公告，日期可能變動",
+   "url": "https://www.ctee.com.tw/news/20261116702014-430301",
+   "relatedId": "2026-11-16-fin-taiwan-stablecoin-public-hearing",
+   "caseId": "taiwan-vasp-act"
   }
  ],
  "cases": [
@@ -9407,7 +9624,7 @@
    "nameOriginal": "Taiwan Virtual Asset Service Act and subsidiary regulations",
    "caseRef": "",
    "summary": "《虛擬資產服務法》2026 年 6 月 30 日三讀、7 月 22 日公布，金管會研訂九項子法，包括穩定幣發行許可與管理。",
-   "status": "金管會 11 月 3 日預告虛擬資產服務商子法及「穩定幣發行許可及管理辦法」草案，11 月 11 日重申子法與母法預計於 2027 年第一季施行，既有業者有 12 個月申請期（依媒體報導）。"
+   "status": "金管會 11 月 3 日預告虛擬資產服務商子法及「穩定幣發行許可及管理辦法」草案，重申子法與母法預計 2027 年第一季施行；依工商時報報導，將於 11 月 24 日就穩定幣子法及發行人洗錢防制規定召開公聽會。"
   },
   {
    "id": "au-digital-assets-framework",
@@ -9440,7 +9657,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "路易斯安那州法院 11 月 12 日單方核發暫時限制令（11 月 30 日審初步禁制令），CFTC 與聯邦政府 11 月 13 日於路易斯安那東區聯邦地院起訴該州請求禁止執行（第 12 州）；司法部與 CFTC 同週起訴阿肯色州；紐約南區聯邦地院駁回 Novig 初步禁制令，Novig 已上訴第二巡迴；密蘇里州訴訟擴大至六家業者；CFTC 11 月 5 日要求指定契約市場 30 日內停止依州別封鎖；伊利諾州案已上訴第七巡迴。"
+   "status": "路易斯安那州法院 11 月 12 日單方核發暫時限制令（11 月 30 日審初步禁制令），CFTC 與聯邦政府 11 月 13 日於路易斯安那東區聯邦地院起訴該州請求禁止執行（第 12 州）；司法部與 CFTC 同週起訴阿肯色州；紐約南區聯邦地院駁回 Novig 初步禁制令，Novig 已上訴第二巡迴；密蘇里州訴訟擴大至六家業者；CFTC 11 月 5 日要求指定契約市場 30 日內停止依州別封鎖；伊利諾州案已上訴第七巡迴。另九名民主黨參議員 11 月 16 日致函 CFTC 要求撤回禁止依州別封鎖之解釋，請於 11 月 23 日前回覆。"
   },
   {
    "id": "kr-tokenised-securities",
