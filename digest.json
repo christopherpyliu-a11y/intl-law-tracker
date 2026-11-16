@@ -1,11 +1,445 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-02T08:15:01+08:00",
-  "lastRunLocal": "2026-11-02 08:15",
-  "lastRunNote": "新增每週重點（10 月 26 日至 11 月 1 日）：國際公法 16 則、國際仲裁法 26 則、跨國鎮壓 22 則、Fintech Law 17 則"
+  "lastRun": "2026-11-16T08:14:22+08:00",
+  "lastRunLocal": "2026-11-16 08:14",
+  "lastRunNote": "新增每週重點（11 月 9 日至 15 日）：國際公法 18 則、國際仲裁法 24 則、跨國鎮壓 20 則、Fintech Law 30 則；並補發 11 月 2 日至 8 日一期（國際公法 23 則、國際仲裁法 32 則、跨國鎮壓 23 則、Fintech Law 43 則）"
  },
  "issues": [
+  {
+   "id": "2026-11-09",
+   "from": "2026-11-09",
+   "to": "2026-11-15",
+   "published": "2026-11-16",
+   "title": "本週重點｜11 月 9 日至 15 日",
+   "lead": "本週國際公法以國際刑事法院終結阿富汗調查涉美軍部分最受矚目，國際海洋法法庭也完成阿英油田案臨時措施辯論；國際仲裁法方面，Gabriel 訴羅馬尼亞案撤銷聲請遭駁回，ICC 宣布在上海設案件管理辦公室。跨國鎮壓方面，倫敦伊朗國際台記者遭監視案兩人罪成，台灣矢板明夫遇襲案被告認罪；Fintech Law 方面，預測市場的州與聯邦衝突擴及路易斯安那州，美國司法部也扣押逾 12 億美元幣安遭竊資產。",
+   "sections": [
+    {
+     "section": "pil",
+     "count": 18,
+     "summary": "本週國際公法以國際刑事法院終結阿富汗調查涉及美軍部分為主，檢方已上訴，評論也質疑分案的依據；美國國務卿魯比歐同週演講抨擊法院，以色列法院則判命前檢察官卡里姆・汗賠償人質家屬。國際海洋法法庭完成阿根廷訴英國臨時措施辯論，美洲人權法院與歐洲人權法院分別就法官罷免與政治人物羈押作成判決。",
+     "highlights": [
+      {
+       "itemId": "2026-11-13-icc-afghanistan-part-closed",
+       "note": "法院首次正式結束可能涉及美國人員的調查路線，檢方已上訴；同週評論質疑預審分庭拆分調查欠缺依據。"
+      },
+      {
+       "itemId": "2026-11-11-itlos-argentina-uk-order-date",
+       "note": "兩日辯論終結，阿根廷限縮請求聚焦禁止新鑽生產井，英國請求全部駁回；裁定 11 月 28 日宣示。"
+      },
+      {
+       "itemId": "2026-11-12-iacthr-moline-oconnor-argentina",
+       "note": "法院認定以裁判見解作為罷免法官的理由侵害司法獨立，命阿根廷調整年金並賠償，延續其法官免職判例。"
+      },
+      {
+       "itemId": "2026-11-10-ecthr-beleri-albania",
+       "note": "法院認初始羈押有理由，但國內法院未隨時間檢討、未考慮替代措施，繼續羈押違反第 5 條第 3 項。"
+      },
+      {
+       "itemId": "2026-11-13-other-rubio-fedsoc-icc",
+       "note": "締約國大會開幕前兩週，美國國務卿為制裁辯護並稱國際法是菁英工具；同週另有荷美磋商限縮法院權限的報導。"
+      },
+      {
+       "itemId": "2026-11-14-other-jerusalem-court-khan-damages",
+       "note": "人質家屬對前檢察官個人求償，法院在其未答辯下判賠；原告擬赴英國聲請執行，能否執行仍待觀察。"
+      }
+     ]
+    },
+    {
+     "section": "arb",
+     "count": 24,
+     "summary": "本週國際仲裁法以 Gabriel 訴羅馬尼亞案撤銷聲請遭全部駁回、駁回巨額求償的判斷確定為主。對俄執行方面，美國法院暫停 Yukos 確認訴訟，AIFC 上訴法院限縮外國判斷在哈薩克的執行範圍；新案有 ExxonMobil 依 ECT 對歐盟提起仲裁。機構方面，ICC 將在上海設案件管理辦公室，AAA 則把 AI 仲裁人擴及一般商務案件。",
+     "highlights": [
+      {
+       "itemId": "2026-11-14-arb-gabriel-romania-annulment-dismissed",
+       "note": "撤銷委員會駁回全部五項理由，羅馬尼亞勝訴的判斷確定；Gabriel 須負擔約 1,000 萬美元費用並稱可能破產。"
+      },
+      {
+       "itemId": "2026-11-09-arb-icc-shanghai-case-management-office",
+       "note": "依中國修正仲裁法，ICC 將成首個在中國大陸管理案件的境外仲裁機構；業務範圍與分工尚未公布。"
+      },
+      {
+       "itemId": "2026-11-09-arb-ddc-yukos-russia-petition-stayed",
+       "note": "法院為等候另件類似爭點的上訴而暫停確認訴訟，並拒命俄國提供 106 億美元擔保，美國執行再延後。"
+      },
+      {
+       "itemId": "2026-11-12-arb-exxonmobil-v-eu-ect-ccs",
+       "note": "已知首件挑戰歐盟氣候產業政策強制封存義務的投資仲裁，也是少數直接以歐盟為被申請方的 ECT 案件。"
+      },
+      {
+       "itemId": "2026-11-12-arb-aifc-ca-naftogaz-posco-foreign-awards",
+       "note": "上訴法院統一一審歧見：外國判斷可在特區內執行，但不能追及哈薩克其他地區資產，限縮這條執行管道。"
+      },
+      {
+       "itemId": "2026-11-09-arb-aaa-ai-arbitrator-commercial-expansion",
+       "note": "AI 擬稿、人類仲裁人簽發的機制首度開放一般商務案件，但限雙方同意、兩造且書面審理的案件。"
+      }
+     ]
+    },
+    {
+     "section": "tnr",
+     "count": 20,
+     "summary": "本週跨國鎮壓有兩件刑事案件進入關鍵階段：倫敦陪審團裁定伊朗國際台記者遭監視案兩名被告罪成，台中地院審結矢板明夫遇襲案；美國則對為中國監視異議人士者僅判緩刑。保護衛士報告發布後，加拿大表示將查證「聯絡點」指控；台灣刑事局全國掃蕩幫派據點，聯合國專家也籲泰國勿引渡五名維吾爾人。",
+     "highlights": [
+      {
+       "itemId": "2026-11-12-tnr-iran-intl-trial-verdict",
+       "note": "依報導為英國《2023 年國家安全法》首次將伊朗籍人士定罪；第三名被告兩罪無罪，量刑訂於 12 月 17 日。"
+      },
+      {
+       "itemId": "2026-11-11-tnr-yaita-akio-attacker-guilty-plea",
+       "note": "被告坦承收受港幣 1.5 萬元前金，檢方求刑 5 年；中國是否涉入係台灣官方定性，尚未經法院認定。"
+      },
+      {
+       "itemId": "2026-11-12-tnr-us-yuanjun-tang-probation",
+       "note": "被告承認為中國國安部監視在美民運人士，檢方求處 5 年，法官僅判緩刑，可能引發對嚇阻效果的關注。"
+      },
+      {
+       "itemId": "2026-11-14-tnr-taiwan-cib-gang-sweep",
+       "note": "警方首度以全國掃黑行動標舉防範跨國鎮壓「在地協力者」，但未說明查獲者中有多少與跨國鎮壓直接相關。"
+      },
+      {
+       "itemId": "2026-11-11-tnr-canada-probe-liaison-points",
+       "note": "保護衛士報告發布後，加拿大為首個由部長層級表示將查證的國家，部長並提醒勿認定華人社團涉入。"
+      },
+      {
+       "itemId": "2026-11-13-tnr-un-experts-thailand-five-uyghurs",
+       "note": "聯合國特別程序首度就五人引渡案公開表態，強調不遣返義務同樣適用於引渡，在泰國法院審理前施壓。"
+      }
+     ]
+    },
+    {
+     "section": "fin",
+     "count": 30,
+     "summary": "本週 Fintech Law 仍以美國預測市場管轄衝突為主線：路易斯安那州法院單方禁止多家預測市場業者營業，CFTC 與司法部隨即起訴該州與阿肯色州，紐約與密蘇里的訴訟也持續擴大。執法方面，司法部獲准扣押逾 12 億美元幣安遭竊資產；OCC 最終核准 Coinbase 信託銀行，南韓明定虛擬資產強制執行程序，FSB 與紐西蘭則分別就穩定幣監理提出檢視與諮詢。",
+     "highlights": [
+      {
+       "itemId": "2026-11-13-fin-cftc-doj-sue-louisiana",
+       "note": "路州法院單方禁止受 CFTC 監理業者營業後，聯邦隨即起訴該州；同週也起訴阿肯色州，管轄衝突再升高。"
+      },
+      {
+       "itemId": "2026-11-13-fin-doj-binance-hack-seizure-facestealer",
+       "note": "美方將竊案歸因於北韓 TraderTraitor，獲法院授權扣押逾 12 億美元遭竊資產，另查扣深偽詐騙設施。"
+      },
+      {
+       "itemId": "2026-11-09-fin-coinbase-occ-final-trust-charter",
+       "note": "繼 Circle、Ripple 後再一家取得聯邦信託執照，Coinbase 機構保管業務改受聯邦監理，並稱不收零售存款。"
+      },
+      {
+       "itemId": "2026-11-09-fin-korea-civil-execution-rules-virtual-assets",
+       "note": "南韓首度以法院規則明定交易所與個人錢包虛擬資產的扣押與變價程序，可供台灣強制執行實務比較。"
+      },
+      {
+       "itemId": "2026-11-11-fin-fsb-turkiye-crypto-peer-review",
+       "note": "FSB 肯定土耳其已將多數加密市場納管，但指其欠缺穩定幣專屬規範，列為五項建議之一。"
+      },
+      {
+       "itemId": "2026-11-09-fin-nz-fma-nzd-stablecoin-designation-cp",
+       "note": "屬諮詢草案：全額紐幣信託準備、面額贖回且不付息的穩定幣，擬不視為金融商品，意見至 12 月 18 日。"
+      }
+     ]
+    }
+   ],
+   "ahead": [
+    {
+     "date": "2026-11-18",
+     "section": "arb",
+     "court": "LAW",
+     "title": "科威特新仲裁法（2026 年第 120 號法令）施行",
+     "note": "依 K&L Gates 評析，自 2026 年 11 月 18 日施行，不適用於當日已繫屬之仲裁；官方公報未及查證",
+     "url": "https://natlawreview.com/article/kuwait-issues-new-arbitration-law"
+    },
+    {
+     "date": "2026-11-19",
+     "section": "pil",
+     "court": "ICJ",
+     "title": "甘比亞訴緬甸（種族滅絕公約案）實體判決宣示",
+     "note": "海牙和平宮，當地時間上午 10 時（國際法院網站公告）。",
+     "url": "https://www.icj-cij.org/case/178"
+    },
+    {
+     "date": "2026-11-20",
+     "section": "tnr",
+     "court": "IN",
+     "title": "Nikhil Gupta 謀殺錫克族運動者 Pannun 未遂案量刑（紐約南區聯邦法院）",
+     "note": "依 2026 年 8 月報導，量刑日由 9 月 25 日延至 11 月 20 日上午 10 時；日期可能再變動。",
+     "url": "https://www.freepressjournal.in/world/gurpatwant-pannun-assassination-plot-us-court-delays-nikhil-gupta-sentencing-to-november-20"
+    },
+    {
+     "date": "2026-11-24",
+     "section": "pil",
+     "court": "ECtHR",
+     "title": "白俄羅斯邊境推回三案（波蘭、拉脫維亞、立陶宛）大法庭宣判",
+     "note": "史特拉斯堡人權大樓；宣判時刻待公告",
+     "url": "https://www.echr.coe.int/w/a.r.-and-others-v.-poland-h.m.m.-and-others-v.-latvia-and-c.o.c.g.-and-others-v.-lithuania"
+    },
+    {
+     "date": "2026-11-28",
+     "section": "pil",
+     "court": "ITLOS",
+     "title": "阿根廷訴英國：臨時措施裁定宣示",
+     "note": "漢堡；庭長於 11 月 11 日辯論終結時宣布，依 MercoPress 報導暫定當地時間中午，待法庭正式公告。",
+     "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/"
+    },
+    {
+     "date": "2026-11-30",
+     "section": "pil",
+     "court": "ICC",
+     "title": "杜特蒂危害人類罪審判開庭",
+     "note": "第三審判分庭；海牙時間上午 10 時於第一法庭開庭，檢方開場陳述 6 小時、被害人代理人 3 小時，網站延遲 30 分鐘直播。",
+     "url": "https://icc-cpi.int/news/opening-duterte-trial-30-november-2026-practical-information"
+    },
+    {
+     "date": "2026-11-30",
+     "section": "tnr",
+     "court": "CN",
+     "title": "第 94 屆國際刑警組織（INTERPOL）大會在香港舉行",
+     "note": "11 月 30 日至 12 月 3 日，香港會議展覽中心；首次在香港舉辦。人權團體關注政治性紅色通緝與對海外港人懸紅議題。",
+     "url": "https://www.interpol.int/News-and-Events/Events/2026/94th-INTERPOL-General-Assembly"
+    },
+    {
+     "date": "2026-12-05",
+     "section": "fin",
+     "court": "CFTC",
+     "title": "CFTC 公平近用解釋：指定契約市場停止依州別封鎖或提出說明之 30 日期限",
+     "note": "依 11 月 5 日新聞稿之 30 日推算，CFTC 未載明具體日期，可能有出入",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9323-26"
+    },
+    {
+     "date": "2026-12-14",
+     "section": "arb",
+     "court": "LAW",
+     "title": "UNCITRAL 第二工作組第 84 屆會議：研議將投資爭端補充規定納入 UNCITRAL 仲裁規則",
+     "note": "維也納，2026 年 12 月 14–16 日及 18 日（17 日休會），14 日上午 10 時開幕",
+     "url": "https://uncitral.un.org/sites/default/files/2026-10/wp-245_advance_copy.pdf"
+    },
+    {
+     "date": "2026-12-16",
+     "section": "fin",
+     "court": "TW",
+     "title": "《虛擬資產服務法》虛擬資產服務商子法草案預告期間屆滿",
+     "note": "依蕃新聞轉載報導，證期局所列預告期間為 11 月 6 日至 12 月 16 日；以金管會公告為準",
+     "url": "https://n.yam.com/Article/20261107597260"
+    }
+   ],
+   "note": "本期由本網頁助理依本站 2026 年 11 月 9 日至 15 日收錄的動態整理；各則下方的短評是本網頁助理的觀察，非來源內容。完整內容與出處請點入各則。"
+  },
+  {
+   "id": "2026-11-02",
+   "from": "2026-11-02",
+   "to": "2026-11-08",
+   "published": "2026-11-16",
+   "title": "本週重點｜11 月 2 日至 8 日",
+   "lead": "本週國際公法以國際法院法官改選、甘比亞訴緬甸案排定 11 月 19 日宣判為主，聯合國大會也在美國制裁下就國際刑事法院表態；國際仲裁法方面，英國上訴法院認定 ICSID 判斷債權受讓人不得接手執行。跨國鎮壓方面，保護衛士報告稱中國海外警站轉以僑團「聯絡點」擴張，台灣則有程萬軍遭送返與反滲透法修法討論；Fintech Law 方面，FinCEN 切斷 MEXC 與美國金融體系往來，金管會預告虛擬資產服務商與穩定幣子法草案。",
+   "sections": [
+    {
+     "section": "pil",
+     "count": 23,
+     "summary": "本週國際公法以國際法院為焦點：五席法官改選結果出爐，甘比亞訴緬甸種族滅絕公約案定於 11 月 19 日宣判。國際刑事法院方面，聯大在美國制裁下通過年度報告決議，杜特蒂案則在開審前密集提出採用先前證詞與證人保護聲請；歐洲人權法院另有烏克蘭潑酸致死案等判決。",
+     "highlights": [
+      {
+       "itemId": "2026-11-03-icj-gambia-myanmar-judgment-date",
+       "note": "法院將作成不得上訴的終局判決，為史上第三件國家間種族滅絕案實體判決，可能影響南非訴以色列案。"
+      },
+      {
+       "itemId": "2026-11-03-icj-judges-elected-2026",
+       "note": "英國 Akande 當選，新加坡首度有本國籍法官，Okowa 經多輪投票連任；新任期自 2027 年 2 月起算。"
+      },
+      {
+       "itemId": "2026-11-02-other-unga-icc-report-resolution",
+       "note": "美國擴大制裁後聯大首度表態，反對與棄權合計 49 票；同週另有調查指至少 20 個人權團體疏遠法院。"
+      },
+      {
+       "itemId": "2026-11-05-ecthr-handziuk-ukraine",
+       "note": "法院認定受僱策劃的潑酸攻擊與國家權力密切相關，烏克蘭違反生命權與表現自由；分庭判決尚未確定。"
+      },
+      {
+       "itemId": "2026-11-02-icc-duterte-fifth-status-conference",
+       "note": "11 月 30 日開審前最後一次狀態會議；檢方同週再提多件採用先前證詞與保護 55 名證人的聲請。"
+      },
+      {
+       "itemId": "2026-11-08-icc-harun-detained-sudan",
+       "note": "依路透社報導，2007 年起遭通緝的哈倫遭蘇丹軍方拘押；消息未經官方證實，是否移交法院仍不明。"
+      }
+     ]
+    },
+    {
+     "section": "arb",
+     "count": 32,
+     "summary": "本週國際仲裁法以判斷執行為主線：英國上訴法院認定 ICSID 判斷債權受讓人不得接手執行，印度最高法院准許執行 Vedanta 對政府的判斷，孟買法院則拒依俄國判決凍結 Tecnimont 資產。歐盟內部仲裁方面，荷蘭檢察總長建議維持命投資人終止對波蘭的仲裁；秘魯在 ICC 以「和解協議」偽造擊退 75 億美元求償，Keystone XL 案也據報作成判斷。",
+     "highlights": [
+      {
+       "itemId": "2026-11-02-arb-ewca-operafund-spain-blasket-assignment",
+       "note": "上訴法院認依 ICSID 公約僅仲裁當事人得聲請執行，為英國二審首度表態，影響收購判斷債權的市場。"
+      },
+      {
+       "itemId": "2026-11-04-arb-acelor-v-peru-icc-award",
+       "note": "仲裁庭認定作為求償依據的「和解協議」係以數位方式偽造，駁回全部請求並命申請人負擔費用。"
+      },
+      {
+       "itemId": "2026-11-02-arb-insc-vedanta-ravva-enforcement-slp-dismissed",
+       "note": "最高法院駁回政府上訴並批評長期抗拒執行，與日前請法律委員會檢討判斷執行制度的判決相呼應。"
+      },
+      {
+       "itemId": "2026-11-02-arb-nl-ag-poland-intra-eu-arbitration-termination",
+       "note": "若最高法院採納本意見，荷蘭法院命終止歐盟內部仲裁的作法將獲確認，與英美澳法院立場更趨衝突。"
+      },
+      {
+       "itemId": "2026-11-04-arb-bomhc-eurochem-tecnimont-no-freeze",
+       "note": "法院認制裁不當然使俄國法院得無視倫敦 ICC 仲裁協議，否定以俄國判決追索仲裁相對人資產的策略。"
+      },
+      {
+       "itemId": "2026-11-02-arb-apmc-v-usa-keystone-award",
+       "note": "依 IAReporter 報導，亞伯達省營機構求償約 10 億美元的 NAFTA 遺留仲裁已以判斷終結，結果尚未公開。"
+      }
+     ]
+    },
+    {
+     "section": "tnr",
+     "count": 23,
+     "summary": "本週跨國鎮壓以保護衛士報告最受注目，報告稱中國海外警站並未關閉，而是轉由僑團「聯絡點」擴張至 91 國。台灣方面，程萬軍在機場求庇護遭送返泰國，國安局、陸委會與法務部則相繼說明跨國鎮壓情勢並研擬修正《反滲透法》；肯亞 Mwaipaya 案、泰國五名維吾爾人遣返案與俄國缺席審判流亡人士也持續發展。",
+     "highlights": [
+      {
+       "itemId": "2026-11-06-tnr-safeguard-defenders-liaison-points-report",
+       "note": "依保護衛士報告，2022 年揭露的海外警站轉由僑團以「聯絡點」形式運作；加拿大稱指控尚未經調查。"
+      },
+      {
+       "itemId": "2026-11-04-tnr-cheng-wanjun-taiwan-deported",
+       "note": "移民署稱其未提具體事證而依法送返；遭判刑與遭暴力對待均為程萬軍本人說法，凸顯庇護審查制度缺口。"
+      },
+      {
+       "itemId": "2026-11-03-tnr-mwaipaya-ig-kanja-denies",
+       "note": "警察總長依傳喚到庭否認警方涉入，稱 Mwaipaya 從未在警方羈押；其下落與擄人經過仍不明。"
+      },
+      {
+       "itemId": "2026-11-05-tnr-russia-zhanna-nemtsova-in-absentia",
+       "note": "因主持設於德國的紀念基金會遭缺席判刑，延續俄國以「不受歡迎組織」罪追訴流亡人士的模式。"
+      },
+      {
+       "itemId": "2026-11-04-tnr-thailand-uyghurs-court-extradition",
+       "note": "不同於 2025 年未經司法程序遣返 40 人，泰國稱此次交法院審理；中方未說明是否已正式請求引渡。"
+      },
+      {
+       "itemId": "2026-11-05-tnr-taiwan-moj-amendment-hotline",
+       "note": "行政部門首次在國會說明現行法缺口與修法方向；國安局、陸委會同週也提出報告與受害統計。"
+      }
+     ]
+    },
+    {
+     "section": "fin",
+     "count": 43,
+     "summary": "本週 Fintech Law 以美國執法與預測市場為主線：FinCEN 依第 9714 條切斷 MEXC 與美國金融體系往來，CFTC 要求預測市場停止依州封鎖，多個巡迴法院與州法院則作成分歧裁判。台灣金管會預告虛擬資產服務商與穩定幣發行子法草案；歐盟理事會一讀通過 PSD3 與 PSR，香港、奈及利亞也完成加密資產相關立法與規則。",
+     "highlights": [
+      {
+       "itemId": "2026-11-06-fin-fincen-mexc-section-9714-order",
+       "note": "FinCEN 認定 MEXC 為俄國不法金融主要洗錢疑慮機構，禁止美國金融機構與其移轉資金，刊登公報 30 日後生效。"
+      },
+      {
+       "itemId": "2026-11-05-fin-cftc-impartial-access-geofencing",
+       "note": "CFTC 認依州別封鎖違反聯邦公平近用要求，使已依各州法院禁令關閉服務的業者夾在監理機關與法院之間。"
+      },
+      {
+       "itemId": "2026-11-03-fin-taiwan-fsc-vasp-draft-subregulations",
+       "note": "台灣虛擬資產許可制首套具體門檻，同日另預告穩定幣發行許可辦法；均屬草案，預計明年首季施行。"
+      },
+      {
+       "itemId": "2026-11-04-fin-council-adopts-psd3-psr-first-reading",
+       "note": "理事會一讀通過，待歐洲議會全會表決即完成立法；執委會同週擬撤回 FiDA 提案，PSR 開放銀行規定更形重要。"
+      },
+      {
+       "itemId": "2026-11-04-fin-hk-legco-passes-carf-bill",
+       "note": "香港落實 OECD 加密資產申報框架，2027 年起服務商須蒐集客戶稅務資料，2028 年起交換，不開徵新稅。"
+      },
+      {
+       "itemId": "2026-11-06-fin-nigeria-cbn-virtual-asset-regulations",
+       "note": "奈拉與外幣穩定幣分別發照、每種代幣須經核准並禁止演算法穩定幣，既有業者須於 180 日內申請。"
+      }
+     ]
+    }
+   ],
+   "ahead": [
+    {
+     "date": "2026-11-18",
+     "section": "arb",
+     "court": "LAW",
+     "title": "科威特新仲裁法（2026 年第 120 號法令）施行",
+     "note": "依 K&L Gates 評析，自 2026 年 11 月 18 日施行，不適用於當日已繫屬之仲裁；官方公報未及查證",
+     "url": "https://natlawreview.com/article/kuwait-issues-new-arbitration-law"
+    },
+    {
+     "date": "2026-11-19",
+     "section": "pil",
+     "court": "ICJ",
+     "title": "甘比亞訴緬甸（種族滅絕公約案）實體判決宣示",
+     "note": "海牙和平宮，當地時間上午 10 時（國際法院網站公告）。",
+     "url": "https://www.icj-cij.org/case/178"
+    },
+    {
+     "date": "2026-11-20",
+     "section": "tnr",
+     "court": "IN",
+     "title": "Nikhil Gupta 謀殺錫克族運動者 Pannun 未遂案量刑（紐約南區聯邦法院）",
+     "note": "依 2026 年 8 月報導，量刑日由 9 月 25 日延至 11 月 20 日上午 10 時；日期可能再變動。",
+     "url": "https://www.freepressjournal.in/world/gurpatwant-pannun-assassination-plot-us-court-delays-nikhil-gupta-sentencing-to-november-20"
+    },
+    {
+     "date": "2026-11-24",
+     "section": "pil",
+     "court": "ECtHR",
+     "title": "白俄羅斯邊境推回三案（波蘭、拉脫維亞、立陶宛）大法庭宣判",
+     "note": "史特拉斯堡人權大樓；宣判時刻待公告",
+     "url": "https://www.echr.coe.int/w/a.r.-and-others-v.-poland-h.m.m.-and-others-v.-latvia-and-c.o.c.g.-and-others-v.-lithuania"
+    },
+    {
+     "date": "2026-11-28",
+     "section": "pil",
+     "court": "ITLOS",
+     "title": "阿根廷訴英國：臨時措施裁定宣示",
+     "note": "漢堡；庭長於 11 月 11 日辯論終結時宣布，依 MercoPress 報導暫定當地時間中午，待法庭正式公告。",
+     "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/"
+    },
+    {
+     "date": "2026-11-30",
+     "section": "pil",
+     "court": "ICC",
+     "title": "杜特蒂危害人類罪審判開庭",
+     "note": "第三審判分庭；海牙時間上午 10 時於第一法庭開庭，檢方開場陳述 6 小時、被害人代理人 3 小時，網站延遲 30 分鐘直播。",
+     "url": "https://icc-cpi.int/news/opening-duterte-trial-30-november-2026-practical-information"
+    },
+    {
+     "date": "2026-11-30",
+     "section": "tnr",
+     "court": "CN",
+     "title": "第 94 屆國際刑警組織（INTERPOL）大會在香港舉行",
+     "note": "11 月 30 日至 12 月 3 日，香港會議展覽中心；首次在香港舉辦。人權團體關注政治性紅色通緝與對海外港人懸紅議題。",
+     "url": "https://www.interpol.int/News-and-Events/Events/2026/94th-INTERPOL-General-Assembly"
+    },
+    {
+     "date": "2026-12-05",
+     "section": "fin",
+     "court": "CFTC",
+     "title": "CFTC 公平近用解釋：指定契約市場停止依州別封鎖或提出說明之 30 日期限",
+     "note": "依 11 月 5 日新聞稿之 30 日推算，CFTC 未載明具體日期，可能有出入",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9323-26"
+    },
+    {
+     "date": "2026-12-14",
+     "section": "arb",
+     "court": "LAW",
+     "title": "UNCITRAL 第二工作組第 84 屆會議：研議將投資爭端補充規定納入 UNCITRAL 仲裁規則",
+     "note": "維也納，2026 年 12 月 14–16 日及 18 日（17 日休會），14 日上午 10 時開幕",
+     "url": "https://uncitral.un.org/sites/default/files/2026-10/wp-245_advance_copy.pdf"
+    },
+    {
+     "date": "2026-12-16",
+     "section": "fin",
+     "court": "TW",
+     "title": "《虛擬資產服務法》虛擬資產服務商子法草案預告期間屆滿",
+     "note": "依蕃新聞轉載報導，證期局所列預告期間為 11 月 6 日至 12 月 16 日；以金管會公告為準",
+     "url": "https://n.yam.com/Article/20261107597260"
+    }
+   ],
+   "note": "本期由本網頁助理依本站 2026 年 11 月 2 日至 8 日收錄的動態整理；各則下方的短評是本網頁助理的觀察，非來源內容。完整內容與出處請點入各則。"
+  },
   {
    "id": "2026-10-26",
    "from": "2026-10-26",
