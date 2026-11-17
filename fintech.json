@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-17T07:29:08+08:00",
-  "lastRunLocal": "2026-11-17 07:29",
+  "lastRun": "2026-11-17T23:38:46+08:00",
+  "lastRunLocal": "2026-11-17 23:38",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：美國 1（政策動態 1）、台灣 1（政策動態 1）、亞太與其他 1（司法案件 1）"
+  "lastRunNote": "新增 6 則：美國 2（司法案件 1、政策動態 1）、台灣 1（政策動態 1）、亞太與其他 3（政策動態 1、研究報告 2）"
  },
  "items": [
   {
@@ -3832,7 +3832,8 @@
     "香港"
    ],
    "related": [
-    "2026-10-23-fin-hsbc-redcoin-payme-launch"
+    "2026-10-23-fin-hsbc-redcoin-payme-launch",
+    "2026-11-16-fin-hkma-swift-ensemble-tokenised-deposits"
    ],
    "sources": [
     {
@@ -8341,7 +8342,8 @@
     "泰國"
    ],
    "related": [
-    "2026-10-23-fin-mas-bloom-bnm-bot-join"
+    "2026-10-23-fin-mas-bloom-bnm-bot-join",
+    "2026-11-16-fin-mas-bundesbank-project-simbolon"
    ],
    "sources": [
     {
@@ -8976,7 +8978,8 @@
     "台灣"
    ],
    "related": [
-    "2026-11-03-fin-taiwan-fsc-stablecoin-issuance-draft"
+    "2026-11-03-fin-taiwan-fsc-stablecoin-issuance-draft",
+    "2026-11-17-fin-ly-twd-stablecoin-interpellation"
    ],
    "sources": [
     {
@@ -9041,6 +9044,380 @@
     }
    ],
    "addedAt": "2026-11-17T07:29:08+08:00"
+  },
+  {
+   "id": "2026-11-16-fin-peraire-bueno-mev-acquittal",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-16",
+   "importance": 2,
+   "author": "",
+   "title": "紐約南區聯邦地院法官判決 Peraire-Bueno 兄弟以太坊 MEV 案無罪，認檢方未證明重大不實陳述",
+   "shortTitle": "美法院判以太坊 MEV 套利案兄弟無罪",
+   "point": "法官准無罪判決聲請，認無重大不實陳述、不構成電信詐欺，案件終結",
+   "titleOriginal": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
+   "caseRef": "",
+   "tldr": "兩名 MIT 出身的兄弟被控在 2023 年利用以太坊區塊建構機制（MEV-Boost）的漏洞，以誘餌交易讓其他交易機器人在數秒內損失約 2,500 萬美元。第一次審判因陪審團無法達成一致而無效審判後，法官直接判決無罪，理由是檢方沒有證明他們對任何人說了謊，策略即使不道德也不等於詐欺。",
+   "memo": "依 The Block 及 Decrypt 2026 年 11 月 16、17 日報導，美國紐約南區聯邦地方法院法官 Jessica Clarke 於 2026 年 11 月 16 日准許被告 Anton 及 James Peraire-Bueno 之無罪判決聲請，認定檢方未證明電信詐欺罪所需之重大不實陳述，被告利用 MEV-Boost 機制以誘餌交易攔截他人三明治套利機器人交易之行為，縱違反該機制精神，仍不構成電信詐欺；電信詐欺共謀及以詐欺所得為前提之洗錢共謀罪併同不成立。本案前於 2025 年 11 月因陪審團僵持而宣告無效審判。",
+   "context": "MEV（最大可提取價值）指區塊建構者或搜尋者藉由調整區塊內交易排序而取得的利益；MEV-Boost 為以太坊驗證者將區塊建構外包予建構者之中介軟體。\n2023 年 4 月，多個 MEV 三明治套利機器人在數秒內遭替換交易而損失逾 2,500 萬美元。美國司法部於 2024 年 5 月起訴 Peraire-Bueno 兄弟，指其以誘餌交易引誘機器人，並利用 MEV-Boost 中繼軟體漏洞提前取得區塊內容、改寫交易，屬首宗以電信詐欺追訴區塊鏈 MEV 操作之刑事案件。\n2025 年 11 月首次審判因陪審團無法達成一致而宣告無效審判（mistrial）。",
+   "facts": [
+    "依報導，法官 Jessica Clarke 於 2026 年 11 月 16 日（週一）准許被告無罪判決聲請，判決 PDF 檔名含「11162026」。",
+    "起訴罪名為電信詐欺、電信詐欺共謀及洗錢共謀；依 Decrypt 報導，洗錢共謀罪以詐欺所得為前提，隨詐欺罪一併不成立。",
+    "所涉損失約 2,500 萬美元，發生於 2023 年 4 月；兩人於 2024 年 5 月被捕。",
+    "依 Decrypt 報導，本判決終結刑事程序，不再重審；報導未載檢方回應。"
+   ],
+   "issues": [
+    "在無使用條款、高度對抗的去中心化區塊鏈環境中，利用協定設計漏洞取得利益是否可能構成「詐欺」？",
+    "電信詐欺罪之重大不實陳述要件如何適用於以程式碼與交易互動、而無人際溝通的情形？",
+    "刑事追訴新型鏈上行為是否引發正當程序（公平通知）疑慮？"
+   ],
+   "holding": "・判決：准許無罪判決聲請，三項罪名均不成立。\n・理由（依報導）：檢方提出之各項理論均未能證明重大不實陳述，此為電信詐欺之必要要件。\n・法官指出以太坊屬無須信任、高度對抗之環境，且無使用條款；被告策略縱損及 MEV-Boost 之精神，仍不足以構成詐欺。\n・依 The Block 報導，法官並指相關交易非在受監理市場進行；問題在於行為是否構成電信詐欺，而非是否不當或不道德。\n・法官於註腳指出本案起訴引發嚴重正當程序疑慮，但未就此作成判斷。",
+   "significance": "本案是美國首宗以電信詐欺追訴 MEV 操作的刑事案件，無罪判決對檢方以一般詐欺罪處理鏈上套利、協定漏洞利用的追訴策略構成重大限制，也將引發應否由立法或市場操縱規範處理此類行為的討論。後續可觀察檢方是否有其他救濟途徑、以及類似 DeFi 漏洞利用案件之追訴走向。",
+   "editorNote": "本網頁助理 註：判決全文未能開啟，摘要依 The Block 與 Decrypt 報導；兩則報導對判決理由之描述略有不同（The Block 另提及非受監理市場），均以「依報導」呈現。案號未見於來源。",
+   "tags": [
+    "加密資產",
+    "DeFi",
+    "MEV",
+    "電信詐欺",
+    "以太坊",
+    "刑事案件",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+     "official": false
+    },
+    {
+     "label": "Decrypt 報導",
+     "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+     "official": false
+    },
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:38:46+08:00"
+  },
+  {
+   "id": "2026-11-16-fin-cftc-blockchain-dcm-dco-approval",
+   "court": "CFTC",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "美國商品期貨交易委員會（CFTC）",
+   "outletCode": "CFTC",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-16",
+   "importance": 2,
+   "author": "",
+   "title": "CFTC 核准以區塊鏈架構執行與結算衍生性商品之業者為指定契約市場並登記為衍生性商品結算機構，主席 Selig 稱為里程碑",
+   "shortTitle": "CFTC 核准區塊鏈衍生品交易所及結算所",
+   "point": "依報導為 Backpack 旗下業者；Selig 強調須符合與傳統機構相同標準",
+   "titleOriginal": "Statement on American Innovation and the Future of Market Infrastructure (Chairman Michael S. Selig, November 16, 2026)",
+   "caseRef": "",
+   "tldr": "美國期貨主管機關 CFTC 同時核准一家以區塊鏈執行與結算衍生性商品的業者成為交易所及結算所。依報導這家業者是加密交易所 Backpack 的美國公司，計畫提供 24 小時加密永續期貨。CFTC 主席表示，用新技術的業者仍要符合洗錢防制、客戶資產分離、風險管理等所有傳統要求。",
+   "memo": "美國商品期貨交易委員會（CFTC）主席 Michael S. Selig 於 2026 年 11 月 16 日發表聲明，宣布委員會核准一家以區塊鏈架構執行及結算衍生性商品契約之業者指定為指定契約市場（DCM）並登記為衍生性商品結算機構（DCO），並強調採用新技術者仍須符合洗錢防制、客戶保護與資產分離、市場監視、財務資源、風險管理及系統安全等與傳統基礎設施相同之要求。聲明未載業者名稱；依 The Crypto Desk 等報導，獲准者為 Backpack 旗下 TLD Markets，計畫提供加密資產永續期貨。",
+   "context": "依《商品交易法》，期貨與交換交易須於 CFTC 指定之契約市場（DCM）交易，並由登記之結算機構（DCO）結算；兩者均須遵循法定核心原則，但法律未指定特定技術。\nCFTC 近月陸續處理加密與新型衍生性商品，包括 11 月 3 日將個股永續期貨視為已核准之證券期貨（現遭訴訟挑戰）及 Regulation CTX／CAM 預先通知。依報導，tZERO 亦已於 10 月 16 日取得 DCO 登記、11 月 11 日取得 DCM 指定。",
+   "facts": [
+    "聲明日期為 2026 年 11 月 16 日，核准申請兩項：DCM 指定及 DCO 登記，屬同一業者。",
+    "聲明未載業者名稱；依 The Crypto Desk 及 Unlock 報導為 Backpack 旗下 TLD Markets，CFTC 網站並有 TLD Clearing, Inc. 之 DCO 申請文件。",
+    "依報導，Backpack 計畫提供 24 小時加密永續期貨、以加密資產與法幣作為交叉保證金，尚未公布上線日期。",
+    "聲明列舉之要求：洗錢防制計畫、客戶保護及分離、市場監視、財務資源、風險管理政策、系統安全。"
+   ],
+   "issues": [
+    "區塊鏈原生之交易與結算架構如何符合 DCO 核心原則（例如資產分離、違約處理、系統安全）？",
+    "永續期貨等加密衍生品進入受監理市場後，與境外平台及州法之關係如何？"
+   ],
+   "holding": "・核准內容：同一業者之 DCM 指定與 DCO 登記。\n・監理立場：《商品交易法》採原則基礎，不指定技術；新技術業者須達相同標準，惟「區塊鏈原生之考量」有時需特別處理。\n・Selig 稱此為里程碑，顯示 CFTC 框架可容納新興技術，美國對負責任創新「開放營業」。",
+   "significance": "這是 CFTC 首度公開以「區塊鏈架構執行與結算」為核准特色的交易所與結算所組合，為加密衍生品業者提供在美國境內合規經營的路徑。可觀察的後續：業者實際上線時程、CFTC 是否就區塊鏈結算發布指引或豁免、以及與 Regulation CTX／CAM 規則制定之銜接。",
+   "editorNote": "本網頁助理 註：CFTC 主席聲明未載業者名稱，業者身分依 The Crypto Desk、Unlock 及 Cryptopolitan 報導；截至本次更新，CFTC 新聞稿頁面未見對應新聞稿。報導稱「首家」區塊鏈衍生品交易所，聲明本身未使用「首家」字樣。",
+   "tags": [
+    "加密資產",
+    "衍生性商品",
+    "永續期貨",
+    "區塊鏈結算",
+    "CFTC",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "CFTC 主席 Selig 聲明全文",
+     "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626",
+     "official": true
+    },
+    {
+     "label": "CFTC TLD Clearing DCO 申請文件",
+     "url": "https://www.cftc.gov/media/14391/TLD%20Clearing,%20Inc.%20DCO%20Application%20-%20Exhibit%20A-7%20Corporate%20Organizational%20Structure/download",
+     "official": true
+    },
+    {
+     "label": "Unlock 報導",
+     "url": "https://www.unlock-bc.com/en/cftc-approves-blockchain-based-derivatives-exchanges",
+     "official": false
+    },
+    {
+     "label": "Cryptopolitan 報導",
+     "url": "https://www.cryptopolitan.com/cftc-opens-door-for-blockchain-derivatives/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:38:46+08:00"
+  },
+  {
+   "id": "2026-11-16-fin-hkma-swift-ensemble-tokenised-deposits",
+   "court": "HKMA",
+   "kind": "政策動態",
+   "caseId": "hk-stablecoin-tokenisation",
+   "jurisdiction": "香港",
+   "outlet": "香港金融管理局（HKMA）",
+   "outletCode": "HKMA",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-16",
+   "importance": 1,
+   "author": "",
+   "title": "香港金管局與 Swift 深化合作，探索連結 Swift 帳本與 Ensemble 項目結算層，以多幣別代幣化存款進行跨境支付",
+   "shortTitle": "金管局與 Swift 研究代幣化存款跨境支付",
+   "point": "探索連結 Swift 帳本與 Ensemble 結算層，中銀香港、渣打、滙豐參與",
+   "titleOriginal": "HKMA and Swift continue the collaboration to explore cross-border payment interoperability through Project Ensemble and Swift ledger",
+   "caseRef": "",
+   "tldr": "香港金管局宣布與國際銀行通訊組織 Swift 擴大合作，研究讓銀行發行的「代幣化存款」能以多種貨幣跨境轉帳，方法是把 Swift 的帳本系統接到香港 Ensemble 項目的結算平台。三家發鈔銀行參與。",
+   "memo": "香港金融管理局於 2026 年 11 月 16 日宣布與 Swift 深化合作，探索連結 Swift 帳本與 Ensemble 項目結算層，以建立多幣別代幣化存款之跨境支付機制，中國銀行（香港）、渣打銀行（香港）及香港上海滙豐銀行參與；金管局自 2023 年起即透過 Ensemble 項目沙盒與 Swift 研究央行數位貨幣系統之互通。新聞稿未載具體時程或里程碑。",
+   "context": "Ensemble 項目為金管局 2024 年推出之代幣化與批發型央行數位貨幣計畫，其結算平台 EnsembleTX 於 2026 年 11 月 2 日進入支援 24/7 代幣化存款銀行間結算之新階段。\nSwift 帳本（Swift ledger）為 Swift 2026 年推出、協調各銀行自有帳本間代幣化存款移轉之共用帳本，依 Ledger Insights 報導其試點至 2026 年底。",
+   "facts": [
+    "新聞稿日期 2026 年 11 月 16 日。",
+    "參與銀行：中國銀行（香港）、渣打銀行（香港）、香港上海滙豐銀行。",
+    "自 2023 年起，金管局即透過 Ensemble 項目沙盒與 Swift 研究 CBDC 系統互通。",
+    "新聞稿未載時程；金管局副總裁李達志稱合作探索代幣化存款與可互通基礎設施如何支援即時、全天候及可程式化之跨境交易。"
+   ],
+   "issues": [
+    "代幣化存款跨鏈、跨幣別移轉之法律確定性與結算終局性如何確保？",
+    "既有跨境支付報文標準與代幣化平台如何銜接？"
+   ],
+   "holding": "・合作內容：探索 Swift 帳本與 Ensemble 結算層之連結。\n・目標：以多幣別代幣化存款提升端到端跨境支付效率。\n・參與者：Swift、三家發鈔銀行及更廣泛銀行業。",
+   "significance": "顯示香港在本地 24/7 代幣化存款結算之後，開始處理跨境互通問題，也是傳統跨境支付網路 Swift 與央行代幣化基礎設施對接的一例。可觀察後續測試結果與參與幣別。",
+   "editorNote": "",
+   "tags": [
+    "代幣化",
+    "代幣化存款",
+    "跨境支付",
+    "Ensemble",
+    "Swift",
+    "香港金管局",
+    "香港"
+   ],
+   "related": [
+    "2026-11-02-fin-hkma-ensembletx-24-7-stablecoins"
+   ],
+   "sources": [
+    {
+     "label": "香港金管局新聞稿",
+     "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261116-4/",
+     "official": true
+    },
+    {
+     "label": "Ledger Insights 報導",
+     "url": "https://www.ledgerinsights.com/hkma-hsbc-stanchart-explore-tokenized-deposit-payments-via-swift-ledger-and-ensemble/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:38:46+08:00"
+  },
+  {
+   "id": "2026-11-16-fin-mas-bundesbank-project-simbolon",
+   "court": "MAS",
+   "kind": "研究報告",
+   "caseId": "",
+   "jurisdiction": "新加坡、德國",
+   "outlet": "新加坡金融管理局（MAS）",
+   "outletCode": "MAS",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-16",
+   "importance": 1,
+   "author": "",
+   "title": "新加坡金管局與德國央行完成 Simbolon 項目測試，以批發型央行數位貨幣進行歐元兌新元 PvP 外匯結算",
+   "shortTitle": "新加坡與德國央行完成 Simbolon 項目測試",
+   "point": "以零知識證明連結兩國結算環境，完成歐元兌新元批發 CBDC 同步交割",
+   "titleOriginal": "MAS and Deutsche Bundesbank Advance Cross-Border Digital Asset Settlement Connectivity",
+   "caseRef": "",
+   "tldr": "新加坡與德國的央行測試把兩邊各自的數位資產結算系統連起來，用央行發行的批發型數位貨幣完成歐元換新加坡幣的「一手交錢、一手交錢」同步交割，而且兩邊帳本不必直接整合，是用零知識證明互相確認條件已滿足。",
+   "memo": "新加坡金融管理局（MAS）與德意志聯邦銀行於 2026 年 11 月 16 日宣布完成 Simbolon 項目，測試兩機構數位資產結算測試環境之連結，以批發型央行數位貨幣就歐元兌新加坡元外匯交易進行款對款同步交割（PvP），並以零知識證明使各環境確認結算條件成就而無須直接整合兩央行帳本；星展銀行、德意志銀行參與，Partior 為技術供應商。雙方同日發布洞察摘要，詳細報告將另行公布，後續將研究法律、監理、營運及治理議題。",
+   "context": "MAS 與德國央行於 2025 年 11 月簽署代幣化與跨境結算合作備忘錄，Simbolon 為其首項重要成果。\nMAS 近期另推動 BLOOM 結算計畫及以批發 CBDC 結算之代幣化 MAS 票據試驗；歐元體系則推動 Pontes、Appia 等以央行貨幣結算 DLT 交易之計畫。",
+   "facts": [
+    "公布日期 2026 年 11 月 16 日，同日發布洞察摘要（Insights Note）。",
+    "測試內容：歐元兌新元外匯交易以批發 CBDC 進行 PvP 結算，並研究跨時區資金與日間流動性需求。",
+    "參與者：MAS、德國央行、星展銀行、德意志銀行，技術供應商 Partior。",
+    "採零知識證明，各環境無須直接技術整合即可確認結算條件已成就。",
+    "詳細報告（涵蓋用例、技術方案、測試、發現與未來實施考量）將另行於雙方網站公布。"
+   ],
+   "issues": [
+    "跨法域、跨帳本 PvP 結算之法律終局性如何確保？",
+    "零知識證明作為結算條件驗證工具之治理與責任分配？"
+   ],
+   "holding": "・成果：成功測試兩央行測試環境之連結與歐元／新元 PvP 結算。\n・技術：零知識證明使兩帳本無須直接整合。\n・後續：與業界探索更廣用途、優化結算效能、研究法律、監理、營運及治理考量。",
+   "significance": "PvP 是消除外匯結算風險（赫斯塔特風險）的關鍵；本項目顯示不同央行各自的代幣化結算系統可在不合併帳本下互通，可與 BIS Agorá、Meridian FX 等計畫對照。可觀察詳細報告內容及歐元體系代幣化結算政策。",
+   "editorNote": "本網頁助理 註：洞察摘要 PDF 未開啟，摘要依 MAS 新聞稿及 EuropaWire 轉載之聯合新聞稿。",
+   "tags": [
+    "CBDC",
+    "批發型 CBDC",
+    "代幣化",
+    "跨境支付",
+    "外匯結算",
+    "MAS",
+    "德國央行",
+    "新加坡",
+    "德國"
+   ],
+   "related": [
+    "2026-11-13-fin-meridian-fx-apac-results"
+   ],
+   "sources": [
+    {
+     "label": "MAS 新聞稿",
+     "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-and-deutsche-bundesbank-advance-cross-border-digital-asset-settlement-connectivity",
+     "official": true
+    },
+    {
+     "label": "德國央行新聞稿",
+     "url": "https://www.bundesbank.de/en/press/press-releases/mas-and-deutsche-bundesbank-advance-cross-border-digital-asset-settlement-connectivity--1016064",
+     "official": true
+    },
+    {
+     "label": "MAS Project Simbolon 頁面",
+     "url": "https://www.mas.gov.sg/publications/monographs-or-information-paper/2026/project-simbolon",
+     "official": true
+    },
+    {
+     "label": "EuropaWire 轉載",
+     "url": "https://news.europawire.eu/singapore-and-german-central-banks-test-cross-border-digital-asset-settlement-through-project-simbolon/eu-press-release/2026/11/16/12/18/03/187911/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:38:46+08:00"
+  },
+  {
+   "id": "2026-11-17-fin-hkimr-ai-adoption-report",
+   "court": "HKMA",
+   "kind": "研究報告",
+   "caseId": "",
+   "jurisdiction": "香港",
+   "outlet": "香港金融管理局（HKMA）",
+   "outletCode": "HKMA",
+   "date": "2026-11-17",
+   "eventDate": "2026-11-17",
+   "importance": 1,
+   "author": "香港貨幣及金融研究中心（香港金融學院）",
+   "title": "香港貨幣及金融研究中心發布金融業 AI 採用、治理與法遵報告：生成式 AI 採用率達九成，13% 機構已導入代理式 AI",
+   "shortTitle": "香港研究：金融業生成式 AI 採用達九成",
+   "point": "13% 已導入代理式 AI、56% 計畫導入，可解釋性與安全仍為障礙",
+   "titleOriginal": "From Assistance to Autonomy: A.I. Adoption, Governance, and Compliance in Hong Kong's Financial Services Industry",
+   "caseRef": "",
+   "tldr": "香港金融學院旗下研究中心調查香港金融機構使用 AI 的情況：已在用或計畫使用生成式 AI 的比例從去年的 75% 升到 90%，已有 13% 開始用能自行執行任務的「代理式 AI」。法遵部門也大量採用，但 AI 決策難以解釋與資安仍是主要顧慮。",
+   "memo": "香港金融學院轄下香港貨幣及金融研究中心於 2026 年 11 月 17 日發布〈From Assistance to Autonomy〉報告（香港金融管理局同日發布新聞稿），依 2026 年 1 月至 7 月對金融機構、科技業者及監理科技業者之問卷與訪談，指出香港金融業已採用或計畫採用生成式 AI 之比例由 2025 年 75% 升至 90%，13% 機構已導入代理式 AI、另 56% 計畫導入；法遵領域 86% 已採用或計畫採用生成式 AI，逾七成有意於三至五年內探索代理式 AI，可解釋性及安全性仍為主要障礙。",
+   "context": "香港貨幣及金融研究中心為金管局支持成立之香港金融學院研究部門，前曾發布生成式 AI 於金融業應用之系列報告。\n金管局近年推動生成式 AI 沙盒及監理指引，本報告聚焦由輔助型 AI 走向自主執行之代理式 AI 對治理與法遵之影響。",
+   "facts": [
+    "報告於 2026 年 11 月 17 日發布，調查期間 2026 年 1 月至 7 月。",
+    "生成式 AI 已採用或計畫採用比例 90%（2025 年為 75%）。",
+    "13% 機構已導入代理式 AI，56% 計畫導入；逾半數機構將優先發展生成式 AI 並同時探索代理式 AI。",
+    "法遵領域：86% 已採用或計畫採用生成式 AI；逾 70% 有意於三至五年內探索代理式 AI。"
+   ],
+   "issues": [
+    "代理式 AI 自主執行任務時之責任歸屬與治理機制？",
+    "AI 輸出之可解釋性如何滿足監理與法遵要求？"
+   ],
+   "holding": "・主要發現：生成式 AI 採用普及，代理式 AI 開始導入。\n・法遵應用：生成式 AI 廣泛用於法遵，代理式 AI 為中期方向。\n・障礙：可解釋性與安全性。\n・報告並提出安全、可解釋使用 AI 之考量（依報導，細節見報告全文）。",
+   "significance": "數據顯示香港金融業 AI 使用正由輔助走向自主，監理機關對代理式 AI 之治理期待將成焦點，可與 MAS、FSB 之 AI 相關工作對照。",
+   "editorNote": "本網頁助理 註：金管局新聞稿頁面與報告全文未能開啟，數據依 The Standard 及 Blockchain.News 報導；報告具體建議未能核對。",
+   "tags": [
+    "人工智慧",
+    "代理式 AI",
+    "法遵科技",
+    "香港金管局",
+    "香港"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "香港金管局新聞稿",
+     "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261117-3/",
+     "official": true
+    },
+    {
+     "label": "The Standard 報導",
+     "url": "https://www.thestandard.com.hk/innovation/article/348752/GenAI-adoption-in-HK-finance-hits-90pc-report",
+     "official": false
+    },
+    {
+     "label": "Blockchain.News 報導",
+     "url": "https://blockchain.news/news/hong-kong-ai-adoption-financial-services",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:38:46+08:00"
+  },
+  {
+   "id": "2026-11-17-fin-ly-twd-stablecoin-interpellation",
+   "court": "TW",
+   "kind": "政策動態",
+   "caseId": "taiwan-vasp-act",
+   "jurisdiction": "台灣",
+   "outlet": "工商時報",
+   "outletCode": "CTEE",
+   "date": "2026-11-17",
+   "eventDate": "2026-11-17",
+   "importance": 1,
+   "author": "",
+   "title": "立委質詢籲推公股銀行發行新台幣穩定幣，金管會主委彭金隆表示九項虛擬資產子法預計 2027 年第一季完成後開放申請",
+   "shortTitle": "立委籲推新台幣穩定幣，金管會回應時程",
+   "point": "彭金隆：子法明年首季完成後開放申請，目前尚無銀行正式遞件",
+   "titleOriginal": "立委籲推台幣穩定幣 金管會估明年首季完成子法",
+   "caseRef": "",
+   "tldr": "立法院總質詢時，有立委建議由公股銀行帶頭發行新台幣穩定幣，方便台商跨境貿易結算。金管會主委回應，穩定幣等九項子法預計明年第一季完成，之後才開放申請，目前還沒有銀行正式送件；央行總裁則表示穩定幣主管機關是金管會。",
+   "memo": "依工商時報 2026 年 11 月 17 日報導，立法院同日質詢行政院時，立委呼籲加速推動新台幣穩定幣並由公股銀行率先示範發行；行政院長卓榮泰表示穩定幣雖有安全風險，行政院將持續推動；金融監督管理委員會主任委員彭金隆表示，將於下週舉行穩定幣子法公聽會，預計 2027 年第一季完成九項虛擬資產子法並開放業者申請，目前尚無銀行正式遞件；中央銀行總裁楊金龍表示穩定幣主管機關為金管會，央行支持子法訂定。",
+   "context": "《虛擬資產服務法》於 2026 年 7 月公布，金管會 11 月 3 日預告虛擬資產服務商子法及「穩定幣發行許可及管理辦法」草案，並將於 11 月 24 日召開穩定幣子法公聽會。\n金管會先前表示子法與母法預計 2027 年第一季施行。",
+   "facts": [
+    "質詢日期 2026 年 11 月 17 日，行政院長卓榮泰率團備詢。",
+    "立委引用 Coinbase 報告稱 2026 年第三季穩定幣平均每小時轉移 4 億美元，並引貿協調查稱逾 10% 海外台商及 9.4% 台灣企業已以穩定幣進行貿易結算。",
+    "彭金隆：下週舉行穩定幣子法公聽會；九項子法預計 2027 年第一季完成並開放申請；目前無銀行正式遞件，但多家業者洽詢中。",
+    "楊金龍：穩定幣主管機關為金管會，央行將支持子法訂定。"
+   ],
+   "issues": [
+    "新台幣穩定幣是否應由公股銀行率先發行，及與央行貨幣政策之分工？",
+    "穩定幣用於跨境貿易結算之外匯管理問題？"
+   ],
+   "holding": "・立委主張：加速推動公鏈上之新台幣穩定幣，由公股銀行示範，期 2027 年第一季問世。\n・行政院：穩定幣有安全風險，但可串接國際貨幣與數位市場，將持續推動。\n・金管會：子法 2027 年第一季完成後開放申請。\n・央行：主管機關為金管會，支持子法訂定。",
+   "significance": "顯示政院、金管會與央行對新台幣穩定幣之公開立場與分工，申請時程仍取決於子法定案。下一步為 11 月 24 日公聽會及子法預告期滿（12 月 16 日）。",
+   "editorNote": "本則依媒體報導整理，非官方新聞稿；立委姓名未見於所讀報導內容。",
+   "tags": [
+    "穩定幣",
+    "新台幣穩定幣",
+    "虛擬資產服務法",
+    "金管會",
+    "中央銀行",
+    "立法院",
+    "台灣"
+   ],
+   "related": [
+    "2026-11-16-fin-taiwan-stablecoin-public-hearing"
+   ],
+   "sources": [
+    {
+     "label": "工商時報報導",
+     "url": "https://www.ctee.com.tw/news/20261117701144-430301",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:38:46+08:00"
   }
  ],
  "agenda": [
@@ -9613,7 +9990,7 @@
    "nameOriginal": "Hong Kong stablecoins and tokenised products",
    "caseRef": "Cap. 656",
    "summary": "香港依《穩定幣條例》核發穩定幣發行人牌照，證監會並開放代幣化基金於虛擬資產交易平台次級交易。",
-   "status": "金管局 11 月 2 日宣布 EnsembleTX 支援 24/7 代幣化存款交易並將納入受監理穩定幣試驗；滙豐 RedCoin 已於 10 月 23 日上線，證監會 10 月 26 日核准首例代幣化公募基金次級交易。"
+   "status": "金管局 11 月 2 日宣布 EnsembleTX 支援 24/7 代幣化存款交易並將納入受監理穩定幣試驗，11 月 16 日宣布與 Swift 研究以代幣化存款進行多幣別跨境支付；滙豐 RedCoin 已於 10 月 23 日上線，證監會 10 月 26 日核准首例代幣化公募基金次級交易。"
   },
   {
    "id": "taiwan-vasp-act",
@@ -9624,7 +10001,7 @@
    "nameOriginal": "Taiwan Virtual Asset Service Act and subsidiary regulations",
    "caseRef": "",
    "summary": "《虛擬資產服務法》2026 年 6 月 30 日三讀、7 月 22 日公布，金管會研訂九項子法，包括穩定幣發行許可與管理。",
-   "status": "金管會 11 月 3 日預告虛擬資產服務商子法及「穩定幣發行許可及管理辦法」草案，重申子法與母法預計 2027 年第一季施行；依工商時報報導，將於 11 月 24 日就穩定幣子法及發行人洗錢防制規定召開公聽會。"
+   "status": "金管會 11 月 3 日預告虛擬資產服務商子法及「穩定幣發行許可及管理辦法」草案，將於 11 月 24 日召開穩定幣子法公聽會；主委彭金隆 11 月 17 日於立法院表示九項子法預計 2027 年第一季完成後開放申請，目前尚無銀行正式遞件。"
   },
   {
    "id": "au-digital-assets-framework",
