@@ -1,13 +1,204 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-17T07:13:14+08:00",
-  "lastRunLocal": "2026-11-17 07:13",
+  "lastRun": "2026-11-17T23:16:06+08:00",
+  "lastRunLocal": "2026-11-17 23:16",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "本次未發現新動態"
+  "lastRunNote": "新增 3 則：中國 2（司法案件 1、倡議 1）、伊朗 1（事件 1）"
  },
  "items": [
+  {
+   "id": "2026-11-17-tnr-taiwan-pi-firm-bajiong-minnan-wolf",
+   "court": "CN",
+   "kind": "司法案件",
+   "caseId": "bajiong-minnan-wolf-surveillance",
+   "jurisdiction": "台灣",
+   "outlet": "中央社",
+   "outletCode": "CNA",
+   "date": "2026-11-17",
+   "eventDate": "2026-11-17",
+   "importance": 2,
+   "author": "",
+   "title": "新北地檢署起訴徵信業者等 3 人：檢方指受上海公安委託跟監網紅八炯、閩南狼並蒐集個資，主嫌求刑 3 年 6 月；陸委會譴責",
+   "shortTitle": "徵信業者跟監八炯、閩南狼遭起訴",
+   "point": "檢方指受上海公安委託蒐集 7 人個資，主嫌求刑 3 年 6 月",
+   "titleOriginal": "徵信業者涉跟監閩南狼、八炯助中共跨國鎮壓 陸委會：絕不寬貸",
+   "caseRef": "",
+   "tldr": "新北地檢署起訴一名徵信社經理和兩名員工，指他們接受上海公安人員委託，跟拍反共網紅八炯（温子渝）和閩南狼（陳柏源），蒐集兩人及家屬的住址、車牌等個資，再帶到上海交給公安。依報導，資料交出約一週後，中國當局就對兩人發布懸賞通告。陸委會發布新聞稿譴責。",
+   "memo": "依中央社及鏡週刊 2026 年 11 月 17 日報導，新北地檢署偵查終結，以違反《個人資料保護法》第 41 條罪嫌起訴徵信社業務經理王秉宏及吳姓、劉姓員工共 3 人。檢方指王男 2025 年 6 月受自稱「廈門阿豪」之人代上海市公安局人員委託，非法蒐集網路人士温子渝（八炯）、陳柏源（閩南狼）及其親屬共 7 人之身分證號、住址、電話及車牌等資料，並指派吳、劉二人於 2025 年 7 月及 10 月集會跟拍，同年 11 月初赴上海交付公安人員；檢方對王男求處有期徒刑 3 年 6 月，吳、劉二人因坦承犯行請求量處適當之刑。大陸委員會同日發布新聞稿予以譴責。",
+   "context": "八炯（温子渝）與閩南狼（陳柏源）是在網路上批評中共的台灣網路創作者。依報導，中國當局 2025 年 11 月對兩人發布懸賞通告，稱將終身追責；陸委會當時提醒國人，若配合提供線索可能觸法。\n台灣政府近月將受中國指使的跟監、恐嚇與暴力事件列為「跨境鎮壓」偵辦重點，最高檢要求從嚴從速偵辦，陸委會並將「僱用徵信社跟監蒐證」列為對台跨境鎮壓樣態之一（見本站相關則）。",
+   "facts": [
+    "依鏡週刊報導，新北地檢署檢察官陳香君、陳志婷會同調查局國安站及新北市警方偵辦，2026 年 11 月 17 日偵查終結起訴 3 人。",
+    "被告為徵信社業務經理王秉宏（中央社報導其任職國華徵信社，曾任職一統徵信社），及執行跟監之吳姓、劉姓男子；起訴法條依鏡週刊為《個資法》第 41 條。",
+    "檢方指王男 2025 年赴中國時結識上海市公安局人員，同年 6 月受微信暱稱「廈門阿豪」者委託，以不詳代價承接任務。",
+    "檢方指王男非法取得温子渝、陳柏源及其親屬共 7 人之身分證號、出生日期、戶籍地址、電話及車牌號碼，並派吳、劉二人於 2025 年 7 月 12 日台中及 10 月 2 日台北集會現場跟拍。",
+    "檢方指王男 2025 年 10 月下旬彙整資料與照片，11 月初赴上海交付公安人員；依鏡週刊，約一週後中國當局即發布對兩人的懸賞通告。",
+    "王男 2026 年 7 月 27 日遭搜索並羈押；檢方對其求處有期徒刑 3 年 6 月，吳、劉二人坦承並表悔意，檢方請法院量處適當之刑。",
+    "陸委會同日發布新聞稿，譴責少數業者利慾薰心，指中共利用在地業者跟監、蒐集國人資料，再以懸賞、通緝打壓不同政治立場者，要求中共立即停止，並稱政府將積極查處、絕不寬貸。"
+   ],
+   "issues": [
+    "以《個資法》追訴受外國公安機關委託之跟監蒐證行為，刑度是否足以反映其危害；現行法制是否需另立專門罪名。",
+    "中國對台灣人士之懸賞通告與在地協力者蒐證之關聯，在證據上如何認定。",
+    "徵信業管理制度能否防止業者成為跨境鎮壓之在地協力者。"
+   ],
+   "holding": "・新北地檢署：以違反《個資法》第 41 條罪嫌起訴王秉宏及吳、劉二人（依鏡週刊）。\n・檢方指控：王男受上海公安人員經「廈門阿豪」委託，蒐集 7 人個資並安排跟拍，再赴上海交付。\n・求刑：王男 3 年 6 月；吳、劉二人請求量處適當之刑。\n・陸委會：譴責業者「賣國害台」，要求中共停止跨境鎮壓，政府將積極查處。\n・中國方面：報導未載回應。",
+   "significance": "本案是台灣檢方明確指稱中國公安機關透過在地徵信業者跟監台灣網路人士、並與其後懸賞通告相連的起訴案件，也是法務部研議修正《反滲透法》以加重處罰跨境鎮壓之際的具體案例。後續可觀察新北地方法院審理與判決刑度，以及是否追查委託人。",
+   "editorNote": "本網頁助理 註：中央社報導未載起訴法條與被告以外二人姓名；起訴法條、檢察官姓名及跟拍日期依鏡週刊報導。被告是否認罪（王男部分）報導未載。所稱懸賞通告為中國當局 2025 年所發，本站涵蓋期間前已發生。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "台灣",
+    "八炯",
+    "閩南狼",
+    "徵信業者",
+    "跟監",
+    "懸賞通緝",
+    "個人資料保護法",
+    "陸委會"
+   ],
+   "related": [
+    "2026-11-05-tnr-taiwan-mac-nine-patterns"
+   ],
+   "sources": [
+    {
+     "label": "中央社報導",
+     "url": "https://www.cna.com.tw/news/aipl/202611170277.aspx",
+     "official": false
+    },
+    {
+     "label": "鏡週刊報導",
+     "url": "https://www.mirrormedia.mg/story/20261117edi057",
+     "official": false
+    },
+    {
+     "label": "自由時報報導",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644123",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:16:06+08:00"
+  },
+  {
+   "id": "2026-11-17-tnr-north-macedonia-greece-iran-plot",
+   "court": "IR",
+   "kind": "事件",
+   "caseId": "north-macedonia-greece-iran-plot",
+   "jurisdiction": "希臘、北馬其頓",
+   "outlet": "The National",
+   "outletCode": "",
+   "date": "2026-11-17",
+   "eventDate": "2026-11-17",
+   "importance": 2,
+   "author": "",
+   "title": "北馬其頓國家安全局稱破獲受伊朗人指揮、預謀在希臘行刺的網絡，5 名北馬其頓人被捕；目標未公布",
+   "shortTitle": "北馬其頓稱破獲伊朗指揮希臘行刺網",
+   "point": "5 人被捕，指揮者疑連結曾涉殺害伊朗異議者的 Zindashti 網絡",
+   "titleOriginal": "Iran accused of Greek assassination plot after five arrested",
+   "caseRef": "",
+   "tldr": "北馬其頓國家安全局 11 月 17 日召開記者會，說和希臘情報單位合作，破獲一個預謀在希臘發動攻擊或暗殺的網絡，5 名北馬其頓人被捕。當局說指揮者是一名與伊朗情報安全機關合作的伊朗人，此人並與曾涉殺害海外伊朗異議人士的犯罪集團有關。目標是誰官方沒有公布，部分希臘媒體推測可能是在希臘的伊朗異議人士，但未證實。",
+   "memo": "依 The National 及 Keep Talking Greece 2026 年 11 月 17 日報導，北馬其頓國家安全局局長 Bojan Hristovski 於同日在史高比耶召開記者會，稱與希臘國家情報局合作，經約九至十個月偵查，破獲受伊朗公民 Edris Jahangiri Mavaneh 指揮、預謀於希臘實施攻擊或目標性暗殺之網絡，5 名北馬其頓公民遭逮捕（其中 1 人於希臘被捕後移交北馬其頓），另 1 人在逃。該局指 Mavaneh 為伊朗情報與安全機關之合作者，並與遭美、英、歐盟制裁之 Naji Sharifi Zindashti 犯罪網絡有關。當局未公布行刺目標及罪名，報導未載伊朗回應。",
+   "context": "Naji Sharifi Zindashti 主導的跨國販毒集團，被美國認定受伊朗情報及安全部（MOIS）指使行事；英國已對其實施制裁，歐盟則以 2020 年伊朗異議人士 Masud Molavi Vardanjani 在土耳其遇害為由制裁該網絡。Zindashti 2018 年曾因英伊雙籍異議人士 Saeed Karimian 遇害案在土耳其被捕，獲釋後潛逃。\n希臘 2023 年 3 月亦曾宣布破獲據稱與伊朗有關、針對猶太目標的攻擊計畫。",
+   "facts": [
+    "依 Keep Talking Greece 報導，北馬其頓國家安全局局長 Bojan Hristovski 於 2026 年 11 月 17 日在史高比耶召開緊急記者會公布案情。",
+    "依 The National，偵查自 2026 年初展開；被捕 5 人均為北馬其頓公民，其中 1 人在雅典被捕；依 Athens News，該人於 11 月 12 日被移交北馬其頓。",
+    "依 Keep Talking Greece，4 人在押、1 人居家監禁，另 1 人在逃、可能身在伊朗。",
+    "北馬其頓國安局稱網絡受伊朗公民 Edris Jahangiri Mavaneh 指示，並稱其為「伊朗安全與情報機關的合作者」。",
+    "當局稱網絡預謀在希臘發動攻擊或目標性暗殺，但未公布目標、時間地點或武器；依 Athens News，部分希臘媒體稱目標可能是在希臘的伊朗異議人士，尚未證實。",
+    "報導未載正式起訴罪名，亦未載伊朗政府或希臘政府回應。"
+   ],
+   "issues": [
+    "伊朗利用犯罪集團作為代理人在歐洲實施暗殺之模式，及歐洲各國情報與執法合作之因應。",
+    "在目標及證據尚未公開時，如何評估「伊朗主使」說法之可信度。"
+   ],
+   "holding": "・北馬其頓國安局：與希臘情報單位合作破獲網絡，5 人被捕、1 人在逃。\n・北馬其頓國安局：指揮者 Mavaneh 為伊朗情報與安全機關合作者，與 Zindashti 網絡有關。\n・目標：官方未公布；部分希臘媒體推測為伊朗異議人士，未證實。\n・Athens News 評論：公開證據有限，「伊朗主使」目前是情報機關說法，籲等待具體證據。\n・伊朗、希臘政府：報導未載回應。",
+   "significance": "若目標證實為海外伊朗異議人士，本案將是伊朗透過犯罪網絡在歐洲實施跨國鎮壓的又一例，與英國、美國近年起訴之伊朗僱兇案相呼應。後續可觀察希臘與北馬其頓是否公布目標身分、起訴罪名，以及歐盟是否追加制裁。",
+   "editorNote": "本網頁助理 註：本案目標尚未公布，是否屬針對海外異議人士之跨國鎮壓仍待證實；本站因指揮者被指與曾涉殺害伊朗異議人士之 Zindashti 網絡相關而收錄。各報導對北馬其頓與希臘被捕人數分布及移交日期的描述略有出入。",
+   "tags": [
+    "跨國鎮壓",
+    "伊朗",
+    "希臘",
+    "北馬其頓",
+    "暗殺計畫",
+    "犯罪集團代理",
+    "Zindashti 網絡"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "The National 報導",
+     "url": "https://www.thenationalnews.com/news/europe/2026/11/17/iran-accused-of-greek-assassination-plot-after-five-arrested/",
+     "official": false
+    },
+    {
+     "label": "Keep Talking Greece 報導",
+     "url": "https://www.keeptalkinggreece.com/2026/11/17/iranian-network-was-planning-terror-attack-assassination-in-greece-north-macedonia/",
+     "official": false
+    },
+    {
+     "label": "Athens News 分析",
+     "url": "https://en.rua.gr/2026/11/17/iranian-trace-in-greece-five-arrests-an-unknown-target-and-questions-about-the-conspiracy-version/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:16:06+08:00"
+  },
+  {
+   "id": "2026-11-17-tnr-canada-subcommittee-tibet-ethnic-unity-law",
+   "court": "CN",
+   "kind": "倡議",
+   "caseId": "",
+   "jurisdiction": "加拿大",
+   "outlet": "Tibet Post International",
+   "outletCode": "",
+   "date": "2026-11-17",
+   "eventDate": "2026-11-16",
+   "importance": 1,
+   "author": "",
+   "title": "藏人倡議者在加拿大眾議院國際人權小組委員會作證，指中國《民族團結進步促進法》具域外效力、將鎮壓延伸至境外",
+   "shortTitle": "藏人倡議者赴加國會證中國民族團結法",
+   "point": "指該法第 63 條可追究境外個人與機構責任，籲加拿大表態",
+   "titleOriginal": "Tibetan Advocates Warn China's Repression Reaches Beyond Its Borders",
+   "caseRef": "",
+   "tldr": "三位藏人倡議者 11 月 16 日在加拿大眾議院外交委員會的國際人權小組委員會作證，說中國 7 月施行的民族團結相關法律在推動強迫同化，而且第 63 條讓中國可以追究境外個人和機構的責任，把壓制延伸到國外。他們舉出中國對旅加學者 Gyal Lo 的訴訟、南非達賴喇嘛代表處遭汽油彈攻擊為例，呼籲加拿大支持聯合國人權事務高級專員要求廢除該法。",
+   "memo": "依 Tibet Post International 2026 年 11 月 17 日報導，國際聲援西藏運動研究主任 Bhuchung K. Tsering、西藏行動研究所主任 Lhadon Tethong 及藏人學者 Gyal Lo 於同年 11 月 16 日在加拿大眾議院外交及國際發展常設委員會國際人權小組委員會作證，指中國《民族團結進步促進法》制度化對藏人之強迫同化，其第 63 條並規定得追究中國境外個人及機構之責任，構成跨國鎮壓；證人並援引中國對 Gyal Lo 提起之訴訟及達賴喇嘛駐南非代表處兩度遭汽油彈攻擊等事例，籲加拿大支持聯合國人權事務高級專員廢除該法之呼籲並與美歐協調。",
+   "context": "中國《民族團結進步促進法》2026 年 7 月 1 日施行，部分學者與倡議團體批評其具域外效力。\n旅加藏人學者 Gyal Lo 稱以其前雇主雲南師範大學名義提起的訴訟文件 9 月送達其多倫多住所；達賴喇嘛駐南非代表處 2026 年 7 月與 10 月兩度遭汽油彈攻擊（見本站相關則）。",
+   "facts": [
+    "2026 年 11 月 16 日，Bhuchung K. Tsering（國際聲援西藏運動）、Lhadon Tethong（西藏行動研究所）與 Gyal Lo 在加拿大眾議院國際人權小組委員會作證。",
+    "Tsering 稱該法施行後，2026 年 8 月至 9 月間至少 3 所教授藏語與藏文化的私立學校關閉（倡議者數據，未經獨立查證）。",
+    "Gyal Lo 稱該法第 63 條使中國境外的個人與機構須負法律責任，並將寺院與轉世制度納入國家控制。",
+    "Tethong 援引中國對 Gyal Lo 的訴訟，以及達賴喇嘛駐南非代表處兩度遭汽油彈攻擊，作為鎮壓延伸至境外的例證。",
+    "證人建議加拿大支持聯合國人權事務高級專員 Volker Türk 廢除該法的呼籲、與美國及歐洲國家協調，並資助藏人行政中央。"
+   ],
+   "issues": [
+    "中國國內法明文規定追究境外個人與機構責任，對海外藏人及在外國之研究、教育機構之風險。",
+    "加拿大國會調查能否轉化為具體的保護或外交措施。"
+   ],
+   "holding": "・Tsering：該法推動強迫同化，施行後至少 3 所私立藏語學校關閉。\n・Gyal Lo：第 63 條追究境外個人與機構責任。\n・Tethong：中國對 Gyal Lo 的訴訟及南非代表處遭攻擊，顯示鎮壓已延伸至境外；籲中等強國表態。\n・建議：加拿大支持聯合國人權高專廢法呼籲、與美歐協調。\n・中國方面：報導未載回應。",
+   "significance": "作證內容將中國新法的域外條款與已發生的海外事件相連，並進入加拿大國會紀錄。後續可觀察小組委員會是否提出報告或建議，以及加拿大政府對藏人社群保護措施。",
+   "editorNote": "本網頁助理 註：本則依藏人媒體 Tibet Post International 對證詞之整理，本網頁助理未取得國會逐字紀錄；條文內容係證人說法，未核對法律原文。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "西藏",
+    "加拿大",
+    "民族團結進步促進法",
+    "國會作證",
+    "Gyal Lo"
+   ],
+   "related": [
+    "2026-10-30-tnr-gyal-lo-canada-lawsuit-papers",
+    "2026-10-16-tnr-pretoria-tibet-office-arson"
+   ],
+   "sources": [
+    {
+     "label": "Tibet Post International 報導",
+     "url": "https://thetibetpost.com/news/exile/tibetan-advocates-warn-china%E2%80%99s-repression-reaches-beyond-its-borders",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:16:06+08:00"
+  },
   {
    "id": "2026-11-14-tnr-hrw-francophonie-mekong",
    "court": "MULTI",
@@ -305,7 +496,8 @@
    ],
    "related": [
     "2026-11-05-tnr-taiwan-moj-amendment-hotline",
-    "2026-11-03-tnr-taiwan-nsb-anti-infiltration-report"
+    "2026-11-03-tnr-taiwan-nsb-anti-infiltration-report",
+    "2026-11-17-tnr-taiwan-pi-firm-bajiong-minnan-wolf"
    ],
    "sources": [
     {
@@ -2242,7 +2434,9 @@
     "達賴喇嘛",
     "縱火"
    ],
-   "related": [],
+   "related": [
+    "2026-11-17-tnr-canada-subcommittee-tibet-ethnic-unity-law"
+   ],
    "sources": [
     {
      "label": "自由亞洲電台報導",
@@ -4293,7 +4487,9 @@
     "監視",
     "報復行為"
    ],
-   "related": [],
+   "related": [
+    "2026-11-17-tnr-canada-subcommittee-tibet-ethnic-unity-law"
+   ],
    "sources": [
     {
      "label": "Phayul 報導",
@@ -6817,6 +7013,28 @@
    "caseRef": "",
    "summary": "印太戰略智庫執行長矢板明夫 2026 年 7 月 6 日在台中遭香港幫派分子毆打；檢方 10 月 6 日起訴 1 人、通緝 4 名已離境共犯，台灣政府將本案列為跨境鎮壓事例。",
    "status": "被告廖港發 11 月 10 日認罪，台中地院改行簡式審判並審結，檢方求刑 5 年，待宣判；4 名共犯及指使者「陳偉豪」仍在追查。"
+  },
+  {
+   "id": "bajiong-minnan-wolf-surveillance",
+   "type": "案件",
+   "court": "CN",
+   "forum": "新北地檢署",
+   "name": "徵信業者受託跟監八炯、閩南狼案",
+   "nameOriginal": "Private investigators' surveillance of Bajiong and Minnan Wolf for Shanghai public security",
+   "caseRef": "",
+   "summary": "新北地檢署指徵信社經理王秉宏受上海公安人員委託，派員跟拍網路人士八炯、閩南狼並蒐集其與親屬個資交付中方。",
+   "status": "2026 年 11 月 17 日以違反《個資法》起訴 3 人，主嫌求刑 3 年 6 月，待新北地院審理。"
+  },
+  {
+   "id": "north-macedonia-greece-iran-plot",
+   "type": "案件",
+   "court": "IR",
+   "forum": "北馬其頓國家安全局、希臘國家情報局",
+   "name": "北馬其頓、希臘破獲伊朗指揮行刺網絡案",
+   "nameOriginal": "Alleged Iran-directed assassination plot in Greece (North Macedonia NSA)",
+   "caseRef": "",
+   "summary": "北馬其頓與希臘情報機關稱破獲受伊朗人 Edris Jahangiri Mavaneh 指揮、預謀在希臘行刺的網絡。",
+   "status": "2026 年 11 月 17 日公布：5 名北馬其頓人被捕、1 人在逃；目標與罪名未公布。"
   }
  ]
 }
