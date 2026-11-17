@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-17T06:58:51+08:00",
-  "lastRunLocal": "2026-11-17 06:58",
+  "lastRun": "2026-11-17T23:10:54+08:00",
+  "lastRunLocal": "2026-11-17 23:10",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "本次未發現新動態",
+  "lastRunNote": "新增 6 則：商務仲裁 4（法院裁判 1、評論 3）、投資仲裁 2（案件動態 2）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -942,7 +942,9 @@
     "陳述權",
     "制裁"
    ],
-   "related": [],
+   "related": [
+    "2026-11-17-arb-dj-dwl-dwm-arbitrators-depart-arguments"
+   ],
    "sources": [
     {
      "label": "Kluwer Arbitration Blog 文章",
@@ -2998,7 +3000,9 @@
     "烏拉圭",
     "智利"
    ],
-   "related": [],
+   "related": [
+    "2026-11-13-arb-atco-uruguay-settlement"
+   ],
    "sources": [
     {
      "label": "la diaria 報導：ICSID 將和解作成判斷（西班牙文）",
@@ -8676,6 +8680,369 @@
     }
    ],
    "addedAt": "2026-11-15T23:00:58+08:00"
+  },
+  {
+   "id": "2026-11-16-arb-kab-private-key-production",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-11-16",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Dimitar Kolev（Ticino Arbitration Centre）",
+   "title": "仲裁庭可否命當事人提出加密資產私鑰？作者主張僅限例外情形，並提出五階段驗證方法",
+   "shortTitle": "仲裁庭該命交出私鑰嗎？",
+   "point": "作者認為僅能例外為之，應先用公開紀錄、挑戰簽章等低風險方法證明控制",
+   "titleOriginal": "Should a Tribunal Ever Order Production of a Private Key?",
+   "caseRef": "",
+   "tldr": "加密資產爭議常要證明「誰控制錢包」。私鑰不像一般文件，一旦交出就可能被複製並用來移轉資產。作者主張仲裁庭原則上不應命提出私鑰，而應依序採用風險較低的驗證方式，只有在私鑰本身內容就是爭點時，才在嚴格保全措施下讓中立專家檢視。",
+   "memo": "Dimitar Kolev 於 Kluwer Arbitration Blog 撰文主張，仲裁庭命當事人提出加密資產私鑰應屬例外。作者指出私鑰可被複製而不留痕跡，承諾不使用僅具法律效力而非技術保障，且揭露後將削弱日後歸屬判斷；仲裁庭應先界定待證事實，依序採用公開及佐證紀錄、挑戰訊息簽章、託管機構確認、中立專家見證等方式，僅於私鑰內容本身為爭點且前述方法均不足時，方得在隔離環境、中立專家優先檢視及事前中和其操作效力等保全措施下為受控檢視；拒絕採行合比例之驗證方式者，得依 IBA 證據規則為不利推定。",
+   "context": "加密資產爭議中，「錢包」通常不保存資產本身，而是管理授權交易所需的憑證；私鑰用來產生數位簽章，公鑰則可驗證簽章而不洩漏私鑰。\n作者指出，公開的仲裁決定中幾乎沒有處理私鑰提出命令的先例，仲裁庭的一般證據權限（勘驗、專家、保密措施、不利推定）也沒有針對憑證的分級處理方法。",
+   "facts": [
+    "作者觀察到，私鑰與一般文書不同：作為證據交出後，仍可用來授權交易。",
+    "公開的仲裁決定中，關於命提出私鑰的案例極少。"
+   ],
+   "issues": [
+    "仲裁庭依其證據調查權限（並參照 IBA 證據規則）得否、於何種條件下命當事人提出私鑰？",
+    "應如何區分簽章能力、歷史控制、人員身分、契約授權與資產所有權等不同待證事實？"
+   ],
+   "holding": "・作者認為，私鑰可被複製而持有人不會失去原件，且可能無從察覺；不使用或不複製的承諾只是法律義務，不是技術保障；揭露後多人都能簽章，反而削弱日後的歸屬判斷。\n・在發提出命令前，仲裁庭應先確定究竟要證明什麼：簽章能力、歷史存取、權限、人員身分、契約授權、所有權與法律上權利各不相同，證明其一不等於證明其他。\n・作者提出五階段方法，仲裁庭應採用可靠且風險最低的一階：（1）區塊鏈、託管、存取紀錄與通訊等公開或佐證紀錄；（2）由仲裁庭或中立專家提供一次性訊息，由當事人簽章（挑戰簽章），證明當下的簽章能力而不揭露私鑰；（3）資產由交易所或託管機構保管時，命當事人在其權限範圍內取得帳戶、餘額、提領權限或存取紀錄的確認；（4）中立專家在場見證當事人解鎖硬體錢包並簽署指定訊息，但不看見、不保存私鑰；（5）僅在私鑰內容或身分本身是爭點時，才進行受控檢視，順序為僅中立專家檢視、指定外部律師或技術專家有限度接觸、極例外時由特定當事人人員接觸，且不交付可再使用的複本、不將私鑰納入卷宗。\n・第五階的保全措施包括：先認定前四階不足、盤點私鑰可存取的一切資產、記錄檢視前狀態、盡可能先停用或更換私鑰或移轉資產，並在離線或隔離環境中、由指定人員在場進行，留存不含私鑰的稽核紀錄，訂定暫存資料封存或銷毀及資安事件處理規則。\n・程序上，聲請方應說明為何低風險方法不足，相對人應具體說明風險並提出可行替代方案；拒絕合比例方法者，可能影響證據力或依 IBA 證據規則導致不利推定。",
+   "significance": "作者的結論是「僅能例外」而非「絕不」：前四階已足以驗證多數事實；即使進入第五階，所謂「提出」也應是在資安規範下的受控接觸，並以中立專家單獨檢視為起點。對處理加密資產、數位資產爭議的仲裁庭與代理人而言，這套分級方法可作為擬定證據調查程序令的參考。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：作者未引用具體仲裁案例，亦未指明 IBA 證據規則的條號。",
+   "tags": [
+    "加密資產",
+    "證據調查",
+    "文書提出",
+    "IBA 證據規則",
+    "不利推定",
+    "程序管理"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 文章",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/should-a-tribunal-ever-order-production-of-a-private-key/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:10:54+08:00"
+  },
+  {
+   "id": "2026-11-17-arb-dj-dwl-dwm-arbitrators-depart-arguments",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "新加坡",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-11-17",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Daniel Greineder（Kalbian & Hagerty）",
+   "title": "從新加坡 DWL v DWM 案看仲裁庭偏離當事人主張推論的界限：作者認為代理人必須預見仲裁人會使用的分析工具",
+   "shortTitle": "仲裁庭可以不照當事人的論點走嗎？",
+   "point": "作者指出新加坡法院只在推理與主張「劇烈偏離、毫無關聯」時才認定違反陳述權",
+   "titleOriginal": "A Mind of Their Own: When Arbitrators Depart from Parties' Arguments",
+   "caseRef": "[2026] SGHC 179",
+   "tldr": "新加坡高等法院在 DWL v DWM 案駁回以「仲裁庭用了沒人主張的理由」為由撤銷仲裁判斷的聲請。作者分析該判決後認為，法院會綜觀整個卷宗判斷某爭點是否已在審理範圍內，仲裁庭從已主張的論點推出相關前提並無不可；律師應預先設想仲裁人可能採用的解釋方法，而不能指望仲裁庭只在雙方論點之間二選一。",
+   "memo": "Daniel Greineder 於 Daily Jus 撰文分析新加坡高等法院 2026 年 9 月 2 日 DWL v DWM [2026] SGHC 179 判決，指出法院駁回以仲裁庭援引未經主張之契約條款等為由之五項撤銷理由，認為應綜觀證據、書狀與主張判斷爭點是否已在審理範圍，仲裁庭自已主張之論點合理推導之前提無須另請當事人表示意見，僅於推理與當事人主張劇烈偏離且無關聯時始違反陳述權。作者肯定該判決釐清仲裁庭與代理人之義務，並主張代理人應預見仲裁人可能採用之分析工具。",
+   "context": "DWL v DWM 為新加坡高等法院 Philip Jeyaretnam 法官審理的撤銷仲裁判斷案件，被撤銷的終局判斷作成於 2025 年 8 月 19 日。本站已於 2026 年 10 月 28 日收錄 Kluwer Arbitration Blog 對同一判決的評析。\n依作者敘述，聲請人為設備供應商，相對人受制裁；契約第 27B 條規定減損義務，雙方爭執該等義務係擇一或併存，其後雙方互發終止通知，仲裁庭多數意見認定相對人的終止有效。",
+   "facts": [
+    "聲請人以五項理由聲請撤銷判斷，包括仲裁庭依據當事人未主張的條款推理、將第 27B 條義務解為併存、依賴終止後行為，以及就履約保證所為多餘認定。",
+    "法院駁回全部撤銷理由。"
+   ],
+   "issues": [
+    "仲裁庭的推理偏離當事人主張到何種程度，構成違反自然正義（陳述權）而得撤銷判斷？",
+    "判斷爭點是否在審理範圍內時，法院應以何種範圍的卷宗為準？"
+   ],
+   "holding": "・作者認為，聲請人的撤銷理由實質上是包裝成管轄或程序瑕疵的契約解釋爭執。\n・法院綜觀證據、書狀與主張全部紀錄判斷某爭點是否已在審理範圍，不應狹隘解讀當事人主張；當事人提出整份契約，就不能要求仲裁庭忽略其中部分條款。\n・法院引用先例認為，未經主張的前提若係從已主張論點合理推得，屬相關推論，仲裁庭無須另請當事人補充意見。\n・違反陳述權僅限於仲裁庭推理與當事人主張「劇烈偏離」且毫無關聯的情形；法院並參照新加坡上訴法院 BLC v BLB 案，警告不應以過度挑剔、拘泥文字的方式審查判斷。\n・法院認為本案仲裁庭的契約解釋方式可得預見；代理人負有提出最相關資料、預見仲裁人所需分析工具的責任，補充書狀雖屬良好實務，但並非一律必要。",
+   "significance": "作者肯定本判決清楚說明仲裁庭與代理人各自的責任，認為其意義不限於新加坡；但也指出「綜觀全局」與可預見性標準並不精確，法院難以明確界定仲裁庭權限範圍。作者建議當事人選任仲裁人時，應考量其審理風格是否與己方的陳述方式相合，以免出現意外。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：判決內容依作者之敘述；本站先前收錄之 Kluwer Arbitration Blog 評析亦討論同一判決。",
+   "tags": [
+    "新加坡",
+    "撤銷仲裁判斷",
+    "正當程序",
+    "自然正義",
+    "陳述權",
+    "iura novit arbiter"
+   ],
+   "related": [
+    "2026-10-28-arb-kab-dwl-dwm-right-to-be-heard"
+   ],
+   "sources": [
+    {
+     "label": "Daily Jus 評論",
+     "url": "https://dailyjus.com/world/2026/11/a-mind-of-their-own-when-arbitrators-depart-from-parties-arguments",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:10:54+08:00"
+  },
+  {
+   "id": "2026-11-16-arb-dj-construction-ai-stress-test",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Daily Jus",
+   "outletCode": "DJ",
+   "date": "2026-11-16",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Sarah Sedky（K&A）",
+   "title": "營建爭議可能是 AI 在仲裁中真正的壓力測試：作者認為資料來源、可稽核性與人類判斷將成為證據核心問題",
+   "shortTitle": "營建爭議是仲裁 AI 的真正考驗？",
+   "point": "作者指出 AI 的影響將前移至專案紀錄管理，但工期、因果與並行延誤的判斷仍須由人負責",
+   "titleOriginal": "From Project Data to Arbitral Award: Why Construction Disputes May Be Arbitration's Real AI Stress Test",
+   "caseRef": "",
+   "tldr": "營建工程在爭議發生前就累積了大量、依時間排列的數位紀錄，最適合用 AI 整理。作者認為 AI 不只會加速仲裁中的請求整理，更可能在工程管理階段就預警爭議；但資料多不等於證據好，AI 產出的來源、可稽核性和可重現性會成為證據爭點，專家仍須說明方法並自行判斷。",
+   "memo": "Sarah Sedky 於 Daily Jus 撰文指出，營建爭議兼具大量數位紀錄與時序複雜性，可能成為人工智慧在仲裁中之真正壓力測試。作者認為 AI 之影響將前移至工程紀錄管理與爭議預警，惟 AI 產出之來源、可稽核性及可重現性將成為證據核心問題，基準工期、因果關係及並行延誤之判斷仍屬專家之人為判斷，專家應說明方法及工具所為；並參照 Ciarb、SVAMC、VIAC 等指引所揭示之使用者責任與不得委託決策原則，主張應界定自動化之界限，效率不等於可靠。",
+   "context": "仲裁界對 AI 的討論多集中在程序本身（研究、文件審閱、撰稿、預測）。作者以營建爭議為例，討論 AI 如何從工程資料一路影響到仲裁判斷。\n相關規範包括 Ciarb 2025 年 AI 使用指引、SVAMC 2024 年指引、VIAC 2025 年說明，以及 AAA-ICDR 於 2025 年 11 月推出、用於書面審理營建案件的「AI 仲裁人」（仍由人類仲裁人作成判斷）。",
+   "facts": [
+    "營建專案在爭議發生前即產生大量數位紀錄，代理人事後須加以重建。",
+    "AAA-ICDR 已推出供書面審理營建案件使用的 AI 仲裁人工具，判斷仍由人類仲裁人作成。"
+   ],
+   "issues": [
+    "AI 輔助產出的分析，在仲裁中如何確保其來源、可稽核性與可重現性？",
+    "專家使用 AI 時應揭露哪些內容？輔助何時構成不當委託？"
+   ],
+   "holding": "・作者認為，營建爭議兼具資料量與時序複雜性，AI 可協助整理並加速請求的準備。\n・若 AI 嵌入工程管理，可及早辨識潛在爭議，使重點由解決爭議轉向預見爭議。\n・資料多不保證證據好：輸入有誤，AI 也可能產出看似精緻但錯誤的結果，因此資料來源、可稽核性與可重現性將成為證據的核心問題。\n・專家可用 AI 運算，但基準、因果關係與並行延誤的判斷仍是人的判斷；專家須說明方法論及工具實際做了什麼。\n・各機構指引均強調使用者責任與不得委託決策；AAA-ICDR 的 AI 仲裁人顯示營建案件已成試驗場。",
+   "significance": "作者結論認為，AI 在仲裁中的角色只會擴大，實務上的問題在於哪些工作可以自動化、哪些 AI 產出應保存、何時應揭露 AI 使用、專家如何說明 AI 輔助的分析，以及輔助何時變成委託；AI 的真正價值在於支持更充分的人類判斷。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：原文「結論」段落僅有佔位文字，本則以其最後一段正文作為作者結論。",
+   "tags": [
+    "人工智慧",
+    "營建爭議",
+    "專家證人",
+    "證據調查",
+    "AAA-ICDR"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Daily Jus 評論",
+     "url": "https://dailyjus.com/legal-tech/2026/11/from-project-data-to-arbitral-award-why-construction-disputes-may-be-arbitrations-real-ai-stress-test",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:10:54+08:00"
+  },
+  {
+   "id": "2026-11-16-arb-qfc-owh-rusal-share-transfer-void",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "owh-v-rusal",
+   "jurisdiction": "卡達",
+   "outlet": "卡達金融中心民商事法院",
+   "outletCode": "QICDRC",
+   "date": "2026-11-16",
+   "eventDate": "2026-10-04",
+   "importance": 2,
+   "author": "",
+   "title": "卡達金融中心法院認定 Rusal 將控股公司股份移轉予子公司係以不實陳述取得核准，宣告移轉無效，LCIA 判斷債權人得以追及",
+   "shortTitle": "卡達法院撤銷 Rusal 規避執行的股份移轉",
+   "point": "申請核准時有重大不實陳述，股份回歸 Rusal 名下；11 月 12 日判決再釐清後續增資效力",
+   "titleOriginal": "J v K [2026] QIC (F) 67 (4 October 2026) and [2026] QIC (F) 77 (12 November 2026) (OWH SE i.L. v. Rusal-held QFC holding company, as reported)",
+   "caseRef": "CTFIC0064/2025; [2026] QIC (F) 67; [2026] QIC (F) 77",
+   "tldr": "德國銀行 OWH（前 VTB 歐洲銀行）在倫敦 LCIA 仲裁對俄國鋁業公司 Rusal 取得逾 2.5 億美元的判斷，但 Rusal 沒有付款，還把卡達一家控股公司的全部股份轉給自己的俄國子公司。卡達金融中心法院認定這次移轉在申請主管機關核准時有重大不實陳述，宣告移轉無效、股份回到 Rusal 名下，讓債權人可以對這些股份聲請執行。",
+   "memo": "卡達金融中心民商事法院第一審於 2026 年 10 月 4 日 J v K 案（[2026] QIC (F) 67）認定，被告控股公司申請核准其俄羅斯母公司將全部股份移轉予該母公司全資子公司時，有違反《QFC 公司規則》第 132 條第 1 項之重大不實陳述，宣告公司登記處之核准及股份移轉均屬無效，命回復登記並延長禁制令；同院於 11 月 12 日（[2026] QIC (F) 77）進一步認定，移轉後以董事權限對該子公司配發之 2.5 億股不受影響。依 GAR 報導，原告為德國銀行 OWH SE i.L.，被告股份原屬 Rusal，原告欲藉此執行逾 2.5 億美元之 LCIA 仲裁判斷。",
+   "context": "OWH SE（清算中，前身為 VTB Bank (Europe) SE，屬受制裁之 VTB 集團）與 Rusal 的澤西島子公司 RTI Ltd 於 2019 年依英國法 ISDA 主協議進行換匯交易，Rusal 為保證人，爭議約定交付 LCIA 仲裁（倫敦）。俄烏戰爭後 RTI 以付款可能間接使受制裁的 VTB 獲益為由未付保證金，OWH 終止交易。\n依卡達法院 2026 年 3 月 29 日管轄權判決所述，LCIA 仲裁庭於 2024 年 9 月 25 日判命 Rusal 與 RTI 給付約 2.138 億歐元，2025 年 8 月 29 日第二判斷（10 月 1 日補充）另判給利息約 3,384 萬歐元及費用。英國高等法院已於 2026 年 5 月駁回 Rusal 以英國公共政策為由撤銷執行許可的聲請；澤西島、印度等地亦有平行程序，Rusal 並於 2026 年 3 月依 1989 年德國－蘇聯投資協定對 OWH 與德國提起仲裁。\n本案原告依《QFC 公司規則》第 132 條（不得向公司登記處提供不實或誤導資訊）及第 133 條（違反者負損害賠償責任）起訴，請求撤銷股份移轉並更正公開登記。",
+   "facts": [
+    "被告為設於卡達金融中心的控股公司，原為一家俄國鋁業公司（L）全資持有；原告主張被告掌握 L 在俄國境外的大部分資產。",
+    "2025 年 3 月 17 日，L 將被告全部股份出售予其全資俄國子公司 N；公司登記處於 2025 年 4 月 14 日更新公開登記。",
+    "2025 年 5 月 22 日，被告唯一董事以書面決議向 N 配發 2.5 億股，發行股本由 54.5 億美元增至 57 億美元。",
+    "原告於 2025 年 11 月 18 日起訴；法院於 2026 年 3 月 29 日駁回管轄權抗辯並核發禁止處分股份的禁制令，8 月 19 日至 20 日審理。",
+    "2026 年 10 月 4 日判決宣告移轉無效；公司登記處於 10 月 19 日就判決對其後增資與董事任命的影響請求法院指示。"
+   ],
+   "issues": [
+    "申請核准股份移轉時的不實陳述，是否違反《QFC 公司規則》第 132 條第 1 項，而得依第 133 條撤銷移轉、更正登記？",
+    "移轉被宣告無效後，N 登記為唯一股東期間所為的增資配發與董事任命是否隨之失效（第 21 條、第 28 條、第 59 條）？",
+    "判決後第三人（N）得否聲請參加？"
+   ],
+   "holding": "2026 年 10 月 4 日判決：法院宣告核准股份移轉的申請含有違反第 132 條第 1 項的重大不實陳述，宣告公司登記處的核准及股份移轉均屬無效並予撤銷，命將公開登記回復至 2025 年 4 月 14 日前的狀態（L 為唯一股東），延長禁制令，並命被告負擔原告訴訟費用。\n2026 年 11 月 12 日判決：法院認為未發行股份依第 21 條由董事支配，該次配發適用第 21 條而非須股東決議的第 28 條；決議中「唯一股東」僅描述 N 當時的身分，並非配發的前提，故 2.5 億股對 N 的配發有效，股東名簿應記載 L 持有 54.5 億股、N 持有 2.5 億股；董事資格縱有瑕疵，依第 59 條其行為仍屬有效。至於 N 於 2026 年 9 月 17 日任命的第二名董事，因無撤銷聲請且與 10 月 4 日判決無直接關聯，暫維持登記。法院認其已無權限（functus officio），駁回 N 判決後的參加聲請，並不為費用裁定。",
+   "significance": "本案顯示判斷債權人可利用仲裁地以外金融中心的公司法規範，撤銷債務人為規避執行而進行的集團內部資產移轉，對追索受制裁或俄國企業海外資產的實務具參考價值。股份回歸 Rusal 名下後，OWH 可在卡達進一步聲請執行；但移轉後配發給子公司的 2.5 億股不受影響。同一債權在英國、澤西島（樞密院上訴中）、印度及 Rusal 對德國的投資仲裁中仍有程序進行。",
+   "editorNote": "本網頁助理 註：卡達法院公開的判決已將當事人匿名（J、K、L、M、N）；本則將原告認定為 OWH、被告股份原屬 Rusal，係依 GAR 2026 年 11 月 16 日報導（付費內容，僅閱讀其摘要）及 3 月 29 日管轄權判決所載仲裁背景（鋁業公司、澤西子公司、2019 年 9 月 11 日協議及判斷金額）。本則依 11 月 12 日判決全文及法院網站摘要撰寫，尚未取得 10 月 4 日判決原文，其內容依 11 月 12 日判決之引述。11 月 12 日判決第 5 段將移轉時間寫為 2026 年 3 月，判決其餘部分均為 2025 年 3 月。GAR 所稱「逾 2.5 億美元」與判決所載歐元金額換算一致，但非判決原文用語。",
+   "tags": [
+    "卡達",
+    "LCIA",
+    "承認與執行",
+    "制裁",
+    "俄羅斯",
+    "德國",
+    "脫產",
+    "Rusal"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "卡達金融中心法院 2026 年 11 月 12 日判決全文（PDF）",
+     "url": "https://www.qicdrc.gov.qa/sites/default/files/2026-11/J%20v%20K%20-%20Sealed%20Judgment%20-%2012%20November%202026.pdf",
+     "official": true
+    },
+    {
+     "label": "卡達金融中心法院判決頁（[2026] QIC (F) 77）",
+     "url": "https://www.qicdrc.gov.qa/judgments/ctfic00642025-6",
+     "official": true
+    },
+    {
+     "label": "卡達金融中心法院 2026 年 3 月 29 日管轄權判決（PDF）",
+     "url": "https://www.qicdrc.gov.qa/sites/default/files/2026-03/J%20v%20K%20-%20Sealed%20Judgment%20(Jurisdiction)%20-%2029%20March%202026.pdf",
+     "official": true
+    },
+    {
+     "label": "卡達金融中心法院判決頁（禁制令，[2026] QIC (F) 8）",
+     "url": "https://www.qicdrc.gov.qa/judgments/ctfic00642025-1",
+     "official": true
+    },
+    {
+     "label": "GAR 報導（付費）",
+     "url": "https://globalarbitrationreview.com/article/award-creditor-unwinds-rusal-share-transfer-in-qatar",
+     "official": false
+    },
+    {
+     "label": "英國高等法院 OWH v RTI & Rusal [2026] EWHC 1015 (Comm) 判決摘要（Kohen Avocats）",
+     "url": "https://kohenavocats.com/en/jurisprudences/owh-se-il-v-rti-ltd-anor/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:10:54+08:00"
+  },
+  {
+   "id": "2026-11-13-arb-atco-uruguay-settlement",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-13",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "Montecon 第二名股東、加拿大 ATCO 與烏拉圭達成協議，撤回 2.4 億美元 ICSID 求償，烏拉圭不須賠償",
+   "shortTitle": "ATCO 撤回對烏拉圭的 ICSID 求償",
+   "point": "不可撤回地放棄 2.4 億美元請求，雙方均不承認責任，烏拉圭不給付任何對價",
+   "titleOriginal": "ATCO Ltd. v. Oriental Republic of Uruguay (ICSID Case No. ARB/24/11), settlement announced by the Presidency of Uruguay on 13 November 2026",
+   "caseRef": "ICSID Case No. ARB/24/11",
+   "tldr": "蒙特維多港碼頭業者 Montecon 的加拿大股東 ATCO，因烏拉圭延長競爭對手碼頭特許而依加拿大－烏拉圭投資協定在 ICSID 求償約 2.4 億美元。烏拉圭總統府 11 月 13 日宣布雙方達成協議：ATCO 不可撤回地放棄全部請求，烏拉圭不付賠償、不負任何經濟義務。另一股東 Neltume 的仲裁已於 10 月以類似方式結束。",
+   "memo": "依烏拉圭總統府 2026 年 11 月 13 日公告及當地媒體報導，ATCO Ltd. 依 1997 年加拿大－烏拉圭雙邊投資協定對烏拉圭提起之 ICSID 仲裁（ICSID Case No. ARB/24/11），雙方已達成協議終結程序。ATCO 不可撤回地放棄對烏拉圭之全部請求（約 2.4 億美元）並承諾不再提起後續訴訟，雙方均不承認責任、互不負補償義務，烏拉圭亦未給予 ATCO 或 Montecon 任何利益或對價。",
+   "context": "Montecon 為蒙特維多港公共碼頭業者，股東為智利 Neltume Ports 與加拿大 ATCO。烏拉圭政府於 2021 年與比利時 Katoen Natie 集團協議，將其經營的 TCP 貨櫃碼頭特許延長至 2081 年，Montecon 的兩名股東分別提起投資仲裁。\nATCO 依 1997 年加拿大－烏拉圭雙邊投資協定向 ICSID 提付仲裁（italaw 所列仲裁通知日期為 2024 年 5 月 9 日）。Neltume 的 6 億美元求償已於 2026 年 9 月撤回，仲裁庭並將和解內容作成判斷（本站 10 月 21 日收錄）。",
+   "facts": [
+    "烏拉圭總統府於 2026 年 11 月 13 日發布公告，宣布與 ATCO 達成協議終結仲裁。",
+    "依報導，ATCO 求償約 2.4 億美元，並不可撤回地放棄全部請求及後續訴訟。",
+    "雙方均不承認責任，亦不互為經濟補償；總統府表示烏拉圭未給予 ATCO 或 Montecon 任何利益或對價。",
+    "總統府副秘書長 Jorge Díaz 表示，協議使程序得以在國家無須負擔經濟成本下結束。"
+   ],
+   "issues": [
+    "投資人與地主國以協議終結 ICSID 程序（ICSID 仲裁規則關於和解與終止的規定）。"
+   ],
+   "holding": "依報導，雙方協議終結仲裁：ATCO 撤回全部請求並放棄後續訴訟，烏拉圭不負擔任何賠償或經濟義務。報導未說明仲裁庭是否將協議作成判斷或僅發終止程序令，亦未說明仲裁費用分擔。",
+   "significance": "隨著兩名股東的仲裁先後結束，蒙特維多港碼頭特許延長引發的投資仲裁已全部了結，烏拉圭均未支付賠償。Neltume 案的協議已作成判斷；ATCO 案的程序如何終結，仍待 ICSID 公告確認。",
+   "editorNote": "本網頁助理 註：本則依烏拉圭媒體（la diaria、Subrayado）對總統府公告之報導撰寫，尚未取得協議或 ICSID 程序文件，亦未見 ICSID 公告；協議簽署日期未見記載，故裁判／事件日期留空。關於提付仲裁時間，Subrayado 稱 2024 年 4 月，italaw 所列仲裁通知日期為 2024 年 5 月 9 日。投資協定名稱及案號依 italaw。",
+   "tags": [
+    "ICSID",
+    "和解",
+    "撤回仲裁",
+    "港口特許",
+    "烏拉圭",
+    "加拿大",
+    "雙邊投資協定"
+   ],
+   "related": [
+    "2026-10-21-arb-neltume-uruguay-consent-award"
+   ],
+   "sources": [
+    {
+     "label": "la diaria 報導：Montecon 第二名股東終結仲裁（西班牙文）",
+     "url": "https://ladiaria.com.uy/politica/articulo/2026/11/segundo-accionista-de-montecon-puso-fin-al-arbitraje-internacional-contra-el-estado-uruguayo-que-no-debera-pagar-indemnizacion/",
+     "official": false
+    },
+    {
+     "label": "Subrayado 報導：政府宣布與 ATCO 達成協議（西班牙文）",
+     "url": "https://www.subrayado.com.uy/gobierno-anuncio-acuerdo-la-otra-empresa-accionista-montecon-que-desistio-la-demanda-internacional-n1023442",
+     "official": false
+    },
+    {
+     "label": "italaw 案件頁",
+     "url": "https://italaw.com/cases/11579",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:10:54+08:00"
+  },
+  {
+   "id": "2026-11-16-arb-flughafen-zurich-venezuela-us-enforcement",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-13",
+   "importance": 1,
+   "author": "",
+   "title": "Flughafen Zürich 與 IDC 向美國法院聲請執行 2014 年對委內瑞拉的 ICSID 機場特許仲裁判斷",
+   "shortTitle": "機場投資人在美國聲請執行對委內瑞拉判斷",
+   "point": "瑞士、智利投資人就瑪格麗特島機場遭徵收所獲、撤銷程序已維持的判斷聲請承認",
+   "titleOriginal": "Flughafen Zürich A.G. and Gestión e Ingeniería IDC S.A. v. Bolivarian Republic of Venezuela (ICSID Case No. ARB/10/19), petition to enforce award (13 November 2026)",
+   "caseRef": "ICSID Case No. ARB/10/19",
+   "tldr": "瑞士蘇黎世機場公司與智利 IDC 公司在 2014 年就委內瑞拉瑪格麗特島機場經營權遭收回一案贏得 ICSID 判斷，委內瑞拉聲請撤銷，2019 年遭駁回。依報導，兩公司已於 2026 年 11 月 13 日向美國法院聲請執行這份判斷。",
+   "memo": "依 GAR 及 IAReporter 報導，Flughafen Zürich A.G. 與 Gestión e Ingeniería IDC S.A. 於 2026 年 11 月 13 日向美國法院聲請承認及執行其依 1993 年瑞士－委內瑞拉及智利－委內瑞拉雙邊投資協定對委內瑞拉取得之 ICSID 仲裁判斷（ICSID Case No. ARB/10/19）。該判斷作成於 2014 年 11 月 18 日，涉及瑪格麗特島機場經營權遭徵收，委內瑞拉之撤銷聲請業經特別委員會於 2019 年 4 月 15 日駁回。",
+   "context": "兩投資人以聯合體成員身分，依與委內瑞拉新埃斯帕塔州的契約經營瑪格麗特島機場；州政府以行政行為收回經營權，最高法院亦作成相關裁定，投資人主張遭徵收，依 1993 年瑞士－委內瑞拉及智利－委內瑞拉雙邊投資協定於 2010 年向 ICSID 提付仲裁。\n仲裁庭於 2014 年 11 月 18 日作成有利投資人的判斷（一名仲裁人提出部分不同意見）；UNCTAD 資料庫列載的判給金額為 7,900 萬瑞士法郎（約 8,220 萬美元）及 1,940 萬美元。委內瑞拉於 2015 年 3 月聲請撤銷，特別委員會於 2019 年 4 月 15 日作成撤銷決定，判斷獲維持。",
+   "facts": [
+    "IAReporter 文件區列有本案 2026 年 11 月 13 日的執行判斷聲請狀。",
+    "GAR 於 11 月 16 日報導機場投資人向美國法院聲請執行這份「已有 12 年」的 ICSID 判斷，並提及委內瑞拉近期未能阻止 Air Canada 約 4,500 萬美元判斷的執行。"
+   ],
+   "issues": [
+    "ICSID 判斷依《ICSID 公約》第 54 條在美國的承認與執行，以及委內瑞拉可能提出的國家豁免抗辯。"
+   ],
+   "holding": "本則為聲請提出階段，法院尚未作成裁判。",
+   "significance": "委內瑞拉在美國面臨多起 ICSID 判斷的執行程序；本案判斷作成已久，可能涉及時效與利息計算等爭點。後續應注意受理法院、委內瑞拉的答辯與法院裁判。",
+   "editorNote": "本網頁助理 註：本則依 GAR 報導摘要（付費內容）及 IAReporter 文件清單撰寫，尚未取得聲請狀；受理法院名稱、請求金額與利息均未見於可閱讀的內容。判斷金額依 UNCTAD 資料庫，該資料庫未說明各金額所指為何。",
+   "tags": [
+    "ICSID",
+    "承認與執行",
+    "第54條",
+    "委內瑞拉",
+    "瑞士",
+    "智利",
+    "徵收",
+    "機場特許",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 案件頁",
+     "url": "https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB%2F10%2F19",
+     "official": true
+    },
+    {
+     "label": "GAR 報導（付費）",
+     "url": "https://globalarbitrationreview.com/article/airport-investors-bring-venezuela-award-us-court",
+     "official": false
+    },
+    {
+     "label": "UNCTAD 投資爭端資料庫案件頁",
+     "url": "https://investmentpolicy.unctad.org/investment-dispute-settlement/cases/396/flughafen-z-rich-v-venezuela",
+     "official": false
+    },
+    {
+     "label": "italaw 案件頁",
+     "url": "https://www.italaw.com/cases/1524",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-17T23:10:54+08:00"
   }
  ],
  "agenda": [
@@ -9430,6 +9797,18 @@
    "caseRef": "",
    "summary": "Tullow Ghana 依石油協議提起 ICC 仲裁，主張迦納就其營業中斷保險理賠金課稅及罰款約 3.93 億美元違反穩定條款。",
    "status": "仲裁庭於 2026 年 9 月駁回 Tullow 請求；雙方於 11 月宣布就判斷履行達成清償路線圖，細節未公開。"
+  },
+  {
+   "id": "owh-v-rusal",
+   "type": "案件",
+   "court": "COURT",
+   "field": "commercial",
+   "forum": "卡達金融中心民商事法院；英國高等法院等",
+   "name": "OWH 訴 Rusal（LCIA 判斷跨國執行）",
+   "nameOriginal": "OWH SE i.L. v. RTI Ltd and United Company RUSAL IPJSC",
+   "caseRef": "LCIA；CTFIC0064/2025；CL-2025-000313",
+   "summary": "前 VTB 歐洲銀行 OWH 就換匯交易終止款項在 LCIA 仲裁對 Rusal 及其澤西子公司取得逾 2 億歐元判斷，並在英國、澤西島、印度、卡達等地追索執行；Rusal 另依德國－蘇聯投資協定對 OWH 與德國提起仲裁。",
+   "status": "卡達金融中心法院於 2026 年 10 月宣告 Rusal 將卡達控股公司股份移轉予子公司無效，11 月 12 日再釐清後續增資效力；澤西案件在樞密院上訴中。"
   }
  ]
 }
