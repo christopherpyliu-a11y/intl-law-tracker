@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-17T23:16:06+08:00",
-  "lastRunLocal": "2026-11-17 23:16",
+  "lastRun": "2026-11-18T07:14:04+08:00",
+  "lastRunLocal": "2026-11-18 07:14",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：中國 2（司法案件 1、倡議 1）、伊朗 1（事件 1）"
+  "lastRunNote": "新增 3 則：俄羅斯 1（事件 1）、越南 1（政府措施 1）、中國 1（評論 1）"
  },
  "items": [
   {
@@ -247,7 +247,8 @@
    ],
    "related": [
     "2026-11-09-tnr-mekong-viet-tan-witnesses",
-    "2026-10-06-tnr-hrw-lao-critic-missing-thailand"
+    "2026-10-06-tnr-hrw-lao-critic-missing-thailand",
+    "2026-11-16-tnr-albanese-raises-tran-hiep-vietnam"
    ],
    "sources": [
     {
@@ -430,7 +431,8 @@
    "related": [
     "2026-11-05-tnr-russia-zhanna-nemtsova-in-absentia",
     "2026-10-26-tnr-un-sr-russia-unga-report",
-    "2026-11-12-tnr-russia-zolnikova-in-absentia"
+    "2026-11-12-tnr-russia-zolnikova-in-absentia",
+    "2026-11-17-tnr-russia-soldatov-in-absentia"
    ],
    "sources": [
     {
@@ -5351,7 +5353,8 @@
    "related": [
     "2026-10-29-tnr-russia-svetov-in-absentia-sentence",
     "2026-11-11-tnr-russia-grozovsky-in-absentia",
-    "2026-11-12-tnr-russia-zolnikova-in-absentia"
+    "2026-11-12-tnr-russia-zolnikova-in-absentia",
+    "2026-11-17-tnr-russia-soldatov-in-absentia"
    ],
    "sources": [
     {
@@ -6401,7 +6404,8 @@
    "related": [
     "2026-10-23-tnr-viet-tan-consular-access",
     "2026-10-13-tnr-hrw-vietnam-viet-tan",
-    "2026-11-14-tnr-hrw-francophonie-mekong"
+    "2026-11-14-tnr-hrw-francophonie-mekong",
+    "2026-11-16-tnr-albanese-raises-tran-hiep-vietnam"
    ],
    "sources": [
     {
@@ -6658,7 +6662,8 @@
    ],
    "related": [
     "2026-11-05-tnr-russia-zhanna-nemtsova-in-absentia",
-    "2026-11-11-tnr-russia-grozovsky-in-absentia"
+    "2026-11-11-tnr-russia-grozovsky-in-absentia",
+    "2026-11-17-tnr-russia-soldatov-in-absentia"
    ],
    "sources": [
     {
@@ -6732,6 +6737,190 @@
     }
    ],
    "addedAt": "2026-11-16T23:15:51+08:00"
+  },
+  {
+   "id": "2026-11-17-tnr-russia-soldatov-in-absentia",
+   "court": "RU",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Meduza、莫斯科時報",
+   "outletCode": "",
+   "date": "2026-11-17",
+   "eventDate": "2026-11-17",
+   "importance": 2,
+   "author": "",
+   "title": "莫斯科法院以散布軍隊「假訊息」罪，缺席判處流亡倫敦的調查記者 Andrei Soldatov 合併執行十年徒刑",
+   "shortTitle": "俄缺席判流亡記者 Soldatov 十年",
+   "point": "以 2022 年報導 FSB 將領遭捕為「假訊息」定罪；若遭引渡即羈押，並禁經營網站五年",
+   "titleOriginal": "Moscow Court Jails Exiled Journalist Andrei Soldatov to 10 Years in Absentia / Longtime chronicler of Russia's security services, journalist Andrei Soldatov, gets a 10-year sentence in absentia",
+   "caseRef": "",
+   "tldr": "長年報導俄羅斯情治機關、現居倫敦的記者 Soldatov，被莫斯科法院在他不在場的情況下判刑十年，理由是他 2022 年分享談戰時 FSB 將領遭捕的文章與訪談，被認定是散布軍隊「假訊息」。這已是他今年第二次被缺席判刑。",
+   "memo": "依 Meduza 及《莫斯科時報》2026 年 11 月 17 日報導，莫斯科巴斯曼內區法院同日依《俄羅斯聯邦刑法》第 207.3 條第 2 項（散布有關軍隊之「明知虛偽資訊」），缺席判處旅居倫敦之 Agentura.ru 總編輯 Andrei Soldatov 有期徒刑，與其 2026 年 3 月因違反「外國代理人」義務及參與「不受歡迎組織」所受四年徒刑部分合併，總計十年，並諭知如經引渡即予羈押、禁止經營網站五年。檢方指其於 2022 年 6 月發布有關戰時 FSB 將領遭逮捕之文章及訪談連結。Soldatov 稱本案係應 FSB 內部安全部門要求而立案。",
+   "context": "Andrei Soldatov 與 Irina Borogan 長年經營專門報導俄羅斯安全情報機關的網站 Agentura.ru，兩人現居倫敦。依《莫斯科時報》，Soldatov 2022 年即遭列入聯邦通緝名單。\n2026 年 3 月，他已因未履行「外國代理人」義務及參與「不受歡迎組織」活動，被缺席判處四年。俄羅斯近月持續以缺席審判追訴流亡記者與評論員，本站已收錄 Zhanna Nemtsova、Grozovsky、Zolnikova 等案。",
+   "facts": [
+    "依報導，莫斯科巴斯曼內區法院於 2026 年 11 月 17 日（週二）作出缺席判決。",
+    "罪名為公開散布有關軍隊行動之「明知虛偽資訊」（刑法第 207.3 條第 2 項）。",
+    "檢方稱其於 2022 年 6 月在網路頻道分享一篇文章及一段訪談影片連結，內容涉及 FSB 將領因戰事失利遭逮捕的報導。",
+    "十年刑期合併其 2026 年 3 月所受四年徒刑之一部。",
+    "法院另諭知若其遭引渡回俄即予羈押，並禁止經營網站五年。",
+    "Soldatov 在 X 上表示，本案是在他報導 FSB 對外及政治情報部門（第五局）後，應 FSB 內部安全部門要求而立案。"
+   ],
+   "issues": [
+    "以「軍隊假訊息」罪缺席追訴境外記者對其新聞工作的報導，是否構成對新聞自由的跨境壓制？",
+    "缺席判決結合「若引渡即羈押」諭知，對流亡者跨境移動與引渡風險的影響。"
+   ],
+   "holding": "・判決：缺席判處，合併前案後總計十年徒刑。\n・依據：刑法第 207.3 條第 2 項，散布有關軍隊之虛偽資訊。\n・附帶處分：遭引渡即予羈押；禁止經營網站五年。\n・當事人回應：稱係 FSB 內部安全部門因其報導而推動立案。",
+   "significance": "Soldatov 是國際知名的俄羅斯情治機關研究者，十年重刑顯示俄國以缺席判決懲罰流亡記者的力道升高；此類判決可能進一步被用於通緝、引渡請求及依「公民死亡」法限制其在俄財產與領事服務，值得觀察。",
+   "editorNote": "本網頁助理 註：判決日期依《莫斯科時報》「週二」之記載推定為 2026 年 11 月 17 日，與 Meduza 同日報導一致。以下為本網頁助理補充，非來源內容：可與本站「俄羅斯『公民死亡』法與流亡者限制名單」議題對照觀察。",
+   "tags": [
+    "跨國鎮壓",
+    "俄羅斯",
+    "英國",
+    "缺席審判",
+    "流亡記者",
+    "假訊息罪",
+    "外國代理人",
+    "不受歡迎組織",
+    "FSB"
+   ],
+   "related": [
+    "2026-11-12-tnr-russia-zolnikova-in-absentia",
+    "2026-11-11-tnr-russia-grozovsky-in-absentia",
+    "2026-11-05-tnr-russia-zhanna-nemtsova-in-absentia"
+   ],
+   "sources": [
+    {
+     "label": "《莫斯科時報》報導原文",
+     "url": "https://www.themoscowtimes.com/2026/11/17/moscow-court-jails-exiled-journalist-andrei-soldatov-to-10-years-in-absentia-a94287",
+     "official": false
+    },
+    {
+     "label": "Meduza 報導原文",
+     "url": "https://meduza.io/en/news/2026/11/17/longtime-chronicler-of-russia-s-security-services-journalist-andrei-soldatov-gets-a-10-year-sentence-in-absentia",
+     "official": false
+    },
+    {
+     "label": "OVD-Info 快訊",
+     "url": "https://ovd.info/en/express-news/2026/11/17/journalist-andrei-soldatov-has-been-sentenced-absentia-10-years-prison",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T07:14:04+08:00"
+  },
+  {
+   "id": "2026-11-16-tnr-albanese-raises-tran-hiep-vietnam",
+   "court": "VN",
+   "kind": "政府措施",
+   "caseId": "viet-tan-cambodia-abduction",
+   "jurisdiction": "柬埔寨、越南",
+   "outlet": "The Nightly（AAP）",
+   "outletCode": "",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-15",
+   "importance": 1,
+   "author": "",
+   "title": "澳洲總理艾班尼斯在東協峰會場邊會晤越南新總理，提出遭越南羈押的澳洲籍越新黨成員 Tran Hiep 案",
+   "shortTitle": "艾班尼斯向越南總理提 Tran Hiep 案",
+   "point": "兩國總理首次會晤即提領事案件；越南公安部仍稱三人非法越境並承認為越新黨成員",
+   "titleOriginal": "ASEAN Summit: Detained Aussie Tran Hiep tests relationship with Vietnamese partner",
+   "caseRef": "",
+   "tldr": "澳洲總理艾班尼斯 11 月 15 日在馬尼拉東協峰會期間與越南新任總理首次見面，提到 9 月在柬埔寨失聯、後來被越南關押的墨爾本民主運動者 Tran Hiep。越南仍說三人是非法入境被捕，人權觀察則認為他們可能是從柬埔寨被擄走。",
+   "memo": "依澳洲 The Nightly 2026 年 11 月 16 日報導，澳洲總理艾班尼斯於同年 11 月 15 日在馬尼拉東協峰會場邊與越南總理 Le Minh Hung 首次會晤，依澳方會談紀要，雙方討論領事事項，包括 2026 年 9 月在柬埔寨失聯後遭越南羈押之墨爾本民主運動者 Tran Hiep 一案。越南公安部稱 Tran Hiep 與挪威籍 Nguyen Duc Thuan 等三人係自柬埔寨非法越境時被捕，並承認為越南列為恐怖組織之越新黨成員；人權觀察則指三人似未入境越南，可能係遭自柬埔寨擄走。",
+   "context": "越新黨是越南海外民主運動政黨，越南政府將其列為恐怖組織。三名成員（含澳洲籍 Tran Hiep、挪威籍 Nguyen Duc Thuan）2026 年 9 月在柬埔寨失聯後遭越南羈押並以恐怖主義等罪名起訴。\n本站先前已收錄人權觀察聲明、領事探視、柬埔寨村民目擊遭擄等報導；澳洲與越南於 2024 年 3 月簽署全面戰略夥伴關係。",
+   "facts": [
+    "依報導，艾班尼斯與越南總理 Le Minh Hung 於 11 月 15 日（週日）在馬尼拉東協峰會場邊首次會晤。",
+    "依澳方會談紀要，雙方討論領事事項，包括 Tran Hiep 案，並談及區域和平與兩國全面戰略夥伴關係。",
+    "越南公安部稱三人試圖自柬埔寨非法進入越南時被捕，並承認為越新黨成員。",
+    "人權觀察亞洲部主任 Elaine Pearson 稱，三人似未進入越南，可能遭自柬埔寨擄走。",
+    "報導稱已向越南外交部求證，但未載其回應。"
+   ],
+   "issues": [
+    "移居國以外交層級提出領事案件，能否促成遭跨境擄送者獲釋或公正審判？",
+    "越南「非法越境」說法與柬埔寨目擊者證詞之矛盾，涉及強迫失蹤與不遣返原則。"
+   ],
+   "holding": "・澳方：總理在首次雙邊會晤中提出 Tran Hiep 等領事案件。\n・越方：公安部維持三人非法越境被捕、承認越新黨身分之說法；外交部未回應媒體詢問。\n・人權團體：人權觀察認為三人可能遭擄，並指越南日益施壓鄰國遣返海外異議者。",
+   "significance": "這是澳洲政府首長層級公開提出本案的紀錄，但報導未載任何具體成果；後續觀察越南是否開庭、澳洲與挪威能否持續領事探視，以及柬埔寨是否回應擄人指控。",
+   "editorNote": "本網頁助理 註：報導僅引述澳方會談紀要，未載艾班尼斯具體要求內容（如釋放或公正審判），亦未載越方回應。",
+   "tags": [
+    "跨國鎮壓",
+    "越南",
+    "柬埔寨",
+    "澳洲",
+    "越新黨",
+    "強迫失蹤",
+    "領事探視",
+    "東協"
+   ],
+   "related": [
+    "2026-11-09-tnr-mekong-viet-tan-witnesses",
+    "2026-11-14-tnr-hrw-francophonie-mekong"
+   ],
+   "sources": [
+    {
+     "label": "The Nightly 報導",
+     "url": "https://thenightly.com.au/politics/asean-summit-detained-aussie-tran-hiep-tests-relationship-with-vietnamese-partner-c-23165833",
+     "official": false
+    },
+    {
+     "label": "The New Daily 報導",
+     "url": "https://www.thenewdaily.com.au/news/world/asia-news/2026/11/16/albanese-vietnam-detained-aussi",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T07:14:04+08:00"
+  },
+  {
+   "id": "2026-11-12-tnr-jamestown-huang-yi-hao-analysis",
+   "court": "CN",
+   "kind": "評論",
+   "caseId": "huang-yi-hao-attacks",
+   "jurisdiction": "台灣",
+   "outlet": "詹姆斯城基金會《中國簡報》",
+   "outletCode": "",
+   "date": "2026-11-12",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Matt Brazil（BluePath Labs、詹姆斯城基金會）",
+   "title": "詹姆斯城基金會分析：黃逸豪遇襲案顯示中國對台灣批評者的跨國鎮壓可能升級為人身暴力，但單一案件尚不足證明北京轉向俄式境外暗殺",
+   "shortTitle": "詹姆斯城：黃逸豪案或示暴力升級",
+   "point": "作者認為歸責北京尚未證實、單案不足以認定策略轉向，但台灣地位使此案值得密切研究",
+   "titleOriginal": "Taiwan Attacks and Possible Violence in PRC Repression",
+   "caseRef": "",
+   "tldr": "美國智庫研究員分析黃逸豪先後遭潑穢物、被撞的案件，認為這可能代表中國對台灣批評者的跨國鎮壓從騷擾走向人身攻擊，但他也提醒，單一案件還不能證明北京已改採像俄羅斯那樣的境外暗殺手段。",
+   "memo": "依詹姆斯城基金會研究員 Matt Brazil 於 2026 年 11 月 12 日發表於《中國簡報》之分析，脫口秀演員黃逸豪 2026 年 5 月演出場地遭潑灑穢物、9 月 11 日遭蓄意撞傷，依台灣檢方指控，係一名中國境內代號「K」之人以新台幣 45 萬元懸賞，意圖使其重傷而無法演出，10 月 21 日已有 5 人遭起訴；中國國台辦否認涉入。作者認為本案顯示中國對台灣批評者之跨國鎮壓可能擴及人身暴力，惟歸責北京尚未證實，單一案件亦不足認定其已轉向俄式境外暗殺。",
+   "context": "黃逸豪因表演中嘲諷習近平，2026 年 5 月 29 日演出場地遭潑漆及穢物、9 月 11 日騎機車時遭汽車蓄意撞擊。台北地檢署 9 月就潑漆案起訴 2 人，新北地檢署 10 月 21 日就撞人案起訴 5 人；國台辦 10 月 28 日否認涉入。",
+   "facts": [
+    "作者引述台灣檢方指控：中國境內代號「K」之人出價新台幣 45 萬元，要求重傷黃逸豪。",
+    "依檢方，中間人自 7 月起追蹤黃逸豪行蹤，據報曾在其機車裝設 GPS。",
+    "檢方稱行凶目的在打斷其手腳、使其無法演出，起因是嘲諷習近平的相聲段子。",
+    "作者列舉 2015 年銅鑼灣書店店員失蹤、2020 年林榮基在台北遭潑漆，以及美國私家偵探受中國執法機關委託騷擾中國公民遭判刑等前例。"
+   ],
+   "issues": [
+    "境外勢力透過在地幫派與中間人施暴時，如何在法律上將行為歸責於國家？",
+    "單一暴力案件是否足以推論中國跨國鎮壓策略轉向？"
+   ],
+   "holding": "・作者論點：黃逸豪案顯示中國對台灣批評者的跨國鎮壓可能擴及人身暴力。\n・保留：歸責北京尚未證實；單一案件不足以證明北京有意轉向俄式境外暗殺。\n・建議：鑑於台灣在習近平「民族復興」論述中的核心地位，本案值得密切研究。",
+   "significance": "海外智庫開始將黃逸豪案置於中國跨國鎮壓手法演變的脈絡中討論；後續新北地院審理能否釐清「K」的身分與指使鏈，是判斷歸責問題的關鍵。",
+   "editorNote": "本則為評論，內容代表作者個人見解，非官方立場。本網頁助理 註：本則發表於 11 月 12 日，本站於後續檢索時始發現而補收。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "台灣",
+    "黃逸豪",
+    "在地協力者",
+    "人身攻擊",
+    "懸賞"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "詹姆斯城基金會分析原文",
+     "url": "https://jamestown.substack.com/p/taiwan-attacks-and-possible-violence",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T07:14:04+08:00"
   }
  ],
  "agenda": [
@@ -6869,7 +7058,7 @@
    "nameOriginal": "Viet Tan members taken from Cambodia (Nguyen Duc Thuan, Tran Hiep, Thai Cong Truong Son)",
    "caseRef": "",
    "summary": "三名越新黨成員（含挪威籍、澳洲籍各一）2026 年 9 月在柬埔寨失聯後遭越南羈押，越南稱其非法入境並控以恐怖主義與偽造文書。",
-   "status": "三人以恐怖主義等罪名遭起訴，關押於胡志明市 B34 監獄；澳洲、挪威籍兩人已獲領事協助，Tran Hiep 向領事否認非法入境。"
+   "status": "三人以恐怖主義等罪名遭起訴，關押於胡志明市 B34 監獄；澳洲總理艾班尼斯 11 月 15 日於東協峰會場邊向越南總理提出 Tran Hiep 案，越方仍稱三人非法越境。"
   },
   {
    "id": "khieo-lapchanh-disappearance",
