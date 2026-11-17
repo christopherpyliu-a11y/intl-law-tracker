@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-17T23:38:46+08:00",
-  "lastRunLocal": "2026-11-17 23:38",
+  "lastRun": "2026-11-18T07:32:06+08:00",
+  "lastRunLocal": "2026-11-18 07:32",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 6 則：美國 2（司法案件 1、政策動態 1）、台灣 1（政策動態 1）、亞太與其他 3（政策動態 1、研究報告 2）"
+  "lastRunNote": "新增 3 則：美國 2（司法案件 1、監理指引 1）、英國 1（監理指引 1）"
  },
  "items": [
   {
@@ -3224,7 +3224,8 @@
     "英國"
    ],
    "related": [
-    "2026-10-09-fin-esma-ccp-tokenised-collateral-cfe"
+    "2026-10-09-fin-esma-ccp-tokenised-collateral-cfe",
+    "2026-11-16-fin-boe-ccp-mobilisation-policy"
    ],
    "sources": [
     {
@@ -4105,7 +4106,8 @@
    "related": [
     "2026-10-29-fin-kalshi-sues-missouri",
     "2026-10-27-fin-cftc-sues-utah-prediction-markets",
-    "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction"
+    "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction",
+    "2026-11-17-fin-ca4-kalshi-maryland-affirmed"
    ],
    "sources": [
     {
@@ -5776,7 +5778,8 @@
     "2026-11-11-fin-cftc-warns-kalshi-possible-charges",
     "2026-11-12-fin-louisiana-court-tro-prediction-markets",
     "2026-11-13-fin-cftc-doj-sue-louisiana",
-    "2026-11-16-fin-us-senators-cftc-geofencing-letter"
+    "2026-11-16-fin-us-senators-cftc-geofencing-letter",
+    "2026-11-17-fin-ca4-kalshi-maryland-affirmed"
    ],
    "sources": [
     {
@@ -7434,7 +7437,8 @@
     "美國"
    ],
    "related": [
-    "2026-11-05-fin-cftc-impartial-access-geofencing"
+    "2026-11-05-fin-cftc-impartial-access-geofencing",
+    "2026-11-17-fin-cftc-stays-kalshi-trump-mention-markets"
    ],
    "sources": [
     {
@@ -8343,7 +8347,8 @@
    ],
    "related": [
     "2026-10-23-fin-mas-bloom-bnm-bot-join",
-    "2026-11-16-fin-mas-bundesbank-project-simbolon"
+    "2026-11-16-fin-mas-bundesbank-project-simbolon",
+    "2026-11-16-fin-boe-ccp-mobilisation-policy"
    ],
    "sources": [
     {
@@ -8635,7 +8640,8 @@
     "2026-11-12-fin-louisiana-court-tro-prediction-markets",
     "2026-11-12-fin-louisiana-ag-sues-prediction-markets",
     "2026-11-12-fin-doj-cftc-sue-arkansas-prediction-markets",
-    "2026-11-05-fin-cftc-impartial-access-geofencing"
+    "2026-11-05-fin-cftc-impartial-access-geofencing",
+    "2026-11-17-fin-ca4-kalshi-maryland-affirmed"
    ],
    "sources": [
     {
@@ -9418,6 +9424,204 @@
     }
    ],
    "addedAt": "2026-11-17T23:38:46+08:00"
+  },
+  {
+   "id": "2026-11-17-fin-ca4-kalshi-maryland-affirmed",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國馬里蘭州",
+   "outlet": "Bloomberg Law",
+   "outletCode": "BLAW",
+   "date": "2026-11-17",
+   "eventDate": "2026-11-17",
+   "importance": 2,
+   "author": "",
+   "title": "美國第四巡迴上訴法院以分歧判決維持馬里蘭聯邦地院駁回 Kalshi 初步禁制令之裁定，認其運動預測市場可能須受馬里蘭州博弈法規管制",
+   "shortTitle": "第四巡迴維持駁回 Kalshi 禁制令",
+   "point": "合議庭意見分歧，認運動事件合約可能受馬里蘭州博弈法管制",
+   "titleOriginal": "Kalshi Takes Mixed Appellate Hit, Loses on Maryland Regulation",
+   "caseRef": "KalshiEX LLC v. Martin, No. 1:25-cv-01283（D. Md.）",
+   "tldr": "Kalshi 想請法院先禁止馬里蘭州用賭博法管它的運動預測市場，地方法院 2025 年拒絕。依 Bloomberg Law 報導，第四巡迴上訴法院 11 月 17 日以意見分歧的判決維持原裁定，認為這類合約很可能仍要受州博弈法規管。這讓站在州政府一方的上訴法院判決又多了一件。",
+   "memo": "依 Bloomberg Law 2026 年 11 月 17 日報導，美國聯邦第四巡迴上訴法院於同日以合議庭意見分歧之判決，維持馬里蘭聯邦地方法院 2025 年駁回 KalshiEX LLC 對馬里蘭州博弈主管機關聲請初步禁制令之裁定（KalshiEX LLC v. Martin, No. 1:25-cv-01283），認 Kalshi 於 CFTC 監理之指定契約市場提供之運動預測市場，可能仍須受馬里蘭州博弈法規管制。報導引述之一份意見認為，博弈管制向屬州傳統警察權，無國會明確表示不得推定聯邦法已排除州之併行管轄權。",
+   "context": "Kalshi 於 2025 年起訴馬里蘭州博弈主管機關，主張《商品交易法》賦予 CFTC 專屬管轄，排除州博弈法對指定契約市場上事件合約之適用；馬里蘭聯邦地院於 2025 年駁回其初步禁制令聲請，Kalshi 上訴第四巡迴，該院於 2026 年 5 月 7 日言詞辯論。\n各巡迴法院就此爭點已有分歧：依 DeFi Rate 訴訟追蹤整理，第三巡迴 2026 年 4 月以 2 比 1 判 Kalshi 勝訴（紐澤西州案），第九巡迴 8 月 28 日判 Kalshi 敗訴（內華達州案），第六巡迴 9 月 25 日亦判 Kalshi 敗訴。\nCFTC 近月對多州提起訴訟，主張聯邦法優先適用。",
+   "facts": [
+    "2026 年 11 月 17 日：第四巡迴上訴法院合議庭以分歧意見維持地院駁回初步禁制令之裁定（依 Bloomberg Law 報導）。",
+    "原審：馬里蘭聯邦地院 2025 年駁回 Kalshi 初步禁制令聲請。",
+    "報導稱本判決使支持州政府管制預測市場之巡迴法院判決再增一件。",
+    "報導標題稱 Kalshi 受「好壞參半」之上訴結果，惟可見內容未說明有利於 Kalshi 之部分。"
+   ],
+   "issues": [
+    "《商品交易法》是否明示或默示排除州博弈法對指定契約市場運動事件合約之適用？",
+    "博弈管制屬州傳統警察權時，聯邦法優先適用是否須有國會明確表示？",
+    "巡迴法院分歧是否將使爭議進入聯邦最高法院？"
+   ],
+   "holding": "・結果：維持地院駁回初步禁制令之裁定；合議庭意見分歧。\n・實體判斷（初步）：Kalshi 之運動預測市場可能須受馬里蘭州博弈法規管制。\n・報導引述之意見：博弈管制長期屬州傳統警察權，在國會未明確表示下，不應推定聯邦法已取代馬里蘭州之併行管轄權。",
+   "significance": "第四巡迴加入第九、第六巡迴支持州政府之陣營，與第三巡迴之見解形成更明顯之巡迴分歧，提高最高法院受理之可能。對 CFTC 近期對多州提起之優先適用訴訟及 11 月 5 日公平近用解釋，亦構成不利之上訴審見解。後續可注意判決全文、各意見之立場及 Kalshi 是否聲請全院重審或向最高法院聲請移審。",
+   "editorNote": "本網頁助理 註：本則依 Bloomberg Law 報導撰寫，該報導多數內容須付費閱讀，本網頁助理僅能讀取開頭部分，未能取得判決全文；多數意見理由、引述之意見屬協同或不同意見，以及報導所稱「好壞參半」之具體內容均未能確認。案號為地院案號，上訴審案號未能查得。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先適用",
+    "Kalshi",
+    "第四巡迴上訴法院",
+    "馬里蘭州",
+    "美國"
+   ],
+   "related": [
+    "2026-11-13-fin-cftc-doj-sue-louisiana",
+    "2026-11-02-fin-illinois-prediction-markets-injunction-appeal",
+    "2026-11-05-fin-cftc-impartial-access-geofencing"
+   ],
+   "sources": [
+    {
+     "label": "Bloomberg Law 報導",
+     "url": "https://news.bloomberglaw.com/securities-law/kalshi-takes-mixed-appellate-hit-loses-on-maryland-regulation",
+     "official": false
+    },
+    {
+     "label": "馬里蘭聯邦地院原審裁定（Justia）",
+     "url": "https://law.justia.com/cases/federal/district-courts/maryland/mddce/1:2025cv01283/581016/70/",
+     "official": false
+    },
+    {
+     "label": "DeFi Rate 預測市場訴訟追蹤",
+     "url": "https://defirate.com/prediction-markets/legal/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T07:32:06+08:00"
+  },
+  {
+   "id": "2026-11-17-fin-cftc-stays-kalshi-trump-mention-markets",
+   "court": "CFTC",
+   "kind": "監理指引",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "Cointelegraph；CoinDesk",
+   "outletCode": "CT",
+   "date": "2026-11-17",
+   "eventDate": "2026-11-13",
+   "importance": 2,
+   "author": "",
+   "title": "CFTC 命令暫停 Kalshi 部分川普「提及」事件合約之上市，以審查其操縱風險，Kalshi 表示遵循",
+   "shortTitle": "CFTC 暫停 Kalshi 川普發言合約",
+   "point": "11 月 13 日命令暫停上市待進一步程序，Kalshi 須於 12 月 11 日前回應",
+   "titleOriginal": "CFTC Temporarily Halts Some Kalshi Trump Speech Prediction Markets；Predictions platform Kalshi complies with order to halt Trump mention contracts",
+   "caseRef": "",
+   "tldr": "Kalshi 有一類合約讓人押注川普總統會不會說出某些字詞。依報導，CFTC 11 月 13 日下令暫停其中部分合約，理由是 CFTC 9 月已提醒這類合約容易被操縱，但 Kalshi 沒有更新申報說明。CFTC 尚未認定合約違法，Kalshi 表示不同意但會遵守。",
+   "memo": "依 Cointelegraph 與 CoinDesk 2026 年 11 月 17 日報導，美國商品期貨交易委員會（CFTC）於 2026 年 11 月 13 日命令暫停 Kalshi 部分以川普總統發言字詞為標的之「提及」事件合約（含川普綽號合約及 TRUMPSAY 系列）之上市，於進一步程序前有效，CFTC 尚未就該等合約是否符合聯邦法作出最終認定；報導指 CFTC 認 Kalshi 於 9 月 22 日幕僚提醒此類合約易受操縱後仍上市相關合約，未更新自我認證內容。Kalshi 須於 2026 年 12 月 11 日前回應，並表示將遵循命令。",
+   "context": "指定契約市場得以自我認證方式上市新合約，CFTC 得審查並暫停其上市。CFTC 幕僚 2026 年 9 月 22 日發布提醒，指提及型合約可能推定易受操縱。\nCFTC 先前已就 Kalshi 多檔新合約自我認證是否適當向其發出警告（見相關則）；Kalshi 已先行應 CFTC 要求停止運動類提及合約。",
+   "facts": [
+    "2026 年 11 月 13 日：CFTC 命令暫停 Kalshi 部分川普提及合約上市，待進一步程序（依 Cointelegraph 報導）。",
+    "涉及合約：「川普 2027 年前會說出哪些綽號」合約、TRUMPSAY 系列及其他部分提及合約。",
+    "CFTC 尚未作出合約是否符合聯邦法之最終決定。",
+    "Kalshi 回應期限：2026 年 12 月 11 日。",
+    "Kalshi 執行長 Tarek Mansour 表示不同意此決定，主張川普發言可能影響金融市場，故該等合約具經濟價值；Kalshi 發言人稱將遵循命令。",
+    "依 CoinDesk 報導，Kalshi 仍上市副總統 JD Vance 發言相關合約；CFTC 是否對其他平台發出類似命令尚不明。"
+   ],
+   "issues": [
+    "以特定人發言字詞為標的之事件合約是否易受操縱，是否符合指定契約市場核心原則？",
+    "CFTC 暫停自我認證合約上市之程序與審查標準為何？"
+   ],
+   "holding": "・措施：暫停 Kalshi 部分川普提及合約之上市，待進一步程序。\n・理由（依報導）：Kalshi 於 9 月 22 日幕僚操縱風險提醒後上市綽號合約，未更新自我認證以處理該疑慮。\n・程序：CFTC 尚未最終認定；Kalshi 須於 12 月 11 日前回應。",
+   "significance": "此為 CFTC 在積極主張聯邦對事件合約專屬管轄之同時，對個別合約設計之操縱風險行使審查權之例，顯示其對政治人物發言類合約採較嚴格立場。後續可注意 Kalshi 12 月 11 日之回應、CFTC 最終決定，以及是否擴及其他平台或其他官員之提及合約。",
+   "editorNote": "本網頁助理 註：本則依 Cointelegraph、CoinDesk 報導撰寫；本網頁助理未能找到 CFTC 命令全文，報導亦未載明命令所依據之條文。命令日期 11 月 13 日取自 Cointelegraph 報導。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "CFTC",
+    "Kalshi",
+    "市場操縱",
+    "美國"
+   ],
+   "related": [
+    "2026-11-11-fin-cftc-warns-kalshi-possible-charges"
+   ],
+   "sources": [
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review",
+     "official": false
+    },
+    {
+     "label": "CoinDesk 報導",
+     "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+     "official": false
+    },
+    {
+     "label": "CNBC 報導",
+     "url": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T07:32:06+08:00"
+  },
+  {
+   "id": "2026-11-16-fin-boe-ccp-mobilisation-policy",
+   "court": "BOE",
+   "kind": "監理指引",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "英格蘭銀行（Bank of England）",
+   "outletCode": "BOE",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-16",
+   "importance": 2,
+   "author": "",
+   "title": "英格蘭銀行發布政策聲明，說明如何運用要求與許可權限，讓新設中央對手方於取得完整認可前在限額內實際營運（含 DLT 架構之 CCP）",
+   "shortTitle": "英格蘭銀行定案新 CCP 試營運機制",
+   "point": "新 CCP 得於最長 12 個月動員期內以最低限額實際營運，技術中立適用 DLT",
+   "titleOriginal": "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
+   "caseRef": "",
+   "tldr": "想在英國新設清算所（CCP）的業者，過去要先完全取得認可才能營運。英格蘭銀行 11 月 16 日定案一套「動員期」做法：認可後可先在很小的業務量內實際上線測試，最長約 12 個月，部分規則可暫時調整。依報導，這套做法技術中立，區塊鏈架構的清算所也適用。",
+   "memo": "英格蘭銀行於 2026 年 11 月 16 日發布政策聲明（Statement of Policy），說明其依《2000 年金融服務與市場法》（FSMA）附表 17A 準用第 55L(5) 條之要求權限及第 138BA 條之規則許可權限，協助新設中央對手方（CCP）進行動員：取得認可之 CCP 得申請設定最低業務限額之要求（VREQ），並搭配有限度之規則修改或豁免，於原則上最長 12 個月之動員期內以最低規模實際營運測試；基本規則（Fundamental Rules）不得豁免，許可不得實質排除 CCP 規則手冊之適用，延長僅限例外情形並須於期限屆至前同意。",
+   "context": "英格蘭銀行近年推動新金融市場基礎設施（FMI）之引入，並曾表示將就新 CCP 動員方式進行諮詢。\n同期英格蘭銀行另於 2026 年 10 月 29 日就 CCP 收受代幣化擔保品徵詢意見（至 2027 年 2 月 12 日），並經營數位證券沙盒（DSS）；依報導，CCP 本身不得加入 DSS，但同集團其他實體可能符合資格。",
+   "facts": [
+    "2026 年 11 月 16 日：英格蘭銀行發布政策聲明及相關最終政策。",
+    "權限依據：FSMA 附表 17A 第 9B(7) 段準用第 55L(5) 條（要求權限，用於設定最低限額）；附表 17A 第 10 段準用第 138BA 條（規則許可權限，用於修改或豁免規則）。",
+    "動員期原則上最長 12 個月，CCP 得請求較短期間；延長僅限例外情形並須於原期限屆至前同意。",
+    "僅限已取得認可之 CCP；規則許可原則上與設定最低限額之 VREQ 併同給予。",
+    "動員期限於最低程度之實際測試，不得用於擴展業務策略與系統建置；基本規則不得豁免。",
+    "依 Genfinity 報導，英格蘭銀行僅收到三份諮詢回應，並維持技術中立立場，未採納回應者要求之 DLT 專屬監理期待。"
+   ],
+   "issues": [
+    "新設 CCP 於完整營運前之實際測試應如何兼顧系統風險控管？",
+    "技術中立框架下，DLT 原生 CCP 如何適用既有 CCP 規則？"
+   ],
+   "holding": "・適用對象：申請英國認可之新設 CCP，取得認可後方得申請。\n・工具：以 VREQ 設定最低業務限額，並搭配有限之規則修改或豁免。\n・期間：原則上最長 12 個月，例外得延長。\n・限制：基本規則不得豁免；許可不得實質排除 CCP 規則手冊；動員期限於最低限度實際測試；申請人於英格蘭銀行決定前不宜公開申請。\n・技術：依報導採技術中立，DLT 原生 CCP 適用相同標準。",
+   "significance": "此機制為新進清算所（包括以區塊鏈建構、可收受代幣化擔保品者）提供在英國受監理下上線測試之管道，與代幣化擔保品諮詢、數位證券沙盒共同構成英國代幣化金融市場基礎設施之政策組合。可注意首批申請者，以及 2027 年 2 月代幣化擔保品諮詢結束後之政策。",
+   "editorNote": "本網頁助理 註：英格蘭銀行政策聲明頁面本身未提及 DLT；DLT 原生 CCP 同等適用、回應件數與技術中立立場等內容取自 Genfinity 與 The Crypto Times 報導。",
+   "tags": [
+    "代幣化",
+    "中央對手方",
+    "金融市場基礎設施",
+    "DLT",
+    "英格蘭銀行",
+    "英國"
+   ],
+   "related": [
+    "2026-10-29-fin-boe-ccp-tokenised-collateral-cp",
+    "2026-11-13-fin-meridian-fx-apac-results"
+   ],
+   "sources": [
+    {
+     "label": "英格蘭銀行政策聲明（Statement of Policy）",
+     "url": "https://www.bankofengland.co.uk/paper/2026/sop/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps",
+     "official": true
+    },
+    {
+     "label": "Genfinity 分析報導",
+     "url": "https://genfinity.io/2026/11/16/bank-of-england-new-ccp-mobilization-regime-dlt-native-clearinghouses/",
+     "official": false
+    },
+    {
+     "label": "The Crypto Times 報導",
+     "url": "https://www.cryptotimes.io/2026/11/17/bank-of-england-sets-out-ccp-framework-confirms-dlt-coverage/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T07:32:06+08:00"
   }
  ],
  "agenda": [
@@ -9890,6 +10094,56 @@
    "url": "https://www.ctee.com.tw/news/20261116702014-430301",
    "relatedId": "2026-11-16-fin-taiwan-stablecoin-public-hearing",
    "caseId": "taiwan-vasp-act"
+  },
+  {
+   "id": "2026-11-19-us-senate-banking-sec-nominees-hearing",
+   "date": "2026-11-19",
+   "court": "US",
+   "title": "參議院銀行委員會舉行 SEC 委員被提名人 Kristin Johnson、Steven Levine 任命聽證會",
+   "note": "美東時間上午 10 時，Dirksen 538 室；同場另有財政部等其他被提名人",
+   "url": "https://www.banking.senate.gov/hearings/11/12/2026/nomination-hearing",
+   "relatedId": "2026-11-12-fin-white-house-sec-cftc-nominations",
+   "caseId": "us-crypto-market-structure"
+  },
+  {
+   "id": "2026-11-26-eu-tokenisation-expert-roundtable",
+   "date": "2026-11-26",
+   "court": "EU",
+   "title": "歐盟執委會（FISMA）金融市場代幣化專家圓桌會議",
+   "note": "布魯塞爾，歐洲中部時間 09:30–17:00；探討代幣化之公共政策角色",
+   "url": "https://finance.ec.europa.eu/events/expert-roundtable-tokenisation-financial-markets-2026-11-26_en",
+   "relatedId": "",
+   "caseId": ""
+  },
+  {
+   "id": "2026-12-04-us-utah-kalshi-founders-arraignment",
+   "date": "2026-12-04",
+   "court": "US",
+   "title": "猶他州刑事案：Kalshi 共同創辦人初次到庭及傳訊",
+   "note": "猶他州第三司法區法院（鹽湖城），當地時間上午 8:30；依 Sports Betting Dime 報導",
+   "url": "https://www.sportsbettingdime.com/news/industry/utah-district-court-summons-kalshi-co-founders-to-appear-in-person-for-initial-arraignment/",
+   "relatedId": "2026-10-28-fin-utah-criminal-charges-kalshi",
+   "caseId": "us-prediction-markets-preemption"
+  },
+  {
+   "id": "2026-12-11-cftc-kalshi-mention-markets-response",
+   "date": "2026-12-11",
+   "court": "CFTC",
+   "title": "Kalshi 就 CFTC 暫停川普提及合約命令提出回應之期限",
+   "note": "依 Cointelegraph 報導",
+   "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review",
+   "relatedId": "2026-11-17-fin-cftc-stays-kalshi-trump-mention-markets",
+   "caseId": ""
+  },
+  {
+   "id": "2026-12-15-cftc-24-7-trading-roundtable",
+   "date": "2026-12-15",
+   "court": "CFTC",
+   "title": "CFTC 衍生性商品 24/7 交易圓桌會議（含代幣化、保證金議題）",
+   "note": "美東時間下午 1–4 時，CFTC 華府總部，公開並線上直播（Release No. 9327-26 公布議程）",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9327-26",
+   "relatedId": "",
+   "caseId": ""
   }
  ],
  "cases": [
@@ -10034,7 +10288,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "路易斯安那州法院 11 月 12 日單方核發暫時限制令（11 月 30 日審初步禁制令），CFTC 與聯邦政府 11 月 13 日於路易斯安那東區聯邦地院起訴該州請求禁止執行（第 12 州）；司法部與 CFTC 同週起訴阿肯色州；紐約南區聯邦地院駁回 Novig 初步禁制令，Novig 已上訴第二巡迴；密蘇里州訴訟擴大至六家業者；CFTC 11 月 5 日要求指定契約市場 30 日內停止依州別封鎖；伊利諾州案已上訴第七巡迴。另九名民主黨參議員 11 月 16 日致函 CFTC 要求撤回禁止依州別封鎖之解釋，請於 11 月 23 日前回覆。"
+   "status": "第四巡迴上訴法院 11 月 17 日依報導以分歧判決維持駁回 Kalshi 對馬里蘭州之初步禁制令，巡迴分歧擴大；路易斯安那州法院 11 月 12 日單方核發暫時限制令（11 月 30 日審初步禁制令），CFTC 與聯邦政府 11 月 13 日起訴該州（第 12 州），同週起訴阿肯色州；Novig 已上訴第二巡迴，密蘇里州訴訟擴大至六家；CFTC 11 月 5 日要求停止依州別封鎖，九名參議員要求撤回；猶他州刑事案 Kalshi 共同創辦人 12 月 4 日初次到庭。"
   },
   {
    "id": "kr-tokenised-securities",
