@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-18T23:12:57+08:00",
-  "lastRunLocal": "2026-11-18 23:12",
+  "lastRun": "2026-11-19T07:00:53+08:00",
+  "lastRunLocal": "2026-11-19 07:00",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 3 則：投資仲裁 3（仲裁判斷 1、案件動態 1、實務評論 1）",
+  "lastRunNote": "新增 2 則：商務仲裁 1（法院裁判 1）、投資仲裁 1（案件動態 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -9234,6 +9234,148 @@
     }
    ],
    "addedAt": "2026-11-18T23:12:57+08:00"
+  },
+  {
+   "id": "2026-11-16-arb-sghc-crescent-v-nioc-service-separate-entity",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "crescent-v-nioc",
+   "jurisdiction": "新加坡",
+   "outlet": "新加坡高等法院",
+   "outletCode": "SGHC",
+   "date": "2026-11-16",
+   "eventDate": "2026-07-27",
+   "importance": 2,
+   "author": "",
+   "title": "新加坡高等法院認定伊朗國家石油公司（NIOC）屬獨立實體而非國家機關，Crescent 以郵寄方式送達 24 億美元仲裁判斷執行文件有效",
+   "shortTitle": "新加坡法院認定對 NIOC 送達有效",
+   "point": "NIOC 是與政府區隔的獨立實體，不必經外交途徑送達；延長撤銷期限聲請亦遭大幅限縮",
+   "titleOriginal": "Crescent Petroleum Company International Ltd and another v National Iranian Oil Company [2026] SGHC 234",
+   "caseRef": "[2026] SGHC 234; HC/OA 155/2025 (HC/SUM 1392/2025)",
+   "tldr": "石油天然氣公司 Crescent 集團在倫敦仲裁中獲判伊朗國家石油公司（NIOC）應賠償約 24.3 億美元，並取得新加坡法院許可執行。NIOC 主張自己是伊朗國家機關，必須經外交管道送達才有效；新加坡高等法院不採，認為 NIOC 是與政府分開的獨立實體，郵寄送達合法，只給 NIOC 14 天提出撤銷執行許可的聲請。",
+   "memo": "新加坡高等法院 Chua Lee Ming 法官於 2026 年 7 月 27 日（判決理由於同年 11 月 16 日公開）就 Crescent Petroleum 訴伊朗國家石油公司案（[2026] SGHC 234）駁回 NIOC 確認送達無效之聲請，認定 NIOC 雖由伊朗政府全資持有並受其監督，惟依其設立依據與章程，係與政府行政機關區隔之獨立實體，不適用《國家豁免法》第 14 條第 1 項外交送達程序；伊朗法亦無強制或禁止外國文書送達方式之規定，故郵寄送達有效。法院僅給予 NIOC 14 日聲請撤銷執行許可，並命其負擔訴訟費用；上訴法院已於 2026 年 9 月 11 日准許 NIOC 上訴。",
+   "context": "Crescent Petroleum（CPCIL）與 NIOC 簽訂天然氣買賣契約（2003 年由 CPCIL 讓與其全資子公司 Crescent Gas），約定 NIOC 自 2005 年 12 月 1 日起供氣 25 年，爭議依約定程序仲裁，仲裁地為倫敦（判決未載明仲裁機構）。Crescent 於 2009 年 7 月 15 日以 NIOC 未供氣為由提起仲裁，仲裁庭多數於 2014 年 7 月 31 日作成管轄權與責任判斷，2021 年 9 月 27 日部分判斷（救濟）命 NIOC 給付約 24.3 億美元損害賠償。\nCrescent 隨後在多國聲請執行，英國亦有關於倫敦不動產的執行爭議。2025 年 2 月，新加坡高等法院准許於伊朗境外送達，並以單方程序許可執行救濟判斷，給予 NIOC 送達後 14 日聲請撤銷許可。",
+   "facts": [
+    "2025 年 4 月 23 日，Crescent 嘗試將法院文書親送 NIOC 德黑蘭總部未果；雙方對經過說法不一。",
+    "2025 年 4 月 26 日，Crescent 經伊朗郵政以掛號方式寄送文書，NIOC 承認收受。",
+    "NIOC 於 2025 年 5 月 16 日提出 SUM 1392，請求確認送達無效、日後須經兩國外交部送達，並請求延長撤銷執行許可期限二個月又 14 日。",
+    "NIOC 於本階段未主張國家豁免，同意《國家豁免法》第 16 條第 2 項豁免問題不在本次審理範圍。"
+   ],
+   "issues": [
+    "NIOC 是否屬《國家豁免法》第 16 條第 1 項所稱「國家」（政府機關），抑或與行政機關區隔的「獨立實體」，從而適用或排除第 14 條第 1 項外交送達程序？",
+    "若 NIOC 非國家，本件送達是否違反伊朗法而依《2021 年法院規則》第 8 號命令第 2 條第 6 項無效？",
+    "NIOC 得否延長聲請撤銷執行許可的期限？"
+   ],
+   "holding": "・法院援引 Tsavliris 及 Cooperativa Muratori 案標準，認為國家所有、控制、董事由官員擔任或執行公共職能均非決定性因素，政府設立獨立實體的目的（例如限制責任）是重要考量；英國 Gecamines 案的「強力推定」是否適用於新加坡，因未經爭執而不予判斷。\n・就 NIOC 而言，其依法設立、股份全由政府持有、須遵循石油部政策等事實屬中性；但其章程賦予獨立法人格與廣泛商業權限、石油部與其以契約往來、有獨立預算、經理人與會計師，伊朗官方意見亦認政府不為國營公司債務負責，足認其為與行政機關區隔的獨立實體，第 14 條第 1 項不適用。\n・法院不採 Baccus、Kensington 等先例及伊美求償法庭、美國法院依 FSIA 所為認定，認其所適用之標準不同；並指出 NIOC 在伊美求償法庭曾主張自己不是政府部門，與本案立場不一致。\n・依 Humpuss 及 Cosmetic Care 案，送達方式僅在違反外國法強制規定或遭明文禁止時才屬違法；雙方專家均同意伊朗法未規範外國文書送達，NIOC 主張只能由法院執達員送達之說不成立，故送達有效。\n・NIOC 早已收受文書並有充分時間準備，2026 年 2 月底爆發的戰事不能解釋其延誤，法院僅給予自 2026 年 7 月 27 日起 14 日聲請撤銷執行許可，並命 NIOC 負擔訴訟費用 22,000 新加坡元及雜支。",
+   "significance": "本案釐清新加坡法院判斷國營企業是否屬「國家」的方法，著重政府設立獨立實體的目的與章程設計，對向國營企業送達及執行仲裁判斷的實務具參考價值；國家豁免本身則留待後續撤銷許可程序處理。上訴法院已准許 NIOC 上訴，仍待審理。依評論部落格所述，英國最高法院預定於 2027 年 1 月審理 NIOC 與 Crescent 間有關倫敦不動產執行的上訴。",
+   "editorNote": "本網頁助理 註：本則依新加坡法院 eLitigation 網站公布之判決撰寫；判決理由所載日期為 2026 年 7 月 27 日，公開版本日期為 11 月 16 日。英國最高法院 2027 年 1 月審理一節係依 Livia Barratt 部落格文章（2026 年 11 月 12 日），尚未與英國最高法院官方資料核對。",
+   "tags": [
+    "新加坡",
+    "承認與執行",
+    "國家豁免",
+    "國營事業",
+    "送達",
+    "伊朗",
+    "天然氣",
+    "撤銷仲裁判斷"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "新加坡高等法院判決 [2026] SGHC 234",
+     "url": "https://www.elitigation.sg/gd/s/2026_SGHC_234",
+     "official": true
+    },
+    {
+     "label": "新加坡判決 PDF（Singapore Law Watch）",
+     "url": "https://www.singaporelawwatch.sg/Portals/0/Docs/Judgments/2026/2026%20SGHC%20234.pdf",
+     "official": false
+    },
+    {
+     "label": "評論：Crescent、NIOC 與英國最高法院 1 月審理（Livia Barratt 部落格）",
+     "url": "https://liviabarratt.substack.com/p/beyond-reach-crescent-nioc-and-the",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T07:00:53+08:00"
+  },
+  {
+   "id": "2026-11-17-arb-panama-first-quantum-formal-talks",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "first-quantum-v-panama",
+   "jurisdiction": "巴拿馬",
+   "outlet": "新聞報導",
+   "outletCode": "NEWS",
+   "date": "2026-11-17",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "巴拿馬宣布與 First Quantum 就 Cobre Panamá 銅礦展開正式協商，談判範圍包括終結對巴拿馬提起的國際仲裁",
+   "shortTitle": "巴拿馬與 First Quantum 展開銅礦正式協商",
+   "point": "總統穆利諾要求新協議須一併解決對國家的仲裁；同時辦理公眾參與，礦場尚未獲准復工",
+   "titleOriginal": "Cobre Panamá Update: Commencement of Formal Discussions for a New Agreement (First Quantum Minerals, 17 November 2026)",
+   "caseRef": "",
+   "tldr": "加拿大礦業公司 First Quantum 的 Cobre Panamá 銅礦，2023 年因巴拿馬最高法院宣告開採契約違憲而停擺，公司隨後對巴拿馬提起仲裁。巴拿馬總統 11 月宣布與公司展開正式談判，條件之一是解決所有對國家的仲裁；公司表示歡迎，但雙方都沒有公布時程。",
+   "memo": "巴拿馬總統穆利諾於 2026 年 11 月中旬宣布，政府將由商工部長率跨部會小組，依跨部會委員會報告及五項原則（礦產屬國家所有、國家利益最大化、主權、嚴格環保、合憲合法），與 First Quantum 之子公司 Minera Panamá 就 Cobre Panamá 銅礦新協議展開正式協商，協商範圍包括解決對巴拿馬提起之國際仲裁，並同步辦理公眾參與程序；First Quantum 於 11 月 17 日表示歡迎。協議不採礦業特許形式，礦場是否復工仍待新法律架構及政府核准。",
+   "context": "Cobre Panamá 為 First Quantum 在巴拿馬經營的大型銅礦，停產前約占全球礦產銅 1.5%。2023 年 11 月，巴拿馬最高法院在大規模抗議後宣告開採契約違憲，礦場進入「保存與安全管理」狀態。First Quantum 隨後對巴拿馬提起仲裁、請求數十億美元賠償；2025 年 3 月巴拿馬要求公司先中止仲裁才願對話，公司同月指示律師著手中止程序，最終聽證延至 2026 年。另有權利金公司 Franco-Nevada 對巴拿馬的相關仲裁。\n2026 年稍早，巴拿馬允許公司處理並出口庫存礦石；同年 9 月跨部會委員會提出 17 項建議，第一項即建議授權談判一項終結待決國際仲裁的協議。",
+   "facts": [
+    "巴拿馬總統穆利諾於電視談話中宣布展開正式協商，由商工部長 Julio Moltó 領導跨部會小組，與 First Quantum 的當地子公司 Minera Panamá 談判。",
+    "談判範圍包括就業、經濟利益、環境監督及解決對巴拿馬的待決仲裁程序；政府要求任何協議須一併解決所有仲裁。",
+    "任何協議不會是礦業特許，政府要求由公司出資、不得延長的最終封礦計畫；公眾參與程序須在協議成立前完成。",
+    "First Quantum 於 2026 年 11 月 17 日發布新聞稿表示歡迎，並將以委員會報告及總統原則為基礎談判；雙方均未公布時程。"
+   ],
+   "issues": [
+    "地主國以終結投資仲裁作為重新談判投資契約的前提，對待決仲裁程序（中止、撤回或和解）有何影響？",
+    "最高法院宣告契約違憲後，以新法律架構重啟投資的協商如何處理已提出的條約或契約求償？"
+   ],
+   "holding": "本則為案件動態：巴拿馬政府授權與 First Quantum 正式協商新協議，並將解決待決國際仲裁列為談判內容；仲裁本身尚無新的程序決定。",
+   "significance": "若雙方達成協議，First Quantum 及相關投資人對巴拿馬的高額仲裁可能以撤回或和解告終，為「以談判取代仲裁」的重要案例；反之，談判破裂則仲裁可能恢復進行。後續須留意協議內容、公眾參與結果，以及仲裁程序是否正式撤回。",
+   "editorNote": "本網頁助理 註：本則依 First Quantum 新聞稿、Newsroom Panama、The Deep Dive 及 MINING.COM、OE Digital 等新聞報導撰寫。各報導均未載明仲裁之機構、所依條約、案號及求償金額，本則因此不予記載；IAReporter 同日報導（付費內容）僅閱讀標題。Newsroom Panama 稱總統於 11 月 17 日報導前之「週一晚間」宣布，The Deep Dive 則記為 11 月 17 日宣布，故 eventDate 留空。",
+   "tags": [
+    "巴拿馬",
+    "加拿大",
+    "礦業",
+    "和解",
+    "國家契約",
+    "投資條約仲裁"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "First Quantum 新聞稿（BNN Bloomberg 轉載）",
+     "url": "https://bnnbloomberg.ca/press-releases/2026/11/17/cobre-panama-update-commencement-of-formal-discussions-for-a-new-agreement",
+     "official": false
+    },
+    {
+     "label": "Newsroom Panama 報導",
+     "url": "https://newsroompanama.com/2026/11/17/the-cobre-panama-mine-first-quantum-is-willing-to-negotiate-a-new-agreement/",
+     "official": false
+    },
+    {
+     "label": "The Deep Dive 報導",
+     "url": "https://thedeepdive.ca/panama-opens-formal-talks-with-first-quantum-on-new-cobre-panama-agreement/",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導（付費）",
+     "url": "https://www.iareporter.com/articles/parties-announce-formal-settlement-discussions-regarding-high-stakes-mining-arbitrations-against-panama/",
+     "official": false
+    },
+    {
+     "label": "MINING.COM 報導：巴拿馬要求 First Quantum 中止法律程序（2025 年 3 月）",
+     "url": "https://www.mining.com/panama-asks-first-quantum-to-end-legal-proceedings/",
+     "official": false
+    },
+    {
+     "label": "OE Digital 報導：First Quantum 中止仲裁（2025 年 3 月）",
+     "url": "https://energynews.oedigital.com/mining/2025/03/20/first-quantum-has-suspended-mine-arbitration-says-panama-president",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T07:00:53+08:00"
   }
  ],
  "agenda": [
@@ -10024,6 +10166,30 @@
    "caseRef": "",
    "summary": "英國 JKX 集團主張俄羅斯法院以「極端主義」為由沒收其經營 Koshekhablskoye 氣田之 Yuzhgazenergie 等事業，構成違法徵收。",
    "status": "2026 年 11 月依報導推進條約仲裁，仲裁機構、所依條約與求償金額尚未公開。"
+  },
+  {
+   "id": "crescent-v-nioc",
+   "type": "案件",
+   "court": "COURT",
+   "field": "commercial",
+   "forum": "新加坡高等法院、英國法院",
+   "name": "Crescent 訴伊朗國家石油公司（仲裁判斷執行）",
+   "nameOriginal": "Crescent Petroleum Company International Ltd & Crescent Gas Corporation Ltd v. National Iranian Oil Company",
+   "caseRef": "[2026] SGHC 234; HC/OA 155/2025",
+   "summary": "Crescent 集團就 NIOC 未依 25 年天然氣買賣契約供氣，在倫敦仲裁獲判約 24.3 億美元賠償，並在新加坡、英國等地聲請執行。",
+   "status": "新加坡高等法院認定送達有效並限期 NIOC 聲請撤銷執行許可，NIOC 已獲准上訴；英國最高法院據報將於 2027 年 1 月審理相關上訴。"
+  },
+  {
+   "id": "first-quantum-v-panama",
+   "type": "案件",
+   "court": "NEWS",
+   "field": "investment",
+   "forum": "",
+   "name": "First Quantum 訴巴拿馬（Cobre Panamá 銅礦）",
+   "nameOriginal": "First Quantum Minerals / Minera Panamá v. Republic of Panama",
+   "caseRef": "",
+   "summary": "巴拿馬最高法院 2023 年宣告 Cobre Panamá 銅礦開採契約違憲、礦場停產後，First Quantum 等投資人對巴拿馬提起國際仲裁求償數十億美元。",
+   "status": "仲裁已中止；2026 年 11 月雙方展開正式協商，巴拿馬要求新協議一併解決全部仲裁。"
   }
  ]
 }
