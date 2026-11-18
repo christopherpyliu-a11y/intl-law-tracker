@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-18T07:32:06+08:00",
-  "lastRunLocal": "2026-11-18 07:32",
+  "lastRun": "2026-11-18T23:50:27+08:00",
+  "lastRunLocal": "2026-11-18 23:50",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：美國 2（司法案件 1、監理指引 1）、英國 1（監理指引 1）"
+  "lastRunNote": "新增 4 則：美國 2（政策動態 2）、香港 1（政策動態 1）、南韓 1（政策動態 1）"
  },
  "items": [
   {
@@ -328,7 +328,8 @@
     "香港"
    ],
    "related": [
-    "2026-10-23-fin-hsbc-redcoin-payme-launch"
+    "2026-10-23-fin-hsbc-redcoin-payme-launch",
+    "2026-11-16-fin-hk-fs-paul-chan-va-dealing-custody-bill"
    ],
    "sources": [
     {
@@ -1851,7 +1852,8 @@
     "2026-10-01-fin-sec-crypto-custody-proposal",
     "2026-10-23-fin-sec-fy2027-exam-priorities",
     "2026-10-26-fin-okxice-issuer-objections",
-    "2026-11-11-fin-okxice-tsv-launch-date"
+    "2026-11-11-fin-okxice-tsv-launch-date",
+    "2026-11-16-fin-senators-letter-sec-tokenized-stock-aml"
    ],
    "sources": [
     {
@@ -6899,7 +6901,8 @@
    ],
    "related": [
     "2026-11-12-fin-korea-fsc-hack-withdrawal-freeze-no-action",
-    "2026-11-13-fin-korea-min-daba-jan-9-target"
+    "2026-11-13-fin-korea-min-daba-jan-9-target",
+    "2026-11-17-fin-korea-fsc-daba-submission-next-week"
    ],
    "sources": [
     {
@@ -7885,7 +7888,8 @@
    ],
    "related": [
     "2026-10-26-fin-okxice-issuer-objections",
-    "2026-10-05-fin-wilmerhale-sec-innovation-exemption"
+    "2026-10-05-fin-wilmerhale-sec-innovation-exemption",
+    "2026-11-16-fin-senators-letter-sec-tokenized-stock-aml"
    ],
    "sources": [
     {
@@ -8715,7 +8719,8 @@
     "南韓"
    ],
    "related": [
-    "2026-11-08-fin-korea-daba-draft-bank-led-stablecoin"
+    "2026-11-08-fin-korea-daba-draft-bank-led-stablecoin",
+    "2026-11-17-fin-korea-fsc-daba-submission-next-week"
    ],
    "sources": [
     {
@@ -9622,6 +9627,242 @@
     }
    ],
    "addedAt": "2026-11-18T07:32:06+08:00"
+  },
+  {
+   "id": "2026-11-17-fin-fed-waller-tokenization-central-bank-money",
+   "court": "FED",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "Bitcoin.com News",
+   "outletCode": "BTC",
+   "date": "2026-11-17",
+   "eventDate": "2026-11-17",
+   "importance": 1,
+   "author": "",
+   "title": "聯準會理事 Waller 於清算所（The Clearing House）年會演講：穩定幣、代幣化存款與代幣化貨幣市場基金將並存，央行貨幣須為代幣化支付之基礎",
+   "shortTitle": "Fed 理事 Waller：代幣化須以央行貨幣為基礎",
+   "point": "預期穩定幣與代幣化存款並存，並以幣安駭案提醒私鑰與智慧合約風險",
+   "titleOriginal": "Fed Governor Sees Stablecoins, Tokenized Deposits Coexisting in Financial System",
+   "caseRef": "",
+   "tldr": "美國聯準會理事 Waller 在銀行業年會上表示，未來穩定幣、銀行發行的代幣化存款和代幣化貨幣基金會同時存在，各有適合的用途；但整個系統的最底層仍必須是中央銀行的錢。他也提醒，近期幣安遭駭顯示代幣化帶來安全、責任歸屬與法律問題。",
+   "memo": "依 Bitcoin.com News 及 Altcoin Buzz 2026 年 11 月 17 日至 18 日報導，美國聯邦準備理事會理事 Christopher Waller 於 2026 年 11 月 17 日在紐約清算所（The Clearing House）年會演講，表示穩定幣、代幣化存款及代幣化貨幣市場基金預期將並存，央行貨幣應維持為支付體系之基礎；聯準會將提供核心支付與結算基礎設施、與業界溝通並監測金融穩定風險。Waller 並以幣安遭駭事件為例，指出私鑰外洩、錯誤交易、智慧合約漏洞及遭棄置區塊鏈上資產等安全、責任與法律問題。",
+   "context": "GENIUS Act 於 2025 年 7 月簽署，與 OCC 施行規則預定 2027 年 1 月 18 日生效；美國銀行業另由清算所等組織建置代幣化存款清算結算網路。\nWaller 為聯準會支付創新議題之主要發言人，先前曾主張私部門透過競爭推動支付創新、聯準會提供基礎設施。\n幣安於 2026 年 10 月遭駭，FBI 認定為北韓所為，本站另有追蹤。",
+   "facts": [
+    "演講日期 2026 年 11 月 17 日，地點為紐約清算所年會（依報導）。",
+    "Waller 表示穩定幣已開始在卡組織參與者間用於幕後清償債務（依 Altcoin Buzz 報導）。",
+    "Waller 提及清算所為建置代幣化存款清算結算網路的團體之一。",
+    "Waller 以幣安遭駭為例說明代幣化之安全與法律風險。"
+   ],
+   "issues": [
+    "代幣化存款與穩定幣的監理待遇差異是否影響競爭中立？",
+    "央行貨幣如何以技術上可行方式作為代幣化市場的最終結算資產？",
+    "遭駭、錯誤交易或區塊鏈遭棄置時的責任歸屬與法律救濟。"
+   ],
+   "holding": "・並存：穩定幣、代幣化存款與代幣化貨幣市場基金各有適用場景，例如國際企業支付或大型證券交易結算，不會由單一方案主導。\n・基礎：央行貨幣須維持在系統基礎，代幣化與傳統支付方式應並存供選擇。\n・分工：私部門透過競爭開發解決方案；聯準會提供核心支付與結算基礎設施、擔任召集者，並監測金融穩定風險。\n・風險：私鑰外洩、錯誤交易、智慧合約漏洞及「殭屍鏈」上受困資產等安全、責任與法律問題。\n・AI：代幣化與 AI 可能相互促進，代理式商務仍處早期。",
+   "significance": "在 GENIUS Act 施行前夕，聯準會理事表態支持多種代幣化貨幣並存，但強調以央行貨幣為最終結算資產，可觀察聯準會後續在支付帳戶、Fedwire 及代幣化準備金方面的具體措施。",
+   "editorNote": "本網頁助理 註：聯準會網站演講全文未能開啟，內容依 Bitcoin.com News 及 Altcoin Buzz 報導整理；Altcoin Buzz 稱演講刊載於聯準會網站，日期為 11 月 17 日。",
+   "tags": [
+    "代幣化",
+    "穩定幣",
+    "代幣化存款",
+    "GENIUS Act",
+    "聯準會",
+    "Waller",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Bitcoin.com News 報導",
+     "url": "https://news.bitcoin.com/regulation-and-legal/fed-governor-stablecoins-tokenized-deposits-coexisting-financial-system/",
+     "official": false
+    },
+    {
+     "label": "Altcoin Buzz 報導",
+     "url": "https://www.altcoinbuzz.io/tokenization-needs-central-bank-money-at-its-core-fed-governor-says",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T23:50:27+08:00"
+  },
+  {
+   "id": "2026-11-16-fin-senators-letter-sec-tokenized-stock-aml",
+   "court": "SEC",
+   "kind": "政策動態",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-16",
+   "importance": 1,
+   "author": "",
+   "title": "四名民主黨參議員致函 SEC 主席 Atkins，質疑代幣化證券交易場所創新豁免之洗錢防制與投資人保護缺口，提出 13 項問題",
+   "shortTitle": "四參議員質疑 SEC 代幣化股票豁免",
+   "point": "提 13 項問題，要求 30 日內說明洗錢防制如何適用於移出平台之代幣",
+   "titleOriginal": "Democratic senators warn SEC's tokenized stock exemption has illicit finance gaps",
+   "caseRef": "",
+   "tldr": "SEC 9 月推出「創新豁免」，讓代幣化股票交易場所免於註冊為交易所。四名民主黨參議員去信 SEC 主席，擔心代幣化股票被轉到未經身分驗證的錢包，洗錢防制規範也不清楚，要求 SEC 在 30 天內回答 13 個問題。",
+   "memo": "依 The Block 2026 年 11 月 16 日及 Inside Bitcoins 11 月 18 日報導，美國參議員 Angela Alsobrooks、Catherine Cortez Masto、Mark Warner 及 Ruben Gallego 於 2026 年 11 月 16 日致函證券交易委員會（SEC）主席 Paul Atkins，就 SEC 2026 年 9 月 17 日發布、豁免代幣化證券交易場所註冊為交易所之五年期創新豁免提出 13 項問題，質疑其洗錢防制規定過於模糊，未明定代幣移出交易場所後之認識客戶及洗錢防制要求，亦未處理該等場所是否屬《銀行秘密法》金融機構，並要求於 30 日內回覆。",
+   "context": "SEC 於 2026 年 9 月 17 日發布代幣化證券交易場所創新豁免，為期五年。依該豁免營運之 OKXICE 預定 11 月 23 日上線，惟已有逾 60 家上市公司表示不同意其股票被代幣化。\n期中選舉後民主黨取得參議院多數，2027 年起將主導相關委員會。",
+   "facts": [
+    "致函日期 2026 年 11 月 16 日（依 Inside Bitcoins 報導），收件人為 SEC 主席 Atkins。",
+    "署名者：Alsobrooks（馬里蘭州）、Cortez Masto（內華達州）、Warner（維吉尼亞州）、Gallego（亞利桑那州）。",
+    "共 13 項問題，要求 30 日內回覆（依 Inside Bitcoins 報導）。",
+    "依 The Block 報導，此信由 Politico 首先披露。"
+   ],
+   "issues": [
+    "代幣化證券交易場所是否應依《銀行秘密法》視為金融機構？",
+    "代幣化股票轉入未驗證錢包後，認識客戶及洗錢防制義務由誰負擔？",
+    "發行公司是否應有權拒絕其股票被代幣化？",
+    "散戶在價格形成方面的保護是否足夠？"
+   ],
+   "holding": "・洗錢防制：豁免中的不法金融條文過於模糊，未說明交易與代幣移出平台後如何適用 KYC／AML。\n・轉讓限制：未明定平台是否須限制代幣受讓人，經驗證者購得之代幣可能轉入未驗證錢包。\n・投資人保護：散戶定價保護不足。\n・發行人選擇權：主張發行人應可選擇不被代幣化。\n・要求：SEC 就 13 項問題於 30 日內回覆。",
+   "significance": "OKXICE 即將依創新豁免上線之際，參議院民主黨人施壓 SEC，2027 年民主黨主導參議院後可能以監督或立法方式限縮豁免範圍；可觀察 SEC 回覆內容及是否修正豁免條件。",
+   "editorNote": "本網頁助理 註：參議員 Alsobrooks 新聞稿頁面未能開啟，致函日期、問題數及回覆期限依 Inside Bitcoins 報導；The Block 報導未載明致函日期。",
+   "tags": [
+    "代幣化",
+    "代幣化股票",
+    "創新豁免",
+    "洗錢防制",
+    "SEC",
+    "參議院",
+    "美國"
+   ],
+   "related": [
+    "2026-11-11-fin-okxice-tsv-launch-date",
+    "2026-10-05-fin-wilmerhale-sec-innovation-exemption"
+   ],
+   "sources": [
+    {
+     "label": "參議員 Alsobrooks 新聞稿",
+     "url": "https://www.alsobrooks.senate.gov/news/press-releases/alsobrooks-leads-colleagues-in-pushing-sec-for-answers-transparency-on-tokenized-stock-change/",
+     "official": true
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
+     "official": false
+    },
+    {
+     "label": "Inside Bitcoins 報導",
+     "url": "https://insidebitcoins.com/news/senators-sec-tokenized-stock-aml-letter",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T23:50:27+08:00"
+  },
+  {
+   "id": "2026-11-16-fin-hk-fs-paul-chan-va-dealing-custody-bill",
+   "court": "OTHER",
+   "kind": "政策動態",
+   "caseId": "hk-stablecoin-tokenisation",
+   "jurisdiction": "香港",
+   "outlet": "香港特區政府新聞公報",
+   "outletCode": "HKGOV",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-16",
+   "importance": 1,
+   "author": "",
+   "title": "香港財政司司長陳茂波於 Bloomberg 全球監管論壇致詞：虛擬資產交易及託管服務發牌條例草案年底前提交，並說明穩定幣、代幣化基金與 AI 代理之監理方向",
+   "shortTitle": "港財政司：年底前提虛擬資產交易託管法案",
+   "point": "將發牌擴及虛擬資產交易、諮詢、管理及託管；首批兩家穩定幣持牌人已推港元幣",
+   "titleOriginal": "Speech by FS at Bloomberg Global Regulatory Forum 2026",
+   "caseRef": "",
+   "tldr": "香港財政司司長表示，政府將在今年底前提出法案，把虛擬資產的買賣、諮詢、管理和保管業務納入發牌監理；他也提到首批兩家穩定幣持牌機構已推出港元穩定幣，代幣化基金一年成長約七倍，並強調使用 AI 代理的金融機構仍須自負責任。",
+   "memo": "香港特別行政區財政司司長陳茂波於 2026 年 11 月 16 日在 Bloomberg 全球監管論壇 2026 致詞，表示政府將於年底前提交條例草案，將發牌制度擴及虛擬資產交易、諮詢、管理及託管服務，秉持「相同活動、相同風險、相同監管」原則；並指出首輪 36 家穩定幣發行人申請者中已有 2 家於 4 月獲發牌照並推出港元穩定幣，公眾代幣化基金一年間成長約七倍；另強調部署 AI 代理之機構及其監督人員仍須負責。",
+   "context": "香港《穩定幣條例》於 2025 年 8 月 1 日施行，金管局 2026 年首批發牌。證監會及財經事務及庫務局先前已就虛擬資產交易及託管服務發牌制度發表諮詢總結，並擬另設虛擬資產諮詢及管理服務制度。\n金管局 2026 年 11 月推出 SAGE 計畫研究代理型 AI 監理。",
+   "facts": [
+    "致詞日期 2026 年 11 月 16 日，政府新聞公報同日發布。",
+    "首輪 36 家穩定幣申請者中，2 家於 4 月獲發牌照，均已推出港元穩定幣。",
+    "公眾代幣化基金規模約一年成長七倍；兩檔代幣化貨幣市場基金自上月起於持牌平台全天候交易。",
+    "證監會調查顯示 95% 大型機構預期一年內加速使用 AI，三成已使用 AI 代理。",
+    "36 個 AI 代理項目獲選進入聯合監管沙盒測試。"
+   ],
+   "issues": [
+    "虛擬資產交易及託管發牌制度與現行虛擬資產交易平台牌照、銀行託管規範如何銜接？",
+    "去中心化服務的責任主體如何認定？",
+    "AI 代理之授權範圍、身分識別與人為介入機制之監理標準。"
+   ],
+   "holding": "・立法：年底前提交條例草案，將發牌擴及虛擬資產交易、諮詢、管理及託管。\n・原則：相同活動、相同風險、相同監管；去中心化不減輕問責。\n・穩定幣：應解決實際商業與支付問題，例如跨境支付。\n・代幣化產品：與傳統產品適用相同要求，並就新風險增設保障。\n・AI：機構須知悉其 AI 代理身分、授權範圍及人為介入方式，責任仍由部署機構及監督人員承擔。",
+   "significance": "確認香港虛擬資產場外交易及託管發牌法案的提交時程，完成後將補齊交易平台以外之服務監理；可觀察法案於立法會首讀時間及過渡安排。",
+   "editorNote": "",
+   "tags": [
+    "加密資產",
+    "虛擬資產",
+    "穩定幣",
+    "代幣化",
+    "人工智慧",
+    "穩定幣條例",
+    "香港財政司",
+    "香港"
+   ],
+   "related": [
+    "2026-10-26-fin-sfc-tokenised-fund-secondary-trading"
+   ],
+   "sources": [
+    {
+     "label": "香港政府新聞公報（財政司司長致詞全文）",
+     "url": "https://www.info.gov.hk/gia/general/202611/16/P2026111600447.htm",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-18T23:50:27+08:00"
+  },
+  {
+   "id": "2026-11-17-fin-korea-fsc-daba-submission-next-week",
+   "court": "KR",
+   "kind": "政策動態",
+   "caseId": "kr-digital-asset-basic-act",
+   "jurisdiction": "南韓",
+   "outlet": "Bloomingbit",
+   "outletCode": "BB",
+   "date": "2026-11-17",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "依報導南韓金融委員會將於下週虛擬資產委員會會議時公布《數位資產基本法》政府草案並送國會，同時公開法人投資虛擬資產指引",
+   "shortTitle": "韓金委會擬下週送數位資產基本法草案",
+   "point": "依報導將同步公布約 3,500 家上市公司與專業投資法人之投資指引",
+   "titleOriginal": "South Korea's FSC to Unveil Digital Asset Basic Act, Corporate Crypto Investment Guidelines Next Week; 3,500 Firms in Focus",
+   "caseRef": "",
+   "tldr": "韓國媒體報導，南韓金融委員會預計下週公布政府版《數位資產基本法》草案並送交國會，同時公布上市公司等法人投資加密資產的規則。這些都還是報導中的計畫，尚未正式發布。",
+   "memo": "依 Bloomingbit 2026 年 11 月 17 日引述 News1 報導，南韓金融委員會預計於下週召開虛擬資產委員會時公布政府版《數位資產基本法》草案並提交國會，草案擬依業務類型區分虛擬資產服務業者並納管場外交易及仲介業者；同時將公布約 3,500 家上市公司及登記為專業投資人之法人以投資為目的交易虛擬資產之指引。國會政務委員會目標於 2027 年 1 月完成立法。",
+   "context": "南韓 2023 年制定《虛擬資產使用者保護法》作為第一階段立法，第二階段《數位資產基本法》涵蓋發行、交易所治理及韓元穩定幣。金融委員會 2025 年 2 月公布法人分階段參與虛擬資產市場路線圖，相關指引延宕。\n本站先前收錄政府草案擬設交易所大股東持股上限、以銀行過半聯盟發行韓元穩定幣等報導。",
+   "facts": [
+    "報導日期 2026 年 11 月 17 日，引述 News1 報導。",
+    "草案預定下週隨虛擬資產委員會會議公布並送交國會（依報導）。",
+    "法人投資指引適用對象約 3,500 家上市公司及登記為專業投資人之法人（依報導）。",
+    "依報導，因南韓缺乏規範場外交易業者之法律依據，法人指引因此延宕，草案將設場外交易及仲介業者規範。"
+   ],
+   "issues": [
+    "法人大額交易如何透過場外交易機制避免衝擊交易所價格？",
+    "韓元穩定幣發行主體限制是否於政府草案中定案？"
+   ],
+   "holding": "・草案內容（依報導）：依業務類型區分虛擬資產服務業者，增設場外交易及仲介業者規範。\n・法人指引：上市公司及專業投資法人得以投資目的交易虛擬資產，並考慮以場外交易等方式進行。\n・時程：國會政務委員會目標 2027 年 1 月完成立法，執政黨議員閔丙德目標 1 月 9 日。",
+   "significance": "政府草案正式提出後，南韓第二階段加密資產立法將進入國會審議，韓元穩定幣發行資格與交易所持股上限為主要爭點；法人投資開放亦將影響南韓市場結構。",
+   "editorNote": "本則依媒體報導之預定計畫，政府草案及指引尚未正式公布。eventDate 留空，因公布日期尚未確定。",
+   "tags": [
+    "加密資產",
+    "穩定幣",
+    "數位資產基本法",
+    "法人投資",
+    "金融委員會",
+    "南韓"
+   ],
+   "related": [
+    "2026-11-13-fin-korea-min-daba-jan-9-target",
+    "2026-11-08-fin-korea-daba-draft-bank-led-stablecoin"
+   ],
+   "sources": [
+    {
+     "label": "Bloomingbit 報導",
+     "url": "https://en.bloomingbit.io/feed/news/124687",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T23:50:27+08:00"
   }
  ],
  "agenda": [
@@ -10144,6 +10385,16 @@
    "url": "https://www.cftc.gov/PressRoom/PressReleases/9327-26",
    "relatedId": "",
    "caseId": ""
+  },
+  {
+   "id": "2026-12-16-sec-senators-tokenized-stock-letter-reply",
+   "date": "2026-12-16",
+   "court": "SEC",
+   "title": "四名參議員要求 SEC 就代幣化股票創新豁免 13 項問題回覆之期限",
+   "note": "依報導為致函（11 月 16 日）後 30 日，日期由本網頁助理推算，可能有出入",
+   "url": "",
+   "relatedId": "2026-11-16-fin-senators-letter-sec-tokenized-stock-aml",
+   "caseId": "us-crypto-market-structure"
   }
  ],
  "cases": [
@@ -10354,7 +10605,7 @@
    "nameOriginal": "Digital Asset Basic Act (South Korea)",
    "caseRef": "",
    "summary": "南韓第二階段加密資產立法，規範數位資產發行、流通、交易所治理及韓元穩定幣發行人資格。",
-   "status": "依報導政府版草案預計 11 月內提出，擬設交易所大股東持股上限並限銀行主導聯盟發行韓元穩定幣；執政黨議員閔丙德 11 月 13 日表示目標 2027 年 1 月 9 日前完成立法。"
+   "status": "依報導金融委員會擬於 11 月下旬虛擬資產委員會會議時公布政府版草案並送交國會，同步公布法人投資指引；執政黨議員閔丙德目標 2027 年 1 月 9 日完成立法。"
   },
   {
    "id": "kenya-vasp-act",
