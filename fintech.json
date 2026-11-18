@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-18T23:50:27+08:00",
-  "lastRunLocal": "2026-11-18 23:50",
+  "lastRun": "2026-11-19T07:28:44+08:00",
+  "lastRunLocal": "2026-11-19 07:28",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：美國 2（政策動態 2）、香港 1（政策動態 1）、南韓 1（政策動態 1）"
+  "lastRunNote": "新增 2 則：美國 1（政策動態 1）、阿聯 ADGM 1（司法案件 1）"
  },
  "items": [
   {
@@ -586,7 +586,8 @@
     "2026-10-02-fin-icba-sues-occ-trust-charters",
     "2026-10-24-fin-canada-draft-stablecoin-regulations",
     "2026-10-27-fin-occ-community-banks-stablecoin-issuers",
-    "2026-11-04-fin-mayer-brown-occ-genius-final-rule"
+    "2026-11-04-fin-mayer-brown-occ-genius-final-rule",
+    "2026-11-18-fin-senators-treasury-state-issuer-safe-harbor"
    ],
    "sources": [
     {
@@ -8565,7 +8566,8 @@
    ],
    "related": [
     "2026-10-31-fin-fbi-binance-tradertraitor-blocklist",
-    "2026-11-05-fin-fed-occ-query-banks-binance-hack"
+    "2026-11-05-fin-fed-occ-query-banks-binance-hack",
+    "2026-11-18-fin-binance-adgm-worldwide-freezing-order"
    ],
    "sources": [
     {
@@ -9863,6 +9865,133 @@
     }
    ],
    "addedAt": "2026-11-18T23:50:27+08:00"
+  },
+  {
+   "id": "2026-11-18-fin-senators-treasury-state-issuer-safe-harbor",
+   "court": "US",
+   "kind": "政策動態",
+   "caseId": "genius-act-implementation",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-18",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "六名跨黨派參議員致函財政部，要求將 GENIUS Act 穩定幣安全港擴及州監理發行人",
+   "shortTitle": "六參議員促財政部給州發行人安全港",
+   "point": "指財政部提案僅保護申請聯邦執照者，要求州與聯邦監理立足點相同",
+   "titleOriginal": "Senators: Treasury must ensure 'equal footing' for stablecoin issuers in GENIUS Act implementation",
+   "caseRef": "",
+   "tldr": "美國《GENIUS Act》允許規模較小的穩定幣發行人選擇受州政府監理。六名兩黨參議員寫信給財政部長，抱怨財政部的施行提案只讓申請聯邦執照、取得豁免的發行人享有過渡期保護，州執照發行人卻沒有，要求一視同仁。",
+   "memo": "依 The Block 及 TokenPost 2026 年 11 月 18 日報導，美國參議員 Lummis、Gillibrand、Alsobrooks、Ricketts、Cramer 及 Warner 聯名致函財政部長 Bessent，指財政部就《GENIUS Act》施行之現行提案，僅使聯邦執照申請待審且經聯邦監理機關豁免之發行人享有安全港，州監理發行人則無相應保障，要求財政部將安全港擴及州發行人，使發行人得依法選擇州或聯邦執照，並認定紐約州、懷俄明州等既有穩定幣規範與聯邦制度「實質相似」。",
+   "context": "《GENIUS Act》於 2025 年 7 月簽署，建立聯邦支付型穩定幣制度；流通量 100 億美元以下之發行人，得在州規範與聯邦規範「實質相似」時選擇受州監理。\nOCC 已於 2026 年 10 月 21 日發布施行最終規則，與法律同於 2027 年 1 月 18 日生效；財政部另就發行、要約與銷售之定義及州制度認證等事項進行規則訂定。\n同一批參議員曾於 2026 年 6 月致函財政部，要求維護州監理權限並訂定州發行之明確時程。",
+   "facts": [
+    "依報導，致函者為參議員 Cynthia Lummis（共和黨，懷俄明州）、Kirsten Gillibrand（民主黨，紐約州）、Angela Alsobrooks、Pete Ricketts、Kevin Cramer 及 Mark Warner。",
+    "依 The Block 報導，財政部現行提案就聯邦執照申請待審之發行人，於聯邦監理機關給予豁免時提供安全港，但未對州發行人提供相應保護。",
+    "依 The Block 報導，各州須於 2028 年 1 月前完成其規範與聯邦標準相似之認證，參議員要求在此之前的過渡期間亦給予州發行人安全港。",
+    "Lummis 於 X 表示，國會立法本意是讓穩定幣發行人可在州與聯邦執照間選擇。",
+    "報導未附信函全文，亦未載明信函日期。"
+   ],
+   "issues": [
+    "財政部施行規則是否因只對聯邦申請人提供過渡保護，而實質削弱《GENIUS Act》的州監理選項？",
+    "紐約、懷俄明等州既有穩定幣制度能否被認定與聯邦制度「實質相似」？",
+    "2027 年 1 月 18 日生效後至州制度完成認證前，州執照發行人能否繼續營業？"
+   ],
+   "holding": "・要求財政部將提案中的安全港擴及州監理之穩定幣發行人，使其與聯邦監理發行人立足點相同。\n・要求財政部讓發行人得依《GENIUS Act》選擇州或聯邦執照，不致因轉換而中斷業務或面臨不確定性。\n・主張紐約州、懷俄明州等已有完整數位資產與穩定幣規範之州，應被認定為與聯邦制度「實質相似」。",
+   "significance": "《GENIUS Act》與 OCC 規則將於 2027 年 1 月 18 日生效，州監理發行人之過渡安排仍未明確；後續應注意財政部最終規則是否回應州發行人安全港與「實質相似」認證標準。",
+   "editorNote": "本網頁助理 註：未能取得參議員信函全文或官方新聞稿，內容依 The Block 及 TokenPost 報導整理；報導未指明所稱財政部提案之名稱與日期，故 eventDate 留空。",
+   "tags": [
+    "穩定幣",
+    "GENIUS Act",
+    "州監理",
+    "安全港",
+    "財政部",
+    "國會",
+    "美國"
+   ],
+   "related": [
+    "2026-10-21-fin-occ-genius-act-final-rule"
+   ],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
+     "official": false
+    },
+    {
+     "label": "TokenPost 報導",
+     "url": "https://www.tokenpost.com/news/regulation/60821",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T07:28:44+08:00"
+  },
+  {
+   "id": "2026-11-18-fin-binance-adgm-worldwide-freezing-order",
+   "court": "OTHER",
+   "kind": "司法案件",
+   "caseId": "binance-2026-hack-response",
+   "jurisdiction": "阿拉伯聯合大公國阿布達比全球市場（ADGM）",
+   "outlet": "Global Banking & Finance Review（引述 Reuters）",
+   "outletCode": "GBAF",
+   "date": "2026-11-18",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "幣安取得阿布達比全球市場法院全球凍結令，追回駭案遭竊與已凍結資產",
+   "shortTitle": "幣安獲 ADGM 法院全球凍結令",
+   "point": "依報導涵蓋約 2.6 萬個錢包地址，並取得財產禁制令及交付令",
+   "titleOriginal": "Binance Secures Court Order to Recover $6.3B in Stolen Crypto",
+   "caseRef": "",
+   "tldr": "幣安 10 月底遭駭約 63 億美元後，向其主要監理地阿布達比全球市場（ADGM）的法院聲請並取得命令，凍結駭客在全球的資產，並要求交出遭竊資產，以便追回已被各方凍結的資金。",
+   "memo": "依 Reuters 2026 年 11 月 18 日報導及幣安聲明，幣安就 2026 年 10 月 29 日遭竊約 63 億美元虛擬資產一事，向阿布達比全球市場（ADGM）法院取得以身分不明之駭客為對象之命令；依 TFTC 報導，該命令由 William Stone 法官核發，包括全球凍結禁制令、財產禁制令及交付令，並以約 2.6 萬個錢包地址之「動態清單」界定範圍，得經區塊鏈送達，另以暫時命令處理第三人已凍結之資產。幣安表示已凍結或攔截約 28.5 億美元。",
+   "context": "幣安於 2026 年 10 月 29 日前後遭竊約 63 億美元虛擬資產，FBI 認定為北韓 TraderTraitor 所為；Tether、Circle 等發行人凍結部分穩定幣，美國司法部 11 月 12 日亦取得法院授權扣押或限制處分逾 12 億美元。\n幣安之主要金融監理機關為 ADGM 金融服務監理局（FSRA）；ADGM 法院為採普通法之境內法院，可核發凍結令等臨時救濟。",
+   "facts": [
+    "依報導，幣安於 2026 年 11 月 18 日宣布取得 ADGM 法院命令。",
+    "依 TFTC 報導，命令由 Justice William Stone SBS KC 核發，類型包括全球凍結禁制令（worldwide freezing injunction）、財產禁制令（proprietary injunctions）及交付令（delivery up orders），名目範圍約 65 億美元。",
+    "依 TFTC 報導，命令以約 26,000 個持有遭竊資產之錢包地址為「動態清單」，並得經區塊鏈送達；另有暫時命令涵蓋特定第三人已凍結之資產，未指控該等第三人有不法。",
+    "幣安表示約 28.5 億美元已遭第三方凍結或攔截，並已以自有資金補足約 98% 受影響代幣。",
+    "Reuters 報導未說明命令所涵蓋金額，亦未公開命令全文或案號。"
+   ],
+   "issues": [
+    "境外普通法法院對身分不明駭客核發之全球凍結令，能否促使穩定幣發行人及其他交易所交出已凍結資產？",
+    "以區塊鏈送達及「動態清單」界定凍結範圍之做法，在跨境執行上的效力如何？",
+    "民事追回程序與美國司法部沒收程序就同一批資產如何協調？"
+   ],
+   "holding": "・幣安取得以駭案行為人為對象之全球凍結禁制令，禁止處分遭竊資產。\n・依報導並取得財產禁制令及交付令，要求交出遭竊資產。\n・凍結範圍以約 2.6 萬個錢包地址之動態清單界定，可經區塊鏈通知市場並送達。\n・另以暫時命令處理第三人已凍結之資產，以利幣安取回。",
+   "significance": "為幣安駭案中首見之民事法院救濟，顯示交易所可透過其監理地法院取得跨境凍結與交付命令，以向已凍結資產之發行人或平台請求返還；後續應注意命令全文是否公開、各發行人是否依命令交付，以及與美國沒收程序之競合。",
+   "editorNote": "本網頁助理 註：未能取得 ADGM 法院命令或判決全文；法官姓名、命令類型、65 億美元範圍及錢包地址數係依 TFTC 報導，Reuters 系列報導則稱幣安未說明命令涵蓋金額，各來源細節不一。",
+   "tags": [
+    "加密資產",
+    "資安事件",
+    "凍結令",
+    "幣安",
+    "ADGM",
+    "法院",
+    "阿拉伯聯合大公國"
+   ],
+   "related": [
+    "2026-11-13-fin-doj-binance-hack-seizure-facestealer"
+   ],
+   "sources": [
+    {
+     "label": "Global Banking & Finance Review 報導（引述 Reuters）",
+     "url": "https://www.globalbankingandfinance.com/binance-court-order-get-back-crypto-frozen-6-3-billion-heist/",
+     "official": false
+    },
+    {
+     "label": "TFTC 分析",
+     "url": "https://www.tftc.io/binance-6-5-billion-freezing-order-adgm-hack-recovery",
+     "official": false
+    },
+    {
+     "label": "Bitcoin Magazine 報導",
+     "url": "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T07:28:44+08:00"
   }
  ],
  "agenda": [
@@ -10407,7 +10536,7 @@
    "nameOriginal": "Implementation of the GENIUS Act (payment stablecoins)",
    "caseRef": "Pub. L. No. 119-27",
    "summary": "2025 年 7 月 18 日簽署的 GENIUS Act 建立聯邦支付型穩定幣制度，各聯邦監理機關與各州須訂定施行規則，發行量較小者可選擇州監理。",
-   "status": "OCC 10 月 21 日發布最終規則並鼓勵社區銀行申請發行，申請窗口待 OMB 核准表格後開放；GENIUS Act 與該規則於 2027 年 1 月 18 日生效，洗錢防制與制裁規則另訂。"
+   "status": "OCC 10 月 21 日發布最終規則，GENIUS Act 與該規則於 2027 年 1 月 18 日生效；財政部施行規則仍在訂定，六名參議員 11 月 18 日依報導致函要求將安全港擴及州監理發行人。"
   },
   {
    "id": "us-crypto-market-structure",
@@ -10572,7 +10701,7 @@
    "nameOriginal": "Binance October 2026 hack – regulatory and enforcement response",
    "caseRef": "",
    "summary": "幣安於 2026 年 10 月 29 日前後遭竊約 63 億美元虛擬資產，引發各國執法機關追查洗錢及監理機關對境外交易所、保管與穩定幣凍結機制之檢討。",
-   "status": "FBI 10 月 31 日認定北韓 TraderTraitor 為主謀並公布 628 個地址；依報導司法部 11 月 12 日取得法院授權扣押或限制處分逾 12 億美元遭竊資產（已凍結逾 27 億美元）；南韓金融委員會 11 月 12 日宣布將以無異議函允許業者疑似遭駭即暫停出入金；尚未見 OFAC 制裁指定。"
+   "status": "FBI 10 月 31 日認定北韓 TraderTraitor 為主謀；依報導司法部 11 月 12 日取得法院授權扣押或限制處分逾 12 億美元遭竊資產；幣安 11 月 18 日宣布取得 ADGM 法院全球凍結令及交付令，以追回已遭凍結之資產；尚未見 OFAC 制裁指定。"
   },
   {
    "id": "us-perpetual-futures-jurisdiction",
