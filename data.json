@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-18T23:03:17+08:00",
-  "lastRunLocal": "2026-11-18 23:03",
+  "lastRun": "2026-11-19T07:05:18+08:00",
+  "lastRunLocal": "2026-11-19 07:05",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 1 則：ECtHR 1"
+  "lastRunNote": "新增 3 則：ECtHR 1、EJIL 評論 1、Opinio Juris 評論 1；ITLOS 阿根廷訴英國臨時措施裁定宣示時間經官方確認"
  },
  "items": [
   {
@@ -8183,6 +8183,195 @@
     }
    ],
    "addedAt": "2026-11-18T23:03:17+08:00"
+  },
+  {
+   "id": "2026-11-18-ecthr-romanian-lawyer-ai-citations",
+   "court": "ECtHR",
+   "kind": "機構動態",
+   "caseId": "",
+   "date": "2026-11-18",
+   "eventDate": "2026-11-13",
+   "importance": 2,
+   "title": "歐洲人權法院：羅馬尼亞律師提出未經查核的 AI 生成判例引註，遭禁止於兩年內代理申請人",
+   "shortTitle": "歐洲人權法院禁止濫用 AI 律師出庭",
+   "point": "書狀充斥虛構判例與段落，法院認定違反職業倫理，兩年內不得代理或協助申請人",
+   "titleOriginal": "Romanian lawyer barred for two years from representing applicants before the Court over unverified AI-generated citations",
+   "caseRef": "",
+   "tldr": "一名羅馬尼亞律師在歐洲人權法院的書狀中，引用了由 AI 工具產生、卻沒有查證的判例：有些案件根本不存在，有些是真實判決卻被捏造段落，還有些與論點無關甚至相反。法院審理該案的分庭認為這不是偶發錯誤，而是反覆、大量且實質的錯誤，提議禁止這位律師兩年內在法院代理或協助申請人，經院長於 11 月 13 日核准。",
+   "memo": "歐洲人權法院於 2026 年 11 月 18 日公布，審理某羅馬尼亞申訴案之分庭認定申請人代理律師所提書面意見含有大量經人工智慧工具生成而未經查核之判例引註，包括不存在之案件、真實裁判中虛構之段落及與論點無關或相反之裁判，屬反覆且實質之錯誤模式，違反法院課予代理人之職業及倫理義務，並增加法院查核負擔、妨害司法運作；分庭據此提議禁止該律師於兩年內代理或協助申請人，經院長於同年 11 月 13 日核准。",
+   "context": "歐洲人權法院的申請人原則上須由律師代理，代理人須遵守法院規則及實務指引所要求的誠信與專業義務；法院規則亦授權法院在代理人行為不當時，排除其繼續代理。\n近年各國法院陸續出現律師提交 AI 虛構判例的案例，本案是歐洲人權法院公開以此為由排除律師代理的處分。",
+   "facts": [
+    "一名羅馬尼亞律師在某件以羅馬尼亞為被告國的申訴案中擔任申請人代理人之一，向法院提出書面意見。",
+    "審理該案的分庭發現書面意見中的判例引註有大量錯誤：部分案件不存在，部分真實裁判被引用虛構段落，部分真實裁判與論點無關或結論相反。",
+    "該律師承認以 AI 工具撰寫書面意見，並將錯誤稱為「引註錯誤」。",
+    "分庭認定部分引註完全未經查核，提議禁止該律師兩年內在法院代理或協助申請人；院長於 2026 年 11 月 13 日核准，法院於 11 月 18 日公布。"
+   ],
+   "issues": [
+    "律師使用 AI 生成而未經查證的判例引註，是否違反在歐洲人權法院代理所負的職業及倫理義務。",
+    "此類錯誤是否足以構成排除律師代理的正當理由，以及排除期間應如何決定。"
+   ],
+   "holding": "分庭認定錯誤數量多、反覆出現且屬實質性，呈現一種模式而非個別疏失；律師本應以 HUDOC 等權威資料庫核對 AI 產出的引註，但部分引註完全未經任何查核。\n分庭並指出，這些錯誤迫使法院投入查核及處理排除程序，損害司法運作；所違反的義務在國內法上同樣存在。\n處分：禁止該律師於兩年內在歐洲人權法院代理或協助申請人，由分庭提議、院長核准。",
+   "significance": "本案顯示歐洲人權法院願意以具體處分回應訴訟文書中的 AI 虛構引註，並明確要求代理人自行以權威來源核對 AI 產出。對在國際法院、法庭執業的律師而言，使用 AI 輔助撰狀時的查核義務已成為實際的執業風險。",
+   "editorNote": "本網頁助理 註：本則依歐洲人權法院首頁新聞標題，以及 Anadolu Agency 與 HotNews.ro 報導撰寫；未能直接讀取法院新聞稿全文，因此案名、申請案號、所依據之法院規則條次及分庭組成均未能確認。兩則報導對該律師性別描述不一，本則不予載明。以下為本網頁助理補充，非來源內容：context 第一段關於代理義務及排除代理權限的說明、第二段關於各國類似案例的說明，以及 significance 中對執業風險的評論，為本網頁助理的背景說明。",
+   "tags": [
+    "人工智慧",
+    "律師倫理",
+    "訴訟代理",
+    "程序規則",
+    "羅馬尼亞"
+   ],
+   "sources": [
+    {
+     "label": "歐洲人權法院新聞稿",
+     "url": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations",
+     "official": true
+    },
+    {
+     "label": "Anadolu Agency 報導",
+     "url": "https://www.aa.com.tr/en/europe/european-rights-court-bars-romanian-lawyer-for-2-years-over-ai-generated-citations/4129868",
+     "official": false
+    },
+    {
+     "label": "HotNews.ro 報導（羅馬尼亞文）",
+     "url": "https://hotnews.ro/avocat-roman-interzis-la-cedo-pentru-doi-ani-din-cauza-ca-a-folosit-argumente-eronate-generate-de-ai-in-fata-curtii-2407897",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T07:05:18+08:00"
+  },
+  {
+   "id": "2026-11-18-oj-heroic-idun-renvoi",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "",
+   "date": "2026-11-18",
+   "eventDate": "",
+   "importance": 2,
+   "title": "評 Heroic Idun 案：ITLOS 特別分庭拒絕藉海洋法公約「轉致」條款認定人權違反，但其人道考量論證反增混淆",
+   "shortTitle": "ITLOS 不藉轉致條款審理人權",
+   "point": "作者認同分庭不擴張管轄，但批評其混淆準據法與轉致條款，並以人道考量認定違反卻未連結條文",
+   "titleOriginal": "Human Rights by Renvoi? Not So Fast, Says ITLOS",
+   "caseRef": "ITLOS Case No. 32",
+   "tldr": "國際海洋法法庭特別分庭在 2026 年 5 月的 Heroic Idun 號（第 2 號）案判決中表示，它只能審理《聯合國海洋法公約》本身的解釋與適用；公約中提到「其他國際法規則」的條款，只能用來幫助解釋公約，不能讓法庭直接判定一國違反人權條約。兩位作者同意這個謹慎的結論，但認為分庭把兩種性質不同的條款混為一談，又以「人道考量」認定船員權利受侵害，卻沒說明這和哪一條公約規定有關，反而讓問題更模糊。",
+   "memo": "Agathe Niveleau 與 Romain Degorgue 於 Opinio Juris 撰文評析國際海洋法法庭特別分庭 2026 年 5 月 27 日 M/T \"Heroic Idun\"（No. 2）案（馬紹爾群島訴赤道幾內亞）判決，指出分庭援引 Arctic Sunrise 仲裁判斷，認定公約第 293 條第 1 項及第 2 條第 3 項、第 58 條第 2 項、第 87 條第 1 項等轉致條款僅得用以解釋與適用公約，不得據以認定外部人權規則之違反；作者贊同轉致條款不擴張管轄之結論，惟批評分庭未區分準據法條款與界定實體義務之轉致條款，且以人道考量認定船員權利受侵害而未連結具體公約條文，錯失釐清轉致條款範圍之機會。",
+   "context": "《聯合國海洋法公約》第 288 條第 1 項將法庭管轄限於「有關本公約解釋或適用」的爭端；第 293 條第 1 項則規定法庭應適用公約及「其他與本公約不相牴觸的國際法規則」。此外，第 2 條第 3 項（領海）、第 58 條第 2 項（專屬經濟區）、第 87 條第 1 項（公海自由）等條文，也規定相關權利應依公約及「其他國際法規則」行使，學說稱為「轉致」（renvoi）條款。\n能否藉這些條款，把人權條約等外部規則帶入海洋法爭端解決，向有爭議：Arctic Sunrise 案仲裁庭認為第 293 條不能擴張管轄；南海仲裁案仲裁庭則曾認定違反《國際海上避碰規則公約》。\nHeroic Idun 號（第 2 號）案由馬紹爾群島對赤道幾內亞提起，由 ITLOS 特別分庭審理，於 2026 年 5 月 27 日作成判決（第 32 號案）。",
+   "facts": [
+    "2022 年 8 月，懸掛馬紹爾群島旗的油輪 Heroic Idun 號在奈及利亞專屬經濟區未獲准裝載原油；奈及利亞海軍船艦接近時，船員誤認為海盜而駛離。",
+    "該船其後在聖多美普林西比水域遭赤道幾內亞海軍攔截，被懷疑涉及非法燃油補給，船員遭逮捕並在赤道幾內亞拘禁，之後移交奈及利亞。",
+    "馬紹爾群島主張赤道幾內亞違反條約及習慣國際法上的人權規則，依據公約第 293 條第 1 項，以及第 2 條第 3 項、第 58 條第 2 項、第 87 條第 1 項的轉致。",
+    "特別分庭於 2026 年 5 月 27 日作成判決；兩位作者於 2026 年 11 月 18 日在 Opinio Juris 發表評論。"
+   ],
+   "issues": [
+    "海洋法公約第 293 條第 1 項（準據法）能否使法庭認定外部人權規則的違反。",
+    "第 2 條第 3 項、第 58 條第 2 項、第 87 條第 1 項的轉致條款，能否把人權規則納入公約義務而受法庭管轄；所謂「其他國際法規則」的範圍為何。"
+   ],
+   "holding": "・作者整理分庭見解：分庭沿用 Arctic Sunrise 案，區分第 288 條第 1 項的管轄與第 293 條第 1 項的準據法，認定外部規則只能用以解釋與適用公約，不能據以認定其本身遭違反；實體條文中的轉致條款亦同。\n・作者比較南海仲裁案曾認定違反避碰規則的作法，認為分庭選擇更謹慎、避免對管轄外規則作正式認定，雖嫌保守但立場清楚。\n・作者同意轉致條款不擴張管轄，但批評分庭直接援引 Arctic Sunrise，而未說明為何兩類條款可等同處理。\n・作者指出，分庭不認為《公民與政治權利國際公約》可被納入，卻接受「人權標準」可落入轉致範圍（判決第 416–417 段），與查哥斯案、南海仲裁案承認一般國際法而非條約規則的作法一致。\n・作者主張第 293 條第 1 項是解釋工具，轉致條款則界定實體義務，兩者內容不必相同，分庭未加說明即視為等同。\n・作者批評分庭以「人道考量」認定船員權利受侵害，但人道考量本應僅影響解釋，分庭並未說明其與哪一條公約規定相連結。\n・作者將分庭的謹慎歸因於對國際法碎片化的顧慮，以及 ITLOS 並非人權專門法院，並以 2024 年氣候變遷諮詢意見第 66 段為例。",
+   "significance": "作者認為分庭的謹慎可以理解，但其人道考量論證增加了轉致條款範圍與效果的混淆，錯失釐清外部規則如何經轉致納入公約的機會。對日後以海洋法公約程序處理船員拘禁、海上執法人權問題的國家而言，此判決劃下了明確界線：須以公約條文本身為請求基礎。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。本網頁助理 註：判決事實與段落依作者所述，未另行核對判決全文；判決於 2026 年 5 月作成，早於本站收錄起始日，故本站未另立判決條目。以下為本網頁助理補充，非來源內容：context 中對第 288 條、第 293 條及轉致條款的條文說明，以及 significance 最後一句對日後案件的影響，為本網頁助理的背景說明。",
+   "tags": [
+    "海洋法",
+    "聯合國海洋法公約",
+    "國際海洋法法庭",
+    "第293條",
+    "準據法",
+    "管轄權",
+    "人權",
+    "船員",
+    "馬紹爾群島",
+    "赤道幾內亞",
+    "奈及利亞"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/11/18/human-rights-by-renvoi-not-so-fast-says-itlos/",
+     "official": false
+    },
+    {
+     "label": "國際海洋法法庭判決全文（PDF）",
+     "url": "https://www.itlos.org/fileadmin/itlos/documents/cases/32/judgment/C32_Judgment_27.05.2026_orig.pdf",
+     "official": true
+    },
+    {
+     "label": "EJIL:Talk! 相關評論（Nguyen、Georgoula）",
+     "url": "https://www.ejiltalk.org/one-step-forward-two-steps-obscure-jurisdiction-over-external-rules-in-m-t-heroic-idun-no-2/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T07:05:18+08:00",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Agathe Niveleau、Romain Degorgue（法國昂熱大學博士候選人，Jean Bodin 研究中心）"
+  },
+  {
+   "id": "2026-11-18-ejil-bbnj-secretariat-merged-bid",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "",
+   "date": "2026-11-18",
+   "eventDate": "",
+   "importance": 1,
+   "title": "智利與比利時合併爭取 BBNJ 協定秘書處所在地：「一個秘書處、兩個大陸」是否符合協定第 50 條",
+   "shortTitle": "BBNJ 秘書處合併申辦的法律疑義",
+   "point": "作者指出協定預設單一所在地，分散式安排恐生問責漏洞，表決規則更易陷入僵局",
+   "titleOriginal": "One Secretariat, Two Continents? On the Chile-Belgium Merged Bid for the BBNJ Secretariat",
+   "caseRef": "",
+   "tldr": "《國家管轄範圍以外區域海洋生物多樣性協定》（BBNJ 協定）即將召開第一次締約方大會，決定秘書處設在哪裡。原本互相競爭的智利與比利時在 11 月 6 日宣布合併申辦：秘書處設在智利瓦爾帕萊索，資訊交換機制的基礎設施和附屬機構會議放在布魯塞爾，對手是中國提名的廈門。兩位作者分析這種「一處秘書處、兩地分工」的安排是否符合協定只提到單一「所在地」與「地主國」的條文，以及若無法達成共識時的表決變數。",
+   "memo": "Vito De Lucia 與郭建平於 EJIL:Talk! 撰文分析智利與比利時於 2026 年 11 月 6 日宣布合併爭取 BBNJ 協定秘書處所在地之提案，指出協定第 50 條以單一「所在地」及「地主國」並以單一總部協定為前提，雖未明文禁止分散設置，條文仍指向單一所在地；分散安排將產生資訊交換機制失靈時由何方負責之問責疑義，且附件四之共識優先、秘密投票三分之二多數規則有利於少數阻擋，若陷入僵局，聯合國海洋事務及海洋法司將依第 50 條第 2 項無限期擔任臨時秘書處。",
+   "context": "BBNJ 協定為《聯合國海洋法公約》下的執行協定，規範公海及國際海床區域的海洋生物多樣性養護與永續利用，已有 105 個締約方。協定第 50 條規定設立秘書處，所在地由締約方大會決定；在秘書處開始運作前，由聯合國秘書處的海洋事務及海洋法司（DOALOS）擔任臨時秘書處。\n第一次締約方大會（COP1）將在紐約舉行，預定 2027 年 1 月 13 日討論決定方式、1 月 18 日決定所在地。爭取者包括智利（瓦爾帕萊索）、比利時（布魯塞爾）及中國（廈門）。",
+   "facts": [
+    "智利在談判期間即表達意願，2023 年 3 月正式提出申辦；比利時於 2025 年 1 月宣布、2025 年 11 月正式提出；中國於 2026 年 1 月提名廈門。",
+    "2026 年 11 月 6 日，比利時與智利宣布合併申辦：秘書處設於瓦爾帕萊索，資訊交換機制（Clearing-House Mechanism）基礎設施及附屬機構會議設於布魯塞爾。",
+    "作者整理各國表態：法國、烏拉圭及據報墨西哥支持瓦爾帕萊索；拉丁美洲核心小組呼籲以共識決定但未集體背書；未見歐盟正式背書比利時；巴基斯坦、萬那杜、多米尼克及多哥表態支持廈門。"
+   ],
+   "issues": [
+    "BBNJ 協定第 50 條以「所在地」「地主國」及單一總部協定為規範前提，兩國共同、分散式的申辦能否相容。",
+    "若無法達成共識，附件四的表決程序（秘密投票、三分之二多數、逐輪淘汰）及議事規則草案將如何影響結果；可能引發哪些程序異議。"
+   ],
+   "holding": "・作者指出秘書處所在地影響機構運作、人員組成、各國參與方式與國際聲望，秘書處本身也可能形塑規範。\n・作者認為協定條文預設單一機構設於一處，並未明文禁止分散設置，但整體文字指向單一所在地。\n・作者比較鹿特丹公約（UNEP／FAO 共同秘書處）、蒙特婁議定書多邊基金、防治沙漠化公約全球機制自羅馬遷往波昂等前例，指出後者整併主要出於功能與問責考量。\n・作者認為合併對兩國互有好處：比利時取得開發中國家支持基礎，智利獲得基礎設施與外交能量，共同對抗中國的申辦。\n・作者指出問責缺口：資訊交換機制若失靈，應由秘書處地主國或系統地主國負責，並不明確。\n・作者分析票數：此方案可能吸引或排斥不同集團（如巴西在拉美與金磚間的立場），棄權與秘密投票在三分之二門檻下影響重大，亞太地區仍無據點。\n・作者說明程序：附件四要求先尋求共識，再以秘密投票、三分之二多數逐輪淘汰；但依議事規則草案，阻擋性少數可能左右結果。\n・作者列出三種情境：順利表決時瓦爾帕萊索可能勝出、布魯塞爾部分另行決定；陷入僵局時 DOALOS 依第 50 條第 2 項無限期擔任臨時秘書處；或有締約方質疑合併提案是否屬於針對「所在地」的提案、是否逾期或違反第 50 條第 3 項。",
+   "significance": "作者認為合併提案引發政治、機構、策略與法律上的多重問題，包括資訊交換機制能否在基礎設施位於布魯塞爾的情況下由瓦爾帕萊索管理、影響力與專業是否集中於布魯塞爾，以及在聯合國預算緊縮下的成本與時差負擔；由於阻擋三分之一少數比取得三分之二多數容易，規則本身有利於僵局，合併方案或許帶來的問題多於答案。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。本網頁助理 註：各國支持情形、締約方數目及 COP1 日程依作者所述，未另行查證；作者原文所稱 COP1 於 1 月 13 日、18 日之日程，本則依 COP1 預定於 2027 年 1 月舉行而標示年份，請以官方議程為準。",
+   "tags": [
+    "海洋法",
+    "BBNJ協定",
+    "國際組織法",
+    "秘書處",
+    "聯合國海洋法公約",
+    "智利",
+    "比利時",
+    "中國"
+   ],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/one-secretariat-two-continents-on-the-chile-belgium-merged-bid-for-the-bbnj-secretariat/",
+     "official": false
+    },
+    {
+     "label": "BBNJ 協定全文（英文，PDF）",
+     "url": "https://www.un.org/bbnjagreement/sites/default/files/2024-08/Text%20of%20the%20Agreement%20in%20English.pdf",
+     "official": true
+    },
+    {
+     "label": "BBNJ 第一次締約方大會附註議程及決定方式（PDF）",
+     "url": "https://www.un.org/bbnjagreement/sites/default/files/2026-11/20261103BBNJCOP1AnnotatedAgendaModalitiesAdvanceUnedited.pdf",
+     "official": true
+    },
+    {
+     "label": "聯合國秘書長關於秘書處行政安排之說明（PDF）",
+     "url": "https://www.un.org/bbnjagreement/sites/default/files/2026-11/20261102BBNJCOP1SecArrangementsAdvanceUnedited.pdf",
+     "official": true
+    },
+    {
+     "label": "比利時外交部：比利時與智利合併申辦聲明",
+     "url": "https://diplomatie.belgium.be/en/news/belgium-and-chile-decide-join-their-candidatures-seat-bbnj-secretariat",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T07:05:18+08:00",
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "author": "Vito De Lucia（挪威北極大學法學教授）、郭建平（西安交通大學法學院副教授）"
   }
  ],
  "agenda": [
@@ -8404,8 +8593,8 @@
    "date": "2026-11-28",
    "court": "ITLOS",
    "title": "阿根廷訴英國：臨時措施裁定宣示",
-   "note": "漢堡；庭長於 11 月 11 日辯論終結時宣布，依 MercoPress 報導暫定當地時間中午，待法庭正式公告。",
-   "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/",
+   "note": "漢堡，2026 年 11 月 28 日（星期六）中午公開庭期，由庭長 Maurice Kamga 宣讀（ITLOS 第 405 號新聞稿）。",
+   "url": "https://www.itlos.org/fileadmin/itlos/documents/press_releases_english/PR_405_en.pdf",
    "relatedId": "2026-11-11-itlos-argentina-uk-order-date",
    "caseId": "argentina-v-uk-sea-lion"
   },
