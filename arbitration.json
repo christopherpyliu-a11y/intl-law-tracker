@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-18T07:15:47+08:00",
-  "lastRunLocal": "2026-11-18 07:15",
+  "lastRun": "2026-11-18T23:12:57+08:00",
+  "lastRunLocal": "2026-11-18 23:12",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "本次未發現新動態",
+  "lastRunNote": "新增 3 則：投資仲裁 3（仲裁判斷 1、案件動態 1、實務評論 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -9043,6 +9043,197 @@
     }
    ],
    "addedAt": "2026-11-17T23:10:54+08:00"
+  },
+  {
+   "id": "2026-11-18-arb-enagas-v-peru-tgp-dividends-award",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "investment",
+   "caseId": "enagas-v-peru-tgp",
+   "jurisdiction": "秘魯",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-18",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "ICSID 仲裁庭認定秘魯凍結 Enagás 的 TGP 股利違反西秘投資協定，命其放行股利並返還 6,500 萬美元保證",
+   "shortTitle": "Enagás 在 ICSID 再勝秘魯，TGP 股利獲解凍",
+   "point": "秘魯違反西秘投資協定第 4、7 條，須放行股利、返還 6,500 萬美元銀行保證並負擔逾 400 萬美元費用",
+   "titleOriginal": "Enagás Internacional S.L.U. v. Republic of Peru (ICSID Case No. ARB/21/6), Award (notified 17 November 2026)",
+   "caseRef": "ICSID Case No. ARB/21/6",
+   "tldr": "西班牙天然氣公司 Enagás 在秘魯持有天然氣管線公司 TGP 的股份，但秘魯依一部針對貪腐案的法律，禁止它把股利匯出國外，還要求它提供 6,500 萬美元的銀行保證。ICSID 仲裁庭認定秘魯違反西班牙與秘魯的投資協定，命秘魯讓 Enagás 自由匯出股利、退還保證，並負擔仲裁費用。這是 Enagás 兩年內第二次在 ICSID 勝訴秘魯。",
+   "memo": "ICSID 仲裁庭就 Enagás Internacional 訴秘魯案（ICSID Case No. ARB/21/6）作成仲裁判斷，並於 2026 年 11 月 17 日通知當事人，認定秘魯違反西班牙—秘魯雙邊投資協定第 4 條及第 7 條。仲裁庭命秘魯准許聲請人將其於 Transportadora de Gas del Perú（TGP）持股之已累積及未來股利自由匯出，註銷並返還聲請人依秘魯第 30737 號法律所提供之 6,500 萬美元銀行保證函，並負擔逾 400 萬美元之仲裁費用。聲請人估計可匯回之資金約 1.78 億美元。判斷全文尚未公開。",
+   "context": "Enagás 為西班牙天然氣輸送業者，透過 Enagás Internacional 持有秘魯天然氣輸送公司 Transportadora de Gas del Perú（TGP）及營運公司 Compañía Operadora de Gas del Amazonas（COGA）之股份。\n依 Enagás 2026 年上半年財報，秘魯依第 30737 號法律將 Enagás Internacional 列為「第 2 類」對象，禁止其將 TGP 股利匯出秘魯，並要求就估計之信託帳戶金額約 6,550 萬美元提供銀行保證函。Enagás 於 2021 年 12 月 23 日依西班牙—秘魯投資協定提起 ICSID 仲裁，仲裁庭於 2022 年 12 月 5 日組成，2024 年 10 月 28 日舉行審理，書面程序於 2025 年 10 月結束。\n另案 Enagás 就南秘魯天然氣管線（Gasoducto Sur Peruano，GSP）特許契約終止所提之 ICSID 仲裁（ICSID Case No. ARB/18/26），仲裁庭已於 2024 年 12 月判命秘魯賠償，2025 年 5 月更正後金額約 3 億美元；秘魯已就該判斷聲請撤銷（annulment）。",
+   "facts": [
+    "2021 年 12 月 23 日，Enagás 依西班牙—秘魯投資協定提起 ICSID 仲裁，請求解除對其 TGP 股利匯出之禁令。",
+    "仲裁庭於 2022 年 12 月 5 日組成；Enagás 於 2023 年 6 月 1 日提出請求書，秘魯於 2023 年 10 月 6 日答辯，雙方續提書狀後於 2024 年 10 月 28 日審理。",
+    "依 Enagás 財報，其依第 30737 號法律提供之銀行保證約 6,550 萬美元；其在秘魯金融機構之存款約 1.527 億美元。",
+    "仲裁判斷於 2026 年 11 月 17 日通知當事人，Enagás 於 11 月 18 日向西班牙證券市場委員會（CNMV）申報。"
+   ],
+   "issues": [
+    "秘魯依第 30737 號法律禁止聲請人匯出 TGP 股利並要求提供保證，是否違反西班牙—秘魯投資協定第 4 條（依報導涉及投資保護與待遇義務）及第 7 條（依報導涉及資金自由移轉）。",
+    "如構成違反，應給予何種救濟（回復原狀式之命令或金錢賠償）及費用如何分擔。"
+   ],
+   "holding": "依 Enagás 向 CNMV 之申報及西班牙媒體報導，仲裁庭認定秘魯違反投資協定第 4 條及第 7 條。\n主文包括：秘魯應准許聲請人自由匯出其 TGP 持股之已累積、現在及未來股利；應註銷並返還聲請人依第 30737 號法律及其施行規定所提供之 6,500 萬美元（約 5,920 萬歐元）銀行保證函；並應負擔逾 400 萬美元（約 365 萬歐元）之程序費用。\n報導估計，連同股利與保證，Enagás 可自秘魯匯回約 1.78 億美元（約 1.623 億歐元）。利息是否另有判命，報導未提及。",
+   "significance": "本件判斷之救濟以命國家為一定行為（放行股利、返還保證）為主，與多數投資仲裁僅判命金錢賠償不同，其執行方式值得觀察。Enagás 表示將與秘魯政府進行建設性對話以履行判斷。秘魯得於判斷作成後 120 日內依 ICSID 公約第 52 條聲請撤銷（annulment）；GSP 案之撤銷程序依 Enagás 先前說法可望於 2027 年第一季作成決定。",
+   "editorNote": "本網頁助理 註：本則依西班牙媒體報導及 Enagás 財報撰寫，尚未取得判斷原文或 ICSID 公告；判斷作成日期未見公開，報導僅稱於 11 月 17 日（星期二）通知，故裁判日期欄留空。各報導對 Enagás 可取得金額之說法不一：多數報導稱連同股利與保證約 1.78 億美元，Demócrata 則僅計入保證與費用，稱約 6,280 萬歐元。案號 ARB/21/6 取自 Enagás 2026 年上半年財報。\n以下為本網頁助理補充，非來源內容：秘魯第 30737 號法律係針對涉及 Odebrecht 等貪腐案件之企業及其合作夥伴，確保國家民事賠償之立法；Enagás 曾與 Odebrecht 共同參與 GSP 計畫，惟其被列入之具體理由，本則來源未說明。",
+   "tags": [
+    "ICSID",
+    "秘魯",
+    "西班牙",
+    "雙邊投資協定",
+    "資金移轉",
+    "股利",
+    "天然氣",
+    "Enagás"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Enagás 2026 年上半年合併財報（含本案程序說明，PDF）",
+     "url": "https://www.enagas.es/content/dam/enagas/en/files/accionistas-e-inversores/informacion-economico-financiera/renta-fija/EN_Estados%20Financieros%20Consolidados%20Primer%20Semestre%202026.pdf",
+     "official": false
+    },
+    {
+     "label": "Infobae（EFE）報導",
+     "url": "https://www.infobae.com/america/agencias/2026/11/18/amp-2-el-ciadi-obliga-a-peru-a-liberar-los-dividendos-de-enagas-y-devolverle-garantia-de-59-millones/",
+     "official": false
+    },
+    {
+     "label": "El Debate 報導",
+     "url": "https://www.eldebate.com/economia/20261118/enagas-gana-nuevo-peru-debera-devolverle-60-millones-euros_482288.html",
+     "official": false
+    },
+    {
+     "label": "HerQles 報導",
+     "url": "https://herqles.com/2026/11/18/enagas-gana-laudo-peru-ciadi/",
+     "official": false
+    },
+    {
+     "label": "Demócrata 報導",
+     "url": "https://www.democrata.es/economia/enagas-se-impone-en-el-arbitraje-de-tgp-y-peru-debera-abonarle-casi-63-millones-por-violar-el-acuerdo-de-inversiones/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T23:12:57+08:00"
+  },
+  {
+   "id": "2026-11-17-arb-jkx-v-russia-treaty-claim",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "jkx-v-russia",
+   "jurisdiction": "俄羅斯",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-17",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "英國油氣集團 JKX 就俄羅斯沒收其天然氣田投資推進條約仲裁",
+   "shortTitle": "英國油氣業者 JKX 對俄羅斯提起條約求償",
+   "point": "俄國法院以支持烏克蘭武裝為由沒收其阿迪格天然氣田事業，JKX 依投資條約求償",
+   "titleOriginal": "UK gas investor pursues claim against Russia (GAR, 17 November 2026); Revealed: UK company is pursuing treaty arbitration against Russia over alleged expropriation of its oil and gas investment (IAReporter, 16 November 2026)",
+   "caseRef": "",
+   "tldr": "英國油氣公司 JKX 原本在俄羅斯阿迪格共和國經營一座天然氣田。2024 年俄國法院以其關係人資助烏克蘭軍隊、屬「極端主義集團」為由，把這些事業收歸國有。JKX 2025 年已通知俄羅斯發生投資爭端，專業媒體現報導 JKX 正式推進條約仲裁。",
+   "memo": "依 Global Arbitration Review 及 IAReporter 於 2026 年 11 月 16 日至 17 日之報導，英國 JKX Oil & Gas 集團正就俄羅斯國有化其天然氣田投資推進條約仲裁。JKX 前於 2025 年 1 月依能源憲章條約及英國—俄羅斯雙邊投資協定通知俄羅斯發生爭端，所涉投資為經營阿迪格共和國 Koshekhablskoye 氣田之 Yuzhgazenergie 及服務公司 Catering Yug；俄羅斯法院於 2023 年至 2024 年間先後停止並沒收該等事業。仲裁機構、所依條約及求償金額尚未公開。",
+   "context": "JKX Oil & Gas 為英國油氣集團，主要業務在烏克蘭，並透過 Yuzhgazenergie LLC 經營俄羅斯阿迪格共和國之 Koshekhablskoye 天然氣田，另有服務公司 Catering Yug LLC。JKX 稱其對兩家公司投入數億美元。\n依 JKX 2025 年 2 月 17 日公告，該集團 2021 年決定退出俄羅斯市場，但買方於 2022 年初撤回交易；其後各國制裁及俄國反制裁使 JKX 失去對俄國事業之控制，俄羅斯法院於 2023 年至 2024 年間作成一連串裁判，先停止後沒收其投資。JKX 於 2025 年 1 月依能源憲章條約、英國—俄羅斯雙邊投資協定及國際法通知俄羅斯發生爭端，表示若未獲補償將提起仲裁，由 Covington & Burling 代理。\n依 Kyiv Independent 2024 年 3 月報導，阿迪格共和國法院於 2024 年 3 月 5 日以烏克蘭商人 Kolomoisky 為 JKX 成員、JKX 屬「明顯反俄之極端主義集團」並資助烏克蘭武裝部隊等理由，將 Yuzhgazenergie 及 Catering Yug 之全部股份收歸國有，價值逾 51 億盧布。JKX 則稱 Kolomoisky 已不具任何直接或間接權益。",
+   "facts": [
+    "2024 年 3 月 5 日，阿迪格共和國法院准許沒收 Yuzhgazenergie 及 Catering Yug 之全部股份。",
+    "2025 年 1 月，JKX 依能源憲章條約及英國—俄羅斯雙邊投資協定通知俄羅斯發生爭端，並於 2 月 17 日公開宣布。",
+    "2026 年 11 月 16 日及 17 日，IAReporter 與 GAR 分別報導 JKX 正對俄羅斯推進條約仲裁；GAR 摘要指出，俄方國有化之依據為 JKX 被指資助在烏克蘭作戰之武裝團體。"
+   ],
+   "issues": [
+    "俄羅斯以「極端主義」為由沒收外國投資人之事業，是否構成能源憲章條約或英國—俄羅斯雙邊投資協定下之違法徵收。",
+    "俄羅斯未批准能源憲章條約，惟曾暫時適用至 2009 年，聲請人得否援引該條約之日落條款（依報導尚不清楚所依條約）。"
+   ],
+   "holding": "本件為新提出之求償，尚無仲裁庭決定。仲裁機構、仲裁規則、所依條約、仲裁庭組成及求償金額均未見公開。",
+   "significance": "本案是俄羅斯以「不友好國家」措施或「極端主義」名義沒收外國資產後，又一件由英國投資人提出之條約求償；此類案件之後續重點在俄羅斯是否應訴，以及判斷將來在俄國境外之執行。",
+   "editorNote": "本網頁助理 註：GAR 與 IAReporter 報導均為付費內容，本則僅依其標題與摘要，並以 JKX 2025 年公告及 Kyiv Independent 2024 年報導核對背景事實；仲裁是否已正式提起、所依條約與仲裁機構均尚待確認，故裁判日期欄留空。\n以下為本網頁助理補充，非來源內容：俄羅斯於 1994 年簽署能源憲章條約並暫時適用，2009 年通知終止暫時適用；依該條約第 45 條第 3 項，終止前之投資仍受 20 年保護，此點曾於 Yukos 案中爭執。",
+   "tags": [
+    "俄羅斯",
+    "英國",
+    "徵收",
+    "能源憲章條約",
+    "雙邊投資協定",
+    "天然氣",
+    "制裁",
+    "烏克蘭"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "JKX 公告：就投資遭國有化對俄羅斯啟動爭端程序（2025 年 2 月）",
+     "url": "https://www.jkx.co.uk/jkx-initiates-legal-dispute-against-the-russian-federation-over-the-nationalization-of-the-group-s-investments/",
+     "official": false
+    },
+    {
+     "label": "Global Arbitration Review 報導",
+     "url": "https://globalarbitrationreview.com/article/uk-gas-investor-pursues-claim-against-russia",
+     "official": false
+    },
+    {
+     "label": "IAReporter 報導",
+     "url": "https://www.iareporter.com/articles/revealed-uk-company-is-pursuing-treaty-arbitration-against-russia-over-alleged-expropriation-of-its-oil-and-gas-investment/",
+     "official": false
+    },
+    {
+     "label": "Kyiv Independent 報導（2024 年阿迪格法院沒收裁判）",
+     "url": "https://kyivindependent.com/russian-court-claims-it-confiscated-assets-related-to-kolomoisky",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T23:12:57+08:00"
+  },
+  {
+   "id": "2026-11-17-arb-kab-domestic-wacc-trap",
+   "court": "OTHER",
+   "kind": "實務評論",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "date": "2026-11-17",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Mithil Madia（M Value Advisory）",
+   "title": "作者主張以地主國標準計算的折現率會使跨境合資求償遭仲裁庭大幅刪減，應改以機率調整現金流處理國家風險",
+   "shortTitle": "本地 WACC 為何讓損害賠償被砍？",
+   "point": "作者指出以地主國公債利率加國家風險溢酬易重複計算，主張把風險直接放進現金流",
+   "titleOriginal": "The Domestic WACC Trap: Why International Tribunals Keep Slashing Damage Claims in Cross-Border JV Disputes",
+   "caseRef": "",
+   "tldr": "計算未來收益折現值時，折現率定得越高，賠償就越少。作者認為專家常用地主國的公債利率和國家風險溢酬來算外國投資人的資金成本，等於把同一風險算兩次，仲裁庭因此常大砍求償；他建議改把具體風險（如貨幣貶值）以機率直接反映在各項現金流中。",
+   "memo": "Mithil Madia（M Value Advisory）於 Kluwer Arbitration Blog 撰文指出，跨境合資爭議中以地主國標準計算之加權平均資金成本（WACC），因以地主國公債殖利率作為無風險利率、以主權利差作為國家風險溢酬，並在已調整風險之現金流上再提高折現率，易致重複計算而遭仲裁庭刪減。作者援引 Tethyan Copper 訴巴基斯坦、Gold Reserve 及 Tidewater 訴委內瑞拉案，主張國家風險應以違約前之「若無」情境評估，並以機率調整個別現金流項目代替概括之風險溢酬。",
+   "context": "現金流量折現法（DCF）是商務仲裁與投資仲裁中計算預期利益損失的常用方法，折現率的選擇往往對賠償金額影響最大。新興市場合資案件中，當事人專家常以地主國資本市場資料計算 WACC，並另加國家風險溢酬（CRP）。",
+   "facts": [],
+   "issues": [
+    "外國投資人之資金成本應以地主國或國際資本市場為準。",
+    "以主權利差作為企業國家風險溢酬，並同時下修現金流，是否構成重複計算。",
+    "國家違反條約後上升之風險，應否計入評價日之折現率。"
+   ],
+   "holding": "・地理錯置：本地評價假設資本市場區隔，以地主國十年期公債殖利率為無風險利率；作者認為外國投資人之機會成本應以歐元區或美國公債為準，否則扭曲淨現值。\n・重複計算：主權利差衡量的是政府違約風險，而非私人企業風險；專家又常先下修現金流以反映當地風險，再提高折現率，造成懲罰隨時間累加。作者援引 Tethyan Copper 訴巴基斯坦案（ICSID Case No. ARB/12/1）仲裁庭拒絕對已調整風險之現金流再適用風險調整折現率。\n・徵收悖論：Gold Reserve 訴委內瑞拉案仲裁庭拒絕因國家有違約徵收傾向而提高 CRP，作者支持此種以違約前風險定價之「若無」方法；但 Tidewater 訴委內瑞拉案仲裁庭接受較高之 CRP，認為評價日之買方會將可見風險計入價格，作者提醒聲請人不應輕忽此一反論。\n・解方：以機率調整個別現金流項目（例如以 20% 之貶值機率直接反映在營收預測），而非在折現率上加總括溢酬，使對方攻擊單一假設時，仲裁庭得僅調整該項而不致捨棄整體求償。",
+   "significance": "作者結論：DCF 的可靠度取決於折現率；若將外國投資人當作本地投資人、依賴地主國主權殖利率或忽略資本整合與現金流重疊，評價即容易遭排除或大幅刪減。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。作者所屬 M Value Advisory 為評價顧問機構。本文兼論商務仲裁與投資仲裁，因所舉案例均為投資條約案件，本站歸入投資仲裁。",
+   "tags": [
+    "損害賠償",
+    "折現率",
+    "現金流量折現法",
+    "國家風險溢酬",
+    "委內瑞拉",
+    "巴基斯坦",
+    "ICSID"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 文章",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/the-domestic-wacc-trap-why-international-tribunals-keep-slashing-damage-claims-in-cross-border-jv-disputes/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T23:12:57+08:00"
   }
  ],
  "agenda": [
@@ -9809,6 +10000,30 @@
    "caseRef": "LCIA；CTFIC0064/2025；CL-2025-000313",
    "summary": "前 VTB 歐洲銀行 OWH 就換匯交易終止款項在 LCIA 仲裁對 Rusal 及其澤西子公司取得逾 2 億歐元判斷，並在英國、澤西島、印度、卡達等地追索執行；Rusal 另依德國－蘇聯投資協定對 OWH 與德國提起仲裁。",
    "status": "卡達金融中心法院於 2026 年 10 月宣告 Rusal 將卡達控股公司股份移轉予子公司無效，11 月 12 日再釐清後續增資效力；澤西案件在樞密院上訴中。"
+  },
+  {
+   "id": "enagas-v-peru-tgp",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Enagás 訴秘魯（TGP 股利匯出案）",
+   "nameOriginal": "Enagás Internacional S.L.U. v. Republic of Peru",
+   "caseRef": "ICSID Case No. ARB/21/6",
+   "summary": "西班牙 Enagás 主張秘魯依第 30737 號法律禁止其匯出天然氣輸送公司 TGP 之股利並要求提供保證，違反西班牙—秘魯投資協定。",
+   "status": "仲裁庭於 2026 年 11 月作成判斷，認定秘魯違約並命放行股利、返還 6,500 萬美元保證；秘魯得聲請撤銷。"
+  },
+  {
+   "id": "jkx-v-russia",
+   "type": "案件",
+   "court": "NEWS",
+   "field": "investment",
+   "forum": "",
+   "name": "JKX 訴俄羅斯（阿迪格天然氣田國有化）",
+   "nameOriginal": "JKX Oil & Gas v. Russian Federation",
+   "caseRef": "",
+   "summary": "英國 JKX 集團主張俄羅斯法院以「極端主義」為由沒收其經營 Koshekhablskoye 氣田之 Yuzhgazenergie 等事業，構成違法徵收。",
+   "status": "2026 年 11 月依報導推進條約仲裁，仲裁機構、所依條約與求償金額尚未公開。"
   }
  ]
 }
