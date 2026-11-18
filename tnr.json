@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-18T07:14:04+08:00",
-  "lastRunLocal": "2026-11-18 07:14",
+  "lastRun": "2026-11-18T23:16:29+08:00",
+  "lastRunLocal": "2026-11-18 23:16",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：俄羅斯 1（事件 1）、越南 1（政府措施 1）、中國 1（評論 1）"
+  "lastRunNote": "新增 5 則：中國 2（立法動態 1、事件 1）、越南 1（倡議 1）、伊朗 1（政府措施 1）、印度 1（司法案件 1）"
  },
  "items": [
   {
@@ -58,7 +58,8 @@
     "陸委會"
    ],
    "related": [
-    "2026-11-05-tnr-taiwan-mac-nine-patterns"
+    "2026-11-05-tnr-taiwan-mac-nine-patterns",
+    "2026-11-18-tnr-taiwan-moj-tnr-crime-draft-ey"
    ],
    "sources": [
     {
@@ -248,7 +249,8 @@
    "related": [
     "2026-11-09-tnr-mekong-viet-tan-witnesses",
     "2026-10-06-tnr-hrw-lao-critic-missing-thailand",
-    "2026-11-16-tnr-albanese-raises-tran-hiep-vietnam"
+    "2026-11-16-tnr-albanese-raises-tran-hiep-vietnam",
+    "2026-11-17-tnr-fh-joint-appeal-albanese-tran-hiep"
    ],
    "sources": [
     {
@@ -936,7 +938,9 @@
     "入出國及移民法",
     "聯合國難民署"
    ],
-   "related": [],
+   "related": [
+    "2026-11-16-tnr-cheng-wanjun-missing-thailand"
+   ],
    "sources": [
     {
      "label": "中央社報導",
@@ -3918,7 +3922,8 @@
     "2026-10-26-tnr-taiwan-tnr-bills-legislature",
     "2026-10-30-tnr-taiwan-jrf-tnr-press-conference",
     "2026-11-03-tnr-taiwan-nsb-anti-infiltration-report",
-    "2026-11-05-tnr-taiwan-moj-amendment-hotline"
+    "2026-11-05-tnr-taiwan-moj-amendment-hotline",
+    "2026-11-18-tnr-taiwan-moj-tnr-crime-draft-ey"
    ],
    "sources": [
     {
@@ -4930,7 +4935,8 @@
     "2026-11-04-tnr-taiwan-npa-tnr-cases",
     "2026-11-05-tnr-taiwan-mac-nine-patterns",
     "2026-11-05-tnr-taiwan-moj-amendment-hotline",
-    "2026-11-11-tnr-tao-anti-infiltration-evil-law"
+    "2026-11-11-tnr-tao-anti-infiltration-evil-law",
+    "2026-11-18-tnr-taiwan-moj-tnr-crime-draft-ey"
    ],
    "sources": [
     {
@@ -5858,7 +5864,8 @@
    "related": [
     "2026-11-05-tnr-taiwan-moj-amendment-hotline",
     "2026-11-03-tnr-taiwan-nsb-anti-infiltration-report",
-    "2026-11-11-tnr-taiwan-mac-rebuts-tao"
+    "2026-11-11-tnr-taiwan-mac-rebuts-tao",
+    "2026-11-18-tnr-taiwan-moj-tnr-crime-draft-ey"
    ],
    "sources": [
     {
@@ -6226,7 +6233,8 @@
     "2026-10-27-tnr-iran-intl-trial-prosecution-cross",
     "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony",
     "2026-10-06-tnr-london-iran-international-trial",
-    "2026-11-06-tnr-aidinidis-iran-intl-not-guilty"
+    "2026-11-06-tnr-aidinidis-iran-intl-not-guilty",
+    "2026-11-16-tnr-uk-pm-iran-journalists-warning"
    ],
    "sources": [
     {
@@ -6405,7 +6413,8 @@
     "2026-10-23-tnr-viet-tan-consular-access",
     "2026-10-13-tnr-hrw-vietnam-viet-tan",
     "2026-11-14-tnr-hrw-francophonie-mekong",
-    "2026-11-16-tnr-albanese-raises-tran-hiep-vietnam"
+    "2026-11-16-tnr-albanese-raises-tran-hiep-vietnam",
+    "2026-11-17-tnr-fh-joint-appeal-albanese-tran-hiep"
    ],
    "sources": [
     {
@@ -6854,7 +6863,8 @@
    ],
    "related": [
     "2026-11-09-tnr-mekong-viet-tan-witnesses",
-    "2026-11-14-tnr-hrw-francophonie-mekong"
+    "2026-11-14-tnr-hrw-francophonie-mekong",
+    "2026-11-17-tnr-fh-joint-appeal-albanese-tran-hiep"
    ],
    "sources": [
     {
@@ -6921,6 +6931,307 @@
     }
    ],
    "addedAt": "2026-11-18T07:14:04+08:00"
+  },
+  {
+   "id": "2026-11-18-tnr-taiwan-moj-tnr-crime-draft-ey",
+   "court": "CN",
+   "kind": "立法動態",
+   "caseId": "taiwan-tnr-response",
+   "jurisdiction": "台灣",
+   "outlet": "中央社",
+   "outletCode": "CNA",
+   "date": "2026-11-18",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "法務部長鄭銘謙：《反滲透法》修正草案已送行政院，擬增訂「跨國鎮壓罪」並加重相關刑度",
+   "shortTitle": "反滲透法增訂跨國鎮壓罪草案送政院",
+   "point": "草案將跨國鎮壓初步定義為境外敵對勢力跨境攻擊個人、團體或公務員以製造寒蟬效應",
+   "titleOriginal": "反滲透法擬增訂跨國鎮壓罪 法務部：草案已送行政院",
+   "caseRef": "",
+   "tldr": "法務部長鄭銘謙在立法院表示，《反滲透法》修正草案已經送到行政院，準備新增「跨國鎮壓罪」並提高相關刑罰，之後會盡快送立法院。他說目前這類案件只能用個資法、傷害、恐嚇等罪名起訴，遠遠不夠。",
+   "memo": "依中央社 2026 年 11 月 18 日報導，法務部長鄭銘謙於立法院司法及法制委員會答詢時表示，法務部擬具之《反滲透法》修正草案已送行政院審查，將增訂「跨國鎮壓罪」並加重相關刑度，草案初步將跨國鎮壓定義為境外敵對勢力跨越國境攻擊個人、團體或我國公務員，藉寒蟬效應干擾我國秩序與民主制度，並規範在台協力者；被害人保護則由其他部會另訂專法。具體刑度及條次報導未載。",
+   "context": "台灣近月偵辦多起被認為與中國指使有關的攻擊、跟監與恐嚇案件，包括黃逸豪遭撞案、矢板明夫遇襲案及徵信業者跟監八炯、閩南狼案。行政院 10 月底表示將提出《反滲透法》修正，國安局 11 月初亦報告已啟動修法；國台辦則斥修法為「惡法」。\n現行實務多以《個人資料保護法》及刑法傷害、殺人未遂、公然侮辱、恐嚇等罪追訴此類行為。",
+   "facts": [
+    "依中央社報導，鄭銘謙稱法務部擬具之《反滲透法》修正草案已送行政院審查，將儘快送立法院。",
+    "草案將增訂「跨國鎮壓罪」並加重相關刑度。",
+    "跨國鎮壓初步定義為：境外敵對勢力跨越國境攻擊個人、團體或台灣公務員，意在以寒蟬效應使人自我審查，干擾台灣秩序與民主制度；「境外敵對勢力」亦為草案重要定義。",
+    "鄭銘謙稱現行以個資法及刑法傷害、殺人未遂、侮辱、恐嚇等罪追訴「遠遠不夠」，並以黃逸豪案及干擾公務員權益之行為為新罪名所欲涵蓋之例。",
+    "草案處理「在台協力者」；被害人保護部分由其他部會另擬專法，法務部協助法制。",
+    "民進黨立委范雲於委員會質詢定義、徵信業者與中間人是否加重責任及被害人保護等問題。"
+   ],
+   "issues": [
+    "「跨國鎮壓」與「境外敵對勢力」之構成要件如何界定，方符合罪刑明確性原則。",
+    "在台協力者（如徵信業者、中間人）之刑責是否另設加重規定。",
+    "被害人保護專法與《反滲透法》修正之分工。"
+   ],
+   "holding": "・法務部：《反滲透法》修正草案已送行政院，增訂跨國鎮壓罪、加重刑度。\n・定義（初步）：境外敵對勢力跨境攻擊個人、團體或公務員，以寒蟬效應干擾台灣秩序與民主。\n・涵蓋對象：含在台協力者；被害人保護另訂專法。\n・具體刑度、條次及送院日期：報導未載。",
+   "significance": "本則顯示台灣對跨境鎮壓的修法已由研議進入行政院審查階段。後續可觀察行政院會通過草案的時間、條文是否公布，以及立法院審議時對構成要件明確性與在台協力者刑責的討論。",
+   "editorNote": "本網頁助理 註：中央社報導未明載鄭銘謙發言及草案送行政院的確切日期，故裁判／事件日期留空；發言場合為立法院司法及法制委員會。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "台灣",
+    "反滲透法",
+    "修法",
+    "法務部",
+    "在台協力者"
+   ],
+   "related": [
+    "2026-10-29-tnr-taiwan-ey-anti-infiltration-amendment",
+    "2026-11-03-tnr-taiwan-nsb-anti-infiltration-report",
+    "2026-11-11-tnr-tao-anti-infiltration-evil-law",
+    "2026-11-17-tnr-taiwan-pi-firm-bajiong-minnan-wolf"
+   ],
+   "sources": [
+    {
+     "label": "中央社報導",
+     "url": "https://www.cna.com.tw/news/aipl/202611180116.aspx",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T23:16:29+08:00"
+  },
+  {
+   "id": "2026-11-17-tnr-fh-joint-appeal-albanese-tran-hiep",
+   "court": "VN",
+   "kind": "倡議",
+   "caseId": "viet-tan-cambodia-abduction",
+   "jurisdiction": "柬埔寨、越南",
+   "outlet": "自由之家",
+   "outletCode": "FH",
+   "date": "2026-11-17",
+   "eventDate": "2026-11-17",
+   "importance": 1,
+   "author": "",
+   "title": "自由之家等九團體聯名致函澳洲總理艾班尼斯，促於東協及 APEC 峰會向越南要求釋放遭擄的 Tran Hiep",
+   "shortTitle": "九團體促艾班尼斯要越南放 Tran Hiep",
+   "point": "要求向蘇林當面提出三人遭擄案，並表明跨國鎮壓與兩國全面戰略夥伴關係不相容",
+   "titleOriginal": "Joint NGO Appeal to PM Albanese about Human Rights Activists' Abduction",
+   "caseRef": "",
+   "tldr": "自由之家、越新黨等九個團體聯名寫信給澳洲總理艾班尼斯，要求他在東協和 APEC 峰會上向越南領導人蘇林提出澳洲公民 Tran Hiep 等三人在柬埔寨被擄到越南的案子，並要求越南立即放人。Tran Hiep 的妻子 11 月 18 日也向媒體表示，擔心他的案子被當成一般刑案處理。",
+   "memo": "依自由之家 2026 年 11 月 17 日公布之聯合聲明，自由之家、越新黨、Manushya Foundation、Justice Abroad 及多個 ACAT 組織等九團體致函澳洲總理艾班尼斯，指澳洲公民 Tran Hiep、挪威公民 Nguyen Duc Thuan 及越南公民 Thai Cong Truong Son 於同年 9 月 18 日在柬埔寨遭擄並移送越南，請其於東協及 APEC 峰會向越共總書記蘇林當面提出、要求說明並使 Tran Hiep 立即無條件返澳，且表明跨國鎮壓與兩國全面戰略夥伴關係不相容。越南當局則稱三人非法入境從事恐怖活動。",
+   "context": "越新黨成員 Tran Hiep 等三人 2026 年 9 月 18 日在柬埔寨失聯，約十天後越南當局宣布逮捕，指三人非法入境從事恐怖及破壞活動，越南將越新黨列為恐怖組織。Tran Hiep 現押於胡志明市 B34 看守所。艾班尼斯 11 月中旬於東協峰會場邊已向越南總理提出本案（見本站相關則）。",
+   "facts": [
+    "聯合聲明 2026 年 11 月 17 日公布，連署者為 ACAT 比利時、蒲隆地、法國、德國分會、自由之家、Justice Abroad、Manushya Foundation、SOS-TORTURE/BURUNDI 及越新黨。",
+    "聲明稱三人於 2026 年 9 月 18 日在柬埔寨遭擄並移送越南；Tran Hiep 10 月 15 日首次獲領事探視時稱「我從未自行進入越南」。",
+    "聲明引述 Mekong Independent 報導中柬埔寨波羅勉省匿名村民所述，擄人者曾毆打三人。",
+    "聲明以馬尼拉東協峰會（11 月 16–17 日）及深圳 APEC 峰會（11 月 18–19 日）為向越方提出本案之時機。",
+    "依澳洲聯合新聞社（AAP）報導，Tran Hiep 妻子 Chloe Dang 11 月 18 日稱當天正好是丈夫遭擄滿兩個月，歡迎總理出面，但不希望其案與其他一般案件並列；報導稱下一次領事探視排定於 11 月 20 日。"
+   ],
+   "issues": [
+    "遭擄移送是否構成跨國鎮壓與強迫失蹤，及越南、柬埔寨之國際法責任。",
+    "澳洲在經貿夥伴關係下以外交手段保護本國公民之力道。"
+   ],
+   "holding": "・九團體要求：一、艾班尼斯當面向蘇林提出三人案件並要求完整說明；二、要求 Tran Hiep 立即無條件安全返澳；三、表明跨國鎮壓與兩國全面戰略夥伴關係不相容、將影響雙邊關係。\n・越南方面：先前稱三人非法越境並承認為越新黨成員，聲明未載新回應。\n・家屬（依 AAP）：歡迎總理介入，但擔心案件被與一般刑案混為一談。",
+   "significance": "本則反映國際人權團體將 Tran Hiep 案定性為跨國鎮壓並向澳洲施壓。後續可觀察 11 月 20 日領事探視結果、艾班尼斯是否於 APEC 會晤越方領導人時再提本案，以及越南起訴進度。",
+   "editorNote": "本網頁助理 註：聯合聲明之事實陳述為連署團體之主張；AAP 報導未載明確發布日期，依內容「滿兩個月」推定為 11 月 18 日。",
+   "tags": [
+    "跨國鎮壓",
+    "越南",
+    "柬埔寨",
+    "澳洲",
+    "越新黨",
+    "Tran Hiep",
+    "擄人",
+    "強迫失蹤",
+    "領事保護"
+   ],
+   "related": [
+    "2026-11-16-tnr-albanese-raises-tran-hiep-vietnam",
+    "2026-11-14-tnr-hrw-francophonie-mekong",
+    "2026-11-09-tnr-mekong-viet-tan-witnesses"
+   ],
+   "sources": [
+    {
+     "label": "自由之家聯合聲明原文",
+     "url": "https://freedomhouse.org/article/joint-ngo-appeal-pm-albanese-about-human-rights-activists-abduction",
+     "official": false
+    },
+    {
+     "label": "澳洲聯合新聞社（AAP）報導",
+     "url": "https://aapnews.aap.com.au/news/jailed-activist-s-wife-urges-stronger-pm-release-push",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T23:16:29+08:00"
+  },
+  {
+   "id": "2026-11-16-tnr-cheng-wanjun-missing-thailand",
+   "court": "CN",
+   "kind": "事件",
+   "caseId": "cheng-wanjun-taiwan-asylum",
+   "jurisdiction": "泰國",
+   "outlet": "大紀元",
+   "outletCode": "ET",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-14",
+   "importance": 2,
+   "author": "",
+   "title": "依盛雪稱，遭台灣送返泰國的前央視主講人程萬軍 11 月 14 日於泰國旅館告知友人有人敲門後失聯",
+   "shortTitle": "程萬軍遭送返泰國後失聯",
+   "point": "依盛雪所述，最後訊息為有人敲旅館房門；泰、中當局未回應，下落未經證實",
+   "titleOriginal": "盛雪：中國媒體人程萬軍在泰國賓館失聯",
+   "caseRef": "",
+   "tldr": "11 月初在桃園機場求庇護、被台灣送回曼谷的前央視節目主講人程萬軍，據旅加作家盛雪說，11 月 14 日中午傳訊給朋友說有人在敲他旅館的門，之後就聯絡不上。盛雪認為很可能是中共跨境抓人，但目前沒有任何官方確認。",
+   "memo": "依大紀元及看中國 2026 年 11 月 16 日報導，旅加作家盛雪於社群平台 X 發文稱，前中國中央電視台節目主講人程萬軍於同年 11 月 14 日泰國時間上午 11 時 53 分告知友人有人敲其旅館房門，其後即告失聯，友人前往查詢未獲結果；盛雪已通報人權組織及泰國人權律師團體，並認為可能遭中共跨境抓捕。程萬軍此前於桃園機場請求人道保護，經台灣送返曼谷。報導未載泰國或中國當局回應，其下落未經證實。",
+   "context": "程萬軍自稱 2019 年因在內部會議批評習近平遭檢舉，以非法經營罪判刑 6 年，2025 年出獄，2026 年 10 月 14 日赴泰國，並向聯合國難民署泰國辦事處申請難民身分。11 月初他在桃園機場請求台灣提供短期人道保護，台灣以未提具體事證、無有效入境許可為由於 11 月 4 日將其送返曼谷（見本站相關則）。\n泰國近年曾遣返維吾爾人及其他國家異議者，越南、寮國運動者亦曾在泰國失蹤。",
+   "facts": [
+    "依盛雪 11 月 15 日於 X 發文，程萬軍 11 月 14 日泰國時間 11 時 53 分告知友人有人敲其旅館房門，此後失聯。",
+    "友人前往旅館查詢，因語言障礙未獲資訊。",
+    "盛雪稱已將訊息轉知 Front Line Defenders 及泰國人權律師團體，至報導時無新消息。",
+    "看中國報導稱聯合國難民署泰國辦事處曾將其列為最高風險等級，但表示無法保證其安全。",
+    "大紀元稱致電程萬軍未獲回應；兩報導均未載泰國或中國當局回應。"
+   ],
+   "issues": [
+    "程萬軍是否遭泰國當局拘留或遣返中國，或遭中國人員跨境帶走，目前無法證實。",
+    "台灣將其送返泰國之決定與不遣返原則之關係。"
+   ],
+   "holding": "・盛雪（依報導）：程萬軍 11 月 14 日起失聯，「很有可能」遭中共跨境抓捕——此為其個人判斷。\n・泰國、中國當局：報導未載回應。\n・台灣陸委會：先前表示無法查證其受迫害主張，依程序送返出發地曼谷。",
+   "significance": "若程萬軍確遭拘押或移交中國，將使台灣送返決定及泰國作為異議者中轉地的風險再受檢視。應留意泰國移民局、聯合國難民署或人權團體是否證實其下落。",
+   "editorNote": "本網頁助理 註：本則僅有大紀元與看中國兩家報導，均轉述盛雪社群貼文，未見主流媒體或官方證實。大紀元報導稱程萬軍於 11 月 12 日在桃園機場跳機，與看中國所載 11 月 2 日轉機及本站先前依其他報導所載 11 月初送返之時序不一致，本則不採該日期。裁判／事件日期為盛雪所述最後聯繫日。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "泰國",
+    "台灣",
+    "程萬軍",
+    "失聯",
+    "庇護",
+    "不遣返原則"
+   ],
+   "related": [
+    "2026-11-04-tnr-cheng-wanjun-taiwan-deported"
+   ],
+   "sources": [
+    {
+     "label": "大紀元報導",
+     "url": "https://www.epochtimes.com/b5/26/11/16/n14889462.htm",
+     "official": false
+    },
+    {
+     "label": "看中國報導",
+     "url": "https://www.secretchina.com/news/b5/2026/11/16/1107539.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T23:16:29+08:00"
+  },
+  {
+   "id": "2026-11-16-tnr-uk-pm-iran-journalists-warning",
+   "court": "IR",
+   "kind": "政府措施",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "英國首相府",
+   "outletCode": "UKGOV",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-16",
+   "importance": 1,
+   "author": "",
+   "title": "英國首相伯納姆於倫敦市長晚宴演說：不會容許伊朗資助攻擊記者、英國猶太社群及空軍基地而不回應",
+   "shortTitle": "英相伯納姆警告伊朗勿攻擊記者",
+   "point": "稱不容伊朗資助攻擊記者、猶太社群與空軍基地而不回應；警方稱一年內逾 50 人涉伊朗案被捕",
+   "titleOriginal": "PM speech at the Lord Mayor's Banquet: 16 November 2026",
+   "caseRef": "",
+   "tldr": "英國首相伯納姆 11 月 16 日在倫敦市長晚宴發表外交政策演說，表示英國不會讓伊朗資助攻擊記者、英國猶太社群和空軍基地的行為不受回應。演說幾天前，倫敦法院才剛將兩名為伊朗監視伊朗國際台記者的男子定罪。",
+   "memo": "依英國政府網站 2026 年 11 月 16 日公布之講稿，英國首相伯納姆（Andy Burnham）於倫敦市長晚宴演說中表示，英國不能容許伊朗擁有核武或屠殺其人民，亦不會容許伊朗資助對記者、英國猶太社群及空軍基地之攻擊而不予回應。依伊朗國際台同日報導，英國警方稱過去一年與伊朗有關之行動已致逾 50 人被捕；伊朗否認針對伊朗國際台及 BBC 波斯語台記者。",
+   "context": "伊朗國際台與 BBC 波斯語台等倫敦波斯語媒體記者多年來遭跟監、威脅及攻擊。2026 年 11 月 12 日，倫敦中央刑事法院陪審團裁決兩名被告為伊朗監視伊朗國際台記者罪成，定於 12 月 17 日量刑；另有希臘籍男子 Aidinidis 案待審（見本站相關則）。",
+   "facts": [
+    "講稿載明伯納姆稱：英國不能容許伊朗擁有核武、屠殺其人民並不受制約地威脅區域，也不會容許其資助對記者、猶太社群及空軍基地之攻擊而不回應。",
+    "演說同段表示英國支持調停者達成結束戰爭、重開荷莫茲海峽並阻止伊朗發展核武之協議。",
+    "依伊朗國際台報導，警方引述軍情五處首長 McCallum 稱過去一年伊朗相關行動在英國導致逾 50 人被捕；Woolwich 案為第四宗針對伊朗國際台人員或辦公室之起訴。",
+    "講稿未提及異議者或「跨國鎮壓」字眼；具體回應措施未說明。"
+   ],
+   "issues": [
+    "英國政府將伊朗資助之攻擊記者行為納入國家層級警告後，是否採取制裁、外交或依《國家安全法》之進一步措施。"
+   ],
+   "holding": "・英國首相：不會容許伊朗資助攻擊記者、猶太社群及空軍基地而不回應（未說明具體措施）。\n・伊朗：依伊朗國際台，德黑蘭一向否認針對該台及 BBC 波斯語台記者，報導未載對本次演說之回應。",
+   "significance": "首相於年度外交政策演說中點名伊朗資助攻擊記者，顯示伊朗對英國境內流亡媒體的威脅已列為國家層級議題。後續可觀察 12 月 17 日伊朗國際台監視案量刑，及英國是否對伊朗相關機構追加措施。",
+   "editorNote": "",
+   "tags": [
+    "跨國鎮壓",
+    "伊朗",
+    "英國",
+    "伊朗國際台",
+    "記者",
+    "國家安全法"
+   ],
+   "related": [
+    "2026-11-12-tnr-iran-intl-trial-verdict"
+   ],
+   "sources": [
+    {
+     "label": "英國政府首相演說講稿全文",
+     "url": "https://www.gov.uk/government/speeches/pm-speech-at-the-lord-mayors-banquet-16-november-2026",
+     "official": true
+    },
+    {
+     "label": "伊朗國際台報導",
+     "url": "https://www.iranintl.com/en/202611163186",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T23:16:29+08:00"
+  },
+  {
+   "id": "2026-11-16-tnr-nikhil-gupta-sentencing-memo",
+   "court": "IN",
+   "kind": "司法案件",
+   "caseId": "nikhil-gupta-pannun-plot",
+   "jurisdiction": "美國",
+   "outlet": "論壇報（The Tribune）",
+   "outletCode": "Tribune",
+   "date": "2026-11-16",
+   "eventDate": "2026-11-13",
+   "importance": 2,
+   "author": "",
+   "title": "謀殺錫克族運動者 Pannun 未遂案：美國檢方求處 Nikhil Gupta 293 個月徒刑，辯方主張 12 年，11 月 20 日量刑",
+   "shortTitle": "Pannun 謀殺案檢方求處 Gupta 逾 24 年",
+   "point": "檢方求量刑準則上限 293 個月；辯方援引緩刑官建議求 144 個月，印度否認政府涉入",
+   "titleOriginal": "US seeks 24-year jail for Nikhil over Pannun plot; defence wants 12 years",
+   "caseRef": "",
+   "tldr": "在美國受審、已認罪的印度人 Nikhil Gupta，被控受印度政府人員 Vikash Yadav 指使，雇人在美國暗殺錫克族分離運動者 Pannun。檢方要求判他 293 個月（約 24 年），辯方要求 12 年，法院將在 11 月 20 日宣判。印度否認政府涉案。",
+   "memo": "依論壇報及 Free Press Journal 2026 年 11 月 16 日報導，美國紐約南區聯邦地方法院審理之 Nikhil Gupta 案，檢方於同年 11 月 13 日前後提出量刑備忘錄，以被告參與外國主導、於美國境內殺害美國公民 Gurpatwant Singh Pannun 之陰謀，請求依量刑準則 235 至 293 個月之上限判處 293 個月有期徒刑；辯方援引緩刑部門建議請求 144 個月。Gupta 已於 2026 年 2 月就受僱殺人、共謀受僱殺人及共謀洗錢三罪認罪，量刑訂於 11 月 20 日由 Victor Marrero 法官宣告。印度否認政府涉入。",
+   "context": "Gurpatwant Singh Pannun 為具美國及加拿大雙重國籍的錫克族分離運動「錫克正義組織」法律顧問，印度將其列為恐怖分子。美國檢方指控印度政府人員 Vikash Yadav 招募 Gupta 安排殺害 Pannun，Gupta 接觸之殺手實為美國臥底執法人員；Gupta 2023 年在捷克被捕、2024 年引渡美國。加拿大亦曾指控印度涉及 2023 年錫克族領袖 Nijjar 遇害案。",
+   "facts": [
+    "依論壇報，檢方於 2026 年 11 月 13 日向紐約南區聯邦地院提出量刑備忘錄，請求 293 個月，為量刑準則 235 至 293 個月之上限。",
+    "檢方稱 Gupta 數週間持續規劃，不能以酒精依賴或他人施壓解釋，稱其行為「殘暴」「大膽」，重刑有嚇阻作用。",
+    "辯方支持緩刑部門建議之 144 個月及三年監督釋放，理由包括無前科、認罪與合作、酒精依賴，並稱其受 Yadav 施壓。",
+    "依 Free Press Journal，Gupta 致函法官表示深感懊悔。",
+    "Gupta 已於 2026 年 2 月就三罪認罪，三罪合計最高刑期 40 年；量刑訂於 11 月 20 日。",
+    "印度否認政府涉入，稱此類行為違反其政策。"
+   ],
+   "issues": [
+    "外國政府人員指使於美國境內暗殺海外運動者之量刑考量與嚇阻。",
+    "被指控之印度政府人員 Vikash Yadav 之追訴及印度國家責任。"
+   ],
+   "holding": "・罪名：受僱殺人、共謀受僱殺人、共謀洗錢（已認罪）。\n・檢方求刑：293 個月。\n・辯方求刑：144 個月。\n・量刑：2026 年 11 月 20 日，Victor Marrero 法官。\n・印度：否認政府涉入。",
+   "significance": "本案是美國少數就外國政府人員涉嫌指使於其境內暗殺海外異議運動者而追訴並將量刑的案件，判決刑度將受各國關注。後續可觀察 11 月 20 日量刑結果及 Yadav 之追訴進度。",
+   "editorNote": "本網頁助理 註：本站涵蓋期間前已發生的認罪等程序依報導所述；檢方備忘錄提出日依論壇報為 11 月 13 日（Free Press Journal 稱「約 11 月 13 日」），本站未取得法院文件原本。",
+   "tags": [
+    "跨國鎮壓",
+    "印度",
+    "美國",
+    "錫克族",
+    "Pannun",
+    "受僱殺人",
+    "量刑"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "論壇報（The Tribune）報導",
+     "url": "https://www.tribuneindia.com/news/world/us-seeks-24-year-jail-for-nikhil-over-pannun-plot-defence-wants-12-years/",
+     "official": false
+    },
+    {
+     "label": "Free Press Journal 報導",
+     "url": "https://www.freepressjournal.in/world/us-prosecutors-seek-24-year-jail-term-for-indian-national-nikhil-gupta-in-pannun-assassination-plot-case",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-18T23:16:29+08:00"
   }
  ],
  "agenda": [
@@ -6969,10 +7280,10 @@
    "date": "2026-11-20",
    "court": "IN",
    "title": "Nikhil Gupta 謀殺錫克族運動者 Pannun 未遂案量刑（紐約南區聯邦法院）",
-   "note": "依 2026 年 8 月報導，量刑日由 9 月 25 日延至 11 月 20 日上午 10 時；日期可能再變動。",
+   "note": "11 月 20 日於紐約南區聯邦地院由 Victor Marrero 法官量刑（依 2026 年 11 月 16 日報導）；日期可能變動。",
    "url": "https://www.freepressjournal.in/world/gurpatwant-pannun-assassination-plot-us-court-delays-nikhil-gupta-sentencing-to-november-20",
-   "relatedId": "",
-   "caseId": ""
+   "relatedId": "2026-11-16-tnr-nikhil-gupta-sentencing-memo",
+   "caseId": "nikhil-gupta-pannun-plot"
   },
   {
    "id": "2026-11-30-cn-interpol-general-assembly-hong-kong",
@@ -7047,7 +7358,7 @@
    "nameOriginal": "Taiwan's response to China-linked transnational repression",
    "caseRef": "",
    "summary": "台灣政府對受中國指使的跟監、恐嚇與暴力事件的偵辦、警示與修法動向。",
-   "status": "法務部研擬修正《反滲透法》增訂罪名、加重刑度，條文尚未公布；陸委會將設通報專線；國台辦 11 月 11 日稱「跨國鎮壓」為謊言，陸委會駁斥；刑事局 11 月 13 日夜間全國同步掃蕩幫派據點，稱防範幫派充當跨國鎮壓在地協力者。"
+   "status": "法務部 11 月 18 日稱《反滲透法》修正草案（增訂跨國鎮壓罪、加重刑度）已送行政院審查，條文尚未公布；陸委會將設通報專線；國台辦 11 月 11 日稱「跨國鎮壓」為謊言，陸委會駁斥；刑事局 11 月 13 日夜間全國同步掃蕩幫派據點。"
   },
   {
    "id": "viet-tan-cambodia-abduction",
@@ -7058,7 +7369,7 @@
    "nameOriginal": "Viet Tan members taken from Cambodia (Nguyen Duc Thuan, Tran Hiep, Thai Cong Truong Son)",
    "caseRef": "",
    "summary": "三名越新黨成員（含挪威籍、澳洲籍各一）2026 年 9 月在柬埔寨失聯後遭越南羈押，越南稱其非法入境並控以恐怖主義與偽造文書。",
-   "status": "三人以恐怖主義等罪名遭起訴，關押於胡志明市 B34 監獄；澳洲總理艾班尼斯 11 月 15 日於東協峰會場邊向越南總理提出 Tran Hiep 案，越方仍稱三人非法越境。"
+   "status": "三人以恐怖主義等罪名遭起訴，關押於胡志明市 B34 看守所；艾班尼斯 11 月中旬於東協峰會場邊向越南總理提出 Tran Hiep 案，九團體 11 月 17 日聯名促其再向蘇林提出；下次領事探視排定 11 月 20 日。"
   },
   {
    "id": "khieo-lapchanh-disappearance",
@@ -7168,7 +7479,7 @@
    "nameOriginal": "Cheng Wanjun asylum request in Taiwan",
    "caseRef": "",
    "summary": "自稱遭中共迫害的前央視節目主講人程萬軍 2026 年 11 月在桃園機場請求人道保護，台灣以未提出具體事證、無有效入境許可為由將其送返泰國。",
-   "status": "已於 11 月 4 日凌晨送返曼谷；程萬軍指控遣返時遭暴力對待，表示將向監察院及法院提告，並在泰國申請轉赴第三國。"
+   "status": "11 月 4 日遭送返曼谷；依盛雪所述，程萬軍 11 月 14 日於泰國旅館告知友人有人敲門後失聯，下落未經官方證實。"
   },
   {
    "id": "hong-kong-overseas-wanted",
@@ -7224,6 +7535,17 @@
    "caseRef": "",
    "summary": "北馬其頓與希臘情報機關稱破獲受伊朗人 Edris Jahangiri Mavaneh 指揮、預謀在希臘行刺的網絡。",
    "status": "2026 年 11 月 17 日公布：5 名北馬其頓人被捕、1 人在逃；目標與罪名未公布。"
+  },
+  {
+   "id": "nikhil-gupta-pannun-plot",
+   "type": "案件",
+   "court": "IN",
+   "forum": "美國紐約南區聯邦地方法院",
+   "name": "Nikhil Gupta 謀殺 Pannun 未遂案",
+   "nameOriginal": "United States v. Nikhil Gupta (Pannun murder-for-hire plot)",
+   "caseRef": "",
+   "summary": "美國檢方指控印度政府人員 Vikash Yadav 招募印度人 Nikhil Gupta，雇人在美國暗殺錫克族分離運動者 Pannun；Gupta 2026 年 2 月認罪，印度否認涉入。",
+   "status": "檢方求刑 293 個月、辯方求 144 個月，量刑訂於 2026 年 11 月 20 日。"
   }
  ]
 }
