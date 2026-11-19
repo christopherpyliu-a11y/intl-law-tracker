@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-19T23:15:45+08:00",
-  "lastRunLocal": "2026-11-19 23:15",
+  "lastRun": "2026-11-20T07:13:41+08:00",
+  "lastRunLocal": "2026-11-20 07:13",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：中國 1（事件 1）、印度 1（司法案件 1）、綜合 1（政府措施 1）、其他 1（倡議 1）"
+  "lastRunNote": "新增 1 則：伊朗 1（事件 1）"
  },
  "items": [
   {
@@ -361,7 +361,9 @@
     "犯罪集團代理",
     "Zindashti 網絡"
    ],
-   "related": [],
+   "related": [
+    "2026-11-17-tnr-greece-plot-israeli-target-report"
+   ],
    "sources": [
     {
      "label": "The National 報導",
@@ -7527,6 +7529,67 @@
     }
    ],
    "addedAt": "2026-10-23T19:55:32+08:00"
+  },
+  {
+   "id": "2026-11-17-tnr-greece-plot-israeli-target-report",
+   "court": "IR",
+   "kind": "事件",
+   "caseId": "north-macedonia-greece-iran-plot",
+   "jurisdiction": "希臘、北馬其頓",
+   "outlet": "Ynet",
+   "outletCode": "",
+   "date": "2026-11-17",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "以色列媒體 Ynet 引消息人士稱，伊朗指揮的希臘行刺計畫目標為在希臘任職的以色列企業高層，摩薩德提供情資協助破案",
+   "shortTitle": "報導稱希臘行刺案目標為以色列高層",
+   "point": "引希臘《每日報》消息，目標非伊朗異議者；官方仍未公布目標身分",
+   "titleOriginal": "Mossad intelligence helped foil Iranian assassination plot targeting Israeli in Greece",
+   "caseRef": "",
+   "tldr": "北馬其頓和希臘 11 月 17 日公布破獲伊朗指揮的行刺網絡後，以色列 Ynet 引述消息人士說，以色列情報機關摩薩德提供了情資；希臘《每日報》（Kathimerini）則引不具名消息說，預定目標是一家在希臘營運公司的以色列籍高層。這與先前部分希臘媒體推測「目標是伊朗異議人士」不同，但官方都還沒有證實目標是誰。",
+   "memo": "依以色列 Ynet 2026 年 11 月 17 日報導，消息人士稱以色列摩薩德向希臘及北馬其頓當局提供情資，促成 5 名嫌犯遭逮捕；該報並轉引希臘《每日報》不具名消息來源，稱預謀行刺之目標為一家在希臘營運公司之以色列籍高層主管。報導指嫌犯曾赴伊朗及另一波斯灣國家與指揮者會面，並查獲武器、彈藥、手寫筆記及地圖。前述目標身分及摩薩德參與均未經官方證實，報導未載伊朗回應。",
+   "context": "北馬其頓國家安全局 11 月 17 日公布與希臘合作破獲網絡，稱由伊朗公民 Edris Jahangiri Mavaneh 指揮，並與曾涉殺害海外伊朗異議人士之 Naji Sharifi Zindashti 犯罪網絡有關；當時官方未公布目標，部分希臘媒體推測目標為在希臘之伊朗異議人士（見相關條目）。\n希臘過去數年亦曾破獲據稱與伊朗有關、針對以色列及猶太目標的攻擊計畫。",
+   "facts": [
+    "依 Ynet，消息人士稱摩薩德提供情資，協助希臘與北馬其頓當局破案；摩薩德未公開表態。",
+    "依 Ynet 轉引希臘《每日報》不具名消息，預定目標為一家在希臘營運公司之以色列籍高層主管。",
+    "依 Ynet，1 名北馬其頓公民於 11 月 12 日在希臘被捕後移交北馬其頓，另 4 人同時在史高比耶被捕；當局查獲武器、彈藥、手寫筆記及地圖。",
+    "依 Ynet 轉引《每日報》，嫌犯曾前往伊朗及另一波斯灣國家與指揮者會面。",
+    "希臘、北馬其頓官方均未公布目標身分；報導未載伊朗回應。"
+   ],
+   "issues": [
+    "本案目標若為以色列人而非伊朗異議人士，是否仍屬跨國鎮壓範疇，或應歸類為伊朗對以色列及猶太目標之境外攻擊。",
+    "伊朗利用犯罪集團作為代理人在歐洲實施暗殺之共通模式。"
+   ],
+   "holding": "・Ynet（引消息人士）：摩薩德提供情資協助破案。\n・Ynet（轉引《每日報》不具名消息）：目標為在希臘任職之以色列籍企業高層。\n・北馬其頓國安局（前次公布）：指揮者為與伊朗情報安全機關合作之伊朗公民 Mavaneh。\n・官方：目標身分仍未公布。\n・伊朗：報導未載回應。",
+   "significance": "此一報導與先前「目標為伊朗異議人士」之推測相左。若官方日後確認目標為以色列人，本案重點將轉為伊朗透過犯罪網絡對以色列目標發動境外攻擊；可觀察希臘、北馬其頓起訴文件是否公布目標及罪名。",
+   "editorNote": "本網頁助理 註：本則所載目標身分及摩薩德參與，均為以色列及希臘媒體引述不具名消息來源之說法，未經官方證實；不同報導對偵查起始時間（年初或 3 月）說法略有出入。以下為本網頁助理補充，非來源內容：若目標確為以色列企業高層而非流亡者或異議人士，本案可能不屬本站「跨國鎮壓」的狹義範圍，本站暫續追蹤至官方公布目標為止。",
+   "tags": [
+    "跨國鎮壓",
+    "伊朗",
+    "希臘",
+    "北馬其頓",
+    "以色列",
+    "暗殺計畫",
+    "犯罪集團代理",
+    "Zindashti 網絡"
+   ],
+   "related": [
+    "2026-11-17-tnr-north-macedonia-greece-iran-plot"
+   ],
+   "sources": [
+    {
+     "label": "Ynet 報導",
+     "url": "https://www.ynetnews.com/article/sycajq90fg",
+     "official": false
+    },
+    {
+     "label": "Greek City Times 報導（轉載路透社）",
+     "url": "https://greekcitytimes.com/2026/11/18/north-macedonia-greece-iran-linked-assassination-plot-five-arrested/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-20T07:13:41+08:00"
   }
  ],
  "agenda": [
@@ -7829,7 +7892,7 @@
    "nameOriginal": "Alleged Iran-directed assassination plot in Greece (North Macedonia NSA)",
    "caseRef": "",
    "summary": "北馬其頓與希臘情報機關稱破獲受伊朗人 Edris Jahangiri Mavaneh 指揮、預謀在希臘行刺的網絡。",
-   "status": "2026 年 11 月 17 日公布：5 名北馬其頓人被捕、1 人在逃；目標與罪名未公布。"
+   "status": "2026 年 11 月 17 日公布：5 名北馬其頓人被捕、1 人在逃；官方未公布目標與罪名，以色列 Ynet 引希臘媒體不具名消息稱目標為在希臘任職之以色列企業高層。"
   },
   {
    "id": "nikhil-gupta-pannun-plot",
