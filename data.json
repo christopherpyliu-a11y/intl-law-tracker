@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-19T07:05:18+08:00",
-  "lastRunLocal": "2026-11-19 07:05",
+  "lastRun": "2026-11-19T23:06:30+08:00",
+  "lastRunLocal": "2026-11-19 23:06",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 3 則：ECtHR 1、EJIL 評論 1、Opinio Juris 評論 1；ITLOS 阿根廷訴英國臨時措施裁定宣示時間經官方確認"
+  "lastRunNote": "新增 4 則：ICJ 1（甘比亞訴緬甸實體判決）、其他 1、EJIL 評論 1、Opinio Juris 評論 1"
  },
  "items": [
   {
@@ -1016,7 +1016,8 @@
    "related": [
     "2026-09-14-oj-gambia-myanmar-threshold",
     "2026-09-28-oj-destroy-group-physically",
-    "2026-11-03-icj-gambia-myanmar-judgment-date"
+    "2026-11-03-icj-gambia-myanmar-judgment-date",
+    "2026-11-19-icj-gambia-myanmar-merits-judgment"
    ],
    "sources": [
     {
@@ -2020,7 +2021,8 @@
    "related": [
     "2026-09-14-oj-gambia-myanmar-threshold",
     "2026-10-09-oj-gambia-myanmar-return",
-    "2026-11-03-icj-gambia-myanmar-judgment-date"
+    "2026-11-03-icj-gambia-myanmar-judgment-date",
+    "2026-11-19-icj-gambia-myanmar-merits-judgment"
    ],
    "sources": [
     {
@@ -2510,7 +2512,8 @@
     "2026-09-28-oj-destroy-group-physically",
     "2026-10-09-oj-gambia-myanmar-return",
     "2026-11-03-icj-gambia-myanmar-judgment-date",
-    "2026-11-17-oj-beyond-only-intent"
+    "2026-11-17-oj-beyond-only-intent",
+    "2026-11-19-icj-gambia-myanmar-merits-judgment"
    ],
    "sources": [
     {
@@ -5337,7 +5340,9 @@
     "2026-09-14-oj-gambia-myanmar-threshold",
     "2026-09-28-oj-destroy-group-physically",
     "2026-10-09-oj-gambia-myanmar-return",
-    "2026-11-17-oj-beyond-only-intent"
+    "2026-11-17-oj-beyond-only-intent",
+    "2026-11-19-icj-gambia-myanmar-merits-judgment",
+    "2026-11-19-ejil-gambia-myanmar-bottom-line"
    ]
   },
   {
@@ -8069,7 +8074,9 @@
    "related": [
     "2026-11-03-icj-gambia-myanmar-judgment-date",
     "2026-09-14-oj-gambia-myanmar-threshold",
-    "2026-10-12-oj-sa-israel-military-purpose-intent"
+    "2026-10-12-oj-sa-israel-military-purpose-intent",
+    "2026-11-19-icj-gambia-myanmar-merits-judgment",
+    "2026-11-19-ejil-gambia-myanmar-bottom-line"
    ]
   },
   {
@@ -8372,6 +8379,264 @@
    "outlet": "EJIL:Talk!",
    "outletCode": "EJIL",
    "author": "Vito De Lucia（挪威北極大學法學教授）、郭建平（西安交通大學法學院副教授）"
+  },
+  {
+   "id": "2026-11-19-icj-gambia-myanmar-merits-judgment",
+   "court": "ICJ",
+   "kind": "判決",
+   "caseId": "gambia-v-myanmar",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-19",
+   "importance": 3,
+   "title": "國際法院以 9 比 6 判決緬甸對羅興亞人犯下種族滅絕，並命其賠償及讓羅興亞人安全返鄉",
+   "shortTitle": "國際法院判緬甸對羅興亞人種族滅絕",
+   "point": "9 比 6 認定具消滅群體意圖，命緬甸追訴、賠償並於兩年內提出報告",
+   "titleOriginal": "Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar: 11 States intervening), Judgment",
+   "caseRef": "General List No. 178",
+   "tldr": "聯合國最高法院首度認定一個國家本身犯下種族滅絕：緬甸軍方 2017 年在若開邦北部對羅興亞人的行動，被認定是為了消滅這個群體的相當部分。法院要求緬甸追究責任人、賠償受害者並讓羅興亞人安全自願返鄉；判決不能上訴，但法院沒有自己的執行手段。",
+   "memo": "國際法院於 2026 年 11 月 19 日就甘比亞訴緬甸（防止及懲治種族滅絕罪公約）案作成實體判決，以 9 票對 6 票認定緬甸於 2017 年在若開邦北部對羅興亞人實施種族滅絕，違反公約義務，並認定其未履行防止義務；法院認為消滅該群體相當部分之意圖係唯一合理推論，駁回反恐行動之抗辯。法院命緬甸調查、追訴並懲罰行為人，提供不再犯保證，促成羅興亞人安全自願返鄉，給付賠償，並於兩年內提出報告。",
+   "context": "甘比亞於 2019 年 11 月依《種族滅絕公約》第 9 條對緬甸提起訴訟，指控緬甸軍方 2016 至 2017 年間在若開邦北部的「清剿行動」構成種族滅絕。法院於 2020 年 1 月指示臨時措施，2022 年 7 月駁回緬甸的初步反對主張，2025 年 7 月准許 11 國依規約第 63 條參加訴訟；實體言詞辯論於 2026 年 1 月舉行，法院於 11 月 3 日宣布宣判日期。\n過去國際法院僅在波士尼亞訴塞爾維亞（2007 年）與克羅埃西亞訴塞爾維亞（2015 年）兩案就種族滅絕作成實體判決，前者僅認定塞爾維亞未防止斯雷布雷尼察種族滅絕，後者則駁回雙方請求；本案是法院首度認定國家本身實施種族滅絕。",
+   "facts": [
+    "2017 年 8 月，羅興亞武裝團體攻擊後，緬甸軍方在若開邦北部展開「清剿行動」，逾 70 萬名羅興亞人逃往孟加拉。",
+    "據報導，法院認定緬甸安全部隊殺害數千名羅興亞平民，並接受聯合國調查機構至少 1 萬人遇害的估計。",
+    "法院認定軍方普遍實施強暴及其他性暴力、對兒童施以極端暴力，並攻擊大批逃難人群。",
+    "法院認定羅興亞村落遭有系統地焚毀，鄰近其他族群村落則未受波及，部分土地其後由非羅興亞人遷入；官員並散布將羅興亞人貶為「非人」的仇恨言論。",
+    "法院亦認定，軍方在武裝平民與民兵加入行動時已知悉發生種族滅絕的風險。"
+   ],
+   "issues": [
+    "緬甸是否實施種族滅絕而違反《種族滅絕公約》第 1 條及第 3 條。",
+    "推論種族滅絕特定意圖（dolus specialis）的證明標準：「完全確信之證據」與「唯一合理推論」測試的適用。",
+    "緬甸是否違反防止及懲治種族滅絕的義務（公約第 1 條、第 4 條至第 6 條）。",
+    "違反公約時的救濟：調查追訴、不再犯保證、返鄉、恢復原狀與賠償。"
+   ],
+   "holding": "法院由院長岩澤雄司宣讀判決，以 9 票對 6 票認定緬甸對若開邦北部的羅興亞群體實施種族滅絕，並駁回緬甸所稱係合法反叛亂行動的抗辯。\n法院認為，從殺戮、性暴力、針對兒童的暴力、有系統焚村及仇恨言論等整體情況來看，消滅羅興亞群體相當部分的意圖是解釋緬甸行為的唯一合理推論。\n法院另認定緬甸違反防止種族滅絕的義務。\n救濟方面，法院命緬甸停止暴力、調查追訴並懲罰行為人、制定落實公約的立法、提供不再犯保證、促成羅興亞人安全自願且有尊嚴的返鄉、協助尋找失蹤者、返還或替代受損的集體財產、提供復健並防止歧視，並給付賠償；緬甸應於兩年內提出報告。\n副院長塞布丁德、法官通卡、亞伯拉罕、薛捍勤、諾爾特及專案法官克雷斯共同提出不同意見；全案共有 11 份個別意見。",
+   "significance": "這是國際法院首度認定國家本身實施種族滅絕，判決具拘束力且不得上訴，但法院無執行手段，甘比亞可依《聯合國憲章》第 94 條第 2 項請求安理會採取行動。判決如何操作「唯一合理推論」測試，以及大量依據聯合國調查機構而非刑事法庭認定的事實，將直接影響南非訴以色列等其他審理中的種族滅絕案。緬甸目前陷於內戰，返鄉與賠償能否落實仍高度不確定；緬甸的報告預計於 2028 年 11 月前提出。",
+   "editorNote": "本網頁助理 註：本則撰寫時無法開啟國際法院判決全文與官方新聞稿，內容依 Al Jazeera、ThePrint 轉載之 PTI／Reuters 報導、Common Dreams 報導及 Marko Milanovic 於 EJIL:Talk! 的評論整理，判決主文的確切文字與各項表決票數尚待官方文件核對。各來源對賠償的描述不一：ThePrint 與 Common Dreams 稱賠償金額將於後續程序決定，Al Jazeera 稱法院表示無法確定賠償，Milanovic 則稱法院命緬甸建立恢復原狀與賠償方案並於兩年內報告。共同不同意見的成員係依 Milanovic 的評論。\n以下為本網頁助理補充，非來源內容：先前兩件種族滅絕實體判決均依賴前南斯拉夫國際刑事法庭的事實認定，本案則無相應的刑事判決可供依循。",
+   "tags": [
+    "種族滅絕公約",
+    "種族滅絕",
+    "特定意圖",
+    "唯一合理推論",
+    "防止義務",
+    "國家責任",
+    "賠償",
+    "羅興亞人",
+    "緬甸",
+    "甘比亞",
+    "國際法院"
+   ],
+   "sources": [
+    {
+     "label": "國際法院新聞稿（實體判決宣示）（PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/178/178-20261119-pre-01-00-en.pdf",
+     "official": true
+    },
+    {
+     "label": "國際法院本案案件頁面",
+     "url": "https://www.icj-cij.org/case/178",
+     "official": true
+    },
+    {
+     "label": "聯合國網路電視：判決宣讀錄影",
+     "url": "https://webtv.un.org/en/asset/k17/k17p1wcdm0",
+     "official": true
+    },
+    {
+     "label": "Al Jazeera 報導：判決對羅興亞人的意義",
+     "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya",
+     "official": false
+    },
+    {
+     "label": "ThePrint 轉載 PTI／Reuters 報導",
+     "url": "https://theprint.in/world/un-court-rules-myanmar-committed-genocide-against-rohingya-orders-reparations/3103484/",
+     "official": false
+    },
+    {
+     "label": "Common Dreams 報導",
+     "url": "https://commondreams.org/news/icj-myanmar-rohingya-genocide",
+     "official": false
+    },
+    {
+     "label": "國際特赦組織聲明",
+     "url": "https://www.amnesty.org/en/latest/news/2026/11/historic-un-ruling-that-myanmar-committed-genocide-against-rohingya-is-rare-victory-for-survivors/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T23:06:30+08:00",
+   "related": [
+    "2026-11-03-icj-gambia-myanmar-judgment-date",
+    "2026-11-17-oj-beyond-only-intent",
+    "2026-09-14-oj-gambia-myanmar-threshold",
+    "2026-09-28-oj-destroy-group-physically",
+    "2026-10-09-oj-gambia-myanmar-return",
+    "2026-11-19-ejil-gambia-myanmar-bottom-line"
+   ]
+  },
+  {
+   "id": "2026-11-19-ejil-gambia-myanmar-bottom-line",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "gambia-v-myanmar",
+   "date": "2026-11-19",
+   "eventDate": "",
+   "importance": 2,
+   "title": "米蘭諾維奇：甘比亞訴緬甸案未擴張種族滅絕定義，但事實認定明顯較過去寬鬆",
+   "shortTitle": "緬甸案判決的底線：定義未變、認事變寬",
+   "point": "作者認為多數意見名義上依循前例，實際上對證據與「消滅」的處理更具彈性",
+   "titleOriginal": "Gambia v. Myanmar: The Bottom Line",
+   "caseRef": "General List No. 178",
+   "tldr": "國際法學者 Milanovic 在判決當天評論：法院 9 比 6 的分裂顯示這是困難的案件。他認為法院沒有把種族滅絕的定義擴大到不合理的程度，但在怎麼認定事實、怎麼從證據推出意圖上，比過去的波士尼亞、克羅埃西亞案寬鬆許多，這會影響加薩等其他案件。",
+   "memo": "Marko Milanovic 於 EJIL:Talk! 撰文指出，國際法院於甘比亞訴緬甸案以 9 票對 6 票認定緬甸實施種族滅絕，多數意見雖維持「完全確信之證據」標準及「唯一合理推論」測試，並自稱依循波士尼亞案及克羅埃西亞案，但其判斷因素使種族滅絕與種族清洗、危害人類罪之界線趨於模糊，且主要依據聯合國調查機構之資料。作者認為法院未不合理擴張種族滅絕定義，惟事實認定方法較前例寬鬆，是否妥當屬合理爭議，並將影響其他審理中之種族滅絕案。",
+   "context": "國際法院於 2026 年 11 月 19 日就甘比亞訴緬甸案作成實體判決，首度認定國家本身實施種族滅絕（見本站同日判決條目）。本站先前收錄的 Opinio Juris 評論曾討論本案的證明門檻、「消滅群體」的意涵與「唯一合理推論」測試。",
+   "facts": [
+    "國際法院以 9 票對 6 票認定緬甸對羅興亞人實施種族滅絕。",
+    "法院命緬甸建立恢復原狀與賠償方案，並於兩年內報告進度。",
+    "全案共有 11 份個別意見，其中包括副院長塞布丁德、法官通卡、亞伯拉罕、薛捍勤、諾爾特及專案法官克雷斯的共同不同意見。"
+   ],
+   "issues": [
+    "多數意見是否實質依循波士尼亞案及克羅埃西亞案的種族滅絕意圖認定標準。",
+    "《種族滅絕公約》第 2 條「消滅」一詞的解釋範圍。",
+    "以聯合國事實調查機構資料作為認定特定意圖之基礎的證據問題。"
+   ],
+   "holding": "・法院一向力求共識，本案 9 比 6 的分裂與 11 份個別意見顯示這是困難案件。\n・共同不同意見是最重要的個別意見，批評多數意見對公約第 2 條「消滅」的解讀過於彈性，對證據的處理也鬆散得多。\n・多數意見形式上保留「完全確信之證據」與「唯一合理推論」測試，並自稱忠於前例，但作者認為這種忠實部分只是表面；實際採用的判斷因素模糊了種族滅絕與種族清洗、危害人類罪的區別。\n・前兩案以前南斯拉夫國際刑事法庭的認定為基礎，本案則主要依據聯合國調查機構的資料；不同意見認為，即使這些資料完全屬實，也不足以使種族滅絕意圖成為唯一合理推論。\n・作者的結論是：法院沒有把種族滅絕定義擴張到合理解釋之外，但事實認定較過去寬鬆，是否正當屬合理的見解分歧；不同意見陣營包括曾審理前兩案的法官。",
+   "significance": "作者指出，多數與少數的分歧將影響包括加薩案在內的其他審理中種族滅絕案件，法官組成的變動更增加不確定性；作者預告將另文討論煽動、賠償等其他部分。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：作者於文中表示尚未完全消化共同不同意見，本文屬判決當日的初步評論。",
+   "tags": [
+    "種族滅絕公約",
+    "種族滅絕",
+    "特定意圖",
+    "唯一合理推論",
+    "證據",
+    "國際法院",
+    "緬甸",
+    "甘比亞",
+    "羅興亞人"
+   ],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/gambia-v-myanmar-the-bottom-line/",
+     "official": false
+    },
+    {
+     "label": "國際法院本案案件頁面",
+     "url": "https://www.icj-cij.org/case/178",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-19T23:06:30+08:00",
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "author": "Marko Milanovic（英國雷丁大學國際公法教授）",
+   "related": [
+    "2026-11-19-icj-gambia-myanmar-merits-judgment",
+    "2026-11-17-oj-beyond-only-intent"
+   ]
+  },
+  {
+   "id": "2026-11-18-oj-ilo-supervisory-weight",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "",
+   "date": "2026-11-18",
+   "eventDate": "",
+   "importance": 1,
+   "title": "國際法院給予 ILO 監督機構「高度重視」卻未說明理由，應以制度基礎與說服力分別評估其權重",
+   "shortTitle": "ILO 監督機構見解應有多少分量",
+   "point": "作者主張「高度重視」應是評估制度基礎、國家接受程度與說服力後的結果，而非替代評估",
+   "titleOriginal": "How Much Weight for ILO Supervisory Bodies? The ICJ's One-Size-Fits-All Approach",
+   "caseRef": "",
+   "tldr": "國際法院在 2026 年 5 月的諮詢意見中認定國際勞工組織第 87 號公約保障罷工權，並表示對 ILO 監督機構的見解給予「高度重視」。作者認為法院直接套用對人權條約機構的標準，卻沒說明 ILO 機構有何不同，建議依機構的設立基礎、國家反應與論理品質分別判斷應給多少分量。",
+   "memo": "Leonardo David Lima Valdés 於 Opinio Juris 撰文指出，國際法院於 2026 年 5 月 21 日關於國際勞工組織第 87 號公約罷工權之諮詢意見中，認定 ILO 監督機構之見解不構成《維也納條約法公約》第 31 條第 3 項第 b 款之嗣後實踐，但得作為第 32 條之補充解釋資料並給予「高度重視」。作者批評法院逕行援用人權條約機構之標準而未說明理由，主張參照國際法委員會關於輔助手段之草案結論，分別審查機構之制度基礎與國家接受程度，以及其論理之說服力。",
+   "context": "國際勞工組織理事會請求國際法院就罷工權是否受 1948 年《結社自由及保障組織權公約》（第 87 號公約）保障提出諮詢意見。法院於 2026 年 5 月 21 日以 10 票對 4 票作成肯定答覆。\n「高度重視」（great weight）的說法源自法院在 Diallo 案及卡達訴阿聯案中對人權條約機構見解的處理。",
+   "facts": [
+    "第 87 號公約條文未明文提及罷工。",
+    "法院依通常意義、上下文及目的與宗旨解釋，並以 ILO 監督機構見解作為補充解釋資料印證結論。",
+    "ILO 監督體系包括常規監督機構（專家委員會、大會標準適用委員會）及特別程序（調查委員會、結社自由委員會）。",
+    "法官諾爾特、班達里與通卡就應給予 ILO 機構多少分量各有不同看法。"
+   ],
+   "issues": [
+    "國際組織監督機構的見解在條約解釋中的地位（《維也納條約法公約》第 31 條第 3 項第 b 款與第 32 條）。",
+    "對非由條約設立之監督機構，是否應與人權條約機構同等給予「高度重視」。"
+   ],
+   "holding": "・法院從人權條約機構的判例借用「高度重視」標準，雖承認 ILO 機構與之不同，卻未說明差異對權重有何影響。\n・諾爾特法官認為「高度重視」不應適用於所有條約機構見解；班達里法官偏好「適當重視」；通卡法官認為權重取決於論理的審查，且 ILO 機關並非相關意義下的專家條約機構。\n・作者認為這些意見其實混合兩個不同問題：機構見解的制度基礎與論理品質，僅將「高度」改為「適當」無法解決任何一個。\n・作者參照國際法委員會 2026 年一讀通過的輔助手段草案結論，提出兩階段審查：其一為制度基礎與國家接受程度（機構來源、職權、國家反應；國家反對應依其具體理由分析，沉默不應視為接受）；其二為說服力（獨立性、專業、程序，以及論理是否回應條文、上下文與反對論點）。\n・作者也承認請求範圍較窄，法院的沉默未必是刻意立場。",
+   "significance": "作者結論認為，法院不將 ILO 機構見解視為有拘束力、也不予忽視，方向正確；但欠缺明示的評估步驟。「高度重視」應是評估的結果而非替代，否則未來案件難以判斷該標準的意義。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：作者任職於墨西哥外交部法律顧問室，文中聲明以個人身分撰寫。",
+   "tags": [
+    "條約解釋",
+    "維也納條約法公約",
+    "嗣後實踐",
+    "補充解釋資料",
+    "諮詢意見",
+    "國際勞工組織",
+    "國際組織法",
+    "國際法院"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/11/18/how-much-weight-for-ilo-supervisory-bodies-the-icjs-one-size-fits-all-approach/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T23:06:30+08:00",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Leonardo David Lima Valdés（墨西哥外交部法律顧問室）"
+  },
+  {
+   "id": "2026-11-19-other-shenzhen-declaration-icc",
+   "court": "OTHER",
+   "kind": "其他",
+   "caseId": "us-sanctions-icc",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-19",
+   "importance": 2,
+   "title": "美中俄三國元首深圳峰會發表《和平宣言》，要求國際刑事法院「不得濫用管轄權」並強調官員豁免",
+   "shortTitle": "美中俄聯合宣言警告 ICC 勿濫權",
+   "point": "三國元首宣言稱尊重官員豁免至關重要，ICC 等機構不應濫用管轄權",
+   "titleOriginal": "Declaration on Peace (Trilateral summit of China, the United States and Russia, Shenzhen)",
+   "caseRef": "",
+   "tldr": "美國總統川普、中國國家主席習近平與俄羅斯總統普丁在深圳舉行三邊會談後發表聯合宣言，其中要求國際刑事法院不要「濫用管轄權」，並強調國家同意與官員豁免。普丁自 2023 年起即遭 ICC 通緝，三國都不是《羅馬規約》締約國。",
+   "memo": "據媒體報導，美國、中國及俄羅斯三國元首於 2026 年 11 月 19 日在深圳舉行三邊會談後發表《和平宣言》，除承諾推動聯合國改革及核風險降低談判外，並稱尊重國家同意及官員豁免為國際關係之關鍵，要求國際刑事法院及類似機構不得濫用管轄權。三國均非《羅馬規約》締約國，俄羅斯總統普丁自 2023 年起受該法院逮捕令追訴。",
+   "context": "國際刑事法院於 2023 年 3 月就烏克蘭兒童遭非法遣送一事對普丁發出逮捕令。美國自 2025 年起陸續制裁 ICC 官員，2026 年 10 月擴及法院整體；國務卿魯比歐 11 月 13 日再度抨擊法院。ICC 締約國大會第 25 屆會議將於 11 月 30 日開幕。\n三國在 ICC 管轄非締約國國民的問題上立場一致，均主張未經國家同意不得對其國民行使管轄。",
+   "facts": [
+    "三國元首會談於 2026 年 11 月 19 日在深圳舉行，報導稱係於亞太經合會峰會期間進行。",
+    "宣言據報為四點文件，由新華社發布。",
+    "宣言稱尊重國家同意與官員豁免至關重要，ICC 及類似機構「不應濫用管轄權」。",
+    "宣言另承諾改革聯合國、就降低核風險及防止核擴散進行談判，並增加石油產品供應；宣言未提及烏克蘭。"
+   ],
+   "issues": [
+    "國際刑事法院對非締約國國民的管轄權（《羅馬規約》第 12 條）。",
+    "現任國家元首的屬人豁免與《羅馬規約》第 27 條、第 98 條的關係。"
+   ],
+   "holding": "本則為政治宣言，非法律文件。報導未見 ICC 或其締約國對宣言的回應。",
+   "significance": "三個安理會常任理事國首度以聯合宣言共同對 ICC 施壓，時間點在締約國大會開會前，可能影響大會對美國制裁的討論及各國在豁免問題上的立場。",
+   "editorNote": "本網頁助理 註：本則僅依 Meduza 與 Kyiv Post 報導撰寫，未能取得新華社或三國政府公布的宣言原文；報導均為轉述，宣言確切用語待核對。\n以下為本網頁助理補充，非來源內容：國際刑事法院上訴分庭於 2019 年約旦不移交巴希爾案中認為，國家元首豁免不得對抗國際法院的追訴；此一見解迄今仍有爭議。",
+   "tags": [
+    "國際刑事法院",
+    "豁免",
+    "國家元首豁免",
+    "非締約國",
+    "羅馬規約",
+    "普丁",
+    "美國",
+    "中國",
+    "俄羅斯"
+   ],
+   "sources": [
+    {
+     "label": "Meduza 報導",
+     "url": "https://meduza.io/en/feature/2026/11/19/putin-trump-and-xi-warn-international-criminal-court-against-abusing-its-jurisdiction-putin-has-faced-an-icc-arrest-warrant-since-2023",
+     "official": false
+    },
+    {
+     "label": "Kyiv Post 報導",
+     "url": "https://www.kyivpost.com/post/90605",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T23:06:30+08:00"
   }
  ],
  "agenda": [
@@ -8555,7 +8820,7 @@
    "title": "甘比亞訴緬甸（種族滅絕公約案）實體判決宣示",
    "note": "海牙和平宮，當地時間上午 10 時（國際法院網站公告）。",
    "url": "https://www.icj-cij.org/case/178",
-   "relatedId": "2026-11-03-icj-gambia-myanmar-judgment-date",
+   "relatedId": "2026-11-19-icj-gambia-myanmar-merits-judgment",
    "caseId": "gambia-v-myanmar"
   },
   {
@@ -8627,6 +8892,16 @@
    "url": "https://www.icc-cpi.int/news/icc-pre-trial-chamber-i-confirms-courts-jurisdiction-njeem-case-decision-admissibility",
    "relatedId": "2026-11-16-icc-njeem-jurisdiction",
    "caseId": "icc-njeem"
+  },
+  {
+   "id": "tbd-icj-gambia-myanmar-report",
+   "date": "",
+   "court": "ICJ",
+   "title": "甘比亞訴緬甸案：緬甸提出判決履行報告期限",
+   "note": "判決命緬甸於兩年內提出報告；確切期限以判決主文為準",
+   "url": "https://www.icj-cij.org/case/178",
+   "relatedId": "2026-11-19-icj-gambia-myanmar-merits-judgment",
+   "caseId": "gambia-v-myanmar"
   }
  ],
  "archives": [],
@@ -8660,9 +8935,9 @@
    "forum": "國際法院",
    "name": "甘比亞訴緬甸（羅興亞人種族滅絕公約案）",
    "nameOriginal": "Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar)",
-   "caseRef": "",
+   "caseRef": "General List No. 178",
    "summary": "甘比亞指控緬甸對羅興亞人的行為違反《防止及懲治種族滅絕罪公約》。",
-   "status": "法院已宣布於 2026 年 11 月 19 日宣示實體判決。"
+   "status": "法院已於 2026 年 11 月 19 日以 9 票對 6 票判決緬甸實施種族滅絕並命其賠償，緬甸須於兩年內提出報告。"
   },
   {
    "id": "drc-v-rwanda",
