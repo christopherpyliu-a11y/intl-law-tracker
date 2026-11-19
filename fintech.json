@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-19T23:34:33+08:00",
-  "lastRunLocal": "2026-11-19 23:34",
+  "lastRun": "2026-11-20T07:26:59+08:00",
+  "lastRunLocal": "2026-11-20 07:26",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 3 則：國際組織 1（國際標準 1）、亞太與其他 2（政策動態 1、執法案件 1）"
+  "lastRunNote": "新增 4 則：國際組織 1（國際標準 1）、美國 2（政策動態 2）、英國 1（草案諮詢 1）"
  },
  "items": [
   {
@@ -5326,7 +5326,8 @@
     "美國"
    ],
    "related": [
-    "2026-11-09-fin-warren-senate-banking-crypto-agenda"
+    "2026-11-09-fin-warren-senate-banking-crypto-agenda",
+    "2026-11-19-fin-hill-moreno-clarity-act-window"
    ],
    "sources": [
     {
@@ -9162,7 +9163,9 @@
     "CFTC",
     "美國"
    ],
-   "related": [],
+   "related": [
+    "2026-11-19-fin-cftc-selig-onchain-venues"
+   ],
    "sources": [
     {
      "label": "CFTC 主席 Selig 聲明全文",
@@ -10038,7 +10041,10 @@
     "IOSCO",
     "國際"
    ],
-   "related": [],
+   "related": [
+    "2026-11-19-fin-iosco-tokenisation-monitoring-2026",
+    "2026-11-19-fin-uk-cyber-resilience-ai-quantum"
+   ],
    "sources": [
     {
      "label": "IOSCO 新聞稿（IOSCONEWS810，PDF）",
@@ -10185,6 +10191,251 @@
     }
    ],
    "addedAt": "2026-11-19T23:34:33+08:00"
+  },
+  {
+   "id": "2026-11-19-fin-iosco-tokenisation-monitoring-2026",
+   "court": "IOSCO",
+   "kind": "國際標準",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Global Regulation Tomorrow（Norton Rose Fulbright）",
+   "outletCode": "RT",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-18",
+   "importance": 2,
+   "author": "",
+   "title": "IOSCO 發布 2026 年金融資產代幣化監測報告，指代幣化資產規模倍增但市場仍屬過渡且分散",
+   "shortTitle": "IOSCO 發布 2026 代幣化監測報告",
+   "point": "公有鏈代幣化資產一年由約 160 億增至 370 億美元，示警代幣化股票法律結構風險",
+   "titleOriginal": "Final Report on the Tokenization of Financial Assets 2026: Monitoring report",
+   "caseRef": "IOSCOPD832",
+   "tldr": "國際證券管理機構組織（IOSCO）追蹤一年來「把股票、債券、基金等資產做成區塊鏈代幣」的發展，發現規模成長一倍多，但市場仍零散。報告特別提醒，有些賣給散戶的「股票代幣」其實只是一紙契約權利，和真正持有股票不同，投資人保護值得注意。",
+   "memo": "國際證券管理機構組織（IOSCO）於 2026 年 11 月 18 日發布〈2026 年金融資產代幣化最終報告：監測報告〉（IOSCOPD832），係延續其 2025 年 11 月代幣化報告之年度監測。依 Norton Rose Fulbright 整理，報告指出公有鏈上代幣化實體資產自 2025 年 7 月 1 日約 160 億美元增至 2026 年 6 月 30 日約 370 億美元，以固定收益及貨幣市場基金為主；市場仍屬過渡且分散，代幣化股票之法律形式可能與經濟曝險不一致，引發行為規範及投資人保護風險。IOSCO 將持續監測並促進資訊交流。",
+   "context": "IOSCO 於 2025 年 11 月發布金融資產代幣化最終報告，分析代幣化之效益與風險，並表示將持續監測市場發展。\n本報告為其後續年度監測，與 IOSCO 同期發布之量子資安準備報告均屬其金融科技工作之一環。",
+   "facts": [
+    "依 Global Regulation Tomorrow 整理，IOSCO 於 2026 年 11 月 18 日發布本報告，延續 2025 年 11 月之代幣化報告。",
+    "公有鏈上代幣化實體資產規模自 2025 年 7 月 1 日約 160 億美元增至 2026 年 6 月 30 日約 370 億美元，以固定收益與貨幣市場基金為主。",
+    "依 Genfinity 報導（引 RWA.xyz 資料），代幣化股票及股權連結商品於 12 個月內自約 3.3 億美元增至約 17 億美元；報告全文約 59 頁。",
+    "報告指出若干法域已向散戶提供「股票代幣」，散戶多經受監理中介機構參與。"
+   ],
+   "issues": [
+    "代幣化股票僅賦予契約請求權而非股東權時，應如何分類及揭露？",
+    "跨境向散戶銷售代幣化商品時，各法域行為規範如何協調？",
+    "DLT 營運風險與不同平台間之互通性如何監理？"
+   ],
+   "holding": "・代幣化發展屬「過渡且分散」，初級發行最為成熟，次級市場流動性有限。\n・代幣化多與既有市場基礎設施整合，而非取而代之；互通性問題仍待解決。\n・代幣化股票之法律形式可能與其經濟曝險不同，部分僅提供契約請求權，引發行為規範與投資人保護疑慮。\n・DLT 所生營運風險為主要挑戰之一。\n・IOSCO 將持續監測並促進成員間資訊交流。",
+   "significance": "本報告為國際證券監理層級對代幣化市場之年度盤點，對各國審查代幣化股票（如美國 SEC 代幣化股票豁免）及散戶銷售規範具參考價值；後續應注意 IOSCO 是否就代幣化股票之分類及揭露提出進一步政策建議。",
+   "editorNote": "本網頁助理 註：IOSCO 報告全文 PDF 無法直接開啟，內容依 Norton Rose Fulbright 之 Global Regulation Tomorrow 及 Genfinity 整理；文件編號 IOSCOPD832 取自 PDF 網址；報告是否另載具體建議，未能核實。",
+   "tags": [
+    "代幣化",
+    "代幣化股票",
+    "實體資產代幣化",
+    "IOSCO",
+    "國際"
+   ],
+   "related": [
+    "2026-11-19-fin-iosco-quantum-cyber-readiness"
+   ],
+   "sources": [
+    {
+     "label": "IOSCO 報告全文（IOSCOPD832，PDF）",
+     "url": "https://www.iosco.org/library/pubdocs/pdf/IOSCOPD832.pdf",
+     "official": true
+    },
+    {
+     "label": "Global Regulation Tomorrow 分析",
+     "url": "https://www.regulationtomorrow.com/2026/11/iosco-final-report-on-the-tokenisation-of-financial-assets-2026/",
+     "official": false
+    },
+    {
+     "label": "Genfinity 報導",
+     "url": "https://genfinity.io/2026/11/18/iosco-2026-tokenization-report-37-billion-tokenized-stocks-legal-gaps/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-20T07:26:59+08:00"
+  },
+  {
+   "id": "2026-11-19-fin-uk-cyber-resilience-ai-quantum",
+   "court": "BOE",
+   "kind": "草案諮詢",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "英格蘭銀行審慎監理局（PRA）",
+   "outletCode": "PRA",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-19",
+   "importance": 2,
+   "author": "",
+   "title": "英國 PRA、英格蘭銀行與 FCA 徵詢金融業網路風險與韌性管理監理聲明，並發布 AI 與量子運算有效實務",
+   "shortTitle": "英監理機關徵詢網路韌性指引並發布 AI、量子實務",
+   "point": "CP17/26 及 GC26/9 意見至 2027 年 2 月 26 日，AI 與量子有效實務不具拘束力",
+   "titleOriginal": "CP17/26 and GC26/9 – Cyber risk and resilience management; Effective practices relating to AI and to quantum computing",
+   "caseRef": "CP17/26；GC26/9",
+   "tldr": "英國三家金融監理機關一起提出網路資安管理的監理期待草案，說明金融業者在現有規則下應如何管理網路風險。同時另發兩份參考文件，提醒 AI 讓駭客攻擊變得更快，以及金融業要開始規劃改用抗量子破解的加密技術。",
+   "memo": "英國審慎監理局（PRA）、英格蘭銀行及金融行為監理總署（FCA）於 2026 年 11 月 19 日聯合發布諮詢文件 CP17/26 及 GC26/9，就金融機構網路風險與韌性管理提出監理聲明及最終指引草案，不新增規則，而係釐清業者於治理、營運韌性、作業風險及第三方風險等既有規定下之期待，諮詢期至 2027 年 2 月 26 日止。同日另發布不具拘束力之 AI 及量子運算有效實務，前者要求因應 AI 縮短漏洞遭利用時間、強化代理身分及提示注入等風險控管，後者建議董事會訂定附里程碑之後量子密碼遷移計畫並建立密碼清冊及密碼敏捷性。",
+   "context": "英國監理機關近年就金融業運用 AI 發布多份文件，包括 FCA 2026 年 10 月之 AI 良好與不良做法，以及 2026 年 5 月英格蘭銀行、FCA 與財政部之前沿 AI 聯合聲明。\nIOSCO 亦於同日發布量子資安準備報告，國際間正逐步將後量子密碼遷移列入金融監理議程。",
+   "facts": [
+    "CP17/26 及 GC26/9 於 2026 年 11 月 19 日發布，由 PRA、英格蘭銀行及 FCA 共同提出，諮詢期至 2027 年 2 月 26 日（星期五）止。",
+    "諮詢內容為監理聲明及最終指引（SS/FG）草案，明示不新增規則。",
+    "AI 及量子運算兩份有效實務與 SS/FG 互補但分開，不屬監理機關正式期待，不正式徵詢但歡迎回饋。",
+    "量子有效實務指出目前尚無已知具密碼破解能力之量子電腦，並引 2025 年專家調查稱可能於 15 年內出現。",
+    "依 The Paypers 報導，FCA 於 2026 年 10 月接獲 38 件網路事件通報，為五年來第二高之單月數字。"
+   ],
+   "issues": [
+    "不具拘束力之有效實務在監理檢查中實際上將具何種份量？",
+    "金融機構運用 AI 代理時，身分管理、權限及第三方模型風險應如何納入既有營運韌性框架？",
+    "後量子密碼遷移之時程應由業者自訂或由監理機關設定？"
+   ],
+   "holding": "・SS/FG 草案：以原則及結果為導向，說明業者在治理、營運韌性、作業風險及第三方風險規定下應如何管理網路風險；網路風險屬核心業務風險及領導階層責任。\n・AI 有效實務：AI 使漏洞遭利用時間縮短至數小時或數日，業者應由弱點管理轉向持續曝險管理；暴險範圍包括 AI 系統、API、代理身分及開放權重模型；鼓勵熱修補；修訂與重要第三方之契約以揭露內嵌 AI；以抗網路釣魚之多因素驗證因應深偽。\n・量子有效實務：董事會應訂定附明確里程碑及日期之後量子密碼遷移計畫；建立含第三方依存之密碼清冊；依資料敏感度及「先竊取、後解密」曝險排序；建立密碼敏捷性，必要時採古典與後量子混合機制作為過渡。",
+   "significance": "本次文件為英國首度由三家金融監理機關聯合就 AI 帶來之網路風險及後量子遷移提出具體實務，與 IOSCO 同日報告相呼應；業者應於 2027 年 2 月 26 日前提出意見，並留意定稿後之監理聲明及檢查重點。",
+   "editorNote": "本網頁助理 註：AI 有效實務頁面後段（第 8 節以下）未能完整讀取，未列入摘要；上述網路事件統計取自 The Paypers 報導，非英格蘭銀行頁面內容。",
+   "tags": [
+    "人工智慧",
+    "網路韌性",
+    "量子運算",
+    "PRA",
+    "英格蘭銀行",
+    "FCA",
+    "英國"
+   ],
+   "related": [
+    "2026-11-19-fin-iosco-quantum-cyber-readiness"
+   ],
+   "sources": [
+    {
+     "label": "PRA 諮詢文件頁面（CP17/26 及 GC26/9）",
+     "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/cyber-risk-and-resilience-management-consultation-paper",
+     "official": true
+    },
+    {
+     "label": "FCA 指引諮詢頁面（GC26/9）",
+     "url": "https://www.fca.org.uk/publications/guidance-consultations/gc26-9-cyber-risk-resilience-management",
+     "official": true
+    },
+    {
+     "label": "AI 網路風險有效實務全文",
+     "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-artificial-intelligence",
+     "official": true
+    },
+    {
+     "label": "量子運算網路風險有效實務全文",
+     "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-quantum-computing",
+     "official": true
+    },
+    {
+     "label": "The Paypers 報導",
+     "url": "https://thepaypers.com/regulations/news/fca-boe-and-pra-issue-cyber-resilience-guidance-for-financial-firms",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-20T07:26:59+08:00"
+  },
+  {
+   "id": "2026-11-19-fin-cftc-selig-onchain-venues",
+   "court": "CFTC",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-19",
+   "importance": 1,
+   "author": "",
+   "title": "CFTC 主席 Selig 表示鏈上衍生品平台須自行註冊為交易所或與已註冊交易所合作，方可服務美國散戶",
+   "shortTitle": "CFTC 主席：鏈上平台須註冊或與交易所合作",
+   "point": "點名 Hyperliquid 等鏈上平台得保留鏈上技術，但須遵循與傳統交易所相同規則",
+   "titleOriginal": "CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US",
+   "caseRef": "",
+   "tldr": "美國商品期貨交易委員會（CFTC）主席受訪時表示，像 Hyperliquid 這類在區塊鏈上提供衍生品交易的平台，想做美國散戶生意，必須自己申請成為合法交易所，或和已登記的交易所合作。他也表示，州政府若控告受 CFTC 監理的預測市場平台，CFTC 會與司法部合作應對。",
+   "memo": "依 The Block 2026 年 11 月 19 日報導，美國商品期貨交易委員會（CFTC）主席 Michael Selig 於同日 Capitol Crypto Forum 受訪時表示，向美國散戶提供衍生品之鏈上交易平台須自行註冊為交易所或與已註冊交易所合作，得續用鏈上技術但應遵循與其他交易所相同之規則，並以 Backpack 同週取得 FCM、DCM 及 DCO 執照為例。Selig 另稱，州政府起訴受監理平台時 CFTC 將與司法部合作，事件合約將適用擬議規則 40.11，個股永續合約因每日資金費率屬期貨而非交換。",
+   "context": "CFTC 於 2026 年 11 月 16 日核准區塊鏈原生衍生品交易所及結算所，並於 11 月 3 日開放個股永續期貨交易；香港證監會則於 11 月 19 日將 Hyperliquid 列入可疑虛擬資產交易平台名單。\nCFTC 已於 10 月起訴猶他州，並於 11 月 13 日起訴阿肯色州及路易斯安那州，以聯邦法優先為由對抗州政府限制預測市場。",
+   "facts": [
+    "依 The Block 報導，Selig 於 2026 年 11 月 19 日在 The Hill 與 The Block 合辦之 Capitol Crypto Forum 受訪。",
+    "Selig 稱鏈上平台「必須進來」，與交易所合作或取得自己的交易所執照。",
+    "依報導，Backpack 於同週取得期貨商（FCM）、指定契約市場（DCM）及衍生性商品結算組織（DCO）三項許可。",
+    "Selig 表示事件合約將適用擬議規則 40.11；個股永續合約因每日資金費率支付屬期貨。"
+   ],
+   "issues": [
+    "未註冊之境外鏈上衍生品平台向美國散戶提供服務之執法界線為何？",
+    "去中心化交易協議如何符合 DCM 之自律及市場監視要求？"
+   ],
+   "holding": "・鏈上衍生品平台服務美國散戶，須自行註冊為交易所或與已註冊交易所合作。\n・技術中立：平台可保留鏈上技術，但規則與其他交易所相同。\n・州政府起訴受 CFTC 監理平台時，CFTC 將與司法部合作。\n・個股永續合約定性為期貨而非交換。",
+   "significance": "Selig 之表態顯示 CFTC 傾向以既有註冊制度吸納鏈上衍生品平台，而非另設豁免；後續應注意 Hyperliquid 等平台是否申請註冊或與 DCM 合作，以及擬議規則 40.11 之進展。",
+   "editorNote": "本網頁助理 註：本則依 The Block 對訪談之報導整理，非 CFTC 正式文件；CFTC 未就此發布新聞稿。",
+   "tags": [
+    "DeFi",
+    "衍生性商品",
+    "永續合約",
+    "預測市場",
+    "CFTC",
+    "Hyperliquid",
+    "美國"
+   ],
+   "related": [
+    "2026-11-16-fin-cftc-blockchain-dcm-dco-approval"
+   ],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-20T07:26:59+08:00"
+  },
+  {
+   "id": "2026-11-19-fin-hill-moreno-clarity-act-window",
+   "court": "US",
+   "kind": "政策動態",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-19",
+   "importance": 1,
+   "author": "",
+   "title": "眾院金融服務委員會主席 Hill 與參議員 Moreno 均稱 CLARITY Act 已錯失立法窗口，惟對機關規則制定可補足程度看法不同",
+   "shortTitle": "Hill、Moreno：CLARITY Act 錯失立法窗口",
+   "point": "Moreno 稱跛腳會期通過機會「零」，認機關規則可達八成；Hill 認非長久之計",
+   "titleOriginal": "Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking",
+   "caseRef": "H.R. 3633",
+   "tldr": "美國共和黨兩位重量級議員都說，加密資產市場結構法案（CLARITY Act）已錯過通過時機，本屆國會剩下的會期幾乎不可能過關。一位認為 SEC、CFTC 自己訂規則可以補上大部分，另一位則提醒行政規則可能被告上法院、也欠缺法律位階。",
+   "memo": "依 The Block 2026 年 11 月 19 日報導，美國眾議院金融服務委員會主席 French Hill 及參議員 Bernie Moreno 於同日 Capitol Crypto Forum 分別受訪，均認為國會已錯失通過 CLARITY Act（H.R. 3633）之時機。Moreno 稱跛腳會期通過機會為「零」，主管機關可經規則制定完成約八成框架，惟國會仍應立法；Hill 則稱通過機會「不高」，並指機關行動易遭訴訟挑戰且不具法律效力，非長久之計。",
+   "context": "CLARITY Act 於 2025 年 7 月經眾議院通過，參議院於 2026 年 9 月 15 日終結辯論表決未過；11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導）。\nSEC 與 CFTC 已分別推動加密資產保管規則、Regulation CTX／CAM 等規則制定，以行政途徑補足市場結構規範。",
+   "facts": [
+    "依 The Block 報導，Hill 與 Moreno 於 2026 年 11 月 19 日在 Capitol Crypto Forum 分別受訪。",
+    "兩人均將錯失窗口歸因於立法延宕，並認為 GENIUS Act 不應與市場結構法案分開推進。",
+    "Moreno 被問及跛腳會期前景時答「零」；Hill 稱機會「不高」。",
+    "Moreno 表示願考慮以眾院通過版本為基礎重啟協商。"
+   ],
+   "issues": [
+    "在無國會立法之情形下，SEC 與 CFTC 以規則制定劃分加密資產管轄之法律穩定性如何？",
+    "新一屆國會由民主黨主導後，市場結構立法之方向是否改變？"
+   ],
+   "holding": "・Moreno：主管機關可經規則制定完成約八成框架，但國會仍應通過 CLARITY Act。\n・Hill：機關行動可能遭訴訟挑戰且不具法律效力，非永久解決方案。\n・兩人均認本屆國會剩餘會期通過可能性極低。",
+   "significance": "共和黨主要推動者公開承認本屆無望通過，市場結構規範短期內將主要仰賴 SEC 與 CFTC 之行政規則；應注意 2027 年新國會是否重提法案及其內容變化。",
+   "editorNote": "本網頁助理 註：本則依 The Block 對受訪內容之報導整理，屬議員個人表態，非國會正式行動。",
+   "tags": [
+    "加密資產",
+    "市場結構",
+    "CLARITY Act",
+    "美國國會",
+    "美國"
+   ],
+   "related": [
+    "2026-11-04-fin-us-midterms-democratic-sweep-crypto"
+   ],
+   "sources": [
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-20T07:26:59+08:00"
   }
  ],
  "agenda": [
@@ -10727,6 +10978,16 @@
    "url": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack",
    "relatedId": "2026-11-18-fin-binance-adgm-worldwide-freezing-order",
    "caseId": "binance-2026-hack-response"
+  },
+  {
+   "id": "2027-02-26-boe-cp17-26-cyber-deadline",
+   "date": "2027-02-26",
+   "court": "BOE",
+   "title": "英國 PRA／FCA 網路風險與韌性管理諮詢（CP17/26、GC26/9）意見截止",
+   "note": "英國時間；回覆寄 PRA 或 FCA。",
+   "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/cyber-risk-and-resilience-management-consultation-paper",
+   "relatedId": "2026-11-19-fin-uk-cyber-resilience-ai-quantum",
+   "caseId": ""
   }
  ],
  "cases": [
@@ -10750,7 +11011,7 @@
    "nameOriginal": "US crypto market structure (CLARITY Act; SEC and CFTC rulemaking)",
    "caseRef": "H.R. 3633",
    "summary": "眾議院 2025 年 7 月通過 CLARITY Act，參議院 2026 年 9 月 15 日未能終結辯論；SEC 與 CFTC 改以各自的規則制定與豁免推進加密資產市場監理。",
-   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 依報導訂於 11 月 23 日上線，已有 67 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。依 11 月 5 日報導，SEC 券商加密資產財務責任規則修正草案（RIN 3235-AN48）已送 OIRA 審查。依 11 月 9 日報導，Warren 將於 2027 年 1 月任參院銀行委員會主席並以預測市場與川普家族加密事業為監督重點，眾院民主黨擬另提強化 SEC 角色之市場結構法案。白宮 11 月 12 日提名 SEC 與 CFTC 各兩名委員（含 CLARITY Act 談判幕僚），待參院審查。"
+   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 依報導訂於 11 月 23 日上線，已有 67 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。依 11 月 5 日報導，SEC 券商加密資產財務責任規則修正草案（RIN 3235-AN48）已送 OIRA 審查。依 11 月 9 日報導，Warren 將於 2027 年 1 月任參院銀行委員會主席並以預測市場與川普家族加密事業為監督重點，眾院民主黨擬另提強化 SEC 角色之市場結構法案。白宮 11 月 12 日提名 SEC 與 CFTC 各兩名委員（含 CLARITY Act 談判幕僚），待參院審查。 11 月 19 日眾院金融服務委員會主席 Hill 與參議員 Moreno 均表示 CLARITY Act 已錯失本屆立法窗口（依報導）。"
   },
   {
    "id": "icba-v-occ-trust-charters",
