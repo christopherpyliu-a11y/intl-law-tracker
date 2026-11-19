@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-19T07:28:44+08:00",
-  "lastRunLocal": "2026-11-19 07:28",
+  "lastRun": "2026-11-19T23:34:33+08:00",
+  "lastRunLocal": "2026-11-19 23:34",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：美國 1（政策動態 1）、阿聯 ADGM 1（司法案件 1）"
+  "lastRunNote": "新增 3 則：國際組織 1（國際標準 1）、亞太與其他 2（政策動態 1、執法案件 1）"
  },
  "items": [
   {
@@ -9292,7 +9292,8 @@
     "德國"
    ],
    "related": [
-    "2026-11-13-fin-meridian-fx-apac-results"
+    "2026-11-13-fin-meridian-fx-apac-results",
+    "2026-11-19-fin-mas-tokenised-mas-bills-wcbdc"
    ],
    "sources": [
     {
@@ -9992,6 +9993,198 @@
     }
    ],
    "addedAt": "2026-11-19T07:28:44+08:00"
+  },
+  {
+   "id": "2026-11-19-fin-iosco-quantum-cyber-readiness",
+   "court": "IOSCO",
+   "kind": "國際標準",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Decrypt",
+   "outletCode": "DC",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-19",
+   "importance": 2,
+   "author": "",
+   "title": "IOSCO 發布金融市場量子資安準備報告，警告區塊鏈遷移至抗量子密碼將特別困難",
+   "shortTitle": "IOSCO 發布量子資安準備報告",
+   "point": "估量子電腦 2030 至 2035 年間可能出現，籲及早遷移抗量子密碼並防範「量子漂白」",
+   "titleOriginal": "IOSCO report on quantum cyber readiness for financial markets (IOSCOPD833)",
+   "caseRef": "IOSCOPD833",
+   "tldr": "國際證券管理機構組織（IOSCO）發表報告，提醒未來足夠強大的量子電腦可能破解現行保護金融系統的加密技術。報告特別指出，區塊鏈要換成抗量子的簽章很難，交易速度可能大幅下降，舊錢包也可能長期暴露風險，因此業者和監理機關現在就要開始準備。",
+   "memo": "國際證券管理機構組織（IOSCO）於 2026 年 11 月 19 日發布金融市場量子資安準備報告（IOSCOPD833），以其金融科技工作小組成員 2026 年 3 月問卷為基礎，指出足夠強大之量子電腦可能破壞支撐金融市場關鍵功能之公鑰密碼，保守估計於 2030 年至 2035 年間出現；區塊鏈因密碼機制內建於核心架構，遷移須硬分叉及去中心化協調，將緩慢且分散。報告建議遷移至後量子密碼、建立密碼敏捷性，並促監理機關防範業者誇大量子能力之「量子漂白」，且將量子議題列為 IOSCO 2027 年優先事項。",
+   "context": "量子電腦若具足夠運算能力，可能以 Shor 演算法破解橢圓曲線及 RSA 等公鑰密碼，金融市場交易驗證、通訊加密及數位資產錢包均仰賴此類密碼。\nIOSCO 近年已陸續就人工智慧、網路韌性等科技風險提出監理報告，並將科技風險列入工作計畫。",
+   "facts": [
+    "依 Decrypt 報導，IOSCO 於 2026 年 11 月 19 日發布本報告，文件編號 IOSCOPD833，共 63 頁。",
+    "報告以 IOSCO 金融科技工作小組（Fintech Task Force）成員 2026 年 3 月問卷為基礎。",
+    "IOSCO 保守估計具破解能力之量子電腦可能於 2030 年至 2035 年間出現；部分業者主張應以五年內出現為準備目標。",
+    "報告援引 Solana 測試網實驗：改用抗量子簽章後吞吐量下降約 90%；ML-DSA-44 簽章約 2,420 位元組，約為現行 64 位元組橢圓曲線簽章之 35 至 40 倍。",
+    "受訪法域均未回報受監理金融服務已實際運用量子運算。"
+   ],
+   "issues": [
+    "監理機關應否就金融機構遷移後量子密碼訂定時程或期待？",
+    "去中心化區塊鏈缺乏單一治理主體時，如何協調抗量子升級並處理休眠錢包之舊金鑰？",
+    "業者對量子能力之宣傳是否構成誤導性陳述（量子漂白）？"
+   ],
+   "holding": "・足夠強大之量子電腦可能破壞金融市場關鍵功能所依賴之公鑰密碼；此類機器尚不存在，但資安準備「刻不容緩」。\n・區塊鏈遷移特別困難：須硬分叉及去中心化協調，抗量子簽章體積大，將降低區塊容量、提高手續費與儲存需求。\n・休眠或遺棄錢包若金鑰已曝光，即使網路升級後仍可能暴露；Layer 2 網路之結算、跨鏈橋及升級機制仍可能依賴脆弱密碼。\n・多數業者準備仍處早期階段，部分受訪者呈現「量子拖延」現象。\n・建議遷移至後量子密碼、建立密碼敏捷性，並就特定高安全通道考慮量子金鑰分發；監理機關應防範「量子漂白」；量子議題列為 IOSCO 2027 年優先事項。",
+   "significance": "本報告為國際證券監理層級首份系統性處理量子風險與區塊鏈遷移之文件，可能成為各國監理機關要求資產代幣化平台、加密資產業者及市場基礎設施提出後量子遷移規劃之依據；後續應注意 IOSCO 2027 年工作計畫如何落實。",
+   "editorNote": "本網頁助理 註：IOSCO 新聞稿（IOSCONEWS810）及報告全文無法直接開啟，內容依 Decrypt 及 Cointelegraph 報導整理；報告正式名稱以 IOSCO 原文為準。",
+   "tags": [
+    "量子運算",
+    "資訊安全",
+    "區塊鏈",
+    "加密資產",
+    "代幣化",
+    "IOSCO",
+    "國際"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "IOSCO 新聞稿（IOSCONEWS810，PDF）",
+     "url": "https://www.iosco.org/news/pdf/IOSCONEWS810.pdf",
+     "official": true
+    },
+    {
+     "label": "Decrypt 報導",
+     "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
+     "official": false
+    },
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T23:34:33+08:00"
+  },
+  {
+   "id": "2026-11-19-fin-mas-tokenised-mas-bills-wcbdc",
+   "court": "MAS",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "新加坡",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-06",
+   "importance": 2,
+   "author": "",
+   "title": "新加坡金管局首度發行代幣化 MAS Bills，以批發型 CBDC 完成交割",
+   "shortTitle": "新加坡金管局發行代幣化 MAS Bills",
+   "point": "11 月 6 日發行 1 億新元四週期票券，以批發型 CBDC 交割，五家主要交易商參與",
+   "titleOriginal": "MAS Announces Successful Issuance of Tokenised MAS Bills on the Singapore Dollar Test Network",
+   "caseRef": "",
+   "tldr": "新加坡金融管理局（MAS）首次在區塊鏈帳本上直接發行代幣化的央行票券，金額 1 億新加坡元，並用央行發行的批發型數位貨幣完成付款交割。五家大型銀行參與認購，MAS 接下來要擴大規模並推動用作擔保品。",
+   "memo": "依 The Block 2026 年 11 月 19 日報導及新加坡金融管理局（MAS）新聞稿，MAS 於 2026 年 11 月 6 日於新加坡元測試網路（Singapore Dollar Test Network，將更名為 SG Digital Ledger）原生發行新加坡幣 1 億元、期間四週之代幣化 MAS Bills，於同年 12 月 4 日到期，並以批發型央行數位貨幣完成交割；星展、滙豐、華僑、大華及渣打等五家主要交易商參與，申購金額逾發行額兩倍。MAS 表示將擴大代幣化 MAS Bills 發行規模、擴展其於擔保品管理之用途並納入更多機構。",
+   "context": "MAS 已於 2025 年完成以批發型 CBDC 交割銀行間隔夜拆款之實際試行，並推動 BLOOM 等代幣化與數位貨幣結算計畫。\nMAS 總裁曾表示將試行代幣化票券並就穩定幣立法；2026 年 11 月 MAS 亦與德國央行完成 Simbolon 項目跨境批發 CBDC 同步交割測試。",
+   "facts": [
+    "依 The Block 報導，發行日為 2026 年 11 月 6 日，金額新加坡幣 1 億元（約 7,750 萬美元），期間四週，12 月 4 日到期。",
+    "代幣化 MAS Bills 原生發行於新加坡元測試網路，MAS 表示該網路將更名為 SG Digital Ledger。",
+    "交割以批發型央行數位貨幣進行。",
+    "參與者為星展銀行、滙豐、華僑銀行、大華銀行及渣打銀行五家主要交易商，申購金額逾發行額兩倍。",
+    "MAS 局長（Managing Director）Chia Der Jiun 表示，本次實際發行使 MAS 得以測試新的發行方式。"
+   ],
+   "issues": [
+    "以批發型 CBDC 交割之代幣化主權票券，於法律上如何確認交割終局性與權利歸屬？",
+    "代幣化 MAS Bills 擴大作為擔保品時，與現行附買回及擔保品管理制度如何銜接？"
+   ],
+   "holding": "・首度以原生代幣形式發行 MAS Bills，並以批發型 CBDC 完成款券同步交割。\n・下一階段：擴大代幣化 MAS Bills 發行、擴展其於擔保品管理之運用，並納入更多金融機構。\n・測試網路將更名為 SG Digital Ledger，作為代幣化資產交割之共用帳本。",
+   "significance": "屬亞洲央行首批以批發型 CBDC 交割之實際代幣化主權票券發行之一，延續新加坡由試驗走向實際營運之代幣化策略；後續應注意 SG Digital Ledger 之法律與治理框架、擴大發行時程及擔保品用途之規範。",
+   "editorNote": "本網頁助理 註：MAS 新聞稿頁面無法直接開啟，內容依 The Block 報導及其所引 MAS 新聞稿整理；部分報導將本次發行描述為 2026 年 11 月 19 日完成，本則依 The Block 所載 11 月 6 日發行日填列 eventDate。",
+   "tags": [
+    "代幣化",
+    "批發型 CBDC",
+    "CBDC",
+    "代幣化證券",
+    "擔保品",
+    "MAS",
+    "新加坡金管局",
+    "新加坡"
+   ],
+   "related": [
+    "2026-11-16-fin-mas-bundesbank-project-simbolon"
+   ],
+   "sources": [
+    {
+     "label": "MAS 新聞稿",
+     "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-announces-successful-issuance-of-tokenised-mas-bills-on-the-singapore-dollar-test-network",
+     "official": true
+    },
+    {
+     "label": "MAS 代幣化 MAS Bill 說明頁面",
+     "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar/mas-bills-type-tokenised-mas-bill",
+     "official": true
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T23:34:33+08:00"
+  },
+  {
+   "id": "2026-11-18-fin-sfc-hyperliquid-alert-list",
+   "court": "SFC",
+   "kind": "執法案件",
+   "caseId": "",
+   "jurisdiction": "香港",
+   "outlet": "The Defiant",
+   "outletCode": "TD",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-18",
+   "importance": 1,
+   "author": "",
+   "title": "香港證監會將去中心化交易平台 Hyperliquid 列入可疑虛擬資產交易平台警示名單",
+   "shortTitle": "港證監會將 Hyperliquid 列可疑平台",
+   "point": "指其未獲發牌、疑向香港居民招攬，為今年繼英國 FCA、新加坡 MAS 後第三度遭警示",
+   "titleOriginal": "Hong Kong SFC Adds Hyperliquid to Platform Alert List",
+   "caseRef": "",
+   "tldr": "香港證監會把知名去中心化永續合約交易平台 Hyperliquid 的交易網站列入「可疑虛擬資產交易平台」名單，理由是它沒有香港牌照卻疑似對香港投資人招攬。這不是禁令，但提醒投資人在無牌平台上的資產不受保障。",
+   "memo": "依 The Defiant 及 Crypto News Flash 2026 年 11 月 19 日報導，香港證券及期貨事務監察委員會於 2026 年 11 月 18 日將 Hyperliquid 之交易介面（app.hyperliquid.xyz/trade）列入可疑虛擬資產交易平台警示名單，理由為其未獲證監會發牌，並涉嫌在香港經營虛擬資產交易平台或積極向香港居民推廣服務。依報導，該列名未伴隨禁令、網站封鎖或資產凍結，證監會亦未指控其詐欺；Hyperliquid 先前已於 2026 年 5 月及 6 月分別遭英國金融行為監理總署及新加坡金融管理局發布警示。",
+   "context": "香港自 2023 年 6 月起實施虛擬資產交易平台發牌制度，未獲發牌而在香港經營或積極向香港公眾推廣者構成違法；證監會設有可疑虛擬資產交易平台名單，以警示投資人。\nHyperliquid 為以自有區塊鏈運作之去中心化永續合約交易平台，其管轄定位一向具爭議。",
+   "facts": [
+    "依報導，證監會於 2026 年 11 月 18 日將 Hyperliquid 列入名單，列名範圍為其交易網站介面。",
+    "證監會表示 Hyperliquid 未獲發牌，涉嫌在香港經營或積極向香港居民招攬。",
+    "依 Crypto News Flash 報導，英國 FCA 曾於 2026 年 5 月 21 日就其可能提供未經授權服務發布警示，新加坡 MAS 於 6 月 26 日將其列入投資人警示名單。",
+    "依報導，列名未伴隨禁令、封鎖、凍結或停止交易命令。"
+   ],
+   "issues": [
+    "去中心化交易協議之前端介面是否構成香港法下之「經營虛擬資產交易平台」或「積極推廣」？",
+    "監理機關對無固定營業地之 DeFi 平台，除警示外有何有效執法手段？"
+   ],
+   "holding": "・證監會以未獲發牌及涉嫌向香港居民招攬為由，將 Hyperliquid 交易介面列入可疑虛擬資產交易平台名單。\n・證監會提醒投資人，無牌平台不受其監管，若資產遭駭或挪用，投資人缺乏法律保障。",
+   "significance": "顯示香港監理機關將虛擬資產交易平台發牌制度之適用範圍延伸至去中心化交易平台之前端介面；多個法域相繼警示 Hyperliquid，後續應注意是否發展為封鎖或執法行動，以及其他 DeFi 前端是否被比照處理。",
+   "editorNote": "本網頁助理 註：未能取得證監會警示名單原始頁面，內容依 The Defiant、Crypto News Flash 及 U.Today 報導整理。",
+   "tags": [
+    "DeFi",
+    "虛擬資產交易平台",
+    "無照經營",
+    "永續期貨",
+    "投資人警示",
+    "香港證監會",
+    "香港"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "The Defiant 報導",
+     "url": "https://thedefiant.io/news/regulation/hong-kong-sfc-adds-hyperliquid-to-platform-alert-list",
+     "official": false
+    },
+    {
+     "label": "Crypto News Flash 報導",
+     "url": "https://www.crypto-news-flash.com/hyperliquid-makes-hong-kongs-watchlist-third-strike-in-2026/",
+     "official": false
+    },
+    {
+     "label": "U.Today 報導",
+     "url": "https://u.today/hyperliquid-hits-hong-kong-alert-list-as-hype-erases-5-drop",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T23:34:33+08:00"
   }
  ],
  "agenda": [
@@ -10524,6 +10717,16 @@
    "url": "",
    "relatedId": "2026-11-16-fin-senators-letter-sec-tokenized-stock-aml",
    "caseId": "us-crypto-market-structure"
+  },
+  {
+   "id": "2026-12-01-other-adgm-binance-freezing-order-hearing",
+   "date": "2026-12-01",
+   "court": "OTHER",
+   "title": "ADGM 法院審理是否延長幣安駭案全球凍結令",
+   "note": "依 Cointelegraph 報導，將審理延長禁制令及第三人是否須交付已凍結資產；日期可能變動。",
+   "url": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack",
+   "relatedId": "2026-11-18-fin-binance-adgm-worldwide-freezing-order",
+   "caseId": "binance-2026-hack-response"
   }
  ],
  "cases": [
