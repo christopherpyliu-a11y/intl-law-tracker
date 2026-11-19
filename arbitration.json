@@ -1,13 +1,192 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-19T07:00:53+08:00",
-  "lastRunLocal": "2026-11-19 07:00",
+  "lastRun": "2026-11-19T23:01:11+08:00",
+  "lastRunLocal": "2026-11-19 23:01",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "新增 2 則：商務仲裁 1（法院裁判 1）、投資仲裁 1（案件動態 1）",
+  "lastRunNote": "新增 3 則：商務仲裁 1（法院裁判 1）、投資仲裁 2（仲裁判斷 1、案件動態 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
+  {
+   "id": "2026-11-18-arb-dubai-cassation-1262-2026-civil-liability-after-annulment",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "commercial",
+   "caseId": "",
+   "jurisdiction": "阿聯酋",
+   "outlet": "National Law Review（K&L Gates 評析）",
+   "outletCode": "NLR",
+   "date": "2026-11-18",
+   "eventDate": "2026-09-03",
+   "importance": 1,
+   "author": "Jennifer Paterson、Mohammad Rwashdeh、Jonathan H. Sutcliffe（K&L Gates）",
+   "title": "杜拜最高法院：當事人隱瞞代理人無權同意仲裁費用條款，即使已成功撤銷該部分仲裁判斷，仍須對他方負民事賠償責任",
+   "shortTitle": "杜拜最高法院：撤銷判斷後仍須賠償",
+   "point": "隱瞞代理人無權同意審理範圍書的費用條款違反誠信，須賠約 564 萬迪拉姆",
+   "titleOriginal": "Dubai Court of Cassation Judgment No. 1262 of 2026 (3 September 2026) – DIAC Arbitration No. 66 of 2020; K&L Gates, \"Dubai Court of Cassation Upholds Civil Liability Despite Prior Partial Annulment of an Arbitral Award\"",
+   "caseRef": "Dubai Court of Cassation Judgment No. 1262 of 2026",
+   "tldr": "一方在仲裁中讓代理人簽了「仲裁庭可判律師費」的審理範圍書，事後卻以代理人沒有授權為由，把判斷中的律師費部分撤銷掉。杜拜最高法院認為這種先不吭聲、事後翻案的做法違反誠信，對方因此損失的錢可以另行起訴請求賠償。",
+   "memo": "杜拜最高法院於 2026 年 9 月 3 日就第 1262/2026 號案作成判決，駁回上訴，維持下級法院命被告賠償約 564 萬阿聯酋迪拉姆之判決。法院認為，被告明知對造請求律師費且審理範圍書已授權仲裁庭判給費用，卻隱瞞其代理人欠缺特別授權而未於判斷前異議，違反誠信，致該約定無效並使對造受損，應負民事責任；仲裁判斷費用部分業經撤銷，並不妨礙對造另訴請求賠償，因撤銷係針對代理權欠缺，賠償訴訟則係針對被告之過失及所生損害。",
+   "context": "本案仲裁為杜拜國際仲裁中心（DIAC）第 66/2020 號案件，適用 2007 年 DIAC 仲裁規則。該規則未明文授權仲裁庭判給律師費，杜拜本土法院向來認為仲裁庭判給律師費須有當事人明示同意。\n被告的代理人在審理範圍書上簽署，同意仲裁庭得判給律師費；被告事後以其授權書未特別授予代理人此項權限為由，聲請撤銷終局判斷中的費用部分並獲准。\n原告（仲裁中的請求方）因而另行提起民事訴訟，請求賠償其因此無法取得的費用。",
+   "facts": [
+    "第一審法院判命被告賠償約 564 萬阿聯酋迪拉姆（約 150 萬美元），上訴法院維持。",
+    "被告上訴主張其並無過失，只是行使撤銷仲裁判斷的權利。",
+    "下級法院認定被告知悉對造請求律師費、知悉審理範圍書已授權仲裁庭判給費用，卻隱瞞代理人欠缺授權，且未在判斷作成前提出異議。"
+   ],
+   "issues": [
+    "當事人在仲裁中的行為，能否在其成功撤銷仲裁判斷後，另行構成對他方的民事賠償責任？",
+    "仲裁判斷已部分撤銷，是否妨礙他方另訴請求損害賠償？"
+   ],
+   "holding": "杜拜最高法院駁回上訴。\n法院認為，一方因可歸責事由致約定無效，而他方信賴該約定有效並據以行事時，可成立民事責任；依誠信原則，被告應主動揭露其不認為自己受該費用條款拘束。\n就部分撤銷的效力，法院區分兩者：撤銷程序處理的是代理人欠缺權限，而賠償訴訟處理的是被告造成條款無效的過失及因此所生損害，故前者不妨礙後者。",
+   "significance": "作者指出，當事人在仲裁中的程序行為，可能在阿聯酋本土法院另外產生民事責任，即使其已成功挑戰仲裁判斷；作者並認為只要符合 2022 年第 42 號聯邦民事訴訟法令的管轄要件，不論仲裁地何在都可能適用，但結論高度取決於個案事實。對在阿聯酋進行仲裁的當事人而言，代理人權限問題應及早提出，而非留待撤銷程序。",
+   "editorNote": "本網頁助理 註：本則依 K&L Gates 律師於 National Law Review 發表之評析撰寫，尚未取得判決原文。本案為杜拜本土（onshore）法院就 DIAC 仲裁所衍生之民事訴訟，仲裁是否具國際性質，來源未說明。",
+   "tags": [
+    "杜拜",
+    "阿聯酋",
+    "DIAC",
+    "審理範圍書",
+    "仲裁費用",
+    "撤銷仲裁判斷",
+    "誠信原則",
+    "代理權"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "K&L Gates 評析（National Law Review）",
+     "url": "https://natlawreview.com/article/dubai-court-cassation-upholds-civil-liability-despite-prior-partial-annulment",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T23:01:11+08:00"
+  },
+  {
+   "id": "2026-11-18-arb-karapetyan-v-france-rule41-provisional-measures",
+   "court": "AWARD",
+   "kind": "仲裁判斷",
+   "field": "investment",
+   "caseId": "karapetyan-v-france",
+   "jurisdiction": "",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-18",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "ICSID 仲裁庭駁回亞美尼亞商人 Karapetyan 對法國的暫時性措施聲請，並僅准其部分請求繼續審理",
+   "shortTitle": "Karapetyan 訴法國：部分請求可續審",
+   "point": "仲裁庭拒絕阻止法國洗錢偵查中的扣押，並依規則 41 剔除部分請求",
+   "titleOriginal": "Samvel Karapetyan v. French Republic (ICSID Case No. ARB/25/26) – Procedural Order No. 5 on Provisional Measures (13 July 2026) and Decision on the Respondent's Objection under Rule 41(3) (27 August 2026)",
+   "caseRef": "ICSID Case No. ARB/25/26",
+   "tldr": "亞美尼亞富商 Karapetyan 在法國蔚藍海岸的別墅等不動產，因洗錢偵查遭法國扣押，他依亞美尼亞—法國投資協定告法國。仲裁庭不同意要求法國停止扣押（法國說這會妨礙偵查），但允許他的部分請求繼續進入實體審理。",
+   "memo": "依媒體報導，Samvel Karapetyan 依 1995 年亞美尼亞—法國雙邊投資協定對法國提起之 ICSID 仲裁（ICSID Case No. ARB/25/26），仲裁庭已駁回申請人之暫時性措施聲請，並就法國以請求顯無法律上理由為由所提異議作成決定，僅准申請人部分請求繼續審理。依 ICSID 案件資料，暫時性措施係以 2026 年 7 月 13 日第 5 號程序令處理，規則 41(3) 異議決定作成於 2026 年 8 月 27 日；申請人已於同年 10 月 29 日提出實體書狀。",
+   "context": "Samvel Karapetyan 為亞美尼亞商人，在法國持有不動產投資，包括蔚藍海岸一處別墅。法國當局在刑事（洗錢）偵查中扣押這些不動產。\nKarapetyan 依 1995 年亞美尼亞—法國雙邊投資協定及 ICSID 公約提起仲裁，ICSID 於 2025 年 6 月 4 日登錄。仲裁庭於 2025 年 12 月 8 日組成：主任仲裁人 Gabrielle Kaufmann-Kohler，申請人選任 Cavinder Bull，法國選任 Loretta Malintoppi。\n申請人於 2025 年 7 月聲請暫時性措施；法國於 2026 年 1 月 20 日依 ICSID 仲裁規則第 41 條主張請求顯無法律上理由。雙方於 2026 年 6 月 9 日以視訊就兩項聲請進行聽證。",
+   "facts": [
+    "GAR 於 2026 年 11 月 18 日報導，仲裁庭拒絕申請人的暫時性措施聲請，法國主張該措施將妨礙洗錢偵查。",
+    "GAR 報導仲裁庭准許申請人部分請求繼續審理；報導摘要未說明哪些請求遭剔除。",
+    "ICSID 案件頁記載 2026 年 7 月 13 日第 5 號程序令（暫時性措施）、8 月 27 日規則 41(3) 異議決定、10 月 2 日第 6 號程序令、10 月 29 日申請人提出實體書狀。"
+   ],
+   "issues": [
+    "申請人是否符合 ICSID 公約第 47 條及仲裁規則暫時性措施之要件，特別是在地主國刑事偵查進行中時。",
+    "法國依 ICSID 仲裁規則第 41 條所提「顯無法律上理由」異議之範圍。"
+   ],
+   "holding": "依 GAR 報導摘要，仲裁庭駁回暫時性措施聲請，並僅准部分請求繼續審理。ICSID 案件頁未公開兩項決定之內容。",
+   "significance": "本案是遭刑事扣押資產的投資人以投資條約挑戰歐盟國家措施的案例之一。仲裁庭拒絕干預進行中的刑事偵查，符合仲裁庭對地主國刑事程序通常採取的審慎立場。案件已進入實體書狀階段，下一步為法國提出答辯書。",
+   "editorNote": "本網頁助理 註：本則依 GAR 2026 年 11 月 18 日報導標題與摘要（全文需訂閱，摘要未具名申請人）及 ICSID、UNCTAD 案件頁撰寫，尚未取得決定原文；遭剔除及保留之請求範圍不明。GAR 未載明決定日期，ICSID 案件頁記載暫時性措施程序令為 7 月 13 日、規則 41(3) 決定為 8 月 27 日，因兩項決定日期不同，裁判日期欄留空。",
+   "tags": [
+    "ICSID",
+    "法國",
+    "亞美尼亞",
+    "暫時性措施",
+    "規則41",
+    "扣押",
+    "洗錢",
+    "雙邊投資協定"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ICSID 案件資料頁",
+     "url": "https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB%2F25%2F26",
+     "official": true
+    },
+    {
+     "label": "GAR 報導（仲裁庭決定）",
+     "url": "https://globalarbitrationreview.com/article/icsid-panel-narrows-armenian-investors-claim-over-french-criminal-seizures",
+     "official": false
+    },
+    {
+     "label": "UNCTAD 投資爭端案件頁",
+     "url": "https://investmentpolicy.unctad.org/investment-dispute-settlement/cases/1424/karapetyan-v-france",
+     "official": false
+    },
+    {
+     "label": "GAR 報導（2025 年提起仲裁）",
+     "url": "https://globalarbitrationreview.com/article/armenian-real-estate-tycoon-takes-france-icsid",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T23:01:11+08:00"
+  },
+  {
+   "id": "2026-11-18-arb-mtn-syria-settlement",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-18",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "敘利亞政府與南非電信集團 MTN 完成 4,390 萬美元和解，終結阿塞德政權時期開始的投資條約爭端",
+   "shortTitle": "敘利亞與 MTN 以 4,390 萬美元和解",
+   "point": "MTN Syria 2021 年遭法院託管引發的投資條約爭端落幕，MTN 藉此退出中東",
+   "titleOriginal": "Syria settles with South African telecoms group (GAR, 18 November 2026); MTN Group H1 2026 interim results",
+   "caseRef": "",
+   "tldr": "南非電信集團 MTN 的敘利亞子公司在 2021 年被敘利亞法院交付「司法託管」，MTN 實際上失去控制權，因而與敘利亞發生投資條約爭端。現在雙方已敲定和解，敘利亞付給 MTN 4,390 萬美元。",
+   "memo": "依媒體報導，敘利亞政府已與南非 MTN Group 完成金額 4,390 萬美元之和解，終結雙方自阿塞德政權時期開始之投資條約爭端。依 MTN 2026 年上半年財報，和解條件係於 2026 年上半年與代表敘利亞之敘利亞電信及郵政管理局議定，款項於協議簽署後給付，MTN 認列約 7.16 億南非鍰之和解利益，並稱此與集團退出中東之策略一致。是否已正式提付仲裁及所依條約，來源未載明。",
+   "context": "MTN 於 2002 年取得 Areeba 進入敘利亞市場，2006 年併購 Investcom 後取得敘利亞營運。2021 年敘利亞法院將 MTN Syria 交付司法託管，MTN 喪失實質控制權並認列鉅額損失。\n阿塞德政權 2024 年底垮台後，敘利亞新政府開始處理前政權時期的外資爭端。",
+   "facts": [
+    "MTN 2026 年上半年財報揭露，已與代表敘利亞之敘利亞電信及郵政管理局議定和解條件，MTN 將於協議簽署時收取 4,390 萬美元，財報發布時其餘法律手續仍在辦理。",
+    "GAR 於 2026 年 11 月 18 日報導敘利亞政府已完成（finalised）此項和解，並稱爭端屬投資條約爭端。"
+   ],
+   "issues": [
+    "本案是否已依南非—敘利亞投資協定或其他條約正式提付仲裁（來源未載明）。"
+   ],
+   "holding": "",
+   "significance": "本案顯示敘利亞新政府以和解處理前政權時期投資爭端的取向；其他對敘利亞的投資請求（例如 Güriş 案）後續處理值得觀察。",
+   "editorNote": "本網頁助理 註：本則依 GAR 2026 年 11 月 18 日報導標題與摘要（全文需訂閱）、MTN 2026 年上半年財報及 Southern African Times 報導撰寫；MTN 財報與該報導未提及仲裁，所依條約、是否已正式提付仲裁及仲裁機構均未能確認，和解完成日期亦未載明。",
+   "tags": [
+    "敘利亞",
+    "南非",
+    "電信",
+    "和解",
+    "投資條約"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "MTN 2026 年上半年財報（PDF）",
+     "url": "https://www.mtn.com/wp-content/uploads/2026/08/MTN-Group-H1-26-results-JSE-SENS-1.pdf",
+     "official": false
+    },
+    {
+     "label": "GAR 報導（和解完成）",
+     "url": "https://globalarbitrationreview.com/article/syria-settles-south-african-telecoms-group",
+     "official": false
+    },
+    {
+     "label": "Southern African Times 報導",
+     "url": "https://southernafricantimes.com/mtns-syria-settlement-clears-another-path-towards-african-expansion/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-19T23:01:11+08:00"
+  },
   {
    "id": "2026-11-16-arb-min-v-korea-annulment-decision-published",
    "court": "AWARD",
@@ -10190,6 +10369,18 @@
    "caseRef": "",
    "summary": "巴拿馬最高法院 2023 年宣告 Cobre Panamá 銅礦開採契約違憲、礦場停產後，First Quantum 等投資人對巴拿馬提起國際仲裁求償數十億美元。",
    "status": "仲裁已中止；2026 年 11 月雙方展開正式協商，巴拿馬要求新協議一併解決全部仲裁。"
+  },
+  {
+   "id": "karapetyan-v-france",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Karapetyan 訴法國（不動產刑事扣押）",
+   "nameOriginal": "Samvel Karapetyan v. French Republic",
+   "caseRef": "ICSID Case No. ARB/25/26",
+   "summary": "亞美尼亞商人 Karapetyan 依亞美尼亞—法國投資協定，挑戰法國在洗錢偵查中扣押其蔚藍海岸別墅等不動產。",
+   "status": "仲裁庭駁回暫時性措施聲請並剔除部分請求，申請人已於 2026 年 10 月提出實體書狀。"
   }
  ]
 }
