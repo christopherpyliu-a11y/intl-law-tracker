@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-20T23:08:57+08:00",
-  "lastRunLocal": "2026-11-20 23:08",
+  "lastRun": "2026-11-21T07:08:19+08:00",
+  "lastRunLocal": "2026-11-21 07:08",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：伊朗 1（事件 1）"
+  "lastRunNote": "新增 1 則：南亞 1（印度，司法案件 1）"
  },
  "items": [
   {
@@ -618,7 +618,8 @@
     "暗殺"
    ],
    "related": [
-    "2026-11-16-tnr-nikhil-gupta-sentencing-memo"
+    "2026-11-16-tnr-nikhil-gupta-sentencing-memo",
+    "2026-11-20-tnr-nikhil-gupta-sentenced-235-months"
    ],
    "sources": [
     {
@@ -925,7 +926,8 @@
     "量刑"
    ],
    "related": [
-    "2026-11-16-tnr-gupta-filing-pakistan-plot"
+    "2026-11-16-tnr-gupta-filing-pakistan-plot",
+    "2026-11-20-tnr-nikhil-gupta-sentenced-235-months"
    ],
    "sources": [
     {
@@ -7651,6 +7653,70 @@
     }
    ],
    "addedAt": "2026-11-20T23:08:57+08:00"
+  },
+  {
+   "id": "2026-11-20-tnr-nikhil-gupta-sentenced-235-months",
+   "court": "IN",
+   "kind": "司法案件",
+   "caseId": "nikhil-gupta-pannun-plot",
+   "jurisdiction": "美國",
+   "outlet": "The Wire",
+   "outletCode": "Wire",
+   "date": "2026-11-20",
+   "eventDate": "2026-11-20",
+   "importance": 3,
+   "author": "",
+   "title": "謀殺錫克族運動者 Pannun 未遂案：美國聯邦法院判處 Nikhil Gupta 235 個月徒刑，法官稱陰謀係對美國主權之攻擊",
+   "shortTitle": "Pannun 謀殺案 Gupta 判囚 235 個月",
+   "point": "取量刑準則下限，未低於準則；檢方稱判決是對外國主導暗殺的明確警告",
+   "titleOriginal": "US Court Sentences Nikhil Gupta to 19 Years in Pannun Assassination Plot",
+   "caseRef": "",
+   "tldr": "被美國檢方指控受印度政府人員指使、雇人在紐約暗殺錫克族運動者 Pannun 的印度人 Nikhil Gupta，11 月 20 日在紐約被判 235 個月（約 19 年半）徒刑。法官稱這項陰謀是對美國主權的攻擊；被指控幕後指使的前印度情報官員 Vikash Yadav 仍下落不明。",
+   "memo": "依 The Wire 及論壇報（ANI）2026 年 11 月 20 日報導，美國紐約南區聯邦地方法院 Victor Marrero 法官於同日就 Nikhil Gupta 受僱殺人、共謀受僱殺人及共謀洗錢三罪（2026 年 2 月認罪）宣判有期徒刑 235 個月，為量刑準則 235 至 293 個月之下限，並駁回辯方有關量刑準則之主張；因被告服刑後將遭驅逐出境，未諭知監督釋放。檢方原求處 293 個月，辯方求處 144 個月。法官稱該陰謀係對美國主權之攻擊。被指控指使之前印度情報人員 Vikash Yadav 仍未到案，印度否認政府涉入。",
+   "context": "Gurpatwant Singh Pannun 具美國及加拿大國籍，為錫克族分離運動「錫克正義組織」法律顧問，印度將其列為恐怖分子。美國檢方指控前印度對外情報機構（RAW）人員 Vikash Yadav（起訴書中之「CC-1」，2024 年 10 月追加起訴）招募 Gupta 安排於紐約殺害 Pannun；Gupta 接觸之「殺手」實為美國緝毒署臥底人員，依報導其於 2023 年 6 月 9 日在紐約交付 1.5 萬美元訂金（約定總額 10 萬美元）。\nGupta 2023 年 6 月 30 日於布拉格應美方請求被捕，2024 年 6 月引渡美國，羈押於布魯克林大都會拘留中心，2026 年 2 月 13 日認罪。檢方 11 月 13 日量刑文件並指 Yadav 曾傳送 2023 年 6 月於加拿大卑詩省素里遇害之錫克族領袖 Nijjar 遺體影片給 Gupta。",
+   "facts": [
+    "依 The Wire，Marrero 法官於 2026 年 11 月 20 日宣判 235 個月，為量刑準則範圍 235 至 293 個月之下限，並駁回辯方就量刑準則之主張。",
+    "依 The Wire 引述法庭即時報導，因 Gupta 服刑後將被驅逐出境，法院未諭知監督釋放。",
+    "檢方求處 293 個月；辯方（律師 Isabelle Kirshner）支持緩刑部門建議之 144 個月，主張被告無前科、有酒精依賴且受 Yadav 施壓。",
+    "依 The Wire，Gupta 庭上確認不撤回認罪，向 Pannun 及錫克族社群致歉並接受判決；Pannun 於宣判前陳述，批評印度政府並描述此事對其生活之影響。",
+    "依 The Wire，紐約南區聯邦檢察官 Jamie McDonald 稱判決應成為明確警告，Gupta 誤以為自己不受美國法律管轄。",
+    "依 The Wire，Yadav 下落仍不明；印度外交部先前稱其已非政府雇員，內政部 2025 年 1 月稱已建議對一名未具名人士採取法律行動。"
+   ],
+   "issues": [
+    "外國政府人員指使於美國境內暗殺海外運動者之刑事責任與量刑嚇阻。",
+    "被指控指使者 Vikash Yadav 未到案，美國能否追訴及印度之國家責任。",
+    "本案與加拿大 Nijjar 遇害案之關聯及跨國調查合作。"
+   ],
+   "holding": "・罪名：受僱殺人、共謀受僱殺人、共謀洗錢（2026 年 2 月 13 日認罪）。\n・判決：有期徒刑 235 個月（量刑準則下限），未諭知監督釋放（服刑後將遭驅逐）。\n・求刑：檢方 293 個月，辯方 144 個月。\n・法官：稱陰謀係對美國主權之攻擊。\n・檢方：稱判決為明確警告。\n・共同被告 Yadav：下落不明，未到案。\n・印度：否認政府涉入；報導未載其對判決之回應。",
+   "significance": "本案是美國就外國政府人員涉嫌指使在其境內暗殺海外異議運動者的案件完成量刑的少數先例之一，刑度落在準則下限但未採辯方主張的大幅減刑。後續可觀察 Yadav 之追訴、印度官方回應，以及加拿大 Nijjar 案相關程序。",
+   "editorNote": "本網頁助理 註：判決內容依 The Wire 及論壇報轉載 ANI 之報導；本站未取得美國司法部新聞稿或判決書原本。論壇報稱判決為「逾 19 年」，另有部分媒體標題稱「24 年」，與 235 個月不符，本站採 235 個月。",
+   "tags": [
+    "跨國鎮壓",
+    "印度",
+    "美國",
+    "加拿大",
+    "錫克族",
+    "Pannun",
+    "受僱殺人",
+    "量刑"
+   ],
+   "related": [
+    "2026-11-16-tnr-nikhil-gupta-sentencing-memo",
+    "2026-11-16-tnr-gupta-filing-pakistan-plot"
+   ],
+   "sources": [
+    {
+     "label": "The Wire 報導",
+     "url": "https://m.thewire.in/article/world/us-court-sentences-nikhil-gupta-to-19-years-in-pannun-assassination-plot",
+     "official": false
+    },
+    {
+     "label": "論壇報（The Tribune）轉載 ANI 報導",
+     "url": "https://www.tribuneindia.com/news/19-years/indian-national-nikhil-gupta-sentenced-to-235-months-in-us-prison-over-foiled-assassination-plot-against-designated-terrorist-pannun",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-21T07:08:19+08:00"
   }
  ],
  "agenda": [
@@ -7699,9 +7765,9 @@
    "date": "2026-11-20",
    "court": "IN",
    "title": "Nikhil Gupta 謀殺錫克族運動者 Pannun 未遂案量刑（紐約南區聯邦法院）",
-   "note": "11 月 20 日於紐約南區聯邦地院由 Victor Marrero 法官量刑（依 2026 年 11 月 16 日報導）；日期可能變動。",
+   "note": "11 月 20 日於紐約南區聯邦地院由 Victor Marrero 法官量刑（依 2026 年 11 月 16 日報導）；日期可能變動。已於 11 月 20 日宣判 235 個月。",
    "url": "https://www.freepressjournal.in/world/gurpatwant-pannun-assassination-plot-us-court-delays-nikhil-gupta-sentencing-to-november-20",
-   "relatedId": "2026-11-16-tnr-nikhil-gupta-sentencing-memo",
+   "relatedId": "2026-11-20-tnr-nikhil-gupta-sentenced-235-months",
    "caseId": "nikhil-gupta-pannun-plot"
   },
   {
@@ -7964,7 +8030,7 @@
    "nameOriginal": "United States v. Nikhil Gupta (Pannun murder-for-hire plot)",
    "caseRef": "",
    "summary": "美國檢方指控印度政府人員 Vikash Yadav 招募印度人 Nikhil Gupta，雇人在美國暗殺錫克族分離運動者 Pannun；Gupta 2026 年 2 月認罪，印度否認涉入。",
-   "status": "檢方求刑 293 個月、辯方求 144 個月，量刑文件另指 Yadav 涉巴基斯坦暗殺計畫；量刑訂於 2026 年 11 月 20 日。"
+   "status": "2026 年 11 月 20 日判處有期徒刑 235 個月（量刑準則下限），未諭知監督釋放；被指控指使之 Vikash Yadav 仍未到案。"
   }
  ]
 }
