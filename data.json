@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-20T06:57:22+08:00",
-  "lastRunLocal": "2026-11-20 06:57",
+  "lastRun": "2026-11-20T23:00:07+08:00",
+  "lastRunLocal": "2026-11-20 23:00",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "本次未新增：網頁讀取權限逾時，各法院與部落格頁面均無法開啟，僅以搜尋查核，未發現可據以撰寫的新動態"
+  "lastRunNote": "新增 4 則：ICJ 1、其他 1、EJIL 評論 1、Opinio Juris 評論 1"
  },
  "items": [
   {
@@ -8469,7 +8469,8 @@
     "2026-09-14-oj-gambia-myanmar-threshold",
     "2026-09-28-oj-destroy-group-physically",
     "2026-10-09-oj-gambia-myanmar-return",
-    "2026-11-19-ejil-gambia-myanmar-bottom-line"
+    "2026-11-19-ejil-gambia-myanmar-bottom-line",
+    "2026-11-20-icj-gambia-myanmar-reactions"
    ]
   },
   {
@@ -8636,7 +8637,287 @@
      "official": false
     }
    ],
-   "addedAt": "2026-11-19T23:06:30+08:00"
+   "addedAt": "2026-11-19T23:06:30+08:00",
+   "related": [
+    "2026-11-19-other-eu-un-support-icc-shenzhen"
+   ]
+  },
+  {
+   "id": "2026-11-20-icj-gambia-myanmar-reactions",
+   "court": "ICJ",
+   "kind": "其他",
+   "caseId": "gambia-v-myanmar",
+   "date": "2026-11-20",
+   "eventDate": "2026-11-20",
+   "importance": 2,
+   "title": "緬甸政府稱國際法院種族滅絕判決「不公平」，中國批評法院管轄權擴張；英國、澳洲、聯合國秘書長表示歡迎",
+   "shortTitle": "緬甸、中國批評羅興亞種族滅絕判決",
+   "point": "緬甸以判決非全體一致為由稱不公平；中國質疑管轄權過度擴張，英國則驅逐緬甸武官",
+   "titleOriginal": "Reactions to the Judgment in Application of the Genocide Convention (The Gambia v. Myanmar)",
+   "caseRef": "General List No. 178",
+   "tldr": "國際法院判決緬甸對羅興亞人犯下種族滅絕後隔天，緬甸軍政府發言人說判決不是全體法官一致通過、並不公平，緬甸是被冤枉的；中國外交部也批評判決無助於解決爭端。英國、澳洲、挪威、孟加拉與聯合國秘書長則歡迎判決，印度只表示「注意到」判決。",
+   "memo": "國際法院於 2026 年 11 月 19 日就甘比亞訴緬甸（防止及懲治種族滅絕罪公約）案作成實體判決後，據媒體報導，緬甸政府發言人於 11 月 20 日以判決係 9 票對 6 票、非全體一致為由，稱判決不公平；中國外交部發言人同日稱此類裁判無助於爭端解決，並表示關切管轄權過度擴張及寬泛解釋。英國宣布驅逐緬甸國防武官並呼籲召開安理會會議，澳洲、挪威及聯合國秘書長表示歡迎，印度僅稱已注意到判決。",
+   "context": "甘比亞於 2019 年依《防止及懲治種族滅絕罪公約》第 9 條對緬甸提起訴訟。國際法院於 2026 年 11 月 19 日作成實體判決，以 9 票對 6 票認定緬甸於 2017 年在若開邦北部對羅興亞人實施種族滅絕，並命緬甸追訴行為人、給付賠償、促成安全返鄉，且於兩年內提出報告。\n判決前一日（11 月 19 日），美中俄三國元首在深圳發表宣言，要求國際刑事法院等機構不得濫用管轄權。",
+   "facts": [
+    "2026 年 11 月 20 日，緬甸政府發言人 Khaing Khaing Soe 在奈比多記者會上表示，緬甸遭到不公正的指控，並以判決並非全體法官一致為由，稱判決不公平。",
+    "同日，中國外交部發言人郭嘉昆表示，此類裁判無助於爭端的解決，呼籲各方共同努力避免問題複雜化；The Wire 報導其並提及對管轄權過度擴張與寬泛解釋的關切。",
+    "Al Jazeera 報導，國際法院中國籍法官除一項外，其餘各項均投票支持緬甸立場。",
+    "英國外交大臣 11 月 19 日發表聲明，宣布驅逐緬甸國防武官，並呼籲召開聯合國安理會會議。",
+    "澳洲外長黃英賢稱判決是邁向正義與究責的重要一步；挪威外長亦發表聲明；孟加拉與甘比亞表示歡迎。",
+    "聯合國秘書長古特瑞斯 11 月 19 日發表聲明歡迎判決；副發言人哈克同日表示判決具拘束力、為終局且不得上訴。",
+    "印度外交部發言人 11 月 20 日僅表示「注意到」判決，未提及種族滅絕，並重申支持羅興亞人安全、迅速、可持續地返鄉。",
+    "據 The Wire 報導，一名美國官員表示美國正在研究判決，並稱防止國際法院政治化至關重要。"
+   ],
+   "issues": [
+    "國際法院判決的拘束力與終局性（《聯合國憲章》第 94 條、《國際法院規約》第 59 條、第 60 條）。",
+    "判決不獲履行時可否請求安理會採取措施（《聯合國憲章》第 94 條第 2 項）。"
+   ],
+   "holding": "本則為判決後各國及聯合國的反應，非法院裁判。\n緬甸未表示將履行判決；英國已採取外交措施並尋求安理會討論。判決命緬甸於兩年內向法院提出履行報告。",
+   "significance": "緬甸公開否定判決，履行前景不明；英國要求安理會討論，中國的批評則顯示安理會層面可能出現分歧。各國反應亦將影響南非訴以色列案等其他種族滅絕公約案件的外界評價。",
+   "editorNote": "本網頁助理 註：本則依 Al Jazeera、ABC News（轉引 Reuters）與 The Wire 報導撰寫；英國、澳洲、挪威政府、中國外交部及聯合國秘書長聲明的連結取自 The Wire 報導，本網頁助理未能直接開啟核對原文。緬甸發言人姓名各報導拼法不一（Khaing Khaing Soe／Khine Khine Soe）。\n以下為本網頁助理補充，非來源內容：依《聯合國憲章》第 94 條第 2 項，當事國不履行判決時，他方得向安理會申訴，惟安理會決議受常任理事國否決權限制。",
+   "tags": [
+    "種族滅絕公約",
+    "種族滅絕",
+    "判決履行",
+    "安理會",
+    "羅興亞人",
+    "緬甸",
+    "甘比亞",
+    "中國",
+    "英國",
+    "澳洲",
+    "印度",
+    "國際法院"
+   ],
+   "sources": [
+    {
+     "label": "聯合國秘書長聲明（聯合國駐緬甸辦公室）",
+     "url": "https://myanmar.un.org/en/326406-statement-secretary-general-international-court-justice-judgment-%E2%80%9C-gambia-v-myanmar%E2%80%9D",
+     "official": true
+    },
+    {
+     "label": "英國外交大臣聲明",
+     "url": "https://www.gov.uk/government/news/foreign-secretary-statement-on-international-court-of-justice-myanmar-judgement-19-november",
+     "official": false
+    },
+    {
+     "label": "中國外交部例行記者會（11 月 20 日）",
+     "url": "https://www.mfa.gov.cn/eng/xw/fyrbt/202611/t20261120_12064156.html",
+     "official": false
+    },
+    {
+     "label": "澳洲外長新聞稿",
+     "url": "https://www.foreignminister.gov.au/minister/penny-wong/media-release/international-court-justice-ruling-myanmar",
+     "official": false
+    },
+    {
+     "label": "Al Jazeera 報導",
+     "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling",
+     "official": false
+    },
+    {
+     "label": "ABC News 報導",
+     "url": "https://www.abc.net.au/news/2026-11-20/myanmar-calls-icj-ruling-on-genocide-unfair/107411450",
+     "official": false
+    },
+    {
+     "label": "The Wire 報導",
+     "url": "https://thewire.in/world/india-takes-note-of-icj-verdict-on-myanmar-does-not-mention-genocide",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-20T23:00:07+08:00",
+   "related": [
+    "2026-11-19-icj-gambia-myanmar-merits-judgment"
+   ]
+  },
+  {
+   "id": "2026-11-19-other-eu-un-support-icc-shenzhen",
+   "court": "OTHER",
+   "kind": "其他",
+   "caseId": "us-sanctions-icc",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-19",
+   "importance": 1,
+   "title": "美中俄深圳宣言點名國際刑事法院後，歐盟執委會與聯合國秘書長發言人重申支持法院",
+   "shortTitle": "歐盟與聯合國回應深圳宣言挺 ICC",
+   "point": "歐盟稱 ICC 是規則秩序的基本部分；聯合國稱法院對國際司法至關重要",
+   "titleOriginal": "EU and UN reaffirm support for the ICC following the Shenzhen Declaration",
+   "caseRef": "",
+   "tldr": "美國、中國和俄羅斯元首在深圳發表宣言，要國際刑事法院不要「濫用管轄權」。同一天，歐盟執委會發言人表示歐盟堅定支持以規則為基礎的國際秩序，而國際刑事法院是其中的基本部分；聯合國副發言人也說秘書長認為該法院是國際司法的關鍵機構之一。",
+   "memo": "據媒體報導，美國、中國及俄羅斯元首於 2026 年 11 月 19 日在深圳發表宣言，要求國際刑事法院不得濫用管轄權。同日，歐盟執委會發言人於布魯塞爾記者會重申歐盟對以規則為基礎之國際秩序之承諾，並稱國際刑事法院為該秩序之基本組成部分；聯合國副發言人亦表示秘書長視該法院為國際司法之關鍵機構，聯合國與法院訂有關係協定，並期盼會員國支持其工作。",
+   "context": "美國自 2025 年起制裁國際刑事法院官員，2026 年 10 月擴及法院整體；歐盟曾考慮啟動《阻斷法規》保護法院，但尚未啟動。11 月 19 日美中俄三國元首在深圳峰會後發表宣言，強調國家同意與官員豁免，並要求國際刑事法院不得濫用管轄權。締約國大會第 25 屆會議將於 11 月 30 日開幕。",
+   "facts": [
+    "2026 年 11 月 19 日，歐盟執委會發言人 Christian Wigand 在布魯塞爾記者會上表示，歐盟堅定致力於以規則為基礎的國際秩序，國際刑事法院是其基本組成部分。",
+    "同日，聯合國副發言人哈克（Farhan Haq）在記者會上表示，秘書長古特瑞斯認為國際刑事法院是國際司法的關鍵機構之一，聯合國與法院訂有關係協定，並希望會員國支持法院工作。",
+    "記者問及遭法院通緝的元首如何能對法院作出決定時，哈克表示將由法院自行說明其工作。"
+   ],
+   "issues": [
+    "國際刑事法院對非締約國國民的管轄權（《羅馬規約》第 12 條）。",
+    "《聯合國與國際刑事法院關係協定》下的合作關係。"
+   ],
+   "holding": "本則為政治表態，非法律文件。報導未提及歐盟是否將採取《阻斷法規》等具體措施。",
+   "significance": "歐盟與聯合國的回應僅止於原則性表態；締約國大會開會時，各國如何回應深圳宣言及美國制裁，仍是觀察重點。",
+   "editorNote": "本網頁助理 註：本則依 Anadolu Agency（經 ANews 刊載）兩則報導撰寫，未能取得歐盟執委會或聯合國記者會的官方紀錄；Anadolu Agency 原站頁面無法開啟。",
+   "tags": [
+    "國際刑事法院",
+    "美國制裁",
+    "歐盟",
+    "聯合國",
+    "非締約國",
+    "美國",
+    "中國",
+    "俄羅斯"
+   ],
+   "sources": [
+    {
+     "label": "ANews（Anadolu Agency）報導：歐盟重申支持",
+     "url": "https://www.anews.com.tr/world/2026/11/19/eu-reiterates-firm-support-for-hague-based-court-following-trump-putin-xi-declaration",
+     "official": false
+    },
+    {
+     "label": "ANews（Anadolu Agency）報導：聯合國支持法院",
+     "url": "https://www.anews.com.tr/world/2026/11/19/un-defends-international-criminal-court-as-crucial-for-international-justice-after-trump-xi-putin-target-tribunal",
+     "official": false
+    },
+    {
+     "label": "Anadolu Agency 報導",
+     "url": "https://www.aa.com.tr/en/world/un-defends-international-criminal-court-as-crucial-for-international-justice-after-trump-xi-putin-target-tribunal/4131453",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-20T23:00:07+08:00",
+   "related": [
+    "2026-11-19-other-shenzhen-declaration-icc"
+   ]
+  },
+  {
+   "id": "2026-11-19-oj-res-2719-aussom-financing",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "",
+   "date": "2026-11-19",
+   "eventDate": "",
+   "importance": 1,
+   "title": "作者主張安理會第 2719 號決議只開啟分攤會費資助非盟維和行動的途徑，未創設付款義務，安理會應在 12 月明確決定索馬利亞任務的經費來源",
+   "shortTitle": "第 2719 號決議不保證非盟任務經費",
+   "point": "作者認為會費義務始於大會分攤而非安理會授權，安理會可續任務卻不決定誰付錢",
+   "titleOriginal": "Who Decides Who Pays for the AU Mission in Somalia? December's Test for Resolution 2719",
+   "caseRef": "",
+   "tldr": "聯合國安理會 2023 年的第 2719 號決議，讓非洲聯盟的維和行動有機會使用聯合國會員國分攤的經費，但非盟在索馬利亞的任務至今仍靠自願捐款。作者認為這項決議只是一條可能的路，不是付款承諾；安理會可以一再延長任務卻不決定錢從哪裡來，這造成問責漏洞，因此 12 月任務到期時，安理會應明確說要或不要用分攤經費。",
+   "memo": "Lincoln Booth 於 Opinio Juris 撰文主張，安理會第 2719 號決議僅提供非盟和平行動取得聯合國分攤經費之途徑，並未創設受領權利；依《聯合國憲章》第 17 條第 2 項，會員國之付款義務始於大會之分攤決定，而非安理會之授權，國際法院「某些經費」諮詢意見亦以分攤為前提。是否分攤屬安理會與大會之裁量，安理會得延長非盟索馬利亞支援及穩定任務而不決定經費來源，形成問責缺口，故應於 12 月明確決定是否授權分攤經費。",
+   "context": "安理會於 2023 年 12 月 21 日通過第 2719 號決議，讓非盟和平行動得個案申請使用聯合國分攤經費，上限為年度預算的 75%。第 2767 號決議（2024 年 12 月）原規劃自 2025 年 7 月起對非盟索馬利亞支援及穩定任務（AUSSOM）「混合」適用第 2719 號決議，但安理會始終未作成必要的確認。AUSSOM 任務與美國資助均將於 2026 年 12 月 31 日到期，第 2719 號決議的三年檢討亦在 12 月進行。",
+   "facts": [
+    "第 2719 號決議第 2 段規定安理會將個案考慮非盟和平與安全理事會的請求；第 6 段將分攤經費上限定為年度預算 75%；第 4 段要求預算經行政和預算問題諮詢委員會及第五委員會審議後，由大會依憲章第 17 條核定。",
+    "第 2767 號決議以 14 票贊成、美國棄權通過，條件是安理會須於 2025 年 5 月 15 日前確認已有充分進展，但此一確認未曾作成。",
+    "作者引用非盟估計：AUSSOM 2025 年約需 1.96 億美元，已確認認捐約 4,860 萬美元。",
+    "美國於 2026 年 7 月 1 日通知非盟，其資助將隨第 2809 號決議授權的任務期限結束；美國國會亦有法案擬禁止以美國分攤款支應相關安排。",
+    "作者指出，中國表示支持落實第 2719 號決議；美國則據報傾向支持支援辦公室在 12 個月內縮編並清算。"
+   ],
+   "issues": [
+    "安理會授權是否使會員國負有支付特定行動經費的義務（《聯合國憲章》第 17 條第 2 項）。",
+    "國際法院 1962 年「聯合國某些經費」諮詢意見與 1954 年「行政法庭裁決效力」諮詢意見的射程。",
+    "安理會第 2719 號決議的法律性質與 75% 上限的效力。"
+   ],
+   "holding": "・作者認為第 2719 號決議未賦予 AUSSOM 取得分攤經費的權利；憲章第 17 條第 2 項的付款義務附著於大會的分攤決定，而非安理會的授權。\n・作者區分兩個法律時點：是否分攤屬裁量決定（安理會可能遭常任理事國否決，其後尚需大會預算決定）；已分攤款項的繳納才是強制義務。\n・「某些經費」諮詢意見以已有分攤為前提，並未要求特定支出必須分攤。\n・安理會可延長 AUSSOM 任務而不處理經費問題，2025 年 5 月期限經過即未作成任何決定；作者認為此種懸而不決本身合法，卻造成問責問題。\n・對「75% 上限構成法律障礙」之說，作者認為那只是制度設計上的限制；對「授權後非盟與出兵國已據以規劃，分攤即不再屬裁量」之說，作者認為該諮詢意見所要求大會尊重的，是秘書長依安理會授權有效承擔的債務，而 AUSSOM 本身預算並無此種債務，授權改變的只是政治壓力，而非法律性質。",
+   "significance": "作者主張安理會在 12 月應二擇一：明確授權分攤經費，並說明 AUSSOM 及支援辦公室如何籌資、支援辦公室支出是否計入 75% 上限；或明確拒絕並承認任務仍將依賴自願捐款。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：作者為牛津大學碩士候選人；文中統計數字均引自作者所引來源，本網頁助理未逐一核對安理會決議原文。",
+   "tags": [
+    "聯合國憲章",
+    "安理會",
+    "第17條",
+    "某些經費諮詢意見",
+    "維和行動",
+    "非洲聯盟",
+    "國際組織法",
+    "索馬利亞",
+    "美國",
+    "中國"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/11/19/who-decides-who-pays-for-the-au-mission-in-somalia-decembers-test-for-resolution-2719/",
+     "official": false
+    },
+    {
+     "label": "安理會第 2719（2023）號決議（PDF）",
+     "url": "https://conduct.unmissions.org/sites/default/files/2025-11/s_res_2719_2023-en.pdf",
+     "official": true
+    },
+    {
+     "label": "安理會第 2809（2025）號決議",
+     "url": "https://docs.un.org/en/S/RES/2809%282025%29",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-20T23:00:07+08:00",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Lincoln Booth（牛津大學）"
+  },
+  {
+   "id": "2026-11-19-ejil-interpol-direct-messages",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "",
+   "date": "2026-11-19",
+   "eventDate": "",
+   "importance": 1,
+   "title": "作者指出國際刑警組織近年修改規則限制內部監督機關查閱成員國間直接訊息，削弱防止政治濫用的保障、檔案監督委員會作為救濟的實效及其豁免的正當基礎",
+   "shortTitle": "國際刑警直接訊息逃過監督",
+   "point": "作者主張新規則讓秘書處與檔案委員會難以發現政治性逮捕請求，並提出寄送前比對等兩項修正",
+   "titleOriginal": "The Channel INTERPOL Has Chosen Not to Watch",
+   "caseRef": "",
+   "tldr": "國際刑警組織的紅色通緝令會經過審查，以免被政府用來追捕政治異議者，但各國警察局之間也可以直接互傳訊息請求逮捕。作者指出，組織在 2024、2025 年修改規則後，秘書處和負責處理個人申訴的檔案監督委員會幾乎看不到這些訊息，等於留下漏洞，也讓組織主張享有訴訟豁免的理由變弱。",
+   "memo": "Charlie Magri 與 Ted R. Bromund 於 EJIL:Talk! 撰文指出，國際刑警組織 2024 年修正《資料處理規則》第 22 條第 6 項、2025 年修正《檔案監督委員會規約》第 19 條，使秘書處及該委員會僅於經授權或知悉可能違規時始得查閱成員國中央局間之直接訊息，致組織憲章第 3 條禁止政治性活動之保障難以執行，並削弱委員會作為有效替代救濟之功能及組織豁免之正當性。作者建議建立寄送前比對機制，並將「不再合作」原則明文化。",
+   "context": "國際刑警組織憲章第 3 條禁止組織從事政治、軍事、宗教或種族性質的活動；紅色通緝令與協查通報須經秘書處審查，個人可向檔案監督委員會（CCF）申請查閱、更正或刪除資料。2025 年組織大會另通過一般特權及豁免協定，將資料爭議交由 CCF 處理，而 CCF 無權判給賠償。",
+   "facts": [
+    "2024 年 11 月格拉斯哥大會通過現行《資料處理規則》第 22 條第 6 項：秘書處未獲副本的訊息，除經相關單位明示授權或知悉可能違規，否則不得查閱。",
+    "2025 年馬拉喀什大會修正《檔案監督委員會規約》第 19 條，對訊息適用相同兩項條件，但保留委員會對組織資料「完全且不受限制」的查閱權原則。",
+    "規則修正與新訊息平台 NEXUS 推出同時，該平台預定於 2027 年底前推廣至所有成員。",
+    "作者指出，直接訊息每年以千萬計，而 2025 年紅色通緝令約 2.7 萬件、協查通報約 3 萬件。",
+    "一名巴林異議人士在法國里昂法院以國際刑警組織未提供有效替代救濟為由請求損害賠償，法院預定於 2026 年 12 月 31 日判決。"
+   ],
+   "issues": [
+    "國際組織內部監督與憲章第 3 條保障的實效。",
+    "國際組織豁免與有效替代救濟（Waite and Kennedy 標準）的關係。",
+    "國際組織處理個人資料的審查與救濟機制。"
+   ],
+   "holding": "・作者指出，防止政治濫用的審查機制與 CCF 刪除權都取決於組織能看到資料；直接訊息若未副知秘書處，原則上不入組織資料庫，被拒發通緝令的政府可改以訊息向他國請求逮捕，當事人通常無從得知。\n・新規則使秘書處與 CCF 只能在授權或已知違規時查閱，而違規正因看不到訊息而難以察覺，監督實際上仰賴受監督的中央局自行通報。\n・個人查閱權的檢查以資料是否經處理為起點，未副知秘書處的訊息原本就可能不在範圍內，新規則更封閉了主張其應受涵蓋的解釋空間。\n・作者承認調查保密等理由，但認為通緝令同樣涉及敏感資料，保密不必然排除任何偵測濫用的手段，並以情報「第三方規則」受歐洲理事會人權專員與德國聯邦憲法法院批評為類比。\n・CCF 作為救濟的價值取決於其能否檢視資料；在法院評估豁免時，有效替代救濟是否存在可能具決定性，里昂案即涉及此問題。",
+   "significance": "作者提出兩項不需例行閱讀訊息的修正：其一，訊息寄出前由系統比對組織紀錄，若對象的通緝令曾因第 2 條或第 3 條遭拒或刪除，即警告寄送方並留紀錄，供秘書處據以認定可能違規；其二，將現僅見於指引的「不再合作」原則寫入《資料處理規則》，禁止經任何管道（含直接訊息）再行合作，除非先向秘書處提出新的重大事實。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：兩位作者均為處理國際刑警組織案件的執業者（Magri 為馬賽律師公會律師），其身分資料取自文末作者簡介；文中規則條文與統計數字未經本網頁助理逐一核對。",
+   "tags": [
+    "國際刑警組織",
+    "國際組織法",
+    "國際組織豁免",
+    "有效救濟",
+    "紅色通緝令",
+    "跨國鎮壓",
+    "法國",
+    "巴林"
+   ],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/the-channel-interpol-has-chosen-not-to-watch/",
+     "official": false
+    },
+    {
+     "label": "國際刑警組織《資料處理規則》（PDF）",
+     "url": "https://www.interpol.int/content/download/5694/file/26%20E%20RulesProcessingData_RPD.pdf",
+     "official": false
+    },
+    {
+     "label": "國際刑警組織 2025 年大會決議 GA-2025-93-RES-08（PDF）",
+     "url": "https://www.interpol.int/content/download/23673/file/GA-2025-93-RES-08%20E.pdf",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-20T23:00:07+08:00",
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "author": "Charlie Magri、Ted R. Bromund"
   }
  ],
  "agenda": [
@@ -8937,7 +9218,7 @@
    "nameOriginal": "Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar)",
    "caseRef": "General List No. 178",
    "summary": "甘比亞指控緬甸對羅興亞人的行為違反《防止及懲治種族滅絕罪公約》。",
-   "status": "法院已於 2026 年 11 月 19 日以 9 票對 6 票判決緬甸實施種族滅絕並命其賠償，緬甸須於兩年內提出報告。"
+   "status": "法院已於 2026 年 11 月 19 日以 9 票對 6 票判決緬甸實施種族滅絕並命其賠償、兩年內提出報告；緬甸政府稱判決不公平，英國尋求安理會討論。"
   },
   {
    "id": "drc-v-rwanda",
