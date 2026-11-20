@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-20T07:13:41+08:00",
-  "lastRunLocal": "2026-11-20 07:13",
+  "lastRun": "2026-11-20T23:08:57+08:00",
+  "lastRunLocal": "2026-11-20 23:08",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
   "lastRunNote": "新增 1 則：伊朗 1（事件 1）"
@@ -863,7 +863,8 @@
     "國家安全法"
    ],
    "related": [
-    "2026-11-12-tnr-iran-intl-trial-verdict"
+    "2026-11-12-tnr-iran-intl-trial-verdict",
+    "2026-11-19-tnr-irgc-iran-international-military-target"
    ],
    "sources": [
     {
@@ -1549,7 +1550,8 @@
     "2026-10-22-tnr-iran-intl-trial-sepahvand-testimony",
     "2026-10-06-tnr-london-iran-international-trial",
     "2026-11-06-tnr-aidinidis-iran-intl-not-guilty",
-    "2026-11-16-tnr-uk-pm-iran-journalists-warning"
+    "2026-11-16-tnr-uk-pm-iran-journalists-warning",
+    "2026-11-19-tnr-irgc-iran-international-military-target"
    ],
    "sources": [
     {
@@ -7590,6 +7592,65 @@
     }
    ],
    "addedAt": "2026-11-20T07:13:41+08:00"
+  },
+  {
+   "id": "2026-11-19-tnr-irgc-iran-international-military-target",
+   "court": "IR",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "伊朗國際台",
+   "outletCode": "IIN",
+   "date": "2026-11-20",
+   "eventDate": "2026-11-19",
+   "importance": 2,
+   "author": "",
+   "title": "伊朗革命衛隊發言人稱倫敦波斯語媒體伊朗國際台屬伊朗武裝部隊「軍事目標」之一",
+   "shortTitle": "革命衛隊稱伊朗國際台為軍事目標",
+   "point": "發言人 Mohebbi 重申先前威脅，但未說明任何行動、時間或地點",
+   "titleOriginal": "IRGC says Iran International is among its military targets",
+   "caseRef": "",
+   "tldr": "伊朗革命衛隊發言人 Mohebbi 11 月 19 日公開表示，總部設在倫敦的波斯語電視台伊朗國際台是伊朗武裝部隊的「軍事目標」之一。這是對流亡媒體的公開威脅，但他沒有說明會採取什麼行動；就在一週前，英國法院才將兩名替伊朗監視該台記者的男子定罪。",
+   "memo": "依伊朗國際台 2026 年 11 月 20 日及 Business Upturn 同年 11 月 19 日報導，伊朗伊斯蘭革命衛隊發言人 Hossein Mohebbi 於 2026 年 11 月 19 日表示，總部設於倫敦之波斯語媒體伊朗國際台屬伊朗武裝部隊「軍事目標」之一，並援引伊朗軍方領導層先前警告；惟未說明具體行動、時間、地點或指定理由。報導未載英國政府之回應。",
+   "context": "伊朗國際台為總部設於倫敦的波斯語衛星電視台，其記者多年來遭跟監、威脅及攻擊。2026 年 11 月 12 日，倫敦 Woolwich 刑事法院陪審團裁決兩名被告協助伊朗情報機關監視該台記者罪成，定於 12 月 17 日量刑；11 月 16 日英國首相伯納姆亦公開警告伊朗勿資助攻擊記者（見本站相關則）。\n依 Business Upturn 報導，本次談話發生於美伊持續交火之際；Mohebbi 於 11 月 1 日亦曾稱，鎖定新目標並在更多地區規劃行動列於革命衛隊議程。",
+   "facts": [
+    "依伊朗國際台報導，革命衛隊發言人 Hossein Mohebbi 於 11 月 19 日（週四）稱伊朗國際台屬伊斯蘭共和國武裝部隊之「軍事目標」之一，並重申先前對該台之威脅。",
+    "依 Business Upturn 報導，Mohebbi 援引伊朗軍方領導層先前之警告，但未說明指定理由，亦未提及任何行動計畫、時間或地點。",
+    "兩篇報導均未載英國政府、伊朗國際台官方或新聞自由團體對此談話之回應。"
+   ],
+   "issues": [
+    "他國軍事機關公開將境外流亡媒體列為「軍事目標」，是否構成對英國境內記者之可信威脅，以及英國依《國家安全法》與反恐法制應採取何種保護措施。",
+    "在美伊武裝衝突背景下，將新聞機構定位為軍事目標與國際人道法保護平民及記者原則之關係。"
+   ],
+   "holding": "・伊朗革命衛隊：發言人稱伊朗國際台為武裝部隊軍事目標之一，未說明具體措施。\n・伊朗國際台：以報導方式將此談話列入其記者遭受一系列密謀與攻擊之脈絡。\n・英國政府：報導未載回應。",
+   "significance": "伊朗官方軍事機關公開點名倫敦流亡媒體為軍事目標，使該台記者之人身安全風險升高，也與英國法院近日定罪及首相警告形成對照。後續可觀察英國警方與政府是否回應、是否加強保護，以及 12 月 17 日監視案量刑。",
+   "editorNote": "本網頁助理 註：伊朗國際台網頁正文僅能讀取首段；其餘內容取自 Business Upturn 二手報導，未能取得 Mohebbi 談話原文或發表場合。",
+   "tags": [
+    "跨國鎮壓",
+    "伊朗",
+    "英國",
+    "伊朗國際台",
+    "記者",
+    "威脅",
+    "革命衛隊"
+   ],
+   "related": [
+    "2026-11-16-tnr-uk-pm-iran-journalists-warning",
+    "2026-11-12-tnr-iran-intl-trial-verdict"
+   ],
+   "sources": [
+    {
+     "label": "伊朗國際台報導",
+     "url": "https://www.iranintl.com/en/202611201108",
+     "official": false
+    },
+    {
+     "label": "Business Upturn 報導",
+     "url": "https://businessupturn.com/asia/middle-east-asia/iran/irans-revolutionary-guards-name-iran-international-among-potential-targets-raising-media-safety-concerns/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-20T23:08:57+08:00"
   }
  ],
  "agenda": [
