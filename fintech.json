@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-20T23:29:22+08:00",
-  "lastRunLocal": "2026-11-20 23:29",
+  "lastRun": "2026-11-21T07:32:10+08:00",
+  "lastRunLocal": "2026-11-21 07:32",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：歐盟 1（立法動態 1）、亞太與其他 1（香港立法動態 1）"
+  "lastRunNote": "新增 5 則：美國 4（立法動態 1、司法案件 1、政策動態 2）、亞太與其他 1（烏克蘭立法動態 1）"
  },
  "items": [
   {
@@ -587,7 +587,8 @@
     "2026-10-24-fin-canada-draft-stablecoin-regulations",
     "2026-10-27-fin-occ-community-banks-stablecoin-issuers",
     "2026-11-04-fin-mayer-brown-occ-genius-final-rule",
-    "2026-11-18-fin-senators-treasury-state-issuer-safe-harbor"
+    "2026-11-18-fin-senators-treasury-state-issuer-safe-harbor",
+    "2026-11-20-fin-fdic-fincen-genius-rules-to-oira"
    ],
    "sources": [
     {
@@ -4826,7 +4827,8 @@
    "related": [
     "2026-11-02-fin-illinois-prediction-markets-injunction-appeal",
     "2026-11-04-fin-ninth-circuit-denies-kalshi-rehearing",
-    "2026-11-05-fin-cftc-impartial-access-geofencing"
+    "2026-11-05-fin-cftc-impartial-access-geofencing",
+    "2026-11-20-fin-sdny-remands-ny-v-kalshi"
    ],
    "sources": [
     {
@@ -8295,7 +8297,9 @@
     "加密資產",
     "美國"
    ],
-   "related": [],
+   "related": [
+    "2026-11-19-fin-senate-banking-sec-nominees-hearing"
+   ],
    "sources": [
     {
      "label": "The Block 報導",
@@ -8427,7 +8431,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-30-fin-sec-woodcock-prediction-markets"
+    "2026-10-30-fin-sec-woodcock-prediction-markets",
+    "2026-11-20-fin-senate-passes-death-bets-act"
    ],
    "sources": [
     {
@@ -9739,7 +9744,8 @@
    ],
    "related": [
     "2026-11-11-fin-okxice-tsv-launch-date",
-    "2026-10-05-fin-wilmerhale-sec-innovation-exemption"
+    "2026-10-05-fin-wilmerhale-sec-innovation-exemption",
+    "2026-11-19-fin-senate-banking-sec-nominees-hearing"
    ],
    "sources": [
     {
@@ -9917,7 +9923,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-21-fin-occ-genius-act-final-rule"
+    "2026-10-21-fin-occ-genius-act-final-rule",
+    "2026-11-20-fin-fdic-fincen-genius-rules-to-oira"
    ],
    "sources": [
     {
@@ -10578,6 +10585,339 @@
     }
    ],
    "addedAt": "2026-11-20T23:29:22+08:00"
+  },
+  {
+   "id": "2026-11-20-fin-senate-passes-death-bets-act",
+   "court": "US",
+   "kind": "立法動態",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-20",
+   "eventDate": "2026-11-19",
+   "importance": 2,
+   "author": "",
+   "title": "美國參議院以口頭表決通過 DEATH BETS Act，禁止受 CFTC 監理平台上市涉及戰爭、恐怖攻擊、暗殺與個人死亡之事件合約",
+   "shortTitle": "美參院通過 DEATH BETS Act",
+   "point": "禁止上市戰爭、恐攻、暗殺及個人死亡事件合約，為首部預測市場法案，待眾院審議",
+   "titleOriginal": "Senate passes 'Death Bets Act' to ban prediction market contracts tied to death and war",
+   "caseRef": "S. 4035（119th Congress）",
+   "tldr": "美國參議院 11 月 19 日通過一項法案，禁止 Kalshi、Polymarket 這類受 CFTC 監理的預測市場讓人押注戰爭、恐怖攻擊、暗殺或某人死亡。依報導這是參院首次通過專門針對預測市場的法案，還要眾議院通過、總統簽署才會成為法律。",
+   "memo": "依 The Block、Decrypt 及 Fortune 2026 年 11 月 20 日報導，美國參議院於 2026 年 11 月 19 日以口頭表決通過經修正之 DEATH BETS Act（S. 4035，參議員 Schiff 提案、Curtis 共同提案）。依 2026 年 3 月 10 日提出之法案文本，該法擬增訂商品交易法第 5c 條(d)項，禁止註冊實體上市或結算以除外商品為基礎、涉及恐怖攻擊、暗殺、戰爭或經 CFTC 認定之類似活動，或涉及個人死亡之合約。本案尚待眾議院通過及總統簽署。",
+   "context": "事件合約（event contracts）依商品交易法第 5c(c) 條，CFTC 得以違反公共利益為由禁止涉及恐怖攻擊、暗殺、戰爭、博弈等活動之合約，但屬裁量權限。\n參議員 Schiff 於 2026 年 3 月 10 日提出 S. 4035，眾議員 Levin 同日提出眾院版本。2026 年下半年，預測市場在各州與聯邦之管轄爭議持續升高，CFTC 與司法部陸續起訴猶他、阿肯色、路易斯安那等州，眾院監督委員會亦建議限制官員押注預測市場。",
+   "facts": [
+    "法案於 2026 年 11 月 19 日（週四）晚間經口頭表決通過，並附修正（依 Decrypt 引 Congress.gov 資料）。",
+    "主提案人為 Adam Schiff（民主黨，加州），共同提案人為 John Curtis（共和黨，猶他州）。",
+    "依報導，禁止範圍包括明示涉及恐怖攻擊、暗殺、戰爭或美軍軍事行動之合約，以及可合理預期主要依個人死亡結算之合約；CFTC 得以規則擴及類似活動。",
+    "依 Decrypt 報導，其他事件合約（如運動、博弈類）不受影響。",
+    "依 The Block 報導，CFTC 主席 Selig 表示將與司法部合作捍衛 CFTC 管轄。",
+    "依 Fortune 報導，Kalshi、Polymarket 未即時回應；Curtis 另支持禁止運動及賭場類預測合約之法案，參議員 Cruz 亦擬提出運動合約法案。"
+   ],
+   "issues": [
+    "將 CFTC 裁量禁止權改為法定禁止，是否壓縮 CFTC 依公共利益審查事件合約之空間？",
+    "「可合理預期主要依個人死亡結算」之範圍如何界定？",
+    "本法是否為後續針對運動事件合約之聯邦立法鋪路？"
+   ],
+   "holding": "・增訂商品交易法第 5c 條(d)項（依提案文本）：註冊實體不得上市或結算涉及恐怖攻擊、暗殺、戰爭或 CFTC 認定之類似活動之合約。\n・不得上市或結算涉及個人死亡，或可解為與個人死亡密切相關之合約。\n・適用於以除外商品（商品交易法第 1a(19)(iv) 條）為基礎之合約、交易或交換。\n・參院通過版本附有修正，修正內容依報導描述。",
+   "significance": "依 Fortune 報導，這是參議院首次通過專門規範預測市場之法案，顯示國會兩黨對特定類型事件合約有共識。後續觀察眾議院（Levin 版本）是否於本會期審議，以及 CFTC 是否就「類似活動」訂定規則；運動事件合約之立法提案亦值得注意。",
+   "editorNote": "本網頁助理 註：本則依 The Block、Decrypt 及 Fortune 報導；禁止範圍之條文描述依 govinfo 所載 2026 年 3 月提出版本，參院通過之修正版本全文本網頁助理未能取得。Decrypt 將通過日寫為「週三 11 月 19 日」，惟 2026 年 11 月 19 日為週四，與 The Block、Fortune 所載一致。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "DEATH BETS Act",
+    "商品交易法",
+    "CFTC",
+    "參議院",
+    "美國"
+   ],
+   "related": [
+    "2026-11-13-fin-house-oversight-prediction-markets-insider-memo",
+    "2026-11-20-fin-sdny-remands-ny-v-kalshi"
+   ],
+   "sources": [
+    {
+     "label": "S. 4035 法案全文（govinfo，提出版本）",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4035is/html/BILLS-119s4035is.htm",
+     "official": true
+    },
+    {
+     "label": "Schiff 參議員提案新聞稿（2026 年 3 月 10 日）",
+     "url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-introduces-legislation-to-explicitly-ban-death-and-war-prediction-contracts/",
+     "official": true
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200",
+     "official": false
+    },
+    {
+     "label": "Decrypt 報導",
+     "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+     "official": false
+    },
+    {
+     "label": "Fortune 報導",
+     "url": "https://fortune.com/2026/11/20/senate-passes-first-ever-prediction-market-bill-as-democrats-turn-up-heat-on-upstart-industry/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-21T07:32:10+08:00"
+  },
+  {
+   "id": "2026-11-20-fin-sdny-remands-ny-v-kalshi",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國紐約州",
+   "outlet": "CoinDesk",
+   "outletCode": "CD",
+   "date": "2026-11-20",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "紐約南區聯邦地院將紐約州檢察長訴 Kalshi 案發回州法院，州檢方隨即聲請暫時限制令",
+   "shortTitle": "紐約州訴 Kalshi 案發回州法院",
+   "point": "州檢方 11 月 20 日聲請暫時限制令，Kalshi 稱若獲准恐癱瘓平台並要求事前通知",
+   "titleOriginal": "Kalshi races to get ahead of New York order that could shut down exchange",
+   "caseRef": "",
+   "tldr": "紐約州檢察長 7 月控告 Kalshi 經營非法賭博，Kalshi 把案子移到聯邦法院，但依報導聯邦法院本週認為應由州法院審理，案件回到紐約州最高法院。州檢方隨即聲請暫時限制令，Kalshi 擔心平台可能被迫停業。",
+   "memo": "依 CoinDesk 及 ABC News 2026 年 11 月 20 日報導，紐約南區聯邦地方法院於同週裁定將紐約州檢察長 Letitia James 於 2026 年 7 月對 KalshiEX 提起之非法賭博訴訟發回紐約州最高法院審理。紐約州助理檢察長於 2026 年 11 月 20 日提出暫時限制令聲請，Kalshi 則請求法院於核發任何緊急命令前予其陳述機會，並主張該命令可能使平台癱瘓。另依律師 Daniel Wallach 所述，聯邦法院於 11 月 20 日電話聽審中駁回 CFTC 之聲請。",
+   "context": "紐約州博弈委員會先前要求 Kalshi 停止提供運動事件合約，Kalshi 起訴該委員會，聯邦地院於 2026 年 7 月判 Kalshi 敗訴；第二巡迴上訴法院 11 月 3 日駁回 Kalshi、Coinbase 之禁制令聲請。\n紐約州檢察長與州長於 2026 年 7 月 31 日宣布在州法院起訴 Kalshi，指其經營非法賭博；Kalshi 將案件移轉至聯邦法院。",
+   "facts": [
+    "依 CoinDesk 報導，紐約南區聯邦地院於「週四」（推定為 2026 年 11 月 19 日）裁定由州法院審理，案件回到紐約州最高法院。",
+    "紐約州助理檢察長於 2026 年 11 月 20 日（週五）提出暫時限制令聲請草案。",
+    "依 ABC News 報導，Kalshi 律師稱若核發暫時限制令，平台「可能遭癱瘓」。",
+    "依 CoinDesk 引律師 Daniel Wallach 所述，聯邦法官於週五深夜電話聽審中駁回 CFTC 之聲請。"
+   ],
+   "issues": [
+    "州檢察長之州法院訴訟是否得以聯邦問題（商品交易法優先適用）為由移轉至聯邦法院？",
+    "州法院得否以州博弈法對 CFTC 註冊之指定契約市場核發停業性質之限制令？"
+   ],
+   "holding": "・聯邦地院：認案件應由州法院審理，發回紐約州最高法院（依報導）。\n・州檢方：聲請暫時限制令，請求禁止 Kalshi 於紐約州提供涉案合約。\n・Kalshi：請求於核發任何緊急命令前獲通知並陳述意見，主張限制令將嚴重損害平台營運。\n・CFTC：依報導其相關聲請於電話聽審中遭駁回。",
+   "significance": "紐約為預測市場重要市場，若州法院核發限制令，Kalshi 可能須在紐約全面停業，並可能牽動其他州類似訴訟。觀察州法院對暫時限制令之裁定、Kalshi 是否再尋求聯邦救濟，以及 CFTC 後續動作。",
+   "editorNote": "本網頁助理 註：本則依 CoinDesk 與 ABC News 報導；發回裁定之法官姓名、案號及正式日期報導未載，本網頁助理未取得法院文件，故裁判日期留空。CFTC 聲請遭駁回一節係轉述律師說法，聲請內容不明。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "Kalshi",
+    "紐約州",
+    "發回州法院",
+    "暫時限制令",
+    "美國"
+   ],
+   "related": [
+    "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction",
+    "2026-11-20-fin-senate-passes-death-bets-act"
+   ],
+   "sources": [
+    {
+     "label": "紐約州檢察長起訴 Kalshi 新聞稿（2026 年 7 月）",
+     "url": "https://ag.ny.gov/press-release/2026/governor-hochul-and-attorney-general-james-announce-new-york-has-sued-kalshi",
+     "official": true
+    },
+    {
+     "label": "CoinDesk 報導",
+     "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+     "official": false
+    },
+    {
+     "label": "ABC News 報導",
+     "url": "https://abcnews.com/US/kalshi-prediction-market-crippled-judge-grants-restraining-order/story?id=138329957",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-21T07:32:10+08:00"
+  },
+  {
+   "id": "2026-11-20-fin-fdic-fincen-genius-rules-to-oira",
+   "court": "FDIC",
+   "kind": "政策動態",
+   "caseId": "genius-act-implementation",
+   "jurisdiction": "美國",
+   "outlet": "Latin Times",
+   "outletCode": "LT",
+   "date": "2026-11-20",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "依報導 FDIC 與 FinCEN 已將 GENIUS Act 穩定幣最終規則送交白宮審查",
+   "shortTitle": "FDIC、FinCEN 穩定幣最終規則送白宮審查",
+   "point": "依報導分別於 11 月 16 日、18 日送 OIRA，目標 2027 年 1 月 18 日生效",
+   "titleOriginal": "The Final Missing Pieces of America's Stablecoin Rulebook Have Arrived at White House",
+   "caseRef": "",
+   "tldr": "美國穩定幣法 GENIUS Act 明年 1 月 18 日生效，除 OCC 已公布規則外，依報導聯邦存款保險公司（FDIC）的審慎監理規則與財政部金融犯罪執法網（FinCEN）的洗錢防制規則也已送白宮做最後審查，正式公布可能就在數週內。",
+   "memo": "依 Latin Times 2026 年 11 月 20 日報導及 Law360 報導標題，FDIC 已於 2026 年 11 月 16 日將其 GENIUS Act 受監理支付穩定幣發行人審慎監理最終規則送交白宮資訊及法規事務辦公室（OIRA）審查，FinCEN 亦於 11 月 18 日送交支付穩定幣發行人洗錢防制及制裁遵循最終規則。依報導，FDIC 規則涵蓋準備資產、最低資本及營運緩衝，並禁止發行人向持有人支付利息或收益；兩規則預定與 GENIUS Act 同於 2027 年 1 月 18 日生效。",
+   "context": "GENIUS Act 於 2025 年 7 月 18 日簽署，法定施行規則期限為 2026 年 7 月 18 日，各機關未能如期完成。OCC 已於 2026 年 10 月 21 日發布最終規則；FDIC 於 2026 年 4 月提出審慎監理規則草案、6 月提出洗錢防制規則草案，FinCEN 與 OFAC 於 2026 年 4 月提出發行人洗錢防制及制裁遵循規則草案。\n依行政命令，具重要性之聯邦規則公布前須送 OIRA 審查。",
+   "facts": [
+    "依報導，FDIC 於 2026 年 11 月 16 日將最終審慎監理規則送交 OIRA。",
+    "依報導，FinCEN 於 2026 年 11 月 18 日送交支付穩定幣發行人洗錢防制及制裁框架最終規則。",
+    "依報導，OIRA 審查通常約需二至三週。",
+    "依報導，FDIC 規則涵蓋準備資產（含美國國庫券及央行準備金）、最低資本與營運緩衝，並禁止支付任何形式之利息或收益。",
+    "GENIUS Act 及 OCC 規則於 2027 年 1 月 18 日生效。"
+   ],
+   "issues": [
+    "FDIC 與 FinCEN 最終規則與草案之差異（例如收益禁止範圍、準備資產組成）？",
+    "銀行子公司發行人與非銀行發行人適用規則是否一致？",
+    "OIRA 審查能否於 1 月 18 日生效日前完成並公布？"
+   ],
+   "holding": "・FDIC：送審其監理之支付穩定幣發行人（含銀行子公司）審慎監理最終規則，依報導涵蓋準備、資本、營運緩衝及收益禁止。\n・FinCEN：送審支付穩定幣發行人洗錢防制及制裁遵循最終規則。\n・兩規則均尚未公布，最終內容以正式公布版本為準。",
+   "significance": "FDIC 與 FinCEN 規則是 GENIUS Act 施行前尚缺的重要拼圖，攸關銀行子公司發行穩定幣與所有發行人之洗錢防制義務。觀察 OIRA 審查完成時點、正式公布內容及與 OCC 規則之一致性；財政部其他施行規則（含州制度原則與安全港）亦待定案。",
+   "editorNote": "本網頁助理 註：本則依 Latin Times 報導及 Law360 報導標題（全文未能開啟）；本網頁助理未能於 reginfo.gov 核對 OIRA 登錄資料，送審日期及規則內容係報導所述，最終規則尚未公布。",
+   "tags": [
+    "穩定幣",
+    "GENIUS Act",
+    "洗錢防制",
+    "FDIC",
+    "FinCEN",
+    "OIRA",
+    "美國"
+   ],
+   "related": [
+    "2026-10-21-fin-occ-genius-act-final-rule",
+    "2026-11-18-fin-senators-treasury-state-issuer-safe-harbor"
+   ],
+   "sources": [
+    {
+     "label": "FDIC GENIUS Act 審慎監理規則草案新聞稿",
+     "url": "https://www.fdic.gov/news/press-releases/2026/fdic-approves-proposal-implement-genius-act-requirements-and-standards",
+     "official": true
+    },
+    {
+     "label": "FinCEN 發行人洗錢防制規則草案新聞稿",
+     "url": "https://www.fincen.gov/news/news-releases/treasury-proposes-rule-implement-genius-acts-requirements-counter-illicit",
+     "official": true
+    },
+    {
+     "label": "Latin Times 報導",
+     "url": "https://www.latintimes.com/final-missing-pieces-americas-stablecoin-rulebook-have-arrived-white-house-601624",
+     "official": false
+    },
+    {
+     "label": "Law360 報導",
+     "url": "https://law360.com/articles/2552510/fdic-treasury-send-stablecoin-rules-for-white-house-ok",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-21T07:32:10+08:00"
+  },
+  {
+   "id": "2026-11-19-fin-senate-banking-sec-nominees-hearing",
+   "court": "SEC",
+   "kind": "政策動態",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "CoinDesk",
+   "outletCode": "CD",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-19",
+   "importance": 1,
+   "author": "",
+   "title": "參議院銀行委員會舉行 SEC 委員被提名人聽證會，Kristin Johnson 主張代幣化股票創新豁免應經正式規則程序",
+   "shortTitle": "SEC 被提名人聽證聚焦代幣化豁免",
+   "point": "Johnson 主張豁免應經公告評論程序，Levine 稱豁免限時且範圍狹窄",
+   "titleOriginal": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+   "caseRef": "",
+   "tldr": "參議院 11 月 19 日審查兩位 SEC 委員人選。民主黨籍的 Kristin Johnson 表示，SEC 給代幣化股票的「創新豁免」應該走正式訂規、開放公眾評論的程序；共和黨籍的 Steven Levine 則認為這項豁免有期限、範圍有限。",
+   "memo": "依 CoinDesk 及 Unchained 2026 年 11 月 19 日報導，美國參議院銀行委員會於 2026 年 11 月 19 日就 SEC 委員被提名人 Kristin Johnson（民主黨）及 Steven Levine（共和黨）舉行任命聽證會。Johnson 表示代幣化證券創新豁免宜經公告評論之正式規則訂定程序，並指出 AI、代幣化、穩定幣及 DeFi 涉及利益衝突、資料治理與客戶資產分離等問題；Levine 則稱該豁免具期限且範圍狹窄。委員會尚待表決是否送交全院。",
+   "context": "白宮於 2026 年 11 月 12 日提名 Johnson 與 Levine 為 SEC 委員，Levine 將接替 Hester Peirce。SEC 先前就代幣化股票給予創新豁免，四名民主黨參議員 11 月 16 日致函 SEC 提出 13 項問題，質疑洗錢防制如何適用於移出平台之代幣。",
+   "facts": [
+    "聽證會於 2026 年 11 月 19 日舉行，同場另有財政部等其他被提名人。",
+    "依 Unchained 報導，參議員 Alsobrooks 曾領銜致函促 SEC 重新考慮該豁免；參議員 Warner 詢問代幣化資產之洗錢防制如何執行。",
+    "依 CoinDesk 報導，參議員 Cortez Masto 指預測市場業者以永續合約形式交易證券型交換，Levine 未表態，Johnson 提及管轄問題。",
+    "依 Unchained 報導，參議員 Warnock 指出兩人如獲任命，SEC 將為三名共和黨籍、一名民主黨籍委員。",
+    "依 CoinDesk 引 Levine 所述，ETF 亦係由一系列豁免命令發展為正式規則。"
+   ],
+   "issues": [
+    "代幣化股票創新豁免應以豁免命令或正式規則訂定？",
+    "代幣化證券移出受監理平台後之洗錢防制責任歸屬？",
+    "預測市場之永續型合約是否構成證券型交換而屬 SEC 管轄？"
+   ],
+   "holding": "・Johnson：支持就代幣化豁免進行公告評論程序；強調客戶資產分離及新技術之利益衝突、資料治理與問責。\n・Levine：認豁免具期限且範圍窄，並以 ETF 由豁免命令演進為規則為例；依 Unchained 報導其稱尚未細究豁免內容。\n・後續：委員會表決是否送交全院，日期未定。",
+   "significance": "兩位人選若獲任命，將影響 SEC 對代幣化證券、加密資產保管及預測市場管轄之立場。觀察委員會表決時程，以及 SEC 是否就代幣化豁免啟動正式規則程序。",
+   "editorNote": "本網頁助理 註：本則依 CoinDesk 與 Unchained 報導；本網頁助理未取得參議院聽證會之書面證詞或逐字紀錄。",
+   "tags": [
+    "代幣化",
+    "代幣化股票",
+    "創新豁免",
+    "SEC",
+    "參議院",
+    "人事任命",
+    "美國"
+   ],
+   "related": [
+    "2026-11-12-fin-white-house-sec-cftc-nominations",
+    "2026-11-16-fin-senators-letter-sec-tokenized-stock-aml"
+   ],
+   "sources": [
+    {
+     "label": "參議院銀行委員會聽證會頁面",
+     "url": "https://www.banking.senate.gov/hearings/11/12/2026/nomination-hearing",
+     "official": true
+    },
+    {
+     "label": "CoinDesk 報導",
+     "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+     "official": false
+    },
+    {
+     "label": "Unchained 報導",
+     "url": "https://unchainedcrypto.com/sec-nominee-kristin-johnson-wants-tokenized-stock-exemption-put-through-public-comment/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-21T07:32:10+08:00"
+  },
+  {
+   "id": "2026-11-20-fin-ukraine-virtual-asset-bill-amendments",
+   "court": "OTHER",
+   "kind": "立法動態",
+   "caseId": "",
+   "jurisdiction": "烏克蘭",
+   "outlet": "TokenPost",
+   "outletCode": "TP",
+   "date": "2026-11-20",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "依報導烏克蘭央行與證券委員會就《虛擬資產市場法》草案監理分工達成修正共識",
+   "shortTitle": "烏克蘭虛擬資產法草案監理分工定案",
+   "point": "證券委員會負責發照、央行監控銀行與匯率影響，12 月送委員會討論",
+   "titleOriginal": "Ukraine Regulators Agree on Crypto Bill Oversight Amendments",
+   "caseRef": "",
+   "tldr": "烏克蘭正在制定虛擬資產專法，依報導兩個主管機關已談好分工：證券委員會發執照，央行則盯著對銀行體系、貨幣與法幣加密轉換的影響。草案預定 12 月在國會財稅委員會討論，若通過最快 2027 年 7 月 1 日施行。",
+   "memo": "依 TokenPost 2026 年 11 月 20 日報導，烏克蘭國家銀行與國家證券及股票市場委員會就《虛擬資產市場法》（On Virtual Asset Markets）草案修正達成共識，由證券委員會負責數位資產業者發照，國家銀行監測其對銀行體系、格里夫納及法幣與加密資產轉換之影響。草案將虛擬資產定性為動產而非貨幣，禁止作為支付工具，並與歐盟 MiCA 及 IMF 承諾接軌。該草案已於 2025 年 9 月通過一讀，預定 2026 年 12 月由最高拉達財稅關務委員會討論，如通過擬自 2027 年 7 月 1 日施行。",
+   "context": "烏克蘭國會（最高拉達）於 2025 年 9 月一讀通過《虛擬資產市場法》草案，其後工作小組審查逾 2,500 項修正提案。該草案亦為烏克蘭對 IMF 承諾及與歐盟法制接軌之一環。",
+   "facts": [
+    "監理分工：國家證券及股票市場委員會負責發照；國家銀行監測對銀行體系、格里夫納及法幣與加密資產轉換之影響。",
+    "草案將虛擬資產定性為動產，非貨幣，禁止作為支付工具。",
+    "草案允許政府對數位資產收益課稅。",
+    "工作小組已審查逾 2,500 項修正提案。",
+    "預定 2026 年 12 月由最高拉達財稅關務委員會討論；如以最新版本通過，2027 年 7 月 1 日施行。"
+   ],
+   "issues": [
+    "雙主管機關分工如何避免監理重疊？",
+    "禁止作為支付工具之規定與穩定幣發展如何調和？"
+   ],
+   "holding": "・發照機關：國家證券及股票市場委員會。\n・國家銀行：監測銀行體系、本國貨幣與法幣加密轉換之風險。\n・法律定性：虛擬資產為動產，不得作為支付工具。\n・接軌：MiCA 與 IMF 承諾；並建立課稅基礎。",
+   "significance": "烏克蘭為東歐重要加密資產市場，監理分工定案後草案可望進入二讀程序。觀察 12 月委員會審議結果、二讀時程，以及與 MiCA 之接軌程度。",
+   "editorNote": "本網頁助理 註：本則依 TokenPost 報導；本網頁助理未取得烏克蘭國家銀行或證券委員會之官方公告，委員會審議日期亦未確定。",
+   "tags": [
+    "加密資產",
+    "虛擬資產服務商",
+    "MiCA",
+    "烏克蘭國家銀行",
+    "烏克蘭"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "TokenPost 報導",
+     "url": "https://tokenpost.com/news/regulation/62026",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-21T07:32:10+08:00"
   }
  ],
  "agenda": [
@@ -11162,7 +11502,7 @@
    "nameOriginal": "Implementation of the GENIUS Act (payment stablecoins)",
    "caseRef": "Pub. L. No. 119-27",
    "summary": "2025 年 7 月 18 日簽署的 GENIUS Act 建立聯邦支付型穩定幣制度，各聯邦監理機關與各州須訂定施行規則，發行量較小者可選擇州監理。",
-   "status": "OCC 10 月 21 日發布最終規則，GENIUS Act 與該規則於 2027 年 1 月 18 日生效；財政部施行規則仍在訂定，六名參議員 11 月 18 日依報導致函要求將安全港擴及州監理發行人。"
+   "status": "OCC 10 月 21 日發布最終規則，GENIUS Act 與該規則於 2027 年 1 月 18 日生效；依報導 FDIC 與 FinCEN 最終規則已於 11 月 16 日、18 日送白宮 OIRA 審查；財政部其他施行規則仍在訂定，六名參議員 11 月 18 日促其給予州發行人安全港。"
   },
   {
    "id": "us-crypto-market-structure",
@@ -11294,7 +11634,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "第四巡迴上訴法院 11 月 17 日依報導以分歧判決維持駁回 Kalshi 對馬里蘭州之初步禁制令，巡迴分歧擴大；路易斯安那州法院 11 月 12 日單方核發暫時限制令（11 月 30 日審初步禁制令），CFTC 與聯邦政府 11 月 13 日起訴該州（第 12 州），同週起訴阿肯色州；Novig 已上訴第二巡迴，密蘇里州訴訟擴大至六家；CFTC 11 月 5 日要求停止依州別封鎖，九名參議員要求撤回；猶他州刑事案 Kalshi 共同創辦人 12 月 4 日初次到庭。"
+   "status": "參議院 11 月 19 日通過 DEATH BETS Act（S. 4035）禁止戰爭、死亡類事件合約，待眾院審議；紐約州訴 Kalshi 案依報導發回州法院，州檢方 11 月 20 日聲請暫時限制令；第四巡迴 11 月 17 日維持駁回 Kalshi 對馬里蘭州之禁制令，路易斯安那州法院 11 月 30 日審初步禁制令。"
   },
   {
    "id": "kr-tokenised-securities",
