@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-20T22:57:30+08:00",
-  "lastRunLocal": "2026-11-20 22:57",
+  "lastRun": "2026-11-21T07:00:05+08:00",
+  "lastRunLocal": "2026-11-21 07:00",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "本次未發現可查證之新動態（網頁讀取工具未獲授權，僅以搜尋引擎檢查各來源）",
+  "lastRunNote": "新增 3 則：投資仲裁 3（法院裁判 2、案件動態 1）；網頁讀取工具未獲授權，各則僅依搜尋結果標題撰寫",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -9555,6 +9555,239 @@
     }
    ],
    "addedAt": "2026-11-19T07:00:53+08:00"
+  },
+  {
+   "id": "2026-11-20-arb-dc-cir-mercuria-poland-annulled-award",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "investment",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "美國聯邦哥倫比亞特區巡迴上訴法院",
+   "outletCode": "DCCIR",
+   "date": "2026-11-20",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "美國 D.C. 巡迴上訴法院維持拒絕執行 Mercuria 對波蘭、已在瑞典遭撤銷的能源憲章條約判斷",
+   "shortTitle": "美國上訴法院拒執行已撤銷的波蘭 ECT 判斷",
+   "point": "仲裁地瑞典以歐盟內部爭議為由撤銷判斷，並不違反基本正義觀念，判斷無從執行",
+   "titleOriginal": "Mercuria Energy Group Limited v. Republic of Poland, No. 25-7152 (D.C. Cir. 2026)",
+   "caseRef": "No. 25-7152 (D.C. Cir.)；1:23-cv-03572 (D.D.C.)",
+   "tldr": "能源貿易商 Mercuria 依能源憲章條約對波蘭仲裁勝訴約 4,000 萬美元，但判斷被仲裁地瑞典的法院撤銷。Mercuria 仍到美國聲請執行，一審駁回，上訴法院也維持：被撤銷的判斷原則上已不存在，瑞典法院的撤銷並未違反美國的基本正義觀念。",
+   "memo": "美國聯邦哥倫比亞特區巡迴上訴法院於 2026 年 11 月就 Mercuria Energy Group Limited 訴波蘭共和國案（No. 25-7152）作成判決，維持地方法院 2025 年 9 月 8 日駁回承認與執行聲請之裁判。該能源憲章條約仲裁判斷（約 4,000 萬美元）已遭仲裁地瑞典法院以歐盟內部投資爭議不得仲裁為由撤銷，上訴法院認為該撤銷判決並不牴觸美國關於正當與公正之基本觀念，無例外承認已撤銷判斷之餘地。",
+   "context": "Mercuria Energy Group 依能源憲章條約（ECT），就波蘭相關措施對波蘭提起以斯德哥爾摩為仲裁地之仲裁（Mercuria v. Poland (II)），獲得約 4,000 萬美元之判斷。\n波蘭向仲裁地瑞典法院聲請撤銷，瑞典法院依歐盟法院 Komstroy 等見解，以歐盟成員國投資人與成員國間之 ECT 仲裁違反歐盟法為由撤銷判斷。\nMercuria 於 2023 年 11 月向美國哥倫比亞特區聯邦地方法院聲請承認與執行；地方法院於 2025 年 9 月 8 日以判斷已在仲裁地遭合法撤銷、已無可執行之判斷為由駁回，Mercuria 提起上訴，歐盟執委會亦提出法庭之友意見書。",
+   "facts": [
+    "Mercuria 取得之 ECT 仲裁判斷約 4,000 萬美元，嗣經仲裁地瑞典法院以歐盟內部爭議為由撤銷。",
+    "Mercuria 於 2023 年 11 月 30 日向美國哥倫比亞特區聯邦地方法院聲請承認與執行；地方法院 2025 年 9 月 8 日駁回。",
+    "上訴審中，波蘭主張已撤銷之判斷「已不存在」；歐盟執委會以法庭之友身分提出意見書；上訴法院於 2026 年 11 月作成判決維持原裁判。"
+   ],
+   "issues": [
+    "已在仲裁地遭撤銷之判斷，美國法院得否依紐約公約第 5 條第 1 項 (e) 款（及巴拿馬公約）仍予承認與執行。",
+    "外國法院撤銷判決是否「牴觸美國關於正當與公正之基本觀念」，而得例外不予尊重。"
+   ],
+   "holding": "依 Law360 報導標題，上訴法院認定瑞典法院撤銷該判斷並未違反基本正義觀念，因而維持地方法院駁回執行之裁判。\n地方法院原判（2025 年 9 月 8 日）認為，判斷一旦經仲裁地有權機關合法撤銷，即無可供執行之判斷。",
+   "significance": "本判決延續 D.C. 巡迴法院僅在極例外情形才執行已撤銷判斷之立場，對以歐盟內部爭議為由在仲裁地遭撤銷之 ECT 判斷，債權人在美國執行的空間明顯受限；此與 ICSID 判斷（不受仲裁地法院撤銷）之執行路徑不同。Mercuria 仍可考慮聲請全院重審或向聯邦最高法院聲請移審。",
+   "editorNote": "本網頁助理 註：本次執行時網頁讀取工具未獲授權，無法開啟判決、意見書或報導全文，本則僅依搜尋引擎所示之報導標題與文件名稱撰寫，內容從簡；判決日期、上訴法院具體理由與瑞典撤銷判決之日期均未能確認，故裁判日期留空；瑞典撤銷程序之細節亦未能核對。",
+   "tags": [
+    "承認與執行",
+    "撤銷仲裁判斷",
+    "紐約公約",
+    "能源憲章條約",
+    "歐盟內部爭議",
+    "Komstroy",
+    "SCC",
+    "波蘭",
+    "瑞典",
+    "美國",
+    "D.C. 巡迴上訴法院"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "美國 D.C. 巡迴上訴法院判決（CourtListener）",
+     "url": "https://www.courtlistener.com/opinion/11067694/mercuria-energy-group-limited-v-republic-of-poland/",
+     "official": false
+    },
+    {
+     "label": "美國哥倫比亞特區聯邦地方法院 2025 年 9 月 8 日判決（govinfo）",
+     "url": "https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_23-cv-03572/pdf/USCOURTS-dcd-1_23-cv-03572-0.pdf",
+     "official": true
+    },
+    {
+     "label": "Law360 報導",
+     "url": "https://www.law360.com/internationaltrade/articles/2552894",
+     "official": false
+    },
+    {
+     "label": "Mealey's 報導（波蘭上訴答辯）",
+     "url": "https://www.mealeys.com/mealeys/mealeys-international-arbitration/articles/2476831",
+     "official": false
+    },
+    {
+     "label": "italaw 案件頁",
+     "url": "https://www.italaw.com/cases/10254",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-21T07:00:05+08:00"
+  },
+  {
+   "id": "2026-11-20-arb-ddc-telefonica-colombia-enforcement-stayed",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "investment",
+   "caseId": "telefonica-v-colombia",
+   "jurisdiction": "美國",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-20",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "美國法院暫停 Telefónica 對哥倫比亞約 3.8 億美元 ICSID 判斷之執行程序",
+   "shortTitle": "美國法院暫停 Telefónica 對哥倫比亞執行案",
+   "point": "哥倫比亞先前聲請駁回或暫停程序；約 3.8 億美元判斷的美國執行暫時擱置",
+   "titleOriginal": "Telefónica, S.A. v. Republic of Colombia (D.D.C.) – stay of petition to enforce ICSID award",
+   "caseRef": "",
+   "tldr": "西班牙電信 Telefónica 在 ICSID 贏得對哥倫比亞約 3.8 億美元的判斷，撤銷程序失敗後在美國聲請執行。哥倫比亞請法院駁回或暫停，法院目前決定先暫停案件；暫停的確切理由尚待確認。",
+   "memo": "美國哥倫比亞特區聯邦地方法院於 2026 年 11 月裁定暫停 Telefónica, S.A. 聲請承認與執行其對哥倫比亞共和國 ICSID 仲裁判斷（約 3.8 億美元）之程序。哥倫比亞前於 2026 年 9 月 8 日以欠缺管轄權為由聲請駁回，並備位聲請暫停程序。",
+   "context": "Telefónica 就其在哥倫比亞行動通訊事業之資產回歸爭議（涉及哥倫比亞憲法法院之判決），依西班牙—哥倫比亞雙邊投資協定向 ICSID 提起仲裁，獲判約 3.8 億美元賠償。\n哥倫比亞聲請撤銷，ICSID 曾於 2024 年 12 月暫時停止判斷執行；撤銷委員會於 2026 年 3 月 5 日終止停止執行，哥倫比亞媒體並報導哥國已於 2026 年 8 月輸掉撤銷程序。\nTelefónica 於 2026 年 6 月在美國聲請執行；哥倫比亞於 2026 年 9 月 8 日聲請以欠缺管轄權駁回，或備位暫停程序。",
+   "facts": [
+    "判斷金額約 3.8 億美元（哥國媒體另載約 3.79 億美元，或連同利息約 5 億美元）。",
+    "2026 年 3 月 5 日撤銷委員會決定終止判斷之停止執行。",
+    "2026 年 9 月 8 日哥倫比亞提出駁回或備位暫停程序之聲請。",
+    "2026 年 11 月，Law360 與 Mealey's 報導法院已暫停本件執行聲請。"
+   ],
+   "issues": [
+    "美國法院就 ICSID 判斷之承認與執行，是否應暫停程序，以待其他相關爭點（例如外國主權豁免法下之管轄問題）釐清。"
+   ],
+   "holding": "依 Law360、Mealey's 報導標題，法院暫停 Telefónica 之執行聲請；暫停理由及期間未能確認。",
+   "significance": "執行程序暫停期間，Telefónica 無法在美國取得對哥倫比亞之確認判決；後續須視暫停條件解除後，法院就哥倫比亞管轄抗辯之判斷。",
+   "editorNote": "本網頁助理 註：本次執行時網頁讀取工具未獲授權，無法開啟判決、意見書或報導全文，本則僅依搜尋引擎所示之報導標題與文件名稱撰寫，內容從簡；暫停之理由、期間與裁定日期均未能確認，故裁判日期留空；判斷金額各報導記載不一（約 3.79 億、3.8 億或含息約 5 億美元）。",
+   "tags": [
+    "ICSID",
+    "承認與執行",
+    "外國主權豁免法",
+    "暫停程序",
+    "哥倫比亞",
+    "西班牙",
+    "美國",
+    "電信"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Mealey's 報導",
+     "url": "https://www.mealeys.com/mealeys/mealeys-international-arbitration/articles/2553508",
+     "official": false
+    },
+    {
+     "label": "Law360 報導",
+     "url": "https://www.law360.com/telecom/articles/2552428",
+     "official": false
+    },
+    {
+     "label": "哥倫比亞駁回或暫停程序聲請（2026 年 9 月 8 日，italaw）",
+     "url": "https://www.italaw.com/sites/default/files/case-html-files/italaw1871268-Telef-nica-v-Colombia-Colombia-s-Motion-to-Dismiss-for-Lack-of-Jurisdiction-or-in-the-Alternative-to-Stay-the-Proceedings-September-8-2026.html",
+     "official": false
+    },
+    {
+     "label": "撤銷委員會終止停止執行決定（2026 年 3 月 5 日，西班牙文，italaw）",
+     "url": "https://www.italaw.com/sites/default/files/case-html-files/italaw6044-Telefonica-v-Colombia-Decision-of-the-Ad-Hoc-Committee-on-the-Termination-of-the-Stay-of-Enforcement-of-the-Award-March-5-2026-Spanish.html",
+     "official": false
+    },
+    {
+     "label": "Asuntos Legales 報導（撤銷程序結果，西班牙文）",
+     "url": "https://www.asuntoslegales.com.co/actualidad/colombia-pierde-recurso-definitivo-contra-telefonica-en-el-ciadi-y-finaliza-disputa-4376444",
+     "official": false
+    },
+    {
+     "label": "italaw 案件頁",
+     "url": "https://www.italaw.com/cases/12153",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-21T07:00:05+08:00"
+  },
+  {
+   "id": "2026-11-19-arb-cjeu-ag-rantos-micula-not-state-aid",
+   "court": "COURT",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "micula-v-romania",
+   "jurisdiction": "歐盟",
+   "outlet": "歐盟法院",
+   "outletCode": "CJEU",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-19",
+   "importance": 2,
+   "author": "",
+   "title": "歐盟法院佐審官 Rantos：羅馬尼亞給付 Micula 案 ICSID 判斷不構成國家補助，建議上訴有理由",
+   "shortTitle": "歐盟法院佐審官：付 Micula 判斷非國家補助",
+   "point": "佐審官建議法院支持 Micula 兄弟及其企業的上訴，區分仲裁賠償與國家補助",
+   "titleOriginal": "European Food and Others v Commission (Case C-890/24 P), Opinion of Advocate General Rantos",
+   "caseRef": "C-890/24 P",
+   "tldr": "Micula 兄弟多年前在 ICSID 贏了羅馬尼亞，但歐盟執委會認定羅馬尼亞付款等於違法國家補助、禁止付款。兄弟上訴到歐盟法院，佐審官 Rantos 認為付這筆仲裁賠償不是國家補助，建議法院支持上訴；佐審官意見不拘束法院，判決另行宣示。",
+   "memo": "歐盟法院佐審官 Rantos 於 2026 年 11 月 19 日就 European Food and Others 訴執委會上訴案（C-890/24 P）提出意見，認為羅馬尼亞依 ICSID 仲裁判斷向 Micula 兄弟及其企業給付賠償，不構成歐盟運作條約所稱之國家補助，建議法院認上訴有理由。該意見不拘束法院，判決日期尚未公布。",
+   "context": "Micula 兄弟及其企業（European Food 等）以羅馬尼亞提前廢除投資獎勵措施為由，依瑞典—羅馬尼亞雙邊投資協定向 ICSID 提起仲裁並勝訴（ICSID Case No. ARB/05/20）。\n歐盟執委會於 2015 年認定羅馬尼亞給付該判斷構成違法國家補助，命不得給付並追回已執行部分。普通法院曾於 2019 年撤銷執委會決定，歐盟法院於 2022 年廢棄該判決並發回；普通法院更審後維持執委會決定，Micula 方再向歐盟法院上訴，即本案。\n同一判斷在美國、英國等地之執行程序亦持續進行中。",
+   "facts": [
+    "本案為 C-890/24 P，上訴人為 European Food 等 Micula 方企業與個人，被上訴人為歐盟執委會。",
+    "佐審官 Rantos 於 2026 年 11 月 19 日之開庭日提出意見，認定給付判斷不構成國家補助，並建議上訴應獲支持。",
+    "Law360 報導之判斷金額約 3.65 億美元（含利息）。"
+   ],
+   "issues": [
+    "會員國依投資仲裁判斷向投資人給付之賠償，是否構成歐盟運作條約第 107 條第 1 項之國家補助。",
+    "仲裁賠償與補助利益之區別標準。"
+   ],
+   "holding": "依 GAR、MLex 與 EU Law Live 報導標題，佐審官認為給付 Micula 判斷並非國家補助，並建議歐盟法院支持上訴；佐審官就仲裁賠償與國家補助之界線提出區分標準。",
+   "significance": "若歐盟法院採納，將排除羅馬尼亞給付 Micula 判斷之歐盟法障礙，並可能影響歐盟其他國家（如西班牙再生能源案）以國家補助為由拒絕給付投資仲裁判斷之主張。歐盟法院判決通常於佐審官意見數月後作成。",
+   "editorNote": "本網頁助理 註：本次執行時網頁讀取工具未獲授權，無法開啟判決、意見書或報導全文，本則僅依搜尋引擎所示之報導標題與文件名稱撰寫，內容從簡；意見日期依歐盟法院 2026 年 11 月 19 日開庭日程列有本案之資訊認定；背景沿革未能於本次逐一核對原始文件。",
+   "tags": [
+    "ICSID",
+    "國家補助",
+    "歐盟法",
+    "歐盟內部爭議",
+    "承認與執行",
+    "羅馬尼亞",
+    "瑞典",
+    "歐盟法院",
+    "Micula"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "歐盟法院案件頁（C-890/24 P）",
+     "url": "https://infocuria.curia.europa.eu/tabs/affair?lang=en&publishedId=C-890%2F24+P",
+     "official": true
+    },
+    {
+     "label": "GAR 報導",
+     "url": "https://globalarbitrationreview.com/article/cjeu-advocate-general-says-payment-of-micula-award-not-state-aid",
+     "official": false
+    },
+    {
+     "label": "MLex 報導",
+     "url": "https://www.mlex.com/mlex/state-aid/articles/2551849/micula-brothers-eu-state-aid-appeals-should-succeed-legal-opinion-says",
+     "official": false
+    },
+    {
+     "label": "EU Law Live 分析",
+     "url": "https://eulawlive.com/analysis-ag-rantos-draws-the-line-between-arbitral-compensation-and-state-aid-in-micula-appeals/",
+     "official": false
+    },
+    {
+     "label": "Law360 報導",
+     "url": "https://www.law360.com/foodbeverage/articles/2552466",
+     "official": false
+    },
+    {
+     "label": "歐盟法院 2026 年 11 月 19 日開庭日程（ieu-monitoring）",
+     "url": "https://ieu-monitoring.com/event/eu-court-of-justice-judicial-calendar-for-19-november-2026",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-21T07:00:05+08:00"
   }
  ],
  "agenda": [
@@ -10381,6 +10614,30 @@
    "caseRef": "ICSID Case No. ARB/25/26",
    "summary": "亞美尼亞商人 Karapetyan 依亞美尼亞—法國投資協定，挑戰法國在洗錢偵查中扣押其蔚藍海岸別墅等不動產。",
    "status": "仲裁庭駁回暫時性措施聲請並剔除部分請求，申請人已於 2026 年 10 月提出實體書狀。"
+  },
+  {
+   "id": "telefonica-v-colombia",
+   "type": "案件",
+   "court": "COURT",
+   "field": "investment",
+   "forum": "ICSID／美國哥倫比亞特區聯邦地方法院",
+   "name": "Telefónica 訴哥倫比亞（判斷執行）",
+   "nameOriginal": "Telefónica, S.A. v. Republic of Colombia",
+   "caseRef": "",
+   "summary": "Telefónica 就哥倫比亞行動通訊資產回歸爭議，依西班牙—哥倫比亞投資協定在 ICSID 獲判約 3.8 億美元，現於美國聲請執行。",
+   "status": "美國聯邦地方法院已暫停執行程序（2026 年 11 月）。"
+  },
+  {
+   "id": "micula-v-romania",
+   "type": "案件",
+   "court": "COURT",
+   "field": "investment",
+   "forum": "歐盟法院",
+   "name": "Micula 訴羅馬尼亞（國家補助爭議）",
+   "nameOriginal": "Ioan Micula and others v. Romania; European Food and Others v Commission (C-890/24 P)",
+   "caseRef": "ICSID Case No. ARB/05/20；C-890/24 P",
+   "summary": "Micula 兄弟在 ICSID 勝訴後，歐盟執委會認定羅馬尼亞給付判斷構成違法國家補助，Micula 方就此於歐盟法院上訴。",
+   "status": "佐審官 Rantos 於 2026 年 11 月 19 日建議上訴有理由，歐盟法院判決待宣示。"
   }
  ]
 }
