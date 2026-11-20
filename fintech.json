@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-20T07:26:59+08:00",
-  "lastRunLocal": "2026-11-20 07:26",
+  "lastRun": "2026-11-20T23:29:22+08:00",
+  "lastRunLocal": "2026-11-20 23:29",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：國際組織 1（國際標準 1）、美國 2（政策動態 2）、英國 1（草案諮詢 1）"
+  "lastRunNote": "新增 2 則：歐盟 1（立法動態 1）、亞太與其他 1（香港立法動態 1）"
  },
  "items": [
   {
@@ -7506,7 +7506,8 @@
     "歐盟"
    ],
    "related": [
-    "2026-10-06-fin-ecb-cipollone-digital-euro-2029"
+    "2026-10-06-fin-ecb-cipollone-digital-euro-2029",
+    "2026-11-19-fin-digital-euro-seventh-trilogue-no-deal"
    ],
    "sources": [
     {
@@ -9805,7 +9806,8 @@
     "香港"
    ],
    "related": [
-    "2026-10-26-fin-sfc-tokenised-fund-secondary-trading"
+    "2026-10-26-fin-sfc-tokenised-fund-secondary-trading",
+    "2026-11-20-fin-hk-va-services-amendment-bill-gazetted"
    ],
    "sources": [
     {
@@ -10436,6 +10438,146 @@
     }
    ],
    "addedAt": "2026-11-20T07:26:59+08:00"
+  },
+  {
+   "id": "2026-11-20-fin-hk-va-services-amendment-bill-gazetted",
+   "court": "SFC",
+   "kind": "立法動態",
+   "caseId": "hk-stablecoin-tokenisation",
+   "jurisdiction": "香港",
+   "outlet": "CoinDesk",
+   "outletCode": "CD",
+   "date": "2026-11-20",
+   "eventDate": "2026-11-20",
+   "importance": 2,
+   "author": "",
+   "title": "香港政府刊憲《2026年虛擬資產服務法例（修訂）條例草案》，將虛擬資產交易、意見、管理及託管服務納入證監會發牌制度，12 月 2 日首讀",
+   "shortTitle": "香港刊憲虛擬資產交易託管修例草案",
+   "point": "四類服務須向證監會領牌或註冊，12 月 2 日提交立法會首讀",
+   "titleOriginal": "Virtual Asset Services Legislation (Amendment) Bill 2026（依 CoinDesk 報導：Hong Kong moves to bring crypto asset managers and custodians under SFC oversight）",
+   "caseRef": "修訂《打擊洗錢及恐怖分子資金籌集條例》（第 615 章）",
+   "tldr": "香港政府 11 月 20 日公布修法草案，未來在香港經營虛擬資產買賣中介、投資意見、資產管理及託管業務者，都要向證監會取得牌照或註冊，銀行等機構則須向證監會註冊。草案 12 月 2 日送進立法會。",
+   "memo": "依 CoinDesk 及點新聞 2026 年 11 月 20 日報導，香港特區政府於同日在憲報刊登《2026年虛擬資產服務法例（修訂）條例草案》，修訂《打擊洗錢及恐怖分子資金籌集條例》（第 615 章），新增虛擬資產交易、提供意見、管理及託管四類受規管服務，經營者須向證券及期貨事務監察委員會申領牌照或註冊並符合適當人選等規定；銀行及儲值支付工具持牌人擬提供上述服務者須先向證監會註冊，並賦予證監會及金管局執行權力。草案訂於 2026 年 12 月 2 日提交立法會首讀。",
+   "context": "香港現行第 615 章已就虛擬資產交易平台（2023 年起）設發牌制度，《穩定幣條例》（第 656 章）則自 2025 年 8 月起規範法幣穩定幣發行人。\n政府與證監會先前已就虛擬資產交易與託管服務發牌制度進行諮詢；財政司司長 11 月 16 日表示將於年底前提出法案。\n政府《數字資產發展政策宣言 2.0》提出「相同業務、相同風險、相同規則」原則。",
+   "facts": [
+    "2026 年 11 月 20 日刊憲。",
+    "新增受規管服務：虛擬資產交易、提供意見、管理及託管。",
+    "經營者須向證監會領牌或註冊，並符合適當人選及其他規管要求。",
+    "受金管局規管之銀行及儲值支付工具持牌人擬提供上述服務，須先向證監會註冊。",
+    "2026 年 12 月 2 日提交立法會首讀。",
+    "財經事務及庫務局局長許正宇稱修例為落實五年規劃之重要一步；證監會行政總裁梁鳳儀稱為完善監管框架之重要里程碑（依點新聞報導）。"
+   ],
+   "issues": [
+    "過渡安排與現有業者之銜接期間如何設計？",
+    "銀行與儲值支付工具業者在證監會與金管局之間的雙重監理分工如何運作？",
+    "託管服務之客戶資產隔離與保護標準為何？"
+   ],
+   "holding": "・立法方式：修訂第 615 章，擴大虛擬資產服務提供者之範圍。\n・新增四類受規管服務：交易（中介買賣）、提供意見、管理、託管。\n・准入：須向證監會領牌或註冊，並符合適當人選要求。\n・受金管局監管之銀行及儲值支付工具持牌人：須先向證監會註冊方得提供上述服務。\n・執行：賦予證監會及金管局實施新制度所需權力。",
+   "significance": "草案若通過，香港虛擬資產監理將由交易平台與穩定幣發行，擴及交易中介、顧問、資產管理與託管，使整條服務鏈納入發牌制度。下一步為 12 月 2 日首讀及法案委員會審議，可留意過渡期、罰則與生效日安排。",
+   "editorNote": "本網頁助理 註：本則依 CoinDesk 及點新聞報導撰寫；CoinDesk 所連結之香港政府新聞公報頁面本次未能開啟，過渡安排、罰則與生效日期等細節兩則報導均未載明，待核對公報與草案全文。",
+   "tags": [
+    "加密資產",
+    "虛擬資產服務提供者",
+    "託管",
+    "發牌制度",
+    "打擊洗錢條例",
+    "證監會",
+    "香港金管局",
+    "香港"
+   ],
+   "related": [
+    "2026-11-16-fin-hk-fs-paul-chan-va-dealing-custody-bill"
+   ],
+   "sources": [
+    {
+     "label": "香港政府新聞公報",
+     "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000582.htm",
+     "official": true
+    },
+    {
+     "label": "CoinDesk 報導",
+     "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+     "official": false
+    },
+    {
+     "label": "點新聞報導",
+     "url": "https://www.dotdotnews.com/a/202611/20/AP6b001d30e4b091a65a302ef9.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-20T23:29:22+08:00"
+  },
+  {
+   "id": "2026-11-19-fin-digital-euro-seventh-trilogue-no-deal",
+   "court": "EU",
+   "kind": "立法動態",
+   "caseId": "eurosystem-digital-euro-tokenisation",
+   "jurisdiction": "歐盟",
+   "outlet": "Agence Europe",
+   "outletCode": "AE",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-18",
+   "importance": 2,
+   "author": "",
+   "title": "歐洲議會與理事會 11 月 18 日數位歐元第七輪三方協商未達成政治協議，擬於 12 月再議",
+   "shortTitle": "數位歐元第七輪三方協商未達協議",
+   "point": "持有上限決定程序仍有歧見，擬 12 月 3 日、16 日再開會",
+   "titleOriginal": "European Parliament and EU Council negotiators to meet in December to finalise digital euro arrangements",
+   "caseRef": "COM(2023) 369",
+   "tldr": "歐盟原希望在 11 月 18 日的協商中談定數位歐元法案，但歐洲議會與輪值主席國愛爾蘭徹夜協商後仍未成交。依報導，商家收受義務的例外、支付業者報酬方式與持有上限由誰決定仍待解決，雙方擬 12 月再談。",
+   "memo": "依 Agence Europe 2026 年 11 月 19 日報導，歐洲議會與歐盟理事會（愛爾蘭輪值主席國）就數位歐元規則草案（COM(2023) 369）於 2026 年 11 月 18 日至 19 日凌晨進行三方協商，未能達成政治協議。協商討論商家強制收受之例外及支付服務提供者報酬模式，分階段導入原則上已有共識；持有上限之決定程序仍有分歧，理事會主張保留依歐洲央行建議設定上限之權限。雙方擬於 2026 年 12 月 3 日及 16 日再行協商，理事會堅持年底前結案。",
+   "context": "執委會於 2023 年 6 月 28 日提出數位歐元規則草案；理事會於 2025 年 12 月 19 日確定協商立場，歐洲議會於 2026 年 7 月 9 日表決授權展開協商，首輪三方協商於 7 月 13 日舉行。\n第五、六輪三方協商（10 月 20 日、11 月 5 日）分別討論商家費用與現金強制收受等議題，主席國原期在 11 月 18 日達成協議。歐洲央行執行委員 Cipollone 曾籲年底前完成立法，否則 2029 年首發恐延後。",
+   "facts": [
+    "協商於 2026 年 11 月 18 日舉行並延至 19 日凌晨，未達政治協議。",
+    "依 Table.Media 報導，此為第七輪政治層級三方協商。",
+    "理事會方面稱會員國已準備好達成協議，需歐洲議會更多投入；議會消息來源稱並無實質爭點，係議程過重。",
+    "分階段導入（顧及老舊 ATM 及銷售點設備）原則上獲共識，議員要求訂定完成導入之期限。",
+    "條文接近允許遭第三國制裁之人使用數位歐元。",
+    "洗錢防制及部分基本服務之現金支付未於本輪討論。",
+    "擬於 12 月 3 日及 16 日舉行新一輪政治協商。"
+   ],
+   "issues": [
+    "持有上限由理事會以執行決定設定，或由執委會以授權法規設定？",
+    "商家收受義務之例外與支付服務提供者報酬（費用上限）如何設計？",
+    "遭第三國制裁者之使用權限如何規範？"
+   ],
+   "holding": "・結果：未達成政治協議。\n・已趨近共識：分階段導入；允許遭第三國制裁者使用之條文措辭。\n・主要未決：持有上限之決定程序（理事會主張由其依歐洲央行建議設定）。\n・仍在討論：商家強制收受之例外、支付服務提供者報酬模式。\n・後續：擬 12 月 3 日、16 日再開政治協商；理事會堅持年底前結案。",
+   "significance": "數位歐元立法能否於 2026 年底前完成，攸關歐洲央行 2027 年試點與 2029 年可能首發之時程。可觀察 12 月兩次協商能否就持有上限程序與費用模式定案，以及後續技術定稿與正式通過。",
+   "editorNote": "本網頁助理 註：本則依 Agence Europe 報導撰寫，Table.Media 報導僅可見摘要；本次未找到歐洲議會或理事會就本輪協商之官方新聞稿，12 月協商日期為報導所稱之建議日期，可能變動。",
+   "tags": [
+    "數位歐元",
+    "CBDC",
+    "三方協商",
+    "歐洲議會",
+    "歐盟理事會",
+    "歐盟"
+   ],
+   "related": [
+    "2026-11-10-fin-ecb-cipollone-econ-digital-euro-deadline"
+   ],
+   "sources": [
+    {
+     "label": "執委會數位歐元規則草案原文（EUR-Lex）",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0369",
+     "official": true
+    },
+    {
+     "label": "Agence Europe 報導",
+     "url": "https://agenceurope.eu/en/bulletin/article/13985/21/european-parliament-and-eu-council-negotiators-to-meet-in-december-to-finalise-digital-euro-arrangements",
+     "official": false
+    },
+    {
+     "label": "Table.Media 報導",
+     "url": "https://table.media/en/europe/news/digital-euro-the-council-and-parliament-are-still-far-from-agreement",
+     "official": false
+    },
+    {
+     "label": "Ecommerce Europe 前幾輪協商說明",
+     "url": "https://ecommerce-europe.eu/news-item/trilogue-negotiations-on-the-digital-euro/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-20T23:29:22+08:00"
   }
  ],
  "agenda": [
@@ -10988,6 +11130,26 @@
    "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/cyber-risk-and-resilience-management-consultation-paper",
    "relatedId": "2026-11-19-fin-uk-cyber-resilience-ai-quantum",
    "caseId": ""
+  },
+  {
+   "id": "2026-12-02-sfc-hk-va-services-bill-first-reading",
+   "date": "2026-12-02",
+   "court": "SFC",
+   "title": "香港《2026年虛擬資產服務法例（修訂）條例草案》提交立法會首讀",
+   "note": "香港時間；依報導",
+   "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000582.htm",
+   "relatedId": "2026-11-20-fin-hk-va-services-amendment-bill-gazetted",
+   "caseId": "hk-stablecoin-tokenisation"
+  },
+  {
+   "id": "2026-12-03-eu-digital-euro-trilogue",
+   "date": "2026-12-03",
+   "court": "EU",
+   "title": "數位歐元規則三方協商（第八輪，建議日期）",
+   "note": "布魯塞爾；依 Agence Europe 報導為建議日期，另擬 12 月 16 日，可能變動",
+   "url": "",
+   "relatedId": "2026-11-19-fin-digital-euro-seventh-trilogue-no-deal",
+   "caseId": "eurosystem-digital-euro-tokenisation"
   }
  ],
  "cases": [
@@ -11066,7 +11228,7 @@
    "nameOriginal": "Digital euro; Pontes and Appia",
    "caseRef": "",
    "summary": "歐元體系推動數位歐元立法與試點，並以 Pontes、Appia 建構代幣化交易的央行貨幣結算基礎設施。",
-   "status": "數位歐元立法三方協商中，Cipollone 11 月 10 日籲年底前完成，否則 2029 年首發恐延後；歐洲央行 10 月 30 日選定兩組網路服務供應商，試點預計 2027 年下半年展開；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成；代幣化標準小組提名至 11 月 27 日。"
+   "status": "數位歐元立法 11 月 18 日第七輪三方協商未達協議，擬 12 月 3 日、16 日再議，理事會堅持年底前結案；歐洲央行 10 月 30 日選定網路服務供應商，試點預計 2027 年下半年展開；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成。"
   },
   {
    "id": "uk-cryptoasset-regime",
@@ -11088,7 +11250,7 @@
    "nameOriginal": "Hong Kong stablecoins and tokenised products",
    "caseRef": "Cap. 656",
    "summary": "香港依《穩定幣條例》核發穩定幣發行人牌照，證監會並開放代幣化基金於虛擬資產交易平台次級交易。",
-   "status": "金管局 11 月 2 日宣布 EnsembleTX 支援 24/7 代幣化存款交易並將納入受監理穩定幣試驗，11 月 16 日宣布與 Swift 研究以代幣化存款進行多幣別跨境支付；滙豐 RedCoin 已於 10 月 23 日上線，證監會 10 月 26 日核准首例代幣化公募基金次級交易。"
+   "status": "政府 11 月 20 日刊憲《2026年虛擬資產服務法例（修訂）條例草案》，將虛擬資產交易、意見、管理及託管納入證監會發牌制度，12 月 2 日首讀；金管局 11 月 2 日宣布 EnsembleTX 支援 24/7 代幣化存款交易，11 月 16 日宣布與 Swift 研究代幣化存款跨境支付；滙豐 RedCoin 已於 10 月 23 日上線。"
   },
   {
    "id": "taiwan-vasp-act",
