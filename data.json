@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-21T23:00:10+08:00",
-  "lastRunLocal": "2026-11-21 23:00",
+  "lastRun": "2026-11-22T06:58:36+08:00",
+  "lastRunLocal": "2026-11-22 06:58",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 3 則：ICJ 1、EJIL 評論 1、Opinio Juris 評論 1"
+  "lastRunNote": "新增 2 則：ICC 1、Opinio Juris 評論 1"
  },
  "items": [
   {
@@ -6186,7 +6186,8 @@
    "addedAt": "2026-11-06T23:03:21+08:00",
    "related": [
     "2026-11-05-icc-duterte-rule68-tenth-application",
-    "2026-11-06-icc-duterte-55-witness-protection"
+    "2026-11-06-icc-duterte-55-witness-protection",
+    "2026-11-21-icc-duterte-defence-oppose-p0002"
    ]
   },
   {
@@ -8076,7 +8077,8 @@
     "2026-09-14-oj-gambia-myanmar-threshold",
     "2026-10-12-oj-sa-israel-military-purpose-intent",
     "2026-11-19-icj-gambia-myanmar-merits-judgment",
-    "2026-11-19-ejil-gambia-myanmar-bottom-line"
+    "2026-11-19-ejil-gambia-myanmar-bottom-line",
+    "2026-11-21-oj-ihl-genocide-gambia-myanmar"
    ]
   },
   {
@@ -8473,7 +8475,8 @@
     "2026-11-20-icj-gambia-myanmar-reactions",
     "2026-11-20-ejil-gambia-myanmar-intent-change-part1",
     "2026-11-21-ejil-gambia-myanmar-intent-change-part2",
-    "2026-11-19-icj-gambia-myanmar-israel-reaction"
+    "2026-11-19-icj-gambia-myanmar-israel-reaction",
+    "2026-11-21-oj-ihl-genocide-gambia-myanmar"
    ]
   },
   {
@@ -9061,7 +9064,8 @@
    "author": "Marko Milanovic（英國雷丁大學國際公法教授）",
    "related": [
     "2026-11-20-ejil-gambia-myanmar-intent-change-part1",
-    "2026-11-19-icj-gambia-myanmar-merits-judgment"
+    "2026-11-19-icj-gambia-myanmar-merits-judgment",
+    "2026-11-21-oj-ihl-genocide-gambia-myanmar"
    ]
   },
   {
@@ -9186,6 +9190,129 @@
    "related": [
     "2026-11-19-icj-gambia-myanmar-merits-judgment",
     "2026-11-20-icj-gambia-myanmar-reactions"
+   ]
+  },
+  {
+   "id": "2026-11-21-icc-duterte-defence-oppose-p0002",
+   "court": "ICC",
+   "kind": "程序進展",
+   "caseId": "icc-duterte",
+   "date": "2026-11-21",
+   "eventDate": "2026-11-18",
+   "importance": 1,
+   "title": "杜特蒂案：辯方反對採用前達沃警員 P-0002 的先前證詞，主張檢方未證明證人無法到庭",
+   "shortTitle": "杜特蒂辯方反對採用 P-0002 證詞",
+   "point": "辯方稱檢方未證明證人無法到庭、證詞欠缺佐證且前後矛盾，應改為到庭作證並受詰問",
+   "titleOriginal": "The Prosecutor v. Rodrigo Roa Duterte – Defence response to the Prosecution request for the admission of the prior recorded testimony of P-0002 (public redacted version, as reported)",
+   "caseRef": "ICC-01/21-01/25",
+   "tldr": "檢方想直接採用一名前達沃市警員（據稱曾是「達沃死亡小隊」成員）在 2022 年留下的證詞。杜特蒂的律師反對，認為檢方沒有證明這名證人真的無法出庭，證詞也沒有其他證據支持、說法前後不一，若不讓辯方當庭詰問會對杜特蒂不公平。法官尚未決定，審判預定 11 月 30 日開始。",
+   "memo": "杜特蒂辯護團隊於 2026 年 11 月 18 日在檢察官訴杜特蒂案向國際刑事法院第三審判分庭提出書狀（公開刪節版），反對檢察官採用證人 P-0002 先前證詞之聲請，主張檢方未證明該證人無法到庭，其陳述欠缺文書佐證、就第 1 號事件之年份、被害人數與行為人前後矛盾，且為若干關於被告行為指控之唯一來源，若不經交互詰問即予採用將損及被告權利，應令其到庭作證；審判分庭尚未裁定。",
+   "context": "檢方於 2026 年 11 月 5 日聲請採用 P-0002 於 2022 年經第一預審分庭授權之證據保全程序所取得的 45 份陳述及相關資料，主要依據羅馬規約第 69 條第 4 項，備位依程序及證據規則第 68 條第 2 項 c 款（見本站 11 月 6 日一則）。\n杜特蒂被控三項危害人類罪，審判預定 2026 年 11 月 30 日由第三審判分庭開始；開審前辯方已就多件先前證詞及專家報告聲請提出反對。",
+   "facts": [
+    "據 GMA News 報導，辯方書狀之公開刪節版於 2026 年 11 月 18 日公開；Philippine Star 報導稱該 12 頁書狀日期為 11 月 18 日，由辯護律師 Peter Haynes 提出。",
+    "P-0002 為前達沃市警員，據稱曾為「達沃死亡小隊」成員，報導稱其為檢方核心證人。",
+    "辯方稱在檢方揭露的約 62,000 項資料中，未找到可佐證 P-0002 說法的文件。",
+    "辯方指出 P-0002 對起訴之第 1 號事件的年份、被害人數、行為人及情境說法不一致，並稱其證詞為若干關於杜特蒂行為指控之唯一來源。",
+    "辯方另指 2022 年訪談時，為未來被告利益指派的律師僅以「觀察者」身分在場，並質疑證人狀態不穩定。",
+    "辯方另以書狀請求命檢方查詢並揭露證人及被害人（包括預定首位出庭的 P-1302）的犯罪紀錄，對 2027 年 1 月 1 日前出庭者請求於 11 月 30 日前揭露。"
+   ],
+   "issues": [
+    "羅馬規約第 69 條第 4 項及程序及證據規則第 68 條第 2 項 c 款：採用先前證詞前，是否須先證明證人確實無法到庭。",
+    "羅馬規約第 67 條第 1 項 e 款：被告詰問證人之權利與採用未經詰問證詞之界限。",
+    "證據之可靠性與證明力：欠缺佐證及內部矛盾之證詞得否採用。"
+   ],
+   "holding": "審判分庭尚未就檢方聲請或辯方揭露犯罪紀錄之請求作成裁定。",
+   "significance": "P-0002 的證詞涉及杜特蒂在達沃時期的犯意與第 1 號事件，是檢方內部人士證據的關鍵之一；審判分庭如何裁定，將決定此一證據能否在未經詰問下使用，預計在 11 月 30 日開審前後作成。",
+   "editorNote": "本網頁助理 註：本則依 GMA News 及 Philippine Star 報導撰寫，未能取得辯方書狀原文；GMA 稱檢方主要依羅馬規約第 69 條第 4 項聲請，Philippine Star 則未提及條文。報導稱辯方主張「檢方援引的條文」均要求證明證人無法到庭，此一法律定性依報導轉述。以下為本網頁助理補充，非來源內容：議題中第 67 條第 1 項 e 款為本網頁助理所列之相關條文。",
+   "tags": [
+    "國際刑事法院",
+    "杜特蒂",
+    "菲律賓",
+    "掃毒戰爭",
+    "達沃死亡小隊",
+    "第68條",
+    "先前證詞",
+    "危害人類罪"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院杜特蒂案頁面",
+     "url": "https://www.icc-cpi.int/philippines/duterte",
+     "official": true
+    },
+    {
+     "label": "GMA News 報導",
+     "url": "https://www.gmanetwork.com/news/topstories/nation/1010254/rodrigo-duterte-camp-asks-icc-to-reject-ex-davao-cop-s-prior-recorded-testimony/story/",
+     "official": false
+    },
+    {
+     "label": "Philippine Star 報導",
+     "url": "https://www.philstar.com/headlines/2026/11/22/2571789/duterte-camp-icc-exclude-recorded-testimony-ex-dds",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-22T06:58:36+08:00",
+   "related": [
+    "2026-11-06-icc-duterte-p0002-preserved-testimony"
+   ]
+  },
+  {
+   "id": "2026-11-21-oj-ihl-genocide-gambia-myanmar",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "gambia-v-myanmar",
+   "date": "2026-11-21",
+   "eventDate": "",
+   "importance": 2,
+   "title": "作者認為國際法院在甘比亞訴緬甸案正確認定：符合國際人道法的行為仍可能構成種族滅絕",
+   "shortTitle": "合法攻擊仍可能構成種族滅絕",
+   "point": "作者指出多數意見明確否定遵守國際人道法即排除種族滅絕，此一立場正確",
+   "titleOriginal": "The Relationship Between IHL and Genocide in The Gambia v. Myanmar Case",
+   "caseRef": "General List No. 178",
+   "tldr": "打仗時殺死敵方戰鬥員通常是合法的。但如果國家本來就想消滅某個群體，而這個群體組成武裝自衛，殺害這些戰鬥員算不算種族滅絕？作者認為算，並指出國際法院在 11 月 19 日的緬甸案判決也這樣認為：遵守戰爭法可以作為判斷有無種族滅絕意圖的參考，但不能直接排除種族滅絕。",
+   "memo": "Kevin Jon Heller（哥本哈根大學軍事研究中心教授）於 Opinio Juris 撰文指出，國際法院於 2026 年 11 月 19 日甘比亞訴緬甸案判決第 303 至 305 段明確認定，種族滅絕公約第 2 條未要求所列行為依其他法規範屬違法，遵守國際人道法之行為僅得作為推論特定意圖之參考，並不當然排除種族滅絕；作者援引 Kress 特任法官意見，認為群體組成武裝團體後，國家不因殺害合乎目標選定規則即免於種族滅絕責任，惟於意圖不明時，此類行為不易據以推論特定意圖。",
+   "context": "國際法院於 2026 年 11 月 19 日就甘比亞訴緬甸案作成實體判決，以 9 票對 6 票認定緬甸對羅興亞人實施種族滅絕。緬甸曾以其行動屬對武裝團體的清剿行動作為抗辯。\n波士尼亞訴塞爾維亞案（2007 年）及克羅埃西亞訴塞爾維亞案（2015 年）均未正面決定符合國際人道法之行為能否構成種族滅絕。本站另有多則關於本案意圖認定與防止義務的評論。",
+   "facts": [
+    "國際法院 2026 年 11 月 19 日甘比亞訴緬甸案判決第 303 至 305 段處理國際人道法與種族滅絕之關係。",
+    "波士尼亞案中，法院駁回塞爾維亞關於符合國際人道法之驅逐不能構成種族滅絕的主張（第 334 段）；克羅埃西亞案中，法院表示依某一法規範合法之行為仍可能違反其他義務（第 474 段）。",
+    "Kress 特任法官在部分協同、部分不同意見書中討論國家具種族滅絕意圖、受害群體組成武裝團體反抗之假設情境。"
+   ],
+   "issues": [
+    "《防止及懲治種族滅絕罪公約》第 2 條：所列行為是否須依其他法規範（如國際人道法）屬違法，始構成種族滅絕之客觀要件。",
+    "遵守國際人道法之事實，於推論種族滅絕特定意圖時之作用。"
+   ],
+   "holding": "・作者指出波士尼亞案及克羅埃西亞案均未正面處理此問題，但兩案判決均傾向肯定合法行為仍可能構成種族滅絕。\n・作者指出本案多數意見以兩段篇幅明確處理：其一，第 2 條文字並未要求所列行為依其他法規範屬違法；其二，遵守國際人道法與推論意圖有關，但不排除意圖，因合法攻擊或附帶損害不排除具種族滅絕意圖的殺害。\n・作者指出本案其他個別意見均未主張符合國際人道法之行為不能構成客觀要件，或不能伴隨特定意圖。\n・作者援引 Kress 特任法官的假設：若國家意圖消滅群體，群體成立武裝組織反擊，國家殺害其戰鬥員不應僅因符合目標選定規則即不屬種族滅絕，否則國家只因群體自我武裝即可遂行計畫。\n・作者保留：在意圖不明時，不論行為是否符合國際人道法，都未必能據以推論特定意圖，戰爭罪有時就只是戰爭罪。",
+   "significance": "作者結論：能證明消滅群體之特定意圖時，針對該群體成員的暴力不因符合國際人道法而失去種族滅絕性質，多數意見與 Kress 特任法官的見解正確。作者另於 Journal of International Criminal Justice 發表論文討論同一問題。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。本網頁助理 註：作者簡介稱其於 2021 年至 2026 年擔任國際刑事法院檢察官戰爭罪特別顧問；判決段落編號依作者引用，本網頁助理未逐段核對判決全文。",
+   "tags": [
+    "種族滅絕公約",
+    "特定意圖",
+    "國際人道法",
+    "國際法院",
+    "緬甸",
+    "甘比亞",
+    "羅興亞人"
+   ],
+   "sources": [
+    {
+     "label": "國際法院判決全文（PDF）",
+     "url": "https://icj-cij.org/sites/default/files/case-related/178/178-20261119-jud-01-00-en.pdf",
+     "official": true
+    },
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/11/21/the-relationship-between-ihl-and-genocide-in-the-gambia-v-myanmar-case/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-22T06:58:36+08:00",
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Kevin Jon Heller（哥本哈根大學軍事研究中心教授）",
+   "related": [
+    "2026-11-19-icj-gambia-myanmar-merits-judgment",
+    "2026-11-21-ejil-gambia-myanmar-intent-change-part2",
+    "2026-11-17-oj-beyond-only-intent"
    ]
   }
  ],
@@ -9542,7 +9669,7 @@
    "nameOriginal": "The Prosecutor v. Rodrigo Roa Duterte",
    "caseRef": "ICC-01/21",
    "summary": "菲律賓前總統杜特蒂被控三項危害人類罪。",
-   "status": "辯方於 10 月 30 日反對採用專家證人 P-1400 報告，多件證據、證人保護與被害人參與聲請待審判分庭決定，審判預定於 2026 年 11 月 30 日開始。"
+   "status": "辯方於 11 月 18 日反對採用證人 P-0002 先前證詞，多件證據與證人聲請待第三審判分庭決定，審判預定於 2026 年 11 月 30 日開始。"
   },
   {
    "id": "icc-afghanistan",
