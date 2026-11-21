@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-21T07:32:10+08:00",
-  "lastRunLocal": "2026-11-21 07:32",
+  "lastRun": "2026-11-21T23:30:24+08:00",
+  "lastRunLocal": "2026-11-21 23:30",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 5 則：美國 4（立法動態 1、司法案件 1、政策動態 2）、亞太與其他 1（烏克蘭立法動態 1）"
+  "lastRunNote": "新增 4 則：英國 2（立法動態 1、政策動態 1）、歐盟 1（政策動態 1）、美國 1（立法動態 1）"
  },
  "items": [
   {
@@ -184,7 +184,8 @@
    "related": [
     "2026-10-21-fin-fca-cp26-36-perimeter-guidance",
     "2026-10-21-fin-fca-gc26-7-defi-guidance",
-    "2026-10-23-fin-fca-cp26-38-financial-crime-guide"
+    "2026-10-23-fin-fca-cp26-38-financial-crime-guide",
+    "2026-11-20-fin-uk-crypto-misc-amendments-made"
    ],
    "sources": [
     {
@@ -777,7 +778,8 @@
     "2026-10-06-fin-ecb-cipollone-digital-euro-2029",
     "2026-10-09-fin-council-misp-esma-supervision",
     "2026-10-06-fin-uk-digit-lead-managers",
-    "2026-10-09-fin-esma-ccp-tokenised-collateral-cfe"
+    "2026-10-09-fin-esma-ccp-tokenised-collateral-cfe",
+    "2026-11-20-fin-ecb-lagarde-tokenisation-common-rules"
    ],
    "sources": [
     {
@@ -6968,7 +6970,9 @@
     "歐盟執委會",
     "歐盟"
    ],
-   "related": [],
+   "related": [
+    "2026-11-20-fin-ecb-lagarde-tokenisation-common-rules"
+   ],
    "sources": [
     {
      "label": "歐洲央行公告（徵求 ETSG 成員）",
@@ -10633,7 +10637,8 @@
    ],
    "related": [
     "2026-11-13-fin-house-oversight-prediction-markets-insider-memo",
-    "2026-11-20-fin-sdny-remands-ny-v-kalshi"
+    "2026-11-20-fin-sdny-remands-ny-v-kalshi",
+    "2026-11-20-fin-house-prediction-markets-whistleblower-bill"
    ],
    "sources": [
     {
@@ -10918,6 +10923,255 @@
     }
    ],
    "addedAt": "2026-11-21T07:32:10+08:00"
+  },
+  {
+   "id": "2026-11-20-fin-uk-crypto-misc-amendments-made",
+   "court": "HMT",
+   "kind": "立法動態",
+   "caseId": "uk-cryptoasset-regime",
+   "jurisdiction": "英國",
+   "outlet": "Global Regulation Tomorrow（Norton Rose Fulbright）",
+   "outletCode": "RT",
+   "date": "2026-11-20",
+   "eventDate": "2026-11-18",
+   "importance": 2,
+   "author": "",
+   "title": "英國正式制定《2000 年金融服務與市場法（加密資產）（雜項修正）規則 2026》（SI 2026/1219），多數條文 11 月 20 日生效",
+   "shortTitle": "英國加密資產規則修正案正式制定",
+   "point": "SI 2026/1219 於 11 月 18 日制定，多數條文 11 月 20 日生效，部分 2027 年 10 月 25 日施行",
+   "titleOriginal": "The Financial Services and Markets Act 2000 (Cryptoassets) (Miscellaneous Amendments) Regulations 2026",
+   "caseRef": "SI 2026/1219",
+   "tldr": "英國財政部對明年上路的加密資產新制所做的技術修正，經國會兩院審議後已於 11 月 18 日正式制定。修正釐清自營交易、造市、純技術服務及穩定幣準備資產保管等不受新制規範的範圍，多數條文 11 月 20 日起生效。",
+   "memo": "英國財政部依《2000 年金融服務與市場法》制定之《2000 年金融服務與市場法（加密資產）（雜項修正）規則 2026》（SI 2026/1219）於 2026 年 11 月 18 日完成制定，多數條文自同年 11 月 20 日生效，第 2 條及第 3 條則自加密資產新制全面施行日即 2027 年 10 月 25 日施行。依 Global Regulation Tomorrow 2026 年 11 月 20 日整理，該規則增訂自營交易與造市、僅提供技術服務者及穩定幣準備資產保管之除外規定，明定經認可或第三國中央證券存管機構（含名義持有安排）之保管處理，並提前施行合格穩定幣準備資產不視為集合投資計畫、另類投資基金或電子貨幣之規定。",
+   "context": "英國以《2000 年金融服務與市場法（加密資產）規則 2026》建立加密資產監理新制，預定 2027 年 10 月 25 日全面施行，FCA 授權申請期間為 2026 年 9 月 30 日至 2027 年 2 月 28 日。\n財政部 2026 年 9 月 14 日將本修正規則草案提交國會，採肯定決議程序；上議院大委員會 11 月 10 日、下議院授權立法委員會 11 月 11 日辯論後核准。",
+   "facts": [
+    "規則於 2026 年 11 月 18 日制定，編號 SI 2026/1219，附說明備忘錄。",
+    "多數條文 2026 年 11 月 20 日生效；第 2 條及第 3 條 2027 年 10 月 25 日生效。",
+    "國會程序：9 月 14 日提交兩院；10 月 20 日次級立法審查委員會、10 月 21 日法定文書聯合委員會均未提出意見；11 月 10 日上議院大委員會、11 月 11 日下議院授權立法委員會辯論。"
+   ],
+   "issues": [
+    "自營交易、造市與非裁量性技術服務之除外範圍如何界定？",
+    "穩定幣準備資產由中央證券存管機構或名義持有人保管時之監理定性？",
+    "提前施行之準備資產定性規定對現行穩定幣發行準備之影響？"
+   ],
+   "holding": "・除外規定：增訂自營交易與造市、僅提供技術服務者，以及保管穩定幣準備資產之除外。\n・保管：明定由經認可或第三國中央證券存管機構保管（含名義持有安排）之處理方式。\n・提前施行：合格穩定幣之準備資產不視為集合投資計畫、另類投資基金或電子貨幣之規定提前生效。\n・目的：依說明，旨在提高法律確定性並降低遵法成本，支持穩定幣、加密資產及代幣化投資活動。",
+   "significance": "修正規則完成制定，英國加密資產新制之適用範圍於授權申請期間內獲得確定，申請業者可據以判斷其業務是否須取得授權。後續須注意 FCA 是否相應更新範圍指引（CP26/36）及 2027 年 10 月 25 日全面施行。",
+   "editorNote": "本網頁助理 註：制定日期、編號及生效日依 Global Regulation Tomorrow 整理及其所連結之 legislation.gov.uk 文件；國會程序依英國國會程序資料庫。本站 11 月 15 日一則依媒體報導記載上議院 11 月 11 日核准，國會程序資料庫則記載上議院大委員會 11 月 10 日辯論，兩者日期不盡一致。",
+   "tags": [
+    "加密資產",
+    "穩定幣",
+    "英國加密資產新制",
+    "英國財政部",
+    "代幣化",
+    "英國"
+   ],
+   "related": [
+    "2026-11-15-fin-uk-crypto-misc-amendments-lords"
+   ],
+   "sources": [
+    {
+     "label": "規則全文（SI 2026/1219，PDF）",
+     "url": "https://www.legislation.gov.uk/uksi/2026/1219/pdfs/uksi_20261219_en.pdf",
+     "official": true
+    },
+    {
+     "label": "說明備忘錄（PDF）",
+     "url": "https://www.legislation.gov.uk/uksi/2026/1219/pdfs/uksiem_20261219_en_001.pdf",
+     "official": true
+    },
+    {
+     "label": "英國國會程序紀錄",
+     "url": "https://api.parliament.uk/procedure/WorkPackages/8114",
+     "official": true
+    },
+    {
+     "label": "Global Regulation Tomorrow 分析",
+     "url": "https://www.regulationtomorrow.com/2026/11/the-financial-services-and-markets-act-2000-cryptoassets-miscellaneous-amendments-regulations-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-21T23:30:24+08:00"
+  },
+  {
+   "id": "2026-11-19-fin-fca-ai-spotlight-observatory",
+   "court": "FCA",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "英國",
+   "outlet": "英國金融行為監理總署（FCA）",
+   "outletCode": "FCA",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-19",
+   "importance": 1,
+   "author": "",
+   "title": "英國 FCA 推出「AI Spotlight Observatory」線上平台，彙整逾 200 家機構之金融業 AI 應用案例",
+   "shortTitle": "FCA 推出 AI 應用觀測平台",
+   "point": "彙整逾 200 家機構、150 個業務領域之 AI 案例，建立共通分類並開放業者申請展示",
+   "titleOriginal": "FCA launches world-first platform giving firms new insight into AI innovation",
+   "caseRef": "",
+   "tldr": "英國金融監理機關推出一個公開網站，整理金融業實際使用 AI 的案例，讓業者了解同業如何導入 AI。FCA 稱這是全球首創，屬其 AI Lab 支持創新措施的一環。",
+   "memo": "英國金融行為監理總署（FCA）於 2026 年 11 月 19 日宣布推出「AI Spotlight Observatory」線上平台，與金融科技創業中心（CFTE）合作、由 NayaOne 提供技術，彙整逾 200 家機構於 150 個業務領域之人工智慧應用案例，並以共通分類區分使用情境與實際導入。平台對外公開，註冊使用者得檢視目標客群等細部資訊及申請示範，業者亦得申請列入展示。該平台延續 FCA AI Lab 之 AI Spotlight 數位展示計畫。",
+   "context": "FCA 以 AI Lab 推動金融業負責任採用 AI，先前已推出 AI Spotlight 數位展示，並與 Nvidia 合作強化數位沙盒。本平台係在 AI Spotlight 數位展示基礎上擴充。",
+   "facts": [
+    "FCA 於 2026 年 11 月 19 日發布新聞稿。",
+    "平台涵蓋逾 200 家機構、150 個業務領域之 AI 使用案例。",
+    "合作夥伴為 CFTE，技術夥伴為 NayaOne。",
+    "一般使用者可免費瀏覽；詳細資訊與示範申請須註冊。"
+   ],
+   "issues": [
+    "監理機關彙整並展示業者 AI 案例，是否有助於形成同業實務標準？",
+    "展示案例不代表 FCA 背書，業者應如何自行評估合規性？"
+   ],
+   "holding": "・建立 AI 應用案例公開平台，採共通分類並區分使用情境與實際導入。\n・使用者可依業務領域檢索案例，註冊後取得目標客群等細部資訊並申請示範。\n・業者得申請將其 AI 解決方案列入展示。\n・FCA 數據、資訊與情報長 Jessica Rusu 表示，平台有助業者了解 AI 採用情形並支持創新。",
+   "significance": "此舉屬監理機關以資訊揭露方式促進 AI 採用，而非新增規範義務；可作為觀察英國金融業 AI 實際應用分布之資料來源，並與 FCA 近期發布之 AI 有效實務及網路韌性指引併同觀察。",
+   "editorNote": "",
+   "tags": [
+    "人工智慧",
+    "監理創新",
+    "FCA",
+    "英國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "FCA 新聞稿",
+     "url": "https://www.fca.org.uk/news/press-releases/fca-launches-world-first-platform-giving-firms-new-insight-ai-innovation",
+     "official": true
+    },
+    {
+     "label": "FCA AI Lab 頁面",
+     "url": "https://www.fca.org.uk/firms/innovation/ai-lab",
+     "official": true
+    },
+    {
+     "label": "Global Regulation Tomorrow 整理",
+     "url": "https://www.regulationtomorrow.com/2026/11/fca-launches-world-first-platform-giving-firms-new-insight-into-ai-innovation/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-21T23:30:24+08:00"
+  },
+  {
+   "id": "2026-11-20-fin-ecb-lagarde-tokenisation-common-rules",
+   "court": "ECB",
+   "kind": "政策動態",
+   "caseId": "eurosystem-digital-euro-tokenisation",
+   "jurisdiction": "歐盟",
+   "outlet": "CoinDesk",
+   "outletCode": "CD",
+   "date": "2026-11-20",
+   "eventDate": "2026-11-20",
+   "importance": 1,
+   "author": "",
+   "title": "歐洲央行總裁 Lagarde 於歐洲銀行業大會演說，呼籲歐盟立法者為代幣化金融資產訂定共通規則",
+   "shortTitle": "Lagarde 籲歐盟訂代幣化共通規則",
+   "point": "稱公有鏈代幣化資產 3 月約 230 億歐元、一年成長五倍，基礎設施之外仍須立法",
+   "titleOriginal": "Lagarde warns Europe could lose tokenized finance lead without unified rules",
+   "caseRef": "",
+   "tldr": "歐洲央行總裁 Lagarde 表示，央行可以提供 Pontes、Appia 等結算基礎設施，但若各區塊鏈平台規則不一，歐洲代幣化市場會四分五裂，因此需要立法者制定共通規則。",
+   "memo": "依 CoinDesk 2026 年 11 月 20 日報導，歐洲中央銀行總裁 Christine Lagarde 於同日在法蘭克福歐洲銀行業大會演說，指出公有鏈上之代幣化傳統資產於 2026 年 3 月約達 230 億歐元，為一年前之五倍，並表示僅有基礎設施尚不足夠，仍需由立法者制定共通規則，以避免互不相容之區塊鏈平台造成市場分裂。演說並提及歐洲央行 9 月上線之 Pontes 已以中央銀行貨幣結算歐洲穩定機制 10 億歐元數位原生債券，及以 Appia 計畫推動共通標準。",
+   "context": "歐元體系 2026 年 9 月 21 日上線 Pontes，以中央銀行貨幣結算 DLT 上之代幣化證券交易，並以 Appia 計畫規劃 2028 年完成之長期整合藍圖；歐洲央行、歐盟執委會與 ESMA 於 11 月 9 日徵求歐洲代幣化標準小組（ETSG）成員。執委會 2025 年 12 月提出之市場整合與監理套案（MISP）亦包含 DLT 試行機制之修正，尚在立法程序中。",
+   "facts": [
+    "演說日期為 2026 年 11 月 20 日，地點為法蘭克福歐洲銀行業大會。",
+    "依報導，公有鏈代幣化傳統資產 3 月約 230 億歐元，為一年前之五倍。",
+    "依報導，歐洲穩定機制於 11 月透過 Pontes 結算 10 億歐元數位原生債券。",
+    "依報導，歐洲央行擬將部分自有準備投資於代幣化證券，先自歐元公部門債券開始。",
+    "Lagarde 將於 2027 年 2 月卸任。"
+   ],
+   "issues": [
+    "代幣化市場之共通規則應由 MISP、DLT 試行機制修正或另立新法處理？",
+    "央行貨幣結算基礎設施與私人區塊鏈平台之互通性如何確保？"
+   ],
+   "holding": "・基礎設施：歐洲央行以 Pontes 提供央行貨幣結算，Appia 推動共通標準與市場連結。\n・立法需求：Lagarde 強調共通規則屬立法者權限，呼籲及早制定以防市場分裂。\n・央行參與：歐洲央行擬將部分自有準備投資於代幣化證券。",
+   "significance": "歐洲央行總裁公開呼籲立法，可能影響 MISP 三方協商中 DLT 相關條文之討論；後續可觀察 ETSG 組成（提名至 11 月 27 日）及 MISP 立法進度。",
+   "editorNote": "本網頁助理 註：歐洲央行演說全文頁面未能開啟，內容依 CoinDesk 報導；該報導以美元換算之金額前後不一（265 億及 250 億美元），本則僅採歐元數字。",
+   "tags": [
+    "代幣化",
+    "CBDC",
+    "Pontes",
+    "Appia",
+    "歐洲央行",
+    "歐盟"
+   ],
+   "related": [
+    "2026-10-21-fin-ecb-cipollone-pontes-appia",
+    "2026-11-09-fin-etsg-tokenisation-standards-call"
+   ],
+   "sources": [
+    {
+     "label": "歐洲央行演說頁面",
+     "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+     "official": true
+    },
+    {
+     "label": "CoinDesk 報導",
+     "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-21T23:30:24+08:00"
+  },
+  {
+   "id": "2026-11-20-fin-house-prediction-markets-whistleblower-bill",
+   "court": "US",
+   "kind": "立法動態",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國",
+   "outlet": "美國眾議員 Sean Casten 辦公室",
+   "outletCode": "US",
+   "date": "2026-11-20",
+   "eventDate": "2026-11-20",
+   "importance": 1,
+   "author": "",
+   "title": "美國眾議員 Casten、Lieu 提出《2026 年預測市場內線交易防制法》，設司法部吹哨者獎勵計畫",
+   "shortTitle": "美眾議員提預測市場內線交易吹哨法案",
+   "point": "由司法部設匿名檢舉管道，資訊促成執法成功者得獲獎金",
+   "titleOriginal": "Casten and Lieu Introduce Bill to Combat Insider Trading on Prediction Markets",
+   "caseRef": "Policing Insider Trading in Prediction Markets Act of 2026",
+   "tldr": "兩名民主黨眾議員提出法案，讓知道預測市場上有人利用內線消息下注的人，可以匿名向司法部檢舉，若因此成功執法可領獎金。這是參議院通過禁止戰爭、死亡類合約法案後，國會又一項針對預測市場的立法提案。",
+   "memo": "美國聯邦眾議員 Sean Casten 與 Ted Lieu 於 2026 年 11 月 20 日提出《2026 年預測市場內線交易防制法》（Policing Insider Trading in Prediction Markets Act of 2026），擬於司法部設置吹哨者計畫，受理就預測市場涉嫌詐欺提出之原始且可信資訊並允許匿名檢舉，資訊促成執法成功者得獲補償。依 The Block 同日報導，參議院已於前一日通過 DEATH BETS Act；法案編號尚未公布。",
+   "context": "2026 年以來，預測市場涉及軍事行動、政治人物去留等事件合約之疑似內線交易屢受關注，國會已有多項相關法案；參議院 11 月 19 日通過 DEATH BETS Act，禁止戰爭、恐攻、暗殺及個人死亡事件合約。CFTC 主張對指定契約市場之事件合約有專屬管轄權，並與多州進行訴訟。民主黨將於 2027 年 1 月掌握國會兩院。",
+   "facts": [
+    "法案由眾議員 Casten（伊利諾州第 6 選區）與 Lieu（加州第 36 選區）於 2026 年 11 月 20 日提出。",
+    "新聞稿列舉多起疑似利用內部資訊下注案例，包括押注美國對伊朗軍事行動近 100 萬美元之交易者。",
+    "法案獲 CREW、POGO、國際透明組織美國分會、Americans for Financial Reform、Public Citizen 等團體支持。",
+    "依 The Block 報導，提案前已有 54 名眾院民主黨議員聯署致函表達關切。"
+   ],
+   "issues": [
+    "預測市場內線交易之構成要件及其與商品交易法反操縱規定之關係？",
+    "由司法部而非 CFTC 主管吹哨者計畫之妥適性？"
+   ],
+   "holding": "・設置：於司法部建立預測市場詐欺吹哨者計畫。\n・檢舉：受理原始且可信之資訊，並允許匿名提出。\n・獎勵：資訊促成執法行動成功者得獲補償。",
+   "significance": "法案由少數黨議員提出，本屆會期通過機會有限，但民主黨 2027 年 1 月起掌握國會，預測市場內線交易可能成為下一屆國會立法重點；可與 DEATH BETS Act 之眾院審議併同觀察。",
+   "editorNote": "本網頁助理 註：The Block 另報導依 Politico，獎勵比例為罰款逾 100 萬美元者之 10% 至 30%，惟該比例未見於議員新聞稿，本則未採。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "內線交易",
+    "國會",
+    "美國"
+   ],
+   "related": [
+    "2026-11-20-fin-senate-passes-death-bets-act"
+   ],
+   "sources": [
+    {
+     "label": "Casten 眾議員新聞稿",
+     "url": "https://casten.house.gov/media/press-releases/casten-and-lieu-introduce-bill-to-combat-insider-trading-on-prediction-markets",
+     "official": true
+    },
+    {
+     "label": "法案全文（PDF）",
+     "url": "https://casten.house.gov/imo/media/doc/policing_insider_trading_in_prediction_markets_act_of_2026.pdf",
+     "official": true
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-21T23:30:24+08:00"
   }
  ],
  "agenda": [
@@ -11568,7 +11822,7 @@
    "nameOriginal": "Digital euro; Pontes and Appia",
    "caseRef": "",
    "summary": "歐元體系推動數位歐元立法與試點，並以 Pontes、Appia 建構代幣化交易的央行貨幣結算基礎設施。",
-   "status": "數位歐元立法 11 月 18 日第七輪三方協商未達協議，擬 12 月 3 日、16 日再議，理事會堅持年底前結案；歐洲央行 10 月 30 日選定網路服務供應商，試點預計 2027 年下半年展開；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成。"
+   "status": "數位歐元立法 11 月 18 日第七輪三方協商未達協議，擬 12 月 3 日、16 日再議，理事會堅持年底前結案；歐洲央行 10 月 30 日選定網路服務供應商，試點預計 2027 年下半年展開；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成，Lagarde 11 月 20 日呼籲立法者訂定代幣化共通規則。"
   },
   {
    "id": "uk-cryptoasset-regime",
@@ -11579,7 +11833,7 @@
    "nameOriginal": "UK cryptoasset regulatory regime",
    "caseRef": "",
    "summary": "依《2000 年金融服務與市場法（加密資產）規則 2026》，新的加密資產活動自 2027 年 10 月 25 日起納入監理，FCA 陸續發布政策聲明與指引。",
-   "status": "申請期間 2026 年 9 月 30 日至 2027 年 2 月 28 日；依報導上議院 11 月 11 日核准加密資產規則雜項修正草案（待正式制定）；CP26/36 與 GC26/7 意見徵詢至 11 月 18 日，金融犯罪指南修正（CP26/38）至 12 月 24 日；HMRC 確認合格穩定幣自 2027 年 4 月起免徵資本利得稅（待財政法案通過）。"
+   "status": "申請期間 2026 年 9 月 30 日至 2027 年 2 月 28 日；加密資產規則雜項修正（SI 2026/1219）11 月 18 日制定，多數條文 11 月 20 日生效；CP26/36 與 GC26/7 意見徵詢已於 11 月 18 日截止，金融犯罪指南修正（CP26/38）至 12 月 24 日；HMRC 確認合格穩定幣自 2027 年 4 月起免徵資本利得稅（待財政法案通過）；新制 2027 年 10 月 25 日全面施行。"
   },
   {
    "id": "hk-stablecoin-tokenisation",
@@ -11634,7 +11888,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "參議院 11 月 19 日通過 DEATH BETS Act（S. 4035）禁止戰爭、死亡類事件合約，待眾院審議；紐約州訴 Kalshi 案依報導發回州法院，州檢方 11 月 20 日聲請暫時限制令；第四巡迴 11 月 17 日維持駁回 Kalshi 對馬里蘭州之禁制令，路易斯安那州法院 11 月 30 日審初步禁制令。"
+   "status": "參議院 11 月 19 日通過 DEATH BETS Act（S. 4035）禁止戰爭、死亡類事件合約，待眾院審議；眾議員 11 月 20 日另提預測市場內線交易吹哨者法案；紐約州訴 Kalshi 案依報導發回州法院，州檢方 11 月 20 日聲請暫時限制令；第四巡迴 11 月 17 日維持駁回 Kalshi 對馬里蘭州之禁制令，路易斯安那州法院 11 月 30 日審初步禁制令。"
   },
   {
    "id": "kr-tokenised-securities",
