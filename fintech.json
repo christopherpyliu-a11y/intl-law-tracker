@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-21T23:30:24+08:00",
-  "lastRunLocal": "2026-11-21 23:30",
+  "lastRun": "2026-11-22T07:28:42+08:00",
+  "lastRunLocal": "2026-11-22 07:28",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：英國 2（立法動態 1、政策動態 1）、歐盟 1（政策動態 1）、美國 1（立法動態 1）"
+  "lastRunNote": "新增 1 則：亞太與其他 1（法規發布 1）"
  },
  "items": [
   {
@@ -6414,7 +6414,9 @@
     "俄羅斯央行",
     "俄羅斯"
    ],
-   "related": [],
+   "related": [
+    "2026-11-13-fin-bank-of-russia-organised-crypto-trading"
+   ],
    "sources": [
     {
      "label": "ForkLog 報導",
@@ -11172,6 +11174,69 @@
     }
    ],
    "addedAt": "2026-11-21T23:30:24+08:00"
+  },
+  {
+   "id": "2026-11-13-fin-bank-of-russia-organised-crypto-trading",
+   "court": "OTHER",
+   "kind": "法規發布",
+   "caseId": "",
+   "jurisdiction": "俄羅斯",
+   "outlet": "The Paypers",
+   "outletCode": "PAY",
+   "date": "2026-11-13",
+   "eventDate": "2026-11-22",
+   "importance": 1,
+   "author": "",
+   "title": "俄羅斯央行發布有組織加密資產交易規範，交易所經核准交易規則後自 11 月 22 日起得開辦加密貨幣交易",
+   "shortTitle": "俄央行訂交易所加密資產交易規範",
+   "point": "經司法部登記，11 月 22 日起交易所交易規則獲央行核准後即可開辦",
+   "titleOriginal": "Bank of Russia allows crypto trading on exchanges from 22 November",
+   "caseRef": "",
+   "tldr": "俄羅斯央行訂了一套交易所買賣加密貨幣的規則，已經司法部登記。從 11 月 22 日起，交易所只要先讓央行核准自己的交易規則，就能開始提供加密貨幣交易，並須像其他資產一樣記錄、監控並向央行申報。",
+   "memo": "依 The Paypers 2026 年 11 月 13 日及 crypto.news 同年 11 月 11 日報導（引述國際文傳電訊社），俄羅斯聯邦中央銀行就有組織加密資產交易發布規範性指令，業經司法部登記，並以第 282-FZ 號數位貨幣及數位權利聯邦法為依據。依該指令，交易所自 2026 年 11 月 22 日起，於其交易規則經央行核准後，得開辦加密貨幣有組織交易，並應登記交易參與人（經紀商、全權委託管理人、中央對手方）、保存委託及成交紀錄、監控交易、計算現價、加權平均價、市價及收盤價，並比照其他資產向央行申報。",
+   "context": "俄羅斯國家杜馬於 2026 年 7 月通過加密資產法，同年 9 月 1 日施行，將加密資產市場納入央行發照監理；非專業投資人須通過測驗，每年經同一中介機構購買上限 30 萬盧布，專業投資人不受此限，過渡期至 2027 年 7 月 1 日。\n俄羅斯央行另於 11 月 6 日核定比特幣、以太幣及 USDT 為非專業投資人得購買之加密資產，11 月 17 日生效（見相關條目）。本則指令則規範交易所端之有組織交易機制。",
+   "facts": [
+    "依 crypto.news 報導，司法部於 2026 年 11 月 11 日前後登記央行有關有組織加密資產交易之指令",
+    "交易所自 2026 年 11 月 22 日起，交易規則經央行核准後得開辦加密貨幣交易；規範對象為有組織交易場所，不含場外交易",
+    "交易所須登記交易參與人、保存委託及成交紀錄、監控交易，並計算現價、加權平均價、市價及收盤價四項價格指標",
+    "交易所須比照其他資產向央行申報",
+    "依 The Paypers 報導，直接點對點加密資產交易將自 2027 年 7 月 1 日起禁止；10 月央行已核准首批數位存管機構及加密交易服務業者",
+    "依 crypto.news 報導，莫斯科交易所計畫自 2026 年 12 月 1 日起提供比特幣、以太幣及 USDT 交易"
+   ],
+   "issues": [
+    "交易所之交易規則須經央行事前核准，核准標準與時程為何",
+    "有組織交易規範與點對點交易禁令、自託管錢包轉帳禁止之銜接"
+   ],
+   "holding": "・交易所得自 2026 年 11 月 22 日起開辦有組織加密資產交易，前提為其交易規則經俄羅斯央行核准\n・交易所應登記經紀商、全權委託管理人及中央對手方等交易參與人\n・交易所應保存委託及成交登記簿並進行交易監控\n・交易所應計算現價、加權平均價、市價及收盤價\n・交易所應比照其他資產類別向央行申報",
+   "significance": "本指令與 11 月 17 日生效之散戶可購資產清單共同構成俄羅斯合法加密資產交易之交易所端架構；後續觀察央行核准首批交易所交易規則之時點，以及莫斯科交易所 12 月 1 日開辦交易是否如期。",
+   "editorNote": "本網頁助理 註：本則依 The Paypers 及 crypto.news 報導撰寫，未能取得俄羅斯央行指令原文；兩則報導對散戶 30 萬盧布上限之生效時點描述不一，本則依俄羅斯央行 2026 年 7 月 21 日新聞稿將該上限列為法律規定。本則發布日期早於本次涵蓋期間，係補錄先前僅列於議程之事項。",
+   "tags": [
+    "加密資產",
+    "交易所",
+    "俄羅斯央行",
+    "俄羅斯"
+   ],
+   "related": [
+    "2026-11-06-fin-bank-of-russia-retail-crypto-access"
+   ],
+   "sources": [
+    {
+     "label": "俄羅斯央行新聞稿（2026 年 7 月 21 日，加密資產法通過）",
+     "url": "https://www.cbr.ru/press/event/?id=32724",
+     "official": true
+    },
+    {
+     "label": "The Paypers 報導",
+     "url": "https://thepaypers.com/regulations/news/bank-of-russia-allows-crypto-trading-on-exchanges-from-22-november",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/russia-clears-crypto-exchange-trading-from-nov-22-under-central-bank-rules/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-22T07:28:42+08:00"
   }
  ],
  "agenda": [
@@ -11622,7 +11687,7 @@
    "title": "俄羅斯：交易所經俄羅斯央行核准交易規則後得開始有組織加密資產交易",
    "note": "依 CoinDesk 報導，日期可能變動",
    "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
-   "relatedId": "2026-11-06-fin-bank-of-russia-retail-crypto-access",
+   "relatedId": "2026-11-13-fin-bank-of-russia-organised-crypto-trading",
    "caseId": ""
   },
   {
