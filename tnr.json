@@ -1,13 +1,133 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-22T07:13:34+08:00",
-  "lastRunLocal": "2026-11-22 07:13",
+  "lastRun": "2026-11-22T23:10:24+08:00",
+  "lastRunLocal": "2026-11-22 23:10",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "本次未發現新動態"
+  "lastRunNote": "新增 2 則：中國 1（司法案件 1）、越南 1（倡議 1）"
  },
  "items": [
+  {
+   "id": "2026-11-18-tnr-toronto-consulate-assault-suspect-wanted",
+   "court": "CN",
+   "kind": "司法案件",
+   "caseId": "toronto-consulate-falun-gong-assault",
+   "jurisdiction": "加拿大",
+   "outlet": "CTV News／CP24",
+   "outletCode": "CTV",
+   "date": "2026-11-18",
+   "eventDate": "2026-11-18",
+   "importance": 2,
+   "author": "",
+   "title": "多倫多警方公布中領館前襲擊法輪功學員案嫌犯身分，以毀損、傷害及恐嚇罪通緝已返回中國的 41 歲男子 Rui Chen",
+   "shortTitle": "多倫多中領館襲擊案嫌犯遭通緝",
+   "point": "警方公布嫌犯為 41 歲 Rui Chen，涉毀損、傷害及恐嚇，案發當日即搭機返中",
+   "titleOriginal": "Toronto police identify man wanted in assault outside Chinese consulate",
+   "caseRef": "",
+   "tldr": "9 月 22 日在多倫多中國總領事館前扯毀法輪功布條、威脅並動手打人的男子，多倫多警方 11 月 18 日公布他的姓名與照片並發布通緝。警方說他當天下午就飛回中國，所以目前無法逮捕；中國領館沒有公開回應。",
+   "memo": "依 CTV News／CP24 2026 年 11 月 18 日及 TorontoToday 同年 11 月 19 日報導，多倫多警察局於 2026 年 11 月 18 日發布新聞稿，公布同年 9 月 22 日上午於多倫多中華人民共和國總領事館附近毀損法輪功學員標語布條、傷害一名抗議者並出言死亡威脅之嫌犯為 41 歲、來自中國之男子 Rui Chen，以毀損財物（5,000 加元以下）、傷害及恐嚇罪通緝。警方稱嫌犯已於案發當日下午搭機前往中國。中國總領事館未公開回應。",
+   "context": "本案事發於 2026 年 9 月 22 日，CTV News 11 月 16 日披露現場影片後引起關注，當時警方僅證實立案偵查、未公布嫌犯姓名（見相關條目）。\n事件發生期間，保護衛士（Safeguard Defenders）報告指控中國在加拿大設有至少 18 處海外「聯絡點」，加拿大政府表示將查證；加拿大與中國之間沒有引渡條約。",
+   "facts": [
+    "依報導引述多倫多警方 11 月 18 日（週三）新聞稿：9 月 22 日上午約 9 時 35 分，示威者聚集於 St. George Street 與 Bernard Avenue 附近的中國總領事館外。",
+    "警方指稱一名男子走近示威者並毀損其標語與布條，傷害其中一人並出言死亡威脅後離開。",
+    "警方公布嫌犯為 41 歲、來自中國的 Rui Chen，以毀損財物（5,000 加元以下）、傷害及恐嚇（uttering threats）罪名通緝，並公布其照片與外貌特徵。",
+    "警方稱嫌犯於案發當日下午搭機前往中國。",
+    "依 CP24 報導，加拿大法輪大法學會發言人稱兩名被害人一為加拿大公民、一為 2024 年來加的難民；RCMP 表示由多倫多警方主導偵查。",
+    "TorontoToday 報導稱中國領館未就此事公開表示意見。"
+   ],
+   "issues": [
+    "嫌犯已離境回到與加拿大無引渡條約的中國，加國刑事追訴的實際手段（入境管制、國際刑警組織通報）有限。",
+    "警方以一般刑事罪名處理，未就是否受外國政府指使表示意見；跨國鎮壓的定性仍屬人權團體主張。"
+   ],
+   "holding": "・多倫多警方：公布嫌犯 Rui Chen（41 歲）身分，以毀損財物（5,000 加元以下）、傷害及恐嚇罪通緝；稱其案發當日下午飛往中國；呼籲知情者提供線索。\n・RCMP：多倫多警方為主辦偵查機關，RCMP 一般不證實或否認偵查。\n・加拿大法輪大法學會：被害人一為加拿大公民、一為難民。\n・中國總領事館：未公開回應。",
+   "significance": "相較於 11 月 16 日報導時警方未公布嫌犯身分，警方此次正式通緝，為加拿大近期處理疑似跨國鎮壓個案的一步。後續可觀察加國是否尋求國際刑警組織通報或限制其再入境，以及政府是否就海外警站指控與本案向中方交涉。",
+   "editorNote": "本網頁助理 註：eventDate 採警方發布通緝新聞稿之日（依 CP24 報導為 11 月 18 日週三）；通緝令簽發日未見報導。CP24 文中附有多倫多警察局新聞稿連結，本網頁助理未能直接讀取該新聞稿，故未列為來源。警方未說明嫌犯與中國政府有無關聯。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "加拿大",
+    "法輪功",
+    "多倫多",
+    "使領館",
+    "人身攻擊",
+    "通緝"
+   ],
+   "related": [
+    "2026-11-16-tnr-toronto-consulate-falun-gong-assault"
+   ],
+   "sources": [
+    {
+     "label": "CTV News／CP24 報導",
+     "url": "https://www.cp24.com/local/toronto/2026/11/18/toronto-police-identify-man-wanted-in-assault-outside-chinese-consulate/",
+     "official": false
+    },
+    {
+     "label": "TorontoToday 報導",
+     "url": "https://www.torontotoday.ca/local/crime-emergency-services/toronto-chinese-consulate-protest-assault-suspect-13035506",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-22T23:10:24+08:00"
+  },
+  {
+   "id": "2026-11-22-tnr-hrw-australia-vietnam-dialogue",
+   "court": "VN",
+   "kind": "倡議",
+   "caseId": "viet-tan-cambodia-abduction",
+   "jurisdiction": "澳洲、越南、柬埔寨",
+   "outlet": "人權觀察",
+   "outletCode": "HRW",
+   "date": "2026-11-22",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "人權觀察促澳洲在第 21 屆澳越人權對話要求越南釋放政治犯、停止跨國鎮壓，點名遭從柬埔寨帶回羈押的澳洲籍越新黨成員 Tran Hiep",
+   "shortTitle": "人權觀察促澳洲藉人權對話施壓越南",
+   "point": "指越南加強跨國鎮壓，要求對話須有具體可衡量成果並點名 Tran Hiep 案",
+   "titleOriginal": "Australia: Use Vietnam Dialogue to Press for Rights Reforms",
+   "caseRef": "",
+   "tldr": "人權觀察向澳洲外交貿易部提交意見，要求澳洲在即將舉行的第 21 屆澳越人權對話中，要越南拿出釋放政治犯、停止跨國鎮壓等具體成果。聲明特別提到 9 月在柬埔寨失聯、後遭越南羈押的澳洲籍民主運動人士 Tran Hiep。",
+   "memo": "依人權觀察 2026 年 11 月 22 日新聞稿，該組織向澳洲外交貿易部提交意見，促請澳洲於即將舉行之第 21 屆澳越人權對話中，要求越南就政治犯、勞動權、跨國鎮壓及宗教自由取得明確、具體且可衡量之進展。人權觀察指稱越南當局加強跨國鎮壓，並援引越新黨指控，稱包括澳洲籍成員 Tran Hiep 在內之三名成員於 2026 年 9 月下旬遭警方在柬埔寨拘捕後移送越南；另要求澳洲說明越南未改革對雙邊關係及經貿合作之影響。",
+   "context": "越新黨（Viet Tan）三名成員 Nguyen Duc Thuan（挪威籍）、Tran Hiep（澳洲籍）及 Thai Cong Truong Son 於 2026 年 9 月在柬埔寨失聯，越南公安部其後稱三人非法入境並控以恐怖主義等罪。澳洲總理艾班尼斯 11 月中旬曾向越南領導人提出 Tran Hiep 案，九個人權團體 11 月 17 日亦聯名致函（見相關條目）。\n澳越人權對話為兩國定期舉行的雙邊機制，人權觀察過去多次批評其缺乏具體成果。",
+   "facts": [
+    "人權觀察 11 月 22 日（雪梨發稿）表示已向澳洲外交貿易部（DFAT）提交意見書。",
+    "聲明稱越南關押逾 160 名政治犯，另有數十人待審；2026 年前九個月至少 31 名運動人士遭判長期徒刑，至少 46 人因批評政府被捕。",
+    "聲明稱越南當局加強跨國鎮壓；依越新黨指控，9 月下旬警方在柬埔寨拘捕包括 Tran Hiep 在內的三名成員並移送越南。",
+    "人權觀察稱 Tran Hiep 為澳洲籍民主與人權運動者，自 9 月在柬埔寨失聯後即遭越南羈押。",
+    "聲明另點名部落客 Hoang Thi Hong Thai 及 Huynh Ngoc Tuan，並指越南未依 CPTPP 允許獨立工會。",
+    "聲明未載明本屆對話的日期與地點。"
+   ],
+   "issues": [
+    "雙邊人權對話能否就跨國鎮壓個案（本國公民在第三國遭擄回羈押）取得具體成果。",
+    "澳洲是否將人權進展與兩國全面戰略夥伴關係下的經貿合作掛鉤。"
+   ],
+   "holding": "・人權觀察要求澳洲：促越南釋放政治犯並扭轉鎮壓；明確表達對相關侵害的關切；說明越南未改革將如何影響雙邊關係及夥伴關係下的貿易、關稅條款落實。\n・人權觀察澳洲主任 Daniela Gavshon：若未把具體成果正式化，對話成效有限，單純再開一次會不算進展。\n・越南政府：聲明未載其回應。",
+   "significance": "這是 Tran Hiep 案在澳洲外交層面的又一施壓。後續可觀察本屆澳越人權對話的日期、澳方是否公開提出該案及領事探視情形，以及越南對三人的起訴與審判進度。",
+   "editorNote": "本網頁助理 註：人權觀察聲明未載本屆對話日期與地點，故未列入議程；「雪梨」為發稿地。三人遭擄經過係依越新黨指控，越南官方稱三人非法入境。",
+   "tags": [
+    "跨國鎮壓",
+    "越南",
+    "柬埔寨",
+    "澳洲",
+    "越新黨",
+    "Tran Hiep",
+    "擄人",
+    "人權對話",
+    "政治犯"
+   ],
+   "related": [
+    "2026-11-17-tnr-fh-joint-appeal-albanese-tran-hiep"
+   ],
+   "sources": [
+    {
+     "label": "人權觀察聲明原文",
+     "url": "https://www.hrw.org/news/2026/11/22/australia-use-vietnam-dialogue-to-press-for-rights-reforms",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-22T23:10:24+08:00"
+  },
   {
    "id": "2026-11-19-tnr-wang-lijun-embassy-threat-call",
    "court": "CN",
@@ -557,7 +677,8 @@
    "related": [
     "2026-11-16-tnr-albanese-raises-tran-hiep-vietnam",
     "2026-11-14-tnr-hrw-francophonie-mekong",
-    "2026-11-09-tnr-mekong-viet-tan-witnesses"
+    "2026-11-09-tnr-mekong-viet-tan-witnesses",
+    "2026-11-22-tnr-hrw-australia-vietnam-dialogue"
    ],
    "sources": [
     {
@@ -639,7 +760,7 @@
    "id": "2026-11-16-tnr-toronto-consulate-falun-gong-assault",
    "court": "CN",
    "kind": "事件",
-   "caseId": "",
+   "caseId": "toronto-consulate-falun-gong-assault",
    "jurisdiction": "加拿大",
    "outlet": "CTV News",
    "outletCode": "CTV",
@@ -683,7 +804,8 @@
    ],
    "related": [
     "2026-11-11-tnr-canada-probe-liaison-points",
-    "2026-11-07-tnr-us-state-dept-falun-gong-dc-assault"
+    "2026-11-07-tnr-us-state-dept-falun-gong-dc-assault",
+    "2026-11-18-tnr-toronto-consulate-assault-suspect-wanted"
    ],
    "sources": [
     {
@@ -7854,7 +7976,7 @@
    "nameOriginal": "Viet Tan members taken from Cambodia (Nguyen Duc Thuan, Tran Hiep, Thai Cong Truong Son)",
    "caseRef": "",
    "summary": "三名越新黨成員（含挪威籍、澳洲籍各一）2026 年 9 月在柬埔寨失聯後遭越南羈押，越南稱其非法入境並控以恐怖主義與偽造文書。",
-   "status": "三人以恐怖主義等罪名遭起訴，關押於胡志明市 B34 看守所；艾班尼斯 11 月中旬於東協峰會場邊向越南總理提出 Tran Hiep 案，九團體 11 月 17 日聯名促其再向蘇林提出；下次領事探視排定 11 月 20 日。"
+   "status": "三人以恐怖主義等罪名遭起訴，關押於胡志明市 B34 看守所；艾班尼斯 11 月中旬於東協峰會場邊向越南總理提出 Tran Hiep 案，九團體 11 月 17 日聯名促其再向蘇林提出；下次領事探視排定 11 月 20 日；人權觀察 11 月 22 日促澳洲在第 21 屆澳越人權對話中提出本案。"
   },
   {
    "id": "khieo-lapchanh-disappearance",
@@ -8031,6 +8153,17 @@
    "caseRef": "",
    "summary": "美國檢方指控印度政府人員 Vikash Yadav 招募印度人 Nikhil Gupta，雇人在美國暗殺錫克族分離運動者 Pannun；Gupta 2026 年 2 月認罪，印度否認涉入。",
    "status": "2026 年 11 月 20 日判處有期徒刑 235 個月（量刑準則下限），未諭知監督釋放；被指控指使之 Vikash Yadav 仍未到案。"
+  },
+  {
+   "id": "toronto-consulate-falun-gong-assault",
+   "type": "案件",
+   "court": "CN",
+   "forum": "多倫多警察局",
+   "name": "多倫多中領館前法輪功學員遭襲案",
+   "nameOriginal": "Assault outside the Chinese Consulate-General in Toronto (Rui Chen)",
+   "caseRef": "",
+   "summary": "2026 年 9 月 22 日一名男子在多倫多中國總領事館前扯毀法輪功學員布條、威脅並襲擊抗議者，當日下午搭機返回中國；人權人士稱其為跨國鎮壓事例。",
+   "status": "多倫多警方 2026 年 11 月 18 日公布嫌犯為 41 歲的 Rui Chen，以毀損、傷害及恐嚇罪通緝；嫌犯人在中國，中國領館未公開回應。"
   }
  ]
 }
