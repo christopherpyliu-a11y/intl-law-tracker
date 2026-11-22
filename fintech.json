@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-22T07:28:42+08:00",
-  "lastRunLocal": "2026-11-22 07:28",
+  "lastRun": "2026-11-22T23:28:41+08:00",
+  "lastRunLocal": "2026-11-22 23:28",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：亞太與其他 1（法規發布 1）"
+  "lastRunNote": "新增 1 則：美國 1（司法案件 1）"
  },
  "items": [
   {
@@ -10715,7 +10715,8 @@
    ],
    "related": [
     "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction",
-    "2026-11-20-fin-senate-passes-death-bets-act"
+    "2026-11-20-fin-senate-passes-death-bets-act",
+    "2026-11-21-fin-ny-kalshi-tro-hearing-set"
    ],
    "sources": [
     {
@@ -11237,6 +11238,68 @@
     }
    ],
    "addedAt": "2026-11-22T07:28:42+08:00"
+  },
+  {
+   "id": "2026-11-21-fin-ny-kalshi-tro-hearing-set",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國紐約州",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-21",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "紐約州法院排定 11 月 23 日審理州檢察長對 Kalshi 之暫時限制令聲請，Kalshi 主張命令將使其交易所全美停業",
+   "shortTitle": "紐約州法院將審 Kalshi 限制令",
+   "point": "11 月 23 日聽審，Kalshi 稱將迫全美停業，州檢方稱不及合法期貨與交換",
+   "titleOriginal": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+   "caseRef": "",
+   "tldr": "紐約州檢察長控告 Kalshi 經營非法賭博的案件回到州法院後，法官預定 11 月 23 日開庭審理州政府的暫時限制令聲請。Kalshi 說它總部在紐約，命令一下等於全美客戶都不能交易；州政府則說只要停掉賭博性質的合約，不影響合法期貨。",
+   "memo": "依 The Block 2026 年 11 月 21 日報導，紐約州檢察長 Letitia James 對 KalshiEX 提起之非法賭博訴訟經聯邦法院發回後，由紐約郡州最高法院 Melissa Crane 法官審理，並排定 2026 年 11 月 23 日就暫時限制令聲請舉行聽審。州檢方請求禁止 Kalshi 於紐約州境內、自紐約州或對紐約州居民經營未經許可之運動、文化、選舉等事件合約，並禁止未滿 21 歲者交易及於大學校園廣告。Kalshi 主張其總部位於紐約，限制令將使其對全美客戶停止營運、強制平倉，且與 CFTC 同年 8 月 11 日要求其持續營運之緊急命令衝突；州檢方則稱不影響合法期貨及交換交易。",
+   "context": "紐約州檢察長與州長於 2026 年 7 月在州法院起訴 Kalshi，指其經營非法賭博；Kalshi 將案件移轉至聯邦法院，依報導聯邦法院本週將案件發回州法院，州檢方隨即聲請暫時限制令（見相關則）。\nCFTC 主張其對指定契約市場上市之事件合約有專屬管轄，曾於 8 月 11 日發布緊急命令要求 Kalshi 持續營運，並於聯邦法院尋求緊急救濟。",
+   "facts": [
+    "依 The Block 報導，紐約郡州最高法院 Melissa Crane 法官排定 11 月 23 日（週一）就暫時限制令聲請聽審；報導引律師 Daniel Wallach 稱時間為美東時間上午 11 時 30 分。",
+    "州檢方請求禁止 Kalshi 在紐約州、自紐約州或對紐約州居民經營未經許可之運動、文化、選舉及「其他事件」合約，並禁止未滿 21 歲者交易、禁止於大學校園廣告。",
+    "Kalshi 律師（Milbank 事務所 Sean Murphy）主張，因 Kalshi 總部位於紐約，命令將使一個受聯邦監理之交易所對所有地區之所有客戶停業，並可能須清算全部未平倉部位。",
+    "Kalshi 另主張該命令與 CFTC 8 月 11 日要求其持續營運之緊急命令衝突。",
+    "州檢方回應稱並未請求使交易所全面停業，命令不會停止合法期貨或交換交易，並援引 Colleen McMahon 法官 11 月 10 日之裁定，請法院不予 CFTC 命令任何份量。",
+    "依報導，聯邦法官 Lorna Schofield 於 11 月 20 日當庭駁回 CFTC 再次提出之緊急聲請；Jed Rakoff 法官曾於 7 月 31 日駁回 CFTC 首次聲請；Vernon Broderick 法官駁回 Kalshi 之移轉主張，案件於 11 月 19 日回到 Crane 法官。"
+   ],
+   "issues": [
+    "州法院對總部設於該州之 CFTC 註冊交易所核發限制令，是否實質上產生全國性停業效果？",
+    "CFTC 要求業者持續營運之緊急命令，對州法院依州博弈法核發之臨時救濟有無拘束力或優先效力？",
+    "運動、選舉等事件合約與「合法期貨或交換」之界線如何劃分？"
+   ],
+   "holding": "・州檢方聲請：禁止 Kalshi 於、自或對紐約州經營未經許可之事件合約業務，並禁止未滿 21 歲者交易及校園廣告。\n・Kalshi 主張：限制令將使全美客戶無法交易並須清算部位，且與 CFTC 緊急命令衝突。\n・州檢方回應：不請求全面停業，合法期貨與交換不受影響；CFTC 命令不應獲重視。\n・程序：Crane 法官排定 11 月 23 日聽審；尚未作成裁定。",
+   "significance": "本案為州政府首次可能對總部設於該州之預測市場交易所取得具全國影響之臨時限制，聽審結果將牽動 CFTC 專屬管轄主張與各州訴訟之走向。觀察 11 月 23 日聽審後是否核發限制令及其範圍、Kalshi 是否上訴或再尋求聯邦救濟，以及 CFTC 之回應。",
+   "editorNote": "本網頁助理 註：本則依 The Block 報導，聽審時間係報導轉引律師說法；本網頁助理未取得法院文件，報導未載案號，故事件日期留空。前則報導所稱發回之聯邦法官姓名，本則報導指為 Vernon Broderick 法官。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "Kalshi",
+    "紐約州",
+    "暫時限制令",
+    "CFTC",
+    "美國"
+   ],
+   "related": [
+    "2026-11-20-fin-sdny-remands-ny-v-kalshi"
+   ],
+   "sources": [
+    {
+     "label": "紐約州檢察長起訴 Kalshi 新聞稿（2026 年 7 月）",
+     "url": "https://ag.ny.gov/press-release/2026/governor-hochul-and-attorney-general-james-announce-new-york-has-sued-kalshi",
+     "official": true
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-22T23:28:41+08:00"
   }
  ],
  "agenda": [
@@ -11809,6 +11872,16 @@
    "url": "",
    "relatedId": "2026-11-19-fin-digital-euro-seventh-trilogue-no-deal",
    "caseId": "eurosystem-digital-euro-tokenisation"
+  },
+  {
+   "id": "2026-11-23-us-ny-kalshi-tro-hearing",
+   "date": "2026-11-23",
+   "court": "US",
+   "title": "紐約州訴 Kalshi 案：州法院就暫時限制令聲請聽審",
+   "note": "紐約郡州最高法院 Melissa Crane 法官；依報導為美東時間上午 11:30，可能變動",
+   "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+   "relatedId": "2026-11-21-fin-ny-kalshi-tro-hearing-set",
+   "caseId": "us-prediction-markets-preemption"
   }
  ],
  "cases": [
@@ -11953,7 +12026,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "參議院 11 月 19 日通過 DEATH BETS Act（S. 4035）禁止戰爭、死亡類事件合約，待眾院審議；眾議員 11 月 20 日另提預測市場內線交易吹哨者法案；紐約州訴 Kalshi 案依報導發回州法院，州檢方 11 月 20 日聲請暫時限制令；第四巡迴 11 月 17 日維持駁回 Kalshi 對馬里蘭州之禁制令，路易斯安那州法院 11 月 30 日審初步禁制令。"
+   "status": "紐約州訴 Kalshi 案發回州法院後，州法院排定 11 月 23 日就州檢方暫時限制令聲請聽審，Kalshi 主張將致全美停業；參議院 11 月 19 日通過 DEATH BETS Act（S. 4035）待眾院審議；第四巡迴 11 月 17 日維持駁回 Kalshi 對馬里蘭州之禁制令，路易斯安那州法院 11 月 30 日審初步禁制令。"
   },
   {
    "id": "kr-tokenised-securities",
