@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-23T06:56:58+08:00",
-  "lastRunLocal": "2026-11-23 06:56",
+  "lastRun": "2026-11-23T22:59:04+08:00",
+  "lastRunLocal": "2026-11-23 22:59",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "本次未發現新動態（部分官方網站與部落格無法直接讀取，改以搜尋檢查）"
+  "lastRunNote": "新增 1 則：其他 1（塔吉克退出國際刑事法院）；部分官方網站與部落格無法直接讀取，改以搜尋檢查"
  },
  "items": [
   {
@@ -8646,7 +8646,8 @@
    ],
    "addedAt": "2026-11-19T23:06:30+08:00",
    "related": [
-    "2026-11-19-other-eu-un-support-icc-shenzhen"
+    "2026-11-19-other-eu-un-support-icc-shenzhen",
+    "2026-11-23-other-tajikistan-icc-withdrawal"
    ]
   },
   {
@@ -9314,6 +9315,89 @@
     "2026-11-21-ejil-gambia-myanmar-intent-change-part2",
     "2026-11-17-oj-beyond-only-intent"
    ]
+  },
+  {
+   "id": "2026-11-23-other-tajikistan-icc-withdrawal",
+   "court": "OTHER",
+   "kind": "機構動態",
+   "caseId": "us-sanctions-icc",
+   "date": "2026-11-23",
+   "eventDate": "",
+   "importance": 2,
+   "title": "塔吉克通知聯合國秘書長退出《羅馬規約》，據報將於 2027 年 11 月 20 日生效",
+   "shortTitle": "塔吉克通知退出國際刑事法院",
+   "point": "外交部稱法院已政治化，路透社稱為美國施壓以來第四個退出的締約國",
+   "titleOriginal": "Tajikistan notifies the UN Secretary-General of its withdrawal from the Rome Statute of the International Criminal Court",
+   "caseRef": "",
+   "tldr": "中亞國家塔吉克正式通知聯合國，表示要退出國際刑事法院的《羅馬規約》，依規約要等一年後才生效。塔吉克外交部以法院「政治化」為理由；路透社指出，這是美國對法院施壓以來第四個宣布退出的國家。",
+   "memo": "據媒體報導，塔吉克已依《羅馬規約》第 127 條向聯合國秘書長遞交退出通知，退出將於 2027 年 11 月 20 日生效；塔吉克外交部以國際刑事法院政治化為由。國際刑事法院院長會議前於 2026 年 5 月 7 日將塔吉克不履行合作義務一事移交締約國大會。依第 127 條第 2 項，退出不影響塔吉克於締約國期間所生之合作義務及已開始之調查與程序。",
+   "context": "《羅馬規約》第 127 條規定，締約國得以書面通知聯合國秘書長退出，退出於秘書長收到通知之日起一年後生效；退出不免除該國在締約國期間依規約所生的義務，也不影響退出生效前已開始的調查、程序及合作。\n國際刑事法院院長會議於 2026 年 5 月 7 日發布新聞稿，宣布將塔吉克未履行合作義務一事移交締約國大會。2026 年 9 月起即有報導指出塔吉克考慮退出。\n美國自 2025 年起陸續制裁國際刑事法院官員，2026 年 10 月 9 日擴及法院整體；締約國大會第 25 屆會議將於 2026 年 11 月 30 日開幕。",
+   "facts": [
+    "2026 年 9 月，有報導指出塔吉克正考慮退出國際刑事法院。",
+    "2026 年 11 月 23 日，多家媒體報導塔吉克已正式通知聯合國其退出《羅馬規約》的決定；有報導指出退出將於 2027 年 11 月 20 日生效。",
+    "俄羅斯《消息報》報導，塔吉克外交部以國際刑事法院政治化解釋退出理由。",
+    "路透社報導稱，塔吉克是美國對國際刑事法院展開外交施壓以來，第四個退出法院的國家。"
+   ],
+   "issues": [
+    "締約國退出《羅馬規約》的程序與效力（第 127 條）。",
+    "退出對塔吉克在締約國期間所生合作義務及締約國大會不合作程序的影響（第 87 條第 7 項、第 127 條第 2 項）。"
+   ],
+   "holding": "本則為國家退出條約的動態，非司法裁判。截至本則撰寫時，未見國際刑事法院或締約國大會就塔吉克退出發表正式回應。",
+   "significance": "塔吉克退出使近年退出國際刑事法院的國家再增一國，並發生在締約國大會開會前一週，預料將成為大會討論美國制裁與法院普遍性的背景之一。退出於一年後才生效，塔吉克在此之前仍為締約國，院長會議先前移交的不合作事項仍待締約國大會處理。",
+   "editorNote": "本網頁助理 註：本則因無法直接讀取報導全文與聯合國條約處的保存通知，僅依 Reuters（經 US News 轉載）、TASS、Trend、《消息報》、Sowetan 等報導的標題與摘要撰寫；退出通知的遞交日期與保存通知編號均未能核對。生效日 2027 年 11 月 20 日僅見於 Trend 報導，依第 127 條推算，通知應於 2026 年 11 月 20 日送達，惟此為本網頁助理推論。另有報導標題稱塔吉克表示係於普丁到訪當日退出，確切所指未能核實。\n以下為本網頁助理補充，非來源內容：院長會議 5 月 7 日的不合作移交，一般認為與普丁 2025 年 10 月赴杜尚別出席獨立國協峰會而未遭逮捕有關；普丁自 2023 年 3 月起受國際刑事法院逮捕令追訴。",
+   "tags": [
+    "國際刑事法院",
+    "退出羅馬規約",
+    "羅馬規約",
+    "第127條",
+    "不合作",
+    "締約國大會",
+    "塔吉克",
+    "俄羅斯",
+    "普丁",
+    "美國"
+   ],
+   "sources": [
+    {
+     "label": "國際刑事法院新聞稿：院長會議將塔吉克不合作移交締約國大會（2026 年 5 月 7 日）",
+     "url": "https://www.icc-cpi.int/news/referral-presidency-international-criminal-court-tajikistans-non-compliance-assembly-states?lang=Spanish",
+     "official": true
+    },
+    {
+     "label": "Reuters 報導（US News 轉載）",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-23/tajikistan-becomes-fourth-country-to-withdraw-from-icc-since-us-diplomatic-push",
+     "official": false
+    },
+    {
+     "label": "TASS 報導",
+     "url": "https://tass.com/world/2223359",
+     "official": false
+    },
+    {
+     "label": "Trend 報導（生效日期）",
+     "url": "https://www.trend.az/casia/tajikistan/4249830.html",
+     "official": false
+    },
+    {
+     "label": "《消息報》報導（外交部說明理由）",
+     "url": "https://iz.ru/en/node/2180389",
+     "official": false
+    },
+    {
+     "label": "Sowetan 報導",
+     "url": "https://www.sowetan.co.za/news/world/2026-11-23-tajikistan-becomes-latest-country-to-exit-from-international-criminal-court/",
+     "official": false
+    },
+    {
+     "label": "The Diplomat 報導（2026 年 9 月）",
+     "url": "https://thediplomat.com/2026/09/tajikistan-eyes-icc-exit",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-23T22:59:04+08:00",
+   "related": [
+    "2026-11-19-other-shenzhen-declaration-icc"
+   ]
   }
  ],
  "agenda": [
@@ -9691,7 +9775,7 @@
    "nameOriginal": "U.S. sanctions against the International Criminal Court",
    "caseRef": "",
    "summary": "美國陸續制裁 ICC 官員，2026 年 10 月 9 日擴及法院整體；美國法院訴訟、歐盟保護措施與各國表態同步進行。",
-   "status": "美國國務卿魯比歐 11 月 13 日演講再度抨擊法院並為制裁辯護；歐盟《阻斷法規》仍未啟動，締約國大會將於 11 月 30 日開幕。"
+   "status": "塔吉克 11 月 23 日據報已通知聯合國退出《羅馬規約》（路透社稱為美國施壓以來第四國）；歐盟《阻斷法規》仍未啟動，締約國大會將於 11 月 30 日開幕。"
   },
   {
    "id": "icc-governance",
