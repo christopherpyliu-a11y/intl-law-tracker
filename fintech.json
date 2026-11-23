@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-23T07:23:18+08:00",
-  "lastRunLocal": "2026-11-23 07:23",
+  "lastRun": "2026-11-23T23:33:17+08:00",
+  "lastRunLocal": "2026-11-23 23:33",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "本次未發現新動態"
+  "lastRunNote": "新增 4 則：新加坡 3（監理指引 1、政策動態 2）、歐盟 1（政策動態 1）"
  },
  "items": [
   {
@@ -6288,7 +6288,8 @@
     "新加坡"
    ],
    "related": [
-    "2026-11-02-fin-hkma-project-sage-agentic-ai"
+    "2026-11-02-fin-hkma-project-sage-agentic-ai",
+    "2026-11-18-fin-mas-ffi-national-ai-missions"
    ],
    "sources": [
     {
@@ -10124,7 +10125,8 @@
     "新加坡"
    ],
    "related": [
-    "2026-11-16-fin-mas-bundesbank-project-simbolon"
+    "2026-11-16-fin-mas-bundesbank-project-simbolon",
+    "2026-11-19-fin-mas-sff-keynote-kya-stablecoin-regime"
    ],
    "sources": [
     {
@@ -11300,6 +11302,288 @@
     }
    ],
    "addedAt": "2026-11-22T23:28:41+08:00"
+  },
+  {
+   "id": "2026-11-23-fin-ecb-dlt-pilot-regime-collateral",
+   "court": "ECB",
+   "kind": "政策動態",
+   "caseId": "eurosystem-digital-euro-tokenisation",
+   "jurisdiction": "歐盟",
+   "outlet": "歐洲中央銀行（ECB）",
+   "outletCode": "ECB",
+   "date": "2026-11-23",
+   "eventDate": "2026-11-23",
+   "importance": 2,
+   "author": "",
+   "title": "歐洲央行理事會核准將 DLT 試行機制平台發行之資產納入歐元體系合格擔保品，預定 2027 年 6 月實施",
+   "shortTitle": "歐洲央行接受 DLT 試行機制資產作擔保品",
+   "point": "預定 2027 年 6 月實施，須經 CSD 合格連結並以 T2S 交割，細節 2027 年春公布",
+   "titleOriginal": "ECB Approves Expansion of Eurosystem Collateral Eligibility to DLT-Issued Assets",
+   "caseRef": "",
+   "tldr": "銀行向歐洲央行借錢時要提供擔保品。歐洲央行決定，未來在歐盟「DLT 試行機制」核准的區塊鏈平台上發行的證券，只要符合既有標準並透過傳統證券集中保管機構連結交割，也可以當擔保品，預計 2027 年 6 月開始。完全在鏈上發行與交割的資產則仍在研究。",
+   "memo": "歐洲中央銀行理事會於 2026 年 11 月 23 日核准擴大歐元體系擔保品架構，將依歐盟 DLT 試行機制規則（Regulation (EU) 2022/858）取得許可之分散式帳本平台所發行、符合既有合格標準之可交易資產，納入歐元體系授信操作之合格擔保品，預定 2027 年 6 月實施。該等資產須經由與營運合格證券交割系統之中央證券集中保管機構之合格連結提供予歐元體系，該系統須遵循《中央證券集中保管機構規則》（CSDR）並經 TARGET2-Securities 交割；平台另須符合交割終局性指定及關鍵功能委外等額外要求，細節預計於 2027 年春季公布。完全於分散式帳本發行及交割之資產，仍在研議中。",
+   "context": "歐洲央行於 2026 年 1 月 27 日已宣布，接受由使用 DLT 服務之中央證券集中保管機構（CSD）所發行之可交易資產作為擔保品，自 2026 年 3 月 30 日起實施。\n歐元體系同時推動 Pontes（以央行貨幣結算 DLT 交易之短期方案，2026 年 9 月上線）及 Appia（長期代幣化金融基礎設施藍圖）。歐盟 DLT 試行機制規則（DLT Pilot Regime）自 2023 年 3 月適用，允許經許可之 DLT 多邊交易設施與交割系統試行。",
+   "facts": [
+    "決定日期：2026 年 11 月 23 日（歐洲央行理事會）。",
+    "適用對象：於依歐盟 DLT 試行機制規則取得許可之平台發行、符合歐元體系一般合格標準之可交易資產。",
+    "提供方式：須經由與營運合格證券交割系統之 CSD 之合格連結，該系統須遵循 CSDR 並透過 TARGET2-Securities（T2S）交割。",
+    "平台另須符合歐元體系額外要求，包括交割終局性指定及關鍵功能委外之要求。",
+    "實施時程：預定 2027 年 6 月；詳細要求預計 2027 年春季公布。",
+    "完全於 DLT 網路發行並交割之資產（原生鏈上形式）之合格性與動用安排，仍在研議。",
+    "執行委員 Isabel Schnabel 表示支持創新但不降低標準；Piero Cipollone 表示 Pontes 與 Appia 正推動歐洲代幣化金融願景落實。"
+   ],
+   "issues": [
+    "DLT 試行機制平台取得許可，是否足以確保擔保品之法律確定性與交割終局性？",
+    "以 CSD 連結及 T2S 交割為前提，是否實質上限制原生鏈上資產之利用？",
+    "DLT 試行機制規則之檢討（含 MISP 套案）如何影響合格平台範圍？"
+   ],
+   "holding": "・擴大歐元體系擔保品架構：DLT 試行機制平台發行之合格可交易資產，得用於歐元體系授信操作。\n・條件：符合既有擔保品合格標準；經合格 CSD 連結提供；交割系統遵循 CSDR 並經 T2S 交割。\n・額外要求：DLT 平台須取得試行機制許可，並符合交割終局性指定與關鍵功能委外等要求；取得許可本身不當然使資產合格。\n・時程：2027 年春季公布細節，2027 年 6 月實施。\n・原生鏈上發行及交割資產：持續研議。",
+   "significance": "此為歐元體系繼 2026 年 1 月接受 CSD 之 DLT 服務資產後，再將合格擔保品擴及 DLT 試行機制平台，使代幣化債券可取得央行流動性，對歐洲代幣化債券市場具實質誘因。後續應注意 2027 年春季公布之細部要求、原生鏈上資產之研議結果，以及 MISP 套案對 DLT 試行機制之修正。",
+   "editorNote": "本網頁助理 註：歐洲央行新聞稿頁面無法直接開啟，內容依 EuropaWire 轉載之新聞稿全文及 Finadium、crypto.news 報導整理，各來源就決定內容、2027 年 6 月實施及 2027 年春季公布細節之記載一致。",
+   "tags": [
+    "代幣化",
+    "擔保品",
+    "DLT 試行機制",
+    "Appia",
+    "Pontes",
+    "歐洲央行",
+    "ECB",
+    "歐盟"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ECB 新聞稿",
+     "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+     "official": true
+    },
+    {
+     "label": "ECB 2026 年 1 月 27 日新聞稿（DLT 服務資產合格）",
+     "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260127_1~a946167ce1.en.html",
+     "official": true
+    },
+    {
+     "label": "EuropaWire 轉載新聞稿全文",
+     "url": "https://news.europawire.eu/ecb-approves-expansion-of-eurosystem-collateral-eligibility-to-dlt-issued-assets/eu-press-release/2026/11/23/13/17/05/189215/",
+     "official": false
+    },
+    {
+     "label": "Finadium 分析",
+     "url": "https://finadium.com/dlt-based-assets-are-eligible-eurosystem-collateral-says-ecb/",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/ecb-tokenized-securities-collateral-june-2027/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-23T23:33:17+08:00"
+  },
+  {
+   "id": "2026-11-18-fin-mas-deposit-tokenisation-guide",
+   "court": "MAS",
+   "kind": "監理指引",
+   "caseId": "",
+   "jurisdiction": "新加坡",
+   "outlet": "新加坡金融管理局（MAS）",
+   "outletCode": "MAS",
+   "date": "2026-11-18",
+   "eventDate": "2026-11-18",
+   "importance": 2,
+   "author": "",
+   "title": "新加坡金管局發布銀行存款代幣化指引，以帳戶屬性判斷代幣是否構成存款",
+   "shortTitle": "新加坡金管局發布存款代幣化指引",
+   "point": "代幣須維持帳戶關係、移轉須經銀行同意始屬存款，不得以無記名形式代幣化",
+   "titleOriginal": "Guide on the Tokenisation of Bank Deposits",
+   "caseRef": "",
+   "tldr": "新加坡金管局說明銀行把存款「代幣化」時，什麼情況下仍算法律上的存款：關鍵是存款人和銀行之間仍要有帳戶關係、銀行知道欠誰多少錢、轉讓要經銀行同意。若不符合，不能叫做「存款」，銀行也要清楚揭露代幣化存款與一般存款的差異與風險。",
+   "memo": "新加坡金融管理局於 2026 年 11 月 18 日發布《銀行存款代幣化指引》（Guide on the Tokenisation of Bank Deposits），說明代幣化安排是否構成 1970 年《銀行法》及存款定義指引所稱存款，採技術中立、實質判斷原則，並以帳戶屬性為核心：返還請求權應源自帳戶條款而非僅持有代幣、銀行須維持持續帳戶關係並能辨識存款人及所欠金額、存款人間移轉須經銀行逐筆或事前同意；無記名工具原則上不屬代幣化存款。銀行不得將不符要件之產品稱為存款，並應揭露法律權利、存款保險、移轉終局性、紀錄效力及技術故障影響等重大風險；如以分散式帳本為權威紀錄，應建立對帳及更正程序。本指引不具取代法規之效力，有疑義時應及早洽詢該局。",
+   "context": "MAS 推動以代幣化存款、受監理穩定幣及批發型 CBDC 為核心之數位貨幣架構，並透過 BLOOM 計畫推動代幣化銀行負債與穩定幣之跨境結算。\n新加坡《銀行法》及 MAS 存款定義指引決定何者屬存款，影響銀行之監理及存款保險適用。",
+   "facts": [
+    "發布日期：2026 年 11 月 18 日。",
+    "性質：一般參考性指引，不取代任何法規，亦不構成 MAS 對特定產品法律定性之核准。",
+    "判斷基礎：1970 年《銀行法》之「存款」及「存款負債」定義與 MAS 存款定義指引；技術中立，依實質判斷。",
+    "帳戶屬性三要件：返還權源自帳戶條款；銀行維持持續帳戶關係並能辨識存款人及金額；存款人間移轉須經銀行同意（逐筆或事前）。",
+    "無記名工具原則上不屬代幣化存款；跨行移轉須另有銀行間結算安排。",
+    "附錄列四例：代幣化表彰、原生帳戶型存款、預先同意之移轉可能屬代幣化存款；內部作業代幣則否。",
+    "MAS 將不定期檢討更新本指引。"
+   ],
+   "issues": [
+    "代幣於二級市場流通時，「移轉須經銀行同意」之要件如何以智慧合約事前同意方式滿足？",
+    "分散式帳本為權威紀錄時，與銀行內部帳簿不一致之效力與更正機制？",
+    "不符存款要件之代幣化負債，是否轉而適用穩定幣或支付服務規範？"
+   ],
+   "holding": "・存款判斷：以實質及帳戶屬性為準，不因技術或名稱而異。\n・名稱限制：不符要件者不得於要約或廣告中稱為「存款」，無把握時應避免使用「代幣化存款」並及早洽詢 MAS。\n・揭露：法律權利與存款保險、移轉條件、終局性與錯誤交易、何者紀錄優先、技術故障影響及費用。\n・分散式帳本紀錄：應考量對帳、更正程序及帳本無法使用時之權利保全。",
+   "significance": "新加坡首度就代幣化存款之法律定性提供系統性監理說明，與 MAS 即將推出之穩定幣監理制度互補，劃分銀行存款代幣與穩定幣之界線，可供其他法域（包括台灣存款代幣研議）參考。後續應注意 MAS 穩定幣立法進度及本指引之更新。",
+   "editorNote": "本網頁助理 註：本則依 MAS 指引 PDF 整理；未見 MAS 就本指引另發新聞稿，MAS 局長 11 月 19 日金融科技節演講亦提及已發布此指引。",
+   "tags": [
+    "代幣化存款",
+    "存款代幣",
+    "代幣化",
+    "數位貨幣",
+    "MAS",
+    "新加坡金管局",
+    "新加坡"
+   ],
+   "related": [
+    "2026-11-19-fin-mas-sff-keynote-kya-stablecoin-regime"
+   ],
+   "sources": [
+    {
+     "label": "MAS 銀行存款代幣化指引全文（PDF）",
+     "url": "https://www.mas.gov.sg/-/media/mas-media-library/regulation/guidelines/ppd/guide-on-the-tokenisation-of-bank-deposits/guide-on-the-tokenisation-of-bank-deposits_18-nov-2026vf.pdf",
+     "official": true
+    },
+    {
+     "label": "MAS 局長金融科技節演講",
+     "url": "https://www.mas.gov.sg/news/speeches/2026/keynote-address-by-md-at-the-singapore-fintech-festival-2026",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-23T23:33:17+08:00"
+  },
+  {
+   "id": "2026-11-19-fin-mas-sff-keynote-kya-stablecoin-regime",
+   "court": "MAS",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "新加坡",
+   "outlet": "新加坡金融管理局（MAS）",
+   "outletCode": "MAS",
+   "date": "2026-11-19",
+   "eventDate": "2026-11-19",
+   "importance": 2,
+   "author": "",
+   "title": "新加坡金管局局長於金融科技節宣布推動 AI 代理「認識你的代理」協定、穩定幣監理制度及代幣化擔保品框架",
+   "shortTitle": "新加坡金管局推「認識你的代理」協定",
+   "point": "SAFR 第二階段發展 KYA 協定，並宣示引入穩定幣監理制度、發布代幣化擔保品框架",
+   "titleOriginal": "Advancing the Future of Finance: From Foundation to Scale – Keynote Address by Mr Chia Der Jiun, Managing Director, MAS, at the Singapore FinTech Festival 2026",
+   "caseRef": "",
+   "tldr": "新加坡金管局局長在年度金融科技節演講，說明下一步政策：要為會替人付款、交易的 AI 代理建立「認識你的代理」身分驗證協定，提醒不要把金融帳號密碼交給 AI 代理；同時宣示將推出穩定幣監理制度，並公布業界共同制定的代幣化擔保品框架。",
+   "memo": "新加坡金融管理局局長 Chia Der Jiun 於 2026 年 11 月 19 日新加坡金融科技節主題演講宣布：該局已發布銀行存款代幣化指引，並將引入穩定幣監理制度、更新資本市場商品代幣化指引；Project Guardian 業界工作小組同日發布「代幣化擔保品框架」，就合格性、保管、評價、返還及執行等擔保品生命週期作業提出共通要求；新加坡元測試網路更名為 SG Digital Ledger。AI 代理方面，SAFR（Safeguards for Agentic Finance at Runtime）第二階段將促成「認識你的代理」（know your agent）協定，以利可信資訊交換，並表示不應將金融帳戶登入憑證交予 AI 代理。演講未載明穩定幣立法時程或諮詢期限。",
+   "context": "MAS 於 2026 年稍早發布 SAFR 第一階段成果，提出代理自主範圍、代理身分與授權、具體委任及比例控管等原則。\nMAS 長期透過 Project Guardian 推動資產代幣化，並以 BLOOM 推動代幣化銀行負債與穩定幣之結算；香港金管局亦於 2026 年 11 月就代理型 AI 監理徵詢意見並探詢「認識你的代理」標準。",
+   "facts": [
+    "演講日期：2026 年 11 月 19 日（新加坡金融科技節第二日）。",
+    "代幣化資產：資本市場商品代幣化指引正在更新；經新加坡法律學會就私法議題與業界溝通；11 月以新加坡元 CBDC 交割發行 1 億新元代幣化 MAS Bills。",
+    "Project Guardian 代幣化擔保品框架同日發布，涵蓋擔保品合格性、保管、評價、返還及執行之作業要求。",
+    "數位貨幣：已發布存款代幣化指引；「正引入穩定幣監理制度」，未載明法案或時程；BLOOM 平台有 24 個業界成員及政策制定者，同日發布 BLOOM 實務指南。",
+    "新加坡元測試網路更名為 SG Digital Ledger，採用依市場需求推動。",
+    "AI 代理：SAFR 第二階段將促成「認識你的代理」協定；另與金融未來研究院推出 Agentic Money Sandbox。",
+    "演講指出不應將金融帳戶登入憑證交予 AI 代理。"
+   ],
+   "issues": [
+    "「認識你的代理」協定之法律效力：屬業界標準或將納入監理要求？",
+    "AI 代理代為交易時，客戶授權範圍與錯誤交易責任如何分配？",
+    "新加坡穩定幣監理制度將如何修正 2023 年穩定幣監理架構並與存款代幣區隔？"
+   ],
+   "holding": "・代幣化資產：更新資本市場商品代幣化指引；發布 Guardian 代幣化擔保品框架。\n・數位貨幣：存款代幣化指引已發布；將引入穩定幣監理制度；BLOOM 實務指南發布。\n・結算：SG Digital Ledger 作為跨機構、代幣化資產及數位貨幣之共用結算設施。\n・AI 代理：SAFR 第二階段發展「認識你的代理」協定；不應將登入憑證交予 AI 代理；推動 Agentic Money Sandbox。",
+   "significance": "新加坡將 AI 代理身分驗證與代幣化金融並列為下一階段重點，「認識你的代理」可能成為跨境 AI 代理支付之共通標準；穩定幣監理制度之立法時程值得追蹤。",
+   "editorNote": "本網頁助理 註：本則依 MAS 演講全文整理；Guardian 代幣化擔保品框架 PDF 未能逐頁閱讀，內容依 MAS 出版頁面摘要。",
+   "tags": [
+    "人工智慧",
+    "AI 代理",
+    "認識你的代理",
+    "代幣化",
+    "擔保品",
+    "穩定幣",
+    "Project Guardian",
+    "BLOOM",
+    "MAS",
+    "新加坡金管局",
+    "新加坡"
+   ],
+   "related": [
+    "2026-11-18-fin-mas-deposit-tokenisation-guide",
+    "2026-11-18-fin-mas-ffi-national-ai-missions",
+    "2026-11-19-fin-mas-tokenised-mas-bills-wcbdc"
+   ],
+   "sources": [
+    {
+     "label": "MAS 局長金融科技節演講全文",
+     "url": "https://www.mas.gov.sg/news/speeches/2026/keynote-address-by-md-at-the-singapore-fintech-festival-2026",
+     "official": true
+    },
+    {
+     "label": "MAS Guardian 代幣化擔保品框架頁面",
+     "url": "https://www.mas.gov.sg/publications/monographs-or-information-paper/2026/guardian-tokenised-collateral-framework",
+     "official": true
+    },
+    {
+     "label": "Guardian 代幣化擔保品框架報告（PDF）",
+     "url": "https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/guardian/guardian-tokenised-collateral-framework---market-landscape-and-implementation-considerations.pdf",
+     "official": true
+    },
+    {
+     "label": "The Edge Singapore 報導",
+     "url": "https://www.theedgesingapore.com/news/singapore-fintech-festival-2026/mas-sff-2026-advancing-tokenisation-ai-agents-and-future",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-23T23:33:17+08:00"
+  },
+  {
+   "id": "2026-11-18-fin-mas-ffi-national-ai-missions",
+   "court": "MAS",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "新加坡",
+   "outlet": "新加坡金融管理局（MAS）",
+   "outletCode": "MAS",
+   "date": "2026-11-18",
+   "eventDate": "2026-11-18",
+   "importance": 1,
+   "author": "",
+   "title": "新加坡金管局與金融未來研究院推出 AI Innovation Arena 及 Agentic Money Sandbox，支援金融業三大國家 AI 任務",
+   "shortTitle": "新加坡推 AI 代理數位貨幣沙盒",
+   "point": "Agentic Money Sandbox 測試 AI 代理以數位貨幣付款及資金管理，另以合成資料打擊金融犯罪",
+   "titleOriginal": "MAS and Future of Finance Institute Set Out Initiatives in Support of National AI Missions for Financial Services",
+   "caseRef": "",
+   "tldr": "新加坡副總理兼金管局主席宣布金融業三大 AI 任務：防制金融犯罪、中小企業融資、安全的 AI 代理交易。金管局與新成立的金融未來研究院推出兩個工具：用五家銀行資料做成的合成資料庫供開發防詐 AI，以及讓 AI 代理在設限條件下用數位貨幣付款的沙盒。",
+   "memo": "新加坡金融管理局與金融未來研究院（Future of Finance Institute）於 2026 年 11 月 18 日宣布支援金融業三大國家 AI 任務（防制金融犯罪、中小企業融資及安全之代理型交易）之措施：設立 AI Innovation Arena，以彙整五家銀行銀行間交易及詐騙模式之合成資料供 AI 開發與測試，首項任務為防制金融犯罪；由研究院營運 Agentic Money Sandbox，於受控環境測試 AI 代理在既定授權、限額及防護措施內以數位貨幣交易，初期用途為代理發動之付款及資金管理。本案屬政策宣布，未訂定具拘束力之要求或期限。",
+   "context": "金融未來研究院由 MAS 於 2026 年 11 月成立，首要領域為 AI。\nMAS 另以 SAFR 計畫研議代理型金融之防護原則，並於同週宣布發展「認識你的代理」協定。",
+   "facts": [
+    "宣布日期：2026 年 11 月 18 日，由副總理兼 MAS 主席顏金勇於金融科技節部長主題演講宣布。",
+    "三大國家 AI 任務：防制金融犯罪、中小企業融資、安全之代理型交易。",
+    "AI Innovation Arena：提供 AI 開發與測試用合成資料，資料反映五家銀行之銀行間交易模式及詐騙活動，與 GovTech 合作建置，並開放意向申請。",
+    "Agentic Money Sandbox：由金融未來研究院營運，測試 AI 代理在授權、限額及防護措施內以數位貨幣交易；初期用例為代理發動付款及資金管理。",
+    "另與 A*STAR 合作開發新加坡式英語及混合語言語音轉文字模型，進入即時法遵監控等試行。",
+    "研究院創始夥伴：星展、華僑、渣打及大華銀行。"
+   ],
+   "issues": [
+    "AI 代理以代幣化存款或穩定幣付款時，授權與錯誤交易之法律責任如何配置？",
+    "以合成資料訓練防詐模型，是否足以兼顧個資保護與模型有效性？"
+   ],
+   "holding": "・設 AI Innovation Arena：以銀行聯合合成資料支援防詐 AI 開發。\n・設 Agentic Money Sandbox：在授權、限額與防護措施下測試 AI 代理之數位貨幣交易。\n・推動語音 AI 模型試行及 AI 人才培育。",
+   "significance": "新加坡以沙盒方式先行測試 AI 代理支付，與 SAFR 及「認識你的代理」協定構成代理型金融之監理前置作業，值得關注沙盒測試結果是否轉化為監理指引。",
+   "editorNote": "",
+   "tags": [
+    "人工智慧",
+    "AI 代理",
+    "監理沙盒",
+    "數位貨幣",
+    "洗錢防制",
+    "MAS",
+    "新加坡金管局",
+    "新加坡"
+   ],
+   "related": [
+    "2026-11-19-fin-mas-sff-keynote-kya-stablecoin-regime",
+    "2026-11-03-fin-mas-future-of-finance-institute-ai"
+   ],
+   "sources": [
+    {
+     "label": "MAS 新聞稿",
+     "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-and-future-of-finance-institute-set-out-initiatives-in-support-of-national-ai-missions",
+     "official": true
+    },
+    {
+     "label": "What The FinTech #193 整理",
+     "url": "https://whatthefintech.substack.com/p/what-the-fintech-193-23-nov-2026",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-23T23:33:17+08:00"
   }
  ],
  "agenda": [
@@ -11882,6 +12166,26 @@
    "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
    "relatedId": "2026-11-21-fin-ny-kalshi-tro-hearing-set",
    "caseId": "us-prediction-markets-preemption"
+  },
+  {
+   "id": "2026-11-24-kr-daba-government-draft",
+   "date": "2026-11-24",
+   "court": "KR",
+   "title": "南韓金融委員會虛擬資產委員會討論《數位資產基本法》政府版草案",
+   "note": "依報導為韓國時間下午 3 時；草案公布時點可能變動",
+   "url": "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881",
+   "relatedId": "2026-11-17-fin-korea-fsc-daba-submission-next-week",
+   "caseId": "kr-digital-asset-basic-act"
+  },
+  {
+   "id": "tbd-ecb-dlt-collateral-implementation",
+   "date": "",
+   "court": "ECB",
+   "title": "歐元體系接受 DLT 試行機制平台資產作為擔保品開始實施",
+   "note": "預定 2027 年 6 月，細部要求 2027 年春季公布；確切日期未定",
+   "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+   "relatedId": "2026-11-23-fin-ecb-dlt-pilot-regime-collateral",
+   "caseId": "eurosystem-digital-euro-tokenisation"
   }
  ],
  "cases": [
@@ -11960,7 +12264,7 @@
    "nameOriginal": "Digital euro; Pontes and Appia",
    "caseRef": "",
    "summary": "歐元體系推動數位歐元立法與試點，並以 Pontes、Appia 建構代幣化交易的央行貨幣結算基礎設施。",
-   "status": "數位歐元立法 11 月 18 日第七輪三方協商未達協議，擬 12 月 3 日、16 日再議，理事會堅持年底前結案；歐洲央行 10 月 30 日選定網路服務供應商，試點預計 2027 年下半年展開；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成，Lagarde 11 月 20 日呼籲立法者訂定代幣化共通規則。"
+   "status": "歐洲央行 11 月 23 日核准將 DLT 試行機制平台發行之資產納入合格擔保品，預定 2027 年 6 月實施；數位歐元立法 11 月 18 日第七輪三方協商未達協議，擬 12 月 3 日、16 日再議；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成。"
   },
   {
    "id": "uk-cryptoasset-regime",
@@ -12092,7 +12396,7 @@
    "nameOriginal": "Digital Asset Basic Act (South Korea)",
    "caseRef": "",
    "summary": "南韓第二階段加密資產立法，規範數位資產發行、流通、交易所治理及韓元穩定幣發行人資格。",
-   "status": "依報導金融委員會擬於 11 月下旬虛擬資產委員會會議時公布政府版草案並送交國會，同步公布法人投資指引；執政黨議員閔丙德目標 2027 年 1 月 9 日完成立法。"
+   "status": "依 11 月 23 日報導，金融委員會虛擬資產委員會將於 11 月 24 日討論並公布政府版草案，之後與議員版本整合送國會政務委員會；執政黨議員閔丙德目標 2027 年 1 月 9 日完成立法。"
   },
   {
    "id": "kenya-vasp-act",
