@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-23T23:33:17+08:00",
-  "lastRunLocal": "2026-11-23 23:33",
+  "lastRun": "2026-11-24T07:23:04+08:00",
+  "lastRunLocal": "2026-11-24 07:23",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：新加坡 3（監理指引 1、政策動態 2）、歐盟 1（政策動態 1）"
+  "lastRunNote": "新增 2 則：美國 2（司法案件 1、政策動態 1）"
  },
  "items": [
   {
@@ -2366,7 +2366,8 @@
    ],
    "related": [
     "2026-10-05-fin-wilmerhale-sec-innovation-exemption",
-    "2026-11-11-fin-okxice-tsv-launch-date"
+    "2026-11-11-fin-okxice-tsv-launch-date",
+    "2026-11-23-fin-okxice-tsv-launches"
    ],
    "sources": [
     {
@@ -7901,7 +7902,8 @@
    "related": [
     "2026-10-26-fin-okxice-issuer-objections",
     "2026-10-05-fin-wilmerhale-sec-innovation-exemption",
-    "2026-11-16-fin-senators-letter-sec-tokenized-stock-aml"
+    "2026-11-16-fin-senators-letter-sec-tokenized-stock-aml",
+    "2026-11-23-fin-okxice-tsv-launches"
    ],
    "sources": [
     {
@@ -9752,7 +9754,8 @@
    "related": [
     "2026-11-11-fin-okxice-tsv-launch-date",
     "2026-10-05-fin-wilmerhale-sec-innovation-exemption",
-    "2026-11-19-fin-senate-banking-sec-nominees-hearing"
+    "2026-11-19-fin-senate-banking-sec-nominees-hearing",
+    "2026-11-23-fin-okxice-tsv-launches"
    ],
    "sources": [
     {
@@ -10718,7 +10721,8 @@
    "related": [
     "2026-11-03-fin-second-circuit-denies-kalshi-coinbase-injunction",
     "2026-11-20-fin-senate-passes-death-bets-act",
-    "2026-11-21-fin-ny-kalshi-tro-hearing-set"
+    "2026-11-21-fin-ny-kalshi-tro-hearing-set",
+    "2026-11-23-fin-ny-court-denies-kalshi-tro"
    ],
    "sources": [
     {
@@ -11287,7 +11291,8 @@
     "美國"
    ],
    "related": [
-    "2026-11-20-fin-sdny-remands-ny-v-kalshi"
+    "2026-11-20-fin-sdny-remands-ny-v-kalshi",
+    "2026-11-23-fin-ny-court-denies-kalshi-tro"
    ],
    "sources": [
     {
@@ -11584,6 +11589,143 @@
     }
    ],
    "addedAt": "2026-11-23T23:33:17+08:00"
+  },
+  {
+   "id": "2026-11-23-fin-ny-court-denies-kalshi-tro",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國紐約州",
+   "outlet": "Cointelegraph",
+   "outletCode": "CT",
+   "date": "2026-11-23",
+   "eventDate": "2026-11-23",
+   "importance": 2,
+   "author": "",
+   "title": "紐約州法院駁回州檢察總長對 Kalshi 之暫時限制令聲請，另命雙方就 18 至 20 歲用戶之運動合約研議防護措施",
+   "shortTitle": "紐約州法院駁回 Kalshi 限制令聲請",
+   "point": "法官認不符緊急要件，命雙方 11 月 30 日回報未滿 21 歲用戶防護，初步禁制令明年 1 月審理",
+   "titleOriginal": "Kalshi Wins Temporary Reprieve in New York Gambling Case",
+   "caseRef": "",
+   "tldr": "紐約州檢察總長想用暫時限制令立刻讓 Kalshi 停止在紐約或從紐約經營事件合約，但州法院法官 11 月 23 日沒有准許，Kalshi 可以暫時繼續營運。法官特別在意 18 到 20 歲的人能下注運動合約（紐約運動博彩須年滿 21 歲），要雙方先談出保護措施；是否發初步禁制令，預計明年 1 月再審。",
+   "memo": "依 Cointelegraph 及 Forbes 2026 年 11 月 23 日報導，紐約州最高法院（曼哈頓商事庭）法官 Melissa A. Crane 於同日駁回紐約州檢察總長請求禁止 Kalshi 於紐約州境內或自紐約州經營運動、文化、選舉等事件合約之暫時限制令聲請，理由略以：本件屬極初步階段，未見核發禁制令之要件，且 Kalshi 已提供該等合約逾一年，限制令無從維持現狀。法院並命雙方就 18 至 20 歲用戶參與運動合約之防護措施協商，於 11 月 30 日回報；初步禁制令依報導預定 2027 年 1 月初審理。本裁定非實體判斷，聯邦法上之優先適用爭議仍待解決。",
+   "context": "紐約州於 2026 年 7 月起訴 Kalshi，主張其事件合約屬未經許可之賭博，請求停止營業、返還不法所得及民事罰款；Kalshi 將案件移轉至聯邦法院後，聯邦法院於 11 月 20 日發回州法院，州檢方隨即聲請暫時限制令。\nKalshi 主張限制令「自紐約」之文字將波及全美客戶、迫使其清算部位；CFTC 亦曾表示紐約州之請求可能在全國範圍阻止 Kalshi 之事件合約。",
+   "facts": [
+    "2026 年 11 月 23 日，紐約州最高法院（曼哈頓商事庭）法官 Melissa A. Crane 聽審後駁回暫時限制令聲請（依 Forbes 報導）。",
+    "州檢方請求禁止 Kalshi 於紐約州境內或自紐約州經營運動、文化、選舉及其他事件之未經許可賭博業務。",
+    "法官命雙方就 18 至 20 歲用戶之運動合約防護措施協商，並於 11 月 30 日回報；未能合意時擬當日下午 4 時再開庭（依 Forbes 報導）。",
+    "依 Forbes 報導，答辯書狀 12 月 4 日、再答辯 12 月 11 日到期，法官提出 2027 年 1 月 7 日或 8 日進行初步禁制令言詞聽審，以最終排程命令為準。",
+    "Kalshi 發言人表示法官認知衍生性商品與優先適用問題之複雜性，並稱其有 150 萬名客戶（依 Cointelegraph 報導）。"
+   ],
+   "issues": [
+    "經 CFTC 核准之事件合約是否受紐約州賭博法規範，《商品交易法》是否優先適用？",
+    "州法院禁制令之地域範圍可否及於自紐約州營運而服務全美客戶之交易所？",
+    "不同類型事件合約（運動、選舉、文化）是否應有不同法律評價？"
+   ],
+   "holding": "・駁回暫時限制令：法官認在極初步階段未見核發禁制令之要件。\n・維持現狀考量：Kalshi 已提供相關合約逾一年，限制令反將改變現狀。\n・損害急迫性存疑：紐約已允許 21 歲以上成年人經合法業者投注運動賽事。\n・就 18 至 20 歲用戶之運動合約，命雙方研議防護措施並回報。\n・本裁定非實體判斷，另排定初步禁制令程序。",
+   "significance": "Kalshi 免於在其所在地紐約州遭立即停業，避免牽動全國營運；但法院聚焦未滿 21 歲用戶，可能促成分類型、局部之限制。應關注 11 月 30 日回報結果及 2027 年 1 月初步禁制令聽審。",
+   "editorNote": "本網頁助理 註：法官姓名、法院庭別、書狀期限及 1 月聽審日期取自 Forbes 撰稿人 Daniel Wallach 之分析，該頁內容未能完整讀取；SBC Americas 及 CNN 報導未能開啟。尚未取得法院裁定原文。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "Kalshi",
+    "優先適用",
+    "賭博",
+    "紐約州",
+    "美國"
+   ],
+   "related": [
+    "2026-11-21-fin-ny-kalshi-tro-hearing-set",
+    "2026-11-20-fin-sdny-remands-ny-v-kalshi"
+   ],
+   "sources": [
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute",
+     "official": false
+    },
+    {
+     "label": "Forbes（Daniel Wallach）分析",
+     "url": "https://www.forbes.com/sites/danielwallach/2026/11/23/kalshi-escapes-new-york-tro-but-underage-sports-betting-concerns-loom-over-january-showdown/",
+     "official": false
+    },
+    {
+     "label": "SBC Americas 報導",
+     "url": "https://sbcamericas.com/2026/11/23/new-york-denied-tro-against-kalshi/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-24T07:23:04+08:00"
+  },
+  {
+   "id": "2026-11-23-fin-okxice-tsv-launches",
+   "court": "SEC",
+   "kind": "政策動態",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-23",
+   "eventDate": "2026-11-23",
+   "importance": 2,
+   "author": "",
+   "title": "OKXICE 依 SEC 創新豁免開辦代幣化證券交易場所，首批 113 檔資產 24 小時交易",
+   "shortTitle": "OKXICE 代幣化證券場所正式上線",
+   "point": "11 月 23 日依 SEC 創新豁免開業，113 檔股票及基金陸續上架，67 家發行人拒絕代幣化",
+   "titleOriginal": "OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading",
+   "caseRef": "",
+   "tldr": "OKX 與洲際交易所（ICE）合資的 OKXICE，11 月 23 日開辦美國第一個依 SEC「創新豁免」運作的代幣化股票交易場所，客戶可全天候在鏈上交易代表股票、ETF 的代幣。蘋果、微軟等 67 家公司已反對自家股票被代幣化，所以首批上架的多是加密相關公司與資產管理業者的產品。",
+   "memo": "依 The Block 及 OKX 2026 年 11 月 23 日公告，OKX 與洲際交易所合資之 OKXICE LLC 於同日開辦代幣化證券交易場所（TSV），依美國證券交易委員會（SEC）為期五年之創新豁免營運，未登記為交易所或經紀自營商；首批 113 檔股票、ETF 及 ETP 陸續上架，每一代幣表彰 1:1 由標的股份支持之證券權益，持有人享有股利、表決及公司行為權利，經 Uniswap v4 自動造市池於 X Layer 全天候交易，僅限完成身分驗證之合格美國客戶以自行保管錢包參與。依報導共 67 家發行人提出異議而排除其股份。",
+   "context": "SEC 於 2026 年 10 月公布代幣化證券創新豁免，允許符合條件之場所在一定期間及上限內進行鏈上交易，發行人得於 30 日內提出異議排除其股票。\n參議員於 11 月 16 日致函 SEC 質疑豁免之洗錢防制漏洞；SEC 被提名人聽證亦聚焦豁免程序。",
+   "facts": [
+    "上線日期：2026 年 11 月 23 日美東中午起開放（依 OKX 公告）。",
+    "首批 113 檔股票、ETF 及 ETP 以滾動方式上架；發行人或資產管理業者包括 Circle、Coinbase、Robinhood、Fidelity、eToro、Strive、BitGo 等（依 OKX 公告）。",
+    "依 The Block 報導，67 家公司提出發行人異議通知，包括 Apple、Microsoft、Alphabet、Nvidia、Amazon、Tesla、JPMorgan Chase 等。",
+    "代幣表彰由標的股份 1:1 支持之證券權益，Securitize 提供代幣化基礎設施。",
+    "交易以 Uniswap v4 自動造市池於 OKX 之以太坊第二層網路 X Layer 進行；客戶以自行保管錢包持有，場所不保管客戶資產或私鑰。",
+    "限完成身分驗證、啟用 CeDeFi 錢包之合格美國 OKX Inc. 客戶；交易及流動性提供以智慧合約限於合格錢包。",
+    "OKX 聲明：場所依 SEC 暫時豁免營運，非登記交易所或經紀自營商，亦未經 SEC 核准。"
+   ],
+   "issues": [
+    "依豁免營運之鏈上場所如何確保投資人保護、最佳執行與市場監視義務？",
+    "代幣以自行保管錢包持有，移出平台後之洗錢防制及身分管控如何落實？",
+    "發行人異議機制下，未經發行人同意之第三方代幣化範圍如何界定？"
+   ],
+   "holding": "・依 SEC 創新豁免開辦首個代幣化證券場所，非登記交易所。\n・首批 113 檔資產，代幣 1:1 由標的股份支持並附股東權利。\n・以去中心化自動造市池全天候交易，智慧合約限合格錢包參與。\n・67 家發行人行使異議權排除其股份。",
+   "significance": "為 SEC 創新豁免下首個實際營運之代幣化股票場所，將成為檢驗豁免架構之試金石；大型發行人普遍退出顯示發行人同意仍是關鍵。應關注 SEC 監督、國會對洗錢防制之追問及其他場所跟進情形。",
+   "editorNote": "本網頁助理 註：未能取得 SEC 豁免命令之文號；Crypto Briefing 報導未能開啟。發行人異議家數依 The Block 引述 OKX 11 月 20 日公告。",
+   "tags": [
+    "代幣化",
+    "代幣化股票",
+    "創新豁免",
+    "SEC",
+    "OKXICE",
+    "DeFi",
+    "美國"
+   ],
+   "related": [
+    "2026-11-11-fin-okxice-tsv-launch-date",
+    "2026-10-26-fin-okxice-issuer-objections",
+    "2026-11-16-fin-senators-letter-sec-tokenized-stock-aml"
+   ],
+   "sources": [
+    {
+     "label": "OKX 上線公告",
+     "url": "https://www.okx.com/en-us/learn/okxice-tsv-launch-going-live",
+     "official": false
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898",
+     "official": false
+    },
+    {
+     "label": "Crypto Briefing 報導",
+     "url": "https://cryptobriefing.com/okxice-113-assets-fidelity-etoro-strive/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-24T07:23:04+08:00"
   }
  ],
  "agenda": [
@@ -12158,16 +12300,6 @@
    "caseId": "eurosystem-digital-euro-tokenisation"
   },
   {
-   "id": "2026-11-23-us-ny-kalshi-tro-hearing",
-   "date": "2026-11-23",
-   "court": "US",
-   "title": "紐約州訴 Kalshi 案：州法院就暫時限制令聲請聽審",
-   "note": "紐約郡州最高法院 Melissa Crane 法官；依報導為美東時間上午 11:30，可能變動",
-   "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
-   "relatedId": "2026-11-21-fin-ny-kalshi-tro-hearing-set",
-   "caseId": "us-prediction-markets-preemption"
-  },
-  {
    "id": "2026-11-24-kr-daba-government-draft",
    "date": "2026-11-24",
    "court": "KR",
@@ -12186,6 +12318,26 @@
    "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
    "relatedId": "2026-11-23-fin-ecb-dlt-pilot-regime-collateral",
    "caseId": "eurosystem-digital-euro-tokenisation"
+  },
+  {
+   "id": "2026-11-30-us-ny-kalshi-under21-report",
+   "date": "2026-11-30",
+   "court": "US",
+   "title": "紐約州訴 Kalshi 案：雙方回報 18 至 20 歲用戶防護措施",
+   "note": "紐約州最高法院（曼哈頓）；未能合意時擬當日下午 4 時（美東）再開庭，依報導。",
+   "url": "",
+   "relatedId": "2026-11-23-fin-ny-court-denies-kalshi-tro",
+   "caseId": "us-prediction-markets-preemption"
+  },
+  {
+   "id": "2027-01-07-us-ny-kalshi-pi-hearing",
+   "date": "2027-01-07",
+   "court": "US",
+   "title": "紐約州訴 Kalshi 案初步禁制令聽審",
+   "note": "依 Forbes 報導法官提出 1 月 7 日或 8 日，日期以排程命令為準，可能變動。",
+   "url": "",
+   "relatedId": "2026-11-23-fin-ny-court-denies-kalshi-tro",
+   "caseId": "us-prediction-markets-preemption"
   }
  ],
  "cases": [
@@ -12330,7 +12482,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "紐約州訴 Kalshi 案發回州法院後，州法院排定 11 月 23 日就州檢方暫時限制令聲請聽審，Kalshi 主張將致全美停業；參議院 11 月 19 日通過 DEATH BETS Act（S. 4035）待眾院審議；第四巡迴 11 月 17 日維持駁回 Kalshi 對馬里蘭州之禁制令，路易斯安那州法院 11 月 30 日審初步禁制令。"
+   "status": "紐約州法院 11 月 23 日駁回州檢方對 Kalshi 之暫時限制令聲請，命雙方 11 月 30 日回報未滿 21 歲用戶防護措施，初步禁制令依報導預定 2027 年 1 月審理。"
   },
   {
    "id": "kr-tokenised-securities",
