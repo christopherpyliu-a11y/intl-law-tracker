@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-24T23:01:22+08:00",
-  "lastRunLocal": "2026-11-24 23:01",
+  "lastRun": "2026-11-25T06:59:10+08:00",
+  "lastRunLocal": "2026-11-25 06:59",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 4 則：ECtHR 1、其他 2、Opinio Juris 評論 1"
+  "lastRunNote": "新增 1 則：其他 1（美國法院 ICC 制裁永久禁制令）"
  },
  "items": [
   {
@@ -1295,7 +1295,8 @@
     "2026-10-26-other-icc-us-tech-license",
     "2026-11-05-other-ngos-cut-ties-icc-sanctions",
     "2026-11-16-oj-asp-regret-not-defence",
-    "2026-11-24-other-japan-icc-advance-payment"
+    "2026-11-24-other-japan-icc-advance-payment",
+    "2026-11-24-other-sdny-icc-sanctions-permanent-injunction"
    ]
   },
   {
@@ -3129,7 +3130,8 @@
    "related": [
     "2026-10-09-icc-us-sanctions",
     "2026-10-11-oj-us-sanctions-icc-commentaries",
-    "2026-10-15-ejil-weller-us-sanctions-icc"
+    "2026-10-15-ejil-weller-us-sanctions-icc",
+    "2026-11-24-other-sdny-icc-sanctions-permanent-injunction"
    ],
    "addedAt": "2026-10-16T07:11:20+08:00"
   },
@@ -9697,6 +9699,68 @@
     }
    ],
    "addedAt": "2026-11-24T23:01:22+08:00"
+  },
+  {
+   "id": "2026-11-24-other-sdny-icc-sanctions-permanent-injunction",
+   "court": "OTHER",
+   "kind": "其他",
+   "caseId": "us-sanctions-icc",
+   "date": "2026-11-24",
+   "eventDate": "2026-11-23",
+   "importance": 2,
+   "title": "美國聯邦法院核發永久禁制令：ICC 制裁命令的「服務禁止」條款不得對任何人以言論形式的服務執行",
+   "shortTitle": "美國法院永久禁止以 ICC 制裁限制言論",
+   "point": "服務禁止條款適用於言論即違憲，效力及於所有人，但既有制裁名單不受影響",
+   "titleOriginal": "DAWN et al. v. Trump et al. (S.D.N.Y.) — permanent injunction (23 November 2026)",
+   "caseRef": "No. 26-cv-5957 (S.D.N.Y.)",
+   "tldr": "紐約南區聯邦地院 Furman 法官在 DAWN 等團體控告川普政府一案，把 10 月只保護原告的初步禁制令改為永久禁制令，並認定制裁命令中禁止向受制裁者「提供服務」的規定，只要那項服務是言論，就一律違憲、對任何人都不得執行。不過 ICC、其人員、Albanese 與巴勒斯坦團體本身仍在制裁名單上。",
+   "memo": "美國紐約南區聯邦地方法院 Furman 法官於 2026 年 11 月 23 日就 DAWN 等訴川普等案核發永久禁制令，認定第 14203 號行政命令中之服務禁止規定，於服務係以言論形式為之時，屬未經嚴格限縮之內容管制而違反第一修正案，不得對任何人執行，並駁回政府援引 Trump v. CASA 主張救濟不得及於非當事人之抗辯；對國際刑事法院及相關人員之既有制裁指定不受影響。",
+   "context": "2025 年 2 月，美國總統以第 14203 號行政命令授權制裁 ICC 及協助其調查美國或盟國國民者，其後陸續制裁 ICC 法官、檢察官、聯合國特別報告員 Albanese 及 al-Haq、al-Mezan、PCHR 三個巴勒斯坦人權團體；2026 年 10 月 9 日更擴及 ICC 整個機構。\n本案由 DAWN（Democracy for the Arab World Now）與 Taxpayers Alliance Against Genocide（TAAG）於 2026 年 7 月 15 日提起。同一法院已於 10 月 13 日核發初步禁制令，但僅保護兩名原告（見相關條目）。",
+   "facts": [
+    "第 14203 號行政命令禁止向受制裁者提供或自其接受「服務」，違者依 DAWN 所述最高可處 20 年徒刑及 100 萬美元民事罰款。",
+    "2026 年 10 月 13 日，法院以第一修正案為由核發只及於原告的初步禁制令。",
+    "政府其後聲請再審酌，並主張依美國最高法院 Trump v. CASA（2025）判決，法院不得給予非當事人救濟。",
+    "2026 年 11 月 23 日（星期一），Furman 法官核發永久禁制令，並據報表示政府的再審酌聲請「沒有理由」。",
+    "白宮未回應媒體詢問；各來源均未提及政府是否上訴。"
+   ],
+   "issues": [
+    "服務禁止條款適用於以言論形式提供的服務（如提交證據、倡議、法律分析）時，是否屬於違反美國憲法第一修正案的內容管制。",
+    "聯邦地院能否在 Trump v. CASA 判決後，對非當事人給予普遍適用的救濟。"
+   ],
+   "holding": "・法院認定服務禁止條款以言論內容為管制基礎，且未針對重大政府利益嚴格限縮，適用於言論形式的服務時「全面」違憲。\n・救濟範圍：永久禁止政府就言論形式的服務執行服務禁止條款，不限於原告，對任何人均不得執行；法院駁回政府依 Trump v. CASA 提出的抗辯。\n・禁制令不撤銷對 ICC、其人員、Albanese 或三個巴勒斯坦團體的既有制裁指定。",
+   "significance": "相較於先前多件只保護個別原告的判決，本案首次讓所有向 ICC 及受制裁者提供言論性協助的人在美國國內免於刑事追訴風險，對人權團體、律師與學者與 ICC 合作影響重大；財務往來等非言論性服務仍受限制。後續須觀察政府是否上訴至第二巡迴上訴法院，以及 11 月 30 日開幕的締約國大會如何回應美國制裁。",
+   "editorNote": "本網頁助理 註：本則依原告 DAWN 新聞稿、Middle East Eye 與 The Intercept 報導撰寫，未能閱讀法院意見書全文；DAWN 為本案當事人。各報導未說明本判決是否以簡易判決方式作成。\n以下為本網頁助理補充，非來源內容：本案是美國國內憲法訴訟，不是 ICC 或國際法院的程序；收錄是因其直接影響外界與 ICC 的合作。",
+   "tags": [
+    "美國制裁",
+    "第14203號行政命令",
+    "第一修正案",
+    "永久禁制令",
+    "國際刑事法院",
+    "美國",
+    "巴勒斯坦情勢"
+   ],
+   "sources": [
+    {
+     "label": "DAWN 新聞稿（原告）",
+     "url": "https://dawnmena.org/us-judge-blocks-trump-from-punishing-americans-advocating-for-justice-at-the-icc/",
+     "official": false
+    },
+    {
+     "label": "Middle East Eye 報導",
+     "url": "https://www.middleeasteye.net/news/us-judge-permanently-bars-trump-punishing-rights-groups-who-liaise-icc",
+     "official": false
+    },
+    {
+     "label": "The Intercept 報導",
+     "url": "https://theintercept.com/2026/11/24/icc-sanctions-palestine-israel-human-rights/",
+     "official": false
+    }
+   ],
+   "related": [
+    "2026-10-13-other-sdny-icc-sanctions-injunction",
+    "2026-10-09-icc-us-sanctions"
+   ],
+   "addedAt": "2026-11-25T06:59:10+08:00"
   }
  ],
  "agenda": [
@@ -10084,7 +10148,7 @@
    "nameOriginal": "U.S. sanctions against the International Criminal Court",
    "caseRef": "",
    "summary": "美國陸續制裁 ICC 官員，2026 年 10 月 9 日擴及法院整體；美國法院訴訟、歐盟保護措施與各國表態同步進行。",
-   "status": "日本 11 月 24 日宣布年底前預繳 2027 年度分攤款以因應美國制裁；塔吉克 11 月 23 日據報已通知退出《羅馬規約》，締約國大會將於 11 月 30 日開幕。"
+   "status": "美國紐約南區聯邦地院 11 月 23 日永久禁止對言論形式的服務執行制裁命令；塔吉克據報通知退出、日本預繳分攤款，締約國大會將於 11 月 30 日開幕。"
   },
   {
    "id": "icc-governance",
