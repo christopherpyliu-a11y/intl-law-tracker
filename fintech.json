@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-24T07:23:04+08:00",
-  "lastRunLocal": "2026-11-24 07:23",
+  "lastRun": "2026-11-24T23:23:37+08:00",
+  "lastRunLocal": "2026-11-24 23:23",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：美國 2（司法案件 1、政策動態 1）"
+  "lastRunNote": "新增 2 則：美國 1（監理指引 1）、亞太與其他 1（立法動態 1）"
  },
  "items": [
   {
@@ -6912,7 +6912,8 @@
    "related": [
     "2026-11-12-fin-korea-fsc-hack-withdrawal-freeze-no-action",
     "2026-11-13-fin-korea-min-daba-jan-9-target",
-    "2026-11-17-fin-korea-fsc-daba-submission-next-week"
+    "2026-11-17-fin-korea-fsc-daba-submission-next-week",
+    "2026-11-24-fin-korea-daba-government-bill"
    ],
    "sources": [
     {
@@ -8738,7 +8739,8 @@
    ],
    "related": [
     "2026-11-08-fin-korea-daba-draft-bank-led-stablecoin",
-    "2026-11-17-fin-korea-fsc-daba-submission-next-week"
+    "2026-11-17-fin-korea-fsc-daba-submission-next-week",
+    "2026-11-24-fin-korea-daba-government-bill"
    ],
    "sources": [
     {
@@ -9179,7 +9181,8 @@
     "美國"
    ],
    "related": [
-    "2026-11-19-fin-cftc-selig-onchain-venues"
+    "2026-11-19-fin-cftc-selig-onchain-venues",
+    "2026-11-24-fin-cftc-crypto-financial-resources-advisory"
    ],
    "sources": [
     {
@@ -9877,7 +9880,8 @@
    ],
    "related": [
     "2026-11-13-fin-korea-min-daba-jan-9-target",
-    "2026-11-08-fin-korea-daba-draft-bank-led-stablecoin"
+    "2026-11-08-fin-korea-daba-draft-bank-led-stablecoin",
+    "2026-11-24-fin-korea-daba-government-bill"
    ],
    "sources": [
     {
@@ -11726,6 +11730,138 @@
     }
    ],
    "addedAt": "2026-11-24T07:23:04+08:00"
+  },
+  {
+   "id": "2026-11-24-fin-korea-daba-government-bill",
+   "court": "KR",
+   "kind": "立法動態",
+   "caseId": "kr-digital-asset-basic-act",
+   "jurisdiction": "南韓",
+   "outlet": "Blockmedia",
+   "outletCode": "BM",
+   "date": "2026-11-24",
+   "eventDate": "2026-11-24",
+   "importance": 3,
+   "author": "",
+   "title": "南韓金融委員會公布《數位資產業創新及使用者保護法》政府版制定案：開放境內 ICO、韓元穩定幣初期限銀行過半聯盟發行、交易所大股東持股原則上限 20%",
+   "shortTitle": "南韓公布數位資產基本法政府版草案",
+   "point": "開放 ICO、韓元穩定幣限銀行過半聯盟發行，交易所大股東持股上限 20%",
+   "titleOriginal": "디지털자산기본법 정부안 공개…국내 ICO 허용·원화 스테이블코인 도입（「디지털자산업의 혁신과 이용자 보호에 관한 법률」 제정안）",
+   "caseRef": "",
+   "tldr": "南韓政府 11 月 24 日公布第二階段加密資產法的政府版草案：允許在南韓發行新代幣募資（ICO），但須先向金融委員會申報白皮書；韓元穩定幣一開始只能由銀行持股過半的聯盟發行，並須 100% 準備；大型交易所大股東持股原則上不得超過 20%，給予三年緩衝期。草案還要經國會審議。",
+   "memo": "依 Blockmedia 及 Money Today 2026 年 11 月 24 日報導，南韓金融委員會於同日第 6 次虛擬資產委員會公布《數位資產業創新及使用者保護法》制定案（俗稱《數位資產基本法》）政府版草案，整合現行《特定金融資訊法》及《虛擬資產使用者保護法》。草案開放境內 ICO，發行人須事前向金融委員會申報白皮書；韓元穩定幣（數位支付代幣）發行人須經許可、自有資本至少 50 億韓元、維持 100% 準備並保障面額贖回，初期限銀行持股過半之聯盟發行；交易所大股東持股原則上限 20%，經核准得至 34%，給予指定後三年緩衝期。法律擬於公布後一年施行，尚待國會審議。",
+   "context": "南韓 2023 年制定《虛擬資產使用者保護法》（2024 年 7 月施行）作為第一階段立法，主要規範使用者資產保護與不公平交易。第二階段《數位資產基本法》涵蓋數位資產發行、業者分類、交易所治理及韓元穩定幣，執政黨議員已提出議員版本。\n本站先前收錄政府草案擬設交易所持股上限、以銀行過半聯盟發行韓元穩定幣等事前報導，以及金融委員會預定於 11 月 24 日公布政府草案之報導。",
+   "facts": [
+    "2026 年 11 月 24 日，金融委員會委員長李億遠主持第 6 次虛擬資產委員會，公布政府版草案（依 Blockmedia 報導）。",
+    "草案正式名稱為《數位資產業創新及使用者保護法》制定案，整合《特定金融資訊法》與《虛擬資產使用者保護法》相關規範（依報導）。",
+    "韓元穩定幣（法定名稱「數位支付代幣」）發行人自有資本至少 50 億韓元；發行餘額 1 兆韓元以上者得指定為重要數位支付代幣（依報導）。",
+    "業者區分為買賣、仲介、保管業（許可制，最低資本 20 億韓元，僅處理穩定幣者 10 億韓元）及運用業（登記制，5 億韓元）（依報導）。",
+    "依 Money Today 刊載之金融委員會問答，法律擬於公布後一年施行，交易所持股上限之緩衝期自指定為數位資產平台營運者起算三年。"
+   ],
+   "issues": [
+    "交易所大股東持股上限是否侵害財產權而有違憲疑慮？國會立法調查處曾提出疑義，金融委員會表示已完成檢討。",
+    "韓元穩定幣初期限銀行過半聯盟發行，金融科技與科技業者之參與空間及後續開放條件為何？",
+    "DeFi、預測市場及法人投資未於法律中明定，留待子法或指引處理是否足夠？"
+   ],
+   "holding": "・ICO：發行人應於勸誘購買前向金融委員會申報數位資產白皮書（發行量、資金用途、風險等），申報生效並經公開及審議期間後始得勸誘；上架另須提出交易支援報告書（依報導）。\n・韓元穩定幣：須經金融委員會許可，自有資本至少 50 億韓元，準備資產不低於發行餘額 100% 並以存款或信託方式保管，持有人得隨時以面額贖回；初期限銀行持股過半之聯盟發行，金融科技或科技業者得為單一最大股東，股東細節授權施行令（依報導）。\n・境外穩定幣：境外發行人得經登記以南韓分公司營運；USDT 等境外穩定幣經向金融委員會申報後得流通（依 Money Today 刊載之問答）。\n・交易所治理：大股東（含關係人）持股原則上限 20%，金融公司等經核准得至 34%；既有及新設交易所自指定起有三年緩衝期，市占率低之小型交易所依報導得再延長。\n・使用者保護：駭客或系統故障所致損失原則上由業者負無過失責任，違反 IT 安全義務得課營收 10% 以下罰鍰；須定期查核使用者資產並受外部稽核（依報導）。\n・不公平交易：內線交易規範涵蓋上架審查中資產及離職一年內員工；金融委員會得經決議凍結帳戶及限制交易（依報導）。",
+   "significance": "政府版草案為南韓第二階段加密資產立法的正式起點，與執政黨議員版本整合後將送國會政務委員會審議，執政黨目標 2027 年 1 月完成立法。韓元穩定幣以銀行為中心之發行設計及交易所持股上限，與台灣「穩定幣發行許可及管理辦法」草案要求金融業持股過半之設計可相互比較。後續應注意國會審議中持股上限、緩衝期及穩定幣發行主體之調整，以及施行令內容。",
+   "editorNote": "本網頁助理 註：本則依 Blockmedia 及 Money Today 報導整理，本網頁助理未取得金融委員會新聞稿或法案全文；法律名稱之中文為本網頁助理依韓文原名翻譯。小型交易所緩衝期「最長 6 年」僅見於 Blockmedia 相關標題，金融委員會問答未確認該數字。",
+   "tags": [
+    "加密資產",
+    "穩定幣",
+    "數位資產基本法",
+    "ICO",
+    "交易所治理",
+    "金融委員會",
+    "南韓"
+   ],
+   "related": [
+    "2026-11-17-fin-korea-fsc-daba-submission-next-week",
+    "2026-11-13-fin-korea-min-daba-jan-9-target",
+    "2026-11-08-fin-korea-daba-draft-bank-led-stablecoin"
+   ],
+   "sources": [
+    {
+     "label": "Blockmedia 報導（政府版草案內容）",
+     "url": "https://www.blockmedia.co.kr/archives/1169816",
+     "official": false
+    },
+    {
+     "label": "Money Today 報導（金融委員會問答）",
+     "url": "https://www.mt.co.kr/stock/2026/11/24/2026112414305071923",
+     "official": false
+    },
+    {
+     "label": "Global Economic 報導",
+     "url": "https://www.g-enews.com/article/Finance/2026/11/202611241902266701a6e8311f64_1",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-24T23:23:37+08:00"
+  },
+  {
+   "id": "2026-11-24-fin-cftc-crypto-financial-resources-advisory",
+   "court": "CFTC",
+   "kind": "監理指引",
+   "caseId": "",
+   "jurisdiction": "美國",
+   "outlet": "Unchained",
+   "outletCode": "UC",
+   "date": "2026-11-24",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "CFTC 市場監督處與結算及風險處發布職員諮詢意見：交易所、SEF 及結算機構得以比特幣、以太幣及支付型穩定幣計入財務資源要求",
+   "shortTitle": "CFTC 允加密資產計入交易所財務資源",
+   "point": "比特幣、以太幣折扣至少 20%、支付型穩定幣 2%，依報導最多計入半數",
+   "titleOriginal": "Crypto Can Fill Up to Half of a Futures Exchange's Reserve Under New CFTC Staff Advisory",
+   "caseRef": "CFTC Release No. 9331-26",
+   "tldr": "美國期貨交易所、交換執行機構（SEF）和結算機構必須準備足夠支應一年營運成本的財務資源。CFTC 職員表示，這些資源可以部分用比特幣、以太幣和支付型穩定幣來充當，但要打折計算，而且仍須保留一定期間的現金或高流動性證券。這只是職員意見，不是委員會通過的規則。",
+   "memo": "依 Unchained 2026 年 11 月 24 日報導，美國商品期貨交易委員會（CFTC）市場監督處及結算及風險處發布職員諮詢意見，就 CFTC 規則第 37.1301 條、第 38.1101(a) 條及第 39.11(a)(2) 條所定交換執行機構、指定契約市場及衍生性商品結算機構之財務資源要求，表示不反對以比特幣、以太幣及支付型穩定幣計入，比照期貨商資本計算分別適用至少 20% 及 2% 之折扣，不具市場性之其他代幣折扣 100%；指定契約市場及結算機構仍須以現金或高流動性證券支應六個月營運成本，SEF 為三個月。該意見僅代表上述兩處見解。",
+   "context": "CFTC 規則要求 SEF、指定契約市場（DCM）及衍生性商品結算機構（DCO）維持足以支應一年營運成本之財務資源，並須以流動資產支應一定期間之成本。CFTC 先前已就期貨商（FCM）以支付型穩定幣及加密資產作為客戶擔保品與資本計算提供職員指引。\n本站先前收錄 CFTC 核准區塊鏈衍生性商品交易所及結算機構等發展。",
+   "facts": [
+    "依 Unchained 報導，CFTC 職員於 2026 年 11 月 23 日（星期一）表示此立場，新聞稿編號 9331-26。",
+    "適用對象：SEF、DCM 及 DCO；涉及 CFTC 規則第 37.1301 條、第 38.1101(a) 條、第 39.11(a)(2) 條。",
+    "折扣：比特幣及以太幣至少 20%，支付型穩定幣 2%；非支付型穩定幣且不具市場性之代幣折扣 100%；其他代幣應先洽兩處（依報導）。",
+    "DCM 及 DCO 須以現金及／或高流動性證券支應六個月營運成本，SEF 為三個月；職員認代幣（含支付型穩定幣）依一般公認會計原則非屬現金，亦非高流動性證券（依報導）。",
+    "CFTC 主席 Michael Selig 於 X 表示歡迎（依報導）。"
+   ],
+   "issues": [
+    "以價格波動大之加密資產計入基礎設施財務資源，是否足以因應壓力情境及錯向風險？",
+    "職員諮詢意見不具委員會規則效力，市場參與者得否據以信賴？"
+   ],
+   "holding": "・職員不反對 SEF、DCM 及 DCO 以比特幣、以太幣及支付型穩定幣計入一年營運成本之財務資源要求，惟須適用折扣（比特幣、以太幣至少 20%，支付型穩定幣 2%）。\n・依 Unchained 之解讀，加密資產最多僅能支應 DCM 或 DCO 一年準備之半數（SEF 為九個月部分），因現金或高流動性證券部分不得以代幣充當。\n・機構應考量錯向風險；意見未涉及結算機構違約基金。",
+   "significance": "此為 CFTC 將加密資產納入受監理衍生性商品基礎設施資本與流動性要求的又一步，與 GENIUS Act 下支付型穩定幣之法定地位相呼應。後續應注意 CFTC 是否以正式規則或委員會決議確認，以及 SEC 對證券基礎設施是否採相似立場。",
+   "editorNote": "本網頁助理 註：本則依 Unchained 報導整理；CFTC 新聞稿網址取自該報導，本網頁助理未能直接開啟 CFTC 網站核對。該報導所引諮詢意見下載路徑顯示文號可能為 CFTC Letter No. 26-31，未經確認。「最多計入半數」為 Unchained 依現金緩衝要求所作之計算。另 Caproasia 將此描述為 CFTC 宣布，惟 Unchained 指出係職員諮詢意見、未經委員會表決。eventDate 留空，因未取得官方文件確認發布日。",
+   "tags": [
+    "加密資產",
+    "穩定幣",
+    "財務資源",
+    "衍生性商品",
+    "CFTC",
+    "美國"
+   ],
+   "related": [
+    "2026-11-16-fin-cftc-blockchain-dcm-dco-approval"
+   ],
+   "sources": [
+    {
+     "label": "CFTC 新聞稿（Release No. 9331-26）",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9331-26",
+     "official": true
+    },
+    {
+     "label": "Unchained 報導",
+     "url": "https://unchainedcrypto.com/crypto-can-fill-up-to-half-of-a-futures-exchanges-reserve-under-new-cftc-staff-advisory/",
+     "official": false
+    },
+    {
+     "label": "Caproasia 報導",
+     "url": "https://www.caproasia.com/2026/11/24/united-states-cftc-to-allow-crypto-assets-include-bitcoin-ether-stablecoins-to-be-used-to-meet-financial-resources-requirements/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-24T23:23:37+08:00"
   }
  ],
  "agenda": [
@@ -12306,7 +12442,7 @@
    "title": "南韓金融委員會虛擬資產委員會討論《數位資產基本法》政府版草案",
    "note": "依報導為韓國時間下午 3 時；草案公布時點可能變動",
    "url": "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881",
-   "relatedId": "2026-11-17-fin-korea-fsc-daba-submission-next-week",
+   "relatedId": "2026-11-24-fin-korea-daba-government-bill",
    "caseId": "kr-digital-asset-basic-act"
   },
   {
@@ -12548,7 +12684,7 @@
    "nameOriginal": "Digital Asset Basic Act (South Korea)",
    "caseRef": "",
    "summary": "南韓第二階段加密資產立法，規範數位資產發行、流通、交易所治理及韓元穩定幣發行人資格。",
-   "status": "依 11 月 23 日報導，金融委員會虛擬資產委員會將於 11 月 24 日討論並公布政府版草案，之後與議員版本整合送國會政務委員會；執政黨議員閔丙德目標 2027 年 1 月 9 日完成立法。"
+   "status": "金融委員會 11 月 24 日公布政府版《數位資產業創新及使用者保護法》制定案（開放 ICO、韓元穩定幣初期限銀行過半聯盟發行、交易所持股上限 20%），將與議員版本整合送國會政務委員會；執政黨目標 2027 年 1 月 9 日完成立法。"
   },
   {
    "id": "kenya-vasp-act",
