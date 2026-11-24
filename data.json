@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-24T07:00:41+08:00",
-  "lastRunLocal": "2026-11-24 07:00",
+  "lastRun": "2026-11-24T23:01:22+08:00",
+  "lastRunLocal": "2026-11-24 23:01",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "本次未發現新動態；官方網站與部落格無法直接讀取，改以搜尋檢查"
+  "lastRunNote": "新增 4 則：ECtHR 1、其他 2、Opinio Juris 評論 1"
  },
  "items": [
   {
@@ -1294,7 +1294,8 @@
     "2026-10-19-other-sakharov-icc-finalist",
     "2026-10-26-other-icc-us-tech-license",
     "2026-11-05-other-ngos-cut-ties-icc-sanctions",
-    "2026-11-16-oj-asp-regret-not-defence"
+    "2026-11-16-oj-asp-regret-not-defence",
+    "2026-11-24-other-japan-icc-advance-payment"
    ]
   },
   {
@@ -5613,7 +5614,9 @@
     }
    ],
    "addedAt": "2026-11-04T23:17:54+08:00",
-   "related": []
+   "related": [
+    "2026-11-24-ecthr-belarus-pushbacks-gc-judgments"
+   ]
   },
   {
    "id": "2026-11-02-ecthr-banca-sistema-gc-referral",
@@ -8476,7 +8479,8 @@
     "2026-11-20-ejil-gambia-myanmar-intent-change-part1",
     "2026-11-21-ejil-gambia-myanmar-intent-change-part2",
     "2026-11-19-icj-gambia-myanmar-israel-reaction",
-    "2026-11-21-oj-ihl-genocide-gambia-myanmar"
+    "2026-11-21-oj-ihl-genocide-gambia-myanmar",
+    "2026-11-23-other-uk-sanctions-myanmar-genocide"
    ]
   },
   {
@@ -8737,7 +8741,8 @@
    "addedAt": "2026-11-20T23:00:07+08:00",
    "related": [
     "2026-11-19-icj-gambia-myanmar-merits-judgment",
-    "2026-11-19-icj-gambia-myanmar-israel-reaction"
+    "2026-11-19-icj-gambia-myanmar-israel-reaction",
+    "2026-11-23-other-uk-sanctions-myanmar-genocide"
    ]
   },
   {
@@ -9396,8 +9401,302 @@
    ],
    "addedAt": "2026-11-23T22:59:04+08:00",
    "related": [
-    "2026-11-19-other-shenzhen-declaration-icc"
+    "2026-11-19-other-shenzhen-declaration-icc",
+    "2026-11-24-other-japan-icc-advance-payment"
    ]
+  },
+  {
+   "id": "2026-11-24-ecthr-belarus-pushbacks-gc-judgments",
+   "court": "ECtHR",
+   "kind": "判決",
+   "caseId": "ecthr-belarus-border-pushbacks",
+   "date": "2026-11-24",
+   "eventDate": "2026-11-24",
+   "importance": 3,
+   "title": "歐洲人權法院大法庭就白俄羅斯邊境推回三案宣判：波蘭、拉脫維亞違反第 3 條，立陶宛未違反",
+   "shortTitle": "白俄邊境推回三案：波、拉敗訴，立陶宛勝訴",
+   "point": "推回本身不當然違反第 3 條，但須先辨識兒童等極高風險者；立陶宛案以 11 比 6 未違反",
+   "titleOriginal": "A.R. and Others v. Poland; H.M.M. and Others v. Latvia; C.O.C.G. and Others v. Lithuania (Grand Chamber judgments)",
+   "caseRef": "",
+   "tldr": "2021 至 2022 年間，白俄羅斯刻意把移民送往鄰國邊境，波蘭、拉脫維亞、立陶宛則把越境者推回白俄羅斯。歐洲人權法院大法庭認為，國家面對這種「移民工具化」時，把人送回白俄羅斯本身不一定違反禁止酷刑與不人道待遇的規定，但事前必須找出特別脆弱或有明確危險的人。波蘭因在法院暫時措施生效時仍推回一名申請人而敗訴，拉脫維亞因推回兒童及其家屬而敗訴，立陶宛則勝訴。",
+   "memo": "歐洲人權法院大法庭於 2026 年 11 月 24 日就 A.R. 等人訴波蘭、H.M.M. 等人訴拉脫維亞及 C.O.C.G. 等人訴立陶宛三案作成判決。法院認為，於白俄羅斯將移民工具化之情形下，將越境者遣返白俄羅斯本身不當然違反公約第 3 條，惟國家於遣返前應辨識具明顯個人脆弱性或有具體理由足認遣返將使其生命或人身遭受嚴重危險之人。法院一致認定波蘭就第一申請人（遣返時第 39 條暫時措施仍有效）違反第 3 條、拉脫維亞就兒童申請人及其隨行家屬違反第 3 條，並以 11 票對 6 票認定立陶宛未違反。",
+   "context": "2021 年夏季起，白俄羅斯被指控鼓勵、協助甚至強迫第三國移民越境進入波蘭、拉脫維亞與立陶宛，意圖使鄰國及整個區域陷入不穩，歐洲人權法院稱之為「移民工具化」（instrumentalisation of migration）。三國隨即修法並在邊境將越境者即時遣返白俄羅斯，許多人滯留邊境森林。\n三案由小法庭移送大法庭，大法庭於 2025 年 2 月 12 日舉行言詞辯論，並於 2026 年 11 月 3 日公告將於 11 月 24 日一併宣判（參見本站前則）。申請人主要主張違反公約第 3 條（禁止酷刑及不人道待遇）等規定。",
+   "facts": [
+    "波蘭案：申請人為阿富汗國民，2021 年 8 月至 10 月間自白俄羅斯越境後滯留波蘭境內臨時營地；第一申請人於 2021 年 10 月 20 日被遣返白俄羅斯，當時歐洲人權法院依法院規則第 39 條所為、禁止將其遣返的暫時措施仍然有效。",
+    "拉脫維亞案：19 名申請人為庫德族裔伊拉克國民，包括兒童及其家屬，於 2021 年 8 月越境後在不同日期被推回白俄羅斯。",
+    "立陶宛案：4 名申請人為古巴國民，於 2022 年 3 月及 4 月間遭立陶宛邊防人員拘留並遣返白俄羅斯；據報導，邊防人員已確認其身分與原籍國，其庇護請求未獲審查。",
+    "三案均涉及 2021 至 2022 年間自白俄羅斯入境者被遣返白俄羅斯，法院將其背景定性為白俄羅斯將移民工具化。"
+   ],
+   "issues": [
+    "在移民遭他國工具化的情形下，將越境者遣返該工具化國家是否本身即違反《歐洲人權公約》第 3 條。",
+    "國家於遣返前負有何種辨識與評估義務，是否須評估遣返對象能否在白俄羅斯獲得適當庇護程序。",
+    "申請人表達尋求庇護的意願是否即足以證明其面臨真實且迫切的危險。",
+    "違反法院依規則第 39 條所為暫時措施而遣返，對第 3 條判斷的影響。"
+   ],
+   "holding": "法院表示，將越境者送回進行工具化的國家，本身並不當然構成違反第 3 條；國家在遣返前，必須辨識面臨遭受酷刑或不當對待「特別高度風險」的人，分為兩類：（一）具有明顯個人脆弱性者，例如高齡、健康狀況不佳或身心障礙；（二）有具體理由足認遣返將對其生命構成真實威脅或使其面臨嚴重不當對待風險者。據報導，法院並認為國家無須評估當事人在白俄羅斯能否獲得適當庇護程序，且僅表達尋求庇護的意願，本身不足以證明危險。\n・波蘭案：第一申請人屬第二類，因遣返當日法院的暫時措施仍有效；法院一致認定波蘭違反第 3 條。\n・拉脫維亞案：兒童申請人屬第一類，且其適當保護須有近親在場陪同；法院一致認定拉脫維亞就兒童及其隨行家屬違反第 3 條，就其他成年申請人則一致認定未違反。\n・立陶宛案：申請人不屬任一類別，法院以 11 票對 6 票認定立陶宛未違反第 3 條。",
+   "significance": "這是歐洲人權法院首度以大法庭判決正面處理「移民工具化」情境下的邊境推回，確立國家仍可控制入境、遣返本身不當然違法，但必須建立事前辨識脆弱者與高風險者的機制。判決對歐盟及其他邊境國家的邊境管理立法與實務影響重大；兒童屬特別脆弱群體、不得在未保護情況下推回，以及暫時措施的拘束效果，將是後續案件的重要基準。",
+   "editorNote": "本網頁助理 註：本則依歐洲人權法院官網案件新聞摘要，以及 Euronews、LRT（立陶宛國家廣播）報導撰寫；法院正式新聞稿 PDF、問答文件及判決全文均未能直接讀取，因此申請案號、公正補償金額、不同意見書及第三方參加人等細節未能核對，亦不確定法院是否另就第 13 條或第 4 號議定書第 4 條（禁止集體驅逐）作成判斷。各來源對申請人人數及組成的描述不一（例如波蘭案官方摘要僅提及「第一申請人」，報導則稱兩名阿富汗人；拉脫維亞案 Euronews 稱 19 人中有 6 名兒童，LRT 則稱包括三個四人家庭），本則未予採擇。法院就庇護程序及庇護意願的見解僅見於 LRT 報導。",
+   "tags": [
+    "歐洲人權公約",
+    "第3條",
+    "邊境推回",
+    "移民工具化",
+    "暫時措施",
+    "第39條",
+    "兒童",
+    "庇護",
+    "大法庭",
+    "波蘭",
+    "拉脫維亞",
+    "立陶宛",
+    "白俄羅斯",
+    "阿富汗",
+    "伊拉克",
+    "古巴"
+   ],
+   "sources": [
+    {
+     "label": "歐洲人權法院案件新聞摘要",
+     "url": "https://www.echr.coe.int/w/a.r.-and-others-v.-poland-h.m.m.-and-others-v.-latvia-and-c.o.c.g.-and-others-v.-lithuania-1",
+     "official": true
+    },
+    {
+     "label": "歐洲人權法院新聞稿（PDF）",
+     "url": "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8704399-12426091&filename=Grand%20Chamber%20cases%20concerning%20instrumentalisation%20of%20migration.pdf",
+     "official": true
+    },
+    {
+     "label": "歐洲人權法院問答文件",
+     "url": "https://www.echr.coe.int/documents/d/echr/press-q-a-pushback-cases-eng",
+     "official": true
+    },
+    {
+     "label": "Euronews 報導",
+     "url": "https://www.euronews.com/2026/11/24/european-court-rules-against-poland-and-latvia-over-migrant-pushbacks-at-belarus-border",
+     "official": false
+    },
+    {
+     "label": "LRT 報導（立陶宛案）",
+     "url": "https://www.lrt.lt/en/news-in-english/19/3124297/echr-rules-lithuania-did-not-violate-human-rights-by-deporting-migrants-to-belarus",
+     "official": false
+    },
+    {
+     "label": "EU Law Live 報導",
+     "url": "https://eulawlive.com/ecthr-grand-chamber-sets-out-article-3-obligations-in-cases-of-instrumentalised-migration-at-the-belarus-border/",
+     "official": false
+    }
+   ],
+   "related": [
+    "2026-11-03-ecthr-belarus-border-pushbacks-gc-date"
+   ],
+   "addedAt": "2026-11-24T23:01:22+08:00"
+  },
+  {
+   "id": "2026-11-23-other-uk-sanctions-myanmar-genocide",
+   "court": "OTHER",
+   "kind": "其他",
+   "caseId": "gambia-v-myanmar",
+   "date": "2026-11-24",
+   "eventDate": "2026-11-23",
+   "importance": 2,
+   "title": "英國正式承認羅興亞種族滅絕，制裁五名緬甸將領並擬禁止航空燃油出口",
+   "shortTitle": "英國承認羅興亞種族滅絕並制裁五將領",
+   "point": "外相米勒班於國會宣布資產凍結與旅行禁令，並將立法禁止向緬甸供應航空燃油",
+   "titleOriginal": "UK formally recognises Rohingya genocide, sanctions five Myanmar military commanders and plans aviation fuel ban",
+   "caseRef": "",
+   "tldr": "國際法院 11 月 19 日判決緬甸對羅興亞人實施種族滅絕後，英國外相米勒班 11 月 23 日在國會宣布，英國正式承認這是種族滅絕，並制裁五名緬甸軍方將領，也準備立法禁止把航空燃油賣給緬甸，以減少軍方對平民的空襲。",
+   "memo": "據報導，英國外交大臣米勒班於 2026 年 11 月 23 日在下議院宣布，英國正式承認緬甸對羅興亞人所犯之種族滅絕，並對 Kyaw Swar Oo、Kyaw Soe、Myo Htut Hlaing、Myo Min Tun 及 Myat Thet Oo 五名緬甸軍方將領實施資產凍結、旅行禁令及董事資格限制，另將提出立法禁止向緬甸出口及供應航空燃油，並新增 800 萬英鎊用於人道援助及問責工作。上開措施係於國際法院 2026 年 11 月 19 日就甘比亞訴緬甸案作成實體判決後採取。",
+   "context": "國際法院於 2026 年 11 月 19 日以 9 票對 6 票判決緬甸違反《防止及懲治殘害人群罪公約》，對羅興亞人實施種族滅絕，並命緬甸追訴、賠償及於兩年內提出履行報告（參見本站前則）。英國當日即宣布驅逐緬甸駐英武官並要求安理會緊急開會，並表示將於數日內宣布進一步措施。\n新加坡外交部發言人亦於 11 月 24 日表示尊重該判決，正研究其影響。",
+   "facts": [
+    "2026 年 11 月 19 日國際法院判決後，英國宣布驅逐緬甸國防武官並要求聯合國安理會緊急開會。",
+    "2026 年 11 月 23 日，英國外交大臣米勒班在下議院宣布英國正式承認對羅興亞人的種族滅絕；據 DVB 報導，這是英國官方承認的第六起種族滅絕。",
+    "英國制裁五名將領：前西部軍區司令 Kyaw Swar Oo、2026 年 6 月起任西部軍區司令的 Kyaw Soe、西北軍區副司令 Myo Htut Hlaing、東部軍區司令 Myo Min Tun，以及前北部軍區司令 Myat Thet Oo；措施包括資產凍結、旅行禁令及董事資格限制。",
+    "英國表示將提出立法，禁止向緬甸出口與供應航空燃油，以遏止軍方對平民的空襲。",
+    "英國另宣布新增 800 萬英鎊資金，其中 500 萬英鎊用於若開邦人道援助，最多 300 萬英鎊用於問責與司法工作，包括加倍支持聯合國緬甸獨立調查機制。",
+    "2026 年 11 月 24 日，新加坡外交部發言人表示尊重國際法院判決，並正研究判決的影響。"
+   ],
+   "issues": [
+    "國際法院種族滅絕判決後，第三國承認種族滅絕及採取單邊制裁的法律基礎與效果。",
+    "《防止及懲治殘害人群罪公約》第 1 條防止義務對第三國的意涵。"
+   ],
+   "holding": "本則為國家對國際法院判決的回應，非司法裁判。英國的制裁屬其國內法上的單邊措施；緬甸軍政府先前已批評判決不公平。",
+   "significance": "英國是首批在判決後以正式承認及具體制裁回應的國家之一，顯示國際法院種族滅絕判決可能透過各國單邊措施產生實際後果。航空燃油禁令若通過立法，將是英國對緬甸制裁的重要擴大。其他國家（如新加坡）目前則較為審慎，僅表示尊重並研究判決。",
+   "editorNote": "本網頁助理 註：本則依 DVB 及 The Business Standard 報導與新加坡外交部聲明撰寫，未能取得英國政府的正式聲明或制裁公告；「正式承認種族滅絕」及「第六起」的描述僅見於 DVB，The Business Standard 僅稱英國「認可」國際法院判決。除 Myo Htut Hlaing 係依英國 2026 年全球人權及國際人道法制裁規則指定外，其餘四人所依制裁規則未見說明。\n以下為本網頁助理補充，非來源內容：國際法院在 2007 年波士尼亞案中曾指出，公約第 1 條的防止義務適用於對可能實施種族滅絕者具有影響力的國家，第三國的外交與經濟措施常被援引為履行該義務的方式之一。",
+   "tags": [
+    "種族滅絕公約",
+    "羅興亞人",
+    "制裁",
+    "英國",
+    "緬甸",
+    "新加坡",
+    "國際法院",
+    "防止義務"
+   ],
+   "sources": [
+    {
+     "label": "新加坡外交部發言人聲明（2026 年 11 月 24 日）",
+     "url": "https://www.mfa.gov.sg/newsroom/press-statements-transcripts-and-photos/mfa-spokesperson-s-comments-on-the-international-court-of-justice-judgment-in-the-gambia-v--myanmar--24-november-2026/",
+     "official": true
+    },
+    {
+     "label": "DVB 報導",
+     "url": "https://english.dvb.no/uk-formally-recognizes-rohingya-genocide-sanctions-5-generals-and-plans-jet-fuel-ban/",
+     "official": false
+    },
+    {
+     "label": "The Business Standard 報導",
+     "url": "https://www.tbsnews.net/world/uk-sanctions-five-myanmar-military-leaders-following-rohingya-genocide-ruling-1612221",
+     "official": false
+    },
+    {
+     "label": "Bernama 報導（英國驅逐武官，11 月 19 日）",
+     "url": "https://bernama.com/en/world/news.php?id=2636882",
+     "official": false
+    }
+   ],
+   "related": [
+    "2026-11-19-icj-gambia-myanmar-merits-judgment",
+    "2026-11-20-icj-gambia-myanmar-reactions"
+   ],
+   "addedAt": "2026-11-24T23:01:22+08:00"
+  },
+  {
+   "id": "2026-11-24-other-japan-icc-advance-payment",
+   "court": "OTHER",
+   "kind": "機構動態",
+   "caseId": "us-sanctions-icc",
+   "date": "2026-11-24",
+   "eventDate": "2026-11-24",
+   "importance": 2,
+   "title": "日本宣布於年底前預繳 2027 年度國際刑事法院全額分攤款，以因應美國制裁",
+   "shortTitle": "日本提前繳付 ICC 2027 年分攤款",
+   "point": "日本約占法院預算 15%，為最大出資國；美國制裁據報將於 2027 年 4 月全面生效",
+   "titleOriginal": "Japan accelerates ICC funding as US sanctions threaten court",
+   "caseRef": "",
+   "tldr": "日本首相高市早苗 11 月 24 日告訴國際刑事法院院長赤根智子，日本會在今年底前就把 2027 年應繳給法院的全部經費先付清。日本是法院最大的出資國，此舉是為了在美國制裁全面生效前，確保法院有錢運作。",
+   "memo": "據路透社報導，日本首相高市早苗於 2026 年 11 月 24 日在首相官邸會見國際刑事法院院長赤根智子，告知日本將於 2026 年底前繳清其 2027 年度全額分攤款。日本約占法院預算百分之十五，為最大出資國；法院正尋求主要出資國於美國制裁 2027 年 4 月全面生效前提前繳款。",
+   "context": "美國自 2025 年起陸續制裁國際刑事法院法官、檢察官等官員，2026 年 10 月 9 日更將制裁擴及法院整體（參見本站前則），法院的銀行往來與資金調度因此面臨困難。日本內閣官房長官木原稔 11 月 12 日曾表示希望年內預繳 2027 年度分攤款，但當時尚未作成決定。\n締約國大會第 25 屆會議將於 2026 年 11 月 30 日開幕，預算與因應制裁是主要議題。",
+   "facts": [
+    "2026 年 11 月 12 日，日本內閣官房長官木原稔表示，政府希望於年內預繳 2027 年度國際刑事法院分攤款，但尚未決定。",
+    "2026 年 11 月 24 日，高市早苗於首相官邸會見國際刑事法院院長赤根智子，並告知日本將於年底前繳清 2027 年度全額分攤款；高市並在 X 上發文說明。",
+    "據路透社報導，日本約占法院預算 15%，其後依序為德國、法國、英國、義大利、南韓及加拿大；美國對法院的制裁將於 2027 年 4 月全面生效。"
+   ],
+   "issues": [
+    "締約國依《羅馬規約》第 115 條、第 117 條負擔法院經費的義務，以及提前繳款作為因應制裁的手段。",
+    "第三國制裁對國際組織財務運作的影響。"
+   ],
+   "holding": "本則為締約國財務支持措施，非司法裁判。報導未載明預繳金額，亦未引述赤根院長的發言。",
+   "significance": "最大出資國提前繳款，可在美國制裁全面生效前為法院預留資金，緩解締約國大會開會前的財務壓力；其他主要出資國是否跟進，將是大會討論的焦點之一。",
+   "editorNote": "本網頁助理 註：本則依 Reuters 報導（經 Daily Maverick 轉載）、Just Security 每日摘要及 nippon.com（時事通信社）11 月 12 日報導撰寫；華盛頓郵報、US News 及 Manila Times 等報導未能讀取，國際刑事法院官網亦未能讀取，故預繳金額、赤根院長的回應及美國制裁「2027 年 4 月全面生效」所指的具體措施均未能核對。",
+   "tags": [
+    "國際刑事法院",
+    "美國制裁",
+    "締約國大會",
+    "分攤款",
+    "日本",
+    "美國",
+    "赤根智子"
+   ],
+   "sources": [
+    {
+     "label": "Reuters 報導（Daily Maverick 轉載）",
+     "url": "https://dailymaverick.co.za/article/2026-11-24-japan-accelerates-icc-funding-as-us-sanctions-threaten-court",
+     "official": false
+    },
+    {
+     "label": "Reuters 原文",
+     "url": "https://www.reuters.com/world/americas/japan-accelerates-icc-funding-us-sanctions-threaten-court-2026-11-24/",
+     "official": false
+    },
+    {
+     "label": "Just Security 每日摘要（11 月 24 日）",
+     "url": "https://www.justsecurity.org/165763/early-edition-november-24-2026/",
+     "official": false
+    },
+    {
+     "label": "nippon.com 報導（11 月 12 日官房長官表態）",
+     "url": "https://www.nippon.com/en/articles/-/57344",
+     "official": false
+    },
+    {
+     "label": "華盛頓郵報報導",
+     "url": "https://www.washingtonpost.com/world/2026/11/24/japan-icc-takaichi-akane-sanctions/8eb3c4e8-e7fd-11f1-8db0-6f1e3c389e7c_story.html",
+     "official": false
+    }
+   ],
+   "related": [
+    "2026-10-09-icc-us-sanctions",
+    "2026-11-23-other-tajikistan-icc-withdrawal"
+   ],
+   "addedAt": "2026-11-24T23:01:22+08:00"
+  },
+  {
+   "id": "2026-11-24-oj-maduro-torture-immunity",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "",
+   "date": "2026-11-24",
+   "eventDate": "",
+   "importance": 2,
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Catalina Peñéñory（紐約執業律師）",
+   "title": "作者主張：美國以酷刑罪追訴馬杜洛，可能開啟現任國家元首屬人豁免的強行法例外",
+   "shortTitle": "馬杜洛酷刑案與元首豁免的缺口",
+   "point": "作者主張應承認外國法院追訴強行法罪行時屬人豁免的狹窄例外，但須有國家實踐與防濫訴保障",
+   "titleOriginal": "Maduro's Universal Jurisdiction Case and the Torture-Led Immunity Loophole",
+   "caseRef": "United States v. Maduro (S.D.N.Y.)",
+   "tldr": "美國今年 1 月逮捕委內瑞拉的馬杜洛，10 月又追加酷刑罪起訴。作者認為，這是美國依普遍管轄追訴酷刑；雖然國際法院 2002 年認為現任高層官員享有完全的屬人豁免，但作者主張，對酷刑等最嚴重的國際罪行，應承認一個很窄的例外，前提是各國實踐支持，並設有防止政治性追訴的保障。",
+   "memo": "Catalina Peñéñory 於 Opinio Juris 撰文主張，美國紐約南區聯邦檢察官於 2026 年 10 月 8 日追加起訴馬杜洛共謀酷刑罪，係依美國法典第 18 編第 2340A 條行使普遍管轄；雖國際法院於逮捕令案認定現任外交部長之屬人豁免無習慣國際法例外，且違法逮捕依 Ker-Frisbie 原則不影響管轄，作者仍主張應承認外國法院追訴強行法罪行時屬人豁免之狹窄例外，惟須以國家實踐及法之確信為基礎，並設防止政治性追訴之保障。",
+   "context": "屬人豁免（ratione personae）保護在任的國家元首、政府首長與外交部長（所謂「三巨頭」），國際法院 2002 年逮捕令案判決認定，即使被控戰爭罪或危害人類罪，現任外交部長在外國法院仍享有完全豁免；屬事豁免（ratione materiae）則被認為對強行法罪行已有例外。\n美國自 2019 年起不承認馬杜洛為委內瑞拉合法總統。據作者所述，美國於 2026 年 1 月 3 日逮捕馬杜洛，並以毒品恐怖主義等罪名起訴。",
+   "facts": [
+    "2026 年 1 月 3 日，美國逮捕馬杜洛並移送美國，作者認為該移送在國際法上具爭議；同月美國以毒品恐怖主義、毒品及武器罪名起訴。",
+    "2026 年 10 月 8 日，紐約南區聯邦檢察官公開追加起訴書，新增共謀酷刑罪，指控期間長達 26 年，被害人至少包括三名美國人。",
+    "美國過去曾依酷刑罪條文追訴 Charles Taylor Jr. 等人，但均非現任或前任「三巨頭」官員。"
+   ],
+   "issues": [
+    "現任或被逮捕時仍實際掌權的國家元首，在外國法院被追訴酷刑等強行法罪行時是否享有屬人豁免。",
+    "美國不承認馬杜洛政府，對其豁免主張的影響。",
+    "違法逮捕對法院管轄的影響（male captus, bene detentus）。",
+    "《羅馬規約》第 17 條、第 27 條，《防止及懲治殘害人群罪公約》第 4 條及日內瓦第一公約第 49 條對國內法院追訴的意涵。"
+   ],
+   "holding": "・作者先指出，依 Ker-Frisbie 原則與「違法逮捕、合法拘禁」法理，違法移送不妨礙美國法院管轄；美國自 2019 年不承認馬杜洛，也不能當然解決習慣國際法上的豁免問題，因為他實際控制政府。\n・作者認為，本案是美國依第 2340A 條第 (b)(2) 款行使普遍管轄，不論被害人或行為人國籍；美國也曾在聯大第六委員會援引此條作為普遍管轄的例證。\n・作者承認屬事豁免已有強行法例外，但屬人豁免至今未見例外，國際法院逮捕令案即為障礙；美國 2022 年在民事訴訟中承認沙烏地王儲豁免，作者認為可與刑事案件區別。\n・作者援引聯合國戰爭罪委員會檔案中二戰期間波蘭、捷克斯洛伐克、比利時對希特勒的起訴，以及學者與前國際刑事法院院長 Eboe-Osuji 的著作，主張「絕對豁免」的前提值得重新檢驗。\n・作者並指出，《羅馬規約》第 17 條的補充性原則可能考量第三國的普遍管轄，第 27 條則未明文排除國內法院的豁免；種族滅絕公約第 4 條及日內瓦第一公約第 49 條要求不論官方身分均應追訴。",
+   "significance": "作者結論是，應承認一個狹窄的例外：外國國內法院追訴強行法罪行時，屬人豁免不適用；但此例外必須以國家實踐與法之確信為基礎，並附有防止政治性追訴的保障。作者認為，馬杜洛案若進行審判，將是現代首例。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：本則依 Opinio Juris 原文撰寫；美國逮捕馬杜洛的經過與起訴內容係依作者描述，未另行核對法院卷證。",
+   "tags": [
+    "國家豁免",
+    "屬人豁免",
+    "普遍管轄",
+    "酷刑",
+    "強行法",
+    "逮捕令案",
+    "委內瑞拉",
+    "美國",
+    "馬杜洛"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/11/24/maduros-universal-jurisdiction-case-and-the-torture-led-immunity-loophole/",
+     "official": false
+    },
+    {
+     "label": "國際法院逮捕令案（剛果民主共和國訴比利時）案件頁",
+     "url": "https://www.icj-cij.org/case/121",
+     "official": true
+    },
+    {
+     "label": "美國紐約南區聯邦檢察官新聞稿（酷刑罪起訴）",
+     "url": "https://www.justice.gov/usao-sdny/pr/nicolas-maduro-moros-and-cilia-adela-flores-de-maduro-charged-torture",
+     "official": false
+    },
+    {
+     "label": "美國向聯大第六委員會提交的普遍管轄資料",
+     "url": "https://www.un.org/en/ga/sixth/79/universal_jurisdiction/us_e.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-24T23:01:22+08:00"
   }
  ],
  "agenda": [
@@ -9591,7 +9890,7 @@
    "title": "白俄羅斯邊境推回三案（波蘭、拉脫維亞、立陶宛）大法庭宣判",
    "note": "史特拉斯堡人權大樓；宣判時刻待公告",
    "url": "https://www.echr.coe.int/w/a.r.-and-others-v.-poland-h.m.m.-and-others-v.-latvia-and-c.o.c.g.-and-others-v.-lithuania",
-   "relatedId": "2026-11-03-ecthr-belarus-border-pushbacks-gc-date",
+   "relatedId": "2026-11-24-ecthr-belarus-pushbacks-gc-judgments",
    "caseId": "ecthr-belarus-border-pushbacks"
   },
   {
@@ -9663,6 +9962,16 @@
    "url": "https://www.icj-cij.org/case/178",
    "relatedId": "2026-11-19-icj-gambia-myanmar-merits-judgment",
    "caseId": "gambia-v-myanmar"
+  },
+  {
+   "id": "2026-12-01-ecthr-ukrainian-children-russia",
+   "date": "2026-12-01",
+   "court": "ECtHR",
+   "title": "烏克蘭赫爾辛基人權聯盟代表十名烏克蘭兒童訴俄羅斯：小法庭宣判",
+   "note": "歐洲人權法院 11 月 23 日公告，史特拉斯堡",
+   "url": "https://www.echr.coe.int/w/ukrainian-helsinki-human-rights-union-on-behalf-of-ten-ukrainian-children-v.-russia-2",
+   "relatedId": "",
+   "caseId": ""
   }
  ],
  "archives": [],
@@ -9698,7 +10007,7 @@
    "nameOriginal": "Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar)",
    "caseRef": "General List No. 178",
    "summary": "甘比亞指控緬甸對羅興亞人的行為違反《防止及懲治種族滅絕罪公約》。",
-   "status": "法院已於 2026 年 11 月 19 日以 9 票對 6 票判決緬甸實施種族滅絕並命其賠償、兩年內提出報告；緬甸政府稱判決不公平，英國尋求安理會討論。"
+   "status": "法院已於 2026 年 11 月 19 日以 9 票對 6 票判決緬甸實施種族滅絕並命其賠償、兩年內提出報告；英國 11 月 23 日正式承認種族滅絕並制裁五名緬甸將領。"
   },
   {
    "id": "drc-v-rwanda",
@@ -9775,7 +10084,7 @@
    "nameOriginal": "U.S. sanctions against the International Criminal Court",
    "caseRef": "",
    "summary": "美國陸續制裁 ICC 官員，2026 年 10 月 9 日擴及法院整體；美國法院訴訟、歐盟保護措施與各國表態同步進行。",
-   "status": "塔吉克 11 月 23 日據報已通知聯合國退出《羅馬規約》（路透社稱為美國施壓以來第四國）；歐盟《阻斷法規》仍未啟動，締約國大會將於 11 月 30 日開幕。"
+   "status": "日本 11 月 24 日宣布年底前預繳 2027 年度分攤款以因應美國制裁；塔吉克 11 月 23 日據報已通知退出《羅馬規約》，締約國大會將於 11 月 30 日開幕。"
   },
   {
    "id": "icc-governance",
@@ -9907,7 +10216,7 @@
    "nameOriginal": "A.R. and Others v. Poland; H.M.M. and Others v. Latvia; C.O.C.G. and Others v. Lithuania",
    "caseRef": "",
    "summary": "三國於 2021 至 2022 年間在白俄羅斯邊境將移民即時推回，申請人主張違反《歐洲人權公約》第 2 條、第 3 條及禁止集體驅逐。",
-   "status": "大法庭已於 2025 年 2 月 12 日辯論，訂於 2026 年 11 月 24 日宣判。"
+   "status": "大法庭已於 2026 年 11 月 24 日宣判：波蘭、拉脫維亞（就兒童及隨行家屬）違反第 3 條，立陶宛以 11 比 6 未違反。"
   },
   {
    "id": "ecthr-banca-sistema",
