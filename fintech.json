@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-24T23:23:37+08:00",
-  "lastRunLocal": "2026-11-24 23:23",
+  "lastRun": "2026-11-25T07:29:44+08:00",
+  "lastRunLocal": "2026-11-25 07:29",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：美國 1（監理指引 1）、亞太與其他 1（立法動態 1）"
+  "lastRunNote": "新增 4 則：美國 3（司法案件 2、政策動態 1）、亞太與其他 1（政策動態 1）"
  },
  "items": [
   {
@@ -2442,7 +2442,8 @@
     "2026-10-28-fin-utah-criminal-charges-kalshi",
     "2026-10-29-fin-kalshi-sues-missouri",
     "2026-11-02-fin-illinois-prediction-markets-injunction-appeal",
-    "2026-11-12-fin-doj-cftc-sue-arkansas-prediction-markets"
+    "2026-11-12-fin-doj-cftc-sue-arkansas-prediction-markets",
+    "2026-11-24-fin-kalshi-pauses-utah"
    ],
    "sources": [
     {
@@ -2949,7 +2950,8 @@
    ],
    "related": [
     "2026-10-27-fin-cftc-sues-utah-prediction-markets",
-    "2026-10-29-fin-kalshi-sues-missouri"
+    "2026-10-29-fin-kalshi-sues-missouri",
+    "2026-11-24-fin-kalshi-pauses-utah"
    ],
    "sources": [
     {
@@ -6616,7 +6618,8 @@
     "美國"
    ],
    "related": [
-    "2026-10-26-fin-occ-ripple-trust-bank-final"
+    "2026-10-26-fin-occ-ripple-trust-bank-final",
+    "2026-11-24-fin-occ-payoneer-trust-bank-conditional"
    ],
    "sources": [
     {
@@ -11862,6 +11865,282 @@
     }
    ],
    "addedAt": "2026-11-24T23:23:37+08:00"
+  },
+  {
+   "id": "2026-11-24-fin-dnm-tribes-kalshi-injunction",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國新墨西哥州",
+   "outlet": "Albuquerque Journal",
+   "outletCode": "ABQJ",
+   "date": "2026-11-24",
+   "eventDate": "2026-11-23",
+   "importance": 2,
+   "author": "",
+   "title": "新墨西哥聯邦地院依印第安博弈管理法核發初步禁制令，命 Kalshi 封鎖四個原住民族領域內之運動事件合約交易",
+   "shortTitle": "聯邦地院禁 Kalshi 於原住民族領域提供運動合約",
+   "point": "11 月 23 日核發初步禁制令並駁回駁回起訴聲請，Kalshi 須於兩週內以地理圍欄封鎖",
+   "titleOriginal": "Judge orders Kalshi to block sports betting on New Mexico tribal lands — for now",
+   "caseRef": "",
+   "tldr": "新墨西哥州四個原住民族（部落）告 Kalshi，認為它的運動預測合約等於在部落土地上經營未經許可的博弈。聯邦法官同意先暫時禁止：Kalshi 要在兩週內封鎖這些部落土地上的用戶，不能再下單運動合約，已成立的合約則不受影響。",
+   "memo": "依 Albuquerque Journal 2026 年 11 月 24 日報導，美國新墨西哥州聯邦地方法院 Margaret Strickland 法官於 2026 年 11 月 23 日，就 Mescalero Apache 族、Isleta、Pojoaque 及 Sandia 普韋布洛依《印第安博弈管理法》（IGRA）對 Kalshi 提起之訴訟，駁回 Kalshi 之駁回起訴聲請，並核發初步禁制令，命 Kalshi 於兩週內以地理圍欄或其他機制，封鎖自前開原住民族領域下單之運動事件合約；法院認自部落領域下單之交易可能適用部落規範，且《商品交易法》不排除 IGRA 之適用。禁制令不溯及既有合約，效力至終局判決時止；證據開示計畫應於 2027 年 1 月 13 日前提出，次一庭期為同年 1 月 20 日。",
+   "context": "Kalshi 為 CFTC 指定之合約市場（DCM），主張其事件合約屬聯邦專屬管轄之交換交易，排除州賭博法。多州及原住民族則認運動事件合約實為運動博弈。\n原住民族於 2026 年 5 月依 IGRA 起訴。IGRA 規範原住民族領域內之博弈，並要求博弈收益之一定比例歸部落政府。\n同期 Kalshi 在馬里蘭州於第四巡迴上訴法院敗訴、在猶他州因聯邦地院不利判決暫停營運，紐約州法院則駁回州檢方之暫時限制令聲請。",
+   "facts": [
+    "法院：美國新墨西哥州聯邦地方法院，Margaret Strickland 法官。",
+    "原告：Mescalero Apache 族、Pueblo of Isleta、Pueblo of Pojoaque、Pueblo of Sandia；2026 年 5 月起訴。",
+    "2026 年 11 月 23 日：駁回 Kalshi 駁回起訴之聲請，並核發初步禁制令。",
+    "Kalshi 須於兩週內以地理圍欄或其他機制封鎖前開領域之存取；依 crypto.news 報導，遵循期限為 12 月 7 日。",
+    "禁制令不解除既有事件合約，效力至終局判決時止。",
+    "依報導，運動合約占 Kalshi 手續費收入約 89%。",
+    "後續：證據開示計畫 2027 年 1 月 13 日前提出，1 月 20 日再開庭。"
+   ],
+   "issues": [
+    "CFTC 監理之交易所上市之運動事件合約，是否構成 IGRA 下之博弈？",
+    "線上交易之發生地，應以下單者所在地或伺服器所在地認定？",
+    "《商品交易法》是否排除 IGRA 與部落主權之適用？",
+    "IGRA 是否容許部落對未簽署博弈協議之第三方業者起訴？"
+   ],
+   "holding": "・駁回 Kalshi 之駁回起訴聲請。\n・認原告就 IGRA 主張具勝訴可能：自部落領域下單之交易，即使伺服器位於他處，仍可能適用部落規範。\n・不採 Kalshi 以《商品交易法》排除 IGRA 之抗辯。\n・核發初步禁制令：Kalshi 須於兩週內封鎖四個原住民族領域內之運動事件合約存取，既有合約不受影響。",
+   "significance": "此為聯邦法院首度依 IGRA 限制 CFTC 指定交易所之運動事件合約，使原住民族成為州政府以外另一條挑戰預測市場之途徑，評論者認可供其他部落援用。後續應注意 Kalshi 是否上訴第十巡迴法院、12 月上旬之遵循情形，以及與第九巡迴法院 Blue Lake Rancheria 案等相關訴訟之見解是否一致。",
+   "editorNote": "本網頁助理 註：裁定全文及案號未能取得，內容依 Albuquerque Journal 報導及 Forbes 評論（頁面部分截斷）整理；遵循期限 12 月 7 日依 crypto.news 報導。以下為本網頁助理補充，非來源內容：「聯邦法院首度依 IGRA 限制」之定性係依 Forbes 評論之說法，未經本網頁助理另行查證。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先",
+    "原住民族博弈",
+    "IGRA",
+    "Kalshi",
+    "新墨西哥州",
+    "美國"
+   ],
+   "related": [
+    "2026-11-24-fin-kalshi-pauses-utah"
+   ],
+   "sources": [
+    {
+     "label": "Albuquerque Journal 報導",
+     "url": "https://www.abqjournal.com/business/judge-orders-kalshi-to-block-sports-betting-on-new-mexico-tribal-lands-for-now/3168921",
+     "official": false
+    },
+    {
+     "label": "Forbes 評論分析（Daniel Wallach）",
+     "url": "https://www.forbes.com/sites/danielwallach/2026/11/24/kalshis-new-mexico-defeat-offers-a-roadmap-for-tribal-gaming-enforcement/",
+     "official": false
+    },
+    {
+     "label": "Source New Mexico 報導",
+     "url": "https://sourcenm.com/2026/11/24/federal-judge-orders-kalshi-to-stop-allowing-sports-gambling-on-some-new-mexico-tribal-lands/",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/kalshi-suspends-trading-utah-federal-court-loss/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T07:29:44+08:00"
+  },
+  {
+   "id": "2026-11-24-fin-kalshi-pauses-utah",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國猶他州",
+   "outlet": "crypto.news",
+   "outletCode": "CNEWS",
+   "date": "2026-11-24",
+   "eventDate": "2026-11-23",
+   "importance": 1,
+   "author": "",
+   "title": "Kalshi 因猶他州聯邦地院不利判決暫停該州預測市場交易，猶他州檢察總長研議民事求償",
+   "shortTitle": "Kalshi 暫停猶他州預測市場交易",
+   "point": "依報導 11 月 23 日宣布，以聯邦法院不利終局判決為由，用戶僅能平倉提領",
+   "titleOriginal": "Kalshi halts prediction market trading in Utah after federal court loss",
+   "caseRef": "",
+   "tldr": "Kalshi 在猶他州的訴訟輸了之後，宣布暫停猶他州用戶的新交易，既有部位可以平倉、資金可以提領，但公司表示仍會繼續在法院爭執。",
+   "memo": "依 crypto.news 及 Covers 2026 年 11 月 24 日報導，Kalshi 於 2026 年 11 月 23 日表示，因聯邦法院對其作成不利之終局判決，暫停於猶他州之預測市場營運，用戶得平倉並提領資金，惟不得新增合約，並將持續於法院爭訟。猶他州聯邦地方法院 Robert J. Shelby 法官前於 2026 年 8 月 4 日就 Kalshi 起訴猶他州一案准許州政府之即決判決聲請，第十巡迴上訴法院於 9 月 8 日駁回 Kalshi 緊急停止執行之聲請；CFTC 及 Crypto.com 另案起訴猶他州，經法院合併審理，於 11 月 20 日開庭但尚未裁判。",
+   "context": "Kalshi 於 2026 年 2 月起訴猶他州，主張其事件合約受 CFTC 專屬管轄，州賭博法不得適用；聯邦地院於 8 月判決 Kalshi 敗訴。\nCFTC 於 10 月起訴猶他州捍衛其管轄，猶他州則於 10 月對 Kalshi 提起民事訴訟並對兩名共同創辦人提起刑事追訴（相關各則見本站先前收錄）。",
+   "facts": [
+    "2026 年 11 月 23 日：Kalshi 發言人向 Salt Lake Tribune 表示暫停猶他州營運。",
+    "既有部位得平倉、資金得提領，不得新增合約；依 Covers 報導，猶他州用戶逾 17.7 萬人。",
+    "2026 年 8 月 4 日：Shelby 法官准許猶他州即決判決聲請；9 月 8 日第十巡迴法院駁回緊急停止執行聲請。",
+    "CFTC 與 Crypto.com 對猶他州之訴訟經合併，11 月 20 日開庭，依報導法官稱 CFTC 面臨「陡坡」，尚未裁判。",
+    "依報導，猶他州檢察總長 Derek Brown 歡迎暫停，並研議民事求償。"
+   ],
+   "issues": [
+    "州法院或聯邦地院認定州賭博法適用後，CFTC 指定交易所能否以聯邦優先抗辯繼續營運？",
+    "CFTC 以原告身分起訴州政府，能否改變既有不利判決之效果？"
+   ],
+   "holding": "・Kalshi 以聯邦法院不利終局判決為由，自行暫停猶他州之新交易。\n・用戶得平倉及提領；公司表示將繼續訴訟。\n・CFTC 與 Crypto.com 對猶他州之合併訴訟尚待裁判。",
+   "significance": "此為 Kalshi 因州層級訴訟敗訴而實際退出單一州市場之案例，顯示聯邦優先爭議在各地法院結果分歧時之實務影響。後續應注意 CFTC 對猶他州合併訴訟之裁判、第十巡迴法院上訴，以及猶他州刑事與民事程序。",
+   "editorNote": "本網頁助理 註：Kalshi 之聲明係經媒體轉述，未見官方法院文件；內容依 crypto.news 及 Covers 報導整理，所稱「不利終局判決」依報導指 2026 年 8 月 Shelby 法官之判決。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先",
+    "Kalshi",
+    "猶他州",
+    "CFTC",
+    "美國"
+   ],
+   "related": [
+    "2026-10-27-fin-cftc-sues-utah-prediction-markets",
+    "2026-10-28-fin-utah-criminal-charges-kalshi",
+    "2026-11-24-fin-dnm-tribes-kalshi-injunction"
+   ],
+   "sources": [
+    {
+     "label": "猶他州檢察總長新聞稿（2026 年 8 月勝訴）",
+     "url": "https://attorneygeneral.utah.gov/utah-defeats-kalshi-in-federal-court/",
+     "official": true
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/kalshi-suspends-trading-utah-federal-court-loss/",
+     "official": false
+    },
+    {
+     "label": "Covers 報導",
+     "url": "https://www.covers.com/industry/kalshi-pauses-prediction-markets-in-utah-after-gambling-enforcement-ruling-nov-24-2026",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T07:29:44+08:00"
+  },
+  {
+   "id": "2026-11-24-fin-occ-payoneer-trust-bank-conditional",
+   "court": "OCC",
+   "kind": "政策動態",
+   "caseId": "icba-v-occ-trust-charters",
+   "jurisdiction": "美國",
+   "outlet": "Tech Times",
+   "outletCode": "TT",
+   "date": "2026-11-24",
+   "eventDate": "2026-11-20",
+   "importance": 1,
+   "author": "",
+   "title": "OCC 附條件初步核准 Payoneer 設立國家信託銀行 PAYO Digital Bank，作為其穩定幣發行主體",
+   "shortTitle": "OCC 附條件核准 Payoneer 信託銀行",
+   "point": "11 月 20 日核准，須維持至少 800 萬美元第一類資本三年，18 個月內未開業即失效",
+   "titleOriginal": "Payoneer Wins Conditional OCC Bank Nod, but PAYO-USD Stablecoin Has No Launch Date or FDIC Insurance",
+   "caseRef": "OCC Conditional Approval CD1395",
+   "tldr": "跨境支付公司 Payoneer 申請在紐約設立聯邦信託銀行，用來發行自家穩定幣，美國貨幣監理署（OCC）先給了附條件的初步核准。銀行開業前還要籌足資本、通過開業前檢查，而且這家銀行不收存款、不放款，穩定幣也不受存款保險保障。",
+   "memo": "依 Tech Times 2026 年 11 月 24 日報導，美國貨幣監理署（OCC）於 2026 年 11 月 20 日附條件初步核准 Payoneer 設立位於紐約之國家信託銀行 PAYO Digital Bank, N.A.（申請於 2026 年 2 月提出），條件包括開業後三年內維持至少 800 萬美元第一類資本、流動資產不低於第一類資本 50% 或 400 萬美元（取其高者）並足以支應 180 日營運費用，並應於開業 60 日前申請開業前檢查；12 個月內未完成增資或 18 個月內未開業者，核准失效。核准函並載明穩定幣非《聯邦存款保險法》所稱存款，該行不受存款保險、不得收受存款或放款。",
+   "context": "GENIUS Act 授權經 OCC 核准之聯邦合格支付型穩定幣發行人發行穩定幣。OCC 於 2026 年 10 月 21 日發布施行最終規則，2027 年 1 月 18 日生效。\nOCC 近月陸續對 Circle、Ripple、Coinbase 等加密資產業者之國家信託銀行作成最終核准；美國獨立社區銀行家協會（ICBA）於 10 月 2 日起訴 OCC，主張其無權為不從事受託業務者核發信託銀行執照。",
+   "facts": [
+    "核准日：2026 年 11 月 20 日（初步附條件核准）；Payoneer 於 11 月 23 日公布。",
+    "申請人：PAYO Digital Bank, N.A.（擬設於紐約之國家信託銀行），2026 年 2 月申請。",
+    "資本：開業後三年至少 800 萬美元第一類資本。",
+    "流動性：流動資產不低於第一類資本 50% 或 400 萬美元（取其高者），並足以支應 180 日營運費用。",
+    "開業前 60 日應申請開業前檢查；12 個月內未增資或 18 個月內未開業，核准失效。",
+    "擬發行之 PAYO-USD 穩定幣尚無發行日期；核准函載明穩定幣非 FDI Act 所稱存款。"
+   ],
+   "issues": [
+    "OCC 以國家信託銀行執照作為穩定幣發行主體，是否逾越《國家銀行法》對信託業務之授權（ICBA 訴訟爭點）？",
+    "支付業者取得聯邦信託銀行執照後，與 GENIUS Act 發行人許可之關係如何？"
+   ],
+   "holding": "・OCC 附條件初步核准 PAYO Digital Bank, N.A. 之設立。\n・資本與流動性條件：800 萬美元第一類資本（三年）、流動資產下限及 180 日營運費用。\n・程序條件：開業前檢查；12 個月增資、18 個月開業期限。\n・業務限制：依報導不受存款保險、不得收受存款或放款；穩定幣非存款。",
+   "significance": "在 GENIUS Act 規則生效前，傳統跨境支付業者亦循 OCC 信託銀行途徑布局穩定幣，顯示聯邦執照已成為非銀行業者發行穩定幣之主要管道。後續應注意最終核准時程、PAYO-USD 是否另依 GENIUS Act 申請發行人許可，以及 ICBA 訴訟結果。",
+   "editorNote": "本網頁助理 註：OCC 核准函（CD1395）未能開啟，條件內容依 Tech Times 對核准函之報導及 Ecommerce Paradise 轉述整理，兩者一致。",
+   "tags": [
+    "信託執照",
+    "穩定幣",
+    "支付服務",
+    "GENIUS Act",
+    "OCC",
+    "Payoneer",
+    "美國"
+   ],
+   "related": [
+    "2026-11-09-fin-coinbase-occ-final-trust-charter"
+   ],
+   "sources": [
+    {
+     "label": "OCC 附條件核准函（CD1395，PDF）",
+     "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1395.pdf",
+     "official": true
+    },
+    {
+     "label": "Tech Times 報導",
+     "url": "https://techtimes.com/articles/331375/20261124/payoneer-wins-conditional-occ-bank-nod-payo-usd-stablecoin-has-no-launch-date-fdic-insurance.htm",
+     "official": false
+    },
+    {
+     "label": "Ecommerce Paradise 報導",
+     "url": "https://ecommerceparadise.com/payoneer-conditional-occ-stablecoin-bank",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T07:29:44+08:00"
+  },
+  {
+   "id": "2026-11-24-fin-snb-swiss-financial-ledger-study",
+   "court": "OTHER",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "瑞士",
+   "outlet": "瑞士國家銀行（SNB）",
+   "outletCode": "SNB",
+   "date": "2026-11-24",
+   "eventDate": "2026-11-24",
+   "importance": 1,
+   "author": "",
+   "title": "瑞士國家銀行與 UBS、SIX 等八家機構啟動「瑞士金融帳本」研究，探討以共用帳本交割代幣化資產",
+   "shortTitle": "瑞士央行偕 UBS、SIX 研究共用金融帳本",
+   "point": "研究整合央行貨幣、商銀貨幣與證券之「Swiss Financial Ledger」，央行強調不代表必然推出",
+   "titleOriginal": "Swiss National Bank partners with UBS and seven other firms to explore tokenized finance",
+   "caseRef": "",
+   "tldr": "瑞士央行和 UBS、瑞士證交所集團 SIX 等八家金融機構，要一起研究建立一個共用的數位帳本，讓央行貨幣、銀行存款和證券可以在同一套系統上交割，用於國內與跨境交易。央行表示這只是研究，不代表一定會上線，也還沒決定是否發行代幣化貨幣。",
+   "memo": "依 Cointelegraph 及 crypto.news 2026 年 11 月 24 日報導，瑞士國家銀行（SNB）於同日宣布與 UBS、SIX、Zürcher Kantonalbank、PostFinance、Banque Cantonale Vaudoise、Basler Kantonalbank、Sygnum Bank 及 Seturion 共同研究「瑞士金融帳本」（Swiss Financial Ledger），探討於共用帳本上整合央行貨幣、商業銀行貨幣及證券，以供國內及跨境交割，並評估效益、風險與治理，由新設 Helvetia Strategic Board 協調、瑞士銀行公會擔任觀察員。SNB 表示，本研究不代表將推出該帳本，亦未決定發行代幣化央行貨幣。",
+   "context": "SNB 自 2019 年起與 BIS 創新中心及 SIX 進行 Project Helvetia，測試以批發型央行數位貨幣（wCBDC）交割代幣化資產；自 2023 年 12 月起經 SIX 數位交易所試行實際發行 wCBDC，依報導試行預定至少延續至 2028 年 6 月。\n本研究並參考 BIS 與國際金融協會（IIF）之 Project Agorá 統一帳本構想。",
+   "facts": [
+    "2026 年 11 月 24 日 SNB 公布。",
+    "參與機構：SNB、UBS、SIX、Zürcher Kantonalbank、PostFinance、Banque Cantonale Vaudoise、Basler Kantonalbank、Sygnum Bank、Seturion。",
+    "新設 Helvetia Strategic Board 協調九方；瑞士銀行公會為觀察員。",
+    "研究對象：整合央行貨幣、商銀貨幣與證券之共用帳本，用於國內及跨境交割；評估效益、風險與治理。",
+    "SNB 表示研究不代表帳本將推出，亦未決定央行是否發行代幣化貨幣；未公布時程。"
+   ],
+   "issues": [
+    "央行貨幣以何種形式（wCBDC 或其他）進入共用帳本？",
+    "共用帳本之治理、法律確定性與交割終局性如何安排？",
+    "與 Project Agorá 等跨國統一帳本計畫如何互通？"
+   ],
+   "holding": "・SNB 與八家機構共同研究「瑞士金融帳本」之可行性。\n・重點：央行貨幣、商銀貨幣與證券於同一帳本整合交割，涵蓋國內及跨境交易。\n・評估面向：效益、風險與治理。\n・SNB 保留：研究結果不預設推出帳本或發行代幣化央行貨幣。",
+   "significance": "瑞士為少數已以 wCBDC 實際交割代幣化證券之法域，此研究將 Helvetia 由單一試行擴展為全市場共用基礎設施之評估，與歐元體系 Appia、BIS Agorá 方向一致。後續應注意研究時程、是否提出法規或治理架構，以及 Helvetia 試行之延續。",
+   "editorNote": "本網頁助理 註：SNB 新聞稿頁面未能開啟，內容依 Cointelegraph 及 crypto.news 報導整理，兩者就參與機構及 SNB 之保留聲明記載一致。",
+   "tags": [
+    "代幣化",
+    "CBDC",
+    "批發型 CBDC",
+    "Project Helvetia",
+    "瑞士國家銀行",
+    "瑞士"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "SNB 新聞稿（2026 年 11 月 24 日）",
+     "url": "https://www.snb.ch/en/publications/communication/press-releases/2026/pre_20261124_2",
+     "official": true
+    },
+    {
+     "label": "SNB Project Helvetia 頁面",
+     "url": "https://www.snb.ch/en/the-snb/mandates-goals/payment-transactions/projekt_helvetia",
+     "official": true
+    },
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/swiss-national-bank-ubs-six-tokenized-settlement/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T07:29:44+08:00"
   }
  ],
  "agenda": [
@@ -12474,6 +12753,16 @@
    "url": "",
    "relatedId": "2026-11-23-fin-ny-court-denies-kalshi-tro",
    "caseId": "us-prediction-markets-preemption"
+  },
+  {
+   "id": "2027-01-20-us-nm-tribes-v-kalshi-hearing",
+   "date": "2027-01-20",
+   "court": "US",
+   "title": "新墨西哥聯邦地院原住民族訴 Kalshi 案次一庭期",
+   "note": "依 Albuquerque Journal 報導；證據開示計畫 1 月 13 日前提出，日期可能變動。",
+   "url": "",
+   "relatedId": "2026-11-24-fin-dnm-tribes-kalshi-injunction",
+   "caseId": "us-prediction-markets-preemption"
   }
  ],
  "cases": [
@@ -12508,7 +12797,7 @@
    "nameOriginal": "Independent Community Bankers of America v. Office of the Comptroller of the Currency (D.D.C.)",
    "caseRef": "",
    "summary": "美國獨立社區銀行家協會主張 OCC 核發不從事受託業務之全國性信託銀行執照（多為加密資產業者）逾越《國家銀行法》授權。",
-   "status": "ICBA 於 2026 年 10 月 2 日起訴；OCC 不評論訴訟，並續於 10 月 26 日最終核准 Ripple、依報導 11 月 6 日最終核准 Coinbase 之信託銀行。"
+   "status": "ICBA 於 2026 年 10 月 2 日起訴，訴訟進行中；OCC 續於 10 月至 11 月最終核准 Ripple、Coinbase 之信託銀行，並於 11 月 20 日附條件初步核准 Payoneer 之 PAYO Digital Bank。"
   },
   {
    "id": "mica-stablecoin-supervision",
@@ -12618,7 +12907,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "紐約州法院 11 月 23 日駁回州檢方對 Kalshi 之暫時限制令聲請，命雙方 11 月 30 日回報未滿 21 歲用戶防護措施，初步禁制令依報導預定 2027 年 1 月審理。"
+   "status": "新墨西哥聯邦地院 11 月 23 日依 IGRA 命 Kalshi 封鎖四個原住民族領域之運動合約，Kalshi 同日宣布暫停猶他州交易；紐約州初步禁制令依報導預定 2027 年 1 月審理。"
   },
   {
    "id": "kr-tokenised-securities",
