@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-24T06:56:37+08:00",
-  "lastRunLocal": "2026-11-24 06:56",
+  "lastRun": "2026-11-24T23:00:27+08:00",
+  "lastRunLocal": "2026-11-24 23:00",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "本次未發現可核實的新動態（網頁讀取工具仍未獲授權，僅以搜尋結果檢查各來源，無法開啟原文）",
+  "lastRunNote": "新增 5 則：商務仲裁 4（實務評論 4）、投資仲裁 1（實務評論 1）；多數來源網頁讀取未獲授權，僅 Kluwer Arbitration Blog 可開啟",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -6779,7 +6779,9 @@
     "承認與執行",
     "管轄條款"
    ],
-   "related": [],
+   "related": [
+    "2026-11-20-arb-kab-brazil-stj-foreign-award-annulment-comment"
+   ],
    "sources": [
     {
      "label": "Migalhas 報導：STJ 判決（含 Cueva 大法官協同意見 PDF 連結）",
@@ -9788,6 +9790,274 @@
     }
    ],
    "addedAt": "2026-11-21T07:00:05+08:00"
+  },
+  {
+   "court": "OTHER",
+   "kind": "實務評論",
+   "jurisdiction": "",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "eventDate": "",
+   "importance": 1,
+   "caseRef": "",
+   "related": [],
+   "addedAt": "2026-11-24T23:00:27+08:00",
+   "id": "2026-11-19-arb-kab-icc-heap-spa-clauses",
+   "field": "commercial",
+   "caseId": "icc-rules-2026",
+   "date": "2026-11-19",
+   "author": "Roland Kläger（Haver & Mailänder）",
+   "title": "ICC 高度簡易程序適合股權買賣契約嗎？作者主張只宜針對價金調整等可客觀認定的爭議類型約定",
+   "shortTitle": "股權買賣契約該約定 ICC 高度簡易程序嗎？",
+   "point": "作者認為僅價金調整、盈利對賭、提存釋放等單純爭議適合，不宜全面適用",
+   "titleOriginal": "ICC Highly Expedited Arbitration Clauses: A Useful Addition in Share Purchase Agreements?",
+   "tldr": "2026 年 ICC 仲裁規則新增「高度簡易程序」，須雙方都同意才適用，最終判斷要在程序會議後三個月內作成。作者分析併購交易後的股權買賣糾紛，認為只有像收購價金調整這類有文件可查、不需大量證人鑑定的爭議才適合，不建議把所有爭議都丟進這套程序。",
+   "memo": "Roland Kläger 於 Kluwer Arbitration Blog 撰文指出，2026 年 ICC 仲裁規則第 33 條及附件六之高度簡易程序以全體當事人合意為要件，由獨任仲裁人於首次案件管理會議後三個月內作成判斷，並得限制書狀、文書提出及證人鑑定。作者主張，於股權買賣契約中僅宜就價金調整、客觀盈利對賭、提存釋放及里程碑付款等文件明確之爭議類型約定適用，不宜概括約定，並應明定仲裁地、語言及排除反請求之處理。",
+   "context": "2026 年 ICC 仲裁規則於 2026 年 6 月 1 日施行，新增選擇適用（opt-in）之高度簡易程序（Highly Expedited Arbitration Provisions，第 33 條及附件六），與原有之簡易程序（Expedited Procedure Provisions）並存。\n併購交易完成後，股權買賣契約常見爭議包括交割帳目與營運資金調整、價值外流（leakage）、盈利對賭（earn-out）及陳述與保證違反等，實務上常以專家決定條款處理價金調整。",
+   "facts": [
+    "高度簡易程序無金額門檻，亦不自動適用，須全體當事人合意。",
+    "最終判斷應於首次案件管理會議後三個月內作成；仲裁聲請書須併附請求書，答辯書須併附答辯及反請求。",
+    "由獨任仲裁人審理；當事人未於期限內共同選定時由 ICC 國際仲裁院指定。",
+    "仲裁人得限制書狀、文書提出及證人與專家證據，並得不開庭而書面審理；排除參加與合併，但仍得提出反請求；當事人得約定判斷不附理由。"
+   ],
+   "issues": [
+    "高度簡易程序是否適合股權買賣契約之交易後爭議。",
+    "應如何設計條款範圍，以處理反請求、抵銷及判斷不附理由之執行風險（附件六第 1 條第 2 項）。"
+   ],
+   "holding": "・作者指出，事實有爭執、需專家或大量證人、或涉及多方多契約之爭議，以三個月期限審理風險過高。\n・適合類型為交割帳目與營運資金調整、價值外流、以客觀指標計算之盈利對賭、提存款釋放及有文件證明之里程碑付款；概括之保證違反、詐欺或經營行為爭議則少有適合者。\n・高度簡易程序可取代專家決定條款，或作為專家決定之後續快速程序，判斷專家決定是否具拘束力；作者並指出德國實務常爭執應由專家或仲裁庭決定。\n・作者反對以一般條款將股權買賣契約所有爭議交付高度簡易程序，建議依爭議類型個別約定；非屬該程序之反請求或抵銷得約定排除，或依附件六第 1 條第 2 項終止適用。\n・條款應明定仲裁地與語言；約定判斷不附理由時，應確認仲裁地法是否允許及是否影響執行。",
+   "significance": "作者結論：高度簡易程序並非解決併購後爭議成本與時間的一般方案，但對於範圍狹窄、文件明確且自成一體、三個月取得判斷之價值高於專家決定或一般仲裁的爭議，可能是合適選項。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。",
+   "tags": [
+    "ICC",
+    "ICC 2026 年仲裁規則",
+    "簡易程序",
+    "股權買賣",
+    "併購",
+    "專家決定",
+    "仲裁條款"
+   ],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 評論",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/icc-highly-expedited-arbitration-clauses-a-useful-addition-in-share-purchase-agreements/",
+     "official": false
+    }
+   ]
+  },
+  {
+   "court": "OTHER",
+   "kind": "實務評論",
+   "jurisdiction": "",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "eventDate": "",
+   "importance": 1,
+   "caseRef": "",
+   "related": [],
+   "addedAt": "2026-11-24T23:00:27+08:00",
+   "id": "2026-11-19-arb-kab-universal-succession-demergers",
+   "field": "commercial",
+   "caseId": "",
+   "date": "2026-11-19",
+   "author": "Nicolás Hernández Bernal（Rebaza, Alcázar & de las Casas）、Ignacio Tovar（Bullard, Falla, Ezcurra）",
+   "title": "公司分割時仲裁協議隨概括承受移轉，不以分割計畫明文提及為必要",
+   "shortTitle": "公司分割後，仲裁協議跟著走嗎？",
+   "point": "作者主張仲裁協議隨被移轉的法律關係概括承受，無須承受公司另行同意或分割計畫明文",
+   "titleOriginal": "Universal Succession and the Transfer of Arbitration Agreements in Corporate Demergers",
+   "tldr": "公司把某個事業部門分割給新公司時，原本契約裡的仲裁條款是否一起轉過去？作者認為這和「沒簽約的人能否被拉進仲裁」是不同問題：只要新公司承接了原本的法律地位，仲裁協議就跟著移轉，即使分割計畫沒有特別寫到仲裁條款也一樣。",
+   "memo": "Nicolás Hernández Bernal 與 Ignacio Tovar 於 Kluwer Arbitration Blog 撰文主張，公司合併或分割之概括承受，仲裁協議原則上隨所移轉之法律關係由承受公司承繼，其判斷標準在於承受公司是否取得原當事人之法律地位，而非其是否同意仲裁。作者援引 Yara 訴 Acron 案（SCC Case No. V135/2006）部分判斷及英國高等法院 HD Hyundai 訴 Energyen 案，認為分割計畫無須明文提及仲裁協議；當事人得約定排除，具專屬人格性之協議則屬應從嚴解釋之例外。",
+   "context": "仲裁協議對非簽署人之效力，通常以同意理論（如默示同意、公司集團理論）處理；公司合併、分割所生之概括承受則涉及公司法上之權利義務移轉。\n秘魯、捷克、斯洛伐克及迦納等國仲裁法明定仲裁協議隨概括承受移轉。",
+   "facts": [
+    "Yara International ASA v. JSC Acron（SCC Case No. V135/2006，2008 年部分判斷）：Norsk Hydro 於 1996 年與 Acron 及 North River 簽訂含仲裁條款之股東協議；Norsk Hydro 將肥料事業（Hydro Agri）分割予 Yara，2004 年 3 月 24 日生效，Yara 於 2006 年提起仲裁。",
+    "Acron 抗辯分割計畫未明文提及仲裁協議，故未移轉；仲裁庭以分割計畫概括移轉與肥料事業相關爭議之一切權利為由，認定仲裁協議已移轉。",
+    "英國高等法院於 HD Hyundai Heavy Industries v. Energyen（[2025] EWHC 1586）認定依韓國法，仲裁協議隨契約概括承受移轉，無須通知或同意。"
+   ],
+   "issues": [
+    "公司分割之概括承受是否當然移轉仲裁協議。",
+    "分割計畫未明文提及仲裁協議時，仲裁協議是否仍隨之移轉；可分性原則之適用範圍。"
+   ],
+   "holding": "・作者指出，概括承受下仲裁協議之移轉與非簽署人同意理論邏輯不同，關鍵在承受公司是否承接原當事人之法律地位。\n・原則上仲裁協議隨概括承受移轉，作者援引秘魯、捷克、斯洛伐克及迦納立法與 HD Hyundai 案為據。\n・例外為當事人約定合併或分割將終止仲裁協議（作者引 ICC 第 2626 號判斷），以及具專屬人格性之協議，後者應從嚴解釋。\n・作者認為 Yara 案仲裁庭說理簡略，並以三點反對要求明文提及：此將不當擴張可分性原則至承繼問題、使分割公司得藉此將爭議移出約定法庭、整體移轉之事業單位應連同規範其法律關係之協議一併移轉。\n・作者並引韓國大法院 2014 年見解，認為分割計畫之解釋應依分割之目的與真意。",
+   "significance": "作者結論：仲裁協議之移轉是基礎法律關係延續的結果，而非新的仲裁合意；部分分割亦同，承繼範圍限於所移轉之資產負債，無須明文提及仲裁協議；當事人自主在相關公司法容許範圍內運作。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：所引判斷與判決依作者所述整理，本網頁助理未另行取得原文。",
+   "tags": [
+    "非簽署人",
+    "仲裁協議",
+    "概括承受",
+    "公司分割",
+    "SCC",
+    "秘魯",
+    "英國",
+    "南韓"
+   ],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 評論",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/universal-succession-and-the-transfer-of-arbitration-agreements-in-corporate-demergers/",
+     "official": false
+    }
+   ]
+  },
+  {
+   "court": "OTHER",
+   "kind": "實務評論",
+   "jurisdiction": "巴西",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "eventDate": "",
+   "importance": 1,
+   "caseRef": "",
+   "related": [
+    "2026-10-13-arb-brazil-stj-foreign-award-annulment-admitted"
+   ],
+   "addedAt": "2026-11-24T23:00:27+08:00",
+   "id": "2026-11-20-arb-kab-brazil-stj-foreign-award-annulment-comment",
+   "field": "commercial",
+   "caseId": "brazil-stj-resp-2224272",
+   "date": "2026-11-20",
+   "author": "Riccardo Torre、Julia Menta（Wald Advogados）",
+   "title": "賣方律師評巴西高等法院 REsp 2.224.272 號判決：選定巴西法院及巴西仲裁法時，可在巴西撤銷外國仲裁地判斷",
+   "shortTitle": "賣方律師評巴西法院撤銷紐約判斷的管轄權",
+   "point": "作者指出須同時約定巴西法院管轄與巴西仲裁法，門檻狹窄，並非把仲裁拉回本國",
+   "titleOriginal": "A Blue Moon over Brazil: Superior Court of Justice Opens Brazilian Courts' Doors to the Annulment of a Foreign Arbitral Award",
+   "tldr": "巴西高等法院 10 月判定，一件以紐約為仲裁地的 ICC 判斷，可以在巴西法院請求撤銷。代理賣方的律師撰文說明理由：當事人同時約定巴西法院管轄、且仲裁程序適用巴西仲裁法，才符合條件；兩者缺一不可，這扇門開得很窄。",
+   "memo": "Riccardo Torre 與 Julia Menta（Wald Advogados，該案上訴人即賣方之代理團隊成員）於 Kluwer Arbitration Blog 撰文指出，巴西高等法院第三庭於 2026 年 10 月 6 日在 REsp 2.224.272/SP 案一致認定，當事人同時約定巴西法院為撤銷之訴專屬管轄法院及巴西法為仲裁程序準據法時，巴西法院就紐約仲裁地之 ICC 判斷撤銷之訴有管轄權，並依紐約公約第 5 條第 1 項 (e) 款解釋「依其法律作成判斷之國家」包括當事人選定之程序法。作者強調要件狹窄，案件發回聖保羅邦上訴法院審理實體。",
+   "context": "本案涉及 Bezerra 家族將 BicBanco 出售予中國建設銀行（CCB）之交易。仲裁條款約定 ICC 仲裁、仲裁地紐約（第 10.4 條），巴西法為仲裁程序法（第 10.6 條），並約定依巴西仲裁法第 32 條提起撤銷之訴由聖保羅法院專屬管轄（第 10.12 條）。\n仲裁庭作成有利於 CCB 之部分判斷，認定契約之稅負補足（gross-up）義務不受金額上限限制。CCB 就該判斷向巴西高等法院特別庭聲請承認（HDE 8.716），仍待決。\n本站已於 2026-10-13 收錄該判決。",
+   "facts": [
+    "賣方依巴西仲裁法第 32 條（III、IV、VIII 款）請求撤銷，主張仲裁庭逾越仲裁協議範圍等；第一審駁回 CCB 之管轄抗辯。",
+    "聖保羅邦上訴法院廢棄第一審，認為外國判斷經巴西高等法院承認前在巴西不生效力，撤銷欠缺利益。",
+    "巴西高等法院第三庭於 2026 年 10 月 6 日一致認定巴西法院有管轄權；主筆法官 Nancy Andrighi 於 9 月 1 日投票，Villas Bôas Cueva 法官曾請求延後審議。"
+   ],
+   "issues": [
+    "巴西法院就外國仲裁地判斷之撤銷之訴是否有管轄權（民事訴訟法第 22 條第 III 款、仲裁法第 2 條第 1 項）。",
+    "紐約公約第 5 條第 1 項 (e) 款「依其法律」之解釋。",
+    "外國判斷未經承認前，於巴西是否不生效力。"
+   ],
+   "holding": "・作者說明，高等法院要求兩要件並存：約定巴西法院管轄（民事訴訟法第 22 條第 III 款）及以巴西法為仲裁程序法；當事人選擇程序法依仲裁法第 2 條第 1 項有效。\n・法院依 UNCITRAL 秘書處紐約公約指南，將第 5 條第 1 項 (e) 款解釋為包括當事人選定之程序法，且不違反公共秩序；紐約公約依第 4,311/2002 號命令於巴西生效。\n・法院駁斥邦上訴法院之「不生效力」見解，區分撤銷（攻擊效力，主動途徑）與拒絕承認（阻止生效，被動途徑），判斷作成時即有拘束力，承認僅賦予執行力。\n・作者強調門檻狹窄：單有管轄條款不足，且經第 14,879/2024 號法律修正之民事訴訟法第 63 條限制管轄合意須與當事人住所或債務履行地相關；Andrighi 法官並對撤銷之訴增加表示遺憾。\n・作者認為若關閉此門，賣方將無法院可求；George Bermann 教授之鑑定意見指出紐約法院將尊重聖保羅法院，且美國之撤銷期限已過。",
+   "significance": "作者結論：本判決代表巴西接受法秩序多元，而非將仲裁拉回本國；當事人明確同時選定巴西法院與巴西仲裁法時，得以巴西為外國判斷之撤銷地。案件發回聖保羅邦上訴法院審理撤銷實體，CCB 之承認聲請仍待決。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：作者揭露其為本案上訴人（賣方）代理團隊成員；判決內容依作者所述整理，本網頁助理未另行取得判決原文。",
+   "tags": [
+    "撤銷仲裁判斷",
+    "紐約公約",
+    "仲裁地",
+    "巴西",
+    "ICC",
+    "承認與執行",
+    "管轄條款"
+   ],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 評論",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/a-blue-moon-over-brazil-superior-court-of-justice-opens-brazilian-courts-doors-to-the-annulment-of-a-foreign-arbitral-award/",
+     "official": false
+    }
+   ]
+  },
+  {
+   "court": "OTHER",
+   "kind": "實務評論",
+   "jurisdiction": "中國大陸",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "eventDate": "",
+   "importance": 1,
+   "caseRef": "",
+   "related": [],
+   "addedAt": "2026-11-24T23:00:27+08:00",
+   "id": "2026-11-23-arb-kab-bac-arbitrator-disclosure-guidelines",
+   "field": "commercial",
+   "caseId": "",
+   "date": "2026-11-23",
+   "author": "Joanna Du、Zhen Yang（金杜律師事務所 King & Wood）",
+   "title": "北京仲裁委員會仲裁人揭露指引草案：沿用紅橙黃綠分級，作者建議分擔當事人揭露責任並防範策略性迴避",
+   "shortTitle": "評北京仲裁委員會仲裁人揭露指引草案",
+   "point": "作者肯定情境化分類，但建議當事人分擔揭露資助者等關係，並防範換律師後的策略性迴避",
+   "titleOriginal": "Beyond the Traffic Light: Draft BAC Guidelines on Arbitrator Disclosure",
+   "tldr": "北京仲裁委員會今年 5 月公布商事仲裁仲裁人揭露指引草案，借用國際律師協會（IBA）指引的紅、橙、黃、綠四級分類，告訴仲裁人哪些關係必須迴避、哪些要揭露。作者認為草案比 IBA 指引更貼近具體情境，但建議讓當事人也負責揭露第三方資助者等關係，並避免過度揭露與換律師製造迴避事由。",
+   "memo": "Joanna Du 與 Zhen Yang 於 Kluwer Arbitration Blog 撰文評析北京仲裁委員會／北京國際仲裁中心會同北京市律師協會及中國政法大學仲裁研究院於 2026 年 5 月公布之商事仲裁仲裁人信息披露示範指引（徵求意見稿）。草案為無拘束力之參考架構，採紅、橙、黃、綠四級分類，第 3 條採合理第三人標準並於有疑義時傾向揭露，第 4 條明定揭露本身不代表欠缺獨立性。作者建議由當事人分擔辨識資助者及關係企業之責任，增設防範更換代理人後策略性迴避之規定，並避免過度揭露。",
+   "context": "仲裁人揭露義務之國際參考主要為 IBA 國際仲裁利益衝突指引（紅、橙、綠清單）。\n北京仲裁委員會／北京國際仲裁中心 2026 年仲裁規則將迴避聲請交由該會（第 27 條第 6 項）或依國內規則由主任決定（第 36 條第 6 項），並於第 27 條第 7 項、第 36 條第 7 項設有防範更換代理人引發迴避之規定。\n草案公開徵求意見至 2026 年 5 月 30 日。",
+   "facts": [
+    "草案分為紅（不得擔任）、橙（揭露並經全體當事人明示接受後始得擔任）、黃（應揭露，除迴避成立外通常得續任）、綠（無須揭露）四類。",
+    "草案附操作指引表，將關係區分為身分關係與行為關係。",
+    "作者引新加坡國際仲裁中心迴避決定彙編：2014 至 2023 年 19 件決定中，僅 2 件迴避成立。"
+   ],
+   "issues": [
+    "仲裁人揭露之判斷標準與分級設計。",
+    "當事人是否應分擔揭露義務（如第三方資助者、關係企業）。",
+    "如何防範策略性迴避與過度揭露。"
+   ],
+   "holding": "・作者指出，草案較 IBA 指引更以情境為導向，操作指引表有助仲裁人判斷。\n・第 3 條以合理第三人標準決定是否揭露，有疑義時傾向揭露；第 4 條明定揭露不等於欠缺獨立性。\n・作者建議由當事人分擔辨識資助者及關係企業等實體之責任。\n・作者指出仲裁規則已有防範更換代理人後策略性迴避之規定，但草案未納入，建議補充。\n・作者提醒過度揭露之風險，並以新加坡國際仲裁中心之迴避決定統計為參照。",
+   "significance": "作者認為草案若定稿，將為中國大陸商事仲裁提供較具體的揭露參考標準；建議在明確性與防範濫用之間取得平衡。草案定稿時程尚未公布。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：草案於 2026 年 5 月公布、徵求意見已於 5 月 30 日截止，早於本站收錄範圍，本則僅就本篇評論收錄；草案中文名稱為本網頁助理依原文英文名稱意譯，未取得草案原文核對。",
+   "tags": [
+    "仲裁人揭露",
+    "仲裁人迴避",
+    "IBA 利益衝突指引",
+    "中國大陸",
+    "北京仲裁委員會",
+    "SIAC",
+    "第三方資助"
+   ],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 評論",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/beyond-the-traffic-light-draft-bac-guidelines-on-arbitrator-disclosure/",
+     "official": false
+    }
+   ]
+  },
+  {
+   "court": "OTHER",
+   "kind": "實務評論",
+   "jurisdiction": "",
+   "outlet": "Kluwer Arbitration Blog",
+   "outletCode": "KAB",
+   "eventDate": "",
+   "importance": 1,
+   "caseRef": "",
+   "related": [],
+   "addedAt": "2026-11-24T23:00:27+08:00",
+   "id": "2026-11-24-arb-kab-icsid-contract-based-data",
+   "field": "investment",
+   "caseId": "",
+   "date": "2026-11-24",
+   "author": "Ana Constanza Conover Blancas、Phoebe Ngan（ICSID）",
+   "title": "ICSID 人員解讀契約型仲裁數據：175 件、申請人勝訴率 66%，高於整體案件",
+   "shortTitle": "ICSID 數據：契約型仲裁申請人勝率較高",
+   "point": "作者指出契約型案件占 16%，無管轄權比例 14%、申請人勝訴 66%，均優於整體案件",
+   "titleOriginal": "Numbers Don't Lie: What ICSID's Latest Data Tell Us About Contract-Based Arbitration",
+   "tldr": "ICSID 早期案件全都是投資人依與國家簽的契約提起的仲裁，後來才被條約仲裁取代。兩位 ICSID 人員依該中心 2026 年 6 月的背景文件指出，這類契約型案件至今有 175 件，多涉及非洲國家與油氣礦業；與整體相比，被認定無管轄權的比例較低、投資人勝訴比例較高、審理也較快。",
+   "memo": "ICSID 人員 Ana Constanza Conover Blancas 與 Phoebe Ngan 於 Kluwer Arbitration Blog 撰文指出，依 ICSID 2026 年 6 月契約型仲裁背景文件（統計至 2025 年 12 月 31 日），契約型案件計 175 件，占 ICSID 案件 16%，其中 49% 涉及非洲國家、47% 屬油氣礦業。契約型判斷認定無管轄權比例為 14%（整體 20%），申請人全部或一部勝訴比例 66%（整體 49%），平均審理 40 個月（整體 47 個月），給付損害賠償之判斷 92% 經自願履行或和解。作者建議審慎起草契約爭端解決條款。",
+   "context": "ICSID 首件契約型案件為 1972 年 Holiday Inns 訴摩洛哥案（ARB/72/1），約十年間 ICSID 案件均屬契約型，其後條約仲裁成為主流。\nICSID 於 2026 年 6 月發布契約型 ICSID 仲裁背景文件，並推出新版契約示範條款。",
+   "facts": [
+    "契約型案件占 ICSID 案件 16%（仲裁 93%、調解 7%）；條約型仲裁占 78%。各年代案件數：1970 年代 9 件、1980 年代 14 件、1990 年代 19 件、2000 年代 40 件、2010 年代 58 件、2021–2025 年 35 件。",
+    "49% 涉及非洲國家（撒哈拉以南 46%，整體為 21%），南美 21%，南亞、東亞及太平洋 11%；投資人以西歐 32% 最多。",
+    "45% 案件援用 ICSID 公約第 25 條第 2 項 (b) 款（當地法人經約定視為外國人），17% 有國家機關或地方政府為當事人。",
+    "油氣礦業占 47%（整體 26%），電力及其他能源另占 16%。",
+    "27% 案件有兩名以上申請人；反請求於 26% 案件提出，已終結程序中 31% 全部或一部成立。",
+    "給付損害賠償之判斷中，逾 5,000 萬美元者占 17%（整體 15%）；48% 判斷之申請人獲得超過請求金額一半（整體 34%）。140 件已終結案件中 43% 和解或撤回（整體 34%）。"
+   ],
+   "issues": [
+    "契約型 ICSID 仲裁與整體案件在管轄、勝訴率、損害賠償與審理期間上的差異。",
+    "國家契約爭端解決條款之起草（ICSID 公約第 25 條要件、多方當事人）。"
+   ],
+   "holding": "・作者回顧契約型仲裁為 ICSID 最早的案件類型。\n・作者依背景文件說明案件分布、地理與產業集中於非洲與油氣礦業。\n・作者比較結果：契約型判斷認定無管轄權 14%（整體 20%），申請人全部或一部勝訴 66%（整體 49%），責任與損害均勝訴 62%（整體 45%）。\n・作者指出平均審理 40 個月，短於整體 47 個月；給付損害賠償之 ICSID 公約判斷有 92% 經自願履行或和解。\n・作者建議契約條款預先處理第 25 條要件及多方當事人，並可運用 2022 年 ICSID 規則之合併、協調與簡易仲裁規定及新版契約示範條款。",
+   "significance": "作者結論：契約型仲裁仍然活躍，且較整體案件少見管轄權遭駁回、申請人勝訴比例較高，但每件爭議仍取決於個別契約，起草須審慎。",
+   "editorNote": "本則為實務評論，內容代表作者個人見解，非法院、仲裁機構或官方立場。本網頁助理 註：作者為 ICSID 秘書處人員，數據來自 ICSID 2026 年 6 月背景文件，本網頁助理未取得該文件原文核對；該背景文件早於本站收錄範圍，本則僅就本篇評論收錄。",
+   "tags": [
+    "ICSID",
+    "案件統計",
+    "國家契約",
+    "ICSID 公約第 25 條",
+    "示範條款",
+    "損害賠償"
+   ],
+   "sources": [
+    {
+     "label": "Kluwer Arbitration Blog 評論",
+     "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/numbers-dont-lie-what-icsids-latest-data-tell-us-about-contract-based-arbitration/",
+     "official": false
+    }
+   ]
   }
  ],
  "agenda": [
