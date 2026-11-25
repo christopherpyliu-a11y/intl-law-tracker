@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-25T22:59:19+08:00",
-  "lastRunLocal": "2026-11-25 22:59",
+  "lastRun": "2026-11-26T06:56:46+08:00",
+  "lastRunLocal": "2026-11-26 06:56",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 4 則：其他 1（菲律賓最高法院駁回杜特蒂人身保護令）、EJIL 評論 1、Opinio Juris 評論 2"
+  "lastRunNote": "本次未新增：網頁讀取工具遭封鎖，無法閱讀法院官網與部落格原文，待下次執行補查"
  },
  "items": [
   {
