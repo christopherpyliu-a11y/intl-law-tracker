@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-25T06:57:32+08:00",
-  "lastRunLocal": "2026-11-25 06:57",
+  "lastRun": "2026-11-25T23:01:05+08:00",
+  "lastRunLocal": "2026-11-25 23:01",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "本次未發現新動態（本次各來源網頁均無法讀取，僅以網路搜尋檢查）",
+  "lastRunNote": "新增 2 則：商務仲裁 1（案件動態 1）、投資仲裁 1（法院裁判 1）",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -8837,7 +8837,9 @@
     "和解",
     "仲裁判斷執行"
    ],
-   "related": [],
+   "related": [
+    "2026-11-24-arb-tullow-ghana-tax-settlement"
+   ],
    "sources": [
     {
      "label": "3News 報導：迦納與 Tullow 就稅款達成路線圖",
@@ -10058,6 +10060,151 @@
      "official": false
     }
    ]
+  },
+  {
+   "id": "2026-11-25-arb-ddc-stabil-v-russia-crimea-award-enforced",
+   "court": "COURT",
+   "kind": "法院裁判",
+   "field": "investment",
+   "caseId": "stabil-v-russia",
+   "jurisdiction": "美國",
+   "outlet": "Lawyer Monthly（新聞報導）",
+   "outletCode": "LM",
+   "date": "2026-11-25",
+   "eventDate": "2026-11-24",
+   "importance": 2,
+   "author": "",
+   "title": "美國聯邦地院駁回俄羅斯依紐約公約提出的全部抗辯，支持執行烏克蘭加油站業者就克里米亞資產遭奪取所獲約 3,400 萬美元仲裁判斷",
+   "shortTitle": "美國法院支持執行 Stabil 對俄羅斯克里米亞判斷",
+   "point": "瑞士法院判決具爭點排除效力，俄方條約範圍、公共政策等紐約公約抗辯全遭駁回",
+   "titleOriginal": "Stabil LLC et al. v. Russian Federation (D.D.C.), Memorandum Opinion of 24 November 2026",
+   "caseRef": "",
+   "tldr": "十一家烏克蘭公司在克里米亞經營的 31 座加油站，於 2014 年後遭俄羅斯奪取，它們依俄烏投資協定打贏仲裁，獲判約 3,400 萬美元。美國華府聯邦地院 11 月 24 日駁回俄羅斯依紐約公約提出的各項抗辯，支持執行這份判斷；先前俄方主張豁免、一路打到美國最高法院都失敗。",
+   "memo": "美國哥倫比亞特區聯邦地方法院 Trevor McFadden 法官於 2026 年 11 月 24 日就 Stabil 等十一家烏克蘭公司對俄羅斯聲請承認與執行 2019 年 4 月 12 日投資條約仲裁判斷（約 3,400 萬美元）一案，駁回俄羅斯依紐約公約提出之抗辯，認為瑞士聯邦最高法院先前駁回俄方管轄權及撤銷聲請之判決具爭點排除效力，俄方不得就 1998 年俄烏雙邊投資協定之適用範圍再行爭執，且其條約解釋本身亦不成立；另駁回以實質受益人為由之公共政策抗辯及相關證據開示聲請。利息依判斷所定利率計至判決登錄時止。",
+   "context": "Stabil 等十一家烏克蘭公司在克里米亞擁有並經營 31 座加油站。俄羅斯於 2014 年併吞克里米亞後，相關資產遭奪取。各公司於 2015 年 6 月依 1998 年俄羅斯—烏克蘭雙邊投資協定提起仲裁，仲裁地在瑞士。\n仲裁庭於 2019 年 4 月 12 日作成賠償判斷，命俄羅斯賠償約 3,400 萬美元及利息。瑞士聯邦最高法院先於 2018 年駁回俄羅斯對仲裁庭管轄權決定之挑戰，並於 2019 年 12 月駁回俄方撤銷判斷之聲請。\n各公司於 2022 年 4 月在美國依紐約公約聲請承認與執行。俄羅斯以主權豁免及對人管轄權為由聲請駁回，地院於 2024 年 12 月駁回，哥倫比亞特區巡迴上訴法院於 2026 年 2 月 13 日維持，美國最高法院其後拒絕受理俄方上訴（據報導為 2026 年 6 月 29 日）。案件因此回到地院審理紐約公約下的實體抗辯。",
+   "facts": [
+    "聲請人為十一家烏克蘭公司，於克里米亞擁有並經營 31 座加油站，於俄羅斯併吞克里米亞後失去資產。",
+    "仲裁庭於 2019 年 4 月 12 日作成賠償判斷；瑞士法院已駁回俄方管轄權挑戰（2018 年）及撤銷聲請（2019 年 12 月）。",
+    "美國地院於 2024 年 12 月駁回俄方豁免抗辯，上訴法院於 2026 年 2 月維持，最高法院拒絕受理。",
+    "地院於 2026 年 11 月 24 日以備忘錄意見處理俄方依紐約公約提出之抗辯。"
+   ],
+   "issues": [
+    "仲裁庭是否逾越仲裁協議範圍（紐約公約第 5 條第 1 項第 c 款），即 1998 年俄烏投資協定是否及於俄方併吞後之克里米亞投資。",
+    "仲裁地（瑞士）法院駁回撤銷之判決，對美國執行法院是否具爭點排除效力。",
+    "以聲請人實質受益人身分為由之公共政策抗辯（第 5 條第 2 項第 b 款）及相關證據開示是否成立。",
+    "俄方主張武裝衝突期間條約暫停適用之論點能否於遲延階段提出。"
+   ],
+   "holding": "・爭點排除：法院認為瑞士聯邦最高法院先前之判決可產生爭點排除效力，俄羅斯不得在美國重新爭執投資協定之適用範圍。\n・條約解釋：法院另行審酌後，亦不採俄方對投資協定第 12 條及其所定 1992 年 1 月 1 日時點之解釋，認為仲裁庭未逾越權限。\n・公共政策：俄方以聲請人之實質受益人涉有不法為由主張執行違反美國公共政策，並聲請相關證據開示，均遭駁回。\n・其他抗辯：俄方援引美國政府對克里米亞之立場所提論點不成立；法院亦拒絕准許俄方遲延補提條約於武裝衝突期間暫停適用之書狀。\n・利息：依報導，判斷所定利息於 2024 年 9 月 30 日前按三個月期美元 LIBOR 加 1 個百分點按年複利計算，自 2024 年 10 月 1 日起至判決登錄時止，改按三個月期 CME Term SOFR 加 0.26161 個百分點按年複利計算。",
+   "significance": "本案是繼 Naftogaz 等案之後，美國法院再次支持執行克里米亞相關投資條約判斷，並明確承認仲裁地法院就管轄權問題之判決在執行程序中可具爭點排除效力，使俄羅斯難以在各執行地重複爭執同一條約適用問題。報導指出，意見書並未指明可供扣押之俄羅斯資產，也未提及俄方是否已有任何給付；俄方仍可能就本判決向哥倫比亞特區巡迴上訴法院上訴。",
+   "editorNote": "本網頁助理 註：本則依 Lawyer Monthly 及 Wisevoter 之報導撰寫，尚未取得法院備忘錄意見原文，亦未確認法院是否已同時登錄判決。判斷金額報導不一：Lawyer Monthly 標題稱 3,450 萬美元，內文及 Wisevoter 則稱逾 3,400 萬美元；兩者均未載明加計利息後之總額。最高法院拒絕受理之日期僅見於 Lawyer Monthly。",
+   "tags": [
+    "俄羅斯",
+    "烏克蘭",
+    "克里米亞",
+    "美國",
+    "紐約公約",
+    "承認與執行",
+    "爭點排除",
+    "公共政策",
+    "雙邊投資協定",
+    "主權豁免",
+    "PCA"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Lawyer Monthly 報導：美國法院支持執行對俄羅斯克里米亞判斷",
+     "url": "https://lawyer-monthly.com/2026/11/russia-crimea-34-million-arbitration-award/",
+     "official": false
+    },
+    {
+     "label": "Wisevoter 報導",
+     "url": "https://wisevoter.com/world/2026/11/25/us-court-enforces-34-million-award-against-russia",
+     "official": false
+    },
+    {
+     "label": "哥倫比亞特區巡迴上訴法院 2026 年 2 月 13 日判決（CourtListener）",
+     "url": "https://www.courtlistener.com/opinion/11071241/stabil-llc-v-russian-federation/",
+     "official": false
+    },
+    {
+     "label": "Hughes Hubbard 新聞稿：上訴法院維持地院豁免裁定",
+     "url": "https://www.hugheshubbard.com/news-insights/news/dc-circuit-affirms-decision-in-34m-arbitration-for-ukrainian-companies-against-russia",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T23:01:05+08:00"
+  },
+  {
+   "id": "2026-11-24-arb-tullow-ghana-tax-settlement",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "commercial",
+   "caseId": "tullow-v-ghana-tax",
+   "jurisdiction": "迦納",
+   "outlet": "Global Arbitration Review",
+   "outletCode": "GAR",
+   "date": "2026-11-24",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "Tullow 與迦納就兩件稅務仲裁所涉 3.87 億美元稅款達成和解，以分期現金、應收帳款及天然氣收益清償，尚待國會核准",
+   "shortTitle": "Tullow 與迦納和解兩件稅務仲裁爭議",
+   "point": "先付 1.12 億美元，其餘以應收帳款、2027–28 年分期及 Jubilee 天然氣收益清償，尚待國會核准",
+   "titleOriginal": "Tullow settles Ghana tax disputes after ICC defeat",
+   "caseRef": "",
+   "tldr": "Tullow 9 月在 ICC 仲裁輸掉保險理賠金課稅案後，與迦納政府把這件和另一件仍在仲裁中的借款利息稅務爭議一併和解。Tullow 先付 1.12 億美元現金，其餘以應收帳款、往後兩年分期付款和未來天然氣收益抵償；和解還要迦納國會通過。",
+   "memo": "Tullow Oil 於 2026 年 11 月下旬宣布，其迦納子公司已與迦納政府就兩件稅務仲裁所涉爭議達成和解：一為 ICC 仲裁庭於 2026 年 9 月維持之營業中斷保險理賠金所得稅核課 1.965 億美元，一為仍在仲裁中之否准借款利息扣除核課 1.905 億美元，均另有百分之百罰款。和解內容包括預付現金 1.12 億美元、讓與約 9,100 萬美元應收帳款、2027 年及 2028 年分別給付 4,000 萬美元及 4,450 萬美元（年均油價低於每桶 90 美元時得遞延），以及自 2029 年起讓與約 1,000 億立方英尺 Jubilee 天然氣之收益。和解已獲迦納政府核准，尚待國會核准。",
+   "context": "Tullow Ghana Limited 經營迦納外海 Jubilee 及 TEN 油田，與迦納政府間有兩件稅務爭議：其一為迦納稅務局就 2016 至 2019 年營業中斷保險理賠金核課之公司所得稅 1.965 億美元及百分之百罰款，Tullow 依石油協議提起之 ICC 仲裁（仲裁地倫敦）已於 2026 年 9 月遭駁回；其二為稅務局否准借款利息扣除所核課之 1.905 億美元及百分之百罰款，另案仲裁仍在進行，據報導原預計 2027 年開庭。\n迦納總統於 11 月 10 日曾宣布雙方就履行 ICC 判斷達成清償路線圖，本次則為涵蓋兩件爭議之正式和解。",
+   "facts": [
+    "Tullow 於 2026 年 11 月 23 日或 24 日公告與迦納政府就兩件稅務仲裁所涉債務達成和解。",
+    "和解共分五部分：預付現金 1.12 億美元；讓與約 9,100 萬美元應收帳款，並扣抵先前未使用之營業中斷保險保費；2027 年給付 4,000 萬美元、2028 年給付 4,450 萬美元，年均油價低於每桶 90 美元時得遞延，最遲於 2032 年清償；自 2029 年起讓與約 1,000 億立方英尺 Jubilee 天然氣之收益，並得選擇遞延至 2032 年開始。",
+    "迦納財政部長 Cassiel Ato Forson 表示，和解係為履行仲裁判斷，僅限於兩項核課，並未修改石油協議或稅法。",
+    "和解已獲迦納政府核准，尚待國會核准；Tullow 同時下修 2026 年自由現金流預測至 1.6 億至 2.1 億美元。"
+   ],
+   "issues": [
+    "契約型國家仲裁判斷作成後，當事人以分期及資源收益讓與方式履行判斷，並一併處理另一件審理中仲裁之安排。"
+   ],
+   "holding": "和解主要內容：（一）預付現金 1.12 億美元；（二）讓與約 9,100 萬美元應收帳款；（三）2027、2028 年分別給付 4,000 萬及 4,450 萬美元，得依油價遞延；（四）自 2029 年起讓與 Jubilee 天然氣收益。報導未明載第二件仲裁將如何終結（撤回或作成合意判斷）。",
+   "significance": "本和解為 Tullow 在 ICC 仲裁敗訴後的後續履行安排，同時了結尚未審結的第二件稅務仲裁，使雙方避免 2027 年開庭；以未來天然氣收益抵償稅款的設計，也反映地主國與能源業者在判斷履行上兼顧財政與營運的作法。和解生效仍以迦納國會核准為前提。",
+   "editorNote": "本網頁助理 註：本則依 GAR（僅讀得導言）、Irish Times、OE Digital 及 Citi Newsroom 之報導撰寫，未取得 Tullow 公告原文。公告日期報導不一（11 月 23 日或 24 日），故 eventDate 留空。爭議金額報導不一：多數報導稱兩項核課合計 3.87 億美元，GAR 則稱合計 7.74 億美元。Irish Times 估計和解總值最高約 5.375 億美元。以下為本網頁助理補充，非來源內容：GAR 之 7.74 億美元可能係將兩項核課之百分之百罰款一併計入。",
+   "tags": [
+    "ICC",
+    "迦納",
+    "英國",
+    "Tullow",
+    "石油",
+    "租稅措施",
+    "國家契約",
+    "和解",
+    "仲裁判斷執行"
+   ],
+   "related": [
+    "2026-11-10-arb-tullow-ghana-tax-award-roadmap"
+   ],
+   "sources": [
+    {
+     "label": "GAR 報導（需訂閱）",
+     "url": "https://globalarbitrationreview.com/article/tullow-settles-ghana-tax-disputes-after-icc-defeat",
+     "official": false
+    },
+    {
+     "label": "Irish Times 報導",
+     "url": "https://www.irishtimes.com/business/2026/11/24/tullow-oil-shares-rally-after-settling-387m-tax-disputes-with-ghana/",
+     "official": false
+    },
+    {
+     "label": "OE Digital 報導",
+     "url": "https://www.oedigital.com/news/544543-tullow-oil-agrees-ghana-tax-settlement-revises-cash-flow-outlook",
+     "official": false
+    },
+    {
+     "label": "Citi Newsroom 報導：五部分和解方案",
+     "url": "https://www.citinewsroom.com/2026/11/tullow-proposes-five-part-settlement-with-ghana-over-387m-tax-disputes/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T23:01:05+08:00"
   }
  ],
  "agenda": [
@@ -10811,7 +10958,7 @@
    "nameOriginal": "Tullow Ghana Limited v. Republic of Ghana (ICC)",
    "caseRef": "",
    "summary": "Tullow Ghana 依石油協議提起 ICC 仲裁，主張迦納就其營業中斷保險理賠金課稅及罰款約 3.93 億美元違反穩定條款。",
-   "status": "仲裁庭於 2026 年 9 月駁回 Tullow 請求；雙方於 11 月宣布就判斷履行達成清償路線圖，細節未公開。"
+   "status": "雙方於 2026 年 11 月下旬就本案判斷及另一件借款利息稅務仲裁達成和解，以分期現金、應收帳款及天然氣收益清償，尚待迦納國會核准。"
   },
   {
    "id": "owh-v-rusal",
@@ -10908,6 +11055,18 @@
    "caseRef": "ICSID Case No. ARB/05/20；C-890/24 P",
    "summary": "Micula 兄弟在 ICSID 勝訴後，歐盟執委會認定羅馬尼亞給付判斷構成違法國家補助，Micula 方就此於歐盟法院上訴。",
    "status": "佐審官 Rantos 於 2026 年 11 月 19 日建議上訴有理由，歐盟法院判決待宣示。"
+  },
+  {
+   "id": "stabil-v-russia",
+   "type": "案件",
+   "court": "COURT",
+   "field": "investment",
+   "forum": "美國哥倫比亞特區聯邦地方法院",
+   "name": "Stabil 訴俄羅斯（克里米亞加油站判斷執行）",
+   "nameOriginal": "Stabil LLC et al. v. Russian Federation",
+   "caseRef": "",
+   "summary": "十一家烏克蘭公司就其克里米亞加油站遭俄羅斯奪取，依 1998 年俄烏雙邊投資協定獲得約 3,400 萬美元仲裁判斷（仲裁地瑞士），並於美國聲請承認與執行。",
+   "status": "美國聯邦地院於 2026 年 11 月 24 日駁回俄羅斯依紐約公約提出之抗辯，支持執行判斷；俄方仍可能上訴。"
   }
  ]
 }
