@@ -1,13 +1,188 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-25T07:12:17+08:00",
-  "lastRunLocal": "2026-11-25 07:12",
+  "lastRun": "2026-11-25T23:14:33+08:00",
+  "lastRunLocal": "2026-11-25 23:14",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "本次未發現新動態（網頁讀取工具無法使用，僅以搜尋檢查）"
+  "lastRunNote": "新增 3 則：中國 2（研究報告 1、評論 1）、伊朗 1（事件 1）"
  },
  "items": [
+  {
+   "id": "2026-11-25-tnr-henderson-japan-tnr-laws",
+   "court": "CN",
+   "kind": "評論",
+   "caseId": "",
+   "jurisdiction": "日本",
+   "outlet": "Bytes Europe",
+   "outletCode": "",
+   "date": "2026-11-25",
+   "eventDate": "",
+   "importance": 1,
+   "author": "Simon Henderson（駐東京國際人權律師、學者）",
+   "title": "評論：國際人權律師主張日本 2027 年擬推動之反間諜及外國干預立法應明文涵蓋跨國鎮壓",
+   "shortTitle": "評論：日本新法應納入跨國鎮壓",
+   "point": "指日本尚無外國干預或跨國鎮壓專罪，建議仿英國《國家安全法》增訂罪名",
+   "titleOriginal": "OPINION/ Simon Henderson: How Japan's new laws can respond to transnational repression",
+   "caseRef": "",
+   "tldr": "駐東京的人權律師 Simon Henderson 撰文指出，在日本的中國、香港、維吾爾和西藏運動者常遭來電騷擾、網路攻擊和抗議現場監看，但日本沒有專門處罰外國干預或跨國鎮壓的罪名。他建議日本在 2027 年要推的反間諜與外國干預法案中，參考英國立法明訂相關罪名並保護被害人。",
+   "memo": "依 Bytes Europe 2026 年 11 月 25 日刊載之評論，駐東京國際人權律師 Simon Henderson 主張，日本規劃於 2027 年提出之反間諜及外國干預法制應明文涵蓋跨國鎮壓；其指在日中國、香港、維吾爾及西藏運動者遭受騷擾來電、網路攻擊、抗議監看及威脅，而日本現行法無外國干預或跨國鎮壓之獨立罪名。作者建議訂定政府統一定義、參照英國 2023 年《國家安全法》增訂涵蓋數位及非身體脅迫之罪名、修正入出國及吹哨者法制、保護被害人並設獨立監督。本文為作者個人見解。",
+   "context": "作者引用自由之家 2025 年統計中國十年內 319 起直接人身跨國鎮壓事件，並提及中國《民族團結進步促進法》第 63 條宣稱對「破壞民族團結」之外國人行使管轄。\n日本政府專家小組已規劃外國代理人登記制度，並承諾依 G7 2025 年聲明對抗跨國鎮壓。",
+   "facts": [
+    "作者稱在日中國、香港、維吾爾及西藏運動者遭遇不明來電、網路騷擾、抗議現場監看與威脅。",
+    "作者稱日本無外國干預或跨國鎮壓之獨立罪名。",
+    "作者提及日本政府小組規劃外國代理人登記制度，相關反間諜及外國干預法案預定 2027 年推出。"
+   ],
+   "issues": [
+    "日本現行刑法及入出國法制能否處理非身體性、數位形式之跨國鎮壓。",
+    "外國代理人登記制度與跨國鎮壓專罪之關係。"
+   ],
+   "holding": "・作者主張：日本應訂定政府一致之跨國鎮壓定義。\n・作者主張：參照英國 2023 年《國家安全法》增訂涵蓋數位與非身體脅迫之罪名。\n・作者主張：修正入出國與吹哨者法制、建立被害人保護及獨立監督。",
+   "significance": "日本正研議反間諜與外國干預立法，與台灣《反滲透法》擬增訂跨國鎮壓罪之討論可相互參照；可觀察日本 2027 年法案是否納入跨國鎮壓。",
+   "editorNote": "本則為評論，內容代表作者個人見解，非官方立場。以下為本網頁助理補充，非來源內容：台灣法務部已稱《反滲透法》修正草案擬增訂跨國鎮壓罪（見本站「台灣對跨境鎮壓的偵辦與修法」），兩國立法方向可比較。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "日本",
+    "香港",
+    "維吾爾",
+    "西藏",
+    "外國干預",
+    "立法動態"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Bytes Europe 評論原文",
+     "url": "https://www.byteseu.com/2544731/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T23:14:33+08:00"
+  },
+  {
+   "id": "2026-11-24-tnr-greece-plot-50-targets",
+   "court": "IR",
+   "kind": "事件",
+   "caseId": "north-macedonia-greece-iran-plot",
+   "jurisdiction": "希臘、北馬其頓",
+   "outlet": "Greek City Times",
+   "outletCode": "",
+   "date": "2026-11-24",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "希臘媒體報導，伊朗指揮之行刺網絡原定目標為希臘猶太裔商人，情報單位另掌握多達 50 個潛在目標；伊朗否認",
+   "shortTitle": "希臘行刺案傳列 50 個潛在目標",
+   "point": "報導稱原定目標為與以色列軍工有往來的猶太裔商人；伊朗斥為以色列宣傳",
+   "titleOriginal": "Greece on High Alert as Alleged Iranian Plot Expands to 50 Potential Targets, Five Arrests",
+   "caseRef": "",
+   "tldr": "Greek City Times 11 月 24 日轉述希臘《論壇報》與《每日報》說，希臘情報單位發現這個伊朗指揮的行刺網絡最多鎖定 50 個與以色列、猶太或國防產業相關的潛在目標，原定目標是一名與以色列軍工有生意往來的希臘猶太裔商人。官方仍未公布名單，伊朗則否認涉入。",
+   "memo": "依 Greek City Times 2026 年 11 月 24 日轉引希臘《論壇報》（To Vima）及《每日報》（Kathimerini）報導，希臘國家情報局就伊朗指揮之行刺網絡掌握多達 50 個與以色列、猶太及國防產業相關之潛在目標，原定目標為與以色列國防產業有商業往來之希臘猶太裔商人 Avraam-Minos Moissis，嫌犯曾跟監其住所及工作地點；5 名嫌犯已遭逮捕，指揮者仍在境外。希臘官方未公布被捕者姓名及目標名單。報導稱伊朗否認涉入，指控為「以色列宣傳」。",
+   "context": "北馬其頓與希臘 11 月 17 日公布合作破獲據稱由伊朗公民指揮、與 Zindashti 犯罪網絡有關之行刺網絡，5 人被捕；以色列 Ynet 隨後引消息稱目標為在希臘任職之以色列企業高層（見相關條目）。",
+   "facts": [
+    "依報導，原定目標為 64 歲希臘猶太裔商人 Avraam-Minos Moissis，其與以色列國防產業有商業往來；嫌犯曾蒐集其住所與工作地點資訊。",
+    "依報導，希臘情報單位掌握之潛在目標多達 50 個，涵蓋雅典之以色列、猶太及國防相關目標。",
+    "依報導，實際行動由組織犯罪中間人執行；5 名嫌犯被捕，伊朗籍指揮者仍在希臘境外。",
+    "希臘官方未公布被捕者姓名及完整名單。",
+    "報導轉述伊朗否認涉入並稱指控為「以色列宣傳」，未附直接聲明出處。"
+   ],
+   "issues": [
+    "目標為猶太及以色列相關人士而非伊朗異議者，本案是否屬跨國鎮壓或伊朗對以色列目標之境外攻擊。",
+    "伊朗以犯罪集團為代理人在歐洲實施暗殺之模式。"
+   ],
+   "holding": "・希臘媒體（引情報消息）：原定目標為希臘猶太裔商人 Moissis；潛在目標多達 50 個。\n・行動模式：由組織犯罪中間人執行跟監等行動。\n・官方：未公布被捕者與目標名單。\n・伊朗：否認涉入，稱為「以色列宣傳」（依報導轉述）。",
+   "significance": "報導進一步顯示本案目標以以色列及猶太相關人士為主，而非伊朗流亡者；可觀察希臘與北馬其頓檢方起訴內容是否確認目標及罪名。",
+   "editorNote": "本網頁助理 註：本則為 Greek City Times 轉述希臘媒體引不具名情報消息之二手報導，目標身分與 50 個潛在目標之說法均未經官方證實；伊朗否認之內容亦為轉述。以下為本網頁助理補充，非來源內容：若目標確為以色列及猶太相關人士，本案可能不屬狹義跨國鎮壓，本站續追蹤至官方公布起訴內容。",
+   "tags": [
+    "跨國鎮壓",
+    "伊朗",
+    "希臘",
+    "北馬其頓",
+    "以色列",
+    "暗殺計畫",
+    "犯罪集團代理",
+    "Zindashti 網絡"
+   ],
+   "related": [
+    "2026-11-17-tnr-greece-plot-israeli-target-report"
+   ],
+   "sources": [
+    {
+     "label": "Greek City Times 報導",
+     "url": "https://greekcitytimes.com/2026/11/24/greece-iran-assassination-plot-50-targets-five-arrests/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T23:14:33+08:00"
+  },
+  {
+   "id": "2026-11-25-tnr-red-notice-trap-report",
+   "court": "CN",
+   "kind": "研究報告",
+   "caseId": "china-hk-interpol-red-notices",
+   "jurisdiction": "",
+   "outlet": "香港監察（Hong Kong Watch）、IHR Advisors",
+   "outletCode": "",
+   "date": "2026-11-25",
+   "eventDate": "2026-11-25",
+   "importance": 2,
+   "author": "Ben Keith、Rhys Davies（IHR Advisors）",
+   "title": "國際刑警組織大會在港召開前夕，英國律師團體報告指中國濫用紅色通緝追捕海外人士，香港亦循同一管道",
+   "shortTitle": "報告指中港濫用國際刑警紅色通緝",
+   "point": "天網行動 10 年遣返逾 1.4 萬人僅 79 人經引渡；籲大會選出獨立的檔案監督委員",
+   "titleOriginal": "China and Hong Kong abusing Interpol's Red Notice system, as world police chiefs meet in Hong Kong（報告：The Red Notice Trap）",
+   "caseRef": "",
+   "tldr": "英國大律師 Ben Keith 等人 11 月 25 日發表報告，指中國利用國際刑警組織的紅色通緝追捕海外批評者，香港也透過北京的管道提出請求。報告在國際刑警組織 11 月 30 日起於香港開大會前發布，要求大會選出獨立的檔案監督委員並公開各國請求數據。",
+   "memo": "依香港監察（Hong Kong Watch）2026 年 11 月 25 日發布，英國 IHR Advisors 大律師 Ben Keith 及 Rhys Davies 撰寫之報告《The Red Notice Trap》指稱，中國濫用國際刑警組織紅色通緝追捕海外人士，香港亦經北京國家中心局提出請求；報告引中方數據稱「天網行動」首十年自逾 120 國追回 14,048 人，其中僅 79 人經引渡程序。報告要求第 94 屆大會選出獨立之檔案控制委員會委員、公布各國請求與駁回數據，並確保公民社會參與不受限制。報告亦承認現無公開證據顯示受港府通緝者已遭發布紅色通緝。中國及香港政府未見回應。",
+   "context": "國際刑警組織第 94 屆大會訂於 2026 年 11 月 30 日至 12 月 3 日在香港會議展覽中心舉行，大會將改選國際刑警組織檔案控制委員會（CCF）全部 7 席；CCF 是唯一可命令刪除紅色通緝的機構。\n香港不是國際刑警組織的獨立會員，其請求須經北京的國家中心局轉送。自 2023 年起，香港國安處已對多批海外民主派人士發出通緝令及懸紅（見本站「香港對海外民主派人士的通緝與懸紅」案件）。",
+   "facts": [
+    "報告由 IHR Advisors 大律師 Ben Keith、Rhys Davies 撰寫，香港監察與 Committee for Freedom in Hong Kong Foundation 共同發布。",
+    "報告引中方自身數據，稱「天網行動」首十年自逾 120 國追回 14,048 人，其中僅 79 人經正式引渡。",
+    "報告描述一案：香港國安高層官員曾表示若目標人物返港即可撤銷紅色通緝；該名商人 2021 年在法國被拘，法國法院拒絕引渡，國際刑警組織其後刪除其資料。",
+    "報告稱目前無公開證據顯示受香港通緝之海外人士已遭發布紅色通緝，並承認並非所有中港請求均屬濫用，亦無法從公開數據計算濫用比例。",
+    "依《衛報》同日報導（Finwire 轉載），Keith 稱其正處理 5 宗涉中國可疑國際刑警請求之案件，並於 7 月代 5 名在英中國異見者查詢；國際刑警組織 10 月回覆仍在處理。",
+    "同報導並回顧維吾爾運動者 Yidiresi Aishan 2021 年在摩洛哥依中國請求之紅色通緝被捕、聯合國禁止酷刑委員會認定引渡將違反公約一案。",
+    "報導稱已向國際刑警組織及中國大使館查詢，未獲回應。"
+   ],
+   "issues": [
+    "紅色通緝與擴散通報能否有效排除具政治性質之請求，國際刑警組織憲章第 3 條之審查是否足夠。",
+    "香港經北京國家中心局提出請求時，國際刑警組織如何審查與《香港國安法》相關之通緝。",
+    "在港舉行大會對新聞自由與公民社會參與之影響。"
+   ],
+   "holding": "・報告：中國將紅色通緝作為追捕海外批評者與外逃人員的工具，香港亦可透過同一管道。\n・報告：以「天網行動」遣返人數與引渡人數之落差，說明多數人非經正式司法程序返國。\n・報告：香港國安官員曾以撤銷紅色通緝換取目標返港。\n・訴求：選出獨立 CCF 委員；公布國別請求、拒絕與刪除數據；保障審查及公民社會參與。\n・中港政府：報導未載回應。",
+   "significance": "報告刻意在國際刑警組織首次於香港開大會前發布，可觀察大會期間 CCF 改選結果、國際刑警組織是否回應數據公開要求，以及大會期間是否有記者或團體在港受限。",
+   "editorNote": "本網頁助理 註：本則依香港監察新聞稿及 Finwire 轉載之《衛報》報導撰寫；《衛報》原網頁未能直接開啟。報告作者 Ben Keith 同時經營 Red Notice Monitor 網站並代理相關案件，香港監察為倡議團體，其主張宜視為倡議立場。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "香港",
+    "國際刑警組織",
+    "紅色通緝",
+    "天網行動",
+    "維吾爾",
+    "引渡"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "香港監察新聞稿（報告原文連結）",
+     "url": "https://www.hongkongwatch.org/all-posts/2026/11/25/china-and-hong-kong-abusing-interpols-red-notice-system-as-world-police-chiefs-meet-in-hong-kong",
+     "official": false
+    },
+    {
+     "label": "《衛報》報導（Finwire 轉載）",
+     "url": "https://finwire.io/news/world-news/china-misusing-interpol-to-target-dissidents-says-leading-uk-lawyer",
+     "official": false
+    },
+    {
+     "label": "Red Notice Monitor 分析（大會在港召開）",
+     "url": "https://rednoticemonitor.com/interpol-general-assembly-hong-kong-rule-of-law/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T23:14:33+08:00"
+  },
   {
    "id": "2026-11-24-tnr-mac-advisory-tnr-special-law",
    "court": "CN",
@@ -7758,7 +7933,8 @@
     "Zindashti 網絡"
    ],
    "related": [
-    "2026-11-17-tnr-north-macedonia-greece-iran-plot"
+    "2026-11-17-tnr-north-macedonia-greece-iran-plot",
+    "2026-11-24-tnr-greece-plot-50-targets"
    ],
    "sources": [
     {
@@ -8118,8 +8294,8 @@
    "title": "第 94 屆國際刑警組織（INTERPOL）大會在香港舉行",
    "note": "11 月 30 日至 12 月 3 日，香港會議展覽中心；首次在香港舉辦。人權團體關注政治性紅色通緝與對海外港人懸紅議題。",
    "url": "https://www.interpol.int/News-and-Events/Events/2026/94th-INTERPOL-General-Assembly",
-   "relatedId": "",
-   "caseId": ""
+   "relatedId": "2026-11-25-tnr-red-notice-trap-report",
+   "caseId": "china-hk-interpol-red-notices"
   },
   {
    "id": "2026-11-30-cn-wanying-zhang-trial",
@@ -8360,7 +8536,7 @@
    "nameOriginal": "Alleged Iran-directed assassination plot in Greece (North Macedonia NSA)",
    "caseRef": "",
    "summary": "北馬其頓與希臘情報機關稱破獲受伊朗人 Edris Jahangiri Mavaneh 指揮、預謀在希臘行刺的網絡。",
-   "status": "2026 年 11 月 17 日公布：5 名北馬其頓人被捕、1 人在逃；官方未公布目標與罪名，以色列 Ynet 引希臘媒體不具名消息稱目標為在希臘任職之以色列企業高層。"
+   "status": "2026 年 11 月 17 日公布 5 人被捕、1 人在逃；希臘媒體 11 月 24 日引情報消息稱原定目標為與以色列軍工有往來之希臘猶太裔商人、潛在目標多達 50 個，官方未證實，伊朗否認涉入。"
   },
   {
    "id": "nikhil-gupta-pannun-plot",
@@ -8383,6 +8559,17 @@
    "caseRef": "",
    "summary": "2026 年 9 月 22 日一名男子在多倫多中國總領事館前扯毀法輪功學員布條、威脅並襲擊抗議者，當日下午搭機返回中國；人權人士稱其為跨國鎮壓事例。",
    "status": "多倫多警方 2026 年 11 月 18 日公布嫌犯為 41 歲的 Rui Chen，以毀損、傷害及恐嚇罪通緝；嫌犯人在中國，中國領館未公開回應。"
+  },
+  {
+   "id": "china-hk-interpol-red-notices",
+   "type": "議題",
+   "court": "CN",
+   "forum": "國際刑警組織",
+   "name": "中國與香港利用國際刑警紅色通緝追捕海外人士",
+   "nameOriginal": "China and Hong Kong use of Interpol Red Notices against people abroad",
+   "caseRef": "",
+   "summary": "人權團體與律師指控中國（及經北京提出請求之香港）濫用國際刑警組織紅色通緝與擴散通報，追捕海外異見者、少數民族及外逃人員。",
+   "status": "2026 年 11 月 25 日 IHR Advisors 與香港監察發表報告，國際刑警組織第 94 屆大會 11 月 30 日至 12 月 3 日於香港舉行並改選檔案控制委員會。"
   }
  ]
 }
