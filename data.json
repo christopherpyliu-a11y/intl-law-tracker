@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-25T06:59:10+08:00",
-  "lastRunLocal": "2026-11-25 06:59",
+  "lastRun": "2026-11-25T22:59:19+08:00",
+  "lastRunLocal": "2026-11-25 22:59",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "新增 1 則：其他 1（美國法院 ICC 制裁永久禁制令）"
+  "lastRunNote": "新增 4 則：其他 1（菲律賓最高法院駁回杜特蒂人身保護令）、EJIL 評論 1、Opinio Juris 評論 2"
  },
  "items": [
   {
@@ -8482,7 +8482,8 @@
     "2026-11-21-ejil-gambia-myanmar-intent-change-part2",
     "2026-11-19-icj-gambia-myanmar-israel-reaction",
     "2026-11-21-oj-ihl-genocide-gambia-myanmar",
-    "2026-11-23-other-uk-sanctions-myanmar-genocide"
+    "2026-11-23-other-uk-sanctions-myanmar-genocide",
+    "2026-11-25-oj-gambia-myanmar-duty-to-prevent"
    ]
   },
   {
@@ -9003,7 +9004,8 @@
    "related": [
     "2026-11-19-ejil-gambia-myanmar-bottom-line",
     "2026-11-19-icj-gambia-myanmar-merits-judgment",
-    "2026-11-21-ejil-gambia-myanmar-intent-change-part2"
+    "2026-11-21-ejil-gambia-myanmar-intent-change-part2",
+    "2026-11-25-oj-gambia-myanmar-duty-to-prevent"
    ]
   },
   {
@@ -9758,9 +9760,262 @@
    ],
    "related": [
     "2026-10-13-other-sdny-icc-sanctions-injunction",
-    "2026-10-09-icc-us-sanctions"
+    "2026-10-09-icc-us-sanctions",
+    "2026-11-25-oj-netherlands-host-state-icj-icc"
    ],
    "addedAt": "2026-11-25T06:59:10+08:00"
+  },
+  {
+   "id": "2026-11-25-other-ph-sc-duterte-habeas-moot",
+   "court": "OTHER",
+   "kind": "其他",
+   "caseId": "icc-duterte",
+   "date": "2026-11-25",
+   "eventDate": "2026-11-11",
+   "importance": 2,
+   "title": "菲律賓最高法院以 9 比 4 駁回杜特蒂子女的人身保護令聲請，認定杜特蒂已在國際刑事法院羈押、聲請已無實益",
+   "shortTitle": "菲最高法院駁回杜特蒂人身保護令聲請",
+   "point": "9 比 4 認定人身保護令僅能在國內執行，杜特蒂已由 ICC 羈押，聲請失其實益",
+   "titleOriginal": "Habeas corpus petitions of Paolo, Sebastian and Veronica Duterte (Supreme Court of the Philippines)",
+   "caseRef": "",
+   "tldr": "杜特蒂被移送海牙後，他的三名子女向菲律賓最高法院聲請人身保護令，要求政府把他帶回。最高法院以 9 票對 4 票駁回，理由是人身保護令只能在菲律賓境內執行，現在羈押杜特蒂的是國際刑事法院，菲律賓官員已無從釋放他；法院並強調，駁回不代表逮捕與移送一定合法。",
+   "memo": "菲律賓最高法院以 9 票對 4 票（1 名大法官公出）作成判決，由 Japar Dimaampao 大法官主筆，駁回杜特蒂之子女就其遭逮捕並移送國際刑事法院所提人身保護令聲請；理由為人身保護令屬僅能於菲律賓境內執行之國內救濟，杜特蒂現由國際刑事法院羈押，菲律賓官員已無拘束或控制，聲請已無實益；法院並表明駁回不代表逮捕及移送必然合法，相關爭議應循其他適當程序主張。據報判決於 2026 年 11 月 11 日公布。",
+   "context": "杜特蒂於 2025 年 3 月 11 日依國際刑事法院逮捕令在馬尼拉遭逮捕並移送海牙，其子女隨即向菲律賓最高法院聲請人身保護令，主張菲律賓已退出《羅馬規約》、逮捕違反憲法等，要求命政府將其帶回。\n此案在最高法院懸而未決逾一年半，杜特蒂支持者曾多次催促法院裁判；國際刑事法院第三審判分庭則預定於 2026 年 11 月 30 日開始審理杜特蒂案。",
+   "facts": [
+    "2025 年 3 月 11 日，杜特蒂依國際刑事法院逮捕令被移送海牙；次日，其子女 Paolo Duterte（達沃市眾議員）、Sebastian Duterte（達沃市市長）與 Veronica Duterte 向最高法院聲請人身保護令。",
+    "據 Philstar 報導，最高法院 41 頁判決由 Japar Dimaampao 大法官主筆，於 2026 年 11 月 11 日公布，表決為 9 票對 4 票，1 名大法官公出。",
+    "不同意見大法官包括 Ramon Paul Hernando、Amy Lazaro Javier、Henri Jean Paul Inting 與 Antonio Kho Jr.；資深大法官 Marvic Leonen 贊成駁回但提出部分協同、部分不同意見書。",
+    "總統府發言人 Claire Castro 表示，逮捕符合菲律賓第 9851 號共和國法，並援引最高法院先前認為國際刑事法院對 2019 年 3 月 17 日退約生效前行為仍有管轄的見解。"
+   ],
+   "issues": [
+    "被告已由國際刑事法院羈押時，國內人身保護令是否仍有實益、可否執行。",
+    "菲律賓退出《羅馬規約》後，國內機關協助執行國際刑事法院逮捕令的合法性（多數意見未予審究）。",
+    "第 9851 號共和國法（菲律賓國際人道法罪行法）與《羅馬規約》第 59 條關於移送前國內程序的要求。"
+   ],
+   "holding": "據報導，多數意見認為人身保護令是只能在菲律賓境內執行的國內救濟；杜特蒂既由國際刑事法院羈押，菲律賓官員對其已無拘束或控制，法院無法作成影響其羈押或釋放的命令，不論相關官員行為是否合法，聲請均已無實益。多數意見未就合憲性問題表示意見，並說明駁回不代表逮捕與移送必然合法，主張逮捕違法者應循其他適當程序。\n不同意見方面：Hernando 大法官認為杜特蒂的正當程序等權利遭侵害；Lazaro Javier 大法官認為聲請針對的是菲律賓官員自身行為；Inting 大法官援引程序濫用法理，指出國際刑事法院可因違法程序停止訴訟；Kho 大法官憂心類似行為將逃避司法審查。Leonen 大法官另認為法院應依《羅馬規約》第 59 條及第 9851 號共和國法提供指引。",
+   "significance": "判決解除了菲律賓國內對杜特蒂移送的一項法律挑戰，但未對逮捕與移送的合法性作成實體判斷，留下其他程序的空間；同時審判將於 11 月 30 日在海牙開始。據 Philstar 側欄標題，杜特蒂之女表示將就判決聲請再審，惟本網頁助理未讀該報導內文。",
+   "editorNote": "本網頁助理 註：本則依 Philstar 報導撰寫，未取得菲律賓最高法院判決原文或案號。報導稱法院「昨日」（11 月 24 日）駁回聲請，同時稱判決於 11 月 11 日公布，兩者時間不一致，本則以 11 月 11 日為判決日期，待官方文件確認。Manila Times 關於四名大法官不同意見的報導因網站限流未能閱讀。",
+   "tags": [
+    "杜特蒂",
+    "菲律賓最高法院",
+    "人身保護令",
+    "國際刑事法院",
+    "羅馬規約",
+    "退出羅馬規約",
+    "第59條",
+    "菲律賓"
+   ],
+   "sources": [
+    {
+     "label": "Philstar 報導",
+     "url": "https://www.philstar.com/headlines/2026/11/25/2572520/sc-junks-petitions-vs-dutertes-icc-arrest",
+     "official": false
+    },
+    {
+     "label": "Manila Times 報導（四名大法官不同意見）",
+     "url": "https://manilatimes.net/2026/11/25/news/national/4-sc-justices-dissent-over-dutertes-arrest/2477719",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T22:59:19+08:00"
+  },
+  {
+   "id": "2026-11-23-ejil-ga-acting-secretary-general",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "",
+   "date": "2026-11-23",
+   "eventDate": "",
+   "importance": 1,
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "author": "Sara Bertotti",
+   "title": "作者認為：安理會若遲遲無法推薦秘書長人選，聯合國大會任命代理秘書長只能作為最後手段，並須嚴格限縮其職權",
+   "shortTitle": "安理會僵局下大會能否任命代理秘書長",
+   "point": "作者認為憲章未規範此種空缺，大會任命僅屬最後手段，應以看守職權並於正式任命時自動終止",
+   "titleOriginal": "Can the General Assembly appoint an Acting Secretary-General in the event of a prolonged Security Council deadlock?",
+   "caseRef": "",
+   "tldr": "古特瑞斯的任期在 2026 年底結束，但安理會至今還沒推薦繼任人選。作者討論：如果安理會一直卡住，聯合國大會能不能自己任命一位「代理」秘書長？她認為憲章沒有規定這種情況，大會可以這樣做，但只能當作最後手段，而且職權要限縮、正式秘書長一產生就自動卸任。",
+   "memo": "Sara Bertotti 於 EJIL:Talk! 撰文指出，依《聯合國憲章》第 97 條，秘書長由大會經安理會推薦任命，大會未經推薦逕行任命正式秘書長將逾越權限；惟憲章未規範安理會無法推薦所致之空缺，國際法院 1950 年會員國入會權限諮詢意見亦難直接適用於臨時任命。作者主張大會任命代理秘書長僅得作為最後手段，並應以看守性職權、不同職稱及正式任命時自動終止等方式限縮。",
+   "context": "《聯合國憲章》第 97 條規定秘書長由大會經安理會推薦任命，向來被理解為兩機關共同決定。古特瑞斯秘書長任期至 2026 年 12 月 31 日屆滿，安理會的非正式投票（straw polls）尚未產生共識人選。\n1950 年蘇聯否決賴伊（Trygve Lie）連任推薦時，大會曾自行延長其任期，是相關爭論常被引用的前例。",
+   "facts": [
+    "古特瑞斯任期將於 2026 年 12 月 31 日屆滿，作者撰文時安理會尚未推薦繼任人選。",
+    "安理會多輪非正式投票未出現共識候選人。",
+    "1950 年大會曾延長賴伊任期；作者指出其 1946 年獲推薦時並未載明任期終點。"
+   ],
+   "issues": [
+    "安理會無法推薦時，大會能否依憲章任命代理秘書長（第 97 條、第 98 條、第十五章）。",
+    "國際法院 1950 年「大會接納會員國權限」諮詢意見認定安理會推薦為入會前提，能否類推適用於秘書長任命。",
+    "大會的默示權力與越權（ultra vires）界限。"
+   ],
+   "holding": "・作者先指出，大會未經安理會推薦任命正式秘書長屬越權，但憲章對因安理會未推薦而產生的空缺未作規定。\n・作者認為 1950 年延長賴伊任期只是不完美的前例，因其原推薦未設任期終點。\n・作者主張國際法院 1950 年諮詢意見不能直接移用：接納會員國與臨時任命性質不同，且秘書處無人領導將影響第十五章所定職能。\n・作者以大會給予巴勒斯坦額外權利為例，說明大會可在權限內創造性地行事。\n・作者也列出反對理由：無法就正式人選達成共識的安理會，未必能就代理人選達成共識；大會任命的代理人亦可能形同事實上的秘書長。\n・作者提出限縮方式：看守性職權、改用不同職稱、正式秘書長任命時自動終止。",
+   "significance": "作者結論是，大會任命代理秘書長只應作為最後手段；大會應先促請安理會推薦，安理會也應及時作成推薦。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：原文未載作者所屬機構，並聲明為作者個人觀點。",
+   "tags": [
+    "聯合國憲章",
+    "第97條",
+    "聯合國秘書長",
+    "聯合國大會",
+    "聯合國安理會",
+    "國際組織法",
+    "越權",
+    "聯合國"
+   ],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/can-the-general-assembly-appoint-an-acting-secretary-general-in-the-event-of-a-prolonged-security-council-deadlock/",
+     "official": false
+    },
+    {
+     "label": "聯合國憲章全文",
+     "url": "https://www.un.org/en/about-us/un-charter/full-text",
+     "official": true
+    },
+    {
+     "label": "1946 年安理會推薦賴伊文件（聯合國數位圖書館）",
+     "url": "https://digitallibrary.un.org/record/636509?ln=en&v=pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-25T22:59:19+08:00"
+  },
+  {
+   "id": "2026-11-25-oj-gambia-myanmar-duty-to-prevent",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "gambia-v-myanmar",
+   "date": "2026-11-25",
+   "eventDate": "",
+   "importance": 2,
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Jinan Bastaki（紐約大學阿布達比分校法律學副教授）",
+   "title": "作者認為：緬甸案判決確立防止種族滅絕義務在「嚴重風險」出現時即觸發，違反不以法院先認定種族滅絕為前提，第三國亦不能坐等判決",
+   "shortTitle": "緬甸案：防止義務不待種族滅絕認定",
+   "point": "作者認為法院化解了波黑案的矛盾，防止義務屬盡職注意義務，第三國不能以等待判決為由不作為",
+   "titleOriginal": "The Gambia v. Myanmar and the Duty to Prevent Genocide",
+   "caseRef": "General List No. 178",
+   "tldr": "2007 年波黑訴塞爾維亞案說，國家在出現種族滅絕「嚴重風險」時就要防止，但又說如果最後沒發生種族滅絕，就不能追究沒防止的責任。作者認為，緬甸案判決解開了這個矛盾：義務在有嚴重風險時就啟動，判斷違反不必先認定種族滅絕已經發生；這也代表其他國家（例如對以色列有影響力的國家）不能用「等法院判決」當作不作為的理由。",
+   "memo": "Jinan Bastaki 於 Opinio Juris 撰文指出，國際法院 2026 年 11 月 19 日甘比亞訴緬甸案判決，化解波士尼亞訴塞爾維亞案中防止義務以嚴重風險觸發、卻以種族滅絕實際發生為責任前提之緊張關係，認定義務於嚴重風險出現時即觸發，並在未確認參與平民具種族滅絕意圖下認定緬甸違反公約第 1 條。作者主張防止義務屬盡職注意義務，第三國應依其影響能力採取合理可得措施，不得以等待司法認定為由不作為。",
+   "context": "國際法院 2007 年波士尼亞訴塞爾維亞案判決第 431 段指出，若其後未發生種族滅絕或第 3 條所列行為，國家不因未防止而負責任；第 432 段則以知悉或應知悉嚴重風險為防止義務的觸發點，兩者之間的關係長期受到討論。\n國際法院於 2026 年 11 月 19 日就甘比亞訴緬甸案作成實體判決，以 9 票對 6 票認定緬甸違反種族滅絕公約。本站先前已收錄 EJIL:Talk! 上認為法院在此問題上悄然變更見解的評論。",
+   "facts": [
+    "國際法院 2026 年 11 月 19 日判決認定緬甸違反種族滅絕公約，其中包括違反第 1 條防止義務。",
+    "據作者引述判決第 485 至 488 段，2017 年有平民與緬甸部隊並肩行動，法院在未確定這些平民是否具種族滅絕意圖的情況下，認定存在緬甸應知悉的嚴重風險。",
+    "Nolte 法官不同意見反對將違反防止義務與實際發生種族滅絕脫鉤；Cleveland 法官與專案法官 Kress 的共同個別意見及 Tladi 法官聲明則支持多數意見。"
+   ],
+   "issues": [
+    "防止種族滅絕義務（種族滅絕公約第 1 條）的觸發時點與違反的認定是否以種族滅絕實際發生為前提。",
+    "波士尼亞訴塞爾維亞案第 431、432 段的關係。",
+    "第三國防止義務與第 3 條 (e) 款共犯禁止的區別，及其對南非訴以色列案、尼加拉瓜訴德國案的意涵。"
+   ],
+   "holding": "・作者指出，波黑案以嚴重風險觸發防止義務，卻又要求種族滅絕實際發生才能追究責任，造成審查是否遵守義務似乎須先認定種族滅絕的矛盾。\n・作者認為，緬甸案判決（第 475、478、487 段）明確以嚴重風險本身為觸發點，不以法院先認定種族滅絕為前提。\n・作者說明，法院依此在未確定平民參與者意圖下，認定緬甸違反第 1 條。\n・作者介紹 Nolte 法官的反對意見，以及 Cleveland、Kress 與 Tladi 法官認為這是「防止」一詞唯一融貫解釋的立場。\n・作者將此適用於第三國：防止義務不同於共犯禁止，要求國家依其影響能力採取合理可得的措施，並連結南非訴以色列案與尼加拉瓜訴德國案。",
+   "significance": "作者結論是，防止義務是盡職注意義務，違反可在沒有種族滅絕最終認定的情況下成立；等待司法認定不是可接受的回應。此一論點與本站先前收錄、認為法院在此變更見解卻未說明的 EJIL:Talk! 評論相呼應，但作者對此變更持肯定態度。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：本則依 Opinio Juris 原文撰寫，判決段落編號係依作者引述，未逐段核對判決全文。",
+   "tags": [
+    "種族滅絕公約",
+    "防止義務",
+    "第1條",
+    "盡職注意",
+    "波士尼亞訴塞爾維亞案",
+    "第三國義務",
+    "國際法院",
+    "緬甸",
+    "甘比亞",
+    "羅興亞人",
+    "以色列",
+    "德國"
+   ],
+   "sources": [
+    {
+     "label": "國際法院判決全文（PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/178/178-20261119-jud-01-00-en.pdf",
+     "official": true
+    },
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/11/25/the-gambia-v-myanmar-and-the-duty-to-prevent-genocide/",
+     "official": false
+    },
+    {
+     "label": "Nolte 法官不同意見書（PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/178/178-20261119-jud-01-07-en.pdf",
+     "official": true
+    },
+    {
+     "label": "Cleveland 法官與專案法官 Kress 共同個別意見書（PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/178/178-20261119-jud-01-13-en.pdf",
+     "official": true
+    },
+    {
+     "label": "Tladi 法官聲明（PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/178/178-20261119-jud-01-15-en.pdf",
+     "official": true
+    }
+   ],
+   "related": [
+    "2026-11-19-icj-gambia-myanmar-merits-judgment",
+    "2026-11-20-ejil-gambia-myanmar-intent-change-part1"
+   ],
+   "addedAt": "2026-11-25T22:59:19+08:00"
+  },
+  {
+   "id": "2026-11-25-oj-netherlands-host-state-icj-icc",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "",
+   "date": "2026-11-25",
+   "eventDate": "",
+   "importance": 1,
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Otto Spijkers（萊登大學學院）、Letizia Lo Giacco（萊登大學格勞秀斯國際法研究中心）",
+   "title": "作者主張：荷蘭作為國際法院與國際刑事法院的地主國，不僅應便利其運作，更應一致且公開地點名反對妨害國際司法機構的措施",
+   "shortTitle": "荷蘭身為海牙法院地主國的特殊責任",
+   "point": "作者認為荷蘭應公開點名反對美國制裁等措施，並避免選擇性適用國際法",
+   "titleOriginal": "Hosting Global Justice: The Responsibilities of the Netherlands as Host State of the International Court of Justice and the International Criminal Court",
+   "caseRef": "",
+   "tldr": "國際法院和國際刑事法院都在荷蘭。作者以荷蘭國際法諮詢委員會 10 月的報告為基礎，認為荷蘭身為地主國，除了讓法院順利運作，也應該替法院說話；例如面對美國制裁國際刑事法院，荷蘭應明白點名美國，而且不論涉及哪個國家都要一致地堅持國際法。",
+   "memo": "Otto Spijkers 與 Letizia Lo Giacco 於 Opinio Juris 撰文，以荷蘭國際法諮詢委員會（CAVV）2026 年 10 月 27 日報告為基礎主張，荷蘭作為國際法院及國際刑事法院地主國，負有便利法院運作及實質支持法院、促請他國遵守之雙重角色；荷蘭應公開且一致地反對妨害國際司法機構之措施，就美國制裁國際刑事法院應明確點名，並避免選擇性適用國際法。",
+   "context": "美國對國際刑事法院官員的制裁，可能透過次級效果影響荷蘭境內實體。荷蘭國際法諮詢委員會（CAVV）於 2026 年 10 月 27 日發表報告，指荷蘭政府對國際法的態度出現轉變，並建議公開、一致地反對妨害國際司法機構的措施，明確以荷蘭憲法第 90 條（促進國際法秩序）為指導原則。荷蘭國際事務諮詢委員會（AIV）2024 年亦曾指出荷蘭作為地主國負有特殊的遵守地位。",
+   "facts": [
+    "CAVV 2026 年 10 月 27 日報告指出荷蘭政府對國際法立場有所轉變，觸發因素包括聯合政府協議對國際法的相對化，以及政府對美以攻擊伊朗的理解。",
+    "荷蘭總理曾在聯合國演說中表態支持國際刑事法院，但 CAVV 指出其未點名美國。",
+    "荷蘭在國際法院提起對敘利亞的《禁止酷刑公約》案、規劃對阿富汗提起訴訟，並在緬甸案、烏克蘭訴俄羅斯案及加薩相關案件中提出參加。"
+   ],
+   "issues": [
+    "地主國對設於其境內之國際法院與國際刑事法院是否負有超出總部協定的特殊責任。",
+    "荷蘭憲法第 90 條在外交政策中的指導作用。",
+    "面對美國制裁國際刑事法院，地主國應採取何種法律立場。"
+   ],
+   "holding": "・作者指出，國際司法機構承受壓力，包括美國因巴勒斯坦情勢制裁國際刑事法院，並可能波及荷蘭實體。\n・作者介紹 CAVV 報告的發現與建議：公開、一致反對妨害國際司法機構的措施，並明確援引憲法第 90 條。\n・作者區分地主國的兩種角色：便利法院運作，以及實質上替法院與他國遵守國際法發聲。\n・就國際刑事法院，作者認為總理的聯合國演說值得肯定，但唯有點名相關國家，立場才具法律意義而非泛泛表態。\n・就國際法院，作者肯定荷蘭的訴訟與參加，但提醒最大風險是選擇性，「一致」才是關鍵。",
+   "significance": "作者結論是，荷蘭應不論涉及哪個國家都一致適用規則，才能履行其作為國際司法地主國的特殊責任。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：CAVV 報告內容係依作者轉述，未另行閱讀報告原文。",
+   "tags": [
+    "地主國",
+    "地主國義務",
+    "國際刑事法院",
+    "國際法院",
+    "美國制裁",
+    "荷蘭",
+    "美國"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/11/25/hosting-global-justice-the-responsibilities-of-the-netherlands-as-host-state-of-the-international-court-of-justice-and-the-international-criminal-court/",
+     "official": false
+    },
+    {
+     "label": "荷蘭國際法諮詢委員會第 54 號報告",
+     "url": "https://www.adviescommissievolkenrecht.nl/documenten/2026/advisory-report-54",
+     "official": false
+    }
+   ],
+   "related": [
+    "2026-11-24-other-sdny-icc-sanctions-permanent-injunction"
+   ],
+   "addedAt": "2026-11-25T22:59:19+08:00"
   }
  ],
  "agenda": [
@@ -10126,7 +10381,7 @@
    "nameOriginal": "The Prosecutor v. Rodrigo Roa Duterte",
    "caseRef": "ICC-01/21",
    "summary": "菲律賓前總統杜特蒂被控三項危害人類罪。",
-   "status": "辯方於 11 月 18 日反對採用證人 P-0002 先前證詞，多件證據與證人聲請待第三審判分庭決定，審判預定於 2026 年 11 月 30 日開始。"
+   "status": "菲律賓最高法院據報於 11 月 11 日以 9 比 4 駁回杜特蒂子女的人身保護令聲請；第三審判分庭預定於 2026 年 11 月 30 日開始審判。"
   },
   {
    "id": "icc-afghanistan",
