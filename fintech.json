@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-25T07:29:44+08:00",
-  "lastRunLocal": "2026-11-25 07:29",
+  "lastRun": "2026-11-25T23:31:18+08:00",
+  "lastRunLocal": "2026-11-25 23:31",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 4 則：美國 3（司法案件 2、政策動態 1）、亞太與其他 1（政策動態 1）"
+  "lastRunNote": "新增 6 則：美國 1（監理指引 1）、歐盟 2（研究報告 1、政策動態 1）、台灣 1（草案諮詢 1）、亞太與其他 2（政策動態 1、立法動態 1）"
  },
  "items": [
   {
@@ -10893,7 +10893,7 @@
    "id": "2026-11-20-fin-ukraine-virtual-asset-bill-amendments",
    "court": "OTHER",
    "kind": "立法動態",
-   "caseId": "",
+   "caseId": "ukraine-virtual-assets-law",
    "jurisdiction": "烏克蘭",
    "outlet": "TokenPost",
    "outletCode": "TP",
@@ -10930,7 +10930,9 @@
     "烏克蘭國家銀行",
     "烏克蘭"
    ],
-   "related": [],
+   "related": [
+    "2026-11-25-fin-ukraine-rada-adopts-virtual-assets-law"
+   ],
    "sources": [
     {
      "label": "TokenPost 報導",
@@ -11111,7 +11113,8 @@
    ],
    "related": [
     "2026-10-21-fin-ecb-cipollone-pontes-appia",
-    "2026-11-09-fin-etsg-tokenisation-standards-call"
+    "2026-11-09-fin-etsg-tokenisation-standards-call",
+    "2026-11-24-fin-ecb-tokenisation-reference-model"
    ],
    "sources": [
     {
@@ -11362,7 +11365,9 @@
     "ECB",
     "歐盟"
    ],
-   "related": [],
+   "related": [
+    "2026-11-24-fin-ecb-tokenisation-reference-model"
+   ],
    "sources": [
     {
      "label": "ECB 新聞稿",
@@ -12141,6 +12146,392 @@
     }
    ],
    "addedAt": "2026-11-25T07:29:44+08:00"
+  },
+  {
+   "id": "2026-11-25-fin-cbc-stablecoin-reserve-draft",
+   "court": "TW",
+   "kind": "草案諮詢",
+   "caseId": "taiwan-vasp-act",
+   "jurisdiction": "台灣",
+   "outlet": "工商時報",
+   "outletCode": "CTEE",
+   "date": "2026-11-25",
+   "eventDate": "2026-11-24",
+   "importance": 2,
+   "author": "",
+   "title": "央行預告「穩定幣發行準備金繳存及查核辦法」草案，發行餘額逾門檻部分須按月繳存準備金",
+   "shortTitle": "央行預告穩定幣準備金繳存辦法草案",
+   "point": "新台幣穩定幣逾百億元、外幣逾 3.5 億美元部分按 10.775% 繳存，專戶不計息",
+   "titleOriginal": "央行草案出爐！穩定幣準備金 按月計提",
+   "caseRef": "",
+   "tldr": "中央銀行依報導於 11 月 24 日預告新規：穩定幣流通量一旦太大，發行人就要把超過門檻的部分按比例存到央行專戶，作法比照電子支付業者。新台幣穩定幣門檻是 100 億元，外幣穩定幣是 3.5 億美元，比率 10.775%，存在央行不付利息，意見徵詢 30 天。",
+   "memo": "依工商時報及聯合報 2026 年 11 月 24 日至 25 日報導，中央銀行於 2026 年 11 月 24 日預告「穩定幣發行準備金繳存及查核辦法」草案（共 12 條），以《虛擬資產服務法》為授權依據。草案規定新台幣計價穩定幣發行餘額逾新台幣 100 億元，或外幣計價穩定幣折合逾 3.5 億美元者，發行人應就逾越部分，以每月日平均流通餘額為基礎，按新台幣活期存款準備率 10.775% 計提並繳存於央行專戶，該存款不計息，並由既有百分之百準備資產中提撥。草案開放 30 日徵詢意見，施行日期未定。",
+   "context": "《虛擬資產服務法》2026 年 6 月 30 日三讀、7 月 22 日公布，金管會已於 11 月 3 日預告「穩定幣發行許可及管理辦法」等子法草案，並於 11 月 24 日召開穩定幣子法公聽會。\n依報導，本草案比照電子支付機構支付款項準備金制度；電子支付準備金門檻歷經 2009 年新台幣 30 億元、2015 年 50 億元及 2021 年 100 億元之調整。",
+   "facts": [
+    "預告日期：依報導為 2026 年 11 月 24 日；草案共 12 條。",
+    "門檻：新台幣穩定幣發行餘額逾新台幣 100 億元；外幣穩定幣流通餘額折合美元逾 3.5 億美元。僅逾越門檻部分須繳存。",
+    "計算期：每月一日至月底（新發行者自發行日起），按各系列穩定幣每日流通餘額之月平均數計算。",
+    "比率：新台幣活期存款準備率 10.775%，外幣穩定幣亦適用同一比率；依報導央行未採 0.125% 之外匯存款準備率，因認其過低。",
+    "繳存款項存放央行專戶，不計息，原則上不得自由動用；流通量降至門檻以下時得申請領回。繳存金額由既有百分之百準備資產中提撥，非額外資產。",
+    "示例（依聯合報）：發行餘額新台幣 120 億元者，就逾越之 20 億元繳存約 2.16 億元。",
+    "意見徵詢 30 日；施行日期未定。"
+   ],
+   "issues": [
+    "以存款準備率比照電子支付機構，是否適合以外幣計價、主要用於跨境或鏈上交易之穩定幣？",
+    "準備金一部繳存央行且不計息，對發行人收益模式及新台幣穩定幣發展之影響。",
+    "央行繳存規定與金管會「穩定幣發行許可及管理辦法」之準備資產規範如何銜接。"
+   ],
+   "holding": "・適用對象：依《虛擬資產服務法》經許可之穩定幣發行人。\n・門檻：新台幣穩定幣 100 億元；外幣穩定幣折合 3.5 億美元；僅就超額部分繳存。\n・計提：按月、按系列，以每日流通餘額月平均數計算。\n・比率：一律 10.775%。\n・保管：央行專戶，不計息，餘額低於門檻得領回。\n・查核：草案名稱並規定央行之查核機制（細節未見報導）。",
+   "significance": "本草案為《虛擬資產服務法》下首項由中央銀行訂定之穩定幣子法，連同金管會九項子法，構成台灣穩定幣發行之完整規範。後續留意徵詢期滿後之修正、施行日期，以及與金管會子法於 2027 年第一季同步上路之安排。",
+   "editorNote": "本網頁助理 註：本則依工商時報及聯合報報導；本網頁助理無法開啟中央銀行網站確認草案全文、條次及預告截止日，30 日徵詢期之確切起訖日未見來源載明。",
+   "tags": [
+    "穩定幣",
+    "準備金",
+    "虛擬資產服務法",
+    "中央銀行",
+    "台灣"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "工商時報報導",
+     "url": "https://www.ctee.com.tw/news/20261125700115-439901",
+     "official": false
+    },
+    {
+     "label": "聯合報報導",
+     "url": "https://udn.com/news/story/7239/9899397",
+     "official": false
+    },
+    {
+     "label": "三立新聞報導",
+     "url": "https://inews.setn.com/news/1944370",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T23:31:18+08:00"
+  },
+  {
+   "id": "2026-11-24-fin-sec-molecule-no-action",
+   "court": "SEC",
+   "kind": "監理指引",
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-24",
+   "eventDate": "2026-11-24",
+   "importance": 2,
+   "author": "",
+   "title": "SEC 公司財務部就 Molecule 科研專案代幣發出無異議函，同意不經證券登記發售",
+   "shortTitle": "SEC 對 Molecule 科研代幣發無異議函",
+   "point": "11 月 24 日函復：不依證券法第 5 條登記發售「專案代幣」不予執法建議",
+   "titleOriginal": "SEC staff gives Molecule no-action relief for scientific research tokens",
+   "caseRef": "",
+   "tldr": "Molecule 是一個資助生醫科研專案的平台，打算發行「專案代幣」，讓持有人日後可換取專案公司的股權。SEC 公司財務部回函表示，只要照申請內容進行，不登記就發售這些代幣，幕僚不會建議執法。這是近一年 SEC 幕僚對代幣發行開綠燈的又一例。",
+   "memo": "依 The Block 2026 年 11 月 24 日報導，美國證券交易委員會（SEC）公司財務部於同日就 Molecule AG 之申請發出無異議函，表示 LabsCo 依申請函所述方式發行及銷售「專案代幣」（Project Tokens），未依《1933 年證券法》第 5 條辦理登記，且未依《1934 年證券交易法》第 12(g) 條登記為權益證券類別者，幕僚不建議採取執法行動。申請人主張該代幣不符 Howey 測試；無異議函僅屬幕僚意見，不拘束委員會。",
+   "context": "SEC 幕僚自 2025 年起陸續就代幣發行發出無異議函，包括 DoubleZero（DePIN 代幣）、Fuse，以及 2026 年 11 月 3 日就 Canton Coin 認定屬數位商品之函。\nMolecule 為去中心化科研資助（DeSci）平台，依報導採「代幣轉公司」（coin-to-company）模式，代幣持有人得於所支持之科研專案取得股權。",
+   "facts": [
+    "發函機關：SEC 公司財務部；依報導日期為 2026 年 11 月 24 日。",
+    "申請函由 Molecule 律師於前一週提出，描述「代幣轉公司」模式。",
+    "幕僚就不依證券法第 5 條登記發售、及不依交易法第 12(g) 條登記權益證券類別，表示不建議執法。",
+    "幕僚意見係依據申請人律師之法律意見及申請函所述事實。",
+    "Molecule 表示首個專案將於數週內採用該模式。"
+   ],
+   "issues": [
+    "可轉換為專案公司股權之代幣，何以不構成證券或權益證券？無異議函之事實限定範圍為何？",
+    "幕僚以個案無異議函取代規則制定，對其他科研或專案型代幣之可援用性。"
+   ],
+   "holding": "・救濟範圍：發售專案代幣不經證券法第 5 條登記；不須依交易法第 12(g) 條登記。\n・前提：依申請函所述事實及律師意見；事實變更即不適用。\n・性質：幕僚執法立場，非委員會決定，亦非就證券定性作成正式解釋。",
+   "significance": "本函延續 SEC 幕僚以無異議函個案處理代幣發行之路線，並首次觸及可轉換股權之科研代幣。後續留意 SEC 公開之申請函與回函全文、Molecule 首個專案之實際架構，以及新任委員就任後是否改變此一作法。",
+   "editorNote": "本網頁助理 註：本則依 The Block 報導；本網頁助理無法開啟 SEC 網站之回函頁面（下列 SEC 連結取自該報導），回函正式日期係依報導及網址推定。",
+   "tags": [
+    "加密資產",
+    "代幣發行",
+    "無異議函",
+    "SEC",
+    "美國"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "SEC 無異議函頁面（Molecule AG）",
+     "url": "https://www.sec.gov/rules-regulations/no-action-interpretive-exemptive-letters/division-corporation-finance-no-action/molecule-ag-112426",
+     "official": true
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T23:31:18+08:00"
+  },
+  {
+   "id": "2026-11-25-fin-eba-stablecoins-defi-report",
+   "court": "EBA",
+   "kind": "研究報告",
+   "caseId": "mica-stablecoin-supervision",
+   "jurisdiction": "歐盟",
+   "outlet": "crypto.news",
+   "outletCode": "CN",
+   "date": "2026-11-25",
+   "eventDate": "2026-11-25",
+   "importance": 2,
+   "author": "",
+   "title": "EBA 發布穩定幣（含 EMT）於去中心化金融之運用報告，建議執委會評估 CASP 介接 DeFi 借貸之額外要求",
+   "shortTitle": "EBA 報告：穩定幣為 DeFi 核心、促強化監理",
+   "point": "建議評估 CASP 介接 DeFi 借貸之適合度、槓桿上限，並考慮將加密借貸納入 MiCA",
+   "titleOriginal": "EBA examines use of stablecoins, including EMTs, in decentralised finance",
+   "caseRef": "",
+   "tldr": "歐洲銀行管理局研究發現，穩定幣（包括 MiCA 下的電子貨幣代幣）是 DeFi 借貸、交易與結算的主要工具，消費者可能因槓桿、違約或技術問題血本無歸，風險也可能回流到發行人與交易平台。EBA 建議歐盟執委會在檢討 MiCA 時，考慮對替客戶接通 DeFi 借貸的業者加上適合度評估、槓桿上限等要求。",
+   "memo": "依 crypto.news 2026 年 11 月 25 日報導，歐洲銀行管理局（EBA）於同日發布穩定幣（含 MiCA 下電子貨幣代幣）於去中心化金融運用之報告，指出穩定幣為 DeFi 借貸、交易及結算之核心，消費者面臨揭露不足、過度槓桿、穩定幣借貸違約及作業風險，風險並可能外溢至 EMT 發行人及提供介接之加密資產服務提供者（CASP），且去中心化架構可能規避 MiCA 關於發行、上架及禁止付息之規定。EBA 建議執委會評估對介接 DeFi 借貸協議之 CASP 增訂適合度評估、槓桿限制及額外風險揭露等要求，並研議將加密資產借貸納入 MiCA 規範之服務。該建議供 MiCA 檢討參考，不生新法律義務。",
+   "context": "MiCA 第 140 條要求執委會檢討該規則，並評估 DeFi 及加密資產借貸之規範需要；完全去中心化之服務目前不在 MiCA 範圍內。EBA 曾於 2026 年 9 月回應執委會 MiCA 檢討諮詢時，建議將加密借貸納入規範。\nEBA 並於 10 月 14 日將 USDC 列為歐盟首個重大電子貨幣代幣，自 11 月 12 日起與法國 ACPR 共同監理。",
+   "facts": [
+    "發布日期：依報導為 2026 年 11 月 25 日。",
+    "依 EBA 引用數據，42% 之歐洲投資人預期於 2028 年前參與 DeFi。",
+    "歐盟內 DeFi 參與以德國、法國最高，全球排名分別第 18、19 名；依報導印度居首、美國次之。",
+    "所列消費者風險：揭露不足、過度槓桿、穩定幣借貸違約、作業脆弱性，可能損失全部投入資產。"
+   ],
+   "issues": [
+    "MiCA 對「完全去中心化」服務之排除，是否使發行、上架及禁止付息規定遭規避？",
+    "監理切入點應放在介接 DeFi 之受監理 CASP，抑或 DeFi 協議本身（如認證制度）？"
+   ],
+   "holding": "・發現：穩定幣為 DeFi 借貸、交易與結算之核心工具；風險可外溢至 EMT 發行人及 CASP。\n・建議一：執委會評估對介接 DeFi 借貸協議之 CASP 增訂客戶適合度評估、槓桿限制、額外風險揭露，並可考慮於受監理業者介接時對 DeFi 借貸協議實施認證。\n・建議二：研議將加密資產借貸納入 MiCA 受規範服務。\n・性質：供 MiCA 檢討參考，不生新法律義務。",
+   "significance": "本報告將成為執委會 MiCA 檢討及可能修法之依據，尤其是 DeFi 與加密借貸是否納管。後續留意執委會檢討報告及修法提案，以及 ESMA 對 DeFi 介接之立場。",
+   "editorNote": "本網頁助理 註：本則依 crypto.news 報導；本網頁助理無法開啟 EBA 新聞稿頁面（下列 EBA 連結取自該報導），報告正式名稱與文號未能確認。",
+   "tags": [
+    "穩定幣",
+    "DeFi",
+    "MiCA",
+    "電子貨幣代幣",
+    "EBA",
+    "歐盟"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "EBA 新聞稿",
+     "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-examines-use-stablecoins-including-emts-decentralised-finance",
+     "official": true
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/eba-stablecoin-defi-risks-mica-regulatory-oversight/",
+     "official": false
+    },
+    {
+     "label": "Crypto Briefing 報導",
+     "url": "https://cryptobriefing.com/eba-stablecoin-risks-defi-eu-action/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T23:31:18+08:00"
+  },
+  {
+   "id": "2026-11-25-fin-hkma-cmu-digital-asset-platform",
+   "court": "HKMA",
+   "kind": "政策動態",
+   "caseId": "hk-stablecoin-tokenisation",
+   "jurisdiction": "香港",
+   "outlet": "香港金融管理局（HKMA）",
+   "outletCode": "HKMA",
+   "date": "2026-11-25",
+   "eventDate": "2026-11-25",
+   "importance": 2,
+   "author": "",
+   "title": "香港金管局正式推出債務工具中央結算系統數碼資產平台（CMU DAP），支援代幣化債券發行與結算",
+   "shortTitle": "金管局推出 CMU 數碼資產平台",
+   "point": "以 DLT 處理債券發行、結算、付息及贖回，採鏈上券款對付並支援 24 小時多幣種結算",
+   "titleOriginal": "Launch of CMU Digital Asset Platform",
+   "caseRef": "",
+   "tldr": "香港金管局旗下的債券結算系統（CMU）正式啟用區塊鏈版平台，債券從發行、交易交割到付息還本都能在鏈上無紙化完成，錢和券同時交換。平台可直接連接即時支付系統與央行數位貨幣，未來還要擴及基金與實體資產，並接上代幣化存款和受監管穩定幣。",
+   "memo": "香港金融管理局於 2026 年 11 月 25 日宣布正式推出 CMU 數碼資產平台（CMU DAP），由 CMU OmniClear Limited 代金管局開發營運，為債務工具中央結算系統以分散式帳本技術建置之平台，處理債務證券之初級發行、次級交易結算、付息及到期贖回，支援傳統債務證券代幣化，採鏈上原子式券款對付（DvP）模式，直接連接即時支付結算系統及央行數位貨幣，並以現金代幣支援 24 小時多幣種結算。CMU OmniClear 規劃擴及基金及實體資產，並與代幣化存款及受監管穩定幣等支付工具整合。",
+   "context": "香港特區政府以「固定收益及貨幣市場發展路線圖」推動 CMU 成為多資產數碼金融生態之核心基礎設施，CMU OmniClear 為此設立。\n香港已發行多批代幣化綠色債券，金管局並以 Project Ensemble 及 EnsembleTX 推動代幣化存款之批發結算；《穩定幣條例》下之持牌發行人亦已開始發行。",
+   "facts": [
+    "推出日期：2026 年 11 月 25 日。",
+    "營運者：CMU OmniClear Limited，代香港金管局開發營運。",
+    "功能：債務證券初級發行、次級交易結算、付息及到期贖回之無紙化流程；支援傳統債券代幣化。",
+    "結算：鏈上原子式券款對付；直接連接 RTGS 系統及央行數位貨幣；以現金代幣支援 24 小時多幣種結算。",
+    "依報導首批直接參與者為十家銀行（包括滙豐、渣打、星展）。"
+   ],
+   "issues": [
+    "代幣化債券於 CMU DAP 之法律效力及與既有 CMU 帳簿劃撥之關係。",
+    "與代幣化存款及受監管穩定幣整合時之結算終局性與風險管理。"
+   ],
+   "holding": "・平台：DLT 型 CMU 數碼資產平台，涵蓋債券全生命週期。\n・結算：鏈上原子式 DvP；RTGS 與 CBDC 介接；24 小時多幣種。\n・路線圖：擴及基金與實體資產；與其他 DLT 平台、代幣化存款及受監管穩定幣整合。",
+   "significance": "CMU DAP 為香港首個由金融市場基礎設施營運之代幣化債券平台，可與新加坡、歐元體系之代幣化結算基礎設施相互比較。後續留意首批發行、與 EnsembleTX 及持牌穩定幣之串接，以及跨境互通安排。",
+   "editorNote": "本網頁助理 註：首批直接參與者為十家銀行一節取自 Trendblog 及 The Crypto Times 報導，金管局新聞稿未載。",
+   "tags": [
+    "代幣化",
+    "債券",
+    "金融市場基礎設施",
+    "香港金管局",
+    "香港"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "香港金管局新聞稿",
+     "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/",
+     "official": true
+    },
+    {
+     "label": "CMU OmniClear 新聞稿",
+     "url": "https://www.cmuomniclear.com/en/news-and-events/id/3941",
+     "official": true
+    },
+    {
+     "label": "The Crypto Times 報導",
+     "url": "https://www.cryptotimes.io/2026/11/25/hsbc-standard-chartered-dbs-join-hkmas-cmu-digital-asset-platform/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T23:31:18+08:00"
+  },
+  {
+   "id": "2026-11-24-fin-ecb-tokenisation-reference-model",
+   "court": "ECB",
+   "kind": "政策動態",
+   "caseId": "eurosystem-digital-euro-tokenisation",
+   "jurisdiction": "歐盟",
+   "outlet": "Genfinity",
+   "outletCode": "GF",
+   "date": "2026-11-25",
+   "eventDate": "2026-11-24",
+   "importance": 1,
+   "author": "",
+   "title": "歐洲央行發布代幣化參考模型，作為歐洲代幣化標準制定之共同框架",
+   "shortTitle": "歐洲央行發布代幣化參考模型",
+   "point": "列八個層次與五項能力，供 ETSG 制定標準，非法規亦非強制採用",
+   "titleOriginal": "Tokenisation Reference Model (introduction proposal)",
+   "caseRef": "",
+   "tldr": "歐洲央行提出一套「代幣化參考模型」，把代幣化金融市場拆成八個層次（如資產表示、身分、帳本、法規遵循、治理），並訂出互通、可移轉、可攜、可控、可組合五項能力，讓業界在同一套語言下制定共同標準。這不是法規，而是給新成立的歐洲代幣化標準小組使用的起點。",
+   "memo": "依 Genfinity 及 Crypto Economy 2026 年 11 月 25 日報導，歐洲央行於 2026 年 11 月 24 日發布代幣化參考模型（Tokenisation Reference Model），將代幣化金融基礎設施劃分為資產與服務、網路與互通及政策與治理三群共八個層次，並揭示互通性、可移轉性、可攜性、可控性及可組合性五項能力，作為歐洲代幣化標準小組（ETSG）制定共同技術標準之基礎。歐洲央行表示該模型非屬法規，亦不強制業界採用；ETSG 預定 2027 年 1 月運作，2028 年初提出首批標準。",
+   "context": "歐洲央行、執委會與 ESMA 於 2026 年 11 月 9 日發起歐洲代幣化標準小組（ETSG），成員提名至 11 月 27 日。歐元體系並以 Pontes（9 月 21 日上線）與 Appia（2028 年藍圖）建構以央行貨幣結算代幣化交易之基礎設施；歐洲央行 11 月 23 日亦決定接受 DLT 試行機制資產為合格擔保品。",
+   "facts": [
+    "發布日期：依報導為 2026 年 11 月 24 日。",
+    "八個層次：交易同步、資產表示、資料語意；參與者身分、帳本；政策與法律授權、法規遵循與風險控制、網路治理。",
+    "五項能力：互通性、可移轉性、可攜性、可控性、可組合性。",
+    "盤點六項既有標準工作，包括 ISO 20022、FINOS CDM 與 ICMA 債券資料分類、Euroclear／Clearstream／DTCC 互通框架等。",
+    "早期優先事項：跨平台代幣移轉、共同技術代幣標準、共同參考資料庫。"
+   ],
+   "issues": [
+    "技術中立之參考模型能否避免歐洲代幣化平台分裂？",
+    "由央行主導之標準化與市場自發標準之關係。"
+   ],
+   "holding": "・框架：八層次、三群組，帳本僅為其中一層，維持技術中立。\n・能力：互通、可移轉、可攜、可控、可組合。\n・定位：供 ETSG 與利害關係人檢驗使用，非法規、不強制採用。\n・優先：跨平台移轉、共同代幣標準、參考資料庫。",
+   "significance": "參考模型為 ETSG 標準制定之起點，呼應 Lagarde 11 月 20 日呼籲歐盟儘速訂定代幣化共同規則。後續留意 ETSG 成員組成（11 月 27 日提名截止）、2027 年 1 月啟動及 2028 年初首批標準。",
+   "editorNote": "本網頁助理 註：本則依 Genfinity 及 Crypto Economy 報導；本網頁助理未能開啟歐洲央行頁面確認文件正式名稱與內容，下列歐洲央行連結取自上述報導。",
+   "tags": [
+    "代幣化",
+    "標準化",
+    "Appia",
+    "歐洲央行",
+    "歐盟"
+   ],
+   "related": [
+    "2026-11-20-fin-ecb-lagarde-tokenisation-common-rules",
+    "2026-11-23-fin-ecb-dlt-pilot-regime-collateral"
+   ],
+   "sources": [
+    {
+     "label": "歐洲央行市場基礎設施新聞頁面",
+     "url": "https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews261124.en.html",
+     "official": true
+    },
+    {
+     "label": "歐洲央行代幣化參考模型說明文件（PDF）",
+     "url": "https://www.ecb.europa.eu/pub/pdf/other/ecb.introproposalTRM2026.en.pdf",
+     "official": true
+    },
+    {
+     "label": "Genfinity 分析",
+     "url": "https://genfinity.io/2026/11/25/ecb-tokenisation-reference-model-european-tokenization-rulebook/",
+     "official": false
+    },
+    {
+     "label": "Crypto Economy 報導",
+     "url": "https://crypto-economy.com/ecb-unveils-framework-to-standardize-europes-tokenized-markets/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T23:31:18+08:00"
+  },
+  {
+   "id": "2026-11-25-fin-ukraine-rada-adopts-virtual-assets-law",
+   "court": "OTHER",
+   "kind": "立法動態",
+   "caseId": "ukraine-virtual-assets-law",
+   "jurisdiction": "烏克蘭",
+   "outlet": "crypto.news",
+   "outletCode": "CN",
+   "date": "2026-11-25",
+   "eventDate": "2026-11-25",
+   "importance": 2,
+   "author": "",
+   "title": "烏克蘭國會以 271 票通過《虛擬資產市場法》，建立發照制度與加密資產課稅",
+   "shortTitle": "烏克蘭國會通過虛擬資產市場法",
+   "point": "11 月 25 日以 271 票通過第 10225-d 號法案，依報導 2027 年 7 月 1 日施行",
+   "titleOriginal": "Ukraine passes crypto legalization bill with new tax and licensing rules",
+   "caseRef": "Bill No. 10225-d",
+   "tldr": "烏克蘭國會通過虛擬資產專法，交易所、保管等業者須向證券委員會申請執照，央行則管與本國貨幣和支付有關的部分；個人買賣加密資產的獲利要課稅，過渡期間適用較低稅率。依報導新法預定 2027 年 7 月上路。",
+   "memo": "依 crypto.news 及 UNN 2026 年 11 月 25 日報導，烏克蘭最高拉達於同日以 271 票通過第 10225-d 號《虛擬資產市場法》法案。依報導，國家證券及股票市場委員會負責虛擬資產服務業者發照及監理，並得聲請法院處置未持照業者；國家銀行監理與格里夫納相關交易及特定數位支付代幣。持照業者負揭露、風險管理及防止市場操縱義務，保管業者應分離保管客戶資產；個人虛擬資產淨收益課徵個人所得稅及軍事稅，過渡期間適用優惠稅率。依報導新法預定 2027 年 7 月 1 日施行，尚待總統簽署公布。",
+   "context": "本法案 2025 年 9 月通過一讀，工作小組其後審查逾 2,500 項修正提案。依報導國家銀行於 11 月初曾就外國代幣發行人及市場集中等問題表示反對，經技術修正後財稅委員會於 11 月 23 日重新建議通過。本法亦為烏克蘭對 IMF 承諾及與歐盟 MiCA 接軌之一環。",
+   "facts": [
+    "表決日期：2026 年 11 月 25 日；贊成 271 票；依 UNN 引述議員 Zhelezniak，係「整體通過」。",
+    "監理分工：國家證券及股票市場委員會負責發照與平台監理；國家銀行監理格里夫納相關交易、特定數位支付代幣及外匯業務。",
+    "業者義務：資訊揭露、風險管理、防止操縱；保管業者分離保管客戶資產；交易所及保管業者應就涉及烏克蘭居民之交易提出年度報告。",
+    "課稅：依 112.ua，個人所得稅 18% 加軍事稅 5%；2027 至 2028 年過渡期間出售資產適用 5% 個人所得稅（合計 10%）。各報導對稅率表述不盡一致。",
+    "個人得就新制施行前取得之加密資產辦理合法化。",
+    "施行日期：依報導為 2027 年 7 月 1 日。"
+   ],
+   "issues": [
+    "雙主管機關（證券委員會與國家銀行）之分工能否避免監理重疊？",
+    "新制與歐盟 MiCA 之對應程度，及對外國代幣發行人之處理。",
+    "過渡期優惠稅率與舊有資產合法化機制之設計。"
+   ],
+   "holding": "・發照：虛擬資產服務業者須取得國家證券及股票市場委員會執照；對未持照業者得聲請法院處置。\n・國家銀行：監理格里夫納相關交易及特定數位支付代幣。\n・行為規範：揭露、風險管理、防止操縱；客戶資產分離保管；年度報告義務。\n・課稅：淨收益課徵個人所得稅及軍事稅，虛擬資產間交換不課稅（依 crypto.news），過渡期適用優惠稅率。",
+   "significance": "烏克蘭為東歐主要加密資產市場，本法使其由灰色地帶轉為發照監理。後續留意總統簽署公布、證券委員會訂定子法及施行前之申請程序。",
+   "editorNote": "本網頁助理 註：本則依 crypto.news、UNN 及 112.ua 報導，本網頁助理未取得最高拉達通過之法案全文；各報導對稅率及過渡期之描述不完全一致，宜以正式公布條文為準。最高拉達新聞連結取自 crypto.news 報導，本網頁助理未開啟。",
+   "tags": [
+    "加密資產",
+    "虛擬資產服務商",
+    "洗錢防制",
+    "MiCA",
+    "烏克蘭"
+   ],
+   "related": [
+    "2026-11-20-fin-ukraine-virtual-asset-bill-amendments"
+   ],
+   "sources": [
+    {
+     "label": "烏克蘭最高拉達新聞",
+     "url": "https://www.rada.gov.ua/news/razom/277050.html",
+     "official": true
+    },
+    {
+     "label": "烏克蘭最高拉達法案資訊（10225-d）",
+     "url": "https://itd.rada.gov.ua/billinfo/Bills/Card/56271",
+     "official": true
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/ukraine-passes-crypto-legalization-bill-with-new-tax-and-licensing-rules/",
+     "official": false
+    },
+    {
+     "label": "UNN 報導",
+     "url": "https://unn.ua/en/news/parliament-approves-the-legalization-of-the-cryptocurrency-market-in-ukraine-when-the-law-will-take-effect",
+     "official": false
+    },
+    {
+     "label": "112.ua 報導",
+     "url": "https://112.ua/en/verhovna-rada-uhvalila-zakon-pro-opodatkuvanna-kriptovalut-z-1-lipna-2027-roku-osnovni-zmini-200499",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-25T23:31:18+08:00"
   }
  ],
  "agenda": [
@@ -12763,6 +13154,26 @@
    "url": "",
    "relatedId": "2026-11-24-fin-dnm-tribes-kalshi-injunction",
    "caseId": "us-prediction-markets-preemption"
+  },
+  {
+   "id": "tbd-tw-cbc-stablecoin-reserve-draft-deadline",
+   "date": "",
+   "court": "TW",
+   "title": "央行「穩定幣發行準備金繳存及查核辦法」草案意見徵詢截止",
+   "note": "依報導自 11 月 24 日起預告 30 日，確切截止日未見來源載明",
+   "url": "",
+   "relatedId": "2026-11-25-fin-cbc-stablecoin-reserve-draft",
+   "caseId": "taiwan-vasp-act"
+  },
+  {
+   "id": "2027-07-01-other-ukraine-virtual-assets-law-effective",
+   "date": "2027-07-01",
+   "court": "OTHER",
+   "title": "烏克蘭《虛擬資產市場法》預定施行",
+   "note": "依報導；尚待總統簽署公布，日期可能變動",
+   "url": "https://www.rada.gov.ua/news/razom/277050.html",
+   "relatedId": "2026-11-25-fin-ukraine-rada-adopts-virtual-assets-law",
+   "caseId": "ukraine-virtual-assets-law"
   }
  ],
  "cases": [
@@ -12786,7 +13197,7 @@
    "nameOriginal": "US crypto market structure (CLARITY Act; SEC and CFTC rulemaking)",
    "caseRef": "H.R. 3633",
    "summary": "眾議院 2025 年 7 月通過 CLARITY Act，參議院 2026 年 9 月 15 日未能終結辯論；SEC 與 CFTC 改以各自的規則制定與豁免推進加密資產市場監理。",
-   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 依報導訂於 11 月 23 日上線，已有 67 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。依 11 月 5 日報導，SEC 券商加密資產財務責任規則修正草案（RIN 3235-AN48）已送 OIRA 審查。依 11 月 9 日報導，Warren 將於 2027 年 1 月任參院銀行委員會主席並以預測市場與川普家族加密事業為監督重點，眾院民主黨擬另提強化 SEC 角色之市場結構法案。白宮 11 月 12 日提名 SEC 與 CFTC 各兩名委員（含 CLARITY Act 談判幕僚），待參院審查。 11 月 19 日眾院金融服務委員會主席 Hill 與參議員 Moreno 均表示 CLARITY Act 已錯失本屆立法窗口（依報導）。"
+   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 依報導訂於 11 月 23 日上線，已有 67 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。依 11 月 5 日報導，SEC 券商加密資產財務責任規則修正草案（RIN 3235-AN48）已送 OIRA 審查。依 11 月 9 日報導，Warren 將於 2027 年 1 月任參院銀行委員會主席並以預測市場與川普家族加密事業為監督重點，眾院民主黨擬另提強化 SEC 角色之市場結構法案。白宮 11 月 12 日提名 SEC 與 CFTC 各兩名委員（含 CLARITY Act 談判幕僚），待參院審查。 11 月 19 日眾院金融服務委員會主席 Hill 與參議員 Moreno 均表示 CLARITY Act 已錯失本屆立法窗口（依報導）。 SEC 公司財務部 11 月 24 日就 Molecule 科研專案代幣發出無異議函。"
   },
   {
    "id": "icba-v-occ-trust-charters",
@@ -12808,7 +13219,7 @@
    "nameOriginal": "Stablecoin supervision under MiCA",
    "caseRef": "Regulation (EU) 2023/1114",
    "summary": "MiCA 過渡期結束後，歐盟監理機關對穩定幣發行與相關服務採取具體監理措施。",
-   "status": "ESMA 要求 CASP 於 2027 年 1 月 8 日前處理不合規穩定幣曝險；EBA 將 USDC 列為重大電子貨幣代幣，11 月 12 日起雙重監理。"
+   "status": "ESMA 要求 CASP 於 2027 年 1 月 8 日前處理不合規穩定幣曝險；EBA 將 USDC 列為重大電子貨幣代幣，11 月 12 日起雙重監理。 EBA 11 月 25 日發布穩定幣於 DeFi 運用報告，建議執委會評估 CASP 介接 DeFi 借貸之要求並考慮將加密借貸納入 MiCA。"
   },
   {
    "id": "eu-misp",
@@ -12841,7 +13252,7 @@
    "nameOriginal": "Digital euro; Pontes and Appia",
    "caseRef": "",
    "summary": "歐元體系推動數位歐元立法與試點，並以 Pontes、Appia 建構代幣化交易的央行貨幣結算基礎設施。",
-   "status": "歐洲央行 11 月 23 日核准將 DLT 試行機制平台發行之資產納入合格擔保品，預定 2027 年 6 月實施；數位歐元立法 11 月 18 日第七輪三方協商未達協議，擬 12 月 3 日、16 日再議；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成。"
+   "status": "歐洲央行 11 月 23 日核准將 DLT 試行機制平台發行之資產納入合格擔保品，預定 2027 年 6 月實施；數位歐元立法 11 月 18 日第七輪三方協商未達協議，擬 12 月 3 日、16 日再議；Pontes 9 月 21 日上線，Appia 藍圖預定 2028 年完成。 歐洲央行 11 月 24 日發布代幣化參考模型，供 ETSG 制定標準。"
   },
   {
    "id": "uk-cryptoasset-regime",
@@ -12863,7 +13274,7 @@
    "nameOriginal": "Hong Kong stablecoins and tokenised products",
    "caseRef": "Cap. 656",
    "summary": "香港依《穩定幣條例》核發穩定幣發行人牌照，證監會並開放代幣化基金於虛擬資產交易平台次級交易。",
-   "status": "政府 11 月 20 日刊憲《2026年虛擬資產服務法例（修訂）條例草案》，將虛擬資產交易、意見、管理及託管納入證監會發牌制度，12 月 2 日首讀；金管局 11 月 2 日宣布 EnsembleTX 支援 24/7 代幣化存款交易，11 月 16 日宣布與 Swift 研究代幣化存款跨境支付；滙豐 RedCoin 已於 10 月 23 日上線。"
+   "status": "政府 11 月 20 日刊憲《2026年虛擬資產服務法例（修訂）條例草案》，將虛擬資產交易、意見、管理及託管納入證監會發牌制度，12 月 2 日首讀；金管局 11 月 2 日宣布 EnsembleTX 支援 24/7 代幣化存款交易，11 月 16 日宣布與 Swift 研究代幣化存款跨境支付；滙豐 RedCoin 已於 10 月 23 日上線。 金管局 11 月 25 日正式推出 CMU 數碼資產平台，支援代幣化債券發行與鏈上結算。"
   },
   {
    "id": "taiwan-vasp-act",
@@ -12874,7 +13285,7 @@
    "nameOriginal": "Taiwan Virtual Asset Service Act and subsidiary regulations",
    "caseRef": "",
    "summary": "《虛擬資產服務法》2026 年 6 月 30 日三讀、7 月 22 日公布，金管會研訂九項子法，包括穩定幣發行許可與管理。",
-   "status": "金管會 11 月 3 日預告虛擬資產服務商子法及「穩定幣發行許可及管理辦法」草案，將於 11 月 24 日召開穩定幣子法公聽會；主委彭金隆 11 月 17 日於立法院表示九項子法預計 2027 年第一季完成後開放申請，目前尚無銀行正式遞件。"
+   "status": "金管會 11 月 3 日預告虛擬資產服務商子法及「穩定幣發行許可及管理辦法」草案，將於 11 月 24 日召開穩定幣子法公聽會；主委彭金隆 11 月 17 日於立法院表示九項子法預計 2027 年第一季完成後開放申請，目前尚無銀行正式遞件。 中央銀行依報導於 11 月 24 日預告「穩定幣發行準備金繳存及查核辦法」草案，發行餘額逾門檻部分須按 10.775% 繳存央行，徵詢 30 日。"
   },
   {
    "id": "au-digital-assets-framework",
@@ -12985,6 +13396,17 @@
    "caseRef": "",
    "summary": "肯亞 2025 年制定《虛擬資產服務提供者法》，2026 年 7 月公布施行規則，由中央銀行與資本市場管理局依業務類別分別核發執照。",
    "status": "既有業者過渡期已於 2026 年 11 月 4 日屆滿，央行與資本市場管理局 11 月 13 日公告業者須取得執照始得營業；IMF 技術協助報告建議放寬外幣穩定幣準備金在地化與固定資本門檻並增訂旅行規則。"
+  },
+  {
+   "id": "ukraine-virtual-assets-law",
+   "type": "議題",
+   "court": "OTHER",
+   "forum": "烏克蘭最高拉達、國家證券及股票市場委員會、國家銀行",
+   "name": "烏克蘭《虛擬資產市場法》",
+   "nameOriginal": "Ukraine Law on Virtual Assets Markets (Bill No. 10225-d)",
+   "caseRef": "Bill No. 10225-d",
+   "summary": "烏克蘭制定虛擬資產專法，建立虛擬資產服務業者發照、監理分工與課稅制度。",
+   "status": "最高拉達 2026 年 11 月 25 日以 271 票通過，依報導預定 2027 年 7 月 1 日施行，尚待總統簽署公布及證券委員會訂定子法。"
   }
  ],
  "archives": []
