@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-26T07:24:38+08:00",
-  "lastRunLocal": "2026-11-26 07:24",
+  "lastRun": "2026-11-26T23:45:23+08:00",
+  "lastRunLocal": "2026-11-26 23:45",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：亞太與其他 1（政策動態 1）"
+  "lastRunNote": "新增 9 則：美國 2（法規發布 1、政策動態 1）、英國 1（政策動態 1）、台灣 1（監理指引 1）、國際組織 1（政策動態 1）、亞太與其他 4（立法動態 2、政策動態 1、監理指引 1）"
  },
  "items": [
   {
@@ -258,7 +258,9 @@
     "金管會",
     "台灣"
    ],
-   "related": [],
+   "related": [
+    "2026-11-26-fin-tw-fsc-cyber-self-assessment"
+   ],
    "sources": [
     {
      "label": "金管會新聞稿",
@@ -717,7 +719,8 @@
    "related": [
     "2026-10-21-fin-fca-cp26-36-perimeter-guidance",
     "2026-10-06-fin-adgm-fsra-defi-guidance-cp",
-    "2026-11-15-fin-uk-crypto-misc-amendments-lords"
+    "2026-11-15-fin-uk-crypto-misc-amendments-lords",
+    "2026-11-26-fin-ft-fca-defi-authorisation-plan"
    ],
    "sources": [
     {
@@ -5096,7 +5099,9 @@
     "日本金融廳",
     "日本"
    ],
-   "related": [],
+   "related": [
+    "2026-11-26-fin-japan-fsa-defi-study-group-3"
+   ],
    "sources": [
     {
      "label": "金融廳事務局說明資料（PDF）",
@@ -9570,7 +9575,8 @@
     "美國"
    ],
    "related": [
-    "2026-11-11-fin-cftc-warns-kalshi-possible-charges"
+    "2026-11-11-fin-cftc-warns-kalshi-possible-charges",
+    "2026-11-25-fin-cftc-event-contract-reporting-rule"
    ],
    "sources": [
     {
@@ -11720,7 +11726,8 @@
    "related": [
     "2026-11-11-fin-okxice-tsv-launch-date",
     "2026-10-26-fin-okxice-issuer-objections",
-    "2026-11-16-fin-senators-letter-sec-tokenized-stock-aml"
+    "2026-11-16-fin-senators-letter-sec-tokenized-stock-aml",
+    "2026-11-25-fin-senate-dems-sec-withdraw-crypto-exemptions"
    ],
    "sources": [
     {
@@ -11788,7 +11795,8 @@
    "related": [
     "2026-11-17-fin-korea-fsc-daba-submission-next-week",
     "2026-11-13-fin-korea-min-daba-jan-9-target",
-    "2026-11-08-fin-korea-daba-draft-bank-led-stablecoin"
+    "2026-11-08-fin-korea-daba-draft-bank-led-stablecoin",
+    "2026-11-26-fin-korea-daba-bill-introduced"
    ],
    "sources": [
     {
@@ -12594,6 +12602,552 @@
     }
    ],
    "addedAt": "2026-11-26T07:24:38+08:00"
+  },
+  {
+   "caseId": "kr-digital-asset-basic-act",
+   "jurisdiction": "南韓",
+   "author": "",
+   "caseRef": "",
+   "editorNote": "本網頁助理 註：本則依 Herald Business、韓國經濟新聞及 crypto.news 報導整理，本網頁助理未取得國會議案資訊系統之議案全文或編號；「柳東秀」為本網頁助理依韓文姓名「유동수」之漢字常用寫法。",
+   "related": [
+    "2026-11-24-fin-korea-daba-government-bill"
+   ],
+   "importance": 2,
+   "addedAt": "2026-11-26T23:45:23+08:00",
+   "id": "2026-11-26-fin-korea-daba-bill-introduced",
+   "court": "KR",
+   "kind": "立法動態",
+   "outlet": "Herald Business（헤럴드경제）",
+   "outletCode": "HB",
+   "date": "2026-11-26",
+   "eventDate": "2026-11-26",
+   "title": "南韓國會政務委員會主席柳東秀提出《數位資產業創新及使用者保護法》案，《數位資產基本法》正式送入國會",
+   "shortTitle": "南韓數位資產基本法正式提案國會",
+   "point": "政務委員會主席柳東秀 11 月 26 日領銜提出，12 月 3 日舉行公聽會",
+   "titleOriginal": "디지털자산업의 혁신과 이용자 보호에 관한 법률안（유동수 의원 대표발의）",
+   "tldr": "南韓政府 11 月 24 日公布的加密資產第二階段法案，已由國會負責金融的政務委員會主席柳東秀在 26 日正式提出。法案把「虛擬資產」改稱「數位資產」，開放 ICO 與韓元穩定幣，並限制交易所大股東持股。國會將在 12 月 3 日舉行公聽會。",
+   "memo": "依 Herald Business 及韓國經濟新聞 2026 年 11 月 26 日報導，南韓國會政務委員會主席柳東秀（共同民主黨）於同日領銜提出《數位資產業創新及使用者保護法》案，承接金融委員會 11 月 24 日公布之政府版內容。法案將「虛擬資產」改稱「數位資產」，買賣、仲介、保管業採許可制、運用業採登記制，由金融委員會自兼具三項許可者中指定平台營運者；開放韓元穩定幣（須足額準備並保障贖回）及經白皮書申報之 ICO，並設交易所持股分散規範；依報導政務委員會訂於 12 月 3 日舉行公聽會。",
+   "context": "南韓 2023 年制定《虛擬資產使用者保護法》（2024 年 7 月施行）為第一階段立法；第二階段《數位資產基本法》由金融委員會研擬，11 月 24 日公布政府版制定案。\n政府提出之法律案依南韓程序須經國務會議等程序，由國會議員代表提出可縮短時程；執政黨先前表示目標 2027 年 1 月完成立法。",
+   "facts": [
+    "依 Herald Business 報導，柳東秀於 2026 年 11 月 26 日宣布領銜提出本法案；報導未載共同提案人數及議案編號。",
+    "法案定義「數位資產」為得以分散式帳本移轉或保存之價值或權利電子證明（依報導）。",
+    "依韓國經濟新聞引述草案第 75 條，交易所單一大股東（含關係人）持股上限 20%，經總統令指定之公共資產運用機構依報導得至 34%；既有大股東有三年緩衝期，得再延長最多三年。",
+    "依 crypto.news 引述政務委員會 11 月 25 日通知，委員會訂於 12 月 3 日上午 10 時就本法案舉行公聽會。",
+    "報導引述南韓加密資產使用者約 1,000 萬人、市值約 53 兆韓元。"
+   ],
+   "issues": [
+    "交易所大股東持股上限是否過度限制財產權與經營權？",
+    "由國會議員提出政府版內容之程序選擇，對審議時程與朝野協商有何影響？"
+   ],
+   "holding": "・業別：買賣、仲介、保管業須經許可，運用業須登記；金融委員會自兼具買賣、仲介、保管許可者中指定「平台營運者」（交易所）（依報導）。\n・韓元穩定幣：准予發行，須維持足額準備並保障持有人贖回權，並設重要穩定幣指定及監理制度（依報導）。\n・ICO：發行人應於銷售前向金融委員會提出數位資產白皮書；平台營運者上架須公開交易支援報告書（依報導）。\n・交易所治理：參照另類交易系統設持股分散規範（依報導）。\n・使用者保護：比照金融消費者保護法之行為規範；駭客或系統故障所致損失由業者負無過失責任，違反資安義務得課懲罰性罰鍰（依報導）。",
+   "significance": "法案正式進入國會程序，後續將於政務委員會公聽會及審查中與其他議員版本整合。應留意 12 月 3 日公聽會意見、持股上限與穩定幣發行主體是否調整，以及能否達成執政黨 2027 年 1 月完成立法之目標。",
+   "tags": [
+    "加密資產",
+    "穩定幣",
+    "數位資產基本法",
+    "ICO",
+    "交易所治理",
+    "國會",
+    "南韓"
+   ],
+   "sources": [
+    {
+     "label": "Herald Business 報導（柳東秀提案）",
+     "url": "https://biz.heraldcorp.com/article/10950763",
+     "official": false
+    },
+    {
+     "label": "韓國經濟新聞報導（持股上限條文）",
+     "url": "https://www.hankyung.com/article/2026112631351",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導（12 月 3 日公聽會）",
+     "url": "https://crypto.news/south-korea-sets-dec-3-hearing-for-landmark-digital-asset-bill/",
+     "official": false
+    }
+   ]
+  },
+  {
+   "caseId": "",
+   "jurisdiction": "日本",
+   "author": "",
+   "caseRef": "",
+   "editorNote": "本網頁助理 註：金融廳議事次第頁面未載討論內容摘要；事務局論點係依 CoinPost 報導整理，本網頁助理未逐頁核對事務局資料原文。",
+   "related": [
+    "2026-11-02-fin-japan-fsa-stablecoin-review"
+   ],
+   "importance": 1,
+   "addedAt": "2026-11-26T23:45:23+08:00",
+   "id": "2026-11-26-fin-japan-fsa-defi-study-group-3",
+   "court": "JP",
+   "kind": "政策動態",
+   "outlet": "日本金融廳",
+   "outletCode": "FSA-JP",
+   "date": "2026-11-26",
+   "eventDate": "2026-11-26",
+   "title": "日本金融廳「數位及分散式金融因應研究會」第 3 次會議討論 DeFi 規範對象、前端介面及非託管錢包之使用者保護與洗錢防制",
+   "shortTitle": "日本金融廳研究會研議 DeFi 監理",
+   "point": "討論 DeFi 規範對象之認定，及非託管錢包是否需加強洗錢防制",
+   "titleOriginal": "デジタル・分散型金融への対応のあり方等に関する研究会（令和８事務年度第３回）議事次第",
+   "tldr": "日本金融廳 11 月 26 日召開研究會，討論 DeFi（去中心化金融）要找誰負責：有些號稱去中心化的服務其實有人在控制，真正無人負責時，可能改由穩定幣發行人、出入金業者等受監理的窗口把關。也討論是否要對自行保管的錢包加強保護與防洗錢。目前尚無結論。",
+   "memo": "日本金融廳於 2026 年 11 月 26 日召開「數位及分散式金融因應研究會」第 3 次會議，議程包括事務局說明、日本加密資產商業協會意見聽取及委員松尾真一郎報告。依 CoinPost 同日報導，事務局資料提出 DeFi 及去中心化交易所規範對象之認定、前端介面提供者之處理、價值中立軟體開發是否應受規範等論點，並研議於無法特定責任主體時，透過穩定幣發行人、出入金業者等受監理接點間接適用洗錢防制措施，以及就非託管錢包採取額外使用者保護措施；研究會尚未作成結論。",
+   "context": "日本金融廳 2026 事務年度設置本研究會，檢討 DeFi、穩定幣等數位金融之制度因應；第 2 次會議（11 月 2 日）資料曾檢討穩定幣制度修正。\nFATF 曾指出 DeFi 安排之所有人或營運者可能屬虛擬資產服務提供者。",
+   "facts": [
+    "會議於 2026 年 11 月 26 日 15 時至 17 時舉行，金融廳公開委員名單、事務局資料、業者協會資料及松尾委員資料共五份。",
+    "金融廳說明聽取對象之資料代表各該團體見解，非金融廳立場。",
+    "依 CoinPost 報導，事務局資料引述 DeFi 總鎖倉價值至 6 月 10 日約 866 億美元。",
+    "依 CoinPost 報導，事務局引述調查指 21.9% 之加密資產或 NFT 持有人使用非託管錢包，主要用途為轉入交易所。",
+    "依 CoinPost 報導，事務局資料提及 2011 年 Winny 案最高法院判決，作為價值中立軟體開發者責任之參考。"
+   ],
+   "issues": [
+    "DeFi 或去中心化交易所之規範名宛人應如何認定？",
+    "價值中立之軟體開發應否受金融法規範？",
+    "無法特定責任主體時，透過受監理接點間接規範或限制使用者存取是否適當？",
+    "非託管錢包是否需額外使用者保護及洗錢防制措施？"
+   ],
+   "holding": "・規範對象：事務局指出 DeFi 尚無國際共通判斷標準，部分自稱去中心化之服務實際有集中控制者，應依「相同功能、相同風險」認定規範名宛人（依 CoinPost 報導）。\n・前端介面：參照 FATF 見解，研議前端或 App 提供者是否納入規範（依報導）。\n・間接規範：無法特定責任主體時，研議透過穩定幣發行人、出入金業者及金融機構等受監理接點適用洗錢防制，或抑制使用者存取欠缺適當洗錢防制之 DeFi（依報導）。\n・非託管錢包：研議額外之使用者保護及洗錢防制措施，依報導包括新開戶後移轉至非託管錢包前之冷卻期等構想。",
+   "significance": "日本為亞洲主要監理機關中較早系統性檢討 DeFi 規範對象者，討論方向與英國 FCA、歐盟 EBA 之 DeFi 監理討論可相互比較。後續應注意研究會是否形成報告，以及是否據以修正《資金結算法》或《金融商品交易法》。",
+   "tags": [
+    "DeFi",
+    "非託管錢包",
+    "洗錢防制",
+    "穩定幣",
+    "金融廳",
+    "日本"
+   ],
+   "sources": [
+    {
+     "label": "金融廳研究會議事次第及資料（第 3 次）",
+     "url": "https://www.fsa.go.jp/singi/digital_2026/shiryo/20261126.html",
+     "official": true
+    },
+    {
+     "label": "CoinPost 報導（事務局論點）",
+     "url": "https://coinpost.jp/?p=749639",
+     "official": false
+    }
+   ]
+  },
+  {
+   "caseId": "",
+   "jurisdiction": "台灣",
+   "author": "",
+   "caseRef": "",
+   "editorNote": "本網頁助理 註：本網頁助理未能於金管會網站取得本措施之新聞稿（查詢時官網最新新聞稿為 11 月 25 日），內容依中央社及經濟日報報導整理。",
+   "related": [
+    "2026-11-13-fin-tw-fsc-ciso-ai-attack"
+   ],
+   "importance": 1,
+   "addedAt": "2026-11-26T23:45:23+08:00",
+   "id": "2026-11-26-fin-tw-fsc-cyber-self-assessment",
+   "court": "TW",
+   "kind": "監理指引",
+   "outlet": "中央社",
+   "outletCode": "CNA",
+   "date": "2026-11-26",
+   "eventDate": "2026-11-26",
+   "title": "金管會因應 AI 驅動之駭客攻擊，要求金融機構年底前完成 14 項資安自評並提報董事會",
+   "shortTitle": "金管會要求金融業年底前完成資安自評",
+   "point": "14 項自評須於 2026 年底前完成並提報董事會，董事會每季追蹤改善",
+   "titleOriginal": "金融業資安防護強化措施（中央社：因應AI駭客攻擊 金管會要求金融業年底提資安自評報董事會）",
+   "tldr": "金管會擔心駭客用 AI 加速攻擊，要求所有金融機構今年底前就 14 個資安項目自我檢查，結果要送董事會；有缺口的要限期改善，董事會每季聽取進度。項目包括修補 VPN、防火牆漏洞、管控 API 金鑰、演練 AI 攻擊情境，並評估用 AI 防禦 AI。",
+   "memo": "依中央社及經濟日報 2026 年 11 月 26 日報導，金融監督管理委員會依 11 月 12 日金融機構資安長聯繫會議共識，訂定「金融業資安防護強化措施」，要求全體金融機構於 2026 年底前完成曝險收斂、身分金鑰與第三方元件管控、資料與交易安全、偵測回溯與應變及中長期強化等五類共 14 項自評，並提報最近一次董事會；董事會應就缺口督導限期改善、每季聽取進度並優先配置預算及人力，重大資安事件應即時報告。依報導適用機構共 230 家。",
+   "context": "金管會 2026 年 11 月 12 日召開第 2 次金融機構資安長聯繫會議，討論代理型 AI 安全管理與 AI 驅動攻擊，翌日發布新聞稿要求優先落實六項措施；本次措施將其具體化為自評項目。\n金管會引述近期南韓金融業者經由周邊系統遭攻擊之事件，作為強化防護之背景（依報導）。",
+   "facts": [
+    "措施於 2026 年 11 月 26 日由金管會資訊服務處處長林裕泰於例行記者會說明（依報導）。",
+    "五類項目數：曝險收斂 4 項、身分金鑰與第三方元件管控 2 項、資料與交易安全 2 項、偵測回溯與應變 4 項、中長期強化 2 項（依經濟日報報導）。",
+    "依中央社報導，適用金融機構共 230 家，其中 135 家設有資安長，包括本國銀行 38 家、信用合作社 23 家、電子支付機構 7 家、證券商 27 家等。",
+    "依報導，項目包括修補 VPN 與防火牆漏洞、管理介面多因子驗證、管控非人類身分及 API 金鑰、監控外洩資料衍生之詐欺、由高階主管參與之 AI 攻擊情境演練，以及高風險區域零信任與評估導入防禦型 AI。"
+   ],
+   "issues": [
+    "自評措施之法律性質為行政指導或監理要求，未落實時之監理效果為何？",
+    "董事會資安治理責任之具體化，對金融機構內部控制制度之影響？"
+   ],
+   "holding": "・期限：全體金融機構於 2026 年底前完成 14 項自評，提報最近一次董事會（依報導）。\n・董事會責任：審閱結果、優先配置預算人力，督導缺口限期改善並每季聽取進度，重大事件即時報告（依報導）。\n・替代措施：難以完全符合者得採取等效替代措施，經書面記錄並由資安長核准，重大者提報董事會（依報導）。\n・最低標準：各項為最低要求，調整適用範圍不得降低標準；金管會不強制特定多因子驗證方式（依報導）。",
+   "significance": "金管會將 AI 攻擊風險納入董事會層級治理並設明確期限，屬「金融業運用 AI」監理之防禦面向。後續應注意年底自評結果、金管會是否將項目納入金融檢查重點，以及與金融業運用 AI 指引之銜接。",
+   "tags": [
+    "人工智慧",
+    "資訊安全",
+    "董事會",
+    "金管會",
+    "台灣"
+   ],
+   "sources": [
+    {
+     "label": "中央社報導",
+     "url": "https://www.cna.com.tw/news/afe/202611260269.aspx",
+     "official": false
+    },
+    {
+     "label": "經濟日報報導（五類項目數）",
+     "url": "https://money.udn.com/money/story/5613/9904008",
+     "official": false
+    }
+   ]
+  },
+  {
+   "caseId": "",
+   "jurisdiction": "西班牙",
+   "author": "",
+   "caseRef": "Real Decreto-ley 44/2026；BOE núm. 293；BOE-A-2026-24702",
+   "editorNote": "以下為本網頁助理補充，非來源內容：AMLD6 與本修正之關聯係本網頁助理依指令內容所作說明，BOE 條文本身未必援引該指令。",
+   "related": [],
+   "importance": 2,
+   "addedAt": "2026-11-26T23:45:23+08:00",
+   "id": "2026-11-25-fin-spain-sepblac-crypto-suspension",
+   "court": "OTHER",
+   "kind": "立法動態",
+   "outlet": "西班牙政府公報（BOE）",
+   "outletCode": "BOE",
+   "date": "2026-11-25",
+   "eventDate": "2026-11-25",
+   "title": "西班牙以第 44/2026 號皇家法令賦予金融情報中心 Sepblac 不經法院逕行暫停可疑交易及銀行、支付與加密資產帳戶之權限",
+   "shortTitle": "西班牙授權金融情報中心凍結加密帳戶",
+   "point": "Sepblac 得逕行暫停交易最長 10 個工作日、帳戶 5 個工作日，2027 年 1 月 25 日生效",
+   "titleOriginal": "Real Decreto-ley 44/2026, de 24 de noviembre（Disposición final sexta: modificación de la Ley 10/2010）",
+   "tldr": "西班牙政府用緊急命令修改洗錢防制法，讓金融情報中心（Sepblac）懷疑洗錢時，可以不必先找法官，就直接暫停交易或凍結銀行、支付及加密資產帳戶幾天；超過期限要由檢察官聲請法院確認。新規定 2027 年 1 月 25 日生效。",
+   "memo": "西班牙政府以 2026 年 11 月 24 日第 44/2026 號皇家法令（2026 年 11 月 25 日刊登政府公報 BOE-A-2026-24702），於附則第 6 條修正第 10/2010 號洗錢及資恐防制法，增訂第 46 條之 1，授權金融情報中心 Sepblac 於有洗錢或資恐跡象時，得依職權或依執法機關、外國金融情報中心請求，暫停或拒絕授權交易，或暫停銀行、支付或加密資產帳戶及業務關係之使用；交易暫停以 10 個工作日、帳戶以 5 個工作日為限，逾期須經檢察官聲請由法院確認或延長。違反暫停命令列為裁罰事由。該修正於公布後兩個月即 2027 年 1 月 25 日生效。",
+   "context": "歐盟《反洗錢指令》（AMLD6，指令 (EU) 2024/1640）要求會員國賦予金融情報中心暫停或拒絕同意交易及暫停帳戶使用之權限。\n本修正附隨於規範消費信貸契約及不良債權出售借款人保護之皇家法令，依西班牙憲法須經眾議院確認（convalidación）。",
+   "facts": [
+    "第 44/2026 號皇家法令日期為 2026 年 11 月 24 日，刊登於 2026 年 11 月 25 日 BOE 第 293 號。",
+    "新增第 46 條之 1 明文涵蓋「銀行、支付或加密資產帳戶」。",
+    "可疑交易源自義務機構依第 19 條所為申報者，暫停命令應於 3 個工作日內作成。",
+    "依命令配合之 Sepblac 人員及義務機構不負責任；第 51 條第 1 項 (g) 款將違反暫停命令列為違規。",
+    "依附則第 14 條，本修正於公布後兩個月生效。",
+    "CoinDesk 報導將此修正與西班牙 2026 年 FATF 相互評鑑相連結。"
+   ],
+   "issues": [
+    "金融情報中心不經法官逕行凍結帳戶，是否符合比例原則及正當程序？",
+    "以緊急命令附帶修正洗錢防制法之立法方式是否妥適？",
+    "加密資產服務業者如何即時執行暫停命令？"
+   ],
+   "holding": "・暫停權限：Sepblac 有洗錢或資恐跡象時，得暫停或拒絕授權交易，或暫停帳戶及業務關係之使用，涵蓋銀行、支付及加密資產帳戶。\n・期限：進行中交易最長 10 個工作日；帳戶或業務關係最長 5 個工作日；不再必要時應提前解除。\n・司法控制：逾期限者須由檢察官於期限屆滿前聲請法院確認或延長；救濟依刑事訴訟法。\n・發動來源：Sepblac 依職權，或依執法機關、外國金融情報中心請求。\n・責任與裁罰：依命令配合者免責；違反暫停命令列為違規行為。",
+   "significance": "此為歐盟會員國落實 AMLD6 金融情報中心凍結權限、並明文涵蓋加密資產帳戶之案例，適用對象包括依 MiCA 在西班牙營運之加密資產服務提供者。後續應注意眾議院是否確認該皇家法令，以及 2027 年 1 月 25 日生效後之實務運作。",
+   "tags": [
+    "洗錢防制",
+    "加密資產",
+    "金融情報中心",
+    "凍結",
+    "西班牙",
+    "歐盟"
+   ],
+   "sources": [
+    {
+     "label": "BOE 皇家法令全文（BOE-A-2026-24702）",
+     "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24702",
+     "official": true
+    },
+    {
+     "label": "CoinDesk 報導",
+     "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+     "official": false
+    },
+    {
+     "label": "TokenPost 報導",
+     "url": "https://www.tokenpost.com/news/regulation/62880",
+     "official": false
+    }
+   ]
+  },
+  {
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國",
+   "author": "",
+   "caseRef": "依報導連結推定為 CFTC Release No. 9330-26",
+   "editorNote": "本網頁助理 註：本網頁助理未能開啟 CFTC 網站新聞稿；表決日期依 Gambling.com 報導及規則檔名，Release 編號係依報導中連結網址推定。Gambling.com 頁面部分內容本網頁助理僅能取得摘要。",
+   "related": [
+    "2026-11-17-fin-cftc-stays-kalshi-trump-mention-markets"
+   ],
+   "importance": 2,
+   "addedAt": "2026-11-26T23:45:23+08:00",
+   "id": "2026-11-25-fin-cftc-event-contract-reporting-rule",
+   "court": "CFTC",
+   "kind": "法規發布",
+   "outlet": "Legal Sports Report",
+   "outletCode": "LSR",
+   "date": "2026-11-25",
+   "eventDate": "2026-11-23",
+   "title": "CFTC 通過事件合約資料申報最終規則，要求預測市場即時公開交易資料、大額交易人申報及蒐集客戶身分資料，取代自 2017 年以來之不採取行動函",
+   "shortTitle": "CFTC 訂定事件合約資料申報最終規則",
+   "point": "大額交易人門檻單一市場 12.5 萬口，最早 2027 年 7 月 26 日起申報",
+   "titleOriginal": "CFTC final rule: Covered Event Contracts reporting (amendments to 17 CFR Parts 15, 16 and 17)",
+   "tldr": "美國 CFTC 為預測市場訂了正式的資料申報規則：交易所要近乎即時公開成交價、成交量及合約結果，持有大量部位的交易人要申報，所有客戶的姓名、地址、職業等資料都要蒐集並保存五年。過去這些事項是靠一連串「不採取行動函」個案豁免，現在改成正式規則。",
+   "memo": "依 Legal Sports Report 及 Gambling.com 2026 年 11 月 25 日報導，美國商品期貨交易委員會（CFTC）於 2026 年 11 月 23 日通過事件合約資料申報最終規則，修正 17 CFR 第 15 至 17 部並增訂第 16.03 條「Covered Event Contracts」，適用於全額擔保之二元或變動給付事件合約。交易所應近乎即時公開成交價格、數量、時間及合約結果與驗證來源；單一市場持有 12.5 萬口以上之交易人適用大額交易人申報；交易所並應蒐集客戶姓名、地址、聯絡方式、職業及雇主等資料，於合約終止後保存至少五年。公開揭露規定於聯邦公報刊登後 60 日生效，大額交易人申報不早於 2027 年 7 月 26 日，客戶身分資料於刊登後 12 個月內遵循。",
+   "context": "CFTC 自 2017 年起對全額擔保之事件合約交易所以多份不採取行動函豁免部分申報義務。隨運動及選舉事件合約交易量擴大，各州以賭博法挑戰預測市場，CFTC 主席 Selig 主張以正式規則取代個案豁免。\n依報導，另一項事件合約規則已於 11 月 20 日送白宮管理及預算局審查。",
+   "facts": [
+    "依 Gambling.com 報導，CFTC 於 2026 年 11 月 23 日表決通過並同日發布新聞稿；Legal Sports Report 連結之規則檔名亦載 112326。",
+    "大額交易人門檻為單一市場 12.5 萬口（每口 1 美元），合約面額不同者為名目金額 12.5 萬美元；CFTC 採逐一市場計算，依報導估計受申報帳戶減少 97% 至 99%，約 227 個帳戶適用。",
+    "客戶資料包括姓名、實體地址、電子郵件、電話、職業、雇主，及保證人與持有 10% 以上財務利益者，保存至合約終止後至少五年（依報導）。",
+    "市場資料應公開並至少保留一年（依 Gambling.com 報導）。",
+    "CFTC 主席 Selig 稱不採取行動函為不可行規則之「OK 繃」（依 CFTC 聲明之報導引述）。"
+   ],
+   "issues": [
+    "正式規則化是否強化 CFTC 對事件合約之專屬管轄主張？",
+    "全面蒐集客戶職業與雇主資料，對防範內線交易之效果與隱私負擔為何？"
+   ],
+   "holding": "・適用範圍：全額擔保之二元或變動給付事件合約，增訂 17 CFR §16.03（依報導）。\n・公開揭露：交易所應近乎即時公開成交價格、數量、時間戳記，及合約結果與驗證來源；於聯邦公報刊登後 60 日生效（依報導）。\n・大額交易人申報：單一市場 12.5 萬口以上，自聯邦公報刊登後 60 日或 2027 年 7 月 26 日（較晚者）起適用（依報導）。\n・客戶身分：不論部位大小均應蒐集識別資料，刊登後 12 個月內遵循（依報導）。\n・既有豁免：幕僚預期於遵循日屆至後撤回多數既有不採取行動函（依報導）。",
+   "significance": "此為 CFTC 首部專門針對預測市場之資料申報規則，將長期依賴之個案豁免改為正式規範，並回應國會對預測市場內線交易之關切。應注意規則刊登聯邦公報之日期、另一項送審中之事件合約規則內容，以及州政府訴訟中是否援引本規則。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "資料申報",
+    "大額交易人",
+    "CFTC",
+    "美國"
+   ],
+   "sources": [
+    {
+     "label": "Legal Sports Report 報導",
+     "url": "https://www.legalsportsreport.com/288748/prediction-markets-to-disclose-more-data-under-cftc-rule/",
+     "official": false
+    },
+    {
+     "label": "Gambling.com 報導",
+     "url": "https://www.gambling.com/us/news/cftc-approves-permanent-data-reporting-rules-for-prediction-markets",
+     "official": false
+    },
+    {
+     "label": "DeFi Rate 分析",
+     "url": "https://defirate.com/news/cftc-prediction-markets-permanent-rulebook-forgoing/",
+     "official": false
+    }
+   ]
+  },
+  {
+   "caseId": "us-crypto-market-structure",
+   "jurisdiction": "美國",
+   "author": "",
+   "caseRef": "",
+   "editorNote": "本網頁助理 註：本網頁助理未能開啟參議院銀行委員會網站或信函原文，內容依 crypto.news、TFTC 及 Wise Voter 報導整理；各報導所列連署人不完全一致。",
+   "related": [
+    "2026-11-23-fin-okxice-tsv-launches"
+   ],
+   "importance": 1,
+   "addedAt": "2026-11-26T23:45:23+08:00",
+   "id": "2026-11-25-fin-senate-dems-sec-withdraw-crypto-exemptions",
+   "court": "US",
+   "kind": "政策動態",
+   "outlet": "crypto.news",
+   "outletCode": "CN",
+   "date": "2026-11-25",
+   "eventDate": "2026-11-25",
+   "title": "參議院民主黨議員致函 SEC 主席 Atkins，要求撤回「Regulation Crypto Assets」規則草案及代幣化股票創新豁免",
+   "shortTitle": "參院民主黨促 SEC 撤回加密豁免",
+   "point": "依報導 11 月 25 日兩函要求撤回 Regulation Crypto Assets 及代幣化股票創新豁免",
+   "titleOriginal": "Senate Democrats urge SEC to withdraw Regulation Crypto Assets and tokenized-stock Innovation Exemption",
+   "tldr": "美國參議院銀行委員會的民主黨議員寫信給 SEC 主席，要求收回兩項對加密產業較寬鬆的措施：一是 8 月提出的加密資產發行豁免草案，二是 9 月允許代幣化股票在鏈上交易的創新豁免。他們認為這會讓業者規避證券法、傷害散戶。民主黨明年 1 月將主導國會相關委員會。",
+   "memo": "依 crypto.news 等 2026 年 11 月 25 日至 26 日報導，美國參議院銀行委員會民主黨議員 Warren、Van Hollen 等於 2026 年 11 月 25 日致函證券交易委員會（SEC）主席 Atkins，要求撤回 2026 年 8 月 18 日提出之「Regulation Crypto Assets」規則草案（含新創及募資豁免與投資契約安全港）；另函（依報導增列 Reed、Smith 等參議員）要求撤銷 9 月 17 日核發、准許代幣化 NMS 股票於鏈上交易之附條件暫時性創新豁免，理由為該等措施使加密業者規避證券法並使散戶暴露於未登記發行之風險。依報導 SEC 尚未回應。",
+   "context": "SEC 於 2026 年 8 月 18 日提出 Regulation Crypto Assets（依報導含四年 500 萬美元新創豁免、每年 7,500 萬美元募資豁免及投資契約安全港），意見期間已於 10 月 20 日截止；9 月 17 日核發代幣化股票交易場所之創新豁免，OKXICE 於 11 月 23 日依此上線。\n民主黨於 11 月期中選舉後將於 2027 年 1 月取得參議院多數，Warren 預計接任銀行委員會主席（依報導）。",
+   "facts": [
+    "依報導，兩封信函均於 2026 年 11 月 25 日致 SEC 主席 Atkins，各報導所列連署議員略有出入。",
+    "創新豁免依報導為期五年，准許州許可或 CFTC 監理之場所以鏈上方式交易代幣化 NMS 股票，並設交易量上限及申報條件。",
+    "Regulation Crypto Assets 之 SEC 檔案編號為 S7-2026-27（依報導）。",
+    "依報導，信函未設回覆期限，SEC 未予置評。"
+   ],
+   "issues": [
+    "SEC 以豁免令方式允許代幣化股票鏈上交易，是否逾越其豁免權限並應經公告評論程序？",
+    "政黨輪替後國會監督對 SEC 加密規則制定之影響？"
+   ],
+   "holding": "・撤回 Regulation Crypto Assets：議員認新創及募資豁免與安全港使加密業者得規避證券法，使散戶暴露於未登記發行（依報導）。\n・撤銷創新豁免：議員認代幣化股票鏈上交易豁免削弱州管轄、增加散戶風險，並可能造成資本市場「分裂」（依報導）。",
+   "significance": "信函本身不具法律拘束力，但預示 2027 年 1 月民主黨主導參院銀行委員會後，對 SEC 加密規則與豁免之監督將加強。應注意 SEC 是否回應、Regulation Crypto Assets 定案時程，以及參議員先前就代幣化股票信函之 12 月 16 日回覆期限。",
+   "tags": [
+    "代幣化",
+    "代幣化股票",
+    "創新豁免",
+    "加密資產",
+    "國會",
+    "SEC",
+    "美國"
+   ],
+   "sources": [
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/three-major-crypto-policy-battles-take-shape/",
+     "official": false
+    },
+    {
+     "label": "TFTC 報導",
+     "url": "https://www.tftc.io/warren-van-hollen-sec-rescind-regulation-crypto-assets-innovation-exemption",
+     "official": false
+    },
+    {
+     "label": "Wise Voter 報導",
+     "url": "https://wisevoter.com/world/us/2026/11/26/senators-urge-sec-withdraw-crypto-exemptions",
+     "official": false
+    }
+   ]
+  },
+  {
+   "caseId": "uk-cryptoasset-regime",
+   "jurisdiction": "英國",
+   "author": "",
+   "caseRef": "",
+   "editorNote": "本則係依 Decrypt 轉述《金融時報》之媒體報導，FCA 尚未發布相關正式文件；本網頁助理未能開啟《金融時報》原文。",
+   "related": [
+    "2026-10-21-fin-fca-gc26-7-defi-guidance"
+   ],
+   "importance": 2,
+   "addedAt": "2026-11-26T23:45:23+08:00",
+   "id": "2026-11-26-fin-ft-fca-defi-authorisation-plan",
+   "court": "FCA",
+   "kind": "政策動態",
+   "outlet": "Decrypt",
+   "outletCode": "DC",
+   "date": "2026-11-26",
+   "eventDate": "",
+   "title": "依《金融時報》報導，FCA 擬要求 DeFi 平台取得授權，並禁止受監理交易所為散戶於 DeFi 平台執行交易",
+   "shortTitle": "依報導 FCA 擬要求 DeFi 平台取得授權",
+   "point": "受監理交易所不得為散戶於 DeFi 執行交易，代幣化股票零售委託須於受監理場所執行",
+   "titleOriginal": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+   "tldr": "英國《金融時報》報導，FCA 打算要求 DeFi 平台在新的加密資產制度下取得執照，受監理的英國交易所也不能替散戶到 DeFi 平台下單；散戶的股票委託（包括代幣化股票）都必須在受監理的平台成交。FCA 以 10 月幣安遭駭、贓款經 DeFi 快速洗出為例。這是媒體報導，FCA 尚未發布正式文件。",
+   "memo": "依 Decrypt 2026 年 11 月 26 日轉述《金融時報》同日報導，英國金融行為監理總署（FCA）擬於 2027 年 10 月 25 日施行之加密資產監理制度下，要求 DeFi 平台取得 FCA 授權，並不允許英國受監理交易所為零售客戶於 DeFi 平台執行交易；FCA 另擬要求所有英國零售股票委託（不論是否代幣化）均於受監理平台執行。FCA 支付與數位資產部門主管 Jane Moore 以 10 月幣安駭案為例，指贓款經 DeFi 移轉之速度與規模妨礙凍結。FCA DeFi 指引（GC26/7）意見徵詢已於 11 月 18 日截止，最終指引預計 2027 年 1 月發布。",
+   "context": "FCA 於 2026 年 10 月 21 日發布 GC26/7 DeFi 指引草案，說明受監理業者涉入 DeFi 時之營運韌性及洗錢防制義務，意見徵詢至 11 月 18 日。\n英國加密資產新制依《2000 年金融服務與市場法（加密資產）規則 2026》於 2027 年 10 月 25 日施行。",
+   "facts": [
+    "依 Decrypt 轉述，《金融時報》於 2026 年 11 月 26 日報導 FCA 之規劃。",
+    "FCA 資本市場主管 Jamie Bell 表示「相同風險應以相同方式處理」（依報導）。",
+    "依報導，Aave Labs 法務長 Linda Jeng 稱該立場「極有問題」，Coinbase 歐洲政策主管 Katie Harries 稱英國形同「設下禁令」。",
+    "報導引述 10 月幣安駭案損失約 64 億美元，部分贓款經去中心化交易所洗出。"
+   ],
+   "issues": [
+    "要求 DeFi 平台取得授權時，如何認定負責之授權主體？",
+    "禁止受監理交易所為散戶接取 DeFi，是否實質形成 DeFi 零售禁令？",
+    "代幣化股票零售委託限於受監理場所執行，對境外 DeFi 代幣化股票平台之影響？"
+   ],
+   "holding": "・DeFi 授權：FCA 擬要求 DeFi 平台於新制下取得授權（依《金融時報》報導）。\n・零售接取：英國受監理交易所不得為零售客戶於 DeFi 平台執行交易，FCA 稱此區隔為刻意設計（依報導）。\n・代幣化股票：所有英國零售股票委託，不論是否代幣化，均須於受監理平台執行（依報導）。\n・理由：詐騙、洗錢風險高且難以追回被竊資金（依報導）。",
+   "significance": "若屬實，英國對 DeFi 之立場將較美國、歐盟嚴格。應注意 FCA 2027 年 1 月發布之 GC26/7 最終指引及後續政策聲明是否正式納入上述規劃。",
+   "tags": [
+    "DeFi",
+    "代幣化股票",
+    "洗錢防制",
+    "加密資產",
+    "FCA",
+    "英國"
+   ],
+   "sources": [
+    {
+     "label": "Decrypt 報導（轉述金融時報）",
+     "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
+     "official": false
+    },
+    {
+     "label": "Freshfields 分析（GC26/7 背景）",
+     "url": "https://www.freshfields.com/en/our-thinking/blogs/risk-and-compliance/gc26-7-uk-financial-conduct-authority-consults-on-decentralised-finance-defi-g-102o7ei",
+     "official": false
+    }
+   ]
+  },
+  {
+   "caseId": "",
+   "jurisdiction": "",
+   "author": "",
+   "caseRef": "",
+   "editorNote": "本網頁助理 註：本網頁助理未開啟日本財務省之共同主席聲明 PDF，內容依 crypto.news 報導整理；報導指 5 月撒馬爾罕聲明提及穩定幣監理，京都聲明本身依報導用語為「數位資產」。",
+   "related": [],
+   "importance": 1,
+   "addedAt": "2026-11-26T23:45:23+08:00",
+   "id": "2026-11-26-fin-asean3-digital-payments-working-group",
+   "court": "INTL",
+   "kind": "政策動態",
+   "outlet": "crypto.news",
+   "outletCode": "CN",
+   "date": "2026-11-26",
+   "eventDate": "2026-11-26",
+   "title": "東協加三財政及央行副首長會議於京都確認設立 AMRO 跨境數位支付計畫及工作小組，協調數位資產監理方向",
+   "shortTitle": "東協加三設跨境數位支付工作小組",
+   "point": "AMRO 先檢視零售跨境支付連結，成果 2027 年 5 月名古屋會議提報",
+   "titleOriginal": "ASEAN+3 Finance and Central Bank Deputies' Meeting – Co-chairs' Statement (Kyoto, 26 November 2026)",
+   "tldr": "東協十國加上中、日、韓的財政部與央行副首長在京都開會，同意設立跨境數位支付計畫與工作小組，由區域總體經濟研究辦公室（AMRO）負責，先研究匯款、觀光、跨境電商等零售支付如何互通，並協調各國對數位資產的監理做法。",
+   "memo": "依 crypto.news 2026 年 11 月 26 日報導及日本財務省公布之共同主席聲明，東協加三財政及央行副首長會議於日本京都舉行，確認設立東協加三總體經濟研究辦公室（AMRO）跨境數位支付計畫及專責工作小組，以改善跨境支付連結並協調數位資產監理方向；AMRO 將先檢視匯款、觀光支付、跨境電商及個人對個人、個人對企業之零售支付連結，涵蓋各國規範、消費者保護、技術基礎設施及商業安排，成果將提報 2027 年 5 月於名古屋舉行之財長及央行總裁會議。",
+   "context": "東協加三財長及央行總裁 2026 年 5 月於撒馬爾罕會議授權副首長研議跨境數位支付及穩定幣監理方向（依報導）。\nAMRO 為東協加三區域總體經濟監測機構，並支援清邁倡議多邊化（CMIM）。",
+   "facts": [
+    "會議為期兩天於京都舉行，共同主席聲明日期為 2026 年 11 月 26 日（依報導）。",
+    "AMRO 已於 11 月 18 日發布相關顧問委託公告（依報導）。",
+    "會議另核可 AMRO 2027–2029 年執行計畫及 2027–2030 年金融市場路徑圖，並歡迎 11 月 11 日生效、增設快速融資機制之 CMIM 修正（依報導）。",
+    "明年由新加坡及南韓擔任共同主席（依報導）。"
+   ],
+   "issues": [
+    "區域層級如何協調穩定幣與數位資產監理而兼顧貨幣主權及資本移動管理？"
+   ],
+   "holding": "・設立 AMRO 跨境數位支付計畫及專責工作小組（依報導）。\n・優先檢視零售跨境支付連結：匯款、觀光、跨境電商、個人對個人及個人對企業支付（依報導）。\n・代幣化等技術應遵循國際標準，並考量貨幣主權、金融穩定及資本移動影響（依報導）。",
+   "significance": "東協加三首次在區域財金合作架構下就數位支付與數位資產監理設立專責機制，可能影響亞洲區域穩定幣跨境使用之協調。應注意 2027 年 5 月名古屋會議之成果報告。",
+   "tags": [
+    "跨境支付",
+    "數位資產",
+    "穩定幣",
+    "AMRO",
+    "東協加三",
+    "國際"
+   ],
+   "sources": [
+    {
+     "label": "日本財務省共同主席聲明（PDF）",
+     "url": "https://www.mof.go.jp/english/policy/international_policy/convention/others/CochairsStatement.pdf",
+     "official": true
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/asean-china-japan-south-korea-digital-payments/",
+     "official": false
+    }
+   ]
+  },
+  {
+   "caseId": "",
+   "jurisdiction": "德國",
+   "author": "",
+   "caseRef": "Rundschreiben 15/2026 (WA)",
+   "editorNote": "本網頁助理 註：本網頁助理未開啟 BaFin 通函原文，內容依 Norton Rose Fulbright 於 Global Regulation Tomorrow 之介紹整理。",
+   "related": [],
+   "importance": 1,
+   "addedAt": "2026-11-26T23:45:23+08:00",
+   "id": "2026-11-26-fin-bafin-circular-crypto-funds",
+   "court": "OTHER",
+   "kind": "監理指引",
+   "outlet": "Global Regulation Tomorrow（Norton Rose Fulbright）",
+   "outletCode": "RT",
+   "date": "2026-11-26",
+   "eventDate": "2026-11-19",
+   "title": "德國 BaFin 發布第 15/2026 號通函，規範投資基金投資加密資產時保管機構及資產管理公司之義務",
+   "shortTitle": "BaFin 發布基金投資加密資產通函",
+   "point": "比特幣、以太幣原則上不適於保管機構保管，須另委任加密資產保管人，即日適用",
+   "titleOriginal": "BaFin Publishes New Circular on the Duties of Depositaries and Asset Management Companies in Respect of Investments in Crypto-assets（Rundschreiben 15/2026 (WA)）",
+   "tldr": "德國金融監理機關 BaFin 發布通函，說明基金投資比特幣等加密資產時，基金保管機構與基金公司各要負什麼責任。由於比特幣、以太幣通常無法由傳統保管機構直接保管，基金公司必須另外委任合格的加密資產保管人，能接觸私鑰的第三方都視為次保管人。新規 11 月 19 日起適用，沒有過渡期。",
+   "memo": "依 Global Regulation Tomorrow 2026 年 11 月 26 日報導，德國聯邦金融監理局（BaFin）於 2026 年 11 月 19 日發布第 15/2026 號（WA）通函，規範投資基金投資《資本投資法》第 1 條第 19 項第 24a 款所定加密資產時保管機構及資本管理公司之義務，補充第 05/2020 號保管機構通函並於重疊時優先適用。通函指比特幣及以太幣原則上不適於保管機構保管，資本管理公司應委任加密資產保管人，實際接觸私鑰之第三方視為次保管人；資本管理公司須擴張既有執照並於首次投資前完成新產品程序。通函自發布日起適用，無過渡期。",
+   "context": "德國《資本投資法》（KAGB）允許特定類型之特別另類投資基金及部分零售另類投資基金直接投資加密資產。BaFin 曾以第 06/2025 號諮詢徵詢意見。\n歐盟 MiCA 下，為他人保管加密資產須取得加密資產服務提供者授權。",
+   "facts": [
+    "通函於 2026 年 11 月 19 日發布，Global Regulation Tomorrow 於 11 月 26 日刊登介紹。",
+    "特別另類投資基金、部分零售另類投資基金及封閉型零售另類投資基金得直接取得加密資產；以分散式帳本技術發行之金融工具（加密證券、加密基金單位）則各類基金均得投資（依報導）。",
+    "透過 delta-one 憑證等間接曝險不在適用範圍（依報導）。",
+    "經理人得先以理論知識任職，但須於 6 個月內取得實務經驗（依報導）。"
+   ],
+   "issues": [
+    "保管機構對無法實際保管之加密資產，如何履行所有權查核及監督義務？",
+    "資本管理公司委任 MiCA 授權保管人之責任分配？"
+   ],
+   "holding": "・保管：比特幣、以太幣原則上不適於保管機構保管，資本管理公司須委任加密資產保管人；實際接觸私鑰之第三方視為次保管人，技術服務提供者不得接觸私鑰（依報導）。\n・保管機構義務：受任前進行風險評估、具備適當資訊系統及金鑰保護措施，並就無法保管之資產查核所有權（依報導）。\n・資本管理公司義務：既有執照須擴張至加密資產；不得自行持有基金加密資產，為他人保管須具 MiCA 或《銀行法》授權；首次投資前依 KAMaRisk 第 9 條完成新產品程序；以交易平台價格評價並適用最佳執行（依報導）。\n・適用：自 2026 年 11 月 19 日起，無過渡期（依報導）。",
+   "significance": "通函明確化德國基金投資加密資產之保管架構，對擬推出加密資產基金之資產管理業者具實務影響，亦可供各國規範基金投資虛擬資產之參考。",
+   "tags": [
+    "加密資產",
+    "投資基金",
+    "保管",
+    "MiCA",
+    "BaFin",
+    "德國",
+    "歐盟"
+   ],
+   "sources": [
+    {
+     "label": "BaFin 通函頁面（Rundschreiben 15/2026）",
+     "url": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Rundschreiben/2026/rs_15_2026_kryptowerte.html?nn=150446",
+     "official": true
+    },
+    {
+     "label": "Global Regulation Tomorrow 分析",
+     "url": "https://www.regulationtomorrow.com/2026/11/bafin-publishes-new-circular-on-the-duties-of-depositaries-and-asset-management-companies-in-respect-of-investments-in-crypto-assets/",
+     "official": false
+    }
+   ]
   }
  ],
  "agenda": [
@@ -13236,6 +13790,56 @@
    "url": "https://www.rada.gov.ua/news/razom/277050.html",
    "relatedId": "2026-11-25-fin-ukraine-rada-adopts-virtual-assets-law",
    "caseId": "ukraine-virtual-assets-law"
+  },
+  {
+   "id": "2026-12-03-kr-daba-assembly-hearing",
+   "date": "2026-12-03",
+   "court": "KR",
+   "title": "南韓國會政務委員會《數位資產基本法》公聽會",
+   "note": "首爾時間上午 10 時（依報導）",
+   "url": "https://crypto.news/south-korea-sets-dec-3-hearing-for-landmark-digital-asset-bill/",
+   "relatedId": "2026-11-26-fin-korea-daba-bill-introduced",
+   "caseId": "kr-digital-asset-basic-act"
+  },
+  {
+   "id": "2026-12-31-tw-fsc-cyber-self-assessment-deadline",
+   "date": "2026-12-31",
+   "court": "TW",
+   "title": "金融機構完成 14 項資安自評並提報董事會期限",
+   "note": "2026 年底前完成，提報最近一次董事會（依報導）",
+   "url": "https://www.cna.com.tw/news/afe/202611260269.aspx",
+   "relatedId": "2026-11-26-fin-tw-fsc-cyber-self-assessment",
+   "caseId": ""
+  },
+  {
+   "id": "2027-01-25-other-spain-sepblac-suspension-effective",
+   "date": "2027-01-25",
+   "court": "OTHER",
+   "title": "西班牙 Sepblac 暫停交易及帳戶權限生效",
+   "note": "第 44/2026 號皇家法令公布後兩個月；皇家法令尚待眾議院確認",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24702",
+   "relatedId": "2026-11-25-fin-spain-sepblac-crypto-suspension",
+   "caseId": ""
+  },
+  {
+   "id": "2027-07-26-cftc-event-contract-large-trader-reporting",
+   "date": "2027-07-26",
+   "court": "CFTC",
+   "title": "CFTC 事件合約大額交易人申報最早適用日",
+   "note": "聯邦公報刊登後 60 日或本日，以較晚者為準（依報導）",
+   "url": "https://www.legalsportsreport.com/288748/prediction-markets-to-disclose-more-data-under-cftc-rule/",
+   "relatedId": "2026-11-25-fin-cftc-event-contract-reporting-rule",
+   "caseId": "us-prediction-markets-preemption"
+  },
+  {
+   "id": "tbd-fca-gc26-7-final-defi-guidance",
+   "date": "",
+   "court": "FCA",
+   "title": "FCA 發布 DeFi 指引（GC26/7）最終版",
+   "note": "依報導預計 2027 年 1 月，日期未定",
+   "url": "https://www.fca.org.uk/publications/guidance-consultations/gc26-7-decentralised-finance-guidance",
+   "relatedId": "2026-11-26-fin-ft-fca-defi-authorisation-plan",
+   "caseId": "uk-cryptoasset-regime"
   }
  ],
  "cases": [
@@ -13259,7 +13863,7 @@
    "nameOriginal": "US crypto market structure (CLARITY Act; SEC and CFTC rulemaking)",
    "caseRef": "H.R. 3633",
    "summary": "眾議院 2025 年 7 月通過 CLARITY Act，參議院 2026 年 9 月 15 日未能終結辯論；SEC 與 CFTC 改以各自的規則制定與豁免推進加密資產市場監理。",
-   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 依報導訂於 11 月 23 日上線，已有 67 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。依 11 月 5 日報導，SEC 券商加密資產財務責任規則修正草案（RIN 3235-AN48）已送 OIRA 審查。依 11 月 9 日報導，Warren 將於 2027 年 1 月任參院銀行委員會主席並以預測市場與川普家族加密事業為監督重點，眾院民主黨擬另提強化 SEC 角色之市場結構法案。白宮 11 月 12 日提名 SEC 與 CFTC 各兩名委員（含 CLARITY Act 談判幕僚），待參院審查。 11 月 19 日眾院金融服務委員會主席 Hill 與參議員 Moreno 均表示 CLARITY Act 已錯失本屆立法窗口（依報導）。 SEC 公司財務部 11 月 24 日就 Molecule 科研專案代幣發出無異議函。"
+   "status": "CFTC 10 月 5 日發布 Regulation CTX／CAM 預先通知（意見至 12 月 14 日）；SEC 10 月 1 日提出加密資產保管規則草案（意見至 12 月 7 日）；創新豁免下首個平台 OKXICE 依報導訂於 11 月 23 日上線，已有 67 家發行公司行使反對權。CFTC 主席 10 月 30 日以幣安遭駭為例，表示盼讓相關交易所向 CFTC 註冊。11 月 3 日期中選舉後民主黨取得參眾兩院多數（依報導），CLARITY Act 前景轉淡。SEC 公司財務部 11 月 3 日依 3 月解釋就 Canton Coin 發出無異議函，認其屬數位商品。依 11 月 5 日報導，SEC 券商加密資產財務責任規則修正草案（RIN 3235-AN48）已送 OIRA 審查。依 11 月 9 日報導，Warren 將於 2027 年 1 月任參院銀行委員會主席並以預測市場與川普家族加密事業為監督重點，眾院民主黨擬另提強化 SEC 角色之市場結構法案。白宮 11 月 12 日提名 SEC 與 CFTC 各兩名委員（含 CLARITY Act 談判幕僚），待參院審查。 11 月 19 日眾院金融服務委員會主席 Hill 與參議員 Moreno 均表示 CLARITY Act 已錯失本屆立法窗口（依報導）。 SEC 公司財務部 11 月 24 日就 Molecule 科研專案代幣發出無異議函。 依報導，參院民主黨議員 11 月 25 日致函要求 SEC 撤回 Regulation Crypto Assets 草案及代幣化股票創新豁免。"
   },
   {
    "id": "icba-v-occ-trust-charters",
@@ -13325,7 +13929,7 @@
    "nameOriginal": "UK cryptoasset regulatory regime",
    "caseRef": "",
    "summary": "依《2000 年金融服務與市場法（加密資產）規則 2026》，新的加密資產活動自 2027 年 10 月 25 日起納入監理，FCA 陸續發布政策聲明與指引。",
-   "status": "申請期間 2026 年 9 月 30 日至 2027 年 2 月 28 日；加密資產規則雜項修正（SI 2026/1219）11 月 18 日制定，多數條文 11 月 20 日生效；CP26/36 與 GC26/7 意見徵詢已於 11 月 18 日截止，金融犯罪指南修正（CP26/38）至 12 月 24 日；HMRC 確認合格穩定幣自 2027 年 4 月起免徵資本利得稅（待財政法案通過）；新制 2027 年 10 月 25 日全面施行。"
+   "status": "申請期間 2026 年 9 月 30 日至 2027 年 2 月 28 日；加密資產規則雜項修正（SI 2026/1219）11 月 18 日制定，多數條文 11 月 20 日生效；CP26/36 與 GC26/7 意見徵詢已於 11 月 18 日截止，金融犯罪指南修正（CP26/38）至 12 月 24 日；HMRC 確認合格穩定幣自 2027 年 4 月起免徵資本利得稅（待財政法案通過）；新制 2027 年 10 月 25 日全面施行。 依《金融時報》11 月 26 日報導，FCA 擬要求 DeFi 平台取得授權並禁止受監理交易所為散戶於 DeFi 執行交易，GC26/7 最終指引預計 2027 年 1 月發布。"
   },
   {
    "id": "hk-stablecoin-tokenisation",
@@ -13380,7 +13984,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "新墨西哥聯邦地院 11 月 23 日依 IGRA 命 Kalshi 封鎖四個原住民族領域之運動合約，Kalshi 同日宣布暫停猶他州交易；紐約州初步禁制令依報導預定 2027 年 1 月審理。"
+   "status": "CFTC 11 月 23 日依報導通過事件合約資料申報最終規則；新墨西哥聯邦地院 11 月 23 日依 IGRA 命 Kalshi 封鎖四個原住民族領域之運動合約，Kalshi 同日宣布暫停猶他州交易；紐約州初步禁制令依報導預定 2027 年 1 月審理。"
   },
   {
    "id": "kr-tokenised-securities",
@@ -13446,7 +14050,7 @@
    "nameOriginal": "Digital Asset Basic Act (South Korea)",
    "caseRef": "",
    "summary": "南韓第二階段加密資產立法，規範數位資產發行、流通、交易所治理及韓元穩定幣發行人資格。",
-   "status": "金融委員會 11 月 24 日公布政府版《數位資產業創新及使用者保護法》制定案（開放 ICO、韓元穩定幣初期限銀行過半聯盟發行、交易所持股上限 20%），將與議員版本整合送國會政務委員會；執政黨目標 2027 年 1 月 9 日完成立法。"
+   "status": "金融委員會 11 月 24 日公布政府版《數位資產業創新及使用者保護法》制定案，國會政務委員會主席柳東秀 11 月 26 日領銜提出法案，政務委員會依報導訂於 12 月 3 日舉行公聽會；執政黨目標 2027 年 1 月 9 日完成立法。"
   },
   {
    "id": "kenya-vasp-act",
