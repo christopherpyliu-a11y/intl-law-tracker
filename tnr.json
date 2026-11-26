@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-26T07:14:35+08:00",
-  "lastRunLocal": "2026-11-26 07:14",
+  "lastRun": "2026-11-26T23:15:18+08:00",
+  "lastRunLocal": "2026-11-26 23:15",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "本次未發現新動態"
+  "lastRunNote": "新增 4 則：伊朗 2（研究報告 1、司法案件 1）、越南 1（倡議 1）、綜合 1（國際組織 1）"
  },
  "items": [
   {
@@ -347,7 +347,8 @@
     "政治犯"
    ],
    "related": [
-    "2026-11-17-tnr-fh-joint-appeal-albanese-tran-hiep"
+    "2026-11-17-tnr-fh-joint-appeal-albanese-tran-hiep",
+    "2026-11-26-tnr-tran-hiep-wife-europe-appeal"
    ],
    "sources": [
     {
@@ -713,7 +714,8 @@
     "Zindashti 網絡"
    ],
    "related": [
-    "2026-11-17-tnr-greece-plot-israeli-target-report"
+    "2026-11-17-tnr-greece-plot-israeli-target-report",
+    "2026-11-26-tnr-iiss-iran-external-ops-europe"
    ],
    "sources": [
     {
@@ -910,7 +912,8 @@
     "2026-11-16-tnr-albanese-raises-tran-hiep-vietnam",
     "2026-11-14-tnr-hrw-francophonie-mekong",
     "2026-11-09-tnr-mekong-viet-tan-witnesses",
-    "2026-11-22-tnr-hrw-australia-vietnam-dialogue"
+    "2026-11-22-tnr-hrw-australia-vietnam-dialogue",
+    "2026-11-26-tnr-tran-hiep-wife-europe-appeal"
    ],
    "sources": [
     {
@@ -8234,6 +8237,244 @@
     }
    ],
    "addedAt": "2026-11-23T23:13:43+08:00"
+  },
+  {
+   "id": "2026-11-26-tnr-iiss-iran-external-ops-europe",
+   "court": "IR",
+   "kind": "研究報告",
+   "caseId": "",
+   "jurisdiction": "歐洲",
+   "outlet": "The National",
+   "outletCode": "",
+   "date": "2026-11-26",
+   "eventDate": "",
+   "importance": 2,
+   "author": "Charlie Edwards、Tom Field、Georgie Green（國際戰略研究所 IISS）",
+   "title": "國際戰略研究所報告稱伊朗在歐洲境外行動於 2026 年 2 月後明顯升高，逮捕未能遏止；目標由記者與異議者轉向猶太社群",
+   "shortTitle": "IISS 報告：伊朗在歐行動逮捕難遏",
+   "point": "2 月後月均約 4 起、為先前 4 倍；記者與異議者占目標比例由約半數降至 13%",
+   "titleOriginal": "Iran sustaining attacks in Europe 'despite arrests'（報告：Iranian External Operations in Europe: Adaptation, Intimidation and an Outlook to 2027）",
+   "caseRef": "",
+   "tldr": "英國智庫國際戰略研究所（IISS）分析約 80 起被認為由伊朗支持的歐洲行動，指出 2026 年 2 月美以空襲伊朗後，伊朗在歐洲的攻擊與陰謀大增，即使不少人被捕也沒有停下來。過去記者與異議人士是主要目標，現在比例下降，攻擊轉向猶太社群。",
+   "memo": "依 The National 2026 年 11 月 26 日報導，英國國際戰略研究所（IISS）發表報告《Iranian External Operations in Europe: Adaptation, Intimidation and an Outlook to 2027》，分析約 80 起被認為由伊朗支持之歐洲行動，指稱 2026 年 2 月 28 日美以空襲伊朗後相關事件由每月約 1 起增至約 4 起，其中 58% 導致逮捕（俄羅斯同類事件為 25%），惟逮捕未能遏止行動；目標中記者及異議人士比例由約半數降至 13%，猶太社群由 21% 升至 57%。報導未載伊朗政府回應。",
+   "context": "伊朗長期被指控在歐洲針對伊朗國際台（Iran International）記者、流亡異議人士及猶太社群策劃攻擊，並透過犯罪網絡代行。本站已收錄英國伊朗國際台記者遭監視案、北馬其頓與希臘破獲伊朗指揮行刺網絡案，以及英國首相伯納姆對伊朗之警告。\n報告由 IISS 研究人員撰寫，The National 為阿聯酋英文媒體。",
+   "facts": [
+    "依報導，報告分析約 80 起被認為由伊朗支持之歐洲行動。",
+    "2026 年 2 月 28 日美以空襲伊朗後，事件由每月約 1 起增至約 4 起；3、4 月共 24 起，由自稱「Harakat Ashab Al Yamin Al Islamia」之組織認領，包括對猶太慈善團體救護車、猶太會堂及伊朗國際台之縱火。",
+    "伊朗相關事件 58% 導致逮捕，俄羅斯同類事件為 25%。",
+    "報導稱美國已起訴三名被控為伊斯蘭革命衛隊策劃上述攻擊之男子，三人亦涉 9 月遭警方阻止之英國 RAF Fairford 空軍基地陰謀。",
+    "目標組成：針對猶太社群之行動由 21% 升至 57%；針對記者及異議人士者由約半數降至 13%。"
+   ],
+   "issues": [
+    "高逮捕率為何未能產生嚇阻效果？以犯罪網絡代行之模式對歸責與起訴有何挑戰？",
+    "目標比例下降是否意味記者與異議人士風險降低，抑或只是攻擊總量擴大下的相對變化？"
+   ],
+   "holding": "・報告稱伊朗在歐洲之境外行動於 2026 年 2 月後顯著增加，且在大量逮捕下仍持續。\n・行動目標由記者與流亡異議人士為主，轉向以猶太社群為主。\n・報導未載伊朗政府回應。",
+   "significance": "報告為歐洲各國評估伊朗跨國鎮壓與恐怖行動威脅之重要參考；可留意英國 12 月伊朗國際台案量刑及各國是否加強制裁伊斯蘭革命衛隊。",
+   "editorNote": "本網頁助理 註：本則依 The National 報導撰寫，IISS 報告原文未能取得；報導所稱比例係報告作者之統計，未經獨立查核。目標比例下降係相對比例，以下為本網頁助理補充，非來源內容：在事件總數增加約四倍下，針對記者與異議人士之絕對件數未必減少。",
+   "tags": [
+    "跨國鎮壓",
+    "伊朗",
+    "歐洲",
+    "英國",
+    "伊朗國際台",
+    "伊斯蘭革命衛隊",
+    "犯罪網絡代理",
+    "暗殺陰謀"
+   ],
+   "related": [
+    "2026-11-17-tnr-north-macedonia-greece-iran-plot",
+    "2026-11-12-tnr-haarlem-tahmasbi-plot-sentences"
+   ],
+   "sources": [
+    {
+     "label": "The National 報導",
+     "url": "https://www.thenationalnews.com/news/europe/2026/11/26/iran-sustaining-attacks-in-europe-and-despite-arrests/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-26T23:15:18+08:00"
+  },
+  {
+   "id": "2026-11-12-tnr-haarlem-tahmasbi-plot-sentences",
+   "court": "IR",
+   "kind": "司法案件",
+   "caseId": "haarlem-tahmasbi-plot",
+   "jurisdiction": "荷蘭",
+   "outlet": "NL Times（ANP）",
+   "outletCode": "",
+   "date": "2026-11-12",
+   "eventDate": "2026-11-12",
+   "importance": 2,
+   "author": "",
+   "title": "荷蘭檢方就 2024 年哈倫刺殺伊朗流亡作家 Siamak Tahmasbi 未遂案，對 6 名被告求處最高 20 年徒刑；荷蘭情報機關認為幕後可能為伊朗",
+   "shortTitle": "荷蘭刺殺伊朗作家未遂案求刑",
+   "point": "在逃主嫌 Bounouare 求處 20 年；一名被告已認罪，預定 12 月 21 日宣判",
+   "titleOriginal": "Six face up to 20 years in prison over attempted assassination of Iranian activist",
+   "caseRef": "",
+   "tldr": "2024 年 6 月有人在荷蘭哈倫（Haarlem）住家外企圖殺害伊朗流亡作家暨運動者 Siamak Tahmasbi，未成功。北荷蘭地方法院 11 月審理 6 名被告，檢方 11 月 12 日求處最高 20 年徒刑。荷蘭情報機關認為可能是伊朗下令，但刑事審判本身不處理伊朗角色。",
+   "memo": "依 NL Times（ANP）2026 年 11 月 12 日報導，荷蘭北荷蘭地方法院於史基浦機場高度戒備法庭審理 2024 年 6 月 5 日至 6 日間於哈倫企圖殺害伊朗流亡作家暨運動者 Siamak Tahmasbi 未遂案，檢方指 6 名被告為受酬殺手集團，對在逃主嫌 Sami Bekal Bounouare（缺席審理）求處 20 年、Mehrez A. 15 年 2 月、Gabriel O. 13 年 3 月，並以幫助殺人未遂罪對 Chahinez K. 求處 6 年；Mehrez A. 已於 11 月 6 日庭上承認意在殺人。荷蘭情報及安全總局（AIVD）認為本案可能由伊朗下令，惟檢方未就伊朗角色起訴。判決預定 12 月 21 日宣示。",
+   "context": "Siamak Tahmasbi（亦作 Siamak Tadayon Tahmasbi）為旅居荷蘭之伊朗作家與運動者，檢方稱其與犯罪圈毫無關聯。荷蘭情報機關 AIVD 認為本案可能由伊朗下令。\n被告 Chahinez K. 另在西班牙因 2023 年 11 月馬德里槍擊西班牙政治人物 Alejo Vidal-Quadras 未遂案遭檢方求處 20 年，義大利亦有相關案件。伊朗被指控多次透過犯罪網絡在歐洲行刺異議人士。",
+   "facts": [
+    "2024 年 6 月 5 日晚至 6 日，Tahmasbi 位於哈倫之住家外發生刺殺未遂。",
+    "北荷蘭地方法院 11 月 6 日開審，Tahmasbi 在兩名保鑣及律師陪同下出庭；突尼西亞籍被告 Mehrez A.（40 歲）為唯一回答提問者，承認目的為殺人，稱係為錢，並不認識被害人。",
+    "哥倫比亞籍被告 Gabriel O.（29 歲）及 Edwin V.（42 歲）保持緘默。",
+    "檢方依 Mehrez A. 供述、聊天訊息及帶有 A. 與 O. DNA 之槍枝等證據；先前另一組人之行動曾中止。",
+    "檢方指 Chahinez K. 於 2024 年 4 月 26 日觀察並拍攝被害人住處。",
+    "11 月 12 日求刑：Bounouare（29 歲，在逃、列荷蘭頭號通緝名單）20 年；Mehrez A. 15 年 2 月；Gabriel O. 13 年 3 月；Chahinez K. 6 年。報導未載其餘被告求刑。"
+   ],
+   "issues": [
+    "刑事審判未處理國家指使之背景，如何就跨國鎮壓追究委託國之責任？",
+    "以犯罪網絡代行之行刺案件，跨國（荷、西、義）偵查與審判如何協調？"
+   ],
+   "holding": "・檢方稱 6 名被告為受酬準備殺害 Tahmasbi 之殺手集團。\n・Chahinez K. 之辯護人 Ronald van der Horst 請求無罪，主張其僅受託裝設 GPS 追蹤器，且檢方未能證明 2024 年 4 月時已有殺人委託。\n・其餘辯護人於 11 月 13 日答辯。\n・判決預定 12 月 21 日宣示。\n・報導未載伊朗政府回應。",
+   "significance": "本案為荷蘭就疑似伊朗指使之行刺流亡人士案件進行之刑事審判，判決將與西班牙 Vidal-Quadras 案一併顯示歐洲法院如何處理以犯罪網絡代行之跨國鎮壓；留意 12 月 21 日判決。",
+   "editorNote": "本網頁助理 註：本則事件發生於前次執行範圍之前，因先前未收錄而補列。依 NL Times（ANP）11 月 6 日及 12 日兩篇報導撰寫；判決日期報導僅載「12 月 21 日」，年份推定為 2026 年。被告之一未見具名。",
+   "tags": [
+    "跨國鎮壓",
+    "伊朗",
+    "荷蘭",
+    "暗殺陰謀",
+    "犯罪網絡代理",
+    "流亡作家"
+   ],
+   "related": [
+    "2026-11-26-tnr-iiss-iran-external-ops-europe"
+   ],
+   "sources": [
+    {
+     "label": "NL Times 報導（求刑）",
+     "url": "https://nltimes.nl/2026/11/12/six-face-20-years-prison-attempted-assassination-iranian-activist",
+     "official": false
+    },
+    {
+     "label": "NL Times 報導（開審與認罪）",
+     "url": "https://nltimes.nl/2026/11/06/man-admits-role-failed-assassination-attempt-iranian-activist-haarlem",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-26T23:15:18+08:00"
+  },
+  {
+   "id": "2026-11-26-tnr-tran-hiep-wife-europe-appeal",
+   "court": "VN",
+   "kind": "倡議",
+   "caseId": "viet-tan-cambodia-abduction",
+   "jurisdiction": "柬埔寨、越南",
+   "outlet": "The Independent",
+   "outletCode": "",
+   "date": "2026-11-26",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "越新黨被押成員 Tran Hiep 之妻赴歐洲尋求支持，籲澳洲政府加強營救；越南稱逮捕合法、擄人指控不實",
+   "shortTitle": "Tran Hiep 妻赴歐籲澳府加強營救",
+   "point": "稱已兩個月仍未獲釋；11 月 20 日第二次領事探視，越南駁擄人說法",
+   "titleOriginal": "Wife of Australian activist detained in Vietnam calls on Albanese to secure his release",
+   "caseRef": "",
+   "tldr": "澳洲籍越新黨成員 Tran Hiep 9 月在柬埔寨失聯後被越南羈押。他的妻子 Chloe Dang 正赴歐洲爭取支持，說澳洲總理雖已向越南提出此案，但已經兩個月，政府應做更多。越南則說三人是依法逮捕，擄人說法沒有根據。",
+   "memo": "依 The Independent 2026 年 11 月 26 日報導，澳洲籍越新黨成員 Tran Hiep 之妻 Chloe Dang 赴歐洲尋求支持，稱其夫遭擄已兩個月，籲澳洲政府加強營救，並質疑越南所稱非法入境之說法；報導稱 Tran Hiep 仍於胡志明市遭審前羈押，澳洲已於 10 月 15 日及 11 月 20 日兩度領事探視。越南駐坎培拉大使館先前稱擄人指控「毫無根據且具誤導性」、三人係依法逮捕；柬埔寨內政部 10 月 7 日否認將其移交越南。",
+   "context": "Tran Hiep（51 歲，墨爾本居民）與挪威籍 Nguyen Duc Thuan、越南籍 Thai Cong Truong Son 於 2026 年 9 月 18 日在柬埔寨失聯，約 10 日後越南承認羈押，以恐怖主義、破壞及偽造印章文書等罪嫌追訴。越南將越新黨列為恐怖組織。澳洲總理艾班尼斯 11 月中旬於東協峰會向越南總理提出此案，九團體及人權觀察亦促澳洲施壓。",
+   "facts": [
+    "依報導，Chloe Dang 正在歐洲各地尋求支持。",
+    "她稱其夫曾持簽證合法赴越，質疑何以需非法入境；Nguyen Duc Thuan 停留 45 日內免簽。",
+    "她表示 9 月 18 日後失聯，19 日報案，航空公司確認其未登機。",
+    "澳洲領事於 10 月 15 日、11 月 20 日兩度探視；第二次探視後她稱其夫狀況尚可但仍受創傷，10 月曾傳話否認自願越境。",
+    "越南駐坎培拉大使館先前稱擄人指控不實、三人依法被捕；柬埔寨內政部 10 月 7 日稱兩人入境但無出境紀錄，並否認移交越南。",
+    "據 AAP 11 月 18 日報導，律師 Alison Battisson 主張應以經濟、安全與文化管道回應。"
+   ],
+   "issues": [
+    "澳洲對其公民疑遭跨國擄走後在第三國受審，應採何種外交與法律回應？",
+    "越南以恐怖主義罪名追訴海外異議團體成員，是否符合國際人權法之正當程序與禁止任意拘禁？"
+   ],
+   "holding": "・Chloe Dang 籲澳洲政府加強營救，並稱跨國鎮壓不只針對其夫，下一次可能是任何國家公民。\n・越南維持依法逮捕之立場；柬埔寨否認參與移交。\n・報導未載審判日期。",
+   "significance": "家屬游說擴及歐洲，挪威籍成員亦涉案，可能促使更多國家表態；留意 12 月澳越人權對話結果及越南是否排定審判。",
+   "editorNote": "本網頁助理 註：AAP 稱其原訂 9 月 18 日班機，The Independent 稱原定 9 月 19 日抵泰，兩者對航班日期描述略有出入。",
+   "tags": [
+    "跨國鎮壓",
+    "越南",
+    "柬埔寨",
+    "澳洲",
+    "挪威",
+    "越新黨",
+    "擄人",
+    "領事探視",
+    "家屬倡議"
+   ],
+   "related": [
+    "2026-11-22-tnr-hrw-australia-vietnam-dialogue",
+    "2026-11-17-tnr-fh-joint-appeal-albanese-tran-hiep"
+   ],
+   "sources": [
+    {
+     "label": "The Independent 報導（Yahoo 轉載）",
+     "url": "https://sg.news.yahoo.com/wife-australian-activist-detained-vietnam-133307927.html",
+     "official": false
+    },
+    {
+     "label": "The Independent 報導",
+     "url": "https://www.independent.co.uk/news/world/australasia/vietnam-tran-hiep-activist-viet-tan-australia-cambodia-abduction-b3092029.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-26T23:15:18+08:00"
+  },
+  {
+   "id": "2026-11-26-tnr-unga81-third-committee-outcomes",
+   "court": "MULTI",
+   "kind": "國際組織",
+   "caseId": "",
+   "jurisdiction": "",
+   "outlet": "fundsforNGOs News",
+   "outletCode": "",
+   "date": "2026-11-26",
+   "eventDate": "2026-11-24",
+   "importance": 2,
+   "author": "",
+   "title": "公民團體評聯合國大會第 81 屆第三委員會成果：人權捍衛者決議觸及跨境科技壓迫但未用「跨國鎮壓」一詞，報復問題聯合聲明連署數再降",
+   "shortTitle": "聯大三委會決議觸及跨境壓迫",
+   "point": "人權捍衛者決議 167 票通過但未採「跨國鎮壓」一詞；報復聯合聲明連署連續兩年下降",
+   "titleOriginal": "Civil society outlines key outcomes of UNGA81 Third Committee, highlighting reprisals, death penalty moratorium and protections for human rights defenders",
+   "caseRef": "",
+   "tldr": "聯合國大會第三委員會本屆通過的人權捍衛者決議，提到透過科技跨越國界的暴力與壓迫，數位隱私決議也提到對身在國外者的打壓。但 10 個公民團體 11 月 24 日聯合聲明表示失望，因決議沒有直接使用「跨國鎮壓」一詞；關注報復問題的聯合聲明，參與國家數也連兩年下降。",
+   "memo": "依 fundsforNGOs News 2026 年 11 月 26 日報導，10 個公民社會組織於 2026 年 11 月 24 日就聯合國大會第 81 屆第三委員會成果發表聯合聲明，指人權捍衛者決議以 167 票贊成、4 票反對（阿根廷、白俄羅斯、以色列、美國）、8 票棄權通過，雖處理「跨越國界之科技助長暴力與壓迫」，惟未採用「跨國鎮壓」一詞，亦未完整反映逾 130 名聯合國專家 2026 年 9 月認可之定義；數位時代隱私權決議（巴西、德國提案）以 176 票贊成通過，涉及對境外人士之干預；愛爾蘭與烏拉圭代表 60 國及歐盟之報復問題聯合聲明特別關注跨國鎮壓，惟支持國數連續第二年下降。",
+   "context": "聯合國大會第三委員會負責社會、人道與人權議題。2026 年 9 月逾 130 名聯合國專家共同發表跨國鎮壓聲明並提出定義；人權理事會亦已就跨國鎮壓相關議題徵集意見。上屆（第 80 屆）報復問題聯合聲明有 70 國參與。",
+   "facts": [
+    "依報導，聯合聲明由 10 個公民社會組織於 11 月 24 日發表，由國際人權服務社（ISHR）網站刊載。",
+    "報復問題聯合聲明由愛爾蘭與烏拉圭代表 60 國及歐盟發表，特別關注跨國鎮壓，支持國數連續第二年下降。",
+    "人權捍衛者決議：167 票贊成、4 票反對（阿根廷、白俄羅斯、以色列、美國）、8 票棄權。",
+    "數位時代隱私權決議：176 票贊成、3 票反對（阿根廷、以色列、美國）、1 票棄權，涉及作為壓迫境外人士手段之隱私干預。",
+    "死刑暫停執行決議：133 票贊成、33 票反對、16 票棄權。"
+   ],
+   "issues": [
+    "聯合國正式文件是否、何時採用「跨國鎮壓」一詞及其定義？",
+    "主要國家（包括美國）投反對票，對多邊處理跨國鎮壓之動能有何影響？"
+   ],
+   "holding": "・公民團體歡迎決議觸及跨境之科技助長壓迫與境外隱私干預。\n・公民團體對人權捍衛者決議未使用「跨國鎮壓」一詞、未完整反映聯合國專家定義表示失望。\n・公民團體關切報復問題聯合聲明支持國數持續減少。",
+   "significance": "顯示「跨國鎮壓」概念在聯合國大會層級仍未取得正式文字共識；第三委員會決議將於 12 月提交大會全會通過，可留意人權理事會後續是否推進專門決議或定義。",
+   "editorNote": "本網頁助理 註：本則依 fundsforNGOs News 之摘要撰寫；ISHR 聯合聲明原文網頁未能開啟，簽署組織名單未經核對。",
+   "tags": [
+    "跨國鎮壓",
+    "聯合國",
+    "聯合國大會",
+    "人權捍衛者",
+    "報復",
+    "數位隱私"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "fundsforNGOs News 報導",
+     "url": "https://news.fundsforngos.org/2026/11/26/unga81-third-committee-outcomes-civil-society-reprisals-death-penalty/",
+     "official": false
+    },
+    {
+     "label": "國際人權服務社（ISHR）聯合聲明原文",
+     "url": "https://ishr.ch/latest-updates/joint-civil-society-statement-on-outcomes-of-the-unga81-third-committee/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-26T23:15:18+08:00"
   }
  ],
  "agenda": [
@@ -8336,6 +8577,16 @@
    "url": "https://srnnews.com/greek-national-pleads-not-guilty-in-uk-court-to-assisting-a-foreign-intelligence-service",
    "relatedId": "2026-11-06-tnr-aidinidis-iran-intl-not-guilty",
    "caseId": "aidinidis-iran-intl-surveillance"
+  },
+  {
+   "id": "2026-12-21-ir-haarlem-tahmasbi-verdict",
+   "date": "2026-12-21",
+   "court": "IR",
+   "title": "哈倫刺殺伊朗作家 Tahmasbi 未遂案宣判（荷蘭北荷蘭地方法院）",
+   "note": "報導僅稱 12 月 21 日宣判，年份推定 2026 年；日期可能變動。",
+   "url": "https://nltimes.nl/2026/11/12/six-face-20-years-prison-attempted-assassination-iranian-activist",
+   "relatedId": "2026-11-12-tnr-haarlem-tahmasbi-plot-sentences",
+   "caseId": "haarlem-tahmasbi-plot"
   }
  ],
  "archives": [],
@@ -8371,7 +8622,7 @@
    "nameOriginal": "Viet Tan members taken from Cambodia (Nguyen Duc Thuan, Tran Hiep, Thai Cong Truong Son)",
    "caseRef": "",
    "summary": "三名越新黨成員（含挪威籍、澳洲籍各一）2026 年 9 月在柬埔寨失聯後遭越南羈押，越南稱其非法入境並控以恐怖主義與偽造文書。",
-   "status": "三人以恐怖主義等罪名遭起訴，關押於胡志明市 B34 看守所；艾班尼斯 11 月中旬於東協峰會場邊向越南總理提出 Tran Hiep 案，九團體 11 月 17 日聯名促其再向蘇林提出；下次領事探視排定 11 月 20 日；人權觀察 11 月 22 日促澳洲在第 21 屆澳越人權對話中提出本案。"
+   "status": "三人以恐怖主義等罪名遭起訴，關押於胡志明市 B34 看守所，尚無審判日期；澳洲 11 月 20 日第二次領事探視 Tran Hiep，其妻赴歐洲尋求支持；越南稱依法逮捕、駁斥擄人指控。"
   },
   {
    "id": "khieo-lapchanh-disappearance",
@@ -8570,6 +8821,17 @@
    "caseRef": "",
    "summary": "人權團體與律師指控中國（及經北京提出請求之香港）濫用國際刑警組織紅色通緝與擴散通報，追捕海外異見者、少數民族及外逃人員。",
    "status": "2026 年 11 月 25 日 IHR Advisors 與香港監察發表報告，國際刑警組織第 94 屆大會 11 月 30 日至 12 月 3 日於香港舉行並改選檔案控制委員會。"
+  },
+  {
+   "id": "haarlem-tahmasbi-plot",
+   "type": "案件",
+   "court": "IR",
+   "forum": "荷蘭北荷蘭地方法院",
+   "name": "哈倫刺殺伊朗作家 Tahmasbi 未遂案（荷蘭）",
+   "nameOriginal": "Attempted assassination of Siamak Tahmasbi (Haarlem)",
+   "caseRef": "",
+   "summary": "2024 年 6 月有人在荷蘭哈倫企圖殺害伊朗流亡作家暨運動者 Siamak Tahmasbi，荷蘭情報機關認為可能由伊朗下令，6 人遭起訴。",
+   "status": "檢方 2026 年 11 月 12 日求處最高 20 年徒刑（主嫌 Bounouare 在逃、缺席審理），判決預定 12 月 21 日宣示。"
   }
  ]
 }
