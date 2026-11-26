@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-26T23:45:23+08:00",
-  "lastRunLocal": "2026-11-26 23:45",
+  "lastRun": "2026-11-27T07:29:19+08:00",
+  "lastRunLocal": "2026-11-27 07:29",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 9 則：美國 2（法規發布 1、政策動態 1）、英國 1（政策動態 1）、台灣 1（監理指引 1）、國際組織 1（政策動態 1）、亞太與其他 4（立法動態 2、政策動態 1、監理指引 1）"
+  "lastRunNote": "新增 1 則：美國 1（立法動態 1）"
  },
  "items": [
   {
@@ -10660,7 +10660,8 @@
    "related": [
     "2026-11-13-fin-house-oversight-prediction-markets-insider-memo",
     "2026-11-20-fin-sdny-remands-ny-v-kalshi",
-    "2026-11-20-fin-house-prediction-markets-whistleblower-bill"
+    "2026-11-20-fin-house-prediction-markets-whistleblower-bill",
+    "2026-11-24-fin-ny-futures-act-event-contracts"
    ],
    "sources": [
     {
@@ -11656,7 +11657,8 @@
    ],
    "related": [
     "2026-11-21-fin-ny-kalshi-tro-hearing-set",
-    "2026-11-20-fin-sdny-remands-ny-v-kalshi"
+    "2026-11-20-fin-sdny-remands-ny-v-kalshi",
+    "2026-11-24-fin-ny-futures-act-event-contracts"
    ],
    "sources": [
     {
@@ -13148,6 +13150,60 @@
      "official": false
     }
    ]
+  },
+  {
+   "id": "2026-11-24-fin-ny-futures-act-event-contracts",
+   "court": "US",
+   "kind": "立法動態",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國紐約州",
+   "outlet": "iGaming Business",
+   "outletCode": "IGB",
+   "date": "2026-11-24",
+   "eventDate": "2026-11-23",
+   "importance": 1,
+   "author": "Matt Rybaltowski（iGaming Business）",
+   "title": "紐約州參議員 Cooney 提出 FUTURES Act，禁止民選公職人員交易事件合約並對預測市場手續費收入加徵 10%",
+   "shortTitle": "紐約州參議員提預測市場 FUTURES Act",
+   "point": "禁民選公職交易事件合約，並對淨手續費收入加徵 10% 附加費",
+   "titleOriginal": "NY state senator floats prediction market bill on same day judge blocks TRO against Kalshi",
+   "caseRef": "New York Senate Bill S10748",
+   "tldr": "紐約州參議員 Jeremy Cooney 於 2026 年 11 月 23 日提出名為 FUTURES Act 的州法案，依報導將禁止民選官員買賣預測市場的事件合約，並向預測市場業者的淨交易手續費收入加收 10%，所得用於普及學前教育。同日紐約州法院駁回州檢察長要求 Kalshi 暫停營業的暫時限制令。",
+   "memo": "依 iGaming Business 2026 年 11 月 24 日報導，紐約州參議員 Jeremy Cooney 於同年 11 月 23 日提出 FUTURES Act（Senate Bill S10748），擬禁止民選公職人員交易事件合約，並對預測市場業者之淨交易手續費收入課徵 10% 附加費，所得專用於普及學前教育，以防範預測市場內線交易。該法案尚待州議會審議；同日紐約州最高法院法官 Melissa Crane 駁回州檢察長對 Kalshi 之暫時限制令聲請。",
+   "context": "紐約州檢察長 Letitia James 已對 Kalshi 提起訴訟，案件經紐約南區聯邦地院發回州法院後，州檢方聲請暫時限制令，要求 Kalshi 暫停在紐約州之業務；Kalshi 主張其事件合約受 CFTC 專屬管轄、應優先適用聯邦法。\n依報導，紐約州另已於 9 月對 Polymarket 起訴。聯邦層級，參議院 11 月通過禁止上市戰爭、恐攻等事件合約之 DEATH BETS Act，眾議員亦提出預測市場內線交易吹哨法案。",
+   "facts": [
+    "依報導，州參議員 Jeremy Cooney 於 2026 年 11 月 23 日提出 FUTURES Act，法案編號 S10748。",
+    "法案擬禁止民選公職人員交易事件合約，並對淨交易手續費收入課徵 10% 附加費，所得用於普及學前教育。",
+    "同日紐約州最高法院法官 Melissa Crane 以未經完整書狀攻防為由，駁回州檢察長對 Kalshi 之暫時限制令聲請；初步禁制令依報導預計 2027 年 1 月初審理。",
+    "依報導，Kalshi 在紐約州約有 150 萬名客戶；紐約州自 2022 年起自線上運動博弈取得至少 35 億美元稅收。"
+   ],
+   "issues": [
+    "州得否對受 CFTC 監理之指定契約市場業者之手續費收入課徵附加費，是否與聯邦優先適用衝突。",
+    "以州法禁止民選公職人員交易事件合約，與聯邦層級內線交易規範之關係。"
+   ],
+   "holding": "・禁止民選公職人員交易事件合約。\n・對預測市場業者淨交易手續費收入課徵 10% 附加費。\n・附加費收入專用於普及學前教育；提案目的為防範預測市場內線交易。",
+   "significance": "本案為紐約州在訴訟之外以立法回應預測市場之新嘗試，附加費設計可能引發聯邦優先適用爭議。後續觀察法案於州參議院委員會之審議，以及紐約州訴 Kalshi 案 2027 年 1 月之初步禁制令聽審。",
+   "editorNote": "本網頁助理 註：本則內容取自 iGaming Business 報導；紐約州參議院法案頁面本次無法開啟，法案條文細節未經官方文件核對。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "FUTURES Act",
+    "Kalshi",
+    "紐約州",
+    "美國"
+   ],
+   "related": [
+    "2026-11-23-fin-ny-court-denies-kalshi-tro",
+    "2026-11-20-fin-senate-passes-death-bets-act"
+   ],
+   "sources": [
+    {
+     "label": "iGaming Business 報導",
+     "url": "https://igamingbusiness.com/prediction-markets/ny-state-senator-floats-prediction-market-bill-november-2026/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-27T07:29:19+08:00"
   }
  ],
  "agenda": [
@@ -13984,7 +14040,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "CFTC 11 月 23 日依報導通過事件合約資料申報最終規則；新墨西哥聯邦地院 11 月 23 日依 IGRA 命 Kalshi 封鎖四個原住民族領域之運動合約，Kalshi 同日宣布暫停猶他州交易；紐約州初步禁制令依報導預定 2027 年 1 月審理。"
+   "status": "CFTC 11 月 23 日依報導通過事件合約資料申報最終規則；新墨西哥聯邦地院 11 月 23 日依 IGRA 命 Kalshi 封鎖四個原住民族領域之運動合約，Kalshi 同日宣布暫停猶他州交易；紐約州參議員同日提出 FUTURES Act，紐約州初步禁制令依報導預定 2027 年 1 月審理。"
   },
   {
    "id": "kr-tokenised-securities",
