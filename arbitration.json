@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-26T06:57:11+08:00",
-  "lastRunLocal": "2026-11-26 06:57",
+  "lastRun": "2026-11-26T22:58:53+08:00",
+  "lastRunLocal": "2026-11-26 22:58",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "本次未新增：網頁讀取工具本次無法使用，僅以搜尋引擎檢查，未發現可查證的新動態",
+  "lastRunNote": "新增 1 則：投資仲裁 1（案件動態 1）；網頁讀取工具本次無法使用，僅以搜尋引擎檢查",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -10205,6 +10205,83 @@
     }
    ],
    "addedAt": "2026-11-25T23:01:05+08:00"
+  },
+  {
+   "id": "2026-11-25-arb-burford-argentina-ypf-icsid",
+   "court": "NEWS",
+   "kind": "案件動態",
+   "field": "investment",
+   "caseId": "burford-v-argentina-ypf",
+   "jurisdiction": "阿根廷",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-25",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "阿根廷內閣首長向參議院報告：Burford 支持的 YPF 前股東轉向 ICSID，對阿根廷求償約 144 億美元",
+   "shortTitle": "YPF 案轉戰 ICSID，Burford 對阿根廷求償 144 億美元",
+   "point": "美國 161 億美元判決遭撤銷後，YPF 前股東改依投資條約在 ICSID 求償",
+   "titleOriginal": "Juicio por YPF: Burford reclama US$ 14.400 millones a la Argentina en una nueva demanda ante el CIADI (Perfil, 26 November 2026); El informe de Diego Santilli al Senado reveló que Burford reclama US$14.400 millones por YPF ante el CIADI (Diario Río Negro, 25 November 2026)",
+   "caseRef": "",
+   "tldr": "阿根廷 2012 年把 YPF 石油公司收歸國有，由訴訟融資公司 Burford 支持的前小股東原本在美國法院打贏約 161 億美元的判決，但該判決後來在美國被推翻。依阿根廷媒體 11 月 25、26 日報導，內閣首長向參議院提出的報告揭露，這些股東已改向世界銀行的 ICSID 提出投資仲裁，求償約 144 億美元，阿根廷政府正準備答辯。",
+   "memo": "依阿根廷媒體於 2026 年 11 月 25 日及 26 日之報導，阿根廷內閣首長 Diego Santilli 向參議院提出之報告揭露，由 Burford Capital 提供訴訟融資之 YPF 前股東已就阿根廷 2012 年徵收 YPF 股權一事，向解決投資爭端國際中心（ICSID）提出新仲裁，求償約 144 億美元。該等股東先前於美國聯邦法院取得約 161 億美元之判決，嗣經美國法院撤銷。仲裁所依條約、聲請人名稱、案號及登記日期，報導未見載明。",
+   "context": "阿根廷於 2012 年以徵收法將 Repsol 持有之 YPF 51% 股份收歸國有，但未依 YPF 公司章程對其他股東提出公開收購。Petersen 集團公司及 Eton Park 等前小股東在 Burford Capital 融資下於美國紐約南區聯邦地方法院起訴阿根廷，2023 年取得約 161 億美元之判決。\n依新聞標題，該判決其後於美國上訴程序遭推翻，地方法院 Preska 法官並撤銷 161 億美元判決（Rio Times 報導）。GAR 亦曾報導 YPF 投資人委任 Three Crowns 律師事務所提出對阿根廷之新求償（Burford 官網轉載）。",
+   "facts": [
+    "2026 年 11 月 25 日，阿根廷內閣首長 Diego Santilli 向參議院提出施政報告；Diario Río Negro 等媒體報導，報告揭露 Burford 方面在 ICSID 向阿根廷求償約 144 億美元。",
+    "Perfil、BAE Negocios 等媒體稱之為對阿根廷之「新仲裁／新請求」，MDZ 標題則稱 Burford「將訴諸」ICSID，報導用語不一。",
+    "依報導標題，阿根廷米雷政府已著手準備答辯。"
+   ],
+   "issues": [
+    "YPF 前股東在美國依公司章程提起之契約訴訟遭推翻後，得否改依投資條約就同一徵收措施在 ICSID 求償（包括岔路條款、已決事項及股東間接請求等管轄權問題，依報導尚未見具體爭點）。"
+   ],
+   "holding": "本件為新提出之求償，尚無仲裁庭決定。依現有報導，求償金額約 144 億美元；所依條約、聲請人、案號、仲裁庭組成均未公開。",
+   "significance": "YPF 案是阿根廷近年金額最大的國際爭端之一；美國法院判決遭推翻後，股東改走投資條約仲裁，使爭端從國內法院移到 ICSID。後續可留意 ICSID 是否登記本案、公布之案號與所依條約，以及阿根廷就管轄權提出之抗辯。",
+   "editorNote": "本網頁助理 註：本次網頁讀取工具無法使用，本則僅依搜尋所得之阿根廷媒體（MDZ、Diario Río Negro、Perfil、BAE Negocios）、Rio Times 及 Burford 官網轉載之 GAR 報導標題撰寫，未能閱讀報導全文，亦未在 ICSID 案件資料庫核對登記情形，故仲裁是否已登記、案號與所依條約均尚待確認，eventDate 留空。\n以下為本網頁助理補充，非來源內容：Petersen 集團公司為西班牙公司，若以條約為據，最可能援引者為阿根廷—西班牙雙邊投資協定；美國訴訟之歷程細節請以法院判決為準。",
+   "tags": [
+    "ICSID",
+    "阿根廷",
+    "西班牙",
+    "YPF",
+    "Burford",
+    "徵收",
+    "第三方資助",
+    "石油"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Diario Río Negro 報導：Santilli 參議院報告揭露求償",
+     "url": "https://www.rionegro.com.ar/politica/el-informe-de-diego-santilli-al-senado-revelo-que-burford-reclama-us14-400-millones-por-ypf-ante-el-ciadi-4813106/",
+     "official": false
+    },
+    {
+     "label": "MDZ 報導",
+     "url": "https://www.mdzol.com/politica/2026/11/25/caso-ypf-burford-reclama-us14400-millones-a-argentina-y-recurrira-al-ciadi-tras-perder-en-estados-unidos-1997869.html",
+     "official": false
+    },
+    {
+     "label": "Perfil 報導",
+     "url": "https://www.perfil.com/politica/juicio-por-ypf-burford-reclama-us-14.400-millones-a-la-argentina-en-una-nueva-demanda-ante-el-ciadi-a9N088Q6EPqD",
+     "official": false
+    },
+    {
+     "label": "BAE Negocios 報導",
+     "url": "https://www.baenegocios.com/economia/juicio-por-ypf-burford-reclama-usd-14-400-millones-en-un-nuevo-arbitraje-contra-la-argentina/",
+     "official": false
+    },
+    {
+     "label": "Rio Times 報導：Burford 將 YPF 求償帶到 ICSID",
+     "url": "https://www.riotimesonline.com/burford-ypf-icsid-claim-petersen-argentina-2026/",
+     "official": false
+    },
+    {
+     "label": "Burford 官網轉載 GAR 報導：YPF 投資人委任 Three Crowns",
+     "url": "https://www.burfordcapital.com/insights-news-events/news-press-releases/gar-reports-ypf-investors-turn-to-three-crowns-for-new-claim-against-argentina/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-26T22:58:53+08:00"
   }
  ],
  "agenda": [
@@ -11067,6 +11144,18 @@
    "caseRef": "",
    "summary": "十一家烏克蘭公司就其克里米亞加油站遭俄羅斯奪取，依 1998 年俄烏雙邊投資協定獲得約 3,400 萬美元仲裁判斷（仲裁地瑞士），並於美國聲請承認與執行。",
    "status": "美國聯邦地院於 2026 年 11 月 24 日駁回俄羅斯依紐約公約提出之抗辯，支持執行判斷；俄方仍可能上訴。"
+  },
+  {
+   "id": "burford-v-argentina-ypf",
+   "type": "案件",
+   "court": "NEWS",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "YPF 前股東訴阿根廷（ICSID 求償）",
+   "nameOriginal": "Petersen / Eton Park (Burford-funded YPF shareholders) v. Argentine Republic",
+   "caseRef": "",
+   "summary": "Burford Capital 支持的 YPF 前小股東，就阿根廷 2012 年徵收 YPF 股權、未對其他股東公開收購一事，於美國訴訟遭推翻後改向 ICSID 求償。",
+   "status": "2026 年 11 月依阿根廷政府向參議院之報告，求償約 144 億美元，登記情形與案號尚待確認。"
   }
  ]
 }
