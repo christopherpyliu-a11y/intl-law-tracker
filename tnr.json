@@ -1,13 +1,84 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-27T23:15:47+08:00",
-  "lastRunLocal": "2026-11-27 23:15",
+  "lastRun": "2026-11-28T07:13:27+08:00",
+  "lastRunLocal": "2026-11-28 07:13",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 2 則：中國 1（司法案件 1）、越南 1（國際組織 1）"
+  "lastRunNote": "新增 1 則：中國 1（事件 1）"
  },
  "items": [
+  {
+   "id": "2026-11-25-tnr-wang-hai-stranded-south-korea",
+   "court": "CN",
+   "kind": "事件",
+   "caseId": "",
+   "jurisdiction": "南韓",
+   "outlet": "美聯社（AP）",
+   "outletCode": "AP",
+   "date": "2026-11-25",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "中國打假人士王海出走南韓後稱遭註銷護照、凍結帳戶，難民申請遭拒恐被遣返；中國外交部稱不知情",
+   "shortTitle": "打假人士王海滯留南韓恐遭遣返",
+   "point": "稱護照遭註銷、帳戶凍結；南韓駁回難民申請，美國撤銷其簽證",
+   "titleOriginal": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners",
+   "caseRef": "",
+   "tldr": "在中國以檢舉假貨、替消費者求償聞名約 30 年的王海，因員工在中國接連被捕，9 月底帶著家人逃到南韓。他說中國已註銷他的護照、凍結銀行帳戶；南韓拒絕了他全家的難民申請，他正上訴，並透過人權團體尋求到加拿大安置。中國外交部說不知道此事。",
+   "memo": "依美聯社 2026 年 11 月 25 日報導，中國消費者維權人士王海（53 歲）於同年 9 月底偕家人自中國前往南韓；其稱中國自 7 月起以打擊「惡意索賠」為名展開掃黑行動，其公司數十名員工於 9 月遭逮捕或訊問，且其護照遭中國註銷、國內銀行帳戶遭凍結。南韓出入境機關駁回其全家難民申請，王海已提起上訴；美國駐韓大使館以新資訊致其不符入境資格為由撤銷其觀光簽證。中國外交部表示不知悉此案，公安部未回應。",
+   "context": "王海為中國知名「職業打假人」，近 30 年來揭發假冒商品並協助消費者求償，創辦北京大海商務顧問公司。依美聯社，中國於 2026 年 7 月展開針對「惡意索賠」的掃黑除惡行動，官方資料顯示至少逾百人被捕。\n在海外的異議或維權人士遭本國註銷護照、凍結資產，致其無法合法居留或移居第三國，是本區所收錄「代理脅迫」與行政手段型跨國鎮壓的常見態樣。",
+   "facts": [
+    "依美聯社，王海於 2026 年 9 月下旬偕妻子、8 歲女兒及襁褓中的兒子抵達南韓。",
+    "王海稱其員工於 9 月有數十人遭逮捕或訊問，部分仍遭羈押，其中包括 3 名律師；其維權公司與檢測實驗室已關閉。",
+    "其最近處理的案件為協助大連櫻桃果農就假農藥求償；王海稱當地警方拘留約 40 餘人。",
+    "王海稱中國已註銷其護照，並凍結其在中國的銀行帳戶。",
+    "南韓出入境機關駁回王海及家人的難民申請，王海已上訴；南韓法務部以難民法及隱私為由不予說明。",
+    "美國駐韓大使館以新資訊顯示其不符入境資格為由撤銷其觀光簽證，未說明細節；美國國務院未回應。",
+    "中國外交部稱不知悉此案，公安部未回應。",
+    "王海稱自己面臨跨國鎮壓，連在南韓也擔心被捕，家人多半足不出戶；他正透過人權團體尋求移居加拿大。"
+   ],
+   "issues": [
+    "母國在當事人出境後註銷護照、凍結資產，是否構成對海外人士的跨國鎮壓手段？",
+    "南韓駁回難民申請後若將其遣返中國，是否牴觸不遣返原則？",
+    "以掃黑或「惡意索賠」名義追訴消費者維權人士，是否屬政治性追訴而應受難民保護？"
+   ],
+   "holding": "・王海稱若被遣返，「必定終身坐牢」，其依據為員工遭捕、公司被迫關閉及其長年公開維權活動。\n・南韓：駁回難民申請，上訴中；法務部不予說明。\n・美國：撤銷其觀光簽證，未說明理由。\n・中國：外交部稱不知情，公安部未回應。",
+   "significance": "本案顯示中國國內掃黑行動延伸至已出境的維權人士，並透過護照、資產等行政手段限制其在第三國的處境。後續宜留意南韓難民上訴結果、是否啟動遣返程序，以及加拿大安置申請進展。",
+   "editorNote": "本網頁助理 註：護照遭註銷、帳戶凍結等情均為王海本人所述，報導未見中國官方證實；美國撤銷簽證之理由不明。",
+   "tags": [
+    "跨國鎮壓",
+    "中國",
+    "南韓",
+    "美國",
+    "加拿大",
+    "消費者維權",
+    "護照註銷",
+    "資產凍結",
+    "庇護",
+    "不遣返原則",
+    "遣返"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "美聯社報導（U.S. News 轉載）",
+     "url": "https://www.usnews.com/news/business/articles/2026-11-25/a-chinese-consumer-advocate-is-stranded-in-south-korea-as-a-crackdown-in-china-targets-campaigners",
+     "official": false
+    },
+    {
+     "label": "美聯社報導（WSLS 轉載）",
+     "url": "https://www.wsls.com/news/world/2026/11/26/a-chinese-consumer-advocate-is-stranded-in-south-korea-as-a-crackdown-in-china-targets-campaigners/",
+     "official": false
+    },
+    {
+     "label": "美聯社報導（Korea Times 轉載）",
+     "url": "https://www.koreatimes.co.kr/world/20261126/a-chinese-consumer-advocate-is-stranded-in-south-korea-as-a-crackdown-in-china-targets-campaigners",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-28T07:13:27+08:00"
+  },
   {
    "id": "2026-11-26-tnr-un-experts-viet-tan-transboundary-abduction",
    "court": "VN",
