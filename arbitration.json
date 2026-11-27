@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-27T22:57:51+08:00",
-  "lastRunLocal": "2026-11-27 22:57",
+  "lastRun": "2026-11-28T06:58:51+08:00",
+  "lastRunLocal": "2026-11-28 06:58",
   "coverageFrom": "2026-10-01",
-  "lastRunNote": "本次未發現新動態；網頁讀取工具本次無法使用，僅以搜尋引擎檢查",
+  "lastRunNote": "新增 1 則：投資仲裁 1（案件動態 1）；多數來源網站本次無法直接讀取，改以搜尋引擎檢查",
   "coverageNote": "收錄自：投資仲裁 2026-10-01、商務仲裁 2026-10-10"
  },
  "items": [
@@ -10282,6 +10282,66 @@
     }
    ],
    "addedAt": "2026-11-26T22:58:53+08:00"
+  },
+  {
+   "id": "2026-11-26-arb-sarama-v-burkina-faso-update",
+   "court": "NEWS",
+   "field": "investment",
+   "kind": "案件動態",
+   "caseId": "sarama-v-burkina-faso",
+   "jurisdiction": "",
+   "outlet": "ICSID 案件（依新聞報導）",
+   "outletCode": "ICSID",
+   "date": "2026-11-26",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "Sarama 對布吉納法索的 ICSID 金礦徵收求償進入最後書狀階段，實體審理排定 2027 年 2 月",
+   "shortTitle": "Sarama 訴布吉納法索：實體審理排定明年 2 月",
+   "point": "求償更新為 2.453 億美元加利息，政府再答辯書 12 月 1 日到期",
+   "titleOriginal": "Sarama Resources Ltd. v. Burkina Faso (ICSID) — Sarama Provides Update on Arbitration and Riedel Exploration (26 November 2026)",
+   "caseRef": "",
+   "tldr": "澳洲與加拿大上市的探礦公司 Sarama 主張布吉納法索收回其金礦探勘許可，構成徵收，依加拿大－布吉納法索投資協定在 ICSID 求償。公司 11 月 26 日公告：求償金額已更新為約 2.45 億美元另加利息，政府的最後書狀 12 月 1 日到期，實體審理訂於 2027 年 2 月 22 日至 26 日。",
+   "memo": "Sarama Resources Ltd. 於 2026 年 11 月 26 日公告其依加拿大－布吉納法索雙邊投資協定，就 Tankoro 2 探勘許可遭布吉納法索徵收一事於 ICSID 提起之仲裁程序進度：申請人已於 2026 年 7 月 31 日提出再答辯暨管轄權答辯書，將損害賠償請求更新為 2.453 億美元另加利息（含判斷前利息約 3.268 億美元）；被申請國再答辯書應於 2026 年 12 月 1 日提出，實體審理期日訂於 2027 年 2 月 22 日至 26 日。",
+   "context": "Sarama Resources 為在多倫多創業板及澳洲證交所掛牌的探礦公司，在布吉納法索持有 Sanutura 金礦計畫，其核心為 Tankoro 2 探勘許可。公司主張布吉納法索政府收回該許可，構成對其投資的徵收。\n公司依加拿大與布吉納法索之雙邊投資協定，於 2024 年 12 月在 ICSID 提起仲裁，由 Boies Schiller Flexner (UK) LLP 代理，並取得 Locke Capital II LLC 提供的無追索權第三方資金。",
+   "facts": [
+    "程序於 2024 年 12 月開始；Sarama 於 2025 年 10 月提出請求書（Memorial）。",
+    "布吉納法索於 2026 年 3 月提出答辯書；文書提出程序於 2026 年 6 月完成。",
+    "Sarama 於 2026 年 7 月 31 日提出再答辯暨管轄權答辯書，並將損害賠償請求更新為 2.453 億美元另加利息；其委任之損害賠償專家 Accuracy 估算，含至該日之判斷前利息共約 3.268 億美元，利息持續累計。",
+    "依公司公告，布吉納法索之再答辯書應於 2026 年 12 月 1 日提出，實體審理訂於 2027 年 2 月 22 日至 26 日，程序時程大致未變；終局判斷日期尚未確定。"
+   ],
+   "issues": [
+    "收回 Tankoro 2 探勘許可是否構成加拿大－布吉納法索投資協定下之徵收或其他違約行為。",
+    "布吉納法索提出之管轄權異議（公告未說明內容）。",
+    "損害賠償之計算與判斷前利息。"
+   ],
+   "holding": "本則為程序進度公告，仲裁庭尚未就管轄權或實體作成決定。\n公告指出，雙方書狀交換即將完成，實體審理（含管轄權爭點）預定於 2027 年 2 月下旬舉行。",
+   "significance": "布吉納法索近年礦業政策轉向、加強國家控制，本案是外國礦業投資人對其提起的條約求償之一。若依時程於 2027 年 2 月完成審理，判斷最快可能在 2027 年下半年作成。",
+   "editorNote": "本網頁助理 註：本則依 Sarama 公司 2026 年 11 月 26 日新聞稿（經 StockTitan 轉載之全文）撰寫，所述程序進度與金額均為公司單方說明；公告未載明 ICSID 案號，ICSID 網站本次無法以自動方式讀取，故未查證。",
+   "tags": [
+    "ICSID",
+    "布吉納法索",
+    "加拿大",
+    "雙邊投資協定",
+    "徵收",
+    "礦業",
+    "第三方資金",
+    "損害賠償"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "Sarama 公司新聞稿（ACCESS Newswire）",
+     "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/sarama-provides-update-on-arbitration-and-riedel-exploration-1297723",
+     "official": false
+    },
+    {
+     "label": "Sarama 新聞稿全文轉載（StockTitan）",
+     "url": "https://www.stocktitan.net/news/SRMMF/sarama-provides-update-on-arbitration-and-riedel-yzpiljv1caop.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-28T06:58:51+08:00"
   }
  ],
  "agenda": [
@@ -10373,6 +10433,26 @@
    "url": "https://globalarbitrationreview.com/article/turkish-executive-fails-lift-dutch-asset-freeze",
    "relatedId": "2026-11-12-arb-amsterdam-akida-zeren-attachment",
    "caseId": "akida-v-zeren"
+  },
+  {
+   "id": "2026-12-01-news-sarama-burkina-rejoinder",
+   "date": "2026-12-01",
+   "court": "NEWS",
+   "title": "Sarama 訴布吉納法索：被申請國再答辯書提出期限",
+   "note": "ICSID 程序；依申請人公告",
+   "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/sarama-provides-update-on-arbitration-and-riedel-exploration-1297723",
+   "relatedId": "2026-11-26-arb-sarama-v-burkina-faso-update",
+   "caseId": "sarama-v-burkina-faso"
+  },
+  {
+   "id": "2027-02-22-award-sarama-burkina-hearing",
+   "date": "2027-02-22",
+   "court": "AWARD",
+   "title": "Sarama 訴布吉納法索：ICSID 實體審理（2 月 22 日至 26 日）",
+   "note": "依申請人公告；地點未公開",
+   "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/sarama-provides-update-on-arbitration-and-riedel-exploration-1297723",
+   "relatedId": "2026-11-26-arb-sarama-v-burkina-faso-update",
+   "caseId": "sarama-v-burkina-faso"
   }
  ],
  "archives": [],
@@ -11156,6 +11236,18 @@
    "caseRef": "",
    "summary": "Burford Capital 支持的 YPF 前小股東，就阿根廷 2012 年徵收 YPF 股權、未對其他股東公開收購一事，於美國訴訟遭推翻後改向 ICSID 求償。",
    "status": "2026 年 11 月依阿根廷政府向參議院之報告，求償約 144 億美元，登記情形與案號尚待確認。"
+  },
+  {
+   "id": "sarama-v-burkina-faso",
+   "type": "案件",
+   "court": "AWARD",
+   "field": "investment",
+   "forum": "ICSID",
+   "name": "Sarama 訴布吉納法索（Tankoro 2 金礦探勘許可）",
+   "nameOriginal": "Sarama Resources Ltd. v. Burkina Faso",
+   "caseRef": "",
+   "summary": "加拿大探礦公司 Sarama 主張布吉納法索收回其 Tankoro 2 探勘許可構成徵收，依加拿大－布吉納法索投資協定在 ICSID 求償約 2.45 億美元另加利息。",
+   "status": "書狀交換即將完成，政府再答辯書 2026 年 12 月 1 日到期，實體審理訂於 2027 年 2 月 22 日至 26 日。"
   }
  ]
 }
