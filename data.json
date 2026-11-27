@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-27T06:58:07+08:00",
-  "lastRunLocal": "2026-11-27 06:58",
+  "lastRun": "2026-11-27T22:58:28+08:00",
+  "lastRunLocal": "2026-11-27 22:58",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "本次未新增：國際法院與歐洲人權法院官網確認無新動態；EJIL:Talk!、Opinio Juris 及其他法院官網仍無法讀取，待下次執行補查"
+  "lastRunNote": "新增 1 則：ICJ 1（緬甸表示不完全履行判決）；EJIL:Talk!、Opinio Juris 及 ICJ、ICC、ITLOS、美洲人權法院官網本次無法直接讀取，改以新聞搜尋補查"
  },
  "items": [
   {
@@ -8483,7 +8483,8 @@
     "2026-11-19-icj-gambia-myanmar-israel-reaction",
     "2026-11-21-oj-ihl-genocide-gambia-myanmar",
     "2026-11-23-other-uk-sanctions-myanmar-genocide",
-    "2026-11-25-oj-gambia-myanmar-duty-to-prevent"
+    "2026-11-25-oj-gambia-myanmar-duty-to-prevent",
+    "2026-11-26-icj-gambia-myanmar-partial-noncompliance"
    ]
   },
   {
@@ -8745,7 +8746,8 @@
    "related": [
     "2026-11-19-icj-gambia-myanmar-merits-judgment",
     "2026-11-19-icj-gambia-myanmar-israel-reaction",
-    "2026-11-23-other-uk-sanctions-myanmar-genocide"
+    "2026-11-23-other-uk-sanctions-myanmar-genocide",
+    "2026-11-26-icj-gambia-myanmar-partial-noncompliance"
    ]
   },
   {
@@ -10016,6 +10018,73 @@
     "2026-11-24-other-sdny-icc-sanctions-permanent-injunction"
    ],
    "addedAt": "2026-11-25T22:59:19+08:00"
+  },
+  {
+   "id": "2026-11-26-icj-gambia-myanmar-partial-noncompliance",
+   "court": "ICJ",
+   "kind": "其他",
+   "caseId": "gambia-v-myanmar",
+   "date": "2026-11-26",
+   "eventDate": "",
+   "importance": 2,
+   "title": "緬甸總統敏昂萊稱將不遵守國際法院種族滅絕判決中「不適當」的要求，判決履行前景不明",
+   "shortTitle": "緬甸表示不會完全履行種族滅絕判決",
+   "point": "敏昂萊稱判決源於片面指控、損害國家聲譽，未具體說明將拒絕哪些命令",
+   "titleOriginal": "Myanmar says it will not fully comply with ICJ genocide orders",
+   "caseRef": "General List No. 178",
+   "tldr": "國際法院 11 月 19 日判定緬甸對羅興亞人犯下種族滅絕、命其追訴行為人並賠償後，緬甸總統敏昂萊在政府會議上表示，緬甸不會照做判決中它認為「不適當」的要求，但沒說是哪些。國際法院本身沒有強制執行機制，若緬甸不履行，甘比亞可以請聯合國安理會處理。",
+   "memo": "據媒體轉引緬甸官方媒體及路透社報導，緬甸總統敏昂萊於聯邦政府會議中表示，緬甸將不遵守國際法院 2026 年 11 月 19 日甘比亞訴緬甸（防止及懲治種族滅絕罪公約）案判決中其認為不適當之要求，並稱本案係片面指控、「種族滅絕」用語嚴重損害緬甸聲譽，惟未指明拒絕履行之具體事項。依《聯合國憲章》第 94 條，緬甸不履行判決時，甘比亞得向安全理事會提出申訴。",
+   "context": "甘比亞於 2019 年依《防止及懲治種族滅絕罪公約》第 9 條對緬甸提起訴訟。國際法院於 2026 年 11 月 19 日以 9 票對 6 票作成實體判決，認定緬甸於 2017 年在若開邦北部的「清剿行動」中對羅興亞人實施種族滅絕，並違反防止、懲治及保全證據義務；法院命緬甸調查並追訴涉嫌人員、防止再犯、促成羅興亞人安全、自願且有尊嚴地返鄉、提供回復原狀與賠償，並於兩年內提出報告。\n緬甸外交部已於 11 月 20 日拒絕判決認定，質疑法院倚重聯合國調查報告，並主張 2016 至 2018 年的行動係針對若開羅興亞救世軍（ARSA）的反恐行動（見本站 11 月 20 日相關條目）。",
+   "facts": [
+    "緬甸總統敏昂萊在聯邦政府會議上發言，據官方媒體報導，他稱甘比亞提起的程序是片面指控，「種族滅絕」一詞嚴重損害緬甸聲譽。",
+    "他表示緬甸不會遵循國際法院判決中其認為不適當的要求；路透社指出他未說明將拒絕哪些要求。",
+    "Outlook India 於 2026 年 11 月 26 日報導此事，並指出判決雖為終局且具拘束力，但法院沒有獨立的執行機制。",
+    "報導並指出，依聯合國難民署 2026 年年中數字，約 120 萬名羅興亞難民及尋求庇護者在孟加拉，另有逾 22 萬人在緬甸境內流離失所。"
+   ],
+   "issues": [
+    "國際法院判決的拘束力與當事國履行義務（《聯合國憲章》第 94 條第 1 項、《國際法院規約》第 59 條、第 60 條）。",
+    "不履行判決時，他方當事國得否請求安理會採取措施（《聯合國憲章》第 94 條第 2 項）。"
+   ],
+   "holding": "本則為當事國對判決的政治表態，非法院裁判。\n緬甸政府首次由最高層級公開表明將部分不履行判決，但未具體指明拒絕的命令項目；判決所定兩年報告期限仍在進行中。來源未報導甘比亞或聯合國對此的回應。",
+   "significance": "緬甸公開表態將選擇性履行，使判決的追訴、賠償與返鄉等命令能否落實更加不確定；若緬甸不履行，問題可能轉向安理會，而中國先前已批評本判決，安理會層面恐難採取行動。",
+   "editorNote": "本網頁助理 註：本則依 Outlook India 報導撰寫（該報導轉引緬甸官方媒體及路透社）；路透社原稿（經 US News 等轉載）與其他報導本網頁助理未能開啟核對。報導未明確寫出發言日期，僅稱於「週三」的政府會議中發言，故本則未填裁判／事件日期。\n以下為本網頁助理補充，非來源內容：依《聯合國憲章》第 94 條第 2 項，安理會「於必要時」得作成建議或決定應採取之辦法，惟此類決議受常任理事國否決權限制。",
+   "tags": [
+    "種族滅絕公約",
+    "種族滅絕",
+    "判決履行",
+    "安理會",
+    "羅興亞人",
+    "緬甸",
+    "甘比亞",
+    "國際法院"
+   ],
+   "sources": [
+    {
+     "label": "國際法院本案案件頁",
+     "url": "https://www.icj-cij.org/case/178",
+     "official": true
+    },
+    {
+     "label": "Outlook India 報導",
+     "url": "https://www.outlookindia.com/international/min-aung-hlaing-myanmar-icj-rohingya-genocide-ruling-inappropriate-orders-compliance",
+     "official": false
+    },
+    {
+     "label": "Reuters 報導（US News 轉載）",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-26/myanmar-says-it-will-not-fully-comply-with-icj-genocide-orders",
+     "official": false
+    },
+    {
+     "label": "Khaosod English 報導",
+     "url": "https://www.khaosodenglish.com/news/international/2026/11/27/myanmar-says-it-will-not-fully-comply-with-icj-genocide-orders/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-27T22:58:28+08:00",
+   "related": [
+    "2026-11-20-icj-gambia-myanmar-reactions",
+    "2026-11-19-icj-gambia-myanmar-merits-judgment"
+   ]
   }
  ],
  "agenda": [
@@ -10326,7 +10395,7 @@
    "nameOriginal": "Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar)",
    "caseRef": "General List No. 178",
    "summary": "甘比亞指控緬甸對羅興亞人的行為違反《防止及懲治種族滅絕罪公約》。",
-   "status": "法院已於 2026 年 11 月 19 日以 9 票對 6 票判決緬甸實施種族滅絕並命其賠償、兩年內提出報告；英國 11 月 23 日正式承認種族滅絕並制裁五名緬甸將領。"
+   "status": "法院已於 2026 年 11 月 19 日以 9 票對 6 票判決緬甸實施種族滅絕並命其賠償、兩年內提出報告；緬甸總統敏昂萊 11 月下旬表示將不履行其認為不適當的要求。"
   },
   {
    "id": "drc-v-rwanda",
