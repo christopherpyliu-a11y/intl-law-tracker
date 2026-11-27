@@ -1,13 +1,131 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-27T07:29:19+08:00",
-  "lastRunLocal": "2026-11-27 07:29",
+  "lastRun": "2026-11-27T23:30:04+08:00",
+  "lastRunLocal": "2026-11-27 23:30",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：美國 1（立法動態 1）"
+  "lastRunNote": "新增 2 則：歐盟 1（政策動態 1）、亞太與其他 1（政策動態 1）"
  },
  "items": [
+  {
+   "id": "2026-11-27-fin-boj-kamiyama-stablecoin-singleness",
+   "court": "JP",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "日本",
+   "outlet": "The Block",
+   "outletCode": "TB",
+   "date": "2026-11-27",
+   "eventDate": "2026-11-27",
+   "importance": 1,
+   "author": "",
+   "title": "日本銀行理事神山一成於 IMF 東京研討會表示，穩定幣須就準備資產與營運架構嚴格監理並與中央銀行貨幣連結，以維護貨幣單一性",
+   "shortTitle": "日銀理事：穩定幣須訂準備資產規則",
+   "point": "11 月 27 日演講稱穩定幣應與央行貨幣連結以防市場分裂，將與代幣化存款並存",
+   "titleOriginal": "Bank of Japan official says stablecoins need reserve rules to preserve 'singleness of money'",
+   "caseRef": "",
+   "tldr": "日本央行理事 Kazushige Kamiyama 11 月 27 日在東京一場 IMF 研討會上說，穩定幣要有嚴格的準備資產與營運監理，並設計好與央行貨幣的連結，否則可能讓同一種貨幣分裂成彼此不能等值互換的多種「錢」。他也預期穩定幣與銀行的代幣化存款會並存。",
+   "memo": "依 The Block 2026 年 11 月 27 日報導，日本銀行理事 Kazushige Kamiyama 於同日在東京國際貨幣基金（IMF）研討會演講指出，穩定幣須就其準備資產及營運架構予以嚴格監理，並設計與中央銀行貨幣之連結機制，以維護同一貨幣得以面額互換且具清算終局性之「貨幣單一性」，避免市場分裂；其並預期穩定幣、代幣化存款與其他數位貨幣將並存，中央銀行貨幣應作為清算資產之基礎。",
+   "context": "「貨幣單一性」（singleness of money）為國際清算銀行（BIS）近年討論穩定幣時強調之概念，指同一貨幣之各種形式應能以面額互換並具終局性。\n日本已依修正後《資金決濟法》建立電子支付手段（穩定幣）制度；日本銀行另推動 DLT 沙盒計畫，並參與 BIS 創新中心之 Project Agora。依報導，日本正研議以區塊鏈處理股票及日本國債結算之系統，開發計畫預計 2027 年初提出。",
+   "facts": [
+    "依報導，Kamiyama 於 2026 年 11 月 27 日在東京 IMF 研討會發表演講。",
+    "其表示穩定幣須對準備資產及營運架構嚴格監理，並設計與中央銀行貨幣之連結，以防市場分裂。",
+    "其預期穩定幣與代幣化存款將與其他數位貨幣並存，中央銀行貨幣為支撐貨幣單一性之清算資產。",
+    "報導並提及日本銀行 DLT 沙盒計畫涵蓋跨境支付、國內銀行間結算及代幣化日本國債之現金結算。"
+   ],
+   "issues": [
+    "穩定幣準備資產規範應達何種嚴格程度，始能確保與存款及央行貨幣以面額互換。",
+    "私人發行之數位貨幣如何與中央銀行貨幣連結，以維持清算終局性。"
+   ],
+   "holding": "・穩定幣須就準備資產與營運架構受嚴格監理。\n・應設計穩定幣與中央銀行貨幣之連結，避免同一貨幣之市場分裂。\n・穩定幣、代幣化存款與其他數位貨幣將並存，中央銀行貨幣仍為清算基礎。",
+   "significance": "日本銀行高層公開將穩定幣監理與「貨幣單一性」連結，顯示日本央行傾向以央行貨幣作為代幣化結算之錨。後續觀察日本銀行 DLT 沙盒成果及 2027 年初區塊鏈證券結算系統開發計畫。",
+   "editorNote": "本網頁助理 註：本則內容取自 The Block 報導；報導所附日本銀行演講稿 PDF 本次無法開啟，演講標題與全文未經核對。",
+   "tags": [
+    "穩定幣",
+    "代幣化存款",
+    "CBDC",
+    "貨幣單一性",
+    "日本銀行",
+    "日本"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "日本銀行演講稿（PDF，本次未能開啟）",
+     "url": "https://www.boj.or.jp/en/about/press/koen_2026/data/ko261127a.pdf",
+     "official": true
+    },
+    {
+     "label": "The Block 報導",
+     "url": "https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-27T23:30:04+08:00"
+  },
+  {
+   "id": "2026-11-27-fin-esma-mica-register-overhaul",
+   "court": "ESMA",
+   "kind": "政策動態",
+   "caseId": "",
+   "jurisdiction": "歐盟",
+   "outlet": "Cointelegraph",
+   "outletCode": "CT",
+   "date": "2026-11-27",
+   "eventDate": "",
+   "importance": 1,
+   "author": "",
+   "title": "依報導 ESMA 擬於 2027 年中以可搜尋之網路平台取代 MiCA 臨時登記名冊，並保存白皮書版本歷程及自動檢核資料",
+   "shortTitle": "ESMA 擬於 2027 年中改版 MiCA 名冊",
+   "point": "依報導改採可搜尋平台，白皮書直接存放並保留歷次版本，資料自動比對 GLEIF",
+   "titleOriginal": "ESMA to overhaul EU's MiCA crypto register in 2027",
+   "caseRef": "MiCA 第 109 條",
+   "tldr": "依加密媒體報導，ESMA 發言人表示，目前以每週更新試算表檔案呈現的 MiCA 登記名冊，約將於 2027 年中改為可搜尋的網路平台；白皮書會直接放在名冊上並保留舊版本，各國主管機關改以線上介面申報，系統會自動比對資料是否缺漏或格式不符。",
+   "memo": "依 Cointelegraph 及 crypto.news 2026 年 11 月 27 日報導，歐洲證券及市場管理局（ESMA）發言人表示，ESMA 擬於 2027 年中以可搜尋之網路平台取代 2024 年 12 月起以下載檔案方式提供之 MiCA 臨時登記名冊；新系統將直接存放加密資產白皮書並保留歷次版本，各會員國主管機關改經結構化線上介面提報資料，系統並與 GLEIF 等參考資料庫自動比對、檢核白皮書是否缺漏法定資訊或不符標準格式，另提供 CSV 下載及 API 存取。ESMA 稱時程係依技術開發，與過渡期結束及 MiCA 檢討無關。",
+   "context": "MiCA（Regulation (EU) 2023/1114）第 109 條要求 ESMA 建置加密資產白皮書、資產參考代幣與電子貨幣代幣發行人及加密資產服務提供者（CASP）之登記名冊，並應另行保存被取代之白皮書。\nESMA 自 2024 年 12 月起以五個每週更新之 CSV 檔案作為臨時名冊，涵蓋已獲授權 CASP、不合規實體、ART 與 EMT 發行人及其他加密資產白皮書。白皮書標準格式（Inline XBRL）自 2025 年 12 月 23 日起適用；MiCA 過渡期已於 2026 年 7 月 1 日屆滿。",
+   "facts": [
+    "依報導，ESMA 發言人於 2026 年 11 月 27 日向加密媒體說明名冊改版計畫，預定約 2027 年中上線。",
+    "臨時名冊目前為五個每週更新之下載檔案，資料由各國主管機關以電子郵件彙整，更新可能有落差。",
+    "新系統將直接存放白皮書並保留修訂歷程，提供搜尋、CSV 下載及 API 存取。",
+    "系統將與 GLEIF 法人識別碼資料庫比對，並依 ESMA 標準化申報框架檢核白皮書缺漏與格式。",
+    "ESMA 稱完整功能尚未公布，名冊收錄不代表監理核准。"
+   ],
+   "issues": [
+    "名冊資料之即時性與正確性，對投資人辨識合法 CASP 及白皮書版本之影響。",
+    "自動檢核機制與各國主管機關提報責任之分工。"
+   ],
+   "holding": "・以可搜尋之網路平台取代臨時 CSV 名冊，預定 2027 年中完成。\n・白皮書直接存放於名冊並保留歷次版本，以符 MiCA 第 109 條保存被取代白皮書之要求。\n・主管機關經結構化線上介面提報，系統自動比對參考資料庫並檢核白皮書格式。\n・提供搜尋、CSV 下載及 API 存取。",
+   "significance": "名冊為業者與投資人查核 MiCA 授權狀態及白皮書內容之主要公開工具，改版後可提升透明度與資料一致性。後續觀察 ESMA 正式公告之功能範圍與上線日期。",
+   "editorNote": "本網頁助理 註：本則依 Cointelegraph 及 crypto.news 引述 ESMA 發言人之說明，ESMA 尚未發布正式公告或文件；ESMA MiCA 專頁截至本次查核仍標示最後更新為 2026 年 11 月 18 日。",
+   "tags": [
+    "加密資產",
+    "MiCA",
+    "登記名冊",
+    "白皮書",
+    "ESMA",
+    "歐盟"
+   ],
+   "related": [],
+   "sources": [
+    {
+     "label": "ESMA MiCA 專頁（臨時名冊）",
+     "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+     "official": true
+    },
+    {
+     "label": "Cointelegraph 報導",
+     "url": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027",
+     "official": false
+    },
+    {
+     "label": "crypto.news 報導",
+     "url": "https://crypto.news/esma-plans-to-overhaul-eus-mica-crypto-register-by-mid-2027/",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-27T23:30:04+08:00"
+  },
   {
    "id": "2026-11-16-fin-fsb-cross-border-payments-progress-2026",
    "court": "FSB",
@@ -13896,6 +14014,16 @@
    "url": "https://www.fca.org.uk/publications/guidance-consultations/gc26-7-decentralised-finance-guidance",
    "relatedId": "2026-11-26-fin-ft-fca-defi-authorisation-plan",
    "caseId": "uk-cryptoasset-regime"
+  },
+  {
+   "id": "tbd-esma-mica-register-platform",
+   "date": "",
+   "court": "ESMA",
+   "title": "ESMA 新版 MiCA 登記名冊平台上線",
+   "note": "依報導預定約 2027 年中，時程可能變動",
+   "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+   "relatedId": "2026-11-27-fin-esma-mica-register-overhaul",
+   "caseId": ""
   }
  ],
  "cases": [
