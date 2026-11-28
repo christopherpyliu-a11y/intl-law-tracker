@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-28T06:56:31+08:00",
-  "lastRunLocal": "2026-11-28 06:56",
+  "lastRun": "2026-11-28T22:59:56+08:00",
+  "lastRunLocal": "2026-11-28 22:59",
   "coverageFrom": "2026-09-01",
-  "lastRunNote": "本次未發現新動態（EJIL:Talk!、Opinio Juris 及 ICJ、ICC、ECtHR、美洲人權法院、ITLOS 官網本次無法直接讀取，改以新聞搜尋補查；ITLOS 阿根廷訴英國案命令預定 11 月 28 日宣讀）"
+  "lastRunNote": "新增 7 則：ITLOS 1、EJIL 評論 3、Opinio Juris 評論 3（ITLOS 新聞稿與命令原文未能直接讀取，依新聞報導撰寫）"
  },
  "items": [
   {
@@ -727,7 +727,8 @@
    "related": [
     "2026-10-13-itlos-argentina-uk",
     "2026-10-12-ejil-argentina-unclos",
-    "2026-10-20-itlos-argentina-uk-hearing"
+    "2026-10-20-itlos-argentina-uk-hearing",
+    "2026-11-28-itlos-argentina-uk-pm-rejected"
    ],
    "sources": [
     {
@@ -832,7 +833,8 @@
    "related": [
     "2026-10-13-itlos-argentina-uk",
     "2026-10-12-oj-sea-lion-hamburg",
-    "2026-10-20-itlos-argentina-uk-hearing"
+    "2026-10-20-itlos-argentina-uk-hearing",
+    "2026-11-28-itlos-argentina-uk-pm-rejected"
    ],
    "sources": [
     {
@@ -1128,7 +1130,9 @@
     "不出庭",
     "印度河水條約"
    ],
-   "related": [],
+   "related": [
+    "2026-11-27-oj-indus-waters-fundamental-change"
+   ],
    "sources": [
     {
      "label": "Opinio Juris 原文",
@@ -6984,7 +6988,8 @@
    "addedAt": "2026-11-11T23:06:33+08:00",
    "related": [
     "2026-11-10-itlos-argentina-uk-hearing-day1",
-    "2026-11-11-itlos-argentina-uk-order-date"
+    "2026-11-11-itlos-argentina-uk-order-date",
+    "2026-11-28-itlos-argentina-uk-pm-rejected"
    ]
   },
   {
@@ -7188,7 +7193,8 @@
    "addedAt": "2026-11-12T23:09:58+08:00",
    "related": [
     "2026-11-11-itlos-argentina-uk-hearing-day2",
-    "2026-11-10-itlos-argentina-uk-hearing-day1"
+    "2026-11-10-itlos-argentina-uk-hearing-day1",
+    "2026-11-28-itlos-argentina-uk-pm-rejected"
    ]
   },
   {
@@ -7806,7 +7812,8 @@
    "related": [
     "2026-10-09-icc-us-sanctions",
     "2026-10-16-oj-blocking-statute-icc",
-    "2026-11-11-other-nl-us-icc-restrictions-report"
+    "2026-11-11-other-nl-us-icc-restrictions-report",
+    "2026-11-27-oj-asp25-guide"
    ]
   },
   {
@@ -8022,7 +8029,8 @@
    "related": [
     "2026-10-27-icc-prosecutor-election-launched",
     "2026-10-09-ejil-icc-judicial-vetting",
-    "2026-09-04-oj-icc-prosecutor-removal"
+    "2026-09-04-oj-icc-prosecutor-removal",
+    "2026-11-27-oj-asp25-guide"
    ]
   },
   {
@@ -8385,7 +8393,10 @@
    "addedAt": "2026-11-19T07:05:18+08:00",
    "outlet": "EJIL:Talk!",
    "outletCode": "EJIL",
-   "author": "Vito De Lucia（挪威北極大學法學教授）、郭建平（西安交通大學法學院副教授）"
+   "author": "Vito De Lucia（挪威北極大學法學教授）、郭建平（西安交通大學法學院副教授）",
+   "related": [
+    "2026-11-24-ejil-bbnj-itlos-advisory-other-bodies"
+   ]
   },
   {
    "id": "2026-11-19-icj-gambia-myanmar-merits-judgment",
@@ -8484,7 +8495,9 @@
     "2026-11-21-oj-ihl-genocide-gambia-myanmar",
     "2026-11-23-other-uk-sanctions-myanmar-genocide",
     "2026-11-25-oj-gambia-myanmar-duty-to-prevent",
-    "2026-11-26-icj-gambia-myanmar-partial-noncompliance"
+    "2026-11-26-icj-gambia-myanmar-partial-noncompliance",
+    "2026-11-26-ejil-gambia-myanmar-ihl-compliance",
+    "2026-11-27-oj-gambia-myanmar-compensation"
    ]
   },
   {
@@ -9324,7 +9337,8 @@
    "related": [
     "2026-11-19-icj-gambia-myanmar-merits-judgment",
     "2026-11-21-ejil-gambia-myanmar-intent-change-part2",
-    "2026-11-17-oj-beyond-only-intent"
+    "2026-11-17-oj-beyond-only-intent",
+    "2026-11-26-ejil-gambia-myanmar-ihl-compliance"
    ]
   },
   {
@@ -10085,6 +10099,459 @@
     "2026-11-20-icj-gambia-myanmar-reactions",
     "2026-11-19-icj-gambia-myanmar-merits-judgment"
    ]
+  },
+  {
+   "id": "2026-11-28-itlos-argentina-uk-pm-rejected",
+   "court": "ITLOS",
+   "kind": "裁定",
+   "caseId": "argentina-v-uk-sea-lion",
+   "date": "2026-11-28",
+   "eventDate": "2026-11-28",
+   "importance": 3,
+   "title": "國際海洋法法庭以 18 票對 3 票駁回阿根廷請求停止福克蘭群島 Sea Lion 油田開發的臨時措施聲請，理由是案件須先決定群島主權，附件七仲裁庭初步看來欠缺管轄權",
+   "shortTitle": "ITLOS 駁回阿根廷油田臨時措施聲請",
+   "point": "18 比 3 認定請求涉及群島主權，仲裁庭欠缺初步管轄權，未審酌急迫性",
+   "titleOriginal": "Case concerning hydrocarbon exploitation in the South-West Atlantic Ocean (Argentina v. United Kingdom), Provisional Measures, Order of 28 November 2026",
+   "caseRef": "",
+   "tldr": "阿根廷請國際海洋法法庭在仲裁庭成立前，先命英國暫停福克蘭（馬爾維納斯）群島北方海域的 Sea Lion 油田開發。法庭以 18 票對 3 票拒絕，因為要判斷阿根廷的主張，就必須先決定群島屬於誰，而領土主權爭議不在海洋法公約仲裁的管轄範圍內。法庭強調這不影響之後仲裁庭對管轄權與實體的判斷。",
+   "memo": "國際海洋法法庭於 2026 年 11 月 28 日就阿根廷訴英國（西南大西洋油氣開發案）臨時措施聲請作成命令，以 18 票對 3 票駁回阿根廷依《聯合國海洋法公約》第 290 條第 5 項所提請求；理由為阿根廷之主張須以決定福克蘭（馬爾維納斯）群島領土主權為前提，而該爭議不屬公約範圍，依附件七組成之仲裁庭初步看來欠缺管轄權，法庭因而未審酌急迫性與不可回復損害。本命令不影響仲裁庭就管轄權及實體問題之判斷，仲裁庭尚待組成。",
+   "context": "阿根廷於 2026 年 9 月下旬依《聯合國海洋法公約》附件七對英國提起仲裁，指英國支持的福克蘭（馬爾維納斯）群島北方海域 Sea Lion 油田開發違反公約；10 月 13 日並依第 290 條第 5 項請國際海洋法法庭在仲裁庭組成前規定臨時措施。\n法庭於 11 月 9 日由雙方專案法官宣誓，11 月 10、11 日舉行言詞辯論，並宣布於 11 月 28 日宣示命令。本站先前已收錄 EJIL:Talk! 與 Opinio Juris 對本案管轄權問題的評論。",
+   "facts": [
+    "阿根廷請求的臨時措施包括：停止鑽探、不得使用探勘資料、停止妨礙阿根廷履行環境義務，以及不採取使爭端惡化的措施（據 Buenos Aires Herald）。",
+    "阿根廷主張系爭海域屬權利重疊區域，須有臨時安排，並援引聯合國去殖民化決議主張擴大法庭管轄（據 Buenos Aires Times）。",
+    "2026 年 11 月 28 日，庭長 Maurice Kamga 在漢堡公開庭期宣讀命令，以 18 票對 3 票駁回聲請。",
+    "據 Buenos Aires Times，法庭注意到英國於言詞辯論中的承諾：2027 年 3 月 21 日前不鑽探、2028 年 3 月前不進行商業生產，以及在許可制度暫停期間不核發新石油許可。"
+   ],
+   "issues": [
+    "依《聯合國海洋法公約》第 290 條第 5 項，附件七仲裁庭對本案是否具初步管轄權。",
+    "阿根廷的主張是否必然涉及福克蘭（馬爾維納斯）群島領土主權，而落於公約範圍之外。",
+    "聯合國去殖民化決議能否擴大法庭或仲裁庭的管轄。"
+   ],
+   "holding": "法庭以 18 票對 3 票駁回阿根廷的臨時措施聲請，未規定任何措施。\n據各報導，法庭認定阿根廷的請求須先決定群島的領土主權，而領土主權爭議不屬公約範圍，因此仲裁庭初步看來欠缺管轄權；法庭亦拒絕阿根廷以權利重疊區域及去殖民化決議為據的論點。由於初步管轄權不成立，法庭未就急迫性及不可回復損害風險表示意見（據 Buenos Aires Times）。\n法庭表示，本命令不預斷仲裁庭的管轄權或雙方的實體主張。Buenos Aires Times 另報導法庭呼籲雙方合作加速組成仲裁庭。\n反應：阿根廷總統府表示不同意但尊重裁定，強調並未請求法庭就主權表態，將等待仲裁庭並採取一切必要行動阻止開發，並促眾議院表決國家主權捍衛法案（據 Buenos Aires Herald）。英國總檢察長表示，若法庭發布命令將造成毀滅性後果（據 dpa）。",
+   "significance": "本命令使 Sea Lion 油田得依英方時程推進（預計 2027 年初鑽探、2028 年生產），也再次顯示海洋法公約爭端解決程序難以處理以主權爭議為前提的請求，與查戈斯群島仲裁等先例方向一致。案件將轉入附件七仲裁庭的組成與管轄權階段，其組成時程各報導說法不一。",
+   "editorNote": "本網頁助理 註：法庭官網案件頁與第 406 號新聞稿本次無法直接讀取，本則依 Buenos Aires Herald、Buenos Aires Times 與 dpa（經 Yahoo 轉載）報導撰寫；三家報導票數一致，但命令理由的細節、反對票法官姓名、法庭「呼籲合作」是否屬主文，以及英方承諾的完整內容，均未能以命令原文核對。仲裁庭預計組成時間，Buenos Aires Times 稱 2026 年 12 月至 2027 年 1 月，Buenos Aires Herald 稱尚無時程。\n以下為本網頁助理補充，非來源內容：與查戈斯群島仲裁（模里西斯訴英國，2015 年）比較一節，係本網頁助理所加。",
+   "tags": [
+    "國際海洋法法庭",
+    "阿根廷",
+    "英國",
+    "福克蘭群島",
+    "Sea Lion",
+    "臨時措施",
+    "第290條",
+    "附件七仲裁",
+    "初步管轄權",
+    "領土主權"
+   ],
+   "sources": [
+    {
+     "label": "國際海洋法法庭第 406 號新聞稿（PDF）",
+     "url": "https://www.itlos.org/fileadmin/itlos/documents/press_releases_english/PR_406_en.pdf",
+     "official": true
+    },
+    {
+     "label": "國際海洋法法庭案件頁",
+     "url": "https://www.itlos.org/en/main/cases/case-concerning-hydrocarbon-exploitation-in-the-south-west-atlantic-ocean-argentina-v-united-kingdom-provisional-measures/",
+     "official": true
+    },
+    {
+     "label": "Buenos Aires Herald 報導",
+     "url": "https://buenosairesherald.com/politics/sea-tribunal-rejects-argentinas-request-to-halt-malvinas-oil-drilling",
+     "official": false
+    },
+    {
+     "label": "Buenos Aires Times 報導",
+     "url": "https://batimes.com.ar/news/world/international-tribunal-for-the-law-of-the-sea-ruling-on-malvinas-oil-case.phtml",
+     "official": false
+    },
+    {
+     "label": "dpa 報導（Yahoo 轉載）",
+     "url": "https://www.yahoo.com/news/world/articles/international-court-rejects-argentina-bid-131838804.html",
+     "official": false
+    }
+   ],
+   "related": [
+    "2026-11-11-itlos-argentina-uk-order-date",
+    "2026-11-11-itlos-argentina-uk-hearing-day2",
+    "2026-10-12-ejil-argentina-unclos",
+    "2026-10-12-oj-sea-lion-hamburg"
+   ],
+   "addedAt": "2026-11-28T22:59:56+08:00"
+  },
+  {
+   "id": "2026-11-26-ejil-gambia-myanmar-ihl-compliance",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "gambia-v-myanmar",
+   "date": "2026-11-26",
+   "eventDate": "",
+   "importance": 2,
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "author": "Lizaveta Tarasevich（波鴻魯爾大學國際和平與武裝衝突法研究所，瑞士國家科學基金會博士後研究員）",
+   "title": "作者認為：緬甸案判決確認符合國際人道法的行為不因此被排除於種族滅絕客觀要件之外，遵守與否只是推論意圖的證據，並非全面抗辯",
+   "shortTitle": "遵守人道法不是種族滅絕的全面抗辯",
+   "point": "作者指出法院否定克羅埃西亞案的排除解讀，遵守程度僅作為意圖證據，其分量留待個案判斷",
+   "titleOriginal": "Awful but Lawful? The relevance of IHL Compliance to Genocide Allegations in The Gambia v. Myanmar",
+   "caseRef": "General List No. 178",
+   "tldr": "緬甸主張，依國際人道法屬合法的軍事行動不能算是種族滅絕行為，也能證明沒有滅絕意圖。作者分析判決後認為，法院拒絕把合法行為一律排除，但承認遵守或違反人道法可以作為判斷意圖的證據；在本案中，真正發揮作用的是緬甸缺乏遵守人道法的證據。",
+   "memo": "Lizaveta Tarasevich 於 EJIL:Talk! 撰文指出，國際法院 2026 年 11 月 19 日甘比亞訴緬甸案判決否定將克羅埃西亞訴塞爾維亞案判決第 474 段解為國際人道法上合法之殺害不構成種族滅絕公約第 2 條 (a) 款行為，確認合法性本身不排除客觀要件；遵守或違反國際人道法僅為推論一般故意及特定意圖之證據，並非全面抗辯。作者並不同意遵守人道法即可排除國家意圖之見解，認為其證據分量應個案判斷，南非訴以色列案將受檢驗。",
+   "context": "國際法院 2015 年克羅埃西亞訴塞爾維亞案判決在處理「風暴行動」時，留下國際人道法與種族滅絕之間關係的解釋空間，其第 474 段常被解讀為依人道法合法的殺害不屬種族滅絕行為。\n國際法院於 2026 年 11 月 19 日就甘比亞訴緬甸案作成實體判決。本站先前已收錄 Kevin Jon Heller 在 Opinio Juris 上就同一問題的評論。",
+   "facts": [
+    "緬甸在本案主張，符合國際人道法的行為不能作為種族滅絕的基礎行為，且可否定種族滅絕意圖（據作者引述判決第 299、300 段）。",
+    "國際法院 2026 年 11 月 19 日判決認定緬甸違反種族滅絕公約。",
+    "據作者引述，法院在判斷特定意圖時，部分因緬甸遵守人道法的證據甚少，而拒絕其「反恐行動」的替代推論（判決第 444、453 段）。"
+   ],
+   "issues": [
+    "符合國際人道法的行為能否構成種族滅絕公約第 2 條的客觀行為。",
+    "遵守或違反國際人道法對一般故意與種族滅絕特定意圖（dolus specialis）的推論有何意義。",
+    "國家層次的種族滅絕意圖能否因遵守人道法而被排除。"
+   ],
+   "holding": "・作者指出，克羅埃西亞案未明確處理兩者關係，第 474 段的排除解讀本有爭議。\n・作者認為，緬甸案判決（第 302、303 段）否定此種解讀：行為不因合乎人道法即被排除於客觀要件之外。\n・作者說明，法院同時確認人道法可能與兩種主觀要件相關（第 303 至 305 段）。\n・就特定意圖，遵守或違反可支持意圖推論，但都不具決定性，遵守人道法不排除具有種族滅絕意圖的可能。\n・作者不同意 Marko Milanovic 認為遵守人道法可排除國家意圖的看法，理由包括國家意圖屬法律建構、整體行動與個別攻擊的意圖可能不同，以及比例原則屬質性判斷。\n・作者指出，本案中法院以大規模殺害判斷一般故意，而在特定意圖部分，真正有分量的是不遵守人道法的證據。",
+   "significance": "作者結論是，合乎人道法的行為不被排除於客觀要件之外，遵守與否與意圖相關但不是全面抗辯，其證據分量仍屬開放問題；南非訴以色列案將檢驗不同程度的遵守如何影響意圖認定。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：本則依 EJIL:Talk! 原文撰寫，判決段落編號係依作者引述，未逐段核對判決全文。",
+   "tags": [
+    "種族滅絕公約",
+    "國際人道法",
+    "特定意圖",
+    "第2條",
+    "克羅埃西亞訴塞爾維亞案",
+    "國際法院",
+    "緬甸",
+    "甘比亞",
+    "羅興亞人",
+    "以色列"
+   ],
+   "sources": [
+    {
+     "label": "國際法院判決全文（PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/178/178-20261119-jud-01-00-en.pdf",
+     "official": true
+    },
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/awful-but-lawful-the-relevance-of-ihl-compliance-to-genocide-allegations-in-the-gambia-v-myanmar/",
+     "official": false
+    },
+    {
+     "label": "國際法院克羅埃西亞訴塞爾維亞案判決（PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/118/118-20150203-JUD-01-00-EN.pdf",
+     "official": true
+    }
+   ],
+   "related": [
+    "2026-11-21-oj-ihl-genocide-gambia-myanmar",
+    "2026-11-19-icj-gambia-myanmar-merits-judgment"
+   ],
+   "addedAt": "2026-11-28T22:59:56+08:00"
+  },
+  {
+   "id": "2026-11-27-oj-gambia-myanmar-compensation",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "gambia-v-myanmar",
+   "date": "2026-11-27",
+   "eventDate": "",
+   "importance": 2,
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Niko Pavlopoulos（倫敦大學學院法學院講師）",
+   "title": "作者指出：緬甸案首度在訴訟案件中確認非受害國可為受益人請求賠償，但甘比亞能否代表並受領羅興亞人的賠償仍無答案",
+   "shortTitle": "緬甸案賠償：誰來代表羅興亞人",
+   "point": "作者指出法院承認非受害國的賠償請求權，但法官對甘比亞能否受領賠償意見分歧",
+   "titleOriginal": "Common Interests and Compensation: What Next?",
+   "caseRef": "General List No. 178",
+   "tldr": "法院判緬甸要對羅興亞人賠償，而提告的甘比亞本身並非受害國。作者認為這是法院第一次在訴訟案件中確認這種「為他人請求賠償」的權利，但接下來誰來主張金額、錢交給誰、羅興亞人有沒有發言權，判決都沒有解決，需要另行設計機制。",
+   "memo": "Niko Pavlopoulos 於 Opinio Juris 撰文指出，國際法院 2026 年 11 月 19 日甘比亞訴緬甸案判決首度於訴訟案件確認非受害國得依國家責任條款第 48 條第 2 項為受益人請求賠償，並命緬甸回復原狀及賠償；惟甘比亞得否代表羅興亞人並受領賠償，法官意見分歧。作者認為，若雙方未能就賠償達成協議，可能需由甘比亞取得授權、設立基金、聯合國大會介入或設置損害登記及賠償委員會等機制處理。",
+   "context": "國家責任條款第 48 條第 2 項規定，非受害國援引對國際社會整體或締約國整體負有的義務時，得為受害國或義務受益人請求賠償；國際法委員會評注承認其適用將面臨困難。\n國際法院於 2026 年 11 月 19 日甘比亞訴緬甸案判決命緬甸回復原狀與賠償，並限兩年內提出報告。",
+   "facts": [
+    "據作者引述，法院認定緬甸對羅興亞人犯種族滅絕、未防止、未懲罰、未立法及違反 2020 年臨時措施命令，並認定甘比亞得請求賠償（判決第 590 段）。",
+    "據作者引述，五名法官對賠償主文投反對票。",
+    "法院將自行決定賠償，緬甸須於兩年內提出報告。"
+   ],
+   "issues": [
+    "非受害國依國家責任條款第 48 條第 2 項為受益人請求賠償的範圍。",
+    "甘比亞能否代表羅興亞人主張並受領賠償。",
+    "賠償應如何分配與監督。"
+   ],
+   "holding": "・作者指出，法院首次在訴訟案件中確認非受害國的賠償請求權。\n・由於賠償將由法院決定，由誰進行賠償階段的訴訟成為問題。\n・作者介紹 Hmoud 法官與專案法官 Kreß 對甘比亞能否為受益人行動的不同看法，以及岩澤、Tomka、Nolte、Aurescu 法官對甘比亞授權與受領能力的質疑。\n・作者指出，羅興亞人在程序中沒有正式的發言管道。\n・作者列出可能方案：甘比亞取得授權、設立基金、聯合國大會行動、仿照巴勒斯坦與烏克蘭的損害登記，或聯合國賠償委員會模式。",
+   "significance": "作者結論是，結果仍未定，可能由法院自行處理，也可能交由甘比亞或國際社會；Tomka 法官則認為法院不適合監督賠償的發放。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：本則依 Opinio Juris 原文撰寫，判決段落與各法官立場係依作者引述，未逐一核對判決與個別意見全文。",
+   "tags": [
+    "種族滅絕公約",
+    "賠償",
+    "國家責任",
+    "第48條",
+    "對世義務",
+    "國際法院",
+    "緬甸",
+    "甘比亞",
+    "羅興亞人"
+   ],
+   "sources": [
+    {
+     "label": "國際法院判決全文（PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/178/178-20261119-jud-01-00-en.pdf",
+     "official": true
+    },
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/11/27/common-interests-and-compensation-what-next/",
+     "official": false
+    }
+   ],
+   "related": [
+    "2026-11-19-icj-gambia-myanmar-merits-judgment"
+   ],
+   "addedAt": "2026-11-28T22:59:56+08:00"
+  },
+  {
+   "id": "2026-11-27-ejil-sea-level-rise-statehood",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "",
+   "date": "2026-11-27",
+   "eventDate": "",
+   "importance": 2,
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "author": "Matthias Nouvet（阿斯頓大學法學院講師）；Rohit Gupta（科隆大學國際和平與安全法研究所博士候選人）",
+   "title": "兩位作者評聯合國海平面上升宣言：宣言確認海域與國家延續的政治共識但未說明法律依據，吐瓦魯的國家地位應延續且不得撤回承認",
+   "shortTitle": "海平面上升宣言與吐瓦魯的國家延續",
+   "point": "作者指出宣言對國家延續僅重申推定、合作僅屬鼓勵；另一作者主張應禁止撤回承認",
+   "titleOriginal": "The UN Declaration on Sea Level Rise: Affirming Status, Encouraging Co-operation; An Abridged Tale of Tuvalu: State Continuity, De-Recognition, and Digital Sovereignty as Responses to Sea-Level Rise",
+   "caseRef": "",
+   "tldr": "聯合國大會今年通過第一份海平面上升宣言，表示海域界線不因海平面變化而改變，並推定國家即使領土淹沒仍繼續存在。一位作者認為宣言比國際法院諮詢意見更進一步，但沒有說明為何國家能延續，合作也只是鼓勵；另一位作者以吐瓦魯為例，主張國家延續推定不受時間限制，他國不得以撤回承認讓其消滅，數位治理也屬合法的主權行使。",
+   "memo": "Matthias Nouvet 與 Rohit Gupta 分別於 EJIL:Talk! 撰文評論 2026 年 9 月 24 日以共識通過之聯合國海平面上升宣言。Nouvet 指出宣言第 20 段維持海域權利之立場較國際法院氣候變遷諮詢意見更進一步，第 21 段則僅重申國家延續推定而未說明依據，合作亦僅屬鼓勵，可強化但不足以單獨形成習慣法。Gupta 主張蒙特維多公約要件僅適用於國家創設，延續推定不受時間限制，撤回承認應予禁止，數位主權亦屬正當。",
+   "context": "國際法院 2025 年 7 月 23 日氣候變遷諮詢意見第 355 至 365 段處理海平面上升對海域與國家地位的影響。聯合國大會依第 78/558 號決定召開高階會議，於 2026 年 9 月 24 日以共識通過海平面上升宣言，10 月 12 日以 A/81/L.3 不經表決正式核可。\n吐瓦魯 2023 年修憲規定國家永久存續，並推動「Future Now」數位國家計畫；澳洲與吐瓦魯的 Falepili 聯盟條約承認其國家延續。",
+   "facts": [
+    "2026 年 9 月 24 日，聯合國大會高階會議以共識通過海平面上升宣言；10 月 12 日大會以 A/81/L.3 不經表決核可。",
+    "2026 年 5 月，大會第 80/263 號決議以 141 票贊成、8 票反對、28 票棄權歡迎國際法院氣候變遷諮詢意見。",
+    "吐瓦魯 2023 年修憲規定國家永久存續，並表示已取得二十多個國家的雙邊承認。"
+   ],
+   "issues": [
+    "宣言對海域權利維持與國家延續推定的法律意義，及其作為習慣國際法證據的分量。",
+    "領土淹沒的國家能否延續其國家地位，以及撤回承認是否應被禁止。",
+    "不以領土為基礎的數位主權是否屬合法的主權行使。"
+   ],
+   "holding": "・Nouvet（2026 年 11 月 25 日）：宣言第 20 段維持海域權利，比國際法院意見第 362 段更進一步，但弱於小島國家聯盟與太平洋島國論壇的文本；第 21 段重申意見第 363 段的國家延續推定，卻未說明依據為自決、衡平或穩定；合作只被鼓勵，而非如法院所述的法律義務，也未提人為成因；共識僅保留爭議較少的命題，可強化但不能單獨形成習慣法。\n・Gupta（2026 年 11 月 27 日）：蒙特維多公約要件屬國家創設法，不適用於國家延續；延續推定不受時間限制，僅受益國可推翻；國家存續權禁止非自願消滅，撤回承認作為使國家消滅的行為應予禁止，並輔以集體不承認；數位主權屬人民組織國家的權利，主權不必以領土為基礎。",
+   "significance": "Nouvet 認為宣言顯示各國對法律穩定的政治共識，實際作用取決於各國如何回應維持海域權利與國家延續的主張，並建議後續高階會議處理延續依據與推翻標準。Gupta 認為其論證可延伸至其他受威脅的低窪國家。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：本則合併 EJIL:Talk! 2026 年 11 月 25 日 Nouvet 與 11 月 27 日 Gupta 兩篇主題相同的文章撰寫，兩者並非同一系列。Gupta 所稱約 135 國支持國家延續之統計為作者自行計算，未經核對。",
+   "tags": [
+    "海平面上升",
+    "國家地位",
+    "國家延續",
+    "承認",
+    "海域",
+    "聯合國大會",
+    "氣候變遷諮詢意見",
+    "吐瓦魯",
+    "澳洲"
+   ],
+   "sources": [
+    {
+     "label": "聯合國海平面上升宣言（PDF）",
+     "url": "https://www.un.org/pga/wp-content/uploads/sites/110/2026/08/Final-SLR-Declaration-version-as-passed-silence.pdf",
+     "official": true
+    },
+    {
+     "label": "EJIL:Talk! 原文（Nouvet）",
+     "url": "https://www.ejiltalk.org/the-un-declaration-on-sea-level-rise-affirming-status-encouraging-co-operation/",
+     "official": false
+    },
+    {
+     "label": "EJIL:Talk! 原文（Gupta）",
+     "url": "https://www.ejiltalk.org/an-abridged-tale-of-tuvalu-state-continuity-de-recognition-and-digital-sovereignty-as-responses-to-sea-level-rise/",
+     "official": false
+    },
+    {
+     "label": "聯合國大會 A/81/L.3 決議草案",
+     "url": "https://docs.un.org/en/A/81/L.3",
+     "official": true
+    },
+    {
+     "label": "聯合國大會新聞稿 GA/12794",
+     "url": "https://press.un.org/en/2026/ga12794.doc.htm",
+     "official": true
+    },
+    {
+     "label": "國際法院氣候變遷諮詢意見（PDF）",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/187/187-20250723-adv-01-00-en.pdf",
+     "official": true
+    }
+   ],
+   "addedAt": "2026-11-28T22:59:56+08:00"
+  },
+  {
+   "id": "2026-11-24-ejil-bbnj-itlos-advisory-other-bodies",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "",
+   "date": "2026-11-24",
+   "eventDate": "",
+   "importance": 1,
+   "outlet": "EJIL:Talk!",
+   "outletCode": "EJIL",
+   "author": "Yinuo Kang（漢堡大學國際公法博士候選人）",
+   "title": "作者主張：BBNJ 協定第 47 條第 7 項只禁止 ITLOS 就其他機構職權內事項作成獨立認定，不妨礙其在諮詢意見中考量其他機構的職權",
+   "shortTitle": "BBNJ 締約方大會能向 ITLOS 問什麼",
+   "point": "作者主張應區分「考量」與「裁斷」其他機構職權內事項，由問題實質劃界",
+   "titleOriginal": "On a Matter or Involving It? What the BBNJ COP Can Ask ITLOS about Other Bodies",
+   "caseRef": "",
+   "tldr": "公海生物多樣性（BBNJ）協定允許締約方大會請國際海洋法法庭提供諮詢意見，但排除「屬於其他機構職權內的事項」。作者認為，這不代表法庭碰到其他機構就不能看；法庭可以參考其他機構的職權與措施，只是不能代替它們作決定。",
+   "memo": "Yinuo Kang 於 EJIL:Talk! 撰文主張，BBNJ 協定第 47 條第 7 項就其他機構職權內事項之排除，係以請求標的為準，與「必然涉及」領土爭端之排除不同；國際海洋法法庭審查第 22 條第 2 項提案時得考量其他機構之職權與措施，僅於請求實質上要求就其他機構決定之效力等事項作成獨立認定時始受限制。作者建議首屆締約方大會於請求中說明審查範圍。",
+   "context": "BBNJ 協定首屆締約方大會預定 2027 年 1 月 11 日於紐約開幕。籌備委員會建議的議事規則草案第 48 條，允許大會在收到國際海洋法法庭諮詢意見前暫緩就提案作成決定，以落實協定第 47 條第 7 項。本站先前已收錄 EJIL:Talk! 上關於 BBNJ 秘書處所在地的評論。",
+   "facts": [
+    "籌備委員會建議（A/AC.296/2026/9）中的議事規則草案第 48 條，規定大會可待法庭諮詢意見後再就提案作決定。",
+    "協定第 47 條第 7 項排除就其他機構職權內事項，以及必然涉及陸地領土爭端或區域地位的事項提出請求。",
+    "據作者引述，中國在國際海洋法法庭小島國委員會諮詢案（第 31 號案）中表示只接受由締約方大會提出的請求。"
+   ],
+   "issues": [
+    "BBNJ 協定第 47 條第 7 項的「其他機構」排除，是否禁止法庭在審查第 22 條第 2 項提案時評估其他機構的職權。",
+    "「屬於職權內事項」與「必然涉及」兩種表述的區別，及其與海洋法公約第 298 條第 1 項 (a) 款的關係。"
+   ],
+   "holding": "・作者指出，若排除條款在涉及其他機構職權時即適用，大會將無法就劃設區域管理工具提出最核心的第 22 條第 2 項問題。\n・作者區分以標的為準的「職權內事項」與以途徑為準的「必然涉及」，後者借自海洋法公約第 298 條第 1 項 (a) 款。\n・作者以起草歷史說明兩種限制保護不同利益：主權爭端，與大會本身依第 22 條第 2 項也須尊重的其他機構職權。\n・法庭在評估提案是否符合協定時可考量其他機構的職權與措施，考量不等於裁斷。\n・限制適用於請求實質上要求獨立認定其他機構事項，例如其決定的效力；作者以第 19 條第 3 項最佳可得科學要求舉例。",
+   "significance": "作者結論是，第 47 條第 7 項區分考量與裁斷其他機構職權內事項，界線依個別問題的實質劃定；首屆大會可在請求中說明為何須檢視其他機構職權、哪些決定不在請求範圍，並記錄諮商中提出的職權異議。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。",
+   "tags": [
+    "國家管轄範圍外區域海洋生物多樣性協定",
+    "國際海洋法法庭",
+    "諮詢意見",
+    "第47條",
+    "締約方大會",
+    "中國"
+   ],
+   "sources": [
+    {
+     "label": "EJIL:Talk! 原文",
+     "url": "https://www.ejiltalk.org/on-a-matter-or-involving-it-what-the-bbnj-cop-can-ask-itlos-about-other-bodies/",
+     "official": false
+    },
+    {
+     "label": "BBNJ 籌備委員會建議 A/AC.296/2026/9",
+     "url": "https://docs.un.org/en/A/AC.296/2026/9",
+     "official": true
+    },
+    {
+     "label": "BBNJ 協定全文（PDF）",
+     "url": "https://www.un.org/bbnjagreement/sites/default/files/2024-08/Text%20of%20the%20Agreement%20in%20English.pdf",
+     "official": true
+    }
+   ],
+   "related": [
+    "2026-11-18-ejil-bbnj-secretariat-merged-bid"
+   ],
+   "addedAt": "2026-11-28T22:59:56+08:00"
+  },
+  {
+   "id": "2026-11-27-oj-indus-waters-fundamental-change",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "pakistan-v-india-indus",
+   "date": "2026-11-27",
+   "eventDate": "",
+   "importance": 2,
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Mritunjai Kapila（Volterra Fietta 律師事務所新任律師）",
+   "title": "作者認為：印度河水條約仲裁庭駁回情勢變更抗辯結論正確，但其「條約機制已預見變化」的理由應限縮解讀，以免架空條約法公約第 62 條",
+   "shortTitle": "印度河水仲裁：情勢變更理由應限縮",
+   "point": "作者主張第 280 段只適用於條約機制原本設計吸收的變化，如水壩技術",
+   "titleOriginal": "The Lock and the Lever: The Indus Waters Award and the Test of Fundamental Change of Circumstances",
+   "caseRef": "",
+   "tldr": "印度以人口、能源、技術、恐怖主義與氣候變遷等五項變化，主張可以不再遵守印度河水條約，仲裁庭全部駁回。作者同意結論，但擔心仲裁庭說「條約已有處理變化的機制，所以變化已被預見」的推論太廣，可能讓所有設有爭端解決機制的條約都無法主張情勢變更，因此主張應限縮解讀。",
+   "memo": "Mritunjai Kapila 於 Opinio Juris 撰文指出，印度河水條約仲裁庭 2026 年 8 月 31 日裁決駁回印度之情勢變更抗辯，結論正確，惟裁決第 280 段以條約機制顯示當事國已預見變化之推論應限縮於該機制原設計吸收之變化（如水壩技術），並應區分機制能否處理履行上之變化與當事國是否預見特定變化；否則《維也納條約法公約》第 62 條將僅適用於無機制之條約。作者並預期氣候變遷將成為未來最可能之抗辯。",
+   "context": "印度於 2025 年 4 月 23 日（帕哈爾加姆襲擊次日）宣布「擱置」1960 年印度河水條約，巴基斯坦就基申甘加與拉特勒水力電廠提起仲裁。仲裁庭於 2026 年 8 月 31 日一致認定條約未被停止施行或終止。本站先前已收錄 Opinio Juris 上關於「擱置」意義的評論。",
+   "facts": [
+    "印度自 2023 年 1 月起要求重新談判條約，未出席仲裁程序，並於 2025 年 4 月 23 日宣布擱置條約。",
+    "印度主張五項情勢變更：人口、潔淨能源需求、水壩技術、跨境恐怖主義與氣候變遷，仲裁庭全部駁回。",
+    "仲裁庭 2026 年 8 月 31 日裁決一致認定條約未被停止施行或終止（據作者引述裁決第 325 段）。"
+   ],
+   "issues": [
+    "《維也納條約法公約》第 26 條（條約必須遵守）與第 62 條（情勢之根本改變）的適用。",
+    "印度河水條約第 9 條（爭端解決）與第 12 條第 3、4 項（僅能合意修改或終止）。",
+    "裁決第 280 段「條約機制顯示已預見變化」的推論範圍，及與國際法院加布奇科沃－大毛羅斯案的關係。"
+   ],
+   "holding": "・作者同意情勢變更抗辯應被駁回，但質疑裁決第 280 段的理由。\n・作者主張限縮解讀第 280 段：其處理的是條約設計標準本就用以吸收的水壩技術變化。\n・作者以「鎖」（不得片面退出、條約必須遵守）與「槓桿」（第 62 條作為須受檢驗的主張）說明兩者關係。\n・作者區分兩個問題：機制能否處理履行上的變化，與當事國是否預見特定變化。\n・作者認為加布奇科沃案只支持限縮解讀，因該案條文針對特定變化。\n・作者警告，廣義解讀將波及能源憲章條約與國際水道公約，使第 62 條只剩無機制條約可用。",
+   "significance": "作者結論是，鎖應維持、槓桿應保留；第 280 段應限於機制原本設計處理的變化。作者並指出氣候變遷最可能成為未來的情勢變更抗辯，但未主張其應成立。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：本則依 Opinio Juris 原文撰寫，裁決段落編號係依作者引述，未核對裁決全文。",
+   "tags": [
+    "印度河水條約",
+    "情勢變更",
+    "維也納條約法公約",
+    "第62條",
+    "條約必須遵守",
+    "常設仲裁法院",
+    "印度",
+    "巴基斯坦"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/11/27/the-lock-and-the-lever-the-indus-waters-award-and-the-test-of-fundamental-change-of-circumstances/",
+     "official": false
+    }
+   ],
+   "related": [
+    "2026-10-09-oj-indus-waters-abeyance"
+   ],
+   "addedAt": "2026-11-28T22:59:56+08:00"
+  },
+  {
+   "id": "2026-11-27-oj-asp25-guide",
+   "court": "OTHER",
+   "kind": "學術評論",
+   "caseId": "icc-governance",
+   "date": "2026-11-27",
+   "eventDate": "",
+   "importance": 2,
+   "outlet": "Opinio Juris",
+   "outletCode": "OJ",
+   "author": "Ezequiel Jimenez Martinez（龐培法布拉大學法學院兼任教授、國際法研究與政策中心資深研究員）",
+   "title": "作者認為：國際刑事法院締約國大會第 25 屆會議將檢驗締約國是否願意捍衛法院，制裁、法官品格審查、預算與退約都需實質回應",
+   "shortTitle": "ICC 締約國大會第 25 屆會議導讀",
+   "point": "作者主張不應以與制裁國「對話」交換司法獨立，並應補足應急基金、改善品格審查",
+   "titleOriginal": "Governing Under Siege: A Guide to the 25th Session of the Assembly of States Parties to the Rome Statute",
+   "caseRef": "",
+   "tldr": "國際刑事法院締約國大會 11 月 30 日在海牙開會，面對美國制裁、檢察官遭罷免、多國退約與預算壓力。作者整理議程後認為，這次會議的關鍵是締約國是否真的願意保護法院，並提出補足應急基金、建立制裁救濟基金、改善法官品格審查與檢察官選舉程序等建議。",
+   "memo": "Ezequiel Jimenez Martinez 於 Opinio Juris 撰文指出，國際刑事法院締約國大會第 25 屆會議（2026 年 11 月 30 日起於海牙舉行）將檢驗締約國是否願捍衛法院；美國制裁議程僅占 90 分鐘，與制裁國「對話」恐以羅馬規約第 40、42 條之獨立性為代價。作者建議行政命令存續期間於美國境外開會、將應急基金補足至 1,000 萬歐元並設制裁救濟基金、修正品格審查設計，並以不排序之功績短名單辦理檢察官選舉。",
+   "context": "美國依第 14203 號行政命令制裁國際刑事法院人員，並於 2026 年 10 月 9 日將法院本身列入制裁，一般許可第 13 號於 2027 年 4 月 7 日到期。締約國大會於 2026 年罷免檢察官 Karim Khan，第四任檢察官選舉預定 2027 年 12 月。本站先前已收錄同一作者在 Opinio Juris 上主張締約國大會不能只「遺憾」制裁的評論。",
+   "facts": [
+    "第 25 屆會議因美國簽證限制改在海牙舉行，會期由 11 天縮短為 8 天。",
+    "據作者，制裁涵蓋 18 名法官中的 9 名；2026 年共有七國遞交退約通知（尼日、布吉納法索、馬利、委內瑞拉、查德、諾魯及塔吉克），匈牙利則於 5 月撤回退約。",
+    "據作者，2027 年預算提案為 1 億 9,520 萬歐元；六名法官的選舉有 14 名被提名人，其中 3 名已退出。"
+   ],
+   "issues": [
+    "羅馬規約第 40、42 條（法官與檢察官的獨立性）與締約國回應制裁的方式。",
+    "第 127 條第 2 項退約及其效果。",
+    "法官「崇高道德品格」審查（ICC-ASP/22-Res.3）與主席團檢察官選舉程序的設計。"
+   ],
+   "holding": "・作者認為，本屆會議檢驗的是締約國是否願意捍衛法院，而不只是如何捍衛。\n・制裁議題只排 90 分鐘，任何與制裁國的「對話」都可能以第 40、42 條的獨立性為交換。\n・建議在行政命令存續期間於美國境外開會。\n・審查設計缺陷可能使「崇高道德品格」變成可有可無。\n・主席團與大會主席需要專職且專業的領導。\n・建議將應急基金補足至 1,000 萬歐元、設立制裁救濟基金並避免刪減預算。\n・主張檢察官選舉採不排序、以功績為基礎的短名單。\n・退約潮是採取行動的窗口，普遍性意味著留住現有締約國。",
+   "significance": "作者結論是，本屆會議具決定性，締約國必須選擇保護法院。",
+   "editorNote": "本則為學術評論，內容代表作者個人見解，非法院或官方立場。\n本網頁助理 註：本則依 Opinio Juris 原文撰寫；制裁涵蓋法官人數、退約國家名單、法官選舉時程與預算數字均依作者所述，未逐一核對締約國大會文件。有關六名法官選舉的時程，本網頁助理所取得的摘要稱自 2027 年 3 月起，與本站議程所載第 25 屆會議將改選法官不一致，未能確認。",
+   "tags": [
+    "國際刑事法院",
+    "締約國大會",
+    "制裁",
+    "美國",
+    "司法獨立",
+    "預算",
+    "退出",
+    "法官選舉",
+    "檢察官選舉",
+    "塔吉克"
+   ],
+   "sources": [
+    {
+     "label": "Opinio Juris 原文",
+     "url": "https://opiniojuris.org/2026/11/27/governing-under-siege-a-guide-to-the-25th-session-of-the-assembly-of-states-parties-to-the-rome-statute/",
+     "official": false
+    }
+   ],
+   "related": [
+    "2026-11-16-oj-asp-regret-not-defence",
+    "2026-11-17-ejil-icc-prosecutor-election-process"
+   ],
+   "addedAt": "2026-11-28T22:59:56+08:00"
   }
  ],
  "agenda": [
@@ -10308,7 +10775,7 @@
    "title": "阿根廷訴英國：臨時措施裁定宣示",
    "note": "漢堡，2026 年 11 月 28 日（星期六）中午公開庭期，由庭長 Maurice Kamga 宣讀（ITLOS 第 405 號新聞稿）。",
    "url": "https://www.itlos.org/fileadmin/itlos/documents/press_releases_english/PR_405_en.pdf",
-   "relatedId": "2026-11-11-itlos-argentina-uk-order-date",
+   "relatedId": "2026-11-28-itlos-argentina-uk-pm-rejected",
    "caseId": "argentina-v-uk-sea-lion"
   },
   {
@@ -10428,7 +10895,7 @@
    "nameOriginal": "Case concerning hydrocarbon exploitation in the South-West Atlantic Ocean (Argentina v. United Kingdom)",
    "caseRef": "",
    "summary": "阿根廷依《聯合國海洋法公約》對英國提起程序，並請 ITLOS 在附件七仲裁庭組成前規定臨時措施，阻止英國支持的 Sea Lion 油田開發。",
-   "status": "ITLOS 已於 2026 年 11 月 10、11 日舉行臨時措施言詞辯論，庭長宣布將於 11 月 28 日宣示裁定。"
+   "status": "ITLOS 已於 2026 年 11 月 28 日以 18 票對 3 票駁回阿根廷的臨時措施聲請，案件待附件七仲裁庭組成。"
   },
   {
    "id": "nori-toml-v-isa",
