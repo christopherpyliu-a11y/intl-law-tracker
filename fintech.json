@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "meta": {
-  "lastRun": "2026-11-28T07:29:41+08:00",
-  "lastRunLocal": "2026-11-28 07:29",
+  "lastRun": "2026-11-28T23:29:46+08:00",
+  "lastRunLocal": "2026-11-28 23:29",
   "coverageFrom": "2026-10-01",
   "coverageNote": "收錄自 2026-10-01",
-  "lastRunNote": "新增 1 則：亞太與其他 1（法規發布 1）"
+  "lastRunNote": "新增 3 則：美國 3（司法案件 3）"
  },
  "items": [
   {
@@ -3072,7 +3072,8 @@
    "related": [
     "2026-10-27-fin-cftc-sues-utah-prediction-markets",
     "2026-10-29-fin-kalshi-sues-missouri",
-    "2026-11-24-fin-kalshi-pauses-utah"
+    "2026-11-24-fin-kalshi-pauses-utah",
+    "2026-11-27-fin-utah-drops-kalshi-criminal-charges"
    ],
    "sources": [
     {
@@ -7184,7 +7185,8 @@
     "2026-10-29-fin-kalshi-sues-missouri",
     "2026-11-05-fin-cftc-impartial-access-geofencing",
     "2026-11-11-fin-sdny-denies-novig-injunction-ny",
-    "2026-11-12-fin-louisiana-ag-sues-prediction-markets"
+    "2026-11-12-fin-louisiana-ag-sues-prediction-markets",
+    "2026-11-27-fin-robinhood-arbitration-denied-sports-contracts"
    ],
    "sources": [
     {
@@ -12123,7 +12125,8 @@
    "related": [
     "2026-10-27-fin-cftc-sues-utah-prediction-markets",
     "2026-10-28-fin-utah-criminal-charges-kalshi",
-    "2026-11-24-fin-dnm-tribes-kalshi-injunction"
+    "2026-11-24-fin-dnm-tribes-kalshi-injunction",
+    "2026-11-27-fin-utah-drops-kalshi-criminal-charges"
    ],
    "sources": [
     {
@@ -13396,6 +13399,192 @@
     }
    ],
    "addedAt": "2026-11-28T07:29:41+08:00"
+  },
+  {
+   "id": "2026-11-27-fin-utah-drops-kalshi-criminal-charges",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國猶他州",
+   "outlet": "Political.org",
+   "outletCode": "POL",
+   "date": "2026-11-27",
+   "eventDate": "",
+   "importance": 2,
+   "author": "",
+   "title": "猶他州檢察總長撤回對 Kalshi 及兩名共同創辦人之 14 項刑事指控，並保留 Kalshi 恢復營運時重新起訴之權利",
+   "shortTitle": "猶他州撤回對 Kalshi 刑事追訴",
+   "point": "14 項指控不附帶效力撤回，Kalshi 若重返猶他州將重新起訴，民事訴訟續行",
+   "titleOriginal": "Utah Drops Kalshi Charges After Exit, but Fight Over Who Regulates Prediction Markets Is Unresolved",
+   "caseRef": "",
+   "tldr": "Kalshi 宣布暫停猶他州業務後，猶他州檢察總長決定撤回對公司和兩位創辦人的刑事案，但說如果 Kalshi 再回來就會重新起訴；州政府對 Kalshi 的民事訴訟仍繼續進行。",
+   "memo": "依 American Banker 2026 年 11 月 25 日及 Political.org 2026 年 11 月 27 日報導，美國猶他州檢察總長 Derek Brown 於 Kalshi 以地理圍欄封鎖猶他州用戶、暫停該州營運後，聲請撤回其於 2026 年 10 月 28 日對 KalshiEX LLC 及共同創辦人 Tarek Mansour、Luana Lopes Lara 提起之 14 項刑事指控，撤回不具確定效力（without prejudice），州政府表示如 Kalshi 恢復於該州提供市場將重新起訴；猶他州對 Kalshi 之民事訴訟仍繼續進行。",
+   "context": "猶他州檢察總長於 2026 年 10 月 20 日對 Kalshi 提起民事訴訟，10 月 28 日再以州調查員以猶他州帳戶就運動賽事下單為事實基礎，對公司及兩名共同創辦人提起刑事追訴（見本站先前收錄）。\nKalshi 於 2026 年 2 月在聯邦法院起訴猶他州，主張《商品交易法》優先適用，聯邦地院 Robert Shelby 法官判決猶他州勝訴，第十巡迴上訴法院駁回 Kalshi 緊急救濟聲請。CFTC 另於 10 月 26 日起訴猶他州主張專屬管轄。\nKalshi 於 11 月 23 日宣布暫停猶他州營運，用戶僅得平倉及提領。",
+   "facts": [
+    "依 Political.org 報導，猶他州檢察總長辦公室於 11 月 23 日當週聲請撤回 14 項刑事指控，撤回不具確定效力。",
+    "被告包括 Kalshi 及共同創辦人 Tarek Mansour、Luana Lopes Lara。",
+    "依報導，Brown 表示 Kalshi 已退出猶他州，若重返將重新提出指控，並將監督其遵循情形。",
+    "依 Kalshi 說法，受影響之猶他州用戶逾 17.7 萬人。",
+    "依報導，猶他州為繼亞利桑那州之後第二個對 Kalshi 提出刑事指控之州；猶他州民事訴訟仍繼續。"
+   ],
+   "issues": [
+    "州政府以撤回刑事追訴換取業者退出州內市場，是否成為各州處理預測市場之模式？",
+    "CFTC 主張專屬管轄之訴訟與州刑事程序並行時，聯邦優先抗辯之實際效果為何？"
+   ],
+   "holding": "・猶他州檢察總長聲請撤回全部 14 項刑事指控，不具確定效力。\n・撤回理由為 Kalshi 已封鎖猶他州用戶並暫停營運；州政府保留重新起訴權利。\n・猶他州對 Kalshi 之民事訴訟及 CFTC 對猶他州之聯邦訴訟仍待進行。",
+   "significance": "刑事追訴撤回後，原定 12 月 4 日之創辦人初次到庭程序依報導不再進行；聯邦與州管轄之爭仍取決於 CFTC 對猶他州之合併訴訟、各巡迴法院分歧及最高法院是否受理紐澤西州之移審聲請。",
+   "editorNote": "本網頁助理 註：未找到猶他州檢察總長辦公室就撤回指控發布之官方新聞稿或法院撤回文件；聲請日期、法院是否已准許撤回，各報導未明確說明，故 eventDate 留空。內容依 Political.org 及 American Banker 報導整理。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "聯邦優先",
+    "Kalshi",
+    "猶他州",
+    "刑事追訴",
+    "美國"
+   ],
+   "related": [
+    "2026-10-28-fin-utah-criminal-charges-kalshi",
+    "2026-11-24-fin-kalshi-pauses-utah"
+   ],
+   "sources": [
+    {
+     "label": "Political.org 報導",
+     "url": "https://political.org/2026/11/27/utah-drops-kalshi-charges-after-exit-but-fight-over-who-regulates-prediction-markets-is-unresolved",
+     "official": false
+    },
+    {
+     "label": "American Banker 報導",
+     "url": "https://www.americanbanker.com/news/utah-ag-dropping-criminal-charges-against-kalshi-founders",
+     "official": false
+    },
+    {
+     "label": "CNBC 報導",
+     "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-28T23:29:46+08:00"
+  },
+  {
+   "id": "2026-11-27-fin-robinhood-arbitration-denied-sports-contracts",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國加州",
+   "outlet": "Gambling.com",
+   "outletCode": "GBC",
+   "date": "2026-11-27",
+   "eventDate": "2026-11-25",
+   "importance": 2,
+   "author": "",
+   "title": "加州北區聯邦地院駁回 Robinhood 將運動事件合約集體訴訟移付仲裁之聲請",
+   "shortTitle": "法院駁回 Robinhood 運動合約訴訟移付仲裁",
+   "point": "11 月 25 日裁定仲裁條款不及於運動事件合約，是否屬賭博由法院判斷",
+   "titleOriginal": "Judge Denies Robinhood Bid To Send Sports Contract Lawsuit To Arbitration",
+   "caseRef": "3:26-cv-03415（N.D. Cal.）",
+   "tldr": "一群 Robinhood 用戶告公司經營未經許可的運動博弈，Robinhood 想依開戶時的仲裁條款把案子移去仲裁，但聯邦法官認為仲裁條款不涵蓋這類運動合約，案子要留在法院審理。",
+   "memo": "依 Gambling.com 2026 年 11 月 27 日及 TokenPost 同年 11 月 26 日報導，美國加州北區聯邦地方法院 Edward M. Chen 法官於 2026 年 11 月 25 日駁回 Robinhood Markets 及 Robinhood Derivatives 就 11 名原告中 10 人聲請強制仲裁之請求。法院認為，系爭仲裁條款雖涵蓋 CFTC 監理契約之爭議，但不及於本案運動事件合約，該等合約是否屬賭博應由法院判斷，並援引第九巡迴上訴法院 KalshiEX v. Assad 案見解；本裁定未就實體及條款是否顯失公平表示意見，當事人應於兩週內提出進度報告。",
+   "context": "Robinhood 自 2025 年 3 月起向客戶提供於 Kalshi 上市之運動事件合約並收取佣金。多名客戶提起集體訴訟，主張其屬未經許可之運動博弈，依各州賭博法請求返還損失，並主張客戶被誤導以為係透過聯邦監理交易所投資。\n各巡迴法院就運動事件合約是否受 CFTC 專屬管轄見解分歧：第三巡迴法院支持 Kalshi，第六、第九巡迴法院支持州政府，紐澤西州之移審聲請尚待最高法院決定。",
+   "facts": [
+    "2026 年 11 月 25 日：Chen 法官作成裁定，依報導裁定書共 34 頁。",
+    "本案為四件客戶訴訟合併，Robinhood 就已同意仲裁條款之 10 名原告聲請強制仲裁；另一名密西根州原告未同意仲裁條款。",
+    "依報導，法院援引第九巡迴法院 2026 年 8 月 28 日 KalshiEX v. Assad 判決，認該見解強烈顯示系爭合約實質上屬運動博弈。",
+    "當事人須於兩週內協商並提出進度報告或協議，內容包括修正起訴狀及是否於最高法院處理紐澤西州聲請前停止訴訟。"
+   ],
+   "issues": [
+    "券商仲裁條款涵蓋「CFTC 監理契約」之爭議時，是否及於被主張屬賭博之運動事件合約？",
+    "仲裁範圍爭議應由法院或仲裁人決定？",
+    "州賭博法之返還請求能否對經紀商主張？"
+   ],
+   "holding": "・駁回 Robinhood 對 10 名原告之強制仲裁聲請。\n・理由：仲裁條款涵蓋 CFTC 監理契約爭議，但不及於系爭運動事件合約；當事人未約定由仲裁人決定仲裁範圍，故由法院判斷。\n・法院參酌第九巡迴法院 KalshiEX v. Assad 見解，惟明示本裁定非實體判斷，亦未決定條款是否顯失公平。",
+   "significance": "本裁定使預測市場經紀商難以藉由開戶仲裁條款避免集體訴訟，並顯示第九巡迴法院見解已影響私人求償訴訟。後續應注意當事人兩週內之進度報告、是否停止訴訟待最高法院決定，以及 Robinhood 是否上訴。",
+   "editorNote": "本網頁助理 註：未取得法院裁定原文；案號依 Gambling.com 報導，其餘內容依 Gambling.com 及 TokenPost 報導整理。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "運動合約",
+    "仲裁",
+    "集體訴訟",
+    "Robinhood",
+    "美國"
+   ],
+   "related": [
+    "2026-11-10-fin-missouri-prediction-market-suits-escalate",
+    "2026-11-28-fin-gemini-sdny-sports-contracts-class-action"
+   ],
+   "sources": [
+    {
+     "label": "Gambling.com 報導",
+     "url": "https://www.gambling.com/us/news/judge-denies-robinhood-bid-to-send-sports-contract-lawsuit-to-arbitration",
+     "official": false
+    },
+    {
+     "label": "TokenPost 報導",
+     "url": "https://www.tokenpost.com/news/regulation/62763",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-28T23:29:46+08:00"
+  },
+  {
+   "id": "2026-11-28-fin-gemini-sdny-sports-contracts-class-action",
+   "court": "US",
+   "kind": "司法案件",
+   "caseId": "us-prediction-markets-preemption",
+   "jurisdiction": "美國紐約州",
+   "outlet": "Altcoin Buzz",
+   "outletCode": "ACB",
+   "date": "2026-11-28",
+   "eventDate": "2026-11-25",
+   "importance": 1,
+   "author": "",
+   "title": "紐約州居民於紐約南區聯邦地院對 Gemini 及 Winklevoss 兄弟提起預測市場集體訴訟，主張其為未經許可之運動博弈",
+   "shortTitle": "Gemini 預測市場遭提集體訴訟",
+   "point": "11 月 25 日於紐約南區聯邦地院起訴，主張未取得州博弈執照，請求三倍賠償",
+   "titleOriginal": "Gemini Sued in New York as Its Predictions Top 329M Contracts",
+   "caseRef": "1:26-cv-10404（S.D.N.Y.）",
+   "tldr": "一名紐約州居民控告加密貨幣交易所 Gemini 和創辦人 Winklevoss 兄弟，說 Gemini 的預測市場其實是沒有執照的運動賭博，想代表全美用戶要求退還下注金額和賠償。",
+   "memo": "依 Altcoin Buzz 2026 年 11 月 28 日報導，紐約州居民 Rayath Chowdhury 於 2026 年 11 月 25 日向美國紐約南區聯邦地方法院（案號 1:26-cv-10404）對 Gemini Space Station Inc、Gemini Titan LLC 等 Gemini 相關實體及 Cameron、Tyler Winklevoss 提起集體訴訟，主張 Gemini 預測市場向全美 18 歲以上民眾提供運動事件合約，構成未經紐約州博彩委員會許可之運動博弈，請求返還賭注、回復原狀、禁制令及三倍損害賠償，並擬設紐約州、全國及 29 州與哥倫比亞特區子類別。上開內容均為原告主張。",
+   "context": "Gemini 於 2025 年 12 月推出預測市場。各州對預測市場運動合約之執法持續擴大，除州政府行動外，私人集體訴訟亦針對 Robinhood 等平台提出。\n依報導，紐約州檢察總長已於 2026 年 4 月對 Gemini Titan LLC 展開執法程序，康乃狄克州與俄亥俄州監理機關亦曾命 Gemini 停止提供運動合約。",
+   "facts": [
+    "2026 年 11 月 25 日起訴，起訴狀 57 頁，原告律師事務所為 Lieff Cabraser Heimann & Bernstein。",
+    "被告：Gemini Space Station Inc、Gemini Titan LLC、Gemini Olympus LLC、Winklevoss Capital Fund LLC、Cameron Winklevoss、Tyler Winklevoss。",
+    "依起訴狀主張，自上線至 2026 年 10 月 21 日交易合約逾 3.29 億口，且 Gemini 各實體從未取得紐約州博彩委員會執照。",
+    "請求：陪審審判、下注帳目、回復原狀、禁制令、三倍損害賠償、返還賭注及律師費。"
+   ],
+   "issues": [
+    "經 CFTC 監理之指定契約市場所提供運動事件合約，是否仍受州賭博法拘束而得由私人請求返還？",
+    "創辦人及關係實體得否以單一事業體為由負個人責任？"
+   ],
+   "holding": "・原告主張：Gemini 預測市場屬未經許可之運動博弈，違反紐約州及其他州賭博法。\n・原告另主張 Winklevoss 兄弟將各實體作為單一事業經營，收益經 Winklevoss Capital Fund 流向兩人。\n・本案尚在起訴階段，法院未作任何判斷。",
+   "significance": "預測市場運動合約之私人集體訴訟已由經紀商擴及交易所本身；後續應注意 Gemini 是否援引聯邦優先或仲裁條款抗辯，及加州北區聯邦地院駁回 Robinhood 移付仲裁之裁定是否影響本案。",
+   "editorNote": "本網頁助理 註：本則僅依 Altcoin Buzz 報導及其連結之起訴狀檔案整理，本網頁助理未逐頁核對起訴狀；所述事實均為原告主張，被告尚未答辯。",
+   "tags": [
+    "預測市場",
+    "事件合約",
+    "運動合約",
+    "集體訴訟",
+    "Gemini",
+    "紐約州",
+    "美國"
+   ],
+   "related": [
+    "2026-11-27-fin-robinhood-arbitration-denied-sports-contracts"
+   ],
+   "sources": [
+    {
+     "label": "起訴狀全文（CourtListener RECAP，PDF）",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.678207/gov.uscourts.nysd.678207.1.0.pdf",
+     "official": false
+    },
+    {
+     "label": "Altcoin Buzz 報導",
+     "url": "https://www.altcoinbuzz.io/gemini-sued-in-new-york-as-its-predictions-top-329m-contracts",
+     "official": false
+    }
+   ],
+   "addedAt": "2026-11-28T23:29:46+08:00"
   }
  ],
  "agenda": [
@@ -13890,16 +14079,6 @@
    "caseId": ""
   },
   {
-   "id": "2026-12-04-us-utah-kalshi-founders-arraignment",
-   "date": "2026-12-04",
-   "court": "US",
-   "title": "猶他州刑事案：Kalshi 共同創辦人初次到庭及傳訊",
-   "note": "猶他州第三司法區法院（鹽湖城），當地時間上午 8:30；依 Sports Betting Dime 報導",
-   "url": "https://www.sportsbettingdime.com/news/industry/utah-district-court-summons-kalshi-co-founders-to-appear-in-person-for-initial-arraignment/",
-   "relatedId": "2026-10-28-fin-utah-criminal-charges-kalshi",
-   "caseId": "us-prediction-markets-preemption"
-  },
-  {
    "id": "2026-12-11-cftc-kalshi-mention-markets-response",
    "date": "2026-12-11",
    "court": "CFTC",
@@ -14108,6 +14287,16 @@
    "url": "https://www.news.cn/politics/20261127/20f19f2654df44c790811bb46aed8019/c.html",
    "relatedId": "2026-11-27-fin-china-distributed-digital-identity-rules",
    "caseId": ""
+  },
+  {
+   "id": "2026-12-09-us-robinhood-sports-contracts-status-report",
+   "date": "2026-12-09",
+   "court": "US",
+   "title": "Robinhood 運動事件合約集體訴訟：當事人提出進度報告期限",
+   "note": "加州北區聯邦地院；依報導為 11 月 25 日裁定後兩週內，日期係本網頁助理推算，可能變動",
+   "url": "",
+   "relatedId": "2026-11-27-fin-robinhood-arbitration-denied-sports-contracts",
+   "caseId": "us-prediction-markets-preemption"
   }
  ],
  "cases": [
@@ -14252,7 +14441,7 @@
    "nameOriginal": "US prediction markets: federal preemption v. state gambling laws",
    "caseRef": "",
    "summary": "預測市場業者於 CFTC 監理之交易所提供運動等事件合約，多州以違反州賭博法採取行動，CFTC 主張其專屬管轄並對州政府提告。",
-   "status": "CFTC 11 月 23 日依報導通過事件合約資料申報最終規則；新墨西哥聯邦地院 11 月 23 日依 IGRA 命 Kalshi 封鎖四個原住民族領域之運動合約，Kalshi 同日宣布暫停猶他州交易；紐約州參議員同日提出 FUTURES Act，紐約州初步禁制令依報導預定 2027 年 1 月審理。"
+   "status": "猶他州檢察總長依報導於 Kalshi 暫停該州營運後撤回 14 項刑事指控（不具確定效力）；加州北區聯邦地院 11 月 25 日駁回 Robinhood 運動合約集體訴訟移付仲裁聲請，Gemini 同日於紐約南區聯邦地院遭提集體訴訟；紐約州初步禁制令依報導預定 2027 年 1 月審理。"
   },
   {
    "id": "kr-tokenised-securities",
